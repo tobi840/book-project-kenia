@@ -1,14 +1,21 @@
 # Wörtliche Bedeutung der lokalen Pflanzennamen
 
-Stand 18.09.2026. Diese Datei ist die **einzige Ausnahme** vom Nachrecherche-Verbot:
-Kapitel dürfen die wörtliche Bedeutung eines lokalen Namens nur von hier nehmen,
-nicht aus eigener Wortzerlegung und nicht aus dem Gedächtnis des schreibenden Modells.
+**Geschlossen am 18.09.2026. Diese Datei wird nicht fortgeführt** (E12).
 
-**Teilstand.** Der Lauf ist nach zwei von elf Sprachgruppen am Spend-Limit des
-Kontos abgebrochen. Fertig sind Kikuyu und Kamba. Offen sind Swahili, Maa,
-Samburu, Kalenjin und Nandi, Luo, Luhya und Bukusu, Luganda, Sukuma, Kipsigis
-sowie die wissenschaftlichen Namen. Was hier nicht steht, ist nicht widerlegt,
-sondern ungeprüft. Im Kapitel bleibt es ohne Bedeutungsangabe.
+Der Lauf ist nach zwei von elf Sprachgruppen am Spend-Limit des Kontos abgebrochen.
+Er wurde nicht neu gestartet: 31 Agenten für ein brauchbares Ergebnis aus sechzehn
+Namen rechtfertigen den Aufwand nicht. Fertig sind Kikuyu und Kamba. Nie geprüft
+wurden Swahili, Maa, Samburu, Kalenjin und Nandi, Luo, Luhya und Bukusu, Luganda,
+Sukuma, Kipsigis sowie die wissenschaftlichen Namen. Auch die Gegenprobe, die die
+beiden strittigen Fälle auflösen sollte, ist nie gelaufen.
+
+Was hier mit Status `belegt` steht, gilt weiter und darf ins Kapitel. Alles andere
+bleibt ungeprüft, nicht widerlegt, und kommt ohne Bedeutungsangabe ins Kapitel.
+Eine Bedeutung steht ab jetzt im Research-Doc der Art oder hier oder gar nicht.
+
+**Kein Modell leitet eine Bedeutung selbst ab.** Nicht aus dem Wortstamm, nicht aus
+einer Nachbarsprache, nicht aus einem Präfix. Das ist die Regel, die von dieser
+Recherche übrig bleibt, und sie gilt weiter, obwohl die Recherche eingestellt ist.
 
 ## Wie die Einträge entstanden sind
 

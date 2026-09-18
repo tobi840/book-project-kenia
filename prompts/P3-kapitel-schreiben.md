@@ -7,7 +7,7 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 - `styleguide/01-text-styleguide.md` (Text-Styleguide V2)
 - `styleguide/02-kapitel-template.md` (Kapitel-Template, HTML)
 - Das Research-Doc der Art. Es ist Gesetz.
-- `research/namen-bedeutungen.md`, soweit vorhanden. Es gehört zum Recherchekorpus und ist für Namensbedeutungen genauso verbindlich wie das Research-Doc der Art.
+- `research/namen-bedeutungen.md`. Geschlossener Vermerk, wird nicht fortgeführt. Enthält die wenigen Namensbedeutungen, die vor dem Abbruch der Recherche belegt wurden. Für diese Namen ist er verbindlich wie das Research-Doc.
 
 ## Vorgehen
 
@@ -19,7 +19,7 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 ## Harte Vorgaben
 
 - **Der gegebene Kontext ist Gesetz.** Jede Zahl, jedes Datum, jeder Name, jeder lokale Name, jede URL steht im Research-Doc. Nichts aus Modellwissen ergänzen, auch nicht, wenn du es sicher weißt.
-- **Nicht nachrecherchieren.** Keine Websuche, kein Abruf externer Quellen. Was fehlt, fehlt. Die einzige Ausnahme steht unter "Sonderfall Namensbedeutungen", und auch sie recherchierst nicht du.
+- **Nicht nachrecherchieren.** Keine Websuche, kein Abruf externer Quellen. Was fehlt, fehlt. Ohne Ausnahme. Es gibt keine gesammelte Nachrecherche mehr, auch nicht für Namensbedeutungen und nicht für die Fotografie.
 - **Zuspitzung ist Erfindung.** Aus einem Beispiel wird keine Liste, aus "primär" kein "nur", aus "in Kenia" kein "in Ostafrika", aus "häufig" kein Superlativ, aus einem Verhältnis zwischen Mengen keine Aussage über einzelne Stücke. Einschränkende Nebensätze des Research-Docs nimmst du mit, auch wenn der Satz davon schwerfällig wird. Wenn ein Satz stärker klingt als seine Quelle, ist er falsch. Das war im Pilot der häufigste Fehler, in 5 von 5 Kapiteln.
 - **Körpermaße kommen aus dem Research-Doc, nirgends sonst.** Die Docs führen Alltagsvergleiche als eigenen Punkt und schreiben hin, wenn sich keiner ableiten lässt. Liefert das Doc keinen, steht die Zahl ohne Vergleich. Ein erfundener Vergleich ist ein Faktenfehler, kein Stilmittel.
 - **Eine Erklärung ist eine Tatsachenbehauptung.** Erklär einen Fachbegriff nur mit dem, was das Research-Doc über ihn sagt. Reicht das nicht, benutz den Begriff nicht, sondern ein Alltagswort. Ein Kürzel auszuschreiben ist keine Erklärung und bleibt erlaubt, wenn die Langform im Doc steht.
@@ -45,13 +45,26 @@ In die Namenszeile kommen nur lokale Namen mit Sprachangabe, im Format `Sprache:
 - Die Sprachbezeichnung ist buchweit einheitlich: **Maa** für die Sprache, **Maasai** nur für Menschen. Also "Maa: „Oretiti"", nicht "Maasai: „Oretiti"".
 - Der lateinische Name steht kursiv im Kopf.
 
+### Im Fließtext höchstens drei Namen
+
+Die Namenszeile trägt die vollständige Liste. Der Fließtext wiederholt sie **nicht**.
+Im Pilot stand jeder Name zweimal im Kapitel, Kapitel 004 zählte vierzehn Namen auf.
+Vorgelesen ist das eine Litanei aus Wörtern, die niemand behält.
+
+Im Fließtext stehen deshalb höchstens **drei** lokale Namen, und nur solche, an denen
+etwas hängt: eine belegte Bedeutung, eine Zuordnungsfrage, ein Gebrauch, der später im
+Kapitel wieder vorkommt. Die Zahl der übrigen darf als Satz auftauchen ("Sieben Sprachen
+haben einen eigenen Namen für ihn"), die Aufzählung nicht.
+
+Fehlt für eine Sprache ein Name, ist das **kein Marker**. Die Liste hat keine Sollgröße.
+
 ## Zwei Sorten Marker
 
 Es gibt zwei Marker, und sie haben verschiedene Folgen. Verwechsle sie nicht.
 
 **`[[LÜCKE: was fehlt]]`** setzt du, wenn ein **Pflichtfeld** des Templates unbelegt bleibt. Das färbt die Ampel gelb und landet im Entscheidungsstapel. Pflichtfelder sind: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis sechs Links.
 
-**`[[OFFEN: was fehlt]]`** setzt du, wenn das Research-Doc die Information **selbst als nicht belegbar ausweist**. Die Docs haben dafür eigene Abschnitte. Das ist kein Mangel des Kapitels, sondern der Forschungsstand. Es färbt die Ampel nicht, wird aber in der QS aufgelistet und für die gesammelte Nachrecherche eingesammelt.
+**`[[OFFEN: was fehlt]]`** setzt du, wenn das Research-Doc die Information **selbst als nicht belegbar ausweist**. Die Docs haben dafür eigene Abschnitte. Das ist kein Mangel des Kapitels, sondern der Forschungsstand. Es färbt die Ampel nicht und wird in der QS aufgelistet. Eingesammelt wird es nicht mehr: es gibt keine Nachrecherche, die die Lücke später füllt.
 
 Im Zweifel `[[OFFEN]]`, wenn das Doc die Lücke selbst benennt, und `[[LÜCKE]]`, wenn sie nur dir auffällt.
 
@@ -70,16 +83,22 @@ Die Verweise setzt ein eigener Durchlauf, wenn alle Kapitel stehen. Er sieht all
 - Der Verweis braucht einen sachlichen Zusammenhang: derselbe Mechanismus, dasselbe Molekül, dieselbe Geschichte, derselbe Konflikt. Ein gemeinsamer Ort reicht nicht.
 - Seitenzahl als `(S. XX)`, im Satz aufgelöst.
 
-## Sonderfall Namensbedeutungen
+## Namensbedeutungen
 
-Die wörtliche Bedeutung lokaler Namen darf recherchiert werden. Das ist die einzige Ausnahme vom Nachrecherche-Verbot, und sie gilt nicht für dich: die Recherche läuft gesammelt über alle Kapitel und landet in `research/namen-bedeutungen.md`.
+Die wörtliche Bedeutung eines lokalen Namens schreibst du nur, wenn eine von zwei
+Quellen sie hergibt:
 
-Für dich heißt das:
+- das Research-Doc der Art, oder
+- `research/namen-bedeutungen.md` mit Status `belegt`.
 
-- Steht der Name mit Status `belegt` in `research/namen-bedeutungen.md`, darfst du die Bedeutung schreiben und nennst die Sprache dazu.
-- Steht er dort nicht oder mit Status `strittig`, `nicht-belegt` oder `widerlegt`, schreibst du keine Bedeutung. Dann `[[OFFEN: wörtliche Bedeutung nicht belegt]]`.
-- Aus dem Abschnitt "Morphologie ohne Belegkraft" darfst du nichts übernehmen. Dass ein Präfix eine Nominalklasse markiert, ist keine Bedeutung.
-- Du recherchierst selbst nichts nach, auch keine Namen.
+Sonst schreibst du keine. Kein Marker nötig, die Bedeutung ist kein Pflichtfeld.
+
+**Du leitest nie selbst ab.** Nicht aus dem Wortstamm, nicht aus einer Nachbarsprache,
+nicht aus einem Präfix. Dass "Mũ-" eine Nominalklasse markiert, ist keine Bedeutung.
+Das ist die eine Regel, die von der eingestellten Namensrecherche übrig bleibt, und sie
+gilt ohne Ausnahme.
+
+Recherchiert wird dafür nichts mehr, weder von dir noch gesammelt.
 
 ## Wenn das Research-Doc dünn ist
 
@@ -123,9 +142,19 @@ Entscheidungen Tobi vom 18.09.2026, Nummern wie im Entscheidungsstapel des Pilot
 - E1: zwei Markersorten, `[[LÜCKE]]` ampelrelevant, `[[OFFEN]]` nicht.
 - E2: Körpermaße nur aus dem Research-Doc.
 - E3: Fachbegriffserklärungen unterliegen dem Grundgesetz.
-- E5: Sonderfall Namensbedeutungen, gesammelte Nachrecherche.
+- E5: Namensbedeutungen nur aus Research-Doc oder belegtem Vermerk, nie selbst abgeleitet.
 - E6: `(S. XX)` buchweit, kein Marker für Seitenzahlen.
 - E7 und E8: Kopfzeile, Format `Sprache: „Name"`, Maa gegen Maasai, kein Englisch und Deutsch.
 - E9: alle lateinischen Artnamen kursiv.
 - Querverweise: beim Schreiben keine, stattdessen ein Durchlauf am Ende mit 20 bis 30 Verweisen auf 100 Kapitel (Entscheidung Tobi, 18.09.2026).
 - Dazu ohne Entscheidungsbedarf: Zuspitzungsregel und Tempusregel, beide aus gemessenen Pilotbefunden.
+
+Entscheidungen Tobi vom 18.09.2026, zweite Runde, nach dem Korrekturlauf:
+
+- E11: keine Fotografie-Nachrecherche. Fluchtdistanz, Blühzeitpunkt im Reisefenster und
+  Aufnahmetechnik bleiben offen, wenn das Research-Doc sie nicht hergibt.
+- E12: die gesammelte Namensrecherche ist eingestellt. Ein brauchbares Ergebnis aus
+  sechzehn Namen rechtfertigt den Aufwand nicht. Das Verbot der Eigenableitung bleibt.
+- E13: im Fließtext höchstens drei lokale Namen, die vollständige Liste nur in der
+  Namenszeile. Fehlende Namen sind kein Mangel.
+- E14: die Erreichbarkeit der Links ist nachrangig und kein Gate vor dem Satz.

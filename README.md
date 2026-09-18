@@ -46,11 +46,15 @@ Research-Doc, das eine Angabe ehrlich offenlässt, ist kein Mangel des Kapitels.
 Ein Pflichtfeld ohne Beleg schon. Eine Seitenzahl gehört in keinen Marker, dort
 steht `(S. XX)` bis zum Satz.
 
+`[[OFFEN]]` ist seit dem 18.09.2026 ein Endzustand. Es gibt keine Nachrecherche
+mehr, die diese Marker später auflöst. Sie halten fest, wo die Quellenlage endet.
+
 ### Nicht ampelrelevant
 
-Die Erreichbarkeit der Links. Sie wird einmal gesammelt für alle Kapitel geprüft,
-in einer Umgebung mit offenem Netz, vor dem Satz. Pro Kapitel wird nur geprüft,
-ob jede URL wörtlich im Research-Doc steht.
+Die Erreichbarkeit der Links. Nachrangig, kein Gate vor dem Satz (E14). Ein
+gesammelter Lauf kann sie irgendwann prüfen, muss aber nicht. Pro Kapitel wird nur
+geprüft, ob jede URL wörtlich im Research-Doc steht. Das fängt den Fehlertyp ab,
+den wir selbst verursachen.
 
 ## Querverweise
 
@@ -76,12 +80,27 @@ derselbe Konflikt). Ein gemeinsamer Ort reicht nicht.
 
 ## Nachrecherche
 
-Läuft nie automatisch. Sie braucht die aktive Freigabe von Tobi.
+Findet nicht statt. Weder für Namensbedeutungen noch für die Fotografie
+(E11, E12, 18.09.2026).
 
-Eine Ausnahme: die wörtliche Bedeutung lokaler Pflanzennamen. Sie wird gesammelt
-recherchiert und steht in `research/namen-bedeutungen.md`. Kapitel nehmen
-Bedeutungen nur von dort, nie aus eigener Wortzerlegung. Dort steht auch, was
-ungeprüft ist.
+Die Namensrecherche lief einmal und wurde eingestellt: ein brauchbares Ergebnis aus
+sechzehn Namen, bei 31 Agenten Aufwand. Was sie fand, steht als geschlossener Vermerk
+in `research/namen-bedeutungen.md` und gilt weiter. Neues kommt nicht dazu.
+
+Die eine Regel, die bleibt: **kein Modell leitet eine Namensbedeutung selbst ab**,
+nicht aus dem Wortstamm, nicht aus einer Nachbarsprache, nicht aus einem Präfix.
+Eine Bedeutung steht im Research-Doc oder im Vermerk oder gar nicht im Kapitel.
+
+## Lokale Namen im Kapitel
+
+Die Namenszeile trägt die vollständige Liste, der Fließtext höchstens drei Namen (E13).
+Aufgenommen wird, woran etwas hängt: eine belegte Bedeutung, eine Zuordnungsfrage, ein
+Gebrauch, der im Kapitel wiederkommt. Der Rest darf als Zahl auftauchen, nicht als
+Aufzählung.
+
+Im Pilot stand jeder Name zweimal im selben Kapitel, einmal in der Zeile und einmal
+ausgeschrieben im Text. Kapitel 004 zählte so vierzehn Namen auf. Vorgelesen ist das
+eine Litanei. Fehlt für eine Sprache ein Name, ist das kein Mangel und kein Marker.
 
 ## Verzeichnisse
 
@@ -104,11 +123,10 @@ Erreichbarkeitsprüfung in `check_links.py` meldet solche Links als
 Research-Doc?) läuft offline und fängt den Fehlertyp ab, den wir selbst
 verursachen: eine erfundene oder umgeschriebene Adresse.
 
-Ob die vom Deep Research gelieferten URLs live erreichbar sind, holt ein
-gesammelter Lauf vor dem Satz nach. Bis dahin steht in jeder QS-Ausgabe einmal
-„Erreichbarkeit: gesammelter Lauf steht aus", nicht einmal pro Link. Im Pilot
-stand derselbe Satz 25 mal in den Fundstellenlisten.
+Ob die vom Deep Research gelieferten URLs live erreichbar sind, bleibt damit offen.
+Das ist hingenommen (E14). In jeder QS-Ausgabe steht dazu einmal ein Satz, nicht
+einmal pro Link. Im Pilot stand derselbe Satz 25 mal in den Fundstellenlisten.
 
-Aus demselben Grund konnte die Namensrecherche keine Quelle im Original lesen.
-Beleg ist dort der Ausschnitt aus der Suchtrefferliste. Was das wert ist und was
-nicht, steht in `research/namen-bedeutungen.md`.
+Dieselbe Sperre hat die Namensrecherche daran gehindert, eine Quelle im Original zu
+lesen. Beleg war dort der Ausschnitt aus der Suchtrefferliste. Was das wert ist und
+was nicht, steht in `research/namen-bedeutungen.md`.

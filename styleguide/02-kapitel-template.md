@@ -6,7 +6,7 @@ Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgeste
 
 ## Blöcke
 
-**Kopf.** LEBENSRAUM in Versalien (z. B. RIFT VALLEY, LAIKIPIA, KÜSTE, TSAVO, AMBOSELI, NAIROBI), Trivialname (Deutsch), lateinischer Name kursiv, danach die belegten lokalen Namen im Format `Sprache: „Name"`, mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: **Maa** für die Sprache, **Maasai** nur für Menschen. Englische und deutsche Handelsnamen gehören nicht in die Namenszeile.
+**Kopf.** LEBENSRAUM in Versalien (z. B. RIFT VALLEY, LAIKIPIA, KÜSTE, TSAVO, AMBOSELI, NAIROBI), Trivialname (Deutsch), lateinischer Name kursiv, danach die belegten lokalen Namen im Format `Sprache: „Name"`, mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: **Maa** für die Sprache, **Maasai** nur für Menschen. Englische und deutsche Handelsnamen gehören nicht in die Namenszeile. Die Namenszeile trägt die vollständige Liste, der Fließtext höchstens drei Namen (E13).
 
 **1. Geschichte.** 900 bis 1.500 Wörter nach Text-Styleguide. Vier Bewegungen: These und Erscheinung, Herkunft und Name, Mechanismus, Menschen. Ende als Bild. **Kein Querverweis.** Den setzt ein eigener Durchlauf, wenn alle Kapitel stehen, 20 bis 30 auf 100 Kapitel. Siehe Text-Styleguide Abschnitt 9.
 
