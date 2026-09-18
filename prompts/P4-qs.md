@@ -27,6 +27,7 @@ Drei Fehlertypen sind im Pilot am häufigsten durchgerutscht. Prüfe sie gezielt
 - **Zuspitzung.** Der Text ist stärker als seine Quelle. "Primär in der Rinde" wurde zu "nicht im Holz, nicht in den Blättern". Ein Tonnageverhältnis wurde zu "auf jeden Baum kamen fünfzehn". Eine Aufzählung mit "darunter" wurde zu einer abgeschlossenen Liste. Ein einschränkender Nebensatz fiel weg. Das ist `VERZERRT`, bei abgeschlossenen Listen `FALSCH`. 14 der 19 Faktenbefunde des Piloten waren von dieser Art.
 - **Körpermaße und Alltagsvergleiche.** Jeder Vergleich ("kleiner als eine Fingerkuppe", "erbsengroß", "eine Armlänge") muss im Research-Doc stehen. Steht er nicht dort, ist er `UNBELEGT`, auch wenn er stimmt. Die Docs führen Alltagsvergleiche als eigenen Punkt und sagen hin, wenn keiner ableitbar ist. Im Pilot liefen drei erfundene Vergleiche durch Erst- und Nachprüfung.
 - **Erklärungen von Fachbegriffen.** Jede Umschreibung ist eine Tatsachenbehauptung und wird wie eine Zahl gegen das Doc geprüft. Ein Kürzel auszuschreiben ist keine Erklärung. "AFLP vergleicht die Länge vervielfältigter Bruchstücke des Erbguts" ist eine, und sie stand in keinem Doc.
+- **Wörtliche Bedeutungen lokaler Namen.** Eine Bedeutung ist nur zulässig, wenn sie im Research-Doc steht oder in `research/namen-bedeutungen.md` mit Status `belegt`. Sonst `UNBELEGT`, auch wenn sie plausibel klingt. Aus Wortstamm, Nachbarsprache oder Präfix abgeleitete Bedeutungen sind immer `UNBELEGT`. Dass ein Präfix eine Nominalklasse markiert, ist keine Bedeutung. Die Datei ist seit dem 18.09.2026 geschlossen und wird nicht mehr erweitert (E12).
 
 ## Prüfung 2: Stil
 
@@ -53,6 +54,7 @@ Zischlaut-Häufungen meldest du nur, wenn der Satz beim lauten Lesen wirklich st
 
 - Alle fünf Blöcke vorhanden (Kopf, Geschichte, Menschen und Kultur, Vor der Linse, Weiterlesen und Sehen)
 - Kopfzeile: nur lokale Namen im Format `Sprache: „Name"`. Kein Englisch, kein Deutsch. Sprachbezeichnung **Maa**, nicht Maasai.
+- **Lokale Namen im Fließtext: höchstens drei** (E13). Die vollständige Liste gehört in die Namenszeile, der Fließtext wiederholt sie nicht. Mehr als drei ist eine Fundstelle. Aufgenommen gehören nur Namen, an denen etwas hängt: eine belegte Bedeutung, eine Zuordnungsfrage oder ein Gebrauch, der im Kapitel wiederkommt. Dass für eine Sprache kein Name vorliegt, ist **keine Fundstelle und kein Marker**. Die Liste hat keine Sollgröße.
 - Wiederholt "Menschen und Kultur" den Block 1, statt ihn zu ergänzen?
 - Nennt "Vor der Linse" konkreten Ort, Tageszeit und eine Brennweite aus unserem Set?
 - 3 bis 6 Links, jeder mit einem Satz Kontext
@@ -60,7 +62,7 @@ Zischlaut-Häufungen meldest du nur, wenn der Satz beim lauten Lesen wirklich st
 - **Kein `<p class="querverweis">` im Kapitel.** Querverweise setzt ein eigener Durchlauf, wenn alle Kapitel stehen. Ein Querverweis im Entwurf ist eine Fundstelle.
 - **Marker getrennt auflisten**, das ist ampelrelevant:
   - `[[LÜCKE: …]]`, Pflichtfeld unbelegt. Jede einzeln, mit Zitat der Umgebung. Färbt gelb.
-  - `[[OFFEN: …]]`, vom Research-Doc selbst als nicht belegbar ausgewiesen. Jede einzeln. Färbt nicht, wird für die gesammelte Nachrecherche eingesammelt.
+  - `[[OFFEN: …]]`, vom Research-Doc selbst als nicht belegbar ausgewiesen. Jede einzeln. Färbt nicht. Eingesammelt wird nichts mehr: es gibt keine Nachrecherche, die die Lücke später füllt (E11, E12). `[[OFFEN]]` ist ein Endzustand.
   - Prüfe die Zuordnung. Ein `[[OFFEN]]` an einem Pflichtfeld ist falsch einsortiert und gehört als Fundstelle gemeldet.
   - Eine Seitenzahl gehört in keinen Marker. Dort steht `(S. XX)`.
 
@@ -84,7 +86,7 @@ python3 scripts/check_links.py chapters/{nr}-{slug}.html --research research/{nr
 
 Prüft offline, ob jede URL wörtlich im Research-Spiegel steht. Das ist der Teil, der hier zählt, weil er den Fehler findet, den wir selbst verursachen: eine erfundene oder umgeschriebene Adresse.
 
-**Die Erreichbarkeit der Links prüfst du nicht.** Der Egress-Proxy dieser Umgebung sperrt alle allgemeinen Webhosts. Ein gesammelter Linkcheck läuft einmal für alle Kapitel in einer Umgebung mit offenem Netz, vor dem Satz. Schreib "Erreichbarkeit: gesammelter Lauf steht aus" einmal in die Kopfzeile deiner Ausgabe und nicht noch einmal pro Link. Im Pilot stand derselbe Hinweis 25 mal in den Fundstellenlisten und danach noch einmal in jeder Nachprüfung.
+**Die Erreichbarkeit der Links prüfst du nicht.** Der Egress-Proxy dieser Umgebung sperrt alle allgemeinen Webhosts. Sie ist nachrangig und kein Gate vor dem Satz (E14). Schreib "Erreichbarkeit: gesammelter Lauf steht aus" einmal in die Kopfzeile deiner Ausgabe und nicht noch einmal pro Link. Im Pilot stand derselbe Hinweis 25 mal in den Fundstellenlisten und danach noch einmal in jeder Nachprüfung.
 
 ## Ausgabe
 
@@ -131,3 +133,9 @@ Entscheidungen Tobi vom 18.09.2026, Nummern wie im Entscheidungsstapel des Pilot
 - Querverweise: im Kapitel unerwünscht, eigener Durchlauf am Ende (Entscheidung Tobi).
 - Zuspitzung als benannter Fehlertyp in Prüfung 1, aus dem häufigsten Pilotbefund.
 - Nachprüfung mit voller Tiefe, aber kurzer Form.
+
+Entscheidungen Tobi vom 18.09.2026, zweite Runde:
+
+- E11 und E12: keine Nachrecherche mehr, weder Fotografie noch Namensbedeutungen. `[[OFFEN]]` ist ein Endzustand.
+- E13: höchstens drei lokale Namen im Fließtext, fehlende Namen sind kein Mangel.
+- E14: Erreichbarkeit der Links nachrangig.
