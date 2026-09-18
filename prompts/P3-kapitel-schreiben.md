@@ -39,7 +39,7 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 - Keine Gedankenstriche, weder "–" noch "—". Punkt, Komma, Doppelpunkt, Klammer.
 - Das Ende kehrt zum Anfangsbild zurück. Kein Fazit, keine Moral, kein Allgemeinplatz.
 - Höchstens zwei Humor-Einwürfe, höchstens zwei rhetorische Fragen und die nur als Rätsel-Setup.
-- **Jeder lateinische Artname steht kursiv**, auch der von Nebenarten, Wirtspflanzen, Erregern, Bestäubern und Synonymen. Die Regel "höchstens einmal im Fließtext" gilt nur für die Art des Kapitels.
+- **Jeder lateinische Name steht kursiv, Gattung wie Art**, auch der von Nebenarten, Wirtspflanzen, Erregern, Bestäubern und Synonymen, und auch der allein stehende Gattungsname. Kein Ermessen. Nicht kursiv sind Handels- und Drogennamen, auch wenn sie wie ein Taxon aussehen. Die Regel "höchstens einmal im Fließtext" gilt nur für die Art des Kapitels.
 - **Tempus:** Wissenschaftsgeschichte im Präteritum, auch bei Inversion am Satzanfang. Nicht "Aufgedeckt hat das X", sondern "Das deckte X auf".
 - "Menschen und Kultur" ergänzt Block 1, wiederholt ihn nicht.
 - "Vor der Linse" nennt einen konkreten Ort auf unserer Route, eine Tageszeit und eine Brennweite aus unserem Set (100 bis 400, 150 bis 600, 45 mm, 26 bis 60).
@@ -152,7 +152,7 @@ Was kein Skript findet, findest du nur, indem du deinen eigenen Text noch einmal
 ## Was gegenüber Drive geändert ist
 
 - Ausgabeformat HTML statt Markdown, Frontmatter als HTML-Kommentar (Entscheidung Tobi).
-- Längenzonen präzisiert: Norm 900 bis 1.500, gelb 1.500 bis 1.800, rot über 1.800, weiche Untergrenze 700, harte Untergrenze 600 (Entscheidung Tobi).
+- Längenzonen präzisiert und später gesenkt: Norm 800 bis 1.300, gelb bis 1.600, rot darüber, weiche Untergrenze 650, harte Untergrenze 550 (Entscheidung Tobi, zuletzt E18).
 - Explizites Verbot der Nachrecherche, mit dem Freigabeweg über Tobi (Entscheidung Tobi).
 - Selbstprüfung gegen `scripts/regel_check.py` ergänzt, damit deterministisch Prüfbares nicht in der QS landet.
 - Die Drive-Regel "höchstens drei bis fünf Kapitel pro Chat, dann neuer Chat, sonst driftet der Stil" ist hier strukturell gelöst: jedes Kapitel bekommt einen eigenen Agenten mit eigenem Kontext.
@@ -161,13 +161,13 @@ Was kein Skript findet, findest du nur, indem du deinen eigenen Text noch einmal
 
 Entscheidungen Tobi vom 18.09.2026, Nummern wie im Entscheidungsstapel des Pilotberichts.
 
-- E1: zwei Markersorten, `[[LÜCKE]]` ampelrelevant, `[[OFFEN]]` nicht.
+- E1: `[[LÜCKE]]` ist ampelrelevant. Die zweite Markersorte ist seit E15 weg.
 - E2: Körpermaße nur aus dem Research-Doc.
 - E3: Fachbegriffserklärungen unterliegen dem Grundgesetz.
 - E5: Namensbedeutungen nur aus Research-Doc oder belegtem Vermerk, nie selbst abgeleitet.
 - E6: `(S. XX)` buchweit, kein Marker für Seitenzahlen.
 - E7 und E8: Kopfzeile, Format `Sprache: „Name"`, Maa gegen Maasai, kein Englisch und Deutsch.
-- E9: alle lateinischen Artnamen kursiv.
+- E9: alle lateinischen Namen kursiv, Gattung wie Art.
 - Querverweise: beim Schreiben keine, stattdessen ein Durchlauf am Ende mit 20 bis 30 Verweisen auf 100 Kapitel (Entscheidung Tobi, 18.09.2026).
 - Dazu ohne Entscheidungsbedarf: Zuspitzungsregel und Tempusregel, beide aus gemessenen Pilotbefunden.
 

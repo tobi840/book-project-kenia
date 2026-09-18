@@ -97,7 +97,7 @@ Die Absenkung ist keine Sparmaßnahme am Buch, sondern am Fehler. Jeder zusätzl
 - Jede Zahl, jedes Datum, jeder Name muss im Research-Doc stehen
 - Status jeder Aussage markieren: gesichert, vermutet ("vermutlich", "Forscher nehmen an"), beobachtet ("Einheimische berichten"), überliefert ("die Maasai erzählen")
 - Keine erfundenen Zitate, keine erfundenen Anekdoten, keine erfundenen lokalen Namen
-- Lücken bleiben offen und werden nie gefüllt. Zwei Sorten: [[LÜCKE]] für ein unbelegtes Pflichtfeld, ampelrelevant. [[OFFEN]] für das, was das Research-Doc selbst als nicht belegbar ausweist, nicht ampelrelevant
+- Lücken bleiben offen und werden nie gefüllt. Es gibt nur noch eine Sorte: [[LÜCKE]] für ein unbelegtes Pflichtfeld, ampelrelevant. [[OFFEN]] ist seit E15 abgeschafft
 - Zuspitzung ist Erfindung. Wenn ein Satz stärker klingt als seine Quelle, ist er falsch
 - **Vorbehaltswörter wandern mit** (E17). Steht im Quellsatz "darunter", "vor allem", "primär", "typischerweise", "meist", "verschiedene" oder "unter anderem", steht im Kapitelsatz auch eins. Das ist die positive Fassung der Zuspitzungsregel: nicht "spitze nicht zu", sondern "nimm das Vorbehaltswort mit". Ein Verbot kann man nicht befolgen, wenn man nicht weiß, welcher Satz zugespitzt ist. Eine Übernahme schon
 - Keine Nachrecherche, keine Ausnahme. Auch nicht für Namensbedeutungen, auch nicht für die Fotografie (E11, E12)
