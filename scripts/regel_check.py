@@ -2,7 +2,7 @@
 """Deterministischer Regel-Check fuer ein Kapitel des Kenia-Vorlesebuchs.
 
 Prueft alles, was sich zaehlen oder mit einer Wortliste erschlagen laesst:
-Struktur, Laengen, Absaetze, Saetze, verbotene Zeichen und Woerter, Links,
+Struktur, Laengen, Absaetze, Saetze, verbotene Zeichen und Woerter,
 Lueckenmarker. Alles andere ist Sache der QS.
 
     python3 scripts/regel_check.py chapters/001-wuergefeige.html
@@ -37,7 +37,6 @@ ABSAETZE_MIN, ABSAETZE_MAX = 5, 9
 
 MUK_MIN, MUK_MAX = 150, 250   # Menschen und Kultur
 LINSE_MIN, LINSE_MAX = 100, 200
-LINKS_MIN, LINKS_MAX = 3, 4
 
 HALBGEVIERT = chr(0x2013)
 GEVIERT = chr(0x2014)
@@ -67,7 +66,7 @@ werden wurden haben hatten sind waren wird kann koennen muss muessen
 """.split())
 
 BRENNWEITEN = ["100 bis 400", "150 bis 600", "45 mm", "26 bis 60"]
-PFLICHT_SEKTIONEN = ["geschichte", "menschen-kultur", "vor-der-linse", "weiterlesen"]
+PFLICHT_SEKTIONEN = ["geschichte", "menschen-kultur", "vor-der-linse"]
 
 ABKUERZUNGEN = [
     "z. B.", "z.B.", "u. a.", "u.a.", "ca.", "bzw.", "Nr.", "S.",
@@ -427,22 +426,12 @@ def pruefe(pfad, research_duenn=False):
             fund("gelb", "linse", "Keine Brennweite aus unserem Set genannt (" + ", ".join(BRENNWEITEN) + ")")
 
     # --- Weiterlesen -----------------------------------------------------
-    wl = sektionen.get("weiterlesen")
-    if wl is not None:
-        items = wl.find_all("li")
-        mass["links"] = len(items)
-        if not (LINKS_MIN <= len(items) <= LINKS_MAX):
-            fund("rot" if len(items) < LINKS_MIN else "gelb", "links",
-                 str(len(items)) + " Links, vorgesehen sind " + str(LINKS_MIN) + " bis " + str(LINKS_MAX))
-        for li in items:
-            a = li.find("a")
-            t = " ".join(li.text().split())
-            if a is None or not (a.attrs.get("href") or "").startswith("http"):
-                fund("rot", "links", "Listeneintrag ohne vollstaendige URL", t[:100])
-                continue
-            rest = t.split(MITTELPUNKT, 1)
-            if len(rest) < 2 or wortzahl(rest[1]) < 3:
-                fund("gelb", "links", "Link ohne Satz Kontext nach dem Mittelpunkt", t[:100])
+    # Seit E21 gibt es den Block nicht mehr. Tobi googelt im Zweifel selbst,
+    # Vogelrufe laufen ueber eBird und Merlin. Die Quellen bleiben im
+    # Research-Doc, sie stehen nur nicht mehr im Buch.
+    if sektionen.get("weiterlesen") is not None:
+        fund("gelb", "weiterlesen",
+             "Block \"Weiterlesen und Sehen\" ist seit E21 abgeschafft, bitte streichen")
 
     # --- Marker ----------------------------------------------------------
     # Zwei Sorten mit verschiedenen Folgen (Entscheidung E1 vom 18.09.2026):

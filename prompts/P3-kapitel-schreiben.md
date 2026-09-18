@@ -43,7 +43,6 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 - **Tempus:** Wissenschaftsgeschichte im Präteritum, auch bei Inversion am Satzanfang. Nicht "Aufgedeckt hat das X", sondern "Das deckte X auf".
 - "Menschen und Kultur" ergänzt Block 1, wiederholt ihn nicht.
 - "Vor der Linse" nennt einen konkreten Ort auf unserer Route, eine Tageszeit und eine Brennweite aus unserem Set (100 bis 400, 150 bis 600, 45 mm, 26 bis 60).
-- "Weiterlesen und Sehen": **3 bis 4 Links**, jeder mit einem Satz Kontext. Nur URLs, die vollständig im Research-Doc stehen, wörtlich kopiert. Keine konstruierten oder zusammengesetzten Adressen. Vier statt sechs, weil jede zusätzliche URL eine zusätzliche Gelegenheit ist, eine zu erfinden, und das ist der häufigste Einzelfehler in dieser Kette (E19).
 
 ## Die Kopfzeile
 
@@ -68,7 +67,7 @@ Fehlt für eine Sprache ein Name, ist das **kein Marker**. Die Liste hat keine S
 
 ## Nur noch ein Marker
 
-**`[[LÜCKE: was fehlt]]`** setzt du, wenn ein **Pflichtfeld** des Templates unbelegt bleibt. Das färbt die Ampel gelb und landet im Entscheidungsstapel. Pflichtfelder sind: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis vier Links.
+**`[[LÜCKE: was fehlt]]`** setzt du, wenn ein **Pflichtfeld** des Templates unbelegt bleibt. Das färbt die Ampel gelb und landet im Entscheidungsstapel. Pflichtfelder sind: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee.
 
 **`[[OFFEN]]` gibt es nicht mehr (E15).** Was das Research-Doc als nicht belegbar ausweist, steht im Kapitel gar nicht, auch nicht als Marker. Kein Satz, keine Klammer, keine Notiz.
 
@@ -142,7 +141,7 @@ python3 scripts/research_check.py chapters/{nr}-{slug}.html --research research/
 
 Behebe, was sie melden. Höchstens zwei Runden. Bleibt danach etwas offen, melde es, statt es zu verstecken.
 
-`regel_check.py` zählt: Längen, Absätze, Sätze, verbotene Zeichen und Wörter, Links, Marker, Dreierketten.
+`regel_check.py` zählt: Längen, Absätze, Sätze, verbotene Zeichen und Wörter, Marker, Dreierketten.
 
 `research_check.py` liest gegen das Research-Doc: Zahlen, die dort nicht stehen, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), und Aufzählungen, deren Quellsatz ein Vorbehaltswort trägt und dein Satz nicht. Seine Befunde sind Verdachtsfälle, keine Urteile. Prüf jeden einzeln nach, bevor du änderst.
 
@@ -180,7 +179,6 @@ Entscheidungen Tobi vom 18.09.2026, zweite Runde, nach dem Korrekturlauf:
   sechzehn Namen rechtfertigt den Aufwand nicht. Das Verbot der Eigenableitung bleibt.
 - E13: im Fließtext höchstens drei lokale Namen, die vollständige Liste nur in der
   Namenszeile. Fehlende Namen sind kein Mangel.
-- E14: die Erreichbarkeit der Links ist nachrangig und kein Gate vor dem Satz.
 
 Entscheidungen Tobi vom 18.09.2026, dritte Runde, nach dem Prozessdurchgang:
 
@@ -190,5 +188,14 @@ Entscheidungen Tobi vom 18.09.2026, dritte Runde, nach dem Prozessdurchgang:
   bekommt ein Körpermaß" ist gestrichen, sie hat die Fehler erzeugt.
 - E17: Vorbehaltswörter wandern mit. Positive Fassung der Zuspitzungsregel.
 - E18: Längenzonen gesenkt, Norm 800 bis 1.300 Wörter.
-- E19: 3 bis 4 Links statt 3 bis 6.
+- E19: 3 bis 4 Links statt 3 bis 6. Seit E21 gegenstandslos.
 - E20: die QS liefert Patches statt Prosa, das Korrekturmodell entfällt. Siehe P4.
+
+- E21: Der Block "Weiterlesen und Sehen" entfällt ganz. Du schreibst keine Links
+  mehr, weder Adresse noch Kontextsatz. Damit fällt die Fehlerklasse weg, die im
+  Pilot am häufigsten auftrat.
+- E22: Höchstens zwei QS-Runden je Kapitel, angestrebt ist eine. Was die zweite
+  Runde nicht findet, bleibt im Buch. Schreib entsprechend vorsichtig: ein Satz,
+  den du nicht aus dem Doc belegen kannst, wird nicht mehr von einer dritten
+  Runde eingefangen.
+- E23: QS-Dokumente sind Arbeitsmaterial für ein Skript, nicht für Tobi.

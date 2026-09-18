@@ -77,7 +77,8 @@ Bei der Flötenakazie wäre die richtige Lösung: zurück zum Pfeifton aus dem e
 - Keine Gedankenstriche. Punkt, Komma, Doppelpunkt, Klammer
 - Fachbegriffe nur, wenn das Research-Doc die Erklärung hergibt. Eine Erklärung ist eine Tatsachenbehauptung, kein Stilmittel. Gibt das Doc keine her, nimm ein Alltagswort
 - Zahlen mit Einheit, gerundet wie die Quelle. Ein Körpermaß daneben nur, wenn das Research-Doc es liefert. Erfundene Alltagsvergleiche sind Faktenfehler
-- Jeder lateinische Artname kursiv, auch Nebenarten, Wirtspflanzen, Erreger, Bestäuber und Synonyme. Die Regel "höchstens einmal im Text" gilt nur für die Art des Kapitels
+- **Jeder lateinische Name kursiv, Gattung wie Art.** Auch der allein stehende Gattungsname (<em>Prunus</em>, <em>Tithonia</em>, <em>Ficus</em>), auch Nebenarten, Wirtspflanzen, Erreger, Bestäuber und Synonyme. Kein Ermessen, keine Ausnahme: was ein lateinischer Taxonname ist, steht kursiv. Die Regel "höchstens einmal im Text" gilt nur für die Art des Kapitels
+- Nicht kursiv sind Handels- und Drogennamen, auch wenn sie wie ein Taxon aussehen: Rindenextrakte laufen als Pygeum, nicht als <em>Pygeum</em>. Prüfmerkmal: steht das Wort für die Ware oder für die Pflanze?
 - Lokale Namen in der Kopfzeile im Format Sprache: „Name", mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: Maa für die Sprache, Maasai nur für Menschen. Handelsnamen auf Englisch oder Deutsch gehören nicht in die Namenszeile
 - Keine Ausrufezeichen außer in Zitaten und den zwei erlaubten Humor-Einwürfen
 - Rhetorische Fragen nur als Rätsel-Setup, nie als Leseransprache

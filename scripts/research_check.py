@@ -262,10 +262,15 @@ def pruefe(kapitel_pfad, research_pfad):
                 kern = treffer.lower()
                 if kern in doc_low:
                     continue
-                # Auch das Bezugswort pruefen: "so gross wie eine Faust"
-                nach = satz[m.end():m.end() + 40]
-                bezug = re.findall(r"[A-Za-zÄÖÜäöüß]{5,}", nach)
-                if bezug and bezug[0].lower() in doc_low and kern.startswith("so "):
+                # Auch das Bezugswort pruefen: "so gross wie eine Faust".
+                # Das Doc formuliert den Vergleich oft anders und flektiert
+                # anders ("entspricht der Hoehe eines einstoeckigen Gebaeudes"
+                # gegen "so hoch wie ein einstoeckiges Gebaeude"). Deshalb
+                # nicht auf das ganze Wort pruefen, sondern auf den Stamm,
+                # und nicht nur auf das erste Wort nach dem Vergleich.
+                nach = satz[m.end():m.end() + 60]
+                bezug = re.findall(r"[A-Za-zÄÖÜäöüß]{5,}", nach)[:3]
+                if any(w.lower()[:6] in doc_low for w in bezug):
                     continue
                 fund("vergleich",
                      'Alltagsvergleich "' + treffer + '" steht nicht im Research-Doc (E2)',

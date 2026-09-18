@@ -186,3 +186,88 @@ Qualitätsverlust wird. Die Rechnung geht damit rechnerisch auf, aber ohne
 Spielraum für eine zweite Runde.
 
 Dazu kommt: das Wochenlimit des Accounts läuft erst am 21.09. um 4 Uhr UTC zurück.
+
+---
+
+# Nachtrag 18.09.2026: E21 bis E23
+
+Entscheidungen von Tobi nach der Auswertung von Runde 3.
+
+## Was Runde 3 gemessen hat
+
+Die Kette konvergiert **nicht**. Runde 1 fand 19 Fundstellen, Runde 2 elf,
+Runde 3 noch zwölf Patches über fünf Kapitel, darunter zwei Befunde, die zwei
+vollständige Runden überlebt hatten:
+
+| Kapitel | Befund | Art |
+|---|---|---|
+| 003 | "sieben Sprachen, zusammen zehn Wörter", tatsächlich acht und elf | `FALSCH` |
+| 005 | "dünner als eine Bleistiftmine", steht nirgends im Doc | `UNBELEGT` |
+
+Beide sind vom Typ "niemand hat nachgezählt". Sie sind der Preis von E22.
+
+## E21: der Link-Block entfällt
+
+Der Block "Weiterlesen und Sehen" ist gestrichen. Begründung Tobi: im Zweifel
+googelt er selbst, Vogelrufe laufen über eBird und Merlin.
+
+Was damit wegfällt:
+
+- ein Block je Kapitel, rund 80 Wörter, über 100 Kapitel also 8.000 Wörter
+- `check_links.py` als Prüfschritt
+- der Erreichbarkeitslauf, der seit E10 offen stand und nie lief
+- die Ampelzeile "Erreichbarkeit: gesammelter Lauf steht aus" in jedem QS-Dokument
+- die erfundene URL als häufigste Einzelfehlerquelle der Kette
+
+Was bleibt: die Quellen selbst. Sie stehen weiter in den Research-Docs im Repo.
+Aus dem Buch verschwindet die Nachprüfbarkeit, aus dem Projekt nicht.
+
+## E22: höchstens zwei QS-Runden, angestrebt eine
+
+Bewusster Tausch von Genauigkeit gegen Tempo, 95 Kapitel in fünf Tagen.
+Gemessene Kosten: Runde 3 hätte pro Kapitel etwa 194k Token gekostet und
+findet nach der Messung oben je Kapitel im Schnitt zwei Fundstellen, davon
+etwa alle fünf Kapitel eine, die wirklich falsch ist.
+
+Die Entscheidung heißt also in Zahlen: auf 100 Kapitel bleiben rund zwanzig
+Fundstellen im Buch stehen, davon etwa zwanzig Prozent echte Fehler. Dafür
+sinkt der Restaufwand um rund 18M Token.
+
+## E23: das QS-Dokument schrumpft auf Patches plus fünf Zeilen
+
+Ziel ist, dass Tobi möglichst nichts davon lesen muss. Das QS-Dokument ist
+Arbeitsmaterial für `patch_anwenden.py`.
+
+Gestrichen: Ampelzeile, Wiedergabe der Skriptausgaben, "alles Übrige geprüft",
+Bericht über Prüfung 2 ohne Befund, Fundstellenliste neben dem Patch-Block.
+Geblieben: der Patch-Block und ein Abschnitt `## Für Tobi` mit höchstens fünf
+Zeilen, im Normalfall mit dem Inhalt `Nichts.`
+
+Zum Vergleich: Runde 2 lieferte 13.000 Zeichen je Dokument, Runde 3 unter dem
+400-Wort-Deckel 123 bis 388 Wörter. E23 zielt auf deutlich darunter.
+
+## Zwei Regelfehler, die Runde 3 sichtbar gemacht hat
+
+**Kursivsetzung war mehrdeutig.** Der Styleguide schrieb "jeder lateinische
+Artname kursiv". Zwei QS-Läufe haben daraus Gegenteiliges abgeleitet: 004
+setzte den allein stehenden Gattungsnamen aufrecht, 005 kursiv. Eine
+mehrdeutige Regel kostet auf 100 Kapitel 100 Einzelentscheidungen. Neu und
+ohne Ermessen: **jeder lateinische Name kursiv, Gattung wie Art.** Handels-
+und Drogennamen bleiben aufrecht, Prüfmerkmal ist, ob das Wort für die Ware
+oder für die Pflanze steht.
+
+**Das Patch-Skript prüft nur, ob ein Vorbehaltswort dazukam, nicht wo.** In
+004 wurde aus "In Frankreich und Spanien wurde er zur ersten Wahl" der Satz
+"wurde er dadurch insbesondere zur ersten Wahl". Das Doc schwächt die Länder
+ab, der Patch schwächte den Grad ab. Das Skript hat ihn akzeptiert, der Satz
+behauptete danach etwas anderes. Von Hand auf "Insbesondere in Frankreich und
+Spanien" korrigiert, als Regel 4 in P4 aufgenommen.
+
+## Ein Skript-Fehlalarm weniger
+
+`research_check.py` meldete den belegten Vergleich "so hoch wie ein
+einstöckiges Gebäude" als unbelegt, weil das Doc ihn anders flektiert
+("entspricht der Höhe eines einstöckigen Gebäudes"). Die Prüfung vergleicht
+jetzt Wortstämme statt ganzer Wörter und sieht bis zu drei Wörter nach dem
+Vergleich an, nicht nur das erste. Erfundene Vergleiche werden weiter
+gefunden, gegengeprüft an einem Testfall mit Daumennagel und Bleistiftmine.

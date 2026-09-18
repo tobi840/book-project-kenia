@@ -13,15 +13,22 @@ weggefallen, weil ein Skript die Patches anwendet.
 |---|---------|-----|--------------|
 | 1 | Substanz-Check | Sonnet 5 | Research-Doc aus Drive holen, nach `research/` spiegeln, messen: Zeichen, belegte Zahlen, URLs. Urteil: trägt das Doc ein volles Kapitel oder ist es dünn? |
 | 2 | Schreiben | Opus | Kapitel nach `prompts/P3-kapitel-schreiben.md` als HTML, danach Selbstprüfung gegen die Skripte, höchstens zwei Runden |
-| 3 | Skripte | Skript | `regel_check.py` (zählt), `research_check.py` (liest gegen das Research-Doc), `check_links.py --offline` (Herkunft jeder URL). Kostenlos, deterministisch, sofort |
+| 3 | Skripte | Skript | `regel_check.py` (zählt), `research_check.py` (liest gegen das Research-Doc). Kostenlos, deterministisch, sofort |
 | 4 | QS | Sonnet 5 | Zwei Prüfungen nach `prompts/P4-qs.md`, sieht Kapitel und Research-Doc, ändert nichts. Ausgabe sind **Patches**, keine Prosa |
 | 5 | Patch | Skript | `patch_anwenden.py` wendet an, was die drei Patch-Regeln besteht, und lehnt jede Umformulierung ab |
 
 Der Schreiber sieht seine eigene Prüfung nie: Opus schreibt, Sonnet 5 prüft.
 Was sich zählen lässt, zählt ein Skript und kein Modell.
 
-Eine Nachprüfung läuft nur noch auf Stichprobe, nicht pro Kapitel. Der Grund
-steht in `berichte/PROZESS-KUERZUNG.md`.
+**Höchstens zwei QS-Runden je Kapitel, angestrebt ist eine (E22).** Was die
+zweite Runde nicht findet, bleibt im Buch. Das ist eine bewusste Entscheidung
+zugunsten von Tempo: 95 Kapitel in fünf Tagen bei bewusst etwas niedrigerer
+Qualität pro Kapitel. Runde 3 im Pilot fand noch ein echtes `FALSCH`, also
+kostet die Regel etwas. Sie wurde trotzdem so gesetzt.
+
+**Das QS-Dokument ist Patch-Block plus höchstens fünf Zeilen (E23).** Es ist
+Arbeitsmaterial für `patch_anwenden.py`, nicht für Tobi. Im Normalfall steht
+unter `## Für Tobi` genau ein Wort: `Nichts.`
 
 ### Warum der Korrekturschritt weg ist
 
@@ -37,9 +44,8 @@ prüft das mechanisch und lehnt alles andere ab.
 
 | Skript | Braucht | Findet |
 |--------|---------|--------|
-| `regel_check.py` | nur das Kapitel | Längen, Absätze, Satzlängen, Gedankenstriche, verbotene Wörter, Dreierketten, Links, Marker, Kopfzeilenformat, Struktur |
+| `regel_check.py` | nur das Kapitel | Längen, Absätze, Satzlängen, Gedankenstriche, verbotene Wörter, Dreierketten, Marker, Kopfzeilenformat, Struktur |
 | `research_check.py` | Kapitel und Research-Doc | Zahlen ohne Beleg, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), Aufzählungen ohne das Vorbehaltswort der Quelle |
-| `check_links.py --offline` | Kapitel und Research-Doc | URLs, die nicht wörtlich im Research-Doc stehen |
 
 `research_check.py` ist am 18.09.2026 dazugekommen. Der Grund: der Regel-Check
 zählt nur, er liest nicht gegen die Quelle, und hat darum fünf von fünf
@@ -83,12 +89,16 @@ nachgeprüft und am Ende von Hand gelöscht wird es trotzdem.
 Wenn das Doc eine Frage offen lässt, hat das Kapitel diese Frage nicht. Eine
 Seitenzahl gehört ohnehin in keinen Marker, dort steht `(S. XX)` bis zum Satz.
 
-### Nicht ampelrelevant
+### Nicht mehr vorhanden
 
-Die Erreichbarkeit der Links. Nachrangig, kein Gate vor dem Satz (E14). Ein
-gesammelter Lauf kann sie irgendwann prüfen, muss aber nicht. Pro Kapitel wird nur
-geprüft, ob jede URL wörtlich im Research-Doc steht. Das fängt den Fehlertyp ab,
-den wir selbst verursachen.
+Der Block "Weiterlesen und Sehen" und mit ihm jede Link-Prüfung (E21,
+Entscheidung Tobi vom 18.09.2026). Wer nachschlagen will, googelt, Vogelrufe
+laufen über eBird und Merlin. Die Quellen bleiben im Research-Doc, sie stehen nur
+nicht mehr im Buch.
+
+Damit fallen weg: `check_links.py`, der nie gelaufene Erreichbarkeitslauf, die
+Ampelzeile dazu in jedem QS-Dokument, und die erfundene URL als häufigste
+Einzelfehlerquelle der Kette.
 
 ## Querverweise
 
@@ -154,21 +164,13 @@ research/     Spiegel der Deep-Research-Docs aus Drive, Substanz-Messung,
 chapters/     {nr}-{slug}.html, das Ergebnis
 qs/           {nr}-{slug}.md, Ampel plus Patch-Block
 berichte/     Pilotbericht, Re-QS und der Prozessdurchgang
-scripts/      regel_check.py, research_check.py, check_links.py,
-              patch_anwenden.py
+scripts/      regel_check.py, research_check.py, patch_anwenden.py
 ```
 
 ## Bekannte Einschränkung
 
-Die Egress-Policy dieser Umgebung sperrt allgemeine Web-Hosts. Die
-Erreichbarkeitsprüfung in `check_links.py` meldet solche Links als
-`nicht-pruefbar`, nicht als tot. Die Herkunftsprüfung (steht die URL wörtlich im
-Research-Doc?) läuft offline und fängt den Fehlertyp ab, den wir selbst
-verursachen: eine erfundene oder umgeschriebene Adresse.
-
-Ob die vom Deep Research gelieferten URLs live erreichbar sind, bleibt damit offen.
-Das ist hingenommen (E14). In jeder QS-Ausgabe steht dazu einmal ein Satz, nicht
-einmal pro Link. Im Pilot stand derselbe Satz 25 mal in den Fundstellenlisten.
+Die Egress-Policy dieser Umgebung sperrt allgemeine Web-Hosts. Für die Kapitel
+spielt das seit E21 keine Rolle mehr, weil dort keine URLs mehr stehen.
 
 Dieselbe Sperre hat die Namensrecherche daran gehindert, eine Quelle im Original zu
 lesen. Beleg war dort der Ausschnitt aus der Suchtrefferliste. Was das wert ist und

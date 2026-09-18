@@ -1,6 +1,6 @@
 # Kapitel-Template (HTML)
 
-Jedes Kapitel folgt exakt dieser Struktur. Die Blöcke 3 bis 5 sind kurz und visuell abgesetzt, damit man sie beim Vorlesen überspringen oder gezielt aufschlagen kann.
+Jedes Kapitel folgt exakt dieser Struktur. Die Blöcke 3 und 4 sind kurz und visuell abgesetzt, damit man sie beim Vorlesen überspringen oder gezielt aufschlagen kann.
 
 Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgestellt (Entscheidung Tobi, 18.09.2026), damit sich der Entwurf direkt im Browser ansehen lässt. Inhalt, Reihenfolge und Längen bleiben identisch. Das Frontmatter wandert in einen HTML-Kommentar am Dateianfang, die Überschriften werden zu `h2`, die Blöcke zu `section` mit festen Klassennamen. `scripts/regel_check.py` prüft gegen genau diese Klassennamen.
 
@@ -17,9 +17,7 @@ Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgeste
 - *Brennweite:* Empfehlung aus unserem Set. 100 bis 400 oder 150 bis 600 für Vögel und scheue Säuger. 45 mm für Bäume im Kontext, Blätter, Rinde, Landschaft. 26 bis 60 für Pflanzen nah, Details, Umgebung. Bei Bäumen: Perspektive (von unten in die Krone, Silhouette bei Gegenlicht, Rinde als Fläche)
 - *Bild-Idee:* Ein konkreter Bildvorschlag, der die Geschichte des Kapitels aufgreift. Startwerte nur, wenn sie aus dem Verhalten folgen (z. B. "Vogel im Flug: 1/2000 s oder schneller")
 
-**4. Weiterlesen und Sehen.** 3 bis 4 Links, jeder mit einem Satz Kontext (E19). Typen: Quelle (Fachartikel, Kew, IUCN, Birds of the World, Feldführer), Fotos (iNaturalist, Flickr-Commons, Wikimedia), Ruf (bei Vögeln: xeno-canto, Macaulay Library), Verbreitungskarte (eBird, GBIF, IUCN), Kultur (Museum, Ethnobotanik-Datenbank, Dokumentation). Format: Linktext ist der Titel der Seite, danach ` · ` und ein Satz, was man dort findet. Im QS wird geprüft, ob jede URL wörtlich im Research-Doc steht. Die Erreichbarkeit ist nachrangig und kein Gate vor dem Satz (E14).
-
-**5. Illustration.** Hauptbild oben unter dem Kopf, Hochformat. Optionales Detailbild neben Block 3 oder 4, quadratisch. Im Entwurf bleibt die `figure` leer und trägt `data-status="offen"`, gefüllt wird sie in Phase Illustration.
+**4. Illustration.** Hauptbild oben unter dem Kopf, Hochformat. Optionales Detailbild neben Block 3 oder 4, quadratisch. Im Entwurf bleibt die `figure` leer und trägt `data-status="offen"`, gefüllt wird sie in Phase Illustration.
 
 ## Dateiformat
 
@@ -71,12 +69,6 @@ research_doc: <Google-Docs-ID>
     <p><strong>Bild-Idee:</strong> …</p>
   </section>
 
-  <section class="weiterlesen">
-    <h2>Weiterlesen und Sehen</h2>
-    <ul>
-      <li><a href="https://…">Titel der Seite</a> · Ein Satz, was man dort findet.</li>
-    </ul>
-  </section>
 
 </article>
 ```
@@ -87,8 +79,18 @@ Offene Stellen werden im Fließtext als `[[LÜCKE: was fehlt]]` markiert und nie
 
 Nur noch einer:
 
-- `[[LÜCKE: was fehlt]]` steht für ein unbelegtes **Pflichtfeld**: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis vier Links. Färbt die Ampel gelb.
+- `[[LÜCKE: was fehlt]]` steht für ein unbelegtes **Pflichtfeld**: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee. Färbt die Ampel gelb.
 
 `[[OFFEN]]` ist seit E15 abgeschafft. Was das Research-Doc als nicht belegbar ausweist, steht im Kapitel gar nicht, auch nicht als Marker. Der Marker hatte zwei Abnehmer, die gesammelte Nachrecherche und den Entscheidungsstapel, und seit E11 und E12 keinen mehr.
 
 Eine fehlende Seitenzahl ist keine Lücke. Dort steht `(S. XX)`.
+
+## Was seit E21 fehlt
+
+Der Block "Weiterlesen und Sehen" ist gestrichen (Entscheidung Tobi, 18.09.2026).
+Wer nachschlagen will, googelt, und Vogelrufe laufen über eBird und Merlin. Die
+Quellen verschwinden damit aus dem Buch, nicht aus dem Projekt: jede URL steht
+weiter im Research-Doc.
+
+Damit entfallen zugleich `check_links.py`, der ausstehende Erreichbarkeitslauf
+und die häufigste Einzelfehlerquelle der Kette, die erfundene URL.
