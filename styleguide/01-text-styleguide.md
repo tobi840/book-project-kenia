@@ -33,7 +33,7 @@ Die Gewichtung verschiebt sich je nach Art. Bei der Flötenakazie sind es 80 Pro
 
 **Trockener Humor, nie Spott.** Kleine Nebenbemerkungen in Klammern, ironische Wendungen: "quelle horreur", "Sehr britisch!", "besser Inzucht als gar keine Nachkommen", "Ein Maul voll stechender Ameisen ist auch für große Pflanzenfresser kein Vergnügen". Maximal zwei pro Kapitel.
 
-**Querverweis am Ende.** Ein kursiver Satz führt zu einem anderen Kapitel: "Eine effiziente Strategie der Selbstverteidigung hat auch der Nimbaum (S. 120)."
+**Querverweis am Ende.** Ein kursiver Satz führt zu einem anderen Kapitel: "Eine effiziente Strategie der Selbstverteidigung hat auch der Nimbaum (S. 120)." Bei uns entsteht dieser Satz nicht beim Schreiben, siehe Abschnitt 9.
 
 **Was Drori nicht macht und wir auch nicht:** Ich-Perspektive im Kapitel, Moralisieren, Adjektivketten, Superlative ohne Beleg.
 
@@ -59,7 +59,7 @@ Die Gewichtung verschiebt sich je nach Art. Bei der Flötenakazie sind es 80 Pro
 
 ## 4. Das Ende
 
-Die wichtigste Stelle beim Vorlesen. Regel: Der letzte Absatz kehrt zum Anfangsbild zurück und öffnet es. Kein Fazit, keine Moral, keine Zusammenfassung, kein Allgemeinplatz über die Natur. Ein Bild, das im Raum stehen bleibt. Der Querverweis kommt danach, kursiv, abgesetzt.
+Die wichtigste Stelle beim Vorlesen. Regel: Der letzte Absatz kehrt zum Anfangsbild zurück und öffnet es. Kein Fazit, keine Moral, keine Zusammenfassung, kein Allgemeinplatz über die Natur. Ein Bild, das im Raum stehen bleibt. Ein Querverweis, falls das Kapitel später einen bekommt, steht danach, kursiv, abgesetzt.
 
 Nicht: "So ist der Baobab ein Baum, der uns viel lehren kann." Nicht: "In der Natur dreht sich eben alles ums Gleichgewicht." Sondern: "Und wenn der Wind durch die kahlen Äste geht, klingt es, als atme der Stamm aus."
 
@@ -69,10 +69,10 @@ Bei der Flötenakazie wäre die richtige Lösung: zurück zum Pfeifton aus dem e
 
 - Deutsch, Präsens für Biologie, Präteritum für Geschichte
 - Keine Gedankenstriche. Punkt, Komma, Doppelpunkt, Klammer
-- Fachbegriffe nur, wenn sie im Satz erklärt werden (Domatien, Aposematismus: beide führt Drori vor, nicht ein)
-- Zahlen mit Einheit, gerundet wie die Quelle, möglichst mit Körpermaß daneben
-- Lateinischer Name kursiv, nur im Kopf und höchstens einmal im Text
-- Lokale Namen in Anführungszeichen mit Sprache: "Mbuyu" (Swahili)
+- Fachbegriffe nur, wenn das Research-Doc die Erklärung hergibt. Eine Erklärung ist eine Tatsachenbehauptung, kein Stilmittel. Gibt das Doc keine her, nimm ein Alltagswort
+- Zahlen mit Einheit, gerundet wie die Quelle. Ein Körpermaß daneben nur, wenn das Research-Doc es liefert. Erfundene Alltagsvergleiche sind Faktenfehler
+- Jeder lateinische Artname kursiv, auch Nebenarten, Wirtspflanzen, Erreger, Bestäuber und Synonyme. Die Regel "höchstens einmal im Text" gilt nur für die Art des Kapitels
+- Lokale Namen in der Kopfzeile im Format Sprache: „Name", mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: Maa für die Sprache, Maasai nur für Menschen. Handelsnamen auf Englisch oder Deutsch gehören nicht in die Namenszeile
 - Keine Ausrufezeichen außer in Zitaten und den zwei erlaubten Humor-Einwürfen
 - Rhetorische Fragen nur als Rätsel-Setup, nie als Leseransprache
 
@@ -88,8 +88,21 @@ Bei der Flötenakazie wäre die richtige Lösung: zurück zum Pfeifton aus dem e
 - Jede Zahl, jedes Datum, jeder Name muss im Research-Doc stehen
 - Status jeder Aussage markieren: gesichert, vermutet ("vermutlich", "Forscher nehmen an"), beobachtet ("Einheimische berichten"), überliefert ("die Maasai erzählen")
 - Keine erfundenen Zitate, keine erfundenen Anekdoten, keine erfundenen lokalen Namen
-- Lücken im Research-Doc bleiben offen und werden im QS markiert, nie gefüllt
+- Lücken bleiben offen und werden nie gefüllt. Zwei Sorten: [[LÜCKE]] für ein unbelegtes Pflichtfeld, ampelrelevant. [[OFFEN]] für das, was das Research-Doc selbst als nicht belegbar ausweist, nicht ampelrelevant
+- Zuspitzung ist Erfindung. Wenn ein Satz stärker klingt als seine Quelle, ist er falsch
+- Einzige Ausnahme vom Nachrecherche-Verbot: die wörtliche Bedeutung lokaler Namen, gesammelt recherchiert und belegt in research/namen-bedeutungen.md
 
 ## 8. Vermeiden
 
 Adjektivketten, "majestätisch", "faszinierend", "wunderschön", "ikonisch", "atemberaubend", "ein wahres Wunder der Natur", Fazit-Sätze, Appelle, Big-Five-Klischees, Europa als Maßstab, Erklärungen, was der Leser fühlen soll.
+
+## 9. Querverweise
+
+Querverweise entstehen nicht beim Schreiben. Wer nur sein eigenes Kapitel kennt und trotzdem einen Verweis liefern muss, nimmt den schwächsten verfügbaren Zusammenhang. Im Pilot zeigten drei von fünf Verweisen auf dasselbe Kapitel, zwei begründeten sich mit "wächst auch in Nairobi".
+
+Stattdessen ein eigener Durchlauf, wenn alle Kapitel stehen:
+
+- 20 bis 30 Verweise auf 100 Kapitel, also etwa jedes vierte Kapitel
+- Kein Kapitel häufiger als zweimal Ziel
+- Der Zusammenhang muss sachlich sein: derselbe Mechanismus, dasselbe Molekül, dieselbe Geschichte, derselbe Konflikt. Ein gemeinsamer Ort reicht nicht
+- Form wie bei Drori: ein kursiver Satz, abgesetzt, nach dem letzten Absatz der Geschichte, Seitenzahl als (S. XX) bis zum Satz

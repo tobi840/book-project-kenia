@@ -55,6 +55,19 @@ ABKUERZUNGEN = [
 ]
 
 LUECKE_RE = re.compile(r"\[\[LÜCKE:.*?\]\]", re.S)
+OFFEN_RE = re.compile(r"\[\[OFFEN:.*?\]\]", re.S)
+
+# Heuristik fuer nicht kursiv gesetzte lateinische Artnamen.
+# Gattung gross, Art klein und mindestens 5 Zeichen mit lateinischer Endung.
+LAT_ENDUNGEN = (
+    "us", "um", "ii", "ensis", "ata", "osa", "ica", "ana", "oides",
+    "folia", "ior", "iana", "alis", "aris", "orum", "arum", "atum",
+)
+LAT_PAAR_RE = re.compile(r"\b([A-ZÄÖÜ][a-zäöüß]{3,})\s+([a-zäöüß]{5,})\b")
+LAT_STOPP = set([
+    "herum", "darum", "warum", "ringsum", "rundum", "wiederum", "darunter",
+    "worum", "hinaus", "heraus", "voraus", "zugleich", "zuvor",
+])
 
 # ------------------------------------------------------------------- Parsing
 
@@ -85,6 +98,22 @@ class Node:
 
     def text(self):
         return "".join(k if isinstance(k, str) else k.text() for k in self.kids)
+
+    def text_ohne(self, *tags):
+        """Text des Knotens, aber ohne den Inhalt der genannten Tags.
+
+        Gebraucht fuer die Kursiv-Heuristik: was in <em> steht, ist bereits
+        kursiv und darf nicht als Verdachtsfall gemeldet werden.
+        """
+        teile = []
+        for k in self.kids:
+            if isinstance(k, str):
+                teile.append(k)
+            elif k.tag in tags:
+                teile.append(" ")
+            else:
+                teile.append(k.text_ohne(*tags))
+        return "".join(teile)
 
 
 class Builder(HTMLParser):
@@ -305,8 +334,25 @@ def pruefe(pfad, research_duenn=False):
         if fragen > 2:
             fund("gelb", "fragen", str(fragen) + " Fragezeichen in der Geschichte, erlaubt sind hoechstens 2")
 
-        if gesch.find("p", "querverweis") is None:
-            fund("gelb", "querverweis", 'Kein <p class="querverweis"> am Ende der Geschichte')
+        if gesch.find("p", "querverweis") is not None:
+            fund("gelb", "querverweis",
+                 'Querverweis im Entwurf. Querverweise setzt der eigene Durchlauf am Ende, '
+                 'nicht der Schreiber.')
+
+        # Lateinische Artnamen ausserhalb von <em>, Heuristik
+        ausser_em = gesch.text_ohne("em")
+        verdacht = []
+        for m in LAT_PAAR_RE.finditer(ausser_em):
+            art = m.group(2)
+            if art in LAT_STOPP:
+                continue
+            if not art.endswith(LAT_ENDUNGEN):
+                continue
+            verdacht.append(m.group(0))
+        mass["verdacht_kursiv"] = len(verdacht)
+        for v in sorted(set(verdacht)):
+            fund("gelb", "kursiv",
+                 "Verdacht: lateinischer Artname nicht kursiv, bitte pruefen", v)
 
         lat_name = meta.get("lateinisch", "")
         if lat_name:
@@ -358,14 +404,47 @@ def pruefe(pfad, research_duenn=False):
             if len(rest) < 2 or wortzahl(rest[1]) < 3:
                 fund("gelb", "links", "Link ohne Satz Kontext nach dem Mittelpunkt", t[:100])
 
-    # --- Lueckenmarker ---------------------------------------------------
+    # --- Marker ----------------------------------------------------------
+    # Zwei Sorten mit verschiedenen Folgen (Entscheidung E1 vom 18.09.2026):
+    # [[LUECKE]] meint ein unbelegtes Pflichtfeld und faerbt gelb.
+    # [[OFFEN]] meint, was das Research-Doc selbst als nicht belegbar ausweist,
+    # und faerbt nicht.
     luecken = LUECKE_RE.findall(volltext)
+    offene = OFFEN_RE.findall(volltext)
     mass["luecken"] = len(luecken)
+    mass["offen"] = len(offene)
     for l in luecken:
-        fund("gelb", "luecke", "Offene Luecke: " + " ".join(l.split()))
+        eine = " ".join(l.split())
+        if "eitenzahl" in eine:
+            fund("gelb", "seitenzahl",
+                 "Seitenzahl gehoert in keinen Marker, dort steht (S. XX)", eine)
+        else:
+            fund("gelb", "luecke", "Offene Luecke im Pflichtfeld: " + eine)
+    for o in offene:
+        eine = " ".join(o.split())
+        if "eitenzahl" in eine:
+            fund("gelb", "seitenzahl",
+                 "Seitenzahl gehoert in keinen Marker, dort steht (S. XX)", eine)
+        else:
+            fund("info", "offen", "Vom Research-Doc als nicht belegbar ausgewiesen: " + eine)
+
+    # --- Kopfzeile -------------------------------------------------------
+    namen_roh = meta.get("lokal", "") + " " + meta.get("swahili", "")
+    if "Maasai" in namen_roh:
+        fund("gelb", "kopfzeile",
+             "Sprachbezeichnung Maasai in der Namenszeile, buchweit gilt Maa fuer die Sprache")
+    kopf = doc.find("header", "kapitel-kopf")
+    if kopf is not None:
+        kopftext = kopf.text()
+        for label in ("Englisch:", "Deutsch:", "English:"):
+            if label in kopftext:
+                fund("gelb", "kopfzeile",
+                     "In der Namenszeile steht " + label
+                     + " Dort gehoeren nur lokale Namen hin.")
 
     rot = sum(1 for f in befunde if f["schwere"] == "rot")
     gelb = sum(1 for f in befunde if f["schwere"] == "gelb")
+    info = sum(1 for f in befunde if f["schwere"] == "info")
 
     return {
         "datei": pfad,
@@ -373,6 +452,7 @@ def pruefe(pfad, research_duenn=False):
         "ampel_regelcheck": "rot" if rot else ("gelb" if gelb else "gruen"),
         "rot": rot,
         "gelb": gelb,
+        "info": info,
         "masse": mass,
         "metadaten": meta,
         "befunde": befunde,

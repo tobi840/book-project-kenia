@@ -6,9 +6,9 @@ Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgeste
 
 ## Blöcke
 
-**Kopf.** LEBENSRAUM in Versalien (z. B. RIFT VALLEY, LAIKIPIA, KÜSTE, TSAVO, AMBOSELI, NAIROBI), Trivialname (Deutsch), lateinischer Name kursiv, Swahili-Name und weitere belegte lokale Namen mit Sprachangabe (Maa, Kikuyu, Samburu, Giriama).
+**Kopf.** LEBENSRAUM in Versalien (z. B. RIFT VALLEY, LAIKIPIA, KÜSTE, TSAVO, AMBOSELI, NAIROBI), Trivialname (Deutsch), lateinischer Name kursiv, danach die belegten lokalen Namen im Format `Sprache: „Name"`, mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: **Maa** für die Sprache, **Maasai** nur für Menschen. Englische und deutsche Handelsnamen gehören nicht in die Namenszeile.
 
-**1. Geschichte.** 900 bis 1.500 Wörter nach Text-Styleguide. Vier Bewegungen: These und Erscheinung, Herkunft und Name, Mechanismus, Menschen. Ende als Bild. Danach abgesetzt ein kursiver Querverweis auf ein anderes Kapitel, falls sinnvoll.
+**1. Geschichte.** 900 bis 1.500 Wörter nach Text-Styleguide. Vier Bewegungen: These und Erscheinung, Herkunft und Name, Mechanismus, Menschen. Ende als Bild. **Kein Querverweis.** Den setzt ein eigener Durchlauf, wenn alle Kapitel stehen, 20 bis 30 auf 100 Kapitel. Siehe Text-Styleguide Abschnitt 9.
 
 **2. Menschen und Kultur.** 150 bis 250 Wörter. Was die Art für Menschen in Kenia bedeutet oder bedeutet hat: Nutzung, Medizin, Mythos, Sprichwort, Konflikt, Schutzstatus, heutige Rolle (Tourismus, Landwirtschaft, Wilderei, Naturschutz). Nur Belegtes. Legenden als Legenden markiert. Wenn die Geschichte in Block 1 schon stark kulturell ist, wird dieser Block kürzer und ergänzt statt zu wiederholen.
 
@@ -54,7 +54,9 @@ research_doc: <Google-Docs-ID>
   <section class="geschichte">
     <h2>Geschichte</h2>
     <p>…</p>
-    <p class="querverweis"><em>Auch die Dum-Palme (S. XX) …</em></p>
+    <!-- Kein Querverweis beim Schreiben. Der Durchlauf am Ende setzt hier, falls dieses
+         Kapitel einen bekommt, genau eine Zeile ein:
+         <p class="querverweis"><em>Auch die Dum-Palme (S. XX) …</em></p> -->
   </section>
 
   <section class="menschen-kultur">
@@ -80,3 +82,12 @@ research_doc: <Google-Docs-ID>
 ```
 
 Offene Stellen werden im Fließtext als `[[LÜCKE: was fehlt]]` markiert und nie aus Modellwissen gefüllt.
+
+## Marker im Text
+
+Zwei Sorten, verschiedene Folgen:
+
+- `[[LÜCKE: was fehlt]]` steht für ein unbelegtes **Pflichtfeld**: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis sechs Links. Färbt die Ampel gelb.
+- `[[OFFEN: was fehlt]]` steht für das, was das Research-Doc **selbst** als nicht belegbar ausweist. Färbt nicht, wird für die gesammelte Nachrecherche eingesammelt.
+
+Eine fehlende Seitenzahl ist keins von beidem. Dort steht `(S. XX)`.
