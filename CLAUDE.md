@@ -82,11 +82,19 @@ die Ursache. Sie ist es nicht: 6 Tool-Uses auf 2 zu senken sparte 5 Prozent.
    skaliert linear. Bei drei Kapiteln je Prüferlauf rund 45k je Kapitel.
    Gegenrechnung: Ein Prüfer mit drei Kapiteln im Kopf findet im dritten
    vermutlich weniger als im ersten. Beim ersten Batch messen.
-3. **Konnektoren aus.** Der Werkzeugkatalog ist der größte bewegliche Teil des
-   Bodenpreises, und dieses Projekt braucht keinen einzigen Konnektor: alles
-   liegt als Datei im Repo, Commit und Push laufen über die Git-Kommandozeile.
-   Der Batch gehört in eine Session ohne Konnektoren. Eine neue Session allein
-   hilft nicht, sie erbt denselben Katalog.
+3. ~~Konnektoren aus.~~ **Getestet und widerlegt.** Tobi hat Slack, Gmail,
+   Agicap, Miro, Kalender und BigQuery abgeschaltet, 135 Werkzeuge weniger.
+   Die Nullmessung danach: **63.153 Tokens**, also nichts gespart. Der Grund
+   ist, dass abgelegte Werkzeuge nur als Namensliste im Kontext stehen, ein
+   paar Tausend Tokens für alle zusammen. Der Boden steckt woanders:
+   Systemprompt, Skill-Katalog, CLAUDE.md.
+
+**Damit sind zwei von drei Hypothesen widerlegt.** Die Rundenzahl war es nicht
+(5 Prozent), der Werkzeugkatalog war es auch nicht (0 Prozent). Der Bodenpreis
+von rund 60k je Subagent ist von innen nicht zu senken. Übrig bleibt die
+Amortisation: **Ein Agent, der mehr Kapitel bearbeitet, teilt den Boden.** Das
+gilt für den Prüfer und genauso für den Schreiber. Jede weitere Idee zur
+Senkung des Bodenpreises wird erst gemessen und dann geglaubt, nicht umgekehrt.
 
 ## Research-Docs
 
