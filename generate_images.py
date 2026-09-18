@@ -41,7 +41,10 @@ Read {STYLEGUIDE.relative_to(ROOT)} and the English visual description for the i
 Build the main illustration prompt for chapter {nr} {name} exactly as section 3 of the styleguide prescribes:
 the fixed style block, background colour "{BACKGROUNDS[habitat]}", the species description from section 9 taken over unchanged,
 the three detail insets and the cultural vignette from section 9, and one accent colour that fits the species and stands out from the background.
-If section 9 is missing or too thin to draw from, write the single line [[BESCHREIBUNG FEHLT]] to prompts/{stem}_haupt.txt, generate nothing and stop.
+If section 9 is written as one scene, keep its appearance facts (form, posture, proportions, colours, markings) word for word and drop
+scenery, lighting and background that contradict the styleguide. If it names no detail insets or no cultural vignette, take them from
+facts stated elsewhere in the same research file (appearance and "Menschen und Kultur" sections), never from your own knowledge.
+Only if the file contains no appearance description of the species at all, write the single line [[BESCHREIBUNG FEHLT]] to prompts/{stem}_haupt.txt, generate nothing and stop.
 Otherwise save the prompt text to prompts/{stem}_haupt.txt, generate the image with your built-in image generation tool
 and save it as illustrationen/{stem}_haupt.png.
 Composition rules on top of the prompt: keep the real-world sizes from the description (a 2 to 3 m shrub must not look like a tall tree,
