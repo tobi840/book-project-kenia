@@ -1,0 +1,230 @@
+Forschungsbericht: Prunus africana (Afrikanische Stinkkirsche) – Botanik, Pharmakologie und Ethnobotanik in Kenia
+1. Namen und Etymologie
+Die Nomenklatur und taxonomische Einordnung von Prunus africana dokumentieren eine komplexe wissenschaftliche Forschungsgeschichte sowie eine tiefgreifende Verwurzelung in der indigenen Nomenklatur des afrikanischen Kontinents. Als einzige endemisch in Afrika vorkommende Art der Gattung Prunus nimmt der Baum eine singuläre Stellung innerhalb der afromontanen Flora ein1.
+Wissenschaftliche Taxonomie
+Der aktuell anerkannte wissenschaftliche Name lautet Prunus africana (Hook.f.) Kalkman, publiziert im Jahr 19652. Die phylogenetische Systematik verortet die Art wie folgt:
+
+Rang
+	Taxon
+
+Domäne
+	Eukaryota5
+
+Reich
+	Plantae2
+
+Klasse
+	Magnoliopsida (Rosopsida)2
+
+Ordnung
+	Rosales2
+
+Familie
+	Rosaceae2
+
+Unterfamilie
+	Amygdaloideae (Syn. Prunoideae)1
+
+Tribus
+	Amygdaleae4
+
+Gattung
+	Prunus
+[cite: 2, 3, 4]
+
+Untergattung
+	Laurocerasus (Koehne)2
+
+Sektion
+	Mesopygeum (Koehne) Kalkman7
+
+Art
+	Prunus africana
+[cite: 2, 3, 4]
+Synonyme in der Literatur und Pharmakologie
+In der medizinischen, pharmakologischen und älteren botanischen Literatur existieren synonyme Bezeichnungen, die im Kontext der Wirkstoffgewinnung weiterhin Verwendung finden:
+Pygeum africanum Hook.f. (1864): Dieser Name ist im pharmazeutischen Handel für Rindenextrakte ("Pygeum-Extrakt") bis heute dominant1.
+Laurocerasus africana (Hook.f.) Browicz2.
+Pygeum crassifolium Hauman (1914) und Prunus crassifolia (Hauman) Kalkman: Diese Taxa werden in einigen Quellen als eigenständige Arten, häufiger jedoch als morphologische Hochland-Varianten (gekennzeichnet durch dickere, fleischigere Blätter) von P. africana klassifiziert, die in Höhenlagen zwischen 800 und 3.000 Metern vorkommen2.
+Etymologische Herleitung
+Der ursprüngliche Gattungsname Pygeum ist vom griechischen Substantiv pyge abgeleitet, was "Gesäß" oder "Rumpf" bedeutet. Der Botaniker Joseph Dalton Hooker wählte diese Bezeichnung 1864 in direkter Anspielung auf die stark abgeflachte, deutlich zweilappige Morphologie der Steinfrucht, die visuell an diese anatomische Form erinnert3. Das Epitheton africanum (beziehungsweise africana) verweist auf die endemische Verbreitung der Art auf dem afrikanischen Kontinent. Der nach der Revision von 1965 gültige Gattungsname Prunus entstammt dem klassischen Latein und bezeichnet Pflaumen- sowie Kirschbäume3.
+Vernakuläre Nomenklatur in Kenia und international
+Die linguistische Vielfalt der lokalen Bezeichnungen in Kenia korreliert mit dem zersplitterten, archipelartigen Vorkommen der Art in verschiedenen Bergwäldern und deutet auf eine langjährige, nutzungsbasierte Interaktion mit unterschiedlichen Sprachgruppen hin.
+
+Sprache / Ethnie
+	Lokaler Name
+	Regionale Verortung und Anmerkungen
+
+Kikuyu
+	Muiri, Mwiria, Muchorowe
+	Zentrales Hochland, Mount Kenya, Aberdares. Anmerkung: "Muchorowe" wird teils synonym für Nuxia congesta verwendet10.
+
+Kamba
+	Mumbaume, Mutimailu
+	Östliche Regionen, Trockenwaldränder13.
+
+Kalenjin (inkl. Keiyo, Kipsigis)
+	Tenduet, Chebitet, Yemit, Remit
+	Rift Valley und westliche kenianische Hochländer10.
+
+Maasai
+	Olkojuk
+	Weidegebiete im und um das Rift Valley13.
+
+Samburu
+	Lcheni, Lkeni
+	Nördliches Kenia (z.B. Mount Nyiru). Anmerkung: Oft als generischer Begriff für "Baum" genutzt, im Kontext ethnomedizinischer Studien jedoch spezifisch auf P. africana bezogen14.
+
+Luhya (Bukusu)
+	Kumutura
+	Westkenia, Region Mount Elgon und Kakamega13.
+
+Swahili
+	Kiburabura, Mfuwate
+	Überregionale Handelsnamen und Küstennomenklatur4.
+
+Englisch (Handel)
+	African cherry, Red stinkwood, Iron wood, Bitter almond
+	Internationale Bezeichnungen für Forst- und Pharmaprodukte. "Stinkwood" bezieht sich auf den Blausäuregeruch der frischen Rinde2.
+
+Afrikaans / Niederländisch
+	Afrika-amandel, Bitter amandel / Afrikaanse kers
+	Südafrikanischer und historisch-europäischer Handelskontext4.
+2. Erscheinung, Morphologie und Anatomie
+Prunus africana manifestiert sich als markanter, immergrüner Laubbaum, der die obere Kronenschicht (Canopy) der afromontanen Wälder prägt. Seine physische Struktur ist stark von der Lichtverfügbarkeit abhängig, da die Art als lichtbedürftiger Baum des Sekundärwaldes klassifiziert wird3.
+Habitus und Dimensionen
+In ungestörten Habitaten erreicht der Baum Wuchshöhen von 10 bis 25 Metern, wobei unter optimalen Wachstumsbedingungen in geschlossenen Waldbeständen auch Höhen von bis zu 40 Metern dokumentiert sind9. Der zylindrische Stamm entwickelt Durchmesser, die oft einen Meter überschreiten, und ist strukturell für massive Kronenausbildungen ausgelegt.
+Morphologische Spezifikationen
+
+Pflanzenorgan
+	Physische Parameter und Merkmale
+
+Rinde (Borke)
+	Die Borke ist grauschwarz bis dunkelbraun gefärbt und blättert in unregelmäßigen, rechteckigen Schuppen ab. Junge Zweige weisen eine braune, korkartige Struktur auf3. Die innere Rinde ist von rötlich-brauner Farbe und verströmt bei mechanischer Verletzung einen penetranten Blausäuregeruch (ähnlich Bittermandeln), was den Namen "Red Stinkwood" bedingt3.
+
+Phloem (Mikroskopisch)
+	Das Phloem besteht aus zahlreichen langen, dünnwandigen, nicht-lignifizierten Fasern, die in tangentialen Gruppen angeordnet sind und mit Siebgewebe alternieren. Das Xylem weist netzartige oder skalariforme Verdickungen auf, flankiert von lignifizierten Tracheiden. Medulläre Strahlen (meist uniseriat) durchziehen Xylem und Phloem transvers8.
+
+Blätter (Lamina)
+	Die Anordnung ist wechselständig und einfach. Die Form ist elliptisch bis lanzettlich mit leicht gesägten bis gekerbten (crenulate/serrulate) Rändern. Die Länge variiert zwischen 4 und 15 cm (selten bis 20 cm), die Breite zwischen 2 und 5,5 cm. Die Oberfläche ist kahl (glabrous), oberseits von dunkelgrüner, glänzender Farbe, unterseits blassgrün. Die zentrale Blattader ist auf der Oberseite markant eingesenkt (depressed) und tritt auf der Unterseite prominent hervor3.
+
+Blattstiel (Petiole)
+	Der Blattstiel ist 1 bis 2 cm lang. Ein entscheidendes optisches Bestimmungsmerkmal ist seine leuchtend rosa bis mattrote (dull red) Färbung, die scharf mit dem Blattgrün kontrastiert3.
+
+Blüten und Blütenstand
+	Die Blütenstände sind achselständige Trauben (Racemes) mit einer Länge von 3 bis 8 cm. Die Einzelblüten sind zwittrig (androgyn), insektenbestäubt, unscheinbar grünlich-weiß bis cremefarben und besitzen 10 bis 20 Staubblätter (Stamina)3.
+
+Früchte
+	Die Steinfrucht (Drupe) misst etwa 10 mm im Durchmesser. Im Reifestadium nimmt sie eine dunkelrote bis purpurschwarze Färbung an. Die Form ist stark abgeflacht (niedergedrückt-sphärisch) und deutlich zweilappig. Jeder Lappen enthält einen Samen1.
+Die "Kakamega-Anomalie"
+In taxonomischen Erhebungen im Kakamega-Wald (Westkenia) wurden Prunus-Exemplare identifiziert, deren Morphologie signifikant vom typischen Phänotyp der Prunus africana abweicht. Forscher isolierten Samen und zogen etwa 250 Setzlinge (unter anderem im Brackenhurst Botanic Garden) nach, um die morphologische Stabilität zu prüfen. Die Kakamega-Individuen weisen größere (16–19 cm lang, 9–9,2 cm breit), extrem glänzende (very glossy) Blätter auf, deren Mittelader abaxial markante Trichom-Büschel (Pubeszenz) in den Blattaderachseln zeigt. Die Blattstiele sind grün und länger (2–2,2 cm). Am auffälligsten ist die Fruchtmorphologie: Während P. africana abgeflachte (oblate) Früchte produziert, sind die Früchte der Kakamega-Variante exakt sphärisch. Diese Daten legen die Existenz einer bislang unbeschriebenen, möglicherweise neuen Art nahe, die morphologisch eher der neuweltlichen Prunus serotina ähnelt (welche jedoch schwarze Früchte trägt)9.
+Zytogenetik und Genomik
+Zytogenetische Analysen belegen, dass Prunus africana eine tetraploide Art mit einem Chromosomensatz von  ist, was eine genetische Anpassung an die klimatischen Bedingungen der afromontanen Habitate widerspiegelt. Standard-Karyotypisierungen (DAPI-Färbungen) zeigten A-T-arme DNA-Regionen (negative Bänder), während Fluorochrom-Bänderungen mit Chromomycin A3 (CMA+) spezifische, G-C-reiche DNA-Regionen visualisierten. Fluoreszenz-in-situ-Hybridisierungen (FISH) lokalisierten zehn 18S-5.8S-26S (35S) rRNA-Gensignale, die exakt mit den CMA+ Bändern korrespondieren1.
+3. Der Mechanismus: Pharmakologie und globale Ausbeutung
+Die nahezu vollständige Ausrottung freilebender Altbestände in Kenia und anderen afrikanischen Staaten wurzelt in der hochspezifischen Biochemie der Rinde. Die Extrakte (häufig als PAE – Pygeum africanum extract – deklariert) weisen eine überragende klinische Wirksamkeit bei der Behandlung der Benignen Prostatahyperplasie (BPH) auf, einer altersbedingten, pathologischen Vergrößerung der menschlichen Vorsteherdrüse.
+Pathophysiologie der Benignen Prostatahyperplasie (BPH)
+Die Prävalenz von BPH steigt mit dem Alter des Mannes signifikant an. Die Pathogenese ist durch die Proliferation von Stromazellen und Epithelzellen charakterisiert, was zu einer Obstruktion der Harnwege (Lower Urinary Tract Symptoms, LUTS) führt21. Der zelluläre Mechanismus wird durch Androgene gesteuert. Das Schlüsselenzym ist die 5-alpha-Reduktase (5-αR), welche Testosteron (T) in das biologisch weitaus aktivere Dihydrotestosteron (DHT) umwandelt. DHT besitzt eine zehnfach höhere Potenz als Testosteron und bindet an Androgenrezeptoren (AR) im Zellkern, wodurch die Expression von Genen reguliert wird, die das Zellwachstum der Prostata vorantreiben20. Simultan kommt es im Alter zu einer Erhöhung der Aromatase-Aktivität, wodurch mehr Testosteron in Östrogen (ES) umgewandelt wird. Ein ansteigendes Östrogen/Testosteron-Verhältnis stimuliert über den Östrogenrezeptor-alpha (ER-α) zusätzlich Hyperplasie, Dysplasie und Entzündungsprozesse im Prostatagewebe22.
+Phytochemische Zusammensetzung der Rinde
+Die medizinische Potenz von Prunus africana basiert auf einem komplexen Synergismus mehrerer lipophiler Wirkstoffklassen:
+Phytosterole (z.B. Beta-Sitosterol): Pflanzensterole, die strukturell dem tierischen Cholesterin ähneln. Sie regulieren physiologische Prostatafunktionen und modulieren den Cholesterinstoffwechsel. Cholesterin ist das Grundsubstrat für die Androgensynthese; seine Reduktion limitiert das Vorläufermaterial für DHT20.
+Pentazyklische Triterpene (Ursolsäure, Oleanolsäure): Diese Moleküle blockieren entzündliche enzymatische Reaktionen, reduzieren die Prostaglandinsynthese und verhindern Ödembildungen in der Prostata20.
+Ferulasäureester (z.B. n-Docosanol): Sie fungieren als Dekongestiva im Drüsengewebe, reduzieren lokale Cholesterinspiegel und blockieren deren Resorption20.
+Atranorin und Atrarsäure: Spezifische Inhaltsstoffe, die antiandrogene Eigenschaften aufweisen und die Signalwege der Androgenrezeptoren stören24.
+Der pharmakodynamische Mechanismus (PAE)
+Der Rindenextrakt operiert polyvalent und bietet damit eine Alternative zu synthetischen 5-alpha-Reduktase-Inhibitoren, die häufig schwere Nebenwirkungen aufweisen:
+Enzyminhibition: PAE hemmt direkt die Aktivität der 5-alpha-Reduktase, wodurch die Umwandlung von Testosteron zu DHT und damit die Zellproliferation gestoppt wird20.
+Rezeptor-Antagonismus: Die Inhaltsstoffe blockieren den Androgenrezeptor kompetitiv, sodass verbleibendes DHT seine wachstumsfördernden Signale nicht übertragen kann20.
+Antiöstrogene Modulation: Der Extrakt hemmt die durch Östrogen (ER-α) induzierte Hyperplasie20.
+Anti-Inflammation und Onkologie: In-vitro- und In-vivo-Studien belegen, dass P. africana starke antiangiogene Eigenschaften besitzt (Hemmung der Blutgefäßneubildung) und über apoptotische Signalwege den Zelltod in Prostatakrebszellen induzieren kann26. Klinisch resultiert dies in einer Reduktion des Harndrangs, einer Verbesserung des Harnflusses und der Linderung von Schmerzen, weshalb PAE insbesondere in Frankreich und Spanien als primäre Behandlungsform etabliert wurde20.
+Ökonomie, Raubbau und CITES-Reglementierung
+Der kommerzielle Boom des Extraktes begann in den 1970er Jahren in Kamerun und dehnte sich in den 1980er Jahren auf Uganda, die Demokratische Republik Kongo, Kenia, Burundi und Madagaskar aus2. Da die Wirkstoffe primär in der Rinde sitzen, erfordert die Ernte das Abschälen der Borke (Stripping). Ohne nachhaltige Erntezyklen, die dem Baum eine Regeneration der Rinde erlauben, stirbt der Organismus durch Unterbrechung des Phloem-Transports unweigerlich ab. Das globale Handelsvolumen für Prunus-Extrakte wird auf über 220 Millionen USD jährlich beziffert27. Pro Jahr wurden über 5.000 Tonnen Rinde aus Afrika exportiert13. Wissenschaftliche Analysen ergaben jedoch, dass die globale nachhaltige Erntequote für Prunus africana bei lediglich 330 Tonnen pro Jahr liegt27. Die massiven Überschreitungen dieser Quoten führten zur Degradierung der Art. In Konsequenz wurde P. africana 1995 auf der 9. Vertragsstaatenkonferenz in den Anhang II des Washingtoner Artenschutzübereinkommens (CITES) aufgenommen und als "Vulnerable" (gefährdet) auf der IUCN Red List eingestuft2. Im Jahr 2007 wurde der Handel für zahlreiche Länder, darunter Madagaskar, Uganda, Kamerun und Burundi, zeitweise komplett suspendiert, um die vollständige Ausrottung abzuwenden2.
+4. Ökologie und Verhalten
+Prunus africana fungiert als ökologische Schlüsselart in den afromontanen Waldsystemen Ostafrikas und weist komplexe Interaktionen mit der lokalen Fauna auf.
+Habitat und Geografische Verteilung
+Das Verbreitungsgebiet der Art ist stark fragmentiert und beschränkt sich auf montane und afromontane Zonen in Zentral-, Ost- und Südafrika sowie auf die Inseln Bioko, São Tomé, Grande Comore und Madagaskar1. Die Höhengrenzen für P. africana liegen regulär zwischen 1.500 und 2.300 Metern über dem Meeresspiegel3. Die Bäume tolerieren moderate Fröste und erfordern ein feuchtes Makroklima mit einem jährlichen Niederschlagsvolumen von 900 bis 3.400 mm3. In Kenia sind die Bestände auf Restwälder in den Zentralhochlandschaften (Mount Kenya, Aberdare-Berge), Reliktwälder im Rift Valley und urbane Forstreservate in Nairobi beschränkt28.
+Status in Nairobis städtischen Waldökosystemen
+Transektstudien in den städtischen Grünflächen Nairobis liefern präzise Abundanz-Daten für Restpopulationen. In diesen Habitaten wird die Baumdiversität maßgeblich von anthropogenen Störungen und dem Randeffekt (Dominanz von Exoten an Waldrändern) beeinflusst:
+Karura Forest: In diesem Waldgebiet, das eine hohe Diversität indigener Arten aufweist (mittlerer Artenreichtum von 4,7 Spezies pro Quadrat), sind Altbestände von P. africana nachweisbar, wenngleich Arten wie Elaeodendron paniculata (214 Zählungen) oder Croton megalocarpus dominieren29.
+City Park: Dieser Standort weist den höchsten mittleren Artenreichtum auf (6,3 Spezies pro Quadrat). Dennoch wurden in Zählungen nur 2 Individuen von P. africana dokumentiert, während Diospyros abyssinica (54 Zählungen) die obere Schicht dominiert29.
+Ngong Forest: In den Erhebungen für dieses Waldgebiet (mittlerer Artenreichtum 4,1) wurde P. africana in den Transekten nicht als dominante oder präsente Art gelistet (0 Zählungen in Referenzdaten)29.
+Phänologie im Reisezeitraum (24.09. bis 12.10.2026)
+Die generelle Blütezeit für P. africana in Ostafrika erstreckt sich von Oktober bis Mai3. Der Reisezeitraum fällt exakt in die kritische Übergangsphase: Das Ende der langen Trockenzeit und der Beginn der kleinen Regenzeit ("Short Rains"). In der Waldökologie lösen die ersten signifikanten Niederschläge nach Monaten der Dürre drastische physiologische Reaktionen bei Bäumen aus. Da das Blüh- und Fruchtverhalten der Art über die Jahre stark variiert und eng an klimatische Verschiebungen (Climate Change) gekoppelt ist31, ist folgendes Verhalten zu erwarten: Die Bäume werden frische Wachstumsschübe (Flushing) an den Zweigenden zeigen. Die hellgrünen, cremefarbenen bis grünlich-weißen Blütenstände werden in den Blattachseln der jungen Triebe als Knospen anschwellen oder sich in den ersten Oktobertagen vereinzelt öffnen. Reife, purpurrote Früchte sind in diesem schmalen Zeitfenster ausgeschlossen, da die Fruchtentwicklung mehrere Monate nach der Bestäubung in Anspruch nimmt3.
+Symbiosen und Herbivorie
+Die unscheinbaren Blüten werden durch verschiedene Insektenarten bestäubt3. Im Fruchtstadium bildet der Baum eine essenzielle Nahrungsquelle für frugivore Säugetiere und Vögel. Dian Fossey dokumentierte, dass die Hänge des Visoke-Vulkans dichte Prunus-Bestände aufwiesen und die Früchte bei den Berggorillas extrem beliebt sind3. In den ostafrikanischen Wäldern bilden die ausladenden, oft mit Lianen und Kletterpflanzen durchsetzten Baumkronen den primären Lebensraum für das seltene Carruthers-Hörnchen (Funisciurus carruthersi)3. In Habitaten wie dem Kakamega-Wald wird die Regeneration der Art zudem durch intensive Herbivorie und Samenprädation auf Ebene der Keimlinge reguliert34.
+5. Menschen und Kultur in Kenia
+Die Nutzung von Prunus africana in Kenia reicht weit in die präkoloniale Geschichte zurück. Die Pflanze stellt eine ethnomedizinische Universalapotheke dar, in der Rinde, Blätter und Wurzeln verarbeitet werden13. Der Erhalt der indigenen Bezeichnungen ist dabei ein Schlüssel zur Bewahrung ökologischen und kulturellen Wissens14.
+Ethnomedizinische Anwendungsprofile
+Kikuyu: Die Volksmedizin der Kikuyu, die den Baum als Muiri (oder Mwiria) kennen, nutzt verschiedene Organe der Pflanze. Die Rinde dient der Behandlung von Magenschmerzen, als Wundverband und als Abführmittel3. Ein Aufguss aus den Blättern wird eingenommen, um den Appetit zu stimulieren und genitale Infektionen zu kurieren13.
+Samburu: Die pastoralen Samburu im Norden Kenias (Region Mount Nyiru) verwenden Dekokte der Rinde (lokal als Lcheni bezeichnet) als ein besonders hochpotentes Mittel zur Behandlung von Malaria und starken Fieberschüben14.
+Kamba und Luhya: In Gebieten der Kamba (Mumbaume) und Bukusu (Kumutura) wird die Rinde nicht nur für die Behandlung von Nierenerkrankungen und sexuell übertragbaren Krankheiten wie Gonorrhoe genutzt, sondern besitzt auch einen hohen Stellenwert als Aphrodisiakum zur Steigerung der männlichen Potenz3.
+Zudem existieren historische Aufzeichnungen über die Nutzung von Prunus-Extrakten zur Behandlung von Vergiftungen durch Pfeilgifte sowie bei psychischen Erkrankungen (Wahnsinn/Insanity)3.
+Dieser ethnomedizinische Hintergrund verdeutlicht die Tragik der Überausbeutung: Der globale Bedarf an Prostatamedikamenten hat jene Altbäume dezimiert, auf die lokale Heiler für die primäre Gesundheitsversorgung angewiesen waren.
+6. Wissenschaftsgeschichte
+Die botanische Klassifizierung von Prunus africana spiegelt den Paradigmenwechsel von der frühen, rein morphologischen Taxonomie hin zur modernen Molekularphylogenie wider.
+1788: Der deutsche Botaniker Joseph Gaertner etablierte die Gattung Pygeum basierend auf losen Fruchtsammlungen aus Sri Lanka7.
+1861: Die erste wissenschaftliche Sammlung des afrikanischen Taxons erfolgte während der historisch bedeutsamen europäischen Expedition in das Kamerungebirge. Der deutsche Botaniker Gustav Mann begleitete den Entdecker Sir Richard Francis Burton und den Missionar Alfred Saker. Mann präparierte das Typusexemplar (heute im K Herbarium, K000107419)3.
+1863: Bevor eine offizielle botanische Publikation erfolgen konnte, leakte Sir Richard Francis Burton den bloßen Namen Pygeum africanum in einem seiner Bücher, da er zuvor den Briefwechsel zwischen Mann und den Kew Gardens eingesehen hatte3.
+1864: Joseph Dalton Hooker (Kew Gardens) veröffentlichte die formelle Erstbeschreibung als Pygeum africanum (nova species). Hooker ordnete die Pflanze fälschlicherweise der Familie der Goldpflaumengewächse (Chrysobalanaceae) zu2.
+1913/1915: Der deutsche Botaniker Emil Koehne führte umfassende Revisionen der Pygeum-Gruppe durch, beließ die afrikanische Art jedoch in dieser Gattung7.
+1965: Der niederländische Taxonom Cornelis Kalkman veröffentlichte eine bahnbrechende Revision. Er argumentierte, dass die morphologischen Differenzen zwischen der asiatischen Gattung Pygeum und der globalen Gattung Prunus insignifikant seien. Er gliederte die gesamte Gruppe als Untergattung Laurocerasus, Sektion Mesopygeum, in die Gattung Prunus ein. Dadurch wurde Pygeum africanum offiziell zu Prunus africana umbenannt1.
+Post-2000 (Molekulargenetik): Kladistische Studien ab 2002 hinterfragten diese Einordnung zunächst3. Im Zeitraum zwischen 2008 und 2018 bestätigten jedoch umfassende genetische Sequenzierungen der nuklearen ITS, ETS sowie der plastidären Regionen (psbA-trnH, rpl16) Kalkmans Theorie zweifelsfrei. Prunus africana ist fest in der Sektion Mesopygeum verankert. Die Daten belegen ein biogeografisches Diversifikationsereignis, bei dem sich Vorfahren aus der malesischen Region (Südostasien) bis auf den afrikanischen Kontinent ausbreiteten und dort isoliert zu Prunus africana evolvierten7.
+7. Fotografie: Scouting-Parameter für Kenia
+Für die visuelle Dokumentation des Naturbuches auf der festgelegten Route (Nairobi, Kikuyu) im Reisefenster 24.09.–12.10.2026 ergeben sich spezifische Anforderungen an die fotografische Erfassung.
+Urbane Reliktwälder in Nairobi: Der Karura Forest bietet die zuverlässigste Kulisse für Aufnahmen. Da die Art dort präsent ist (wenn auch weniger dominant als E. paniculata), können die Bäume im Kontext eines geschlossenen afromontanen Kronendachs fotografiert werden29. Auch der City Park beherbergt verifizierte Einzelexemplare29.
+Historischer Raubbau am Stamm: Das zentrale visuelle Motiv für den Erzählkern sind Altbäume, deren Stämme massive, flächige Vernarbungen aufweisen. Die dunkle, grauschwarze Borke bricht abrupt ab, wo in der Vergangenheit unreguliert Rinde abgeschlagen wurde. Diese vernarbten Gewebeflächen ("Scars") erzählen die Geschichte der pharmazeutischen Plünderung ohne weitere Worte3.
+Botanische Makroaufnahmen: Der visuelle Kontrast der Blätter muss bei tief stehender Sonne eingefangen werden. Die Blattoberseite (dunkelgrün, stark glänzend) mit der markant eingesenkten Mittelader hebt sich radikal von den leuchtend rosa bis mattroten Blattstielen (Petiolen) ab3.
+Phänologische Details: Da die kleine Regenzeit einsetzt, ist gezielt nach aufbrechenden Knospen oder den ersten 3–8 cm langen, unscheinbaren grünlich-weißen Blütentrauben in den Blattachseln zu suchen3.
+8. Links zum Weiterlesen und Sehen
+Die folgenden Datenbanken und Monografien stellen die wissenschaftliche Datengrundlage dar und dienen der weiteren Verifikation für das Kapitel:
+WHO Monographs on Selected Medicinal Plants (Volume 2): Monographie zu "Cortex Pruni Africanae". Liefert exakte mikroskopische Details der Rinde und klinische Studiendaten zu PAE. (URL: iris.who.int)8.
+GBIF (Global Biodiversity Information Facility): Interaktive taxonomische Datenbank und Verbreitungskarte. Datensatz-ID: SH0014844.10FU. Bietet Typus-Material (G. Mann, J. Bequaert) und exakte georeferenzierte Vorkommen in Simbabwe und Kenia. (URL: gbif.org/taxon/4N8N2)4.
+IUCN Red List: Dokumentiert den exakten Gefährdungsstatus (Vulnerable) und liefert historische Daten zu den CITES-Suspensionen von 20073.
+PROTA (Plant Resources of Tropical Africa): Hervorragende Quelle für die agronomische Nachzucht und tiefere ethnobotanische Vernetzungen in Kenia.
+Phylogenetische Forschung (Zhao et al., 2018): "Phylogeny and spatio-temporal diversification of Prunus subgenus Laurocerasus section Mesopygeum". Grundlagentext für die Ausbreitungsgeschichte der Sektion Mesopygeum von Asien nach Afrika7.
+9. Visuelle Beschreibung für eine Illustration
+Hinweis für die Illustration im Stil von Jonathan Droris Publikationen (z.B. von Lucille Clerc), die strukturelle Botanik, chemische Mechanismen und menschliche Einflüsse in einem Bild vereint:
+Zentrale Komposition: Das Bild wird von einem wuchtigen, vertikalen Stammsegment dominiert. Die Rinde ist extrem texturiert, tief zerklüftet und schuppig (grauschwarz). Im unteren Drittel ist ein großes Stück der Borke gewaltsam entfernt worden. Das freigelegte Phloem leuchtet in einem viszeralen Rötlich-Braun ("Red Stinkwood"). Neben dem Stamm steckt eine einfache afrikanische Machete im Boden, ein dezenter Hinweis auf die Ernte.
+Mikroskopische und chemische Ebene: Aus der Wunde im Baumstamm strömt kein gewöhnlicher Harz, sondern feine Linien, die sich zu dreidimensionalen Hexagon-Strukturen formen – die Molekülgitter von Beta-Sitosterol und Ursolsäure, die in ein abstraktes anatomisches Modell einer Vorsteherdrüse (Prostata) münden. Dies symbolisiert den Transfer vom Baumgewebe zur Humanmedizin.
+Botanische Details: Um den Stamm winden sich filigrane Zweige. Die Blätter sind perfekt elliptisch, tiefgrün und lackartig glänzend. Der Illustrator muss die tiefe Rille der Mittelader auf den Blattoberseiten betonen. Die Blattstiele leuchten in einem kräftigen Pink-Rot. In den Blattachseln hängen zarte, fast traurig wirkende Kaskaden von winzigen grünlich-weißen Blüten mit zahlreichen abstehenden Staubblättern. Auf einem der Zweige sitzt, stark verkleinert und fast mit den Blättern verschmelzend, ein afrikanisches Carruthers-Hörnchen, das eine der zweilappigen, gesäßförmigen purpurroten Früchte anknabbert.
+10. Was nicht belegt oder abschließend geklärt werden konnte
+Trotz umfangreicher Datenlage weisen die gesammelten Quellen für die spezifische Recherche-Route und Zeitschiene folgende epistemologische Lücken auf:
+Das Toponym "Mueri" in Kikuyu: Die Daten verifizieren durchgehend die lokale Bezeichnung Muiri (oder Mwiria, Muchorowe) für den Baum in der Kikuyu-Sprache4. Es lässt sich anhand der Quellen nicht verifizieren, ob die Angabe "Kikuyu: Mueri" in der Routenplanung des Nutzers einen geografischen Ort in den Aberdares, einen heiligen Waldhain oder lediglich eine orthografische Variante des Pflanzennamens darstellt.
+Taxonomischer Status der Kakamega-Variante: Die Studien weisen darauf hin, dass im Kakamega-Wald Exemplare mit abweichender Morphologie (längere grüne Petiolen, sphärische anstatt abgeflachte Früchte) existieren, die möglicherweise eine neue, mit P. serotina verwandte Art repräsentieren9. Es bleibt ungeklärt, ob diese Art offiziell anerkannt wurde und ob Setzlinge dieser Variante (etwa aus dem Brackenhurst Botanic Garden) im Raum Nairobi gepflanzt wurden, was die Bestimmung im Karura Forest verfälschen könnte.
+Tagesgenaue Phänologie im September 2026: Zwar ist die Blütezeit klimatisch auf Oktober bis Mai festgelegt3, jedoch reagiert P. africana höchst sensibel auf Niederschläge31. Da das genaue Einsetzen der "kleinen Regenzeit" im Jahr 2026 wetterbedingten Fluktuationen unterliegt, kann nicht garantiert werden, dass am exakten Datum (24.09. bis 12.10.) bereits geöffnete Blüten anzutreffen sind oder der Baum sich noch in der Knospenbildung befindet.
+Tagesaktuelle kenianische Wilderei-Statistiken: Die vorliegenden Daten dokumentieren den globalen Handel und die historischen Quotenüberschreitungen (z.B. >5.000 Tonnen pro Jahr für Europa, Limit bei 330 Tonnen)13. Spezifische, auf das Jahr 2026 projizierte Erntemengen aus illegalem Wildverschnitt in den kenianischen Kikuyu-Hochländern lassen sich aus den Fragmenten jedoch nicht isolieren.
+Works cited
+(PDF) Insights on cytogenetic of the only strict African representative, https://www.researchgate.net/publication/339438195_Insights_on_cytogenetic_of_the_only_strict_African_representative_of_genus_Prunus_P_africana_first_genome_size_assessment_heterochromatin_and_rDNA_chromosome_pattern
+Taxonomy, ecology, harvesting methods, ethnopharmacological use, https://www.researchgate.net/publication/404186344_Taxonomy_ecology_harvesting_methods_ethnopharmacological_use_trade_and_prospects_for_sustainable_management_of_Prunus_africana_Hook_f_Kalkman_Rosaceae
+Prunus africana - Wikipedia, https://en.wikipedia.org/wiki/Prunus_africana
+Prunus africana - GBIF, https://www.gbif.org/taxon/4N8N2
+Sokoine University of Agriculture, Department of Ecosystems and, https://www.gbif.org/publisher/a8864fd2-f4f9-40b1-bd9d-a8767e12b9ab/metrics
+SH0014844.10FU - GBIF, https://www.gbif.org/es/taxon/SH0014844.10FU
+(PDF) Phylogeny and spatio‐temporal diversification of Prunus, https://www.researchgate.net/publication/328750591_Phylogeny_and_spatio-temporal_diversification_of_Prunus_subgenus_Laurocerasus_section_Mesopygeum_Rosaceae_in_the_Malesian_region
+Introduction - IRIS, https://iris.who.int/bitstreams/3d613749-d5e9-4286-96db-7b3abc5dfdbe/download
+Model ecological restoration of submontane forest in Kenya, https://www.cbd.int/doc/c/ac61/d3ef/57470c4a91c4d4aaf97b76c0/fbws-2017-01-presentation-day3-nicholson-ecol-restoration-durban-2017-en.pdf
+African Plant Research & Conservation Centre - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/this-is-one-of-kenyas-most-consequential-indigenous-plantstetradenia-riparia-is-/1340195771624155/
+Prunus africana uses and benefits in Kenya - Facebook, https://www.facebook.com/ashley.jean.75457/posts/-scientific-nameprunus-africana-kikuyu-name-muiri-where-to-find-it-in-kenyafound/4539094529672919/
+Indigenous Wild Plant Use in Meru - Naturalis Institutional Repository, https://repository.naturalis.nl/pub/801824/Ibui-2007-Indigenous-knowledge-belief-and-practice-A.pdf
+PRUNUS AFRICANA n Kenya, its local names include ... - Facebook, https://www.facebook.com/groups/547682182067163/posts/2773607129474646/
+20 Indigenous Tree Species and Their Kikuyu Names - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/20-indigenous-tree-species-and-their-kikuyu-names-why-documenting-local-plant-na/1362273629416369/
+Caesalpinia volkensii: A Plant of Culture, Tradition and Indigenous, https://www.facebook.com/africanplantresearchcentre/posts/caesalpinia-volkensii-a-plant-of-culture-tradition-and-indigenous-knowledgeknown/1360027109641021/
+Common / Trade Names Red stinkwood, Prunus (Kenya) Local, https://www.facebook.com/simiyu.rubia/posts/common-trade-namesred-stinkwood-prunus-kenyalocal-nameskamba-mumbaume-keiyo-tend/2889235314547670/
+Craibia brownii is one of Kenya's least known indigenous trees, but, https://www.facebook.com/africanplantresearchcentre/posts/craibia-brownii-is-one-of-kenyas-least-known-indigenous-trees-but-it-has-long-be/1343602584616807/
+Clausena anisata is one of those indigenous trees you notice first by, https://www.facebook.com/africanplantresearchcentre/posts/clausena-anisata-is-one-of-those-indigenous-trees-you-notice-first-by-smell-befo/1232199179090482/
+(PDF) Ethnobotany of the Samburu of Mt. Nyiru, South Turkana, Kenya, https://www.researchgate.net/publication/6834716_Ethnobotany_of_the_Samburu_of_Mt_Nyiru_South_Turkana_Kenya
+ProstaHealth Archives - EuroHealth Project, https://www.eurohealthproject.com/blog/tag/prostahealth/
+Exploring the use of phytotherapy in benign prostatic hyperplasia, https://f1000research.com/articles/14-412
+The Lack of Standardization and Pharmacological Effect Limits the, https://www.mdpi.com/2223-7747/12/8/1722
+African plum: benefits, dosage, contraindications - Darwin Nutrition, https://www.darwin-nutrition.fr/en/active/african-plum/
+(PDF) Prunus africanus Herbal Extracts Reverse and Ameliorate the, https://www.researchgate.net/publication/354605986_Prunus_africanus_Herbal_Extracts_Reverse_and_Ameliorate_the_Histological_and_Histomorphometric_Changes_in_Testosterone-induced_Benign_Prostate_Hyperplasia_Rat_Models
+What do we know about phytotherapy of benign prostatic hyperplasia?, https://www.ovid.com/journals/lisci/pdf/10.1016/j.lfs.2015.01.023~what-do-we-know-about-phytotherapy-of-benign-prostatic
+A Review of the Potential of Phytochemicals from Prunus africana, https://pmc.ncbi.nlm.nih.gov/articles/PMC5327751/
+Prunus africana on Mount Cameroon: a case study of the production, https://www.academia.edu/30096647/Prunus_africana_on_Mount_Cameroon_a_case_study_of_the_production_to_consumption_systems
+An annotated checklist of the vascular plants of Aberdare Ranges, https://pmc.ncbi.nlm.nih.gov/articles/PMC7286935/
+Assessment of tree species distribution and diversity in the major, https://www.academia.edu/91712977/Assessment_of_tree_species_distribution_and_diversity_in_the_major_urban_green_spaces_of_Nairobi_city_Kenya
+Islands in the Desert—Forest Vegetation of Kenya'S Smaller, https://bioone.org/journals/journal-of-east-african-natural-history/volume-91/issue-1/0012-8317_2002_91_27_IITDVO_2.0.CO_2/Islands-in-the-DesertForest-Vegetation-of-KenyaS-Smaller-Mountains-and/10.2982/0012-8317(2002)91%5B27:IITDVO%5D2.0.CO;2.full
+Population structure and regeneration status of Prunus africana, https://academicjournals.org/journal/IJBC/article-full-text-pdf/2A2D04549023
+Changes of effective gene dispersal distances by pollen and seeds, https://huji.move-ecol.com/sites/default/files/Berens_etal2013Oikos.pdf
+PHENOLOGY AND GERMPLASM VARIATION OF Tetrapleura, http://repository.pgcollege.ui.edu.ng:8080/xmlui/bitstream/handle/123456789/1275/olaniyan.pdf?sequence=1&isAllowed=y
+Population Status And Conservation Hotspots Of Prunus Africana, https://erepository.kibu.ac.ke/bitstreams/481ce5a2-a435-4af0-ae1b-86350e7c44e9/download
+Ethnobotany of the Samburu of Mt. Nyiru, South Turkana, Kenya - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC1570449/

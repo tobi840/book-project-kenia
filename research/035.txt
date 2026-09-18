@@ -1,0 +1,170 @@
+Strukturiertes Rohmaterial: Ostafrikanische Siedleragame (Agama lionotus)
+1. Namen und Etymologie
+Die systematische Einordnung und Benennung der Art liefert Einblicke in ihre linguistische und wissenschaftliche Erfassungsgeschichte. Der gültige wissenschaftliche Name lautet Agama lionotus (Boulenger, 1896)1.
+Die Etymologie des Gattungsnamens Agama lässt sich auf das Sranan Tongo, eine in Surinam gesprochene Kreolsprache, zurückführen und bedeutet wörtlich übersetzt "Echse"3. Die Übernahme dieses Begriffs in die wissenschaftliche Nomenklatur erfolgte historisch durch frühe europäische Naturforscher, die den Namen irrtümlich auf altweltliche und neuweltliche Taxa anwandten. Das Artepitheton lionotus ist griechischen Ursprungs und setzt sich aus den Wörtern leios (wörtlich: "glatt") und notos (wörtlich: "Rücken" oder "Dorsum") zusammen1. Die wörtliche Bedeutung des wissenschaftlichen Namens lautet demnach "Glatte Rückenechse"1. Status der Angaben: gesichert.
+Der lateinische Name wurde im Jahr 1896 von dem am British Museum tätigen Zoologen George Albert Boulenger vergeben, der die Art zunächst als Unterart Agama agama lionotus auf der Basis von Material beschrieb, das während einer Expedition in Ostafrika gesammelt worden war1. Status der Angabe: gesichert.
+Im deutschen Sprachraum ist die Art unter dem Trivialnamen "Ostafrikanische Siedleragame" bekannt1. Im englischen Sprachraum werden die Bezeichnungen "Kenyan Rock Agama" und seltener "East African Rainbow Lizard" verwendet5. Status der Angaben: gesichert.
+In der Kultur der ostafrikanischen Küsten- und Inlandregionen, in denen Swahili gesprochen wird, trägt die Art den Namen "Mjusi kafiri"7. Dieser Name bedeutet wörtlich "die ungläubige Echse"7. Der Nutzeranfrage folgend werden Skinke im Gegensatz dazu "Mjusi islam" genannt. Weitere lokale Bezeichnungen in den Sprachen Maa, Kikuyu, Samburu, Giriama oder Kamba konnten in den wissenschaftlichen und kulturhistorischen Quellen nicht belegt werden. Status der Angaben: überliefert (Swahili), unauffindbar (andere lokale Sprachen).
+2. Erscheinung, mit Maßen
+Die Ostafrikanische Siedleragame weist einen ausgeprägten Geschlechts- und Altersdimorphismus auf, der sich sowohl in der Körpergröße als auch in der Färbung manifestiert4. Die Art gehört zu den mittelgroßen bis großen Vertretern der Agamen, zeichnet sich durch einen schlanken Habitus aus und besitzt einen Schwanz, der die Kopf-Rumpf-Länge signifikant übertrifft10. Zur Veranschaulichung der Größenordnung: Die Gesamtlänge ausgewachsener Tiere entspricht in etwa der Länge eines menschlichen Unterarms, während die Kopf-Rumpf-Länge (ohne Schwanz) der Länge einer durchschnittlichen menschlichen Handfläche nahekommt10. Status der Angaben: gesichert.
+Die nachfolgende Tabelle fasst die morphologischen Messwerte und Schuppenmerkmale (Pholidose) basierend auf Typusexemplaren und Feldmessungen zusammen.
+
+Merkmal
+	Männchen (Adult)
+	Weibchen / Jungtiere
+	Quelle / Status
+
+Gesamtlänge (Total Length)
+	20 cm bis 35 cm
+	20 cm bis ca. 30 cm
+	13 (gesichert)
+
+Kopf-Rumpf-Länge (SVL)
+	Bis ca. 120 mm
+	Ca. 90 mm bis 110 mm
+	10 (gesichert)
+
+Kopflänge (HL)
+	Ca. 23,19 mm
+	Proportionell kleiner
+	10 (gesichert)
+
+Kopfbreite (HW)
+	Ca. 15,68 mm
+	Proportionell schmaler
+	10 (gesichert)
+
+Kopfhöhe (HH)
+	Ca. 9,82 mm
+	Proportionell flacher
+	10 (gesichert)
+
+Präanalporen
+	12 Poren in einer Reihe
+	Keine oder stark reduziert
+	10 (gesichert)
+
+Nacken-Kamm (Nuchal crest)
+	14 schwach differenzierte, lanzenförmige Schuppen
+	Flacher, kaum ausgeprägt
+	10 (gesichert)
+
+Tympanum (Trommelfell)
+	Groß, oberflächlich, gleiche Größe wie das Auge
+	Identisch
+	10 (gesichert)
+
+Gewicht
+	Unbekannt
+	Unbekannt
+	Keine Daten (unauffindbar)
+Die Färbung ist das primäre diagnostische Merkmal zur Unterscheidung der Geschlechter und zur Abgrenzung von verwandten Arten innerhalb des Agama lionotus-Komplexes12.
+Dominante, territoriale Männchen zeigen in der Fortpflanzungs- und Territorialphase eine intensive Prachtfärbung. Der Kopf, der Nacken und die Vorderbeine nehmen eine flammende, scharlachrote bis orangefarbene Tönung an10. Der Rumpf, die Hinterbeine und die Schwanzwurzel sind tiefblau bis samtig schwarz gefärbt10. Ein zentrales Erkennungsmerkmal der Art ist der Schwanz: Das mittlere Drittel ist rötlich bis annuliert weiß/blau gezeichnet, während das letzte Drittel oberseits schwarz und unterseits weißlich gefärbt ist10. Die Kehle ist gelb oder rot gefärbt und weist V-förmige, dunkle Linien auf13. Bei einigen Populationen oder Unterarten (wie A. l. elgonis) zeigt die große Gularfalte ein retikuliertes Muster aus roten Streifen16. Status der Angaben: gesichert.
+Weibchen, Jungtiere und unterlegene (nicht-territoriale) Männchen weisen eine kryptische Färbung auf. Der Kopf ist olivgrün, der Rumpf ist olivgrün bis braun und mit gelben Punkten, Ocellen und Streifen durchsetzt1. Ein spezifisches Muster der Weibchen dieser Art ist eine Serie von regelmäßigen dunklen Flecken entlang der Wirbelsäule bis zur Schwanzbasis sowie ein Paar länglicher oranger oder gelber Markierungen an den Schultern und an den dorsolateralen Rändern des Abdomens12. Status der Angabe: gesichert.
+Das Schuppenkleid weist auf dem Rücken schwach gekielte Schuppen auf, die nach hinten größer und spitzer werden, insbesondere in der Sakralregion und an der Schwanzbasis10. Die Schuppen am Schwanz sind in Wirteln angeordnet, die aus jeweils drei Schuppenringen bestehen10.
+3. Der Mechanismus
+Die Ostafrikanische Siedleragame vereint zwei komplexe biologische Prinzipien, die ineinandergreifen, um Überleben und Fortpflanzung zu sichern: Die ritualisierte visuelle Kommunikation durch Bewegung ("Head-bobbing") und den physiologischen Farbwechsel. Beide Mechanismen ersetzen in der dichten sozialen Struktur der Agamen physische Kämpfe durch optische Statussignale17. Status der Mechanismen: gesichert.
+Der erste Mechanismus ist das "Head-bobbing" (Kopfnicken) in Kombination mit Liegestützen ("Push-ups"). Da Agamen tagaktiv und stark visuell orientiert sind, nutzen sie Bewegungssignale zur Distanzkommunikation auf exponierten Felsen9. Territoriale Männchen reagieren auf das Eindringen eines Konkurrenten mit einer stereotypen Abfolge vertikaler Körper- und Kopfbewegungen. Forschungen an Agamiden zeigen, dass die Frequenz, die Amplitude und die Dauer dieser Bewegungen direkte Indikatoren für die physische Fitness und Ausdauer des Senders sind17. Dieses Verhalten ist eng mit der Erweiterung der Gularfalte (Kehlsack) und einer lateralen Kompression des Körpers verbunden, wodurch das Tier seine Silhouette künstlich vergrößert9.
+Der zweite, damit gekoppelte Mechanismus ist der physiologische Farbwechsel. Im Gegensatz zum morphologischen Farbwechsel, der Wochen dauert und auf der Synthese neuer Pigmente beruht, findet der physiologische Farbwechsel bei Agamen innerhalb von Sekunden bis Minuten statt19. Die Farbe der Haut wird durch drei übereinanderliegende Schichten dermaler Chromatophoren (Farbzellen) erzeugt: Xanthophoren (enthalten gelbe/rote Pigmente) bilden die oberste Schicht, darunter liegen Iridophoren (erzeugen Strukturfarben), und die unterste Schicht bilden Melanophoren (enthalten das dunkle Pigment Melanin)19.
+Zwei konkurrierende, aber sich in der modernen Forschung ergänzende Erklärungen beschreiben die Funktionsweise dieses Farbwechsels:
+Pigmentdispersion (Melanophoren-Mechanismus): Melanosomen (Pigmentorganellen) bewegen sich innerhalb der sternförmigen Ausläufer der Melanophoren. Wandern die Melanosomen nach oben, verdunkelt sich die Haut; ziehen sie sich in das Zellzentrum zurück, werden die darüberliegenden hellen Struktur- und Pigmentfarben sichtbar24. Dieser Vorgang wird durch neurohormonale Reaktionen, insbesondere durch das Melanozyten-stimulierende Hormon (MSH) und Melatonin, gesteuert24.
+Strukturfarben-Tuning (Iridophoren-Mechanismus): Jüngere biophysikalische Forschungen (z. B. durch Teyssier et al. 2015 an Chamäleons und analog bei Agamen) belegen, dass die Iridophoren ein Gitter aus Guanin-Nanokristallen enthalten. Die Tiere können den Abstand zwischen diesen Kristallen aktiv und reversibel verändern23. Ein enges Gitter reflektiert kurzwelliges Licht (Blau/Grün), während ein durch zellulären Druck erweitertes Gitter langwelliges Licht (Gelb/Rot) reflektiert23.
+Ökologische Kausalkette der Konfliktlösung: (A) Ein territoriales Männchen sichtet einen Rivalen oder potenziellen Partner  (B) Neuroendokrine Stressreaktion (Ausschüttung von Hormonen)  (C) Die Guanin-Kristalle in den Iridophoren verändern ihren Abstand und die Melanosomen aggregieren im Zellzentrum  (D) Die leuchtende scharlachrote und blaue Prachtfärbung flackert innerhalb von Sekunden auf  (E) Das Männchen positioniert sich prominent und führt kraftraubende Liegestütze ("Push-ups") und rhythmisches Kopfnicken aus  (F) Der Konkurrent bewertet die Intensität der Farbe und die Frequenz der Bewegung als Proxy für Kraft und Gesundheit  (G) Der schwächere Rivale unterwirft sich oder flieht  (H) Physische Kämpfe, die zu fatalen Verletzungen oder zum Verlust des Schwanzes führen würden, werden vermieden9. Status der Kausalkette: gesichert.
+Zusätzlich dient der Farbwechsel der Thermoregulation (thermomelanistische Hypothese). Bei kühlen Morgentemperaturen dispergieren die Melanosomen, die Haut wird dunkel und absorbiert mehr solare Strahlung. Mit Erreichen der Vorzugstemperatur hellt die Echse auf, um Überhitzung zu vermeiden19. Status: gesichert.
+4. Ökologie und Verhalten
+Die Ostafrikanische Siedleragame bewohnt ein breites Spektrum an Habitaten, das von trockenen und feuchten Savannen über Halbwüsten bis hin zu subtropischem Trockengebüsch reicht12. Ihre vertikale Verbreitung erstreckt sich von Meereshöhe bis in Höhenlagen von 2.200 Metern (z. B. im Bereich des Ostafrikanischen Grabenbruchs und angrenzender Hochländer)15. Als Substratpräferenz nutzt die Art natürliche Felsformationen (Granit, metamorphes und vulkanisches Gestein), ist aber als hochgradiger Kulturfolger auch massiv an menschengemachten Strukturen wie Mauern, Hauswänden und Ruinen zu finden4. Status: gesichert.
+Der Tagesrhythmus ist streng diurnal (tagaktiv) und heliophil (sonnenliebend)4. Die bevorzugte Körpertemperatur (preferred body temperature) bei der Nahrungsaufnahme und Territorialverteidigung liegt bei etwa 36 °C20. Der Beginn der täglichen Aktivität wird nicht durch die reine Uhrzeit, sondern durch das Erreichen spezifischer mikroklimatischer Schwellenwerte gesteuert20. Bei Annäherung der Körpertemperatur an 38 °C suchen die Tiere den Schatten auf, um eine Überhitzung zu vermeiden3. Status: gesichert.
+Die Ernährung ist omnivor, weist aber einen starken Schwerpunkt auf Insekten auf9. Als Lauerjäger ("sit-and-wait predator") verharrt die Agame auf erhöhten Positionen und erbeutet vorbeilaufende Insekten mit schnellen Vorstößen20. Das Beutespektrum umfasst primär Ameisen (Formicidae, dokumentiert sind Gattungen wie Pheidole und Camponotus), Käfer (Coleoptera) und Fliegen26. Auch Termiten (z. B. Macrotermes) stellen eine hochkalorische Nahrungsquelle dar27. Sekundär werden Pflanzenbestandteile wie Blätter, Blüten und kleine Früchte aufgenommen3. Status: gesichert.
+Das Sozialsystem besteht häufig aus Kolonien, in denen ein dominantes Männchen ein Revier mit mehreren Weibchen und untergeordneten Jungtieren verteidigt3. Die Fortpflanzung ist ovipar. Weibchen legen Gelege von durchschnittlich 5 bis 7 Eiern in selbst gegrabene und anschließend verdeckte Sand- oder Erdhöhlen9. Die Inkubation dauert unter natürlichen Bedingungen etwa 8 bis 10 Wochen27. Bei der kryptischen Schwesterart A. agama wurde historisch erstmals die temperaturabhängige Geschlechtsbestimmung (TSD) bei Echsen nachgewiesen; kühle Temperaturen bringen Weibchen hervor, warme Temperaturen (ca. 30 °C) Männchen1. Status: gesichert (für das Genus und die Schwesterart dokumentiert).
+Im afrikanischen Ökosystem dient die Art als wichtige Nahrungsquelle für Prämierkonsumenten. Zahlreiche Prädatoren sind auf Agamen spezialisiert oder nutzen sie opportunistisch, darunter Greifvögel (wie der Turmfalke Falco tinnunculus und Habichte), Schlangen (insbesondere Sandrennnattern der Gattung Psammophis, Puffottern Bitis arietans) sowie Säugetiere wie Ginsterkatzen und Hauskatzen9. Zudem sind Agamen Wirte für Ektoparasiten (Zecken) und Blutparasiten (Hämatozoen, wie Plasmodium ssp.)31. Status: gesichert.
+Konkretes Verhalten im Reisezeitraum (Ende September bis Mitte Oktober): In Kenia markiert dieser Zeitraum das Ende der langen Trockenzeit und den Beginn der "kleinen Regenzeit" (Short Rains). Dieses meteorologische Ereignis diktiert das Verhalten der Art. Ökologische Kausalkette: (A) Der erste beständige Niederschlag nach der monatelangen Trockenphase weicht die harten Böden auf  (B) Insektenkolonien, insbesondere eusoziale Insekten wie Termiten und Ameisen, reagieren auf den Feuchtigkeits- und Druckwechsel mit synchronisiertem Schwärmen (Alates, geflügelte Geschlechtstiere)  (C) Das plötzlich hyperabundante, protein- und fettreiche Nahrungsangebot bricht den energetischen Flaschenhals der Trockenzeit  (D) Die Agamen maximieren ihre Nahrungsaufnahme durch massives "Sit-and-wait"-Foraging  (E) Weibchen nutzen die aufgenommene Energie zur Synthese von Dotter (Vitellogenese) und bilden Eier aus, während Männchen ihre Reviere für die Paarungssaison etablieren und verteidigen15. Ende September ist die Art daher hochaktiv bei der Nahrungsbeschaffung, im Oktober verlagert sich das Verhaltensmuster verstärkt auf Territorialität, Prachtfärbung und Paarung. Status: Abgeleitet aus gesicherten klimatischen und biologischen Rhythmen Ostafrikas.
+5. Menschen und Kultur in Kenia
+Die Ostafrikanische Siedleragame ist in Kenia allgegenwärtig und tief in lokalen Beobachtungen verwurzelt, wird jedoch nicht materiell genutzt. Die Nutzung als Nahrungsquelle, Material, medizinisches Substitut oder als relevante Handelsware ist nicht dokumentiert4. Im internationalen Heimtierhandel taucht die Art gelegentlich auf, jedoch in vernachlässigbaren Stückzahlen, weshalb keine Bestandsgefährdung durch den Menschen besteht4. Status: gesichert.
+In der Swahili-Kultur der kenianischen und tansanischen Küsten- und Binnenstädte spielt die Agame eine Rolle in mythischen Überlieferungen. Unter dem Namen Mjusi kafiri ("die ungläubige Echse") ist sie negativ konnotiert7.
+Mythos der Verspottung: Das ständige, rhythmische Kopfnicken ("Head-bobbing") der Agamen wird im lokalen Volksglauben als Blasphemie gedeutet. Es wird überliefert, die Echse ahme den Rhythmus des islamischen rituellen Gebets (Salah) nach, um die Betenden zu verspotten7. Status: überliefert.
+Mythos des Feuers: Eine weitere Erzählung verknüpft die Echse mit der Legende von Abraham und König Nimrod. Als Abraham in ein loderndes Feuer geworfen werden sollte, versuchten alle Tiere das Feuer zu löschen – mit Ausnahme des Mjusi kafiri, der sich an den Rand setzte und versuchte, die Flammen durch Pusten anzufachen7. Aus diesen Gründen wird die Agame im Gegensatz zu Skinken (Mjusi islam) traditionell geringgeschätzt. Status: überliefert.
+Es gibt keine dokumentierten Konflikte mit Menschen. Da Agamen große Mengen an potenziellen Schadinsekten (Termiten, Ameisen, Fliegen) vertilgen, werden sie in Siedlungen und Lodges toleriert und teilweise als nützlich erachtet9.
+Auf der globalen Roten Liste der IUCN (The IUCN Red List of Threatened Species) wurde Agama lionotus im Assessment-Jahr 2021 offiziell evaluiert und in die Kategorie "Least Concern" (Nicht gefährdet) eingestuft4. Genaue Bestandszahlen (Populationsgrößen) sind nicht bekannt, die Population gilt jedoch aufgrund ihrer enormen Anpassungsfähigkeit an anthropogen veränderte Landschaften als stabil4. Status: gesichert.
+6. Wissenschaftsgeschichte
+Die Entdeckung und Klassifizierung der Art ist eng mit der kolonialen Erschließungsgeschichte Ostafrikas verknüpft. Die ersten wissenschaftlich dokumentierten Exemplare wurden während einer Expedition in den Jahren 1894 und 1895 von dem US-amerikanischen Arzt und Naturforscher Dr. Arthur Donaldson Smith gesammelt2. Diese Expedition startete im heutigen Somalia und führte durch unkartierte Gebiete Äthiopiens und Kenias bis zum Lake Rudolf (dem heutigen Lake Turkana in Kenia)11. Die dabei gesammelten Reptilien wurden an das British Museum of Natural History in London gesendet. Status: gesichert.
+Dort untersuchte der renommierte belgisch-britische Herpetologe George Albert Boulenger die Präparate und verfasste 1896 den "Second Report on the Reptiles and Batrachians collected by Dr. A. Donaldson Smith during his Expedition to Lake Rudolf"1. In dieser Publikation beschrieb Boulenger das Tier erstmals unter dem Namen Agama lionotus1. Status: gesichert.
+Taxonomische Kontroverse und Aufspaltung: Über ein Jahrhundert lang herrschte in der Herpetologie Unklarheit über den Status der Art. Die hohe Variabilität im Schuppenkleid afrikanischer Agamen führte dazu, dass A. lionotus ab Mitte des 20. Jahrhunderts lediglich als ostafrikanische Unterart der weit verbreiteten, west- und zentralafrikanischen Agama agama (Linnaeus, 1758) klassifiziert wurde (als Agama agama lionotus)1.
+Die Wende in der Wissenschaftsgeschichte der Art vollzog sich in den Jahren 2005 bis 2008. Ein Forscherteam um den deutschen Herpetologen Philipp Wagner sowie Wolfgang Böhme, Patrick Malonza, Stefan Lötters und Jörn Köhler führte umfangreiche genetische und morphologische Untersuchungen durch14. Die Studie aus dem Jahr 2005 (publiziert im Russian Journal of Herpetology) hob den Agama lionotus-Komplex wieder in den Artstatus (Spezies-Rang)12. Philipp Wagner und Kollegen konnten nachweisen, dass nicht die variable Beschuppung, sondern die Hals- und Kehlfärbung territorialer Männchen sowie die spezifische Rückenmusterung der Weibchen die verlässlichsten Schlüsselmerkmale (Key Characters) zur Abgrenzung afrikanischer Agamenarten sind12. Durch diese Studien wurde Agama lionotus als endemische Kern-Art Ostafrikas revalidiert, während ähnliche Tiere als eigenständige Arten abgetrennt wurden (z.B. Agama finchi oder Agama turuensis)1. Status: gesichert.
+7. Fotografie
+Die Route entlang des Rift Valleys (Lake Naivasha, Lake Nakuru, Lake Baringo und Hell's Gate National Park) durchquert das Kernhabitat von Agama lionotus.
+Ort / Struktur
+	Relevanz für Sichtung
+
+Hell's Gate National Park
+	Optimal. Die steilen, dunklen Vulkanfelsen und Schluchtenwände bieten Kontrast zur Prachtfärbung. Tiere sitzen morgens auf freistehenden Blöcken.
+
+Lake Baringo / Nakuru / Naivasha
+	Sehr hoch. An den steinigen Ufern, auf Ruinen und an den warmen Stein- und Betonmauern der Lodges und Zelt-Camps.
+Tageszeit: Die Tiere sind ab ca. 09:00 Uhr aktiv, sobald die Sonne das Gestein erwärmt. Die besten Fotomöglichkeiten bestehen am Vormittag (09:00 bis 11:30 Uhr) und am späten Nachmittag (15:30 bis 17:30 Uhr). In der Mittagshitze ziehen sie sich bei Temperaturen über 38 °C in den Schatten zurück3.
+Ausrüstung: Da die Tiere bei zu starker Annäherung fliehen, sind die Teleobjektive mit 100 bis 400 mm und insbesondere 150 bis 600 mm die Werkzeuge der Wahl. Mit dem 600-mm-Objektiv lassen sich formatfüllende Porträts der scharlachroten Männchen auf den Felsen realisieren, ohne die Fluchtdistanz zu unterschreiten. Die kurzen Brennweiten (45 mm, 26–60 mm) sind für diese Art ungeeignet, es sei denn, man möchte das Tier winzig im weiten Habitat des Hell's Gate abbilden.
+Verhalten zum Abwarten: Es lohnt sich, ein statisch sonnendes Prachtmännchen zu fokussieren und zu warten. Sobald ein Konkurrent oder ein Weibchen in Sichtweite kommt, beginnt das Männchen mit dem "Head-bobbing" und rasanten "Push-ups" (Liegestützen). Dabei bläht es die Kehlfalte auf, und die Farben leuchten maximal17.
+Verschlusszeiten (Richtwerte):
+Ruhend / Basking: 1/250 s bis 1/500 s (bei ruhender Kamera oder Stativ).
+Territoriales Display (Kopfnicken): Mindestens 1/1000 s bis 1/1250 s, da die vertikale Nickbewegung extrem schnell ist und sonst verwischt.
+Flucht / Sprung (von Stein zu Stein): 1/2000 s bis 1/2500 s, mit kontinuierlichem Autofokus (AF-C).
+Typische Fehler und Fluchtdistanz: Ein Fehler ist die direkte, schnelle Annäherung von oben, was die Attacke eines Greifvogels simuliert. Die Agamen reagieren darauf mit sofortiger Flucht in Felsspalten4. Die genaue Fluchtdistanz in Metern ist in der Literatur nicht spezifiziert, erfordert bei Wildtieren jedoch behutsames, tiefes Annähern auf Augenhöhe. An Lodges sind die Tiere habituiert und lassen Menschen oft auf 2 bis 3 Meter heran.
+8. Links zum Weiterlesen und Sehen
+IUCN Red List (Fachliche Quelle): https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T17450619A17450625.enDas offizielle Assessment der Weltnaturschutzunion aus dem Jahr 2021, das den Status der Art als "Least Concern" klassifiziert.
+The Reptile Database (Fachliche Quelle): https://reptile-database.reptarium.cz/species.php?genus=Agama&species=lionotusDie umfassendste taxonomische Ressource zur Art, inklusive der vollständigen Synonymie, Unterarten und der Abgrenzung zu Agama agama.
+Zoological Bulletin, Wagner et al. (Fachartikel): https://zoologicalbulletin.de/BzB_Volumes/Volume_56_4/215_223_BZB56_4_Wagner_Philipp_et_al.PDFDie zentrale wissenschaftliche Publikation zur Nomenklatur, Neuzuordnung und der Notwendigkeit der taxonomischen Revision des Agama agama-Komplexes.
+Wikimedia Commons (Fotos): https://commons.wikimedia.org/wiki/Category:Agama_lionotusSammlung hochauflösender, frei nutzbarer Fotografien, die sowohl die Prachtfärbung der Männchen als auch die kryptische Musterung der Weibchen dokumentieren.
+iNaturalist (Fotos / Verbreitung): https://www.inaturalist.org/photos/176134598Verifiziertes Citizen-Science-Foto eines Exemplars von A. lionotus mit konkreten GPS-Koordinaten und Funddaten aus Kenia.
+GBIF (Verbreitungskarte): https://www.gbif.org/taxon/5226293 (Historische ID referenziert in Wikidata) bzw. Haupt-Taxon Suche über https://www.gbif.org/species/5226293 (abgeleitet aus Snippets).Die Global Biodiversity Information Facility aggregiert Funddaten und Geokoordinaten zur Erstellung von Verbreitungskarten.
+9. Visuelle Beschreibung für eine Illustration
+The dominant male Agama lionotus adopts a rigid, elevated posture atop a sunlit, deeply fissured volcanic rock, supporting its slender upper body on robust, extended forelimbs while its long, muscular hind legs remain flexed and ready to sprint. Its slightly flattened, triangular head blazes in an intense, flame-like scarlet-red, creating a striking boundary against the velvety, jet-black to deep indigo coloration covering its torso and limbs. The tail, accounting for more than half the reptile's total length, features alternating rings of stark white and dark blue, terminating in a dark tip. The throat is noticeably expanded into a gular fold, revealing faint, dark V-shaped lines against a yellow or red background, signaling its readiness for territorial display.
+Detail 1 (Scales): A macro view of the dorsal scales in the sacral region, showing them as weakly keeled, overlapping pentagonal structures that become progressively more pointed and heavily keeled toward the base of the tail.
+Detail 2 (Eye): A close-up of the lateral eye, characterized by a perfectly round, dark pupil surrounded by a golden-brown iris and framed by a rim of fine, granular, lidless-looking scales.
+Detail 3 (Claws): The forefoot grasping the rock, highlighting the three middle digits which are the longest, ending in sharp, recurved claws adapted for gripping vertical volcanic stone.
+Cultural Vignette: A rustic Swahili coastal hearth scene in the background, featuring a smoldering fire pit and a traditional carved wooden prayer bead necklace (Misbaha) resting on a stone, evoking the local myths of the lizard blowing on fires and mocking prayer.
+10. Was du nicht belegen konntest
+Folgende Spezifikationen der Nutzeranfrage konnten durch die vorliegenden wissenschaftlichen und kulturellen Quellen (Snippets) nicht mit belastbaren Fakten oder absoluten Zahlenwerten belegt werden:
+Gewicht in Gramm: Es existieren zahlreiche metrische Maßangaben zur Kopf-Rumpf-Länge, Schwanzlänge und Kopfbreite, jedoch fehlen in der herpetologischen Literatur der Snippets exakte Massen- oder Gewichtsangaben für Agama lionotus.
+Lokale Bezeichnungen der Binnenland-Ethnien: Namen in den Sprachen Maa (Maasai), Kikuyu, Samburu, Giriama oder Kamba waren nicht auffindbar. Ausschließlich der Swahili-Begriff konnte historisch belegt werden.
+Exakte Fluchtdistanz in Metern: Die Quellen beschreiben das Verhalten als scheu und die Flucht als blitzartig in Felsspalten, benennen jedoch keine durchschnittliche Fluchtdistanz in absoluten Zahlen (z. B. "Flucht ab 4 Metern").
+Monatsgenaue Verhaltensprotokolle: Dass die Art Ende September bis Mitte Oktober brütet, lässt sich ökologisch deduktiv durch den Regenzeitbeginn und den Termitenflug (Nahrungsspitze) ableiten, ist jedoch nicht als empirisches, datumsspezifisches Zitat in den Quellen referenziert.
+Referenzen
+Agama lionotus BOULENGER, 1896 - The Reptile Database, https://reptile-database.reptarium.cz/Agama/lionotus
+Agama lionotus - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Agama_lionotus
+Agama (lizard) - Wikipedia, https://en.wikipedia.org/wiki/Agama_(lizard)
+Ostafrikanische Siedleragame - Zootier Lexikon, https://www.zootier-lexikon.org/kriechtiere-reptilia/echsen/agamen/agamidae-agama-lionotus
+Agama lionotus (Kenyan Rock Agama) - BioLib.cz, https://www.biolib.cz/en/taxon/id449931/
+Agama lionotus - Wikipedia, https://en.wikipedia.org/wiki/Agama_lionotus
+The Mythology of All Races 7 : Armenian and African - dokumen.pub, https://dokumen.pub/the-mythology-of-all-races-7-armenian-and-african.html
+The Mythology of All Races, Volume 7: Armenian and African, https://wordandsilence.com/wp-content/uploads/2017/11/mythology-of-all-races-7-armenian-african.pdf
+Agama Lizard - A-Z Animals, https://a-z-animals.com/animals/agama-lizard/
+Agamidae) from western Kenya, East Africa, with comments on, https://www.researchgate.net/publication/258867706_A_new_species_of_the_Agama_agama_group_Squamata_Agamidae_from_western_Kenya_East_Africa_with_comments_on_Agama_lionotus_Boulenger_1896
+(PDF) Additions to the lizard diversity of the Horn of Africa: Two new, https://www.researchgate.net/publication/256847305_Additions_to_the_lizard_diversity_of_the_Horn_of_Africa_Two_new_species_in_the_Agama_spinosa_group
+Agamidae) from synonymy and elevation to species rank, https://www.researchgate.net/publication/281575014_Studies_on_African_Agama_III_Resurrection_of_Agama_agama_turuensis_Loveridge_1932_Squamata_Agamidae_from_synonymy_and_elevation_to_species_rank
+A Photographic Guide To Snakes, Other Reptiles and Amphibians of, https://www.scribd.com/document/622641044/A-Photographic-Guide-to-Snakes-other-Reptiles-and-Amphibians-of-East-Africa-PDFDrive
+Studies on African Agama VIII. A new subspecies of ... - ResearchGate, https://www.researchgate.net/publication/235915807_Studies_on_African_Agama_VIII_A_new_subspecies_of_Agama_caudospinosa_Meek_1910_Sauria_Agamidae
+Agama turuensis - Grokipedia, https://grokipedia.com/page/agama_turuensis
+Studies on African Agama IX. New insights into Agama finchi Böhme, https://zoologicalbulletin.de/BzB_Volumes/Volume_60_1/025_034_BzB60_1_Wagner_Philipp_et_al.pdf
+Opponent assessment in lizards: examining the effect of aggressive, https://www.researchgate.net/publication/46512315_Opponent_assessment_in_lizards_Examining_the_effect_of_aggressive_and_submissive_signals
+interpreting the function of visual displays of the Indian rock lizard, https://www.researchgate.net/publication/225719342_The_language_of_lizards_Interpreting_the_function_of_visual_displays_of_the_Indian_rock_lizard_Psammophilus_dorsalis_Agamidae
+and structurally based body coloration in a polymorphic lizard, https://digital.csic.es/bitstream/10261/431873/1/Romero-Diaz_JTherBiol_2025.pdf
+Notes on the ecology of a suburban population of Rainbow lizards in, https://www.researchgate.net/publication/230089866_Notes_on_the_ecology_of_a_suburban_population_of_Rainbow_lizards_in_coastal_Kenya
+Surprising Facts about Lizards Mating Behaviors - YouTube, https://www.youtube.com/watch?v=RbGQ6Zt0oVE
+Links Between Variation in Movement-Based Visual Signals and, https://pmc.ncbi.nlm.nih.gov/articles/PMC11718965/
+Photonic crystals cause active colour change in chameleons - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC4366488/
+Variation in Color and Color Change in Island and Mainland Boas, https://biology.appstate.edu/sites/default/files/28_boback_siefferman_2010.pdf
+Clubbed Regenerated Tails in Agama agama and Their Possible, https://www.researchgate.net/publication/274332683_Clubbed_Regenerated_Tails_in_Agama_agama_and_Their_Possible_Use_in_Social_Interactions
+A Comparison of the Breeding and Nonbreeding Season Diets of, https://bioone.org/journals/journal-of-herpetology/volume-36/issue-3/0022-1511(2002)036%5B0515%3AACOTBA%5D2.0.CO%3B2/A-Comparison-of-the-Breeding-and-Nonbreeding-Season-Diets-of/10.1670/0022-1511(2002)036[0515:ACOTBA]2.0.CO;2.short
+REPTILES (Agama Lizard): Ultimate Guide, https://www.notesforshs.com/2022/11/reptiles-agama-lizard.html
+the great rift economic development corridor (biretwo-arror, https://www.afdb.org/sites/default/files/kenya-road-development-project-phase-1-biretwo-arror-chesongoch-road-project-biodiversity-management-plan.pdf
+Acanthocercus atricollis (SMITH, 1849) - The Reptile Database, https://reptile-database.reptarium.cz/Acanthocercus/atricollis
+Lucy's Agama (Agama lucyae) - All Angles Creatures, https://www.allanglescreatures.com/species/agama-lucyae
+aCaRI (ChelICeRaTa) — PaRasITes OF RePTIles M. Fajfer, https://acarina.utmn.ru/upload/iblock/cb5/Fajfer2012.pdf
+Untersuchung zum Blutparasitenstatus importierter Reptilien, https://edoc.ub.uni-muenchen.de/18598/7/Halla_Ursula.pdf
+Digo-English-Swahili Dictionary - Bible Translation & Literacy, https://www.btlkenya.org/wp-content/uploads/2021/06/Digo-Dictionary-1.pdf
+Full text of "A handbook of the Swahili language, as spoken at, https://archive.org/stream/handbookofswahil00steeuoft/handbookofswahil00steeuoft_djvu.txt
+(PDF) THE MYTHOLOGY OF ALL RACES, Volume 7, Armenian (By, https://www.academia.edu/35319827/THE_MYTHOLOGY_OF_ALL_RACES_Volume_7_Armenian_By_MARDIROS_H_ANANIKIAN_and_African_Mythologies_Editorial_group_1925
+Agama agama (LINNAEUS, 1758) - The Reptile Database - Reptarium, https://reptile-database.reptarium.cz/Agama/agama
+(PDF) An extraordinary tail - integrative review of the agamid genus, https://www.researchgate.net/publication/235960366_An_extraordinary_tail_-_integrative_review_of_the_agamid_genus_Xenagama
+Agama lionotus - GBIF, https://www.gbif.org/taxon/5DF4B
+Studies on African Agama V. On the origin of Lacerta agama, https://zoologicalbulletin.de/BzB_Volumes/Volume_56_4/215_223_BZB56_4_Wagner_Philipp_et_al.PDF
+Agama - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Agama

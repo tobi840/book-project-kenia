@@ -1,0 +1,426 @@
+Forschungsbericht: Ökologische, botanische und ethnopharmakologische Profilierung von Aloe secundiflora im Laikipia-Ökosystem
+1. Nomenklatur, Etymologie und Taxonomie
+Die taxonomische Klassifizierung und linguistische Erfassung der Art Aloe secundiflora zeichnet sich durch eine komplexe Historie und eine weitreichende regionale Verankerung in Ostafrika aus. Die wissenschaftliche Erstbeschreibung erfolgte im Jahr 1895 durch den deutschen Botaniker Heinrich Gustav Adolf Engler in seinem Werk „Die Pflanzenwelt Ost-Afrikas und der Nachbargebiete“1. Die Vergabe des lateinischen Namens ist somit historisch gesichert.
+Das spezifische Epitheton secundiflora leitet sich aus dem Lateinischen ab und bedeutet wörtlich übersetzt „einseitswendig blühend“ (von secund = auf eine Seite gerichtet, und flora = Blüte)6. Diese Benennung, deren Status als gesichert gilt, referenziert die spezifische morphologische Anordnung der Einzelblüten am Blütenstand. Innerhalb der Taxonomie der Gattung Aloe (Familie Asphodelaceae) ergaben phylogenetische Studien auf Basis der ribosomalen DNA-Evolution, dass die Art einen diploiden Chromosomensatz von 2n = 14 aufweist5.
+Die Art weist eine hohe morphologische Variabilität auf, was in der wissenschaftlichen Historie zu einer Vielzahl von Synonymbeschreibungen führte, die heute alle in der Nominatform Aloe secundiflora var. secundiflora zusammengefasst werden. Als gesicherte Synonyme gelten Aloe engleri A.Berger, Aloe floramaculata und Aloe marsabitensis I.Verd. & Christian10. Neben der Nominatform wird in der systematischen Literatur die Varietät Aloe secundiflora var. sobolifera S.Carter geführt, welche sich durch die Bildung von Ausläufern auszeichnet17.
+Die lokalen und trivialen Bezeichnungen dokumentieren die weitreichende kulturelle Integration der Pflanze in Kenia. Die wörtliche Bedeutung oder etymologische Herleitung der indigenen Namen (Maa, Samburu, Kamba, Kikuyu, Giriama, Meru, Taita, Turkana, Kichagga) ist in der vorliegenden wissenschaftlichen Literatur unbekannt.
+
+Sprache / Ethnie
+	Bezeichnung
+	Status der Zuordnung
+	Belegquelle
+
+Wissenschaftlich (Latein)
+	Aloe secundiflora Engl.
+	Gesichert
+	1
+
+Synonyme (Latein)
+	A. engleri, A. floramaculata, A. marsabitensis
+	Gesichert
+	10
+
+Deutsch
+	Sekundiflora-Aloe
+	Überliefert (gemäß Anfrage)
+	N/A
+
+Englisch
+	Aloe, Sunbird Aloe
+	Gesichert
+	20
+
+Swahili
+	Mshubiri
+	Gesichert
+	22
+
+Maa (Maasai)
+	Osukuroi
+	Gesichert
+	23
+
+Samburu
+	Sukuroi
+	Gesichert
+	20
+
+Kamba
+	Kiluma
+	Gesichert
+	20
+
+Kikuyu
+	Mugwanugu
+	Gesichert
+	26
+
+Giriama (Mijikenda)
+	Mugucwa (Präfix ki-/chi- variabel)
+	Gesichert
+	29
+
+Meru
+	Kithunju
+	Gesichert
+	31
+
+Kichagga
+	Isale la njofu
+	Gesichert
+	20
+
+Taita
+	Kipapa
+	Gesichert
+	26
+
+Turkana
+	Ejichuka
+	Gesichert
+	26
+2. Erscheinungsbild und biometrische Daten
+Aloe secundiflora ist eine immergrüne, mehrjährige, sukkulente Pflanze, die in der Literatur als Kraut oder Strauch klassifiziert wird2. Das Wachstumsverhalten ist durch solitäre Rosetten oder kleine Gruppen von bis zu drei Rosetten geprägt, wobei die Varietät sobolifera abweichend Ausläufer bildet5. Systematisch erfasste morphologische Unterschiede zwischen Geschlechtern existieren nicht, da die Blüten zwittrig sind. Ebenso sind spezifische Maßabweichungen zwischen Altersstufen in der wissenschaftlichen Literatur nicht belastbar quantifiziert. Gewichtsangaben für die Gesamtpflanze oder Einzelblätter sind in den untersuchten Quellen unbekannt.
+
+Morphologisches Merkmal
+	Maß / Spezifikation
+	Alltagsvergleich (rechnerisch abgeleitet)
+	Status
+	Belegquelle
+
+Gesamthöhe (vegetativ)
+	80 bis 100 cm
+	Höhe eines Standard-Türgriffs (ca. 1 m)
+	Gesichert
+	34
+
+Stammdurchmesser
+	0,5 bis 1,0 cm
+	Durchmesser eines handelsüblichen Bleistifts
+	Gesichert
+	6
+
+Rosettenbreite
+	8 bis 15 cm
+	Breite einer durchschnittlichen Handfläche
+	Gesichert
+	35
+
+Blattbreite
+	0,5 bis 2,0 cm (tlw. 0,3 bis 0,5 cm)
+	Breite eines kleinen Fingers
+	Gesichert
+	6
+
+Länge der Randzähne
+	0,5 bis 1,0 mm
+	Spitze eines Kugelschreibers
+	Gesichert
+	6
+
+Höhe des Blütenstamms
+	25 bis 40 cm (tlw. bis 50 cm)
+	Länge eines Unterarms
+	Gesichert
+	35
+
+Höhe des Blütenstands (inkl. Verzweigungen)
+	Bis zu 100 cm
+	Höhe eines Standard-Türgriffs
+	Gesichert
+	37
+
+Länge der Blütentraube (Raceme)
+	8 bis 26 cm
+	Länge eines Lineals oder Unterarms
+	Gesichert
+	20
+
+Anzahl der Zweige (Infloreszenz)
+	Bis zu 20 abstehende Zweige
+	N/A
+	Gesichert
+	37
+
+Blütenfarbe
+	Leuchtend rot bis orange
+	N/A
+	Gesichert
+	38
+
+Blütenform
+	Röhrenförmig, dicht gedrängt
+	N/A
+	Gesichert
+	38
+Die Infloreszenz wird als endständige oder achselständige Pseudo-Traube (Raceme) beschrieben20. Das innere Blattgewebe besteht aus einem klaren Gel, während in den longitudinalen Gefäßen an den Außenseiten der Gefäßbündel ein gelbliches, bitteres Exsudat produziert wird5.
+3. Die biologischen und ökologischen Mechanismen
+Das ökologische Profil von Aloe secundiflora wird durch zwei unabhängig voneinander erforschte, hochspezifische Kausalketten bestimmt: ein biochemischer Mechanismus zur Virusabwehr (virologisch bestätigt) und ein ökologischer Mechanismus zur Habitat-Regeneration (Ammenpflanzen-Effekt). Beide Prinzipien beruhen auf belastbaren wissenschaftlichen Studien und quantitativen Daten.
+3.1 Der biochemische Mechanismus: Antivirale Kausalkette bei der Newcastle-Krankheit
+Die empirische Beobachtung, dass Maasai-Frauen ihre Hühnerbestände durch die Verabreichung eines Blattsuds vor der Newcastle-Krankheit (Newcastle Disease Virus, NDV) schützen, wurde im Jahr 2002 durch den Forscher R. K. Waihenya (Universität Dar es Salaam) und sein Team im Journal of Ethnopharmacology virologisch und klinisch bestätigt8. Die Newcastle-Krankheit gilt gemäß der Weltorganisation für Tiergesundheit (OIE) als eine der signifikantesten und verlustreichsten Viruserkrankungen bei Geflügel weltweit45.
+Die ökologisch-biochemische Kausalkette der Virushemmung verläuft wie folgt:
+Verabreichung (A): Freilandhühner nehmen das Rohextrakt oder den Kaltauszug der Aloe secundiflora präventiv oder akut über das Trinkwasser auf5.
+Phytochemische Interaktion (B): Im Organismus der Vögel interagieren die im Extrakt enthaltenen antiviralen Polysaccharide sowie spezifische Anthrachinon-Glykoside direkt mit den Viren44.
+Strukturelle Zerstörung und Immunmodulation (C): Diese chemischen Verbindungen beschädigen die schützenden Proteinhüllen (Coatings) des Newcastle-Disease-Virus44. Simultan induziert die Aufnahme des Extrakts eine Erhöhung der Interleukin-Spiegel im Wirtsorganismus, was eine signifikante Immunmodulation (Immune Boosting) bewirkt46.
+Klinischer Endpunkt (D): Durch die beschädigten Virushüllen und die stimulierte Immunantwort sinkt die Viruslast im Wirt signifikant47. Dies führt nachweislich zu einer reduzierten Krankheitsschwere und einer messbar gesenkten Mortalitätsrate in den Geflügelbeständen49. Identische Kausalketten wurden für die antibakterielle Wirkung gegen Salmonella gallinarum (Erreger des Geflügeltyphus) nachgewiesen46.
+Kontroverse zur phytochemischen Zusammensetzung: Der biochemische Mechanismus beruht auf phenolischen Verbindungen, primär Chromonen und Anthronen. Der genaue phytochemische Aufbau des wirksamen Exsudats ist in der Wissenschaft jedoch umstritten. Einerseits postulieren verschiedene Studien das Vorhandensein der Anthrachinone Aloin A (Barbaloin) und Aloin B (Isobarbaloin) als Hauptwirkstoffe in Aloe secundiflora5. Andererseits widerlegte eine präzise HPLC-MS-Analyse (High-Performance Liquid Chromatography-Mass Spectrometry) aus dem Jahr 2003 diese These: In dieser Studie konnten in Aloe secundiflora keine der bekannten Aloin-Derivate nachgewiesen werden; stattdessen wurden die Anthrone Aloenin und Aloenin B als Hauptkomponenten identifiziert52.
+3.2 Der ökologische Mechanismus: Die "Nurse Plant"-Kaskade
+Das zweite definierende Prinzip der Art ist ihre Funktion als "Nurse Plant" (Ammenpflanze) in degradierten Ökosystemen. Dieser Mechanismus wurde zwischen 2004 und 2008 maßgeblich durch die Ökologin Elizabeth G. King am Mpala Research Centre im Laikipia-Ökosystem (Kenia) erforscht und im Journal of Arid Environments publiziert55.
+Die ökologische Kausalkette der Habitat-Regeneration verläuft wie folgt:
+Degradation (A): In den semi-ariden Weidegebieten (Rangelands) Kenias führt eine Kombination aus Überweidung (Overgrazing) und klimatischem Stress zu vegetationslosen Kahlstellen. Auf diesen nackten Böden findet verstärkte Bodenerosion statt, und das spärliche Niederschlagswasser fließt als Oberflächenwasser ungenutzt ab61.
+Besiedlung (B): Aufgrund ihrer hohen Trockenheitsresistenz und Sukkulenz ist Aloe secundiflora in der Lage, sich auf diesen hochgradig erodierten Kahlstellen zu etablieren und Wurzeln zu schlagen41.
+Fazilitation und Mikroklima (C): Das physische Vorhandensein des wachsenden Strauchs blockiert den schnellen Oberflächenwasserabfluss, spendet Schatten und verringert die Winderosion. Diese als "facilitative Effekte" bezeichneten Eigenschaften modifizieren das lokale Mikroklima tiefgreifend55.
+Regeneration (D): Innerhalb eines dokumentierten Radius von zwei Metern um den Aloe-Strauch entsteht ein geschütztes Habitat. In diesem "Ammen"-Umfeld können einheimische, mehrjährige Grassamen keimen. Die Gräser wachsen und reproduzieren sich in diesem Schutz signifikant erfolgreicher als auf den umliegenden Kahlstellen55.
+Ökosystemarer Endpunkt (E): Aus isolierten Aloe-Sträuchern entstehen fokale Vegetationsinseln ("vegetation islands"), die den Prozess der Rangeland-Degradation umkehren und die Basis für weitreichende Renaturierungsprojekte bilden55.
+4. Ökologie und Verhalten
+Aloe secundiflora ist im tropischen Ostafrika endemisch und kommt gesichert in Kenia, Tansania, Ruanda, Äthiopien und im Sudan vor5. Innerhalb Kenias gilt sie als die am weitesten verbreitete Art der Gattung67. Ihr präferierter Lebensraum umfasst offenes Grasland, Savannen, lockeres Waldland und steinige Hänge. Die Art gedeiht primär auf sandigen Böden und weist eine Höhenverbreitung von 600 bis 2.000 Metern über dem Meeresspiegel auf5. Als autotrophe Pflanze generiert sie ihre Nahrung über Photosynthese und ist obligat auf Bestäuber für die Fortpflanzung angewiesen.
+Saisonale Muster und Interaktionen (Fokus: Ende September bis Anfang Oktober) Der festgelegte Reisezeitraum vom 24. September bis 12. Oktober markiert in Kenia den Übergang von der langen Trockenzeit zum Beginn der kleinen Regenzeit. Dieses klimatische Fenster korreliert exakt mit der primären Phänologie der Pflanze. Die Hauptblütezeit der Art in Kenia erstreckt sich gesichert von September bis Dezember6. In den Wochen Ende September und Anfang Oktober investiert Aloe secundiflora massive Energieressourcen in das Austreiben der bis zu einem Meter hohen, verzweigten Blütenstände, die mit leuchtend roten bis orangen, röhrenförmigen Blüten besetzt sind37.
+Zu diesem Zeitpunkt transformiert sich die Pflanze in eine kritische Nahrungsressource für die lokale Avifauna. Die Evolution der Blütenform (röhrenförmig) und die Nektarproduktion sind eng an die Bestäubung durch Nektarvögel (Familie Nectariniidae, Sunbirds) gekoppelt68. Ein dokumentierter Besucher ist der Halsband-Nektarvogel (Hedydipna collaris)69. Da diese Nektarvögel bei der Nahrungsaufnahme nicht artspezifisch vorgehen, kommt es in der Natur häufig zu Hybrisierungen mit anderen, zeitgleich blühenden Aloe-Arten41.
+Das Phänomen des Nektarraubs (Nectar Robbing): Während der Blütezeit Ende September und im Oktober lässt sich ein quantifiziertes Verhaltensmuster der assoziierten Vogelarten beobachten. Wenn die Kronröhre der Blüte im Verhältnis zum Schnabel des Vogels zu lang dimensioniert ist (was auf ein evolutionäres Wettrüsten hindeutet), wenden Nektarvögel und Insekten den sogenannten Nektarraub an. Dabei dringen sie nicht über die reguläre Blütenöffnung ein, sondern durchstechen die Blüte physisch an der Basis, um direkt an den Nektar zu gelangen69. Dieser Mechanismus umgeht die Bestäubung. Wissenschaftliche Erhebungen belegen, dass 34 Prozent der Blüten von Aloe secundiflora von diesem Nektarraub betroffen sind. Ungeachtet dieser Schädigung leiten 21 Prozent der beraubten Blüten dennoch erfolgreich die Fruchtbildung ein69.
+Spezifische Daten zum diurnalen (tagesrhythmischen) Verhalten der Pflanze selbst (z.B. Zeiten der Nektarsekretion) sind in der Literatur unbekannt. Die Tagesrhythmik der Blütenbesuche wird maßgeblich durch die Tagaktivität der bestäubenden Nektarvögel diktiert.
+5. Menschen und Kultur in Kenia
+Die Integration der Sekundiflora-Aloe in die sozioökonomischen, medizinischen und landwirtschaftlichen Strukturen Kenias ist tiefgreifend. Ihre Nutzung reicht von der Subsistenzwirtschaft bis zum internationalen Export, was historisch zu signifikanten Konflikten geführt hat. Belege für eine Rolle der Pflanze in Mythen, Ritualen, Legenden (Überlieferungen) oder Sprichwörtern sind in den herangezogenen wissenschaftlichen Quellen unbekannt.
+5.1 Ethnobotanische und ethnoveterinärmedizinische Nutzung
+
+Anwendungsgebiet
+	Spezifische Nutzung / Krankheit
+	Verwendeter Pflanzenteil / Zubereitung
+	Ethnie / Region (Kenia)
+	Status
+	Belegquelle
+
+Humanmedizin
+	Malaria
+	Blätter, Blattsaft (verdünnt/Infusion)
+	Kamba, Kikuyu, Meru, Maasai
+	Gesichert
+	5
+
+Humanmedizin
+	Typhus, Durchfall, Magenschmerzen
+	Verdünnter Blattsaft (getrunken)
+	Kamba, Meru, diverse Gemeinschaften
+	Gesichert
+	5
+
+Humanmedizin
+	Bindehautentzündung (Konjunktivitis)
+	Blattexsudat (als Augentropfen)
+	Diverse Gemeinschaften
+	Gesichert
+	5
+
+Humanmedizin
+	Lungenentzündung, Brustschmerzen
+	Verdünnter Blattsaft (getrunken)
+	Diverse Gemeinschaften
+	Gesichert
+	5
+
+Humanmedizin
+	Tiefe Wunden
+	Blätter (Auflage) sowie Pflanzenasche
+	Kikuyu
+	Gesichert
+	5
+
+Kultur / Alltag
+	Entwöhnung von Säuglingen
+	Bitteres Exsudat (auf Brustwarze aufgetragen)
+	Diverse Gemeinschaften
+	Gesichert
+	5
+
+Ethnoveterinär
+	Newcastle-Krankheit (Geflügel)
+	Gestamptes Blatt / Sud (ins Trinkwasser)
+	Maasai, diverse Landwirte
+	Gesichert
+	5
+
+Ethnoveterinär
+	Kokzidiose, Geflügeltyphus
+	Blattsud (ins Trinkwasser)
+	Maasai, diverse Landwirte
+	Gesichert
+	5
+5.2 Material, Landwirtschaft und Handel
+Neben der medizinischen Nutzung dient die Pflanze weiteren Zwecken:
+Landwirtschaft: In weiten Teilen Ostafrikas wird Aloe secundiflora von Landwirten systematisch als dichte, dornige Hecke (lebender Zaun / Boma) gepflanzt, um Gehöfte abzugrenzen und landwirtschaftliche Nutzpflanzen vor Wildverbiss zu schützen5.
+Jagd: Historisch und teils gegenwärtig wird der Saft in Kenia als Zutat für Pfeilgifte verwendet, oftmals in Kombination mit hochtoxischen Pflanzen wie Acokanthera schimperi (Schimper-Giftbaum) oder Adenium obesum (Wüstenrose)5.
+Getränke: Die basalen, fleischigen Teile der Blätter werden von einigen ostafrikanischen Stämmen bei der Fermentation von lokalem Bier als Katalysator oder Geschmacksgeber eingesetzt5.
+Industrie: Auf lokaler Ebene verarbeitet eine Fabrik in Kenia den Extrakt der Pflanze zur Herstellung von Badeseifen5.
+5.3 Konflikte, Ausbeutung und Schutzstatus
+Die hohe internationale Nachfrage nach dem getrockneten Exsudat (kommerziell oft als „Aloe-Gummi“ oder „Bitters“ bezeichnet) und den Blättern hat zu weitreichenden Mensch-Umwelt-Konflikten geführt. Der Extrakt wird primär als Abführmittel (Laxativum) und für kosmetische Zwecke gehandelt. Hauptabnehmerländer für den kenianischen Export sind Kanada, das Vereinigte Königreich, Japan und China77.
+Historische Ereignisse und Überausbeutung (Status: gesichert) In den vergangenen Jahrzehnten kam es in Regionen wie dem Baringo County und Samburu County zu einer unregulierten Kommerzialisierung. Um die Nachfrage zu decken, wandten lokale Erntehelfer zerstörerische Methoden an: Die Pflanzen wurden nicht nur angeschnitten, sondern zu Tausenden vollständig mit den Wurzeln aus dem Boden gerissen (Uprooting) und in großen Haufen gesammelt79. Dieser Praxis folgte eine rasante Überausbeutung (Overexploitation), die lokale Populationen dezimierte und die Bodenerosion in diesen ohnehin fragilen semi-ariden Habitaten beschleunigte81. Die wirtschaftliche Dimension dieses Handels wird durch Daten des Kenya Wildlife Service (KWS) verdeutlicht: In einem dokumentierten Berichtszeitraum belief sich der Export auf 15.980 Kilogramm Aloe-Gummi (Aloe secundiflora) sowie 583.006 Kilogramm getrocknete Blätter83.
+Regulatorischer Schutzstatus (Status: gesichert)
+Die massive Ausbeutung erforderte regulatorische Eingriffe auf nationaler und internationaler Ebene.
+International (CITES): Um den Handel zu kontrollieren und seltenere Verwandte vor Verwechslungen zu schützen, wurde Aloe secundiflora (wie fast alle Arten der Gattung mit Ausnahme von Aloe vera) in den Anhang II (Appendix II) des Washingtoner Artenschutzübereinkommens (CITES) aufgenommen26. Dies bedeutet, dass die Art zwar aktuell nicht unmittelbar vom Aussterben bedroht ist, ein unregulierter Handel das Überleben jedoch gefährden könnte.
+International (IUCN): Trotz der lokalen Überausbeutung wird die Art aufgrund ihres großen Verbreitungsgebiets im tropischen Ostafrika auf der Roten Liste der IUCN (Bewertungsjahr 2013/2014) global als "Least Concern" (Nicht gefährdet) eingestuft33.
+National (Kenia): Die Durchsetzung der CITES-Bestimmungen obliegt dem Kenya Wildlife Service (KWS). Um Wildbestände zu schützen, hat der KWS Richtlinien für das Management kommerzieller Aloe-Arten erlassen. Die illegale Ernte von Wildpflanzen ist verboten, und der Handel ist theoretisch an offizielle Lizenzen und kontrollierte Anbauprojekte (Farming) gebunden, wenngleich illegales "Uprooting" weiterhin eine Bedrohung darstellt67.
+6. Wissenschaftsgeschichte
+Das systematische und ökologische Verständnis der Aloe secundiflora ist eng mit drei zentralen Epochen und Forschern verknüpft, deren Arbeiten den Wissensstand über die Art definieren.
+Die taxonomische Erfassung (1895) Die wissenschaftliche Erstbeschreibung der Art erfolgte in der Spätphase der kolonialen botanischen Erforschung Ostafrikas. Im Jahr 1895 publizierte der deutsche Botaniker Heinrich Gustav Adolf Engler das Werk „Die Pflanzenwelt Ost-Afrikas und der Nachbargebiete“. In Teil C auf Seite 140 dieses Kompendiums klassifizierte er die Art formell als Aloe secundiflora. Diese Arbeit stützte sich auf Pflanzenmaterial, das während diverser Expeditionen in der Region gesammelt worden war, und legte den systematischen Grundstein für alle weiteren Forschungen1.
+Die virologische Validierung indigenen Wissens (2002) Ein Wendepunkt in der ethnoveterinärmedizinischen Forschung fand 2002 statt. Die Praktik der Maasai, Hühner mit einem Aloe-Sud zu behandeln, galt lange als rein anekdotisch. Der kenianische Wissenschaftler R. K. Waihenya führte gemeinsam mit M. M. A. Mtambo und G. Nkwengulila an der Universität Dar es Salaam (Tansania) kontrollierte In-vivo-Studien durch. Sie publizierten ihre Ergebnisse im April 2002 (Vol. 79, Issue 3) im renommierten Journal of Ethnopharmacology. Die Studie verifizierte wissenschaftlich, dass der Rohextrakt von Aloe secundiflora bei experimentell infizierten Freilandhühnern die Viruslast der Newcastle-Krankheit senkt und die Mortalität signifikant reduziert8.
+Die ökologische Ammenpflanzen-Forschung (2004–2008) Die Rolle der Art für die Ökosystemregeneration wurde maßgeblich von der Ökologin Elizabeth G. King entschlüsselt. Im Zeitraum von 2004 bis 2008 führte sie extensive Feldstudien am Mpala Research Centre im Laikipia-Distrikt durch. Ihre Publikationen, insbesondere der richtungsweisende Artikel aus dem Jahr 2008 im Journal of Arid Environments, quantifizierten den "Nurse Plant"-Effekt (Ammenpflanzen-Effekt). Sie erbrachte den Beweis, dass Aloe secundiflora in stark degradierten, überweideten Gebieten als katalytischer Anker für die Wiederansiedlung einheimischer Gräser dient, was weitreichende Implikationen für moderne Renaturierungsstrategien hat55.
+Wie in Kapitel 3 dargelegt, existiert eine wissenschaftliche Kontroverse bezüglich der chemischen Konstitution. Während klassische phytochemische Analysen das Vorhandensein des Anthrachinons Aloin A postulierten52, widersprach eine detaillierte HPLC-MS-Studie aus dem Jahr 2003 dieser Annahme explizit und benannte Aloenin als primäre Komponente52.
+7. Fotografie: Praxis-Richtwerte für die Reiseroute
+Die geplante Reiseroute (Nyahururu, Rumuruti, Naro Moru, Ol Pejeta Conservancy, Nanyuki, Mpala Research Centre) tangiert das ökologische Herzstück der Verbreitung von Aloe secundiflora im Laikipia- und Mt. Kenya-Gebiet. Alle genannten Orte liegen im idealen Höhenprofil (600 bis 2.000 m)5.
+Örtliche Schwerpunkte und Tageszeit Der aussichtsreichste Ort für spezifische, verhaltensbiologische Beobachtungen ist das Mpala Research Centre, da hier die Studien zum Ammenpflanzen-Effekt durchgeführt wurden59. Auch die steinigen Hänge der Ol Pejeta Conservancy bieten hervorragende Habitate. Die optimale Tageszeit für die Fotografie sind die frühen Morgenstunden sowie der späte Nachmittag. In diesen Phasen ist die Frequenz der bestäubenden Nektarvögel an den voll aufgeblühten, roten Blütenständen (Ende September/Anfang Oktober) am höchsten.
+Motiv- und Objektivplanung
+
+Fotografisches Motiv
+	Empfohlenes Objektiv
+	Fotografische Strategie & Verhalten
+	Status
+
+Ökosystem / Ammenpflanze: Die Aloe umgeben von saftigem Gras inmitten eines ansonsten erodierten, kargen Gebiets (Nurse-Plant-Effekt)55.
+	26 bis 60 mm oder 45 mm (Landschaft/Kontext)
+	Statisches Motiv. Ein niedriger Standpunkt hebt die Vegetationsinsel gegen die nackte Erde hervor.
+	Gesichert
+
+Nektarvögel (Bestäubung): Nektarvögel (wie Hedydipna collaris), die den Kopf regulär in die Blüte stecken69.
+	150 bis 600 mm (Tele)
+	Langes Ansitzwarten an einem ausgewählten Blütenstand. Fluchtdistanzen sind unbekannt, aber Telebrennweiten sind essenziell, um das Verhalten nicht zu stören.
+	Gesichert
+
+Nektarraub (Nectar Robbing): Ein Vogel oder Insekt, das die röhrenförmige Blüte an der fleischigen Basis durchsticht, ohne die Pollen aufzunehmen69.
+	100 bis 400 mm oder 150 bis 600 mm
+	Erfordert Geduld und präzise Fokussierung auf die Blütenbasis. Typischer Fehler: Fokussierung auf die Blütenspitze, während der Vogel an der Basis agiert.
+	Gesichert
+Lücken zur fotografischen Praxis: Konkrete Maßangaben in Metern für die Fluchtdistanz der interagierenden Vogelarten sind in der wissenschaftlichen botanischen Literatur nicht belegt. Ebenso sind belastbare, quellenbasierte Richtwerte für Verschlusszeiten zur Einfrierung der Flugbewegungen dieser spezifischen Vögel unbekannt.
+8. Links zum Weiterlesen und Sehen
+Die folgenden kuratierten Datenbanken und Archive bieten validierte Primärinformationen und visuelles Referenzmaterial zur Art.
+Typ
+	Beschreibung und Kontext
+	URL
+
+Fachliche Quelle (PROTA)
+	Die Datenbank der "Plant Resources of Tropical Africa" liefert tiefergehende botanische Daten sowie detaillierte Beschreibungen zur wirtschaftlichen, medizinischen und ethnoveterinären Nutzung der Pflanze.
+	https://prota.prota4u.org/protav8.asp?g=pe&p=Aloe+secundiflora+Engl.
+
+Fachliche Quelle (CITES NDF)
+	Ein Bericht, der die Gefährdung der Art durch unregulierten kommerziellen Handel und die notwendigen Schutzmaßnahmen des Kenya Wildlife Service dokumentiert.
+	https://cites-tsp.org/sites/default/files/project_files/2023-03/Kenya_Inventory_NDF_%20combine%20pdf%20%281%29-min.pdf
+
+Fotos (Wikimedia Commons)
+	Ein kuratiertes Archiv frei verwendbarer Bilder, das die charakteristische Wuchsform der Rosetten, die Blattzähne und die leuchtend rote Infloreszenz in verschiedenen Habitaten zeigt.
+	https://commons.wikimedia.org/wiki/Category:Aloe_secundiflora
+
+Verbreitungskarte (GBIF)
+	Die "Global Biodiversity Information Facility" bietet wissenschaftlich validierte, geografisch verortete Nachweiskarten und taxonomische Kerninformationen für Aloe secundiflora.
+	https://www.gbif.org/taxon/C43M
+(Hinweis: Tonaufnahmen des Rufs entfallen, da es sich um eine Pflanze handelt.)
+9. Visuelle Beschreibung für eine Illustration
+Aloe secundiflora is a robust, stemless or extremely short-stemmed succulent characterized by a solitary, star-shaped rosette that spans up to 15 centimeters across. Its fleshy, elongated leaves are muted grayish-green, measuring 0.5 to 2.0 centimeters in width, and possess a slight curve, densely armored along their edges with rigid, pale teeth. Rising dramatically from the center of this rosette is a heavily branched inflorescence, reaching up to a meter in height, which terminates in dense, cylindrical racemes of vivid, tubular red-to-orange flowers that lack spreading petals.
+Detail Suggestions:
+A macro view of the leaf margin, sharply defining the 0.5 to 1.0 millimeter triangular teeth against the succulent green epidermis.
+A single tubular red flower featuring a visible puncture mark near its fleshy base, illustrating the "nectar robbing" behavior of local sunbirds.
+A cross-section of a freshly severed leaf, highlighting the translucent inner gel and the distinct yellow, bitter exudate oozing from the vascular bundles near the outer rind.
+Cultural Vignette:
+A hardened, dark-brown block of processed aloe gum (locally known as "bitters"), placed next to a traditional Maasai gourd or a simple wooden pestle used by women for pounding the leaves to create the potent poultry medicine against Newcastle disease.
+10. Was nicht belegt werden konnte
+Gemäß den strikten Vorgaben dieser Recherche sind folgende in der Anforderung spezifizierte Datenpunkte in der bereitgestellten wissenschaftlichen Literatur unbekannt oder nicht belastbar belegt:
+Wörtliche Bedeutung der indigenen Namen: Weder für den Maa-Namen (Osukuroi), noch für Bezeichnungen auf Samburu, Kamba, Kikuyu, Giriama, Meru, Taita, Turkana oder Kichagga existieren in den Quellen Angaben zur wörtlichen oder etymologischen Bedeutung.
+Deutscher Name: Eine formell belegte, wissenschaftliche Trivialbezeichnung im Deutschen (die Anfrage nennt "Sekundiflora-Aloe", was jedoch in der Fachliteratur nicht referenziert ist).
+Pflanzengewicht: Es liegen keinerlei Messdaten zum durchschnittlichen oder maximalen Gesamtgewicht der Pflanze oder einzelner Blätter vor.
+Geschlechts- oder Altersunterschiede: Systematische morphologische Abweichungen zwischen Pflanzenstadien (mit Ausnahme allgemeiner, nicht genauer spezifizierter Blattbreiten-Varianzen zwischen 0,3 und 2,0 cm).
+Mythen und Überlieferungen: Spezifische Legenden, spirituelle Rituale, mythologische Bedeutungen oder Sprichwörter, die mit der Pflanze in Verbindung stehen.
+Tierische Fluchtdistanz: Konkrete metrische Maßangaben zur Fluchtdistanz der interagierenden Vogelarten (z. B. des Halsband-Nektarvogels).
+Fotografische Verschlusszeiten: Aus der Fachliteratur abgeleitete Richtwerte in Sekundenbruchteilen für das Einfrieren der schnellen Bewegungen der Nektarvögel.
+Tagesrhythmus der Pflanze: Spezifische diurnale Zyklen der Aloe secundiflora selbst, wie exakte Uhrzeiten der maximalen Nektarsekretion.
+Dieser Bericht dient ausschließlich zu Informationszwecken. Für medizinische, ethnomedizinische oder tiermedizinische Beratung und Diagnostik konsultieren Sie bitte eine entsprechend qualifizierte Fachkraft.
+Referenzen
+Aloe secundiflora - Botanical Illustrations, http://www.botanicalillustrations.org/species.php?id_species=44724&mobile=3&uhd=0&size=0
+Preserving Indigenous Knowledge on Locally Threatened Medicinal, https://www.researchgate.net/profile/Gerald-Kaniaru/publication/364128466_Preserving_Indigenous_Knowledge_on_Locally_Threatened_Medicinal_Plants_Meeting_the_Bonn_Challenge_and_Building_Community_Resilience_against_COVID-19_in_the_Arid_Makueni_County_Kenya/links/633be816769781354ebb600b/Preserving-Indigenous-Knowledge-on-Locally-Threatened-Medicinal-Plants-Meeting-the-Bonn-Challenge-and-Building-Community-Resilience-against-COVID-19-in-the-Arid-Makueni-County-Kenya.pdf
+Aloe secundiflora - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Aloe_secundiflora
+Aloe secundiflora - GBIF, https://www.gbif.org/taxon/C43M
+Aloe secundiflora Engl. - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Aloe+secundiflora+Engl.
+Aloes and other lilies of Ethiopia and Eritrea [Second edition, https://dokumen.pub/aloes-and-other-lilies-of-ethiopia-and-eritrea-second-edition-9789994400423-9994400428.html
+solanaceae substancias isoladas: Topics by Science.gov, https://www.science.gov/topicpages/s/solanaceae+substancias+isoladas.html
+Contributions to the systematics and biocultural value of Aloe L, https://repository.up.ac.za/bitstreams/ee2dbbc5-1135-4715-a057-4ba5cc1e6b2b/download
+(PDF) A revised generic classification for Aloe (Xanthorrhoeaceae, https://www.researchgate.net/publication/235334725_A_revised_generic_classification_for_Aloe_Xanthorrhoeaceae_subfam_Asphodeloideae
+Tensile properties of P. tenax and other leaf fibers | Download Table, https://www.researchgate.net/figure/Tensile-properties-of-P-tenax-and-other-leaf-fibers_tbl1_230997134
+Detail - Plant Name Service System, https://pnss.iflora.cn/Home/Detail?DatasetID=GBIF&taxonID=2778099
+Modulatory Properties of Aloe secundiflora's Methanolic Extracts on, https://www.mdpi.com/2072-6694/15/20/5002
+(PDF) Review of Aloe Species' Medicinal Properties and Bioactive, https://www.researchgate.net/publication/283348154_Review_of_Aloe_Species'_Medicinal_Properties_and_Bioactive_Compounds
+Aloès - Wikipédia, https://fr.wikipedia.org/wiki/Alo%C3%A8s
+Aloe lateritia - Succulentes, https://succulentes.net/en/alooids/aloe/lateritia/
+わけいブログ, https://wakei2022.hatenablog.com/
+Aloe secundiflora var sobolifera - Share if you are growing it, https://www.palmtalk.org/forum/topic/83019-aloe-secundiflora-var-sobolifera-share-if-you-are-growing-it/
+Aloe secundiflora Engl. - African Plant Database, https://africanplantdatabase.ch/fr/nomen/specie/40379/aloe-secundiflora-var-sobolifera-s-carter
+Aloe secundiflora - Wikipedia, https://de.wikipedia.org/wiki/Aloe_secundiflora
+Handbook on pesticidal plants, https://options.nri.org/images/documents/handbook.pdf
+https://aridlandswholesale.com/oscommerce/pricelist.php
+Journal of Ethnopharmacology Traditional antimalarial phytotherapy, https://www.ethnopharmacologia.org/prelude2020/pdf/biblio-hn-33-nguta.pdf
+Ethnobotany, ethnopharmacology, and phytochemistry of traditional, https://pmc.ncbi.nlm.nih.gov/articles/PMC7427981/
+Ethnobotany, ethnopharmacology, and phytochemistry of traditional, https://www.springermedizin.de/ethnobotany-ethnopharmacology-and-phytochemistry-of-traditional-/52111832
+Antimalarial Plants Used across Kenyan Communities - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC7306085/
+the case of commercial aloes in Kenya, http://www.conabio.gob.mx/institucion/cooperacion_internacional/TallerNDF/Links-Documentos/WG-CS/WG3-SucculentsandCycads/WG3-CS1-Add.pdf
+an investigation of the blood pressure lowering and, https://erepository.uonbi.ac.ke/bitstreams/c8ca7bc0-db8f-428e-b4ad-7c1ad512077f/download
+Plant Biodiversity and Genetic Resources - MDPI, https://mdpi-res.com/bookfiles/book/3885/Plant_Biodiversity_and_Genetic_Resources.pdf?v=1787792678
+view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_5.HTM
+Full text of "Journal of the East Africa Natural History Society and, https://archive.org/stream/journalof758219851993east/journalof758219851993east_djvu.txt
+Indigenous Wild Plant Use in Meru - Naturalis Institutional Repository, https://repository.naturalis.nl/pub/801824/Ibui-2007-Indigenous-knowledge-belief-and-practice-A.pdf
+Important Medicinal and Food Taxa (Orders and Families) in Kenya, https://search.proquest.com/openview/7324324d2fea9be610335e0d6c6d839e/1?pq-origsite=gscholar&cbl=2032347
+Aloe secundiflora - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Aloe%20secundiflora
+a review: therapeutic, medicinal and food uses of aloe vera, https://ujpronline.com/index.php/journal/article/view/1045/1550
+Cloud Liveforever Size: 8-15 cm - Growli, https://www.getgrowli.app/size/cloud-liveforever
+Genetic diversity in Aloeand its breeding strategies, https://sadhnahp.com/storage/articles/August2025/p0HFwKCpNzbqd6K.pdf
+Aloes organized by bloom time | Garden Aloes, https://www.gardenaloes.com/aloes-by-bloom-time/
+A Traveler's Guide to the Flowers of Kenya - La Rose Florist, https://larose-florist.com/blog/2025/10/27/a-travelers-guide-to-the-flowers-of-kenya/
+Plants and Vegetations - Shaba National Reserve, https://shabareserve.org/plants-and-vegetations/
+Wild Kenya: The Flowers of the Savannah and the Sky - Fleurology, https://fleurologybyh.com/zh/blog/2025/11/10/wild-kenya-the-flowers-of-the-savannah-and-the-sky/
+The Aloe Page - Aloaceae - The Succulent Plant Page, https://succulent-plant.com/families/aloaceae.html
+Pharmacological evaluation of antimicrobial and bioactivity of plant, https://erepository.uonbi.ac.ke/bitstreams/d442b631-b599-40f3-a0f1-e18738df1b1a/download
+Evaluation of the efficacy of the crude extract of Aloe secundiflora in, https://pubmed.ncbi.nlm.nih.gov/11849832/
+Evaluation of the efficacy of the crude extract of Aloe secundiflora in, https://www.researchgate.net/publication/11511256_Evaluation_of_the_efficacy_of_the_crude_extract_of_Aloe_secundiflora_in_chickens_experimentally_infected_with_Newcastle_disease_virus
+Antiviral Medicinal Plants of Veterinary Importance: A Literature, https://www.thieme-connect.com/products/ejournals/html/10.1055/a-1224-6115?device=desktop&innerWidth=412&offsetWidth=412&lang=en
+Efficacy of crude extract of Aloe secundiflora against Salmonella, https://www.researchgate.net/publication/11511259_Efficacy_of_crude_extract_of_Aloe_secundiflora_against_Salmonella_gallinarum_in_experimentally_infected_free-range_chickens_in_Tanzania
+(PDF) The Efficacy of Crude Extract of Aloe Secundiflora on Candida, https://www.researchgate.net/publication/45097729_The_Efficacy_of_Crude_Extract_of_Aloe_Secundiflora_on_Candida_Albicans
+Determination of Antiviral Activities of Quisqualis indica leaf Extracts, https://www.idosr.org/wp-content/uploads/2017/12/IDOSR-JST-22-19-32-2017.-ON.pdf
+synergistic effects of extracts of aloe secundiflora eng l. and, http://ir.jkuat.ac.ke/bitstream/handle/123456789/5956/Resubmission_Thesis_04Oct2022.pdf?sequence=1&isAllowed=y
+Newcastle disease vaccine adoption by smallholder households in, https://pmc.ncbi.nlm.nih.gov/articles/PMC6200240/
+(PDF) An ethnoveterinary survey of Traditional Medicinal Plants, https://www.researchgate.net/publication/288832767_An_ethnoveterinary_survey_of_Traditional_Medicinal_Plants_Used_by_the_Santal_tribe_at_Jamtala_Village_under_Sadar_Upazila_of_Capai_Nawabganj_District_Bangladesh
+The phytochemical profile and identification of main phenolic, https://www.researchgate.net/publication/10805659_The_phytochemical_profile_and_identification_of_main_phenolic_compounds_from_the_leaf_exudate_of_Aloe_secundiflora_by_high-performance_liquid_chromatography-mass_spectroscopy
+(PDF) Pharmacotherapeutic Potential of Aloe secundiflora against, https://www.researchgate.net/publication/370940499_Pharmacotherapeutic_Potential_of_Aloe_secundiflora_against_Colorectal_Cancer_Growth_and_Proliferation
+Aloe Genus Plants: From Farm to Food Applications and ... - MDPI, https://www.mdpi.com/1422-0067/19/9/2843
+Facilitative Effects of Aloe Shrubs on Grass Establishment, Growth, https://www.researchgate.net/publication/227711615_Facilitative_Effects_of_Aloe_Shrubs_on_Grass_Establishment_Growth_and_Reproduction_in_Degraded_Kenyan_Rangelands_Implications_for_Restoration
+Publications – Welcome to the King Lab at UGA - University of Georgia, https://kinglab.uga.edu/publications/
+‪Elizabeth G. King‬ - ‪Google Scholar‬, https://scholar.google.com/citations?user=QOv2ykwAAAAJ&hl=en
+Facilitative effects of Aloe secundiflora shrubs in degraded semi-arid, https://www.researchgate.net/publication/228476116_Facilitative_effects_of_Aloe_secundiflora_shrubs_in_degraded_semi-arid_rangelands_in_Kenya
+Maureen L Stanton University of California, Davis - ResearchGate, https://www.researchgate.net/profile/Maureen-Stanton-3
+Elizabeth KING | University of Georgia, Athens | Research profile, https://www.researchgate.net/profile/Elizabeth-King-19
+drivers and effects of gully erosion on communities in, https://erepository.uonbi.ac.ke/bitstreams/fdc125b5-a499-44c5-8897-ad44157d7e79/download
+Re-establishing vegetation on bare patches in the Nama Karoo, https://www.researchgate.net/publication/232382249_Re-establishing_vegetation_on_bare_patches_in_the_Nama_Karoo_South_Africa
+(PDF) Facilitative Effects ofAloeShrubs on Grass Establishment, https://www.academia.edu/96774276/Facilitative_Effects_ofAloeShrubs_on_Grass_Establishment_Growth_and_Reproduction_in_Degraded_Kenyan_Rangelands_Implications_for_Restoration
+The Types of Aloe Species and Their Multi-Functions in Hammer, https://juniperpublishers.com/arr/pdf/ARR.MS.ID.555559.pdf
+Exploring the polysaccharide composition of plant cell walls in, https://kew.iro.bl.uk/downloads/bb015c3f-f621-4eec-9dca-649d01dfcefd
+Aloe secundiflora Engler - a widespread tropical East African species, https://www.researchgate.net/publication/378403271_Aloe_secundiflora_Engler_-_a_widespread_tropical_East_African_species
+Distribution, Diversity and Conservation of the Genus Aloe in Kenya, https://www.academia.edu/96825888/Distribution_Diversity_and_Conservation_of_the_Genus_Aloe_in_Kenya
+Natural Hybrids in the Genus Aloe (Aloaceae) in East Africa, https://bioone.org/journals/journal-of-east-african-natural-history/volume-84/issue-2/0012-8317_1995_84_141_NHITGA_2.0.CO_2/Natural-Hybrids-in-the-Genus-Aloe-Aloaceae-in-East-Africa/10.2982/0012-8317(1995)84[141:NHITGA]2.0.CO;2.full
+Corolla Length Increases Nectar Robbing in Aloe secundiflora Engl, https://www.researchgate.net/publication/413947440_When_Bigger_Is_not_Better_Corolla_Length_Increases_Nectar_Robbing_in_Aloe_secundiflora_Engl_Asphodelaceae
+(PDF) Relationship between floral tube length and nectar robbing in, https://www.researchgate.net/publication/227626803_Relationship_between_floral_tube_length_and_nectar_robbing_in_Duranta_erecta_L_Verbenaceae_NECTAR_ROBBING_AND_FLORAL_LENGTH
+African aloe ecology: A review, http://www.plantgrower.org/uploads/6/5/5/4/65545169/aloe_review.pdf
+The Birds and the Bees: Using Selective Exclusion to Identify, https://www.journals.uchicago.edu/doi/abs/10.1086/595291
+The uses of Kenyan aloes: an analysis of implications for names, https://pmc.ncbi.nlm.nih.gov/articles/PMC4658748/
+Ethnobotanical Survey of Medicinal Plants in Mwala Sub-County, https://www.researchgate.net/publication/328980491_Ethnobotanical_Survey_of_Medicinal_Plants_in_Mwala_Sub-County_Machakos_County_Kenya
+(PDF) Antimalarial Plants Used Across Kenyan Communities, https://www.researchgate.net/publication/341793298_Antimalarial_Plants_Used_Across_Kenyan_Communities
+Solanum incanum L., Solanaceae, Prelude, https://www.ethnopharmacologia.org/recherche-dans-prelude/?plant_id=5531
+CONSERVATION - Amazon S3, https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/120895/NWCSR-Main-Compressed.pdf
+Mohamed Neffati, Hanen Najja, Ákos Máthé (Ed.) | PDF | Herbalism, https://www.scribd.com/document/406806085/Mohamed-Neffati-Hanen-Najja-Akos-Mathe-Ed-Medicinal-and-Aromatic-Plants-of-the-World-Africa-Volume-3-2017-pdf
+Full text of "Bulletin" - Internet Archive, https://archive.org/stream/bulletin232619931996east/bulletin232619931996east_djvu.txt
+Journal of Ethnobiology and Ethnomedicine, https://www.ethnopharmacologia.org/prelude2020/pdf/biblio-hn-26-nanyingi.pdf
+5.Kenya Report - ICPALD, https://icpald.org/wp-content/uploads/2015/04/KENYA-REPORT.pdf
+cites tree species programme, https://cites-tsp.org/sites/default/files/project_files/2023-03/Kenya_Inventory_NDF_%20combine%20pdf%20%281%29-min.pdf
+Kenya Wildlife Conservation Status 2015-2017 | PDF - Scribd, https://www.scribd.com/document/647059920/KWS-report
+PC26 Doc. - Opus at SANBI, https://opus.sanbi.org/sanbiserver/api/core/bitstreams/384b0da1-6a98-4f36-aaa3-df7da29fc51b/content
+Barcode of Wildlife Project: Kenya - Smithsonian Institution, https://www.barcodeofwildlife.org/kenya.html
+Environmental, Social & Health Impact Assessment (ESHIA) for, https://nema.go.ke/wp-content/uploads/2025/03/ESHIA_1972-Solar-PV-Power-Plant-at-Athi-River-Final-Main-Report-min.pdf
+Conservation status revision and communities' perceptionsof 22, https://plecevo.eu/article/24700/
+Aloe harlana. The IUCN Red List of Threatened Species 2013, https://www.researchgate.net/publication/349465736_Aloe_harlana_The_IUCN_Red_List_of_Threatened_Species_2013_eT201403A2705365
+Flora of Tropical East Africa: Malvaceae | Request PDF, https://www.researchgate.net/publication/41590257_Flora_of_Tropical_East_Africa_Malvaceae
+Herders make 5x add to incomes boiling aloe vera leaves, https://farmbizafrica.com/herders-make-5x-add-to-incomes-boiling-aloe-vera-leaves/
+Emmanuel MORIN Aloe vera (L.) Burm.f - Ciel d'Azur Labs, https://www.cieldazur.com/wp-content/uploads/2019/09/These-MORIN-Emmanuel.pdf
+Chapter 7 Isolation of compounds 7.1 Serial exhaustive extraction, https://repository.up.ac.za/server/api/core/bitstreams/db399341-6653-486e-b46b-10ecff0f86ff/content
+(PDF) Revision of the Metarbelodes Strand, 1909 genus-group, https://www.researchgate.net/publication/370074228_Revision_of_the_Metarbelodes_Strand_1909_genus-group_Lepidoptera_Cossoidea_Metarbelidae_with_descriptions_of_two_new_genera_and_33_new_species_from_high_elevations_of_eastern_and_southern_Africa

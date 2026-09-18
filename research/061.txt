@@ -1,0 +1,157 @@
+Recherchedossier: Cercopithecus mitis albogularis an der Küste Kenias
+1. Namen und Etymologie
+Die taxonomische Zuordnung und die volkssprachliche Benennung der Diademmeerkatze reflektieren eine komplexe Historie, in der sich morphologische Beobachtungen, genetische Analysen und lokale Traditionen verschränken. Der Status der Artklassifikation ist in der wissenschaftlichen Literatur Gegenstand anhaltender Debatten, was sich in einer Vielzahl von Synonymen niederschlägt.
+Die wissenschaftliche Nomenklatur führt die Art unter dem Namen Cercopithecus mitis Wolf, Jahr 18221. Die Gattungsbezeichnung Cercopithecus leitet sich aus dem Griechischen ab, wobei sich der Begriff aus den Wörtern "kerkos" (Schwanz) und "pithekos" (Affe) zusammensetzt2. Das lateinische Art-Epitheton mitis lässt sich mit "sanft" oder "friedfertig" übersetzen, worauf die englische Bezeichnung "Gentle Monkey" basiert1.
+Für den geografischen Raum der kenianischen Küste (inklusive Mombasa und Mtwapa Creek) ist spezifisch die Unterart Cercopithecus mitis albogularis relevant, die im Jahr 1831 von William Henry Sykes beschrieben wurde1. Das Epitheton albogularis ist lateinischen Ursprungs und verbindet die Begriffe "albus" (weiß) und "gula" (Kehle), was das auffällige helle Halsfell dieser Population beschreibt3. In der Primatologie existiert ein systematischer Widerspruch hinsichtlich des taxonomischen Status dieser Küstenform. Während Datenbanken wie GBIF und IUCN die Form als Unterart von C. mitis führen, postulieren Autoren wie Colin Groves und Jonathan Kingdon die Erhebung in den Artstatus als Cercopithecus albogularis3. Begründet wird dieser alternative Status mit der sogenannten "Kingdon-Linie", einer biogeografischen Trennungslinie, die auf klimatische Schwankungen im Pleistozän zurückgeht und die ostafrikanischen Formen genetisch von den zentralafrikanischen Linien separiert5.
+Die nachfolgende Tabelle fasst die in der Recherche verifizierten Bezeichnungen und deren etymologischen Hintergrund zusammen. Der Status der linguistischen Zuordnungen gilt anhand der Quellenlage als gesichert, sofern nicht anders vermerkt.
+
+Sprache / Kulturkreis
+	Bezeichnung
+	Etymologie und Beleg
+
+Wissenschaftlich (Synonyme)
+	Semnopithecus albogularis, Lasiopyga albogularis kima
+	Historische Synonyme, geprägt durch Sykes (Jahr 1831) und Heller (Jahr 1913)3.
+
+Deutsch
+	Diademmeerkatze, Weißkehlmeerkatze
+	"Diademmeerkatze" bezieht sich auf die Art, "Weißkehlmeerkatze" spezifisch auf die Unterart albogularis3.
+
+Englisch
+	Sykes's Monkey, Blue Monkey, Gentle Monkey
+	"Sykes's Monkey" ehrt den Beschreiber W. H. Sykes. "Blue Monkey" leitet sich von dem bläulich-grauen Schimmer des Fells ab1.
+
+Swahili
+	Kima
+	An der Küste spezifisch für C. m. albogularis verwendet. Im Binnenland wird der Begriff teilweise widersprüchlich auch für die Rotschwanzmeerkatze (Cercopithecus ascanius) angewandt1.
+
+Sabaki / Mijikenda
+	Kima mweusi
+	Übersetzt als "schwarzer Affe". Dient der Abgrenzung zu anderen, helleren Primatenarten in den Küstenwäldern10.
+
+Giriama
+	Kima
+	Lokale Nutzung des Begriffs schließt in der Kosmologie der Giriama die Bedeutungsebene "Waldgeister" ein (Status: Übernahme aus der Nutzeranfrage).
+2. Erscheinung mit Maßen in Metrik und Alltagsvergleichen
+Der Körperbau von Cercopithecus mitis weist die klassischen Anpassungen der altweltlichen Affen (Cercopithecidae) an eine vorwiegend baumbewohnende (arboreale) Lebensweise auf2. Die Art zeigt einen ausgeprägten Sexualdimorphismus, bei dem die männlichen Individuen im Durchschnitt deutlich größere Maße und eine höhere Körpermasse erreichen als die Weibchen11. Der Status dieser morphologischen Daten gilt als biologisch gesichert.
+Das Fell der Unterart albogularis ist an der Oberseite durch eine melierte (grizzled), olivgraue bis grauschwarze Färbung gekennzeichnet. Ein Kontrast entsteht durch die namengebende Halskrause, die aus dichten, weißen Haaren besteht und sich vom Kinn über die Kehle erstreckt12. Die distalen Abschnitte der Gliedmaßen und das letzte Drittel des Schwanzes weisen oft eine dunklere bis schwarze Pigmentierung auf. Das unbehaarte Gesicht ist dunkelhäutig, und die nach vorne gerichteten Augen besitzen auffällige orangefarbene bis bernsteinfarbene Iriden11. Ein feuchter Nasenspiegel (Rhinarium) fehlt, und die Nasenlöcher sind schmal und nach unten gerichtet11. Am Gesäß befinden sich lederartige Sitzschwielen (Ischialkallositäten), die direkt mit den Beckenknochen verbunden sind und das Ruhen auf rauen Baumrinden erleichtern11.
+Die nachfolgende Tabelle liefert die metrischen Daten mit entsprechenden Alltagsvergleichen zur räumlichen Einordnung der Dimensionen.
+
+Messgröße
+	Wertebereich / Durchschnitt
+	Alltagsvergleich
+
+Kopf-Rumpf-Länge
+	33 cm bis 75 cm
+	Die Rumpflänge entspricht in etwa der Länge einer handelsüblichen PC-Tastatur bis hin zur Rückenlänge eines mittelgroßen Haushundes (zum Beispiel eines Spaniels)4.
+
+Schwanzlänge
+	35 cm bis 86 cm
+	Der Schwanz ist länger als der Körper. Ein ausgestreckter Schwanz mit einer Länge von 86 cm entspricht der durchschnittlichen Höhe eines Esstisches4.
+
+Körpergewicht
+	4.2 kg bis 10.0 kg
+	Ein ausgewachsenes Weibchen (circa 4.5 kg) wiegt in etwa so viel wie eine Hauskatze. Ein schweres Männchen (10.0 kg) entspricht dem Gewicht eines vollen Wasserkastens (zehn Flaschen à 1.0 Liter)11.
+3. Der Mechanismus: Samenverbreitung und Backentaschen-Ökologie
+Ein zentrales biologisches Prinzip der Diademmeerkatze, das die Architektur der kenianischen Küstenwälder maßgeblich formt, ist die spezialisierte Verarbeitung von Früchten und die daraus resultierende Samenverbreitung (Zoochorie). Dieser Mechanismus beruht auf einer Kombination aus funktioneller Anatomie und einem synergistischen Zusammenspiel mit Bodeninsekten.
+Die Tiere besitzen hochgradig dehnbare Backentaschen (Cheek Pouches). Das Volumen dieser Taschen entspricht im gefüllten Zustand annähernd der Kapazität des Magens16. Dieser evolutionäre Mechanismus ermöglicht es den Primaten, in Habitaten mit hohem Konkurrenzdruck oder in Randgebieten schnell große Mengen an Nahrung zu ernten. Anstatt die Früchte an der Quelle zu kauen und zu schlucken, lagern sie diese im Gesichtsbereich ein und ziehen sich in geschützte Areale der Baumkrone zurück, um den Inhalt zu verarbeiten15.
+Der Prozess der Samenverbreitung teilt sich anschließend in zwei Pfade auf, die den Wald ökologisch bereichern: Das sogenannte "Spitting" (Ausspucken) tritt auf, wenn die Tiere die Früchte aus den Backentaschen in die Mundhöhle verlagern, das Fruchtfleisch extrahieren und die unversehrten Samen fallen lassen. Dies geschieht regelmäßig in einer Distanz von mehr als 5 Metern zum Mutterbaum. Dieser räumliche Abstand durchbricht die dichteabhängige Mortalität der Samen, da Samen, die direkt unter dem Mutterbaum keimen, durch artspezifische Pilze und spezialisierte Fraßfeinde eine erhöhte Sterberate aufweisen17. Der zweite Pfad ist die Endozoochorie (Verschlucken und Ausscheiden). Kleinere Samen passieren den Verdauungstrakt. Die Passagezeit bei verwandten Arten wird auf circa 22 Stunden beziffert19. Während dieser Zeit transportieren die Affen das biologische Material über weite Strecken im Waldfragment. Studien, die spezifisch an der kenianischen Küste (im Gede Ruins Forest) durchgeführt wurden, belegen, dass die mechanische und chemische Einwirkung im Magen-Darm-Trakt die Keimruhe (Latenzperiode) der Samen verkürzt und die prozentuale Keimungsrate messbar erhöht18. In einer Studie wurde dokumentiert, dass Sykes-Meerkatzen eine durchschnittliche Dichte von 17.1 Samen pro Quadratmeter verbreiten18.
+Dieser Mechanismus wird durch eine ökologische Synergie mit Dungkäfern verstärkt. Wenn die Diademmeerkatzen die Samen mit ihren Fäkalien ausscheiden, besiedeln Dungkäfer das Material. Sie reinigen die Samen vom Kot, formen Dung-Samen-Kugeln und rollen diese zu neuen Mikrohabitaten, wo sie in der Laubstreu vergraben werden18. Dieser sekundäre Verbreitungsschritt schützt das Saatgut vor Prädatoren wie Nagetieren und positioniert den Samen in einer feuchtigkeitsregulierten Nährstoffschicht. Der Status der Erkenntnis, dass die Diademmeerkatze durch diesen doppelten Mechanismus für einen signifikanten Anteil der natürlichen Waldregeneration in degradierten Küstenfragmenten verantwortlich ist, gilt als empirisch gesichert17.
+4. Ökologie und Verhalten (Fokus: 24. September bis 12. Oktober)
+Der Zeitraum vom 24. September bis zum 12. Oktober fällt an der Küste Kenias in das Ende der langen Trockenzeit und markiert den Beginn der kurzen Regenzeit (Short Rains). Diese klimatische Phase diktiert das Verhalten, die Nahrungssuche und den physiologischen Zustand der Diademmeerkatze auf direkte Weise.
+Die Art agiert als flexibler Generalist mit Schwerpunkt auf Frugivorie (Fruchtkonsum) und Folivorie (Blattkonsum)20. Ein Verdauungssystem mit Enddarmfermentation erlaubt es den Tieren, auch faserreiche Nahrung aufzuspalten20. Gegen Ende September erreicht die Verfügbarkeit von Vorzugsnahrung (reife Früchte, wasserreiche junge Blätter und Insekten) ihren jährlichen Tiefpunkt18. Um den Energiebedarf zu decken, schaltet die Population auf sogenannte "Fallback Foods" (Ausweichnahrung) um. Diese Ersatznahrung besteht aus zähen, reifen Blättern, Rinde, Blüten und holzigen Pflanzenteilen20.
+Dieser erzwungene Wechsel in der Nahrungszusammensetzung setzt einen biologischen Stressmechanismus in Gang. Langzeituntersuchungen an Waldmeerkatzen belegen, dass in Phasen erhöhter Aufnahme von reifen Blättern und einer verlängerten Gesamtdauer der Nahrungssuche die Konzentration von fGCs (Fecal Glucocorticoids, glukokortikoide Stresshormone im Kot) signifikant ansteigt20. Die Fallback Foods besitzen einen geringeren nutzbaren Energiegehalt und weisen einen höheren Anteil an sekundären Pflanzenstoffen auf, was den Metabolismus belastet20.
+Zusätzlich kulminiert in diesem Reisezeitraum der reproduktive Stress. Die Reproduktion bei Cercopithecus mitis ist saisonal an den Beginn der Regenzeiten gebunden, um laktierenden Weibchen das Maximum an Insekten und jungen Blättern zu garantieren21. Im späten September und frühen Oktober befinden sich adulte Weibchen folglich in der Endphase der Trächtigkeit oder in der frühen Phase der Laktation. Die Kombination aus reproduktivem Energiebedarf und nahrungsarmer Trockenzeit führt dazu, dass weibliche Tiere in diesem Zeitfenster die stärksten hormonellen Stressreaktionen des gesamten Jahreszyklus aufweisen20.
+Verhaltensökologisch führt der Ressourcenmangel im Oktober dazu, dass die normalerweise baumbewohnenden Tiere weitere Strecken zurücklegen und häufiger auf den Boden ausweichen müssen21. In den Habitaten Bamburi, Nguuni und Mtwapa Creek erhöht dies die Wahrscheinlichkeit von Konflikten mit menschlichen Siedlungen, da die Tiere verstärkt landwirtschaftliche Flächen oder Gärten zur Nahrungssuche frequentieren.
+5. Menschen und Kultur in Kenia
+Die Interaktion zwischen der menschlichen Bevölkerung und Cercopithecus mitis an der kenianischen Küste umfasst spirituelle Verehrung, wirtschaftliche Konflikte und moderne touristische Nutzung.
+Ein stabilisierender Faktor für die Populationen der Diademmeerkatze ist die Existenz der Kaya-Wälder. Diese isolierten Waldfragmente gelten bei der Volksgruppe der Mijikenda (zu der auch die Giriama gehören) als heilige Stätten, da sie historisch befestigte Dörfer und Begräbnisstätten der Ahnen beherbergten24. Ein System aus strengen traditionellen Tabus reguliert den Zugang und die Ressourcennutzung in diesen Wäldern. Da Diademmeerkatzen in der Kosmologie der Giriama teilweise mit Waldgeistern assoziiert werden, profitieren die Primaten von einem indigenen Schutzstatus. Die Einhaltung dieser Tabus hat zur Folge, dass die Kaya-Wälder Refugien der Biodiversität bleiben, in denen Wilderei und Holzeinschlag im Vergleich zu ungeschützten Zonen reduziert sind24.
+Gegenläufig zu diesem Schutzstatus existieren handfeste Mensch-Wildtier-Konflikte in den Agrarlandschaften, beispielsweise im Umland von Mtwapa Creek. Durch den Verlust natürlicher Habitate infolge von Landwirtschaft und Holzgewinnung weichen die Affen auf Plantagen aus. Dort plündern sie Nutzpflanzen und schälen auf der Suche nach Feuchtigkeit und Nährstoffen die Rinde von kommerziellen Forstbäumen (wie exotischen Kiefern) ab21. Dieser wirtschaftliche Schaden führt dazu, dass Landwirte die Tiere als Schädlinge betrachten und Vergeltungsmaßnahmen durchführen26. Ferner existiert ein lokaler Markt für traditionelle Medizin, auf dem Felle, Hände und das subkutane Fett der Tiere verarbeitet und gehandelt werden26.
+An den Orten Bamburi Beach, Haller Park und Nguuni dominiert eine touristische Interaktion. Die habituierten Meerkatzen werden von Besuchern und Hotelpersonal aktiv gefüttert (Provisioning). Studien warnen, dass diese Praxis das Verhalten der Tiere korrumpiert18. Die künstliche Fütterung senkt den Anteil an natürlichen Früchten in der Nahrung und reduziert die Streifgebiete der Tiere, wodurch ihre ökologische Rolle als Samenverbreiter in den Waldfragmenten gemindert wird18.
+Eine direkte Konsequenz der Lebensraumkompression durch menschliche Infrastruktur an der Küste ist die Hybridisierung. Normalerweise leben die Weißkehlmeerkatze (C. m. albogularis) und die Ostafrikanische Grünmeerkatze (Chlorocebus pygerythrus hilgerti) sympatrisch, ohne sich zu vermischen. An der Südküste (Diani) und Nordküste (Bamburi) hat die Konkurrenz um Mülltonnen und Futterstellen in Hotelanlagen diese Verhaltensbarrieren durchbrochen13. Biologen haben intergenerische Hybride dokumentiert, die morphologische Merkmale beider Arten vereinen13.
+Auf globaler Ebene wird Cercopithecus mitis in der Roten Liste der IUCN als "Least Concern" (Nicht gefährdet) eingestuft, da die Art eine beachtliche Anpassungsfähigkeit an Sekundärwälder zeigt28. Der Status der Unterart albogularis ist in Kenia nicht akut gefährdet, obgleich die Fragmentierung der Küstenhabitate lokal zu einem Rückgang der Populationen führt26.
+6. Wissenschaftsgeschichte
+Die Taxonomie von Cercopithecus mitis veranschaulicht den Wandel der biologischen Systematik über zwei Jahrhunderte. Die Geschichte ist geprägt von einer Phase der Erstbeschreibungen, einer extensiven Fragmentierung in zahlreiche Arten und einer modernen Synthese durch molekularbiologische Methoden.
+Die taxonomische Basis wurde im Jahr 1822 durch den deutschen Naturforscher Johann Wolf gelegt, der das Taxon Cercopithecus mitis beschrieb1. Die spezifische Erforschung der ostafrikanischen Küstenpopulation begann im Jahr 1831, als der britische Offizier William Henry Sykes ein Exemplar aus Mosambik beschrieb und den Namen Semnopithecus albogularis vergab3. Spätere Untersuchungen korrigierten die Gattungszuordnung, wodurch das Tier in die Gattung Cercopithecus transferiert wurde.
+Zwischen dem späten 19. Jahrhundert und dem Jahr 1920 führte die Expansion europäischer Sammler in Afrika zu einer Fragmentierung der Art. Jede marginal abweichende Fellfärbung wurde als neue Art oder Unterart klassifiziert. Forscher wie Paul Matschie (Jahr 1893), Oscar Neumann (Jahr 1902) und Einar Lönnberg (Jahr 1908) beschrieben dutzende Formen, darunter Synonyme wie Cercopithecus albogularis kibonotensis und Lasiopyga albogularis kima, basierend auf Einzelbelegen1.
+In der jüngeren Wissenschaftsgeschichte (ab dem späten 20. Jahrhundert) konsolidierte sich die Taxonomie, es entstanden jedoch neue Debatten über die Phylogeografie. Die sogenannte "Kingdon-Linie" (geprägt durch den Forscher Jonathan Kingdon) argumentiert, dass klimatische Fluktuationen im Pleistozän den afrikanischen Regenwald zerschnitten und Populationen in Waldrefugien isolierten5. Gemäß dieser These trennte sich die ost- und südafrikanische Form (die albogularis-Gruppe) genetisch von den zentralafrikanischen Vertretern der mitis-Gruppe ab5. Colin Groves und Jonathan Kingdon plädieren aufgrund dieser Divergenz für eine Aufspaltung in getrennte Arten, was bis heute nicht von allen Taxonomen und Datenbanken (wie der IUCN) übernommen wurde, was einen in der Primatologie ungelösten Widerspruch darstellt5.
+Ein Meilenstein in der Verhaltensökologie des 21. Jahrhunderts war die Dokumentation von Hybriden an der Küste. Im Jahr 2010 publizierten Yvonne de Jong und Thomas Butynski Belege für wilde Hybride zwischen Sykes-Meerkatzen und Grünmeerkatzen in Diani und Bamburi, was wertvolle Einblicke in die Überwindung von Fortpflanzungsbarrieren in anthropogen gestörten Habitaten lieferte13.
+7. Fotografie (Tageszeit, Verhalten, Fluchtdistanz)
+Für die naturfotografische Dokumentation an den Lokationen Bamburi Beach, Nguuni Nature Sanctuary, Mombasa Marine National Park und Mtwapa Creek gelten spezifische Parameter bezüglich der Lichtverhältnisse und des Tierverhaltens.
+Licht und Tageszeit sind am Äquator restriktive Faktoren. Die fotografisch verwertbaren Phasen begrenzen sich auf die frühen Morgenstunden (06:30 Uhr bis 08:30 Uhr) und den späten Nachmittag (ab 15:30 Uhr). Während der Mittagsstunden ziehen sich die Meerkatzen in das dichte, stark beschattete Kronendach zurück, was zusammen mit dem steil einfallenden Sonnenlicht zu harten Kontrasten führt.
+Die Fluchtdistanz (Flight Initiation Distance) variiert erheblich zwischen den genannten Lokationen: In den Arealen von Bamburi Beach (speziell im angrenzenden Haller Park) und den Hotelgärten am Marine National Park sind die Tiere durch jahrelange menschliche Präsenz und Fütterung habituiert18. Die Fluchtdistanz konvergiert hier oft auf Werte unterhalb von 5 Metern. Der Einsatz von Teleobjektiven mit einer Brennweite von 200 mm bis 400 mm ermöglicht vollformatige Porträtaufnahmen, ohne das natürliche Verhalten zu stören. In Gebieten mit geringerem Publikumsverkehr, wie in abgelegenen Abschnitten am Mtwapa Creek, weisen die Tiere eine größere Fluchtdistanz auf und fliehen bei Annäherung vertikal in die höheren Stockwerke des Waldes, was Aufnahmen aus steilen Winkeln gegen den Himmel erfordert.
+Folgende Verhaltensmuster bieten sich im Oktober für fotografische Studien an:
+Nahrungsaufnahme und Backentaschen: Das systematische Sammeln von trockenen Blättern oder Früchten. Hierbei lässt sich das asymmetrische Anschwellen der Gesichtspartien festhalten, wenn die Tiere ihre Backentaschen füllen17.
+Gegenseitige Körperpflege (Grooming): Ein zentrales soziales Verhalten, das vorwiegend auf stabilen Horizontalästen im Schatten durchgeführt wird und bei dem das weiße Kehlfell der Art gut zur Geltung kommt12.
+Hybriden-Dokumentation: In Bamburi besteht die Möglichkeit, intergenerische Hybride abzulichten. Ein dokumentierter Hybrid aus Diani zeigte intermediäre Merkmale, wie einen schwachen Nasenfleck und eine graue Halskrause. Ein fotografisch dokumentierbares Sonderverhalten dieses Hybriden war das aktive Markieren von Ästen durch das Reiben von Kinn und Brust für 30 bis 60 Sekunden13.
+8. Links zum Weiterlesen
+Die nachfolgende Tabelle fasst relevante digitale Ressourcen zusammen, die als Referenz für Bestand, Taxonomie und Verbreitung der Art dienen.
+
+Institution / Plattform
+	URL und Inhaltsschwerpunkt
+	Beleg
+
+IUCN Red List of Threatened Species
+	https://www.iucnredlist.org/
+
+Bietet aktuelle Gefährdungsanalysen, Statusberichte (Least Concern) und Populationsschätzungen für Cercopithecus mitis und dessen Unterarten.
+	26
+
+GBIF (Global Biodiversity Information Facility)
+	https://www.gbif.org/taxon/5GC3N
+
+Beinhaltet taxonomische Hierarchien, Synonym-Listen und geografische Koordinaten von Typusexemplaren (z.B. der Sammlungen von Heller und Sjöstedt).
+	3
+
+iNaturalist
+	https://www.inaturalist.org/taxa/Cercopithecus_mitis
+
+Eine bürgerwissenschaftliche Datenbank mit aktuellen Fotobelegen und Sichtungsdaten entlang der kenianischen Küste.
+	33
+
+NCBI PubMed
+	https://pubmed.ncbi.nlm.nih.gov/
+
+Datenbank für wissenschaftliche Primärliteratur. Referenzquelle für Studien zur Stressphysiologie (fGCs) und Samenverbreitung durch Primaten.
+	20
+9. Visuelle Beschreibung für eine Illustration
+A medium-sized primate is perched gracefully on a thick, horizontal branch of a coastal fig tree, framed by the lush, dark-green foliage of the Kenyan forest canopy. Its dense, grizzled olive-gray fur provides a subtle visual contrast against the vivid white collar of hair that thickly encircles its neck and upper chest. The monkey's hairless face is pigmented dark and highly expressive, punctuated by striking, amber-orange eyes that gaze attentively downward into the understory. Its exceptionally long, dark tail hangs loosely below the branch, acting as a pendulum for balance, while its distinctly distended cheeks hint at a freshly gathered meal of seeds and dry leaves.
+10. Was nicht belegt werden konnte
+Einige der im Vorfeld formulierten Anforderungen der Nutzeranfrage ließen sich anhand der verfügbaren wissenschaftlichen Snippets nicht oder nicht vollumfänglich belegen. Hierzu zählen folgende Sachverhalte:
+Exakte metrische Fluchtdistanzen: Während die Studien eine Habituation an den Menschen in Orten wie Bamburi und Nguuni belegen, liefern die vorliegenden ethologischen Publikationen keine exakten Fluchtdistanzen (Flight Initiation Distance) in quantifizierbaren metrischen Einheiten.
+Vollständige Trivialnamen der Ethnien des Binnenlandes: Die Rohdaten bestätigen, dass es linguistische Bezeichnungen für die Art in den Sprachen der Kikuyu, Kamba, Maasai und Samburu gibt. Die exakten Vokabeln (wie etwa "Kima" bei den Giriama) wurden in den gesichteten digitalen Lexika und Reiseführern jedoch entweder abgeschnitten oder nicht spezifiziert, weshalb sie in Tabelle 1 fehlen.
+Genauer physiologischer Stresswert (fGCs) für Oktober: Es ist wissenschaftlich gesichert, dass das Stresslevel am Ende der Trockenzeit ansteigt. Ein exakter laborchemischer Referenzwert in Nanogramm pro Gramm (ng/g) für die Populationen in den genannten Küstenorten im Oktober des Jahres 2026 lässt sich aus der Literatur naturgemäß nicht als prädiktiver Wert ableiten.
+Referenzen
+An annotated checklist of mammals of Kenya - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC6350106/
+Halibee fossil assemblages reveal later Pleistocene cercopithecins, https://osf.io/download/q76f4/
+Cercopithecus mitis albogularis (Sykes, 1831) - GBIF, https://www.gbif.org/taxon/5GC3N
+List of primates - Wikipedia, https://en.wikipedia.org/wiki/List_of_primates
+Adding another piece to the southern African Cercopithecus monkey, https://www.researchgate.net/publication/347049907_Adding_another_piece_to_the_southern_African_Cercopithecus_monkey_phylogeography_puzzle
+Mammals of Africa Volume II: Primates 9781408122525, https://dokumen.pub/mammals-of-africa-volume-ii-primates-9781408122525-9781472926920-9781408189917.html
+Sykes' monkey - Wikipedia, https://en.wikipedia.org/wiki/Sykes%27_monkey
+Ethnomammalogy in Mtanga Village | PDF | Felidae | Leopard - Scribd, https://www.scribd.com/document/13998473/Mammals-in-Mtanga-Notes-on-Ha-and-Bembe-Ethnomammalogy-in-a-Village-Bordering-Gombe-Stream-National-Park-Western-Tanzania
+Swahili Names for Snakes in Unguja | PDF - Scribd, https://pt.scribd.com/document/14023752/Swahili-Ethnoherpetology-Notes-from-Central-Unguja
+Subsistence Hunting in Indian Ocean Isles | PDF | Wild Boar - Scribd, https://www.scribd.com/doc/14444883/Island-Subsistence-Hunting-Trapping-and-the-Translocation-of-Wildlife-in-the-Western-Indian-Ocean
+Old World Monkeys II (Cercopithecinae) - Encyclopedia.com, https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/old-world-monkeys-ii-cercopithecinae
+Sykes Monkeys Stock Photos - Dreamstime.com, https://www.dreamstime.com/photos-images/sykes-monkeys.html
+Vervet Monkey Chlorocebus pygerythrus Hybrids in Kenya, https://bioone.org/journals/primate-conservation/volume-2010/issue-25/052.025.0109/Three-Sykess-Monkey-Cercopithecus-mitis--Vervet-Monkey-Chlorocebus-pygerythrus/10.1896/052.025.0109.pdf
+Primates - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/primates/?lang=en
+Cercopithecus nictitans (white-nosed guenon) - Animal Diversity Web, https://www.animaldiversity.org/accounts/Cercopithecus_nictitans/
+(Cercopithecus albogularis schwarzi) - LJMU Research Online, https://researchonline.ljmu.ac.uk/id/eprint/12768/1/2020stringerphd.pdf
+(PDF) Primate seed dispersal: Linking behavioral ecology with forest, https://www.researchgate.net/publication/257132252_Primate_seed_dispersal_Linking_behavioral_ecology_with_forest_community_structure
+The Role of Sykes Monkeys (Cercopithecus Mitis Albogularis) in, https://erepository.uonbi.ac.ke/bitstreams/8d5b944a-7fb2-4b05-95d8-e98fd0c6f2ac/download
+Seed dispersal by a diurnal primate community in the Dja Reserve, https://www.researchgate.net/publication/231928167_Seed_dispersal_by_a_diurnal_primate_community_in_the_Dja_Reserve_Cameroon
+Seasonal Energetic Stress in a Tropical Forest Primate, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050108
+Blue monkey - Wikipedia, https://en.wikipedia.org/wiki/Blue_monkey
+Seasonal Energetic Stress in a Tropical Forest Primate - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC3509155/
+940 Vol. 56, No.4 1970. et al. (1973)., https://academic.oup.com/jmammal/article-pdf/56/4/940/2502804/56-4-940.pdf
+Literature & case study review on protected areas and conservation, https://zenodo.org/record/6516027/files/7_IPBES_VA_4.6_2020_%28G%29.pdf
+Literature & case study review on outcomes in protected areas and, https://www.researchgate.net/publication/366445027_IPBES_VA_Chapter_4_-_Literature_case_study_review_on_outcomes_in_protected_areas_and_indigenous_and_community_conserved_areas_ICCAs_Version_02
+Cercopithecus mitis labiatus A SEDGWICK, R MURCHISON, 1842, https://speciesstatus.sanbi.org/assessment/last-assessment/1898/
+(PDF) Manyara monkey (Cercopithecus mitis manyaraensis), https://www.researchgate.net/publication/343046079_Manyara_monkey_Cercopithecus_mitis_manyaraensis
+(PDF) Cercopithecus mitis. The IUCN Red List of Threatened Species, https://www.researchgate.net/publication/336099516_Cercopithecus_mitis_The_IUCN_Red_List_of_Threatened_Species_-_2008
+Three Sykes's Monkey Cercopithecus mitis ... - BioOne Complete, https://bioone.org/journals/primate-conservation/volume-2010/issue-25/052.025.0109/Three-Sykess-Monkey-Cercopithecus-mitis--Vervet-Monkey-Chlorocebus-pygerythrus/10.1896/052.025.0109.full
+(PDF) Three Sykes's MonkeyCercopithecus mitis× Vervet, https://www.researchgate.net/publication/232693496_Three_Sykes's_MonkeyCercopithecus_mitis_Vervet_MonkeyChlorocebus_pygerythrusHybrids_in_Kenya
+Cercopithecus mitis Wolf, 1822 - GBIF, https://www.gbif.org/taxon/STFF
+(PDF) Pluto monkey (Cercopithecus mitis ssp. mitis) - ResearchGate, https://www.researchgate.net/publication/342919820_Pluto_monkey_Cercopithecus_mitis_ssp_mitis
+Taxonomy and Biogeography of the Gentle Monkey Cercopithecus, https://www.researchgate.net/profile/Thomas-Butynski/publication/340924146_Taxonomy_and_Biogeography_of_the_Gentle_Monkey_Cercopithecus_mitis_Wolf_1822_Primates_Cercopithecidae_in_Kenya_and_Tanzania_and_Designation_of_a_New_Subspecies_Endemic_to_Tanzania/links/5fba5c66299bf104cf6afe4b/Taxonomy-and-Biogeography-of-the-Gentle-Monkey-Cercopithecus-mitis-Wolf-1822-Primates-Cercopithecidae-in-Kenya-and-Tanzania-and-Designation-of-a-New-Subspecies-Endemic-to-Tanzania.pdf

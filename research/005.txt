@@ -1,0 +1,225 @@
+Botanisch-ökologisches Dossier: Tithonia diversifolia (Kenia)
+1. Namen und Etymologie
+Die Nomenklatur der Art spiegelt sowohl ihre botanische Einordnung als auch ihre vielfältige regionale Wahrnehmung wider. Der Status der wissenschaftlichen Bezeichnungen ist gesichert.
+
+Name / Bezeichnung
+	Sprache / Herkunft
+	Bedeutung / Anmerkung
+	Quelle
+
+Tithonia diversifolia (Hemsl.) A. Gray
+	Latein (Wissenschaftlicher Name)
+	Akzeptierter Name. Das Basionym lautet Mirasolia diversifolia Hemsl.
+	1
+
+Tithonia
+	Griechische Mythologie
+	Der Gattungsname ist abgeleitet von Tithonus, einem mythologischen trojanischen Jüngling und Geliebten der Göttin Eos (Aurora). Er wurde später in eine Heuschrecke verwandelt.
+	4
+
+diversifolia
+	Latein
+	Das Art-Epitheton bedeutet wörtlich "verschiedenblättrig" (differently shaped leaves), was auf die variable Ausprägung der Blattstruktur (Foliage) verweist.
+	5
+
+Riesen-Tithonie
+	Deutsch
+	Deutscher Trivialname.
+	1
+
+Mexican Sunflower, Tree marigold, Japanese sunflower, Bolivian sunflower
+	Englisch
+	Gängige Trivialnamen, die sich auf die Herkunft oder die Wuchsform beziehen.
+	1
+
+Maua
+	Swahili
+	Allgemeiner Begriff für Blume, lokal als Sammelbezeichnung in Gebrauch.
+	8
+
+Maruru, Kiruri
+	Kikuyu
+	Wörtliche Bedeutung ist unbekannt.
+	9
+
+Maua makech, Akech, Maua madungo, Otech
+	Luo
+	Wörtliche Bedeutung ist unbekannt.
+	8
+
+Maua amalulu, Amatwele
+	Luhya
+	Wörtliche Bedeutung ist unbekannt.
+	8
+
+Ilaa, Mulaa
+	Kamba
+	Wörtliche Bedeutung ist unbekannt.
+	9
+
+Unbekannt
+	Maa, Samburu, Giriama
+	In der untersuchten Literatur sind keine spezifischen lokalen Bezeichnungen dokumentiert.
+	
+Die Zuordnung der lokalen Namen zu den Gemeinschaften der Kikuyu, Luo, Luhya und Kamba in West- und Zentralkenia ist durch agrarwissenschaftliche Berichte gesichert9.
+2. Erscheinung, mit Maßen
+Tithonia diversifolia ist ein schnellwüchsiger, ausdauernder (perennierender) Strauch, der in Form von verholzenden, teils sukkulenten Pflanzen auftritt5.
+
+Merkmal
+	Dimension / Eigenschaft
+	Quelle
+
+Höhe
+	1.2 m bis 5.0 m. In agrarischen Heckenpflanzungen liegt der Durchschnitt bei 2.0 m bis 3.0 m. Ein Alltagsvergleich für die Maximalhöhe von 5.0 m entspricht der Höhe eines einstöckigen Gebäudes.
+	5
+
+Breite (Krone)
+	Bis zu 4.0 m Ausdehnung pro Pflanze.
+	6
+
+Gewicht
+	Ein Gesamtgewicht wird in der Literatur nicht spezifiziert (unbekannt).
+	
+
+Blattlänge
+	10.0 cm bis 40.0 cm.
+	5
+
+Blattfläche
+	45.0 cm² bis 182.25 cm² (Mesophyll). Der Blattflächenindex (Leaf Area Index) beträgt 4.5.
+	6
+
+Blütenstand (Durchmesser)
+	5.0 cm bis 15.0 cm im Querschnitt.
+	6
+
+Zungenblüten (Länge)
+	4.0 cm bis 6.0 cm.
+	11
+
+Röhrenblüten (Durchmesser)
+	Etwa 3.0 cm im Zentrum.
+	5
+
+Samenlänge
+	0.5 cm.
+	6
+Die Stängel der Art wachsen aufrecht und weisen an der Basis eine holzige Struktur auf5. Im Verlauf des Wachstums ist es gesichert, dass die Pflanze ihre unteren Blätter abwirft. Dieser altersbedingte Verlust führt zu einer Wuchsform, die morphologisch als "leggy" (hochbeinig oder kahl im unteren Bereich) beschrieben wird6. Die Stängel sind von hoher Brüchigkeit geprägt, besitzen jedoch die Eigenschaft, an Berührungspunkten mit dem Boden neue Wurzeln auszubilden6.
+Die Blätter sind wechselständig (alternierend) an den Stängeln angeordnet und weisen einen gezahnten (serraten) Rand sowie eine spitze (akute) Form auf5. Eine gesicherte Altersdifferenzierung zeigt sich in der Blattstruktur: Ältere und größere Blätter sind tiefer gelappt als jüngere6. Ein einzelnes Exemplar trägt Blätter mit unterschiedlichen Ausprägungen, typischerweise mit 3 bis 7 Lappen5. Die Blattoberseite besitzt eine dunkelgrüne, raue Textur, während die Unterseite von Haaren bedeckt ist (tomentös/hirsut), was ihr ein graugrünes Erscheinungsbild verleiht5. Die parallelen Blattadern treten deutlich hervor11.
+Die Fortpflanzungsorgane ordnen sich in gänseblümchen- bis sonnenblumenartigen Blütenständen (Capitulum) an6. Diese bestehen aus leuchtend gelben Zungenblüten und einem braunen bis schwarzen Zentrum aus Röhrenblüten5. Die Blüten verströmen einen honigartigen Duft6. Es existieren keine Geschlechtsunterschiede, da die Pflanze zwittrig ist. Die Früchte reifen als trockene, nicht aufspringende Achänen heran, die braune und leichte Samen enthalten6.
+3. Der Mechanismus
+Das primäre biologische Prinzip, das Tithonia diversifolia in der Agrarökologie auszeichnet, ist ihre quantifizierbare Fähigkeit zur Phytoextraktion und Akkumulation von Nährstoffen. Die Art mobilisiert schwer verfügbaren Phosphor (P) aus dem Boden und speichert ihn in hoher Konzentration in der eigenen Biomasse.
+Die ökologische Kausalkette dieses Mechanismus ist nachfolgend vollständig abgebildet: Zunächst sondern die Wurzeln von Tithonia diversifolia niedermolekulare organische Säuren (Low-Molecular Weight Organic Acids, LMWOAs) als Exsudate in die Rhizosphäre ab13. Innerhalb dieses Prozesses ist die Exsudation von Oxalsäure chemisch gesichert nachgewiesen14. Im zweiten Schritt interagiert diese Oxalsäure mit dem Bodenprofil. Sie bildet stabile Komplexe mit Aluminium- und Calciumionen, die in tropischen Böden (wie den stark verwitterten Acrisolen) Phosphor ansonsten unlöslich binden würden14. Durch diese Komplexbildung wird die Phosphorsorption im Boden signifikant reduziert14.
+Im dritten Schritt stimuliert die Wurzel gleichzeitig die enzymatische Aktivität. Gesicherte Messungen belegen, dass die Aktivität der sauren Phosphatase in einem Radius von 0.0 bis 1.0 mm um die Wurzelmatte signifikant ansteigt. Gemessene Werte quantifizieren eine Enzymaktivität von 29.64 nmol MUB min⁻¹ g⁻¹ Boden16. Diese Enzyme katalysieren die hydrolytische Spaltung organischer Phosphorverbindungen zu pflanzenverfügbarem, anorganischem Phosphat16. Parallel dazu geht die Pflanze eine Symbiose mit arbuskulären Mykorrhizapilzen (AMF) ein. Studien belegen, dass Wurzelextrakte von Tithonia die AMF-Infektion stimulieren, wodurch sich der physische Aufnahmeradius der Wurzeln im Substrat vergrößert14.
+Im vierten Schritt wird der nun pflanzenverfügbare Phosphor absorbiert und im Blattgewebe der Pflanze akkumuliert. Frisches Blattmaterial erreicht dadurch durchschnittliche Nährstoffkonzentrationen von 4.2 % Stickstoff, 1.2 % Phosphor und 5.6 % Kalium12. Der fünfte und finale Schritt der Kausalkette findet statt, wenn die Blattmasse durch den Menschen geschnitten und als Gründünger in den landwirtschaftlichen Boden eingearbeitet wird. Die Biomasse zersetzt sich rapide und gibt die Nährstoffe an Nutzpflanzen ab, wodurch Ertragssteigerungen bei Mais von 1.5 Mg ha⁻¹ (Kontrolle) auf 5.4 bis 5.5 Mg ha⁻¹ erzielt wurden17.
+In der wissenschaftlichen Erforschung dieses Mechanismus existiert eine klar dokumentierte Kontroverse bezüglich der Exsudation von Citronensäure. Frühere Hypothesen postulierten, dass Tithonia diversifolia hohe Mengen an Citronensäure (137 μM) absondert, um den Phosphor zu lösen. Eine detaillierte massenspektrometrische Analyse widerlegte dies jedoch und zeigte auf, dass der entsprechende Chromatographie-Peak einer Fettsäure zuzuordnen war16. Somit ist die alleinige Konzentration organischer Säuren als Hauptmechanismus umstritten, während die Erhöhung der Phosphatase-Aktivität heute als gesicherter, primärer Faktor der Phosphormobilisierung betrachtet wird16.
+Ein zweiter, phytochemischer Mechanismus basiert auf der Produktion von Sesquiterpenlactonen (STLs) wie Tagitinin C, E und F sowie Tirotundin und Diversifolin in den Blättern20. Tagitinin C interagiert mit den Enzymen MurA, MurE und MurG und hemmt dadurch die Peptidoglycan-Synthese von Bakterien, was die Biofilmbildung stört22. Zudem induziert dieser Stoff Ferroptose (einen eisenabhängigen Zelltod)24. Tagitinin F hingegen hemmt die Myeloperoxidase-Aktivität von menschlichen Neutrophilen signifikant und bewirkt eine entzündungshemmende Reaktion durch die Inhibition von NF-κB, ohne Apoptose auszulösen20.
+4. Ökologie und Verhalten
+Tithonia diversifolia ist in Mexiko und Zentralamerika heimisch, hat sich jedoch als Neophyt in tropischen Ökosystemen weltweit etabliert5. Die Art besiedelt Grasland, Savannen, Buschland, Brachflächen, Waldränder und Straßenränder6. Die klimatische Toleranz in Ostafrika umfasst Höhenlagen zwischen 550 m und 1950 m sowie mittlere Jahrestemperaturen von 15 °C bis 31 °C bei Jahresniederschlägen von 800 mm bis 1500 mm9. Die Pflanze bevorzugt fruchtbare, gut entwässerte Lehmböden6.
+Die Lebensweise der autotrophen Pflanze ist polykarpisch; sie blüht und produziert Samen ganzjährig, sofern die klimatischen Rahmenbedingungen dies zulassen6. In ihrem Tagesrhythmus richtet sich das Aufblühen der Körbchen nach der Sonneneinstrahlung (heliotropes Verhalten). Das Sozialverhalten (Populationsdynamik) äußert sich in der Bildung dichter, heckenartiger Monokulturen11. Diese Ausbreitung wird durch wurzel- und blattbürtige Sekundärmetabolite (Allelopathie) begünstigt, die das Wachstum konkurrierender Flora in direkter Umgebung hemmen27.
+Konkretes saisonales Muster (Ende September bis Anfang Oktober): In Kenia fällt der Zeitraum zwischen dem 24.09. und 12.10. auf das Ende der langen Trockenzeit und den Beginn der kurzen Regenzeit ("Short Rains"). Zu diesem Zeitpunkt zeigt Tithonia diversifolia ein spezifisches Überlebens- und Verbreitungsverhalten. Während der vorangegangenen Trockenzeit vertrocknen Teile der Pflanze. Gesichert ist, dass sie in dieser Phase ihre gebildeten Samen in den geschlossenen Fruchtständen zurückhält9. Ende September reißen die ausgetrockneten Fruchtkapseln auf. Mit dem Einsetzen der ersten Niederschläge und der aufkommenden Winde im Oktober beginnt die mechanische (abiotische) Dispersion. Die 0.5 cm großen, leichten Achänen werden durch Wind und abfließendes Wasser verweht oder weggespült. Zusätzlich tragen Weidetiere, Wildtiere und Fahrzeuge epizoochor zur Verbreitung bei6.
+Zahlreiche Tierarten sind auf Tithonia diversifolia angewiesen. Die großen, nektarreichen Blütenköpfe ziehen Insekten, primär Bienen und Schmetterlinge, an6. Palynologische Studien belegen den Stellenwert: In tropischen Rand- und Waldhabitaten erreicht der Pollen von Tithonia diversifolia den höchsten Important Value Index (IVI) und dominiert als Nahrungsquelle für Honigbienen28. Gleichzeitig bietet die Pflanze Lebensraum und Nahrung für Schädlinge wie Schmierläuse (Mealybugs) und Schnecken6.
+5. Menschen und Kultur in Kenia
+Die Pflanze nimmt in Kenia eine ambivalente Rolle ein, die zwischen landwirtschaftlichem Nutzen, volksmedizinischer Anwendung und ökologischen Konflikten pendelt.
+Landwirtschaftliche Nutzung: In den westlichen und zentralen Provinzen Kenias wird die Art von den ethnischen Gemeinschaften der Kikuyu, Luo und Luhya extensiv als Lebendzaun ("live fencing") zur Demarkation von internen und externen Grundstücksgrenzen genutzt11. Der wichtigste dokumentierte Nutzen liegt in der Bodenverbesserung durch Biomasse-Transfer. Frische oder getrocknete Blätter werden als Mulch eingesetzt oder kompostiert, um Stickstoff, Phosphor und Kalium in die landwirtschaftlichen Flächen einzubringen11. Ein wässriger Extrakt (Kompost-Tee) aus frischen oder verbrannten Blättern bietet Landwirten zudem einen kurzfristigen Schutz vor Termiten6. Auch eine Nutzung als Tierfutter (Fodder) und Brennmaterial ist dokumentiert9.
+Konflikte mit Menschen: Obwohl der Nährstofftransfer die landwirtschaftlichen Erträge steigert, sind die Adoptionsraten dieses Systems bei Kleinbauern gering. Der dokumentierte Konflikt besteht im sogenannten "Labor constraint" (Arbeitskraftbeschränkung). Um Felder effektiv zu düngen, müssen massive Mengen an Biomasse (bis zu 5 Tonnen pro Hektar) manuell geschnitten, transportiert und eingearbeitet werden14. Viele Kleinbauern verfügen nicht über die personellen Ressourcen, um diese arbeitsintensive Technik umzusetzen, wodurch sich die landwirtschaftliche Praxis oft auf die Pflanzung als einfache Hecke beschränkt29. Zudem wird die Art von Landwirten als wucherndes und invasives Unkraut gefürchtet, das gestörte Flächen besiedelt und native Arten verdrängt28.
+Medizinische Nutzung und toxikologischer Konflikt: Bei den Kikuyu, Luo und Luhya ist die Zubereitung eines Aufgusses (Infusion) aus zerkleinerten Blättern und Wasser dokumentiert11. Diese Lösung wird oral konsumiert, um Magenbeschwerden zu behandeln. Generell wird die Art in Afrika zur Therapie von Malaria, Leberleiden, Menstruationsschmerzen und Wunden eingesetzt33. Dieser volksmedizinischen Nutzung steht ein wissenschaftlicher Konflikt gegenüber: Extrakte, die reich an Sesquiterpenlactonen sind, binden nicht-selektiv an Proteine, was zu toxikologischen Bedenken führt. Während subchronische Studien (bis 2000 mg/kg) keine schweren akuten Organschäden an Ratten zeigten, bewirkten hohe Dosen milde Nekrosen an Hepatozyten23. Die Unbedenklichkeit als traditionelles Heilmittel ist daher in der medizinischen Forschung umstritten.
+Mythen, Rituale und Überlieferungen: Es existiert die allgemeine Überlieferung, dass verwandte Tithonia-Arten in Westafrika für spirituelle Waschungen verwendet werden25. Für Gemeinschaften in Kenia (wie Kikuyu, Luo, Maa, etc.) sind jedoch keine Legenden, spezifische Mythen oder Sprichwörter in der Fachliteratur belastbar dokumentiert (siehe Punkt 10).
+Schutzstatus und Bestandszahlen: Tithonia diversifolia wird als nicht heimisch (Not Native), naturalisiert und invasiv klassifiziert5. Sie unterliegt keinem Schutzstatus. Da es sich um ein unkontrolliert expandierendes Unkraut handelt, existieren keine quantitativen Erfassungen der Gesamtpopulation oder historische Bestandszahlen für Kenia (unbekannt)5.
+6. Wissenschaftsgeschichte
+Die Taxonomie und Erforschung der Pflanze erstreckt sich von den Erstbeschreibungen im 19. Jahrhundert bis zur modernen Agrarforschung in Nairobi.
+Die Gattung Tithonia wurde 1789 durch den französischen Botaniker René Louiche Desfontaines nach Vorarbeiten von Antoine Laurent de Jussieu etabliert34. Die dokumentierte westliche Wissenschaftsgeschichte von Tithonia diversifolia begann mit der geographischen Expedition des französischen Botanikers Eugène Bourgeau. Er sammelte den Typus-Beleg (Registrierungsnummer Bourgeau 2319) am 12. Mai 1866 im Tal von Orizaba in Mexiko3. Auf Basis dieses Materials verfasste der englische Botaniker William Botting Hemsley im Jahr 1881 die wissenschaftliche Erstbeschreibung unter dem Basionym Mirasolia diversifolia2. Zwei Jahre später, 1883, korrigierte der amerikanische Botaniker Asa Gray die morphologische Zuordnung und publizierte die Art formell als Tithonia diversifolia (Hemsl.) A. Gray3.
+Eine bedeutende Epoche in der Erforschung der ökologischen Eigenschaften der Art begann Ende der 1990er Jahre in Kenia. Das International Centre for Research in Agroforestry (ICRAF) in Nairobi initiierte groß angelegte Studien zur Bodenfruchtbarkeit. Forscher wie Bashir Jama, Roland J. Buresh, Cheryl A. Palm und A. Niang publizierten zwischen 1997 und 2000 umfassende agronomische Datenreihen, die den Nährstoffgehalt und die P-Mobilisierungsfähigkeit von Tithonia diversifolia in West-Kenia erstmals exakt quantifizierten38. Diese Arbeiten veränderten die Wahrnehmung der Art vom invasiven Unkraut zum essenziellen Gründünger für Kleinbauern.
+In jüngerer Zeit, zwischen 2017 und 2024, verlagert sich die Forschung auf die Phytochemie. Studien von F. Chagas-Paula (2012), L. Zhao (2017) und C. O. Nnadi (2024) analysierten die isolierten Sesquiterpenlactone (insbesondere Tagitinin C und F)20. Hierbei entstand die dokumentierte Kontroverse über die Toxizität der Pflanze: Einerseits weisen die Inhaltsstoffe hochpotente antibakterielle und krebshemmende (ferroptotische) Eigenschaften auf, andererseits verursachen sie durch unspezifische Proteinbindungen potenziell Organschäden, was ihre sichere Anwendung in der Phytomedizin infrage stellt22.
+7. Fotografie
+Standorte auf der Route und Tageszeit: Entlang der geplanten Reiseroute in und um Nairobi ist Tithonia diversifolia ubiquitär an Wegesrändern, auf gestörten Brachflächen und als Hecke (Live Fences) an landwirtschaftlichen Parzellen zu finden9. Die höchsten Chancen auf verwertbares Bildmaterial bieten sich in den frühen Morgenstunden (06:30 bis 08:30 Uhr) oder am späten Nachmittag (ab 16:30 Uhr). In diesen Intervallen fällt das Sonnenlicht in einem flachen Winkel auf die 5.0 bis 15.0 cm großen Zungenblüten, was den farblichen Kontrast zur dunkleren, graugrünen Blattmasse maximiert. Zudem nimmt die Windintensität in diesen Zeiten ab, und bestäubende Insekten zeigen die höchste Aktivität.
+Verhalten und Fluchtdistanz: Das Abwarten an den Blütenständen lohnt sich für zwei spezifische Ereignisse. Das erste ist der Anflug von Bestäubern (Bienen und Schmetterlingen), die den Nektar der Röhrenblüten aufnehmen6. Die Fluchtdistanz dieser Insekten an der Pflanze ist gering; eine Annäherung auf 1.0 m bis 2.0 m wird in der Regel toleriert. Das zweite Ereignis, bedingt durch den Reisezeitraum Ende September bis Anfang Oktober, ist das mechanische Aufreißen der getrockneten Fruchtkapseln bei Windböen, wodurch die leichten Achänen (0.5 cm) verweht werden6.
+Typische Fehler: Ein dokumentierter physischer Fehler ist der Versuch, Zweige zu biegen oder das dichte Buschwerk auseinanderzudrücken, um einen besseren Sichtwinkel zu erlangen. Die holzigen Stängel sind spröde und neigen zu abruptem Bruch, was die pflanzliche Struktur irreversibel beschädigt6. Ein optischer Fehler ist die Wahl einer niedrigen Kameraposition für Gesamtansichten. Da die Pflanze altersbedingt die unteren Blätter abwirft, resultieren Aufnahmen aus Bodennähe oft in einem unaufgeräumten, kahlen ("leggy") Vordergrund, der nur die nackten Stängel zeigt6.
+Objektive und Verschlusszeiten:
+Teleobjektive (100-400 mm / 150-600 mm): Diese Brennweiten eignen sich optimal, um den kargen unteren Pflanzenteil auszublenden und anfliegende Insekten formatfüllend freizustellen. Um die schnellen Flügelbewegungen beim Anflug auf das Capitulum oder beim Sprung von Blüte zu Blüte einzufrieren, sind belastbare Verschlusszeiten von 1/1000 s bis 1/2000 s zwingend erforderlich.
+Weitwinkel bis Normalbrennweite (26-60 mm / 45 mm): Diese Linsen dienen der Erfassung der bis zu 4.0 m breiten, dichten Heckenstruktur im landschaftlichen Kontext. Hier genügen Verschlusszeiten von 1/250 s bis 1/500 s, um leichte windbedingte Bewegungen der Zweige scharf abzubilden.
+8. Links zum Weiterlesen und Sehen
+
+Quellestyp
+	Beschreibung
+	URL
+
+Fachliche Quelle (CABI)
+	Das CABI Compendium liefert detaillierte Informationen über den Status der Art als invasives Unkraut und referenziert historische Publikationen.
+	https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.5402027
+
+Fachliche Quelle (POWO)
+	Die Datenbank von Kew Gardens listet das gesamte Taxon, die Erstbeschreiber und Synonyme wie Mirasolia diversifolia auf.
+	https://powo.science.kew.org/37
+
+Fachliche Quelle (PROTA)
+	Plant Resources of Tropical Africa dokumentiert die Erfassung der Pflanze in Beentjes "Kenya trees, shrubs and lianas".
+	https://prota.prota4u.org/protav8.asp?g=pe&p=Tithonia%20diversifolia44
+
+Verbreitungskarte (GBIF)
+	Die Global Biodiversity Information Facility verzeichnet historische Funddaten, inklusive des Typusbelegs von Bourgeau aus dem Jahr 1866.
+	https://www.gbif.org/taxon/5786336
+
+Fachartikel (Agroforst)
+	Eine der grundlegenden Studien zu den agronomischen Hürden (Labor Constraints) und der Nährstoffabgabe durch Tithonia in afrikanischen Kleinbauern-Systemen.
+	https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.692981/full31
+9. Visuelle Beschreibung für eine Illustration
+The Tithonia diversifolia is a towering, bushy shrub reaching up to five meters, characterized by upright, slightly woody stems that often appear bare near the base due to natural leaf drop. The foliage is coarse and deeply lobed with three to seven distinct serrated segments, displaying a dark, textured green on the upper surface and a fuzzy, grayish-green underneath. Crowning the terminal branches are large, brilliant yellow capitulum flowers measuring up to 15 centimeters across, with radiating bright petals encircling a tightly packed, dark brown to black central disc.
+Detail Suggestions:
+Leaf Structure: A close-up of an older, deeply palmate leaf, highlighting the prominent parallel veining and the velvety, hairy trichomes on the grayish underside.
+Seed Capsule: A detailed view of the dried, brown achenes (5 mm in size) resting loosely within a weathered, open fruiting head, poised to be dislodged by the wind.
+Stem Base: The lower section of the plant showing the brittle, ligneous stalk texture where old leaves have fallen off, leaving visible node scars.
+Cultural Vignette: A traditional woven Kenyan basket (Kiondo) resting on dry, red earth, overflowing with freshly hacked, bright green Tithonia leaves and stems, accompanied by a simple iron machete (panga) used by farmers to harvest the biomass for green manure.
+10. Was du nicht belegen konntest
+Trotz umfangreicher Datenlage konnten die folgenden, spezifisch angefragten Parameter nicht durch die bereitgestellten Quellen gesichert belegt werden:
+Lokale Bezeichnungen der Maa, Samburu und Giriama: Für diese spezifischen Gemeinschaften in Kenia konnten in der wissenschaftlichen Literatur keine einheimischen Namen für Tithonia diversifolia gefunden werden.
+Wörtliche Bedeutung der lokalen Namen: Die linguistische Übersetzung der Namen in den Sprachen Luo (Maua makech), Luhya (Maua amalulu), Kikuyu (Maruru) und Kamba (Ilaa) ist in den Quellen nicht aufgeschlüsselt.
+Exaktes Pflanzengewicht: Keine Quelle verzeichnet das absolute Gewicht oder die exakte Tonnage-Biomasse einer individuellen Einzelpflanze.
+Bestandszahlen für Kenia: Da die Art als hochgradig invasives Unkraut klassifiziert wird, das sich unkontrolliert verbreitet, existieren keine quantitativen Erhebungen der historischen oder aktuellen Gesamtpopulation im Land.
+Kenianische Mythen, Sprichwörter und Legenden: Es sind keine spirituellen Riten, Überlieferungen oder Mythen dokumentiert, die sich ausschließlich oder primär auf ethnische Gemeinschaften in Kenia beziehen. Die kulturelle Nutzung beschränkt sich in den Belegen strikt auf Medizin und Agroforstwirtschaft.
+Rolle der Citronensäure (Klärung): Die genaue Menge an exsudierter Citronensäure kann nicht final belegt werden, da die Analyse, die 137 μM postulierte, in einer nachfolgenden massenspektrometrischen Studie als Fehlinterpretation einer Fettsäure ausgewiesen wurde16. Dies bleibt in der Fachwelt eine nicht abschließend geklärte Lücke bezüglich der organischen Säuren.
+Works cited
+Tithonia diversifolia (Hemsl.) A. Gray - Accessions - INIAF, http://germoplasma.iniaf.gob.bo/gringlobal/taxonomydetail.aspx?id=36733
+Tithonia diversifolia - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Tithonia_diversifolia
+Tithonia diversifolia / [Species detail] / Plant Atlas, https://florida.plantatlas.usf.edu/plant/species/293
+Tithonia | Flora of Australia, https://profiles.ala.org.au/opus/foa/profile/Tithonia
+Tithonia diversifolia identification in India - Facebook, https://www.facebook.com/groups/PlantWealthofIndia/posts/2403088539754100/
+Tithonia diversifolia - Singapore - National Parks Board (NParks), https://www.nparks.gov.sg/florafaunaweb/flora/3/3/3347
+Mexican Sunflower (Tithonia diversifolia) - Plant Profile, Care & FAQs, https://yourflowersguide.com/mexican-sunflower/
+Tithonia diversifolia - Tropical Forages, https://tropicalforages.info/text/entities/tithonia_diversifolia.htm
+Tithonia diversifolia Overview and Uses | PDF | Plants | Botany - Scribd, https://www.scribd.com/document/844421638/PESTICADALPLANTLEAFLETS8Tithoniadiversifolia
+Wild sunflower, Tithonia diversifolia, SHRUB ... - StuartXchange, https://www.stuartxchange.org/WildSunflower.html
+Tithonia: Enhancing Soil Fertility in Kenya | PDF - Scribd, https://www.scribd.com/document/480823278/Mexican-Sunflower
+If you have Tithonia diversiofolia Kiruri (kikuyu) kirurite(kiembu, https://www.facebook.com/groups/africafarmers/posts/1983291445025968/
+Two-Phase Conceptual Framework of Phosphatase Activity and, https://pmc.ncbi.nlm.nih.gov/articles/PMC9343760/
+The 'Secret' Behind the Good Performance of Tithonia diversifolia on, https://www.researchgate.net/publication/225963655_The_'Secret'_Behind_the_Good_Performance_of_Tithonia_diversifolia_on_P_Availability_as_Compared_to_Other_Green_Manures
+Maize response to Tithonia diversifolia and rock phosphate, https://www.m.elewa.org/JABS/2014/79/18.pdf
+Phosphatase activity and organic acids in the rhizosphere of, https://www.researchgate.net/publication/222336906_Phosphatase_activity_and_organic_acids_in_the_rhizosphere_of_potential_agroforestry_species_and_maize
+Tithonia | 3568 Citations | Top Authors | Related Topics - SciSpace, https://scispace.com/topics/tithonia-2oqr3zzo
+Phosphorus dynamics and mobilization by plants., https://www.cabidigitallibrary.org/doi/10.1079/9780851996738.0127
+PENGARUH BERBAGAI EKSTRAK AKAR DALAM STIMULASI, https://jurnalsolum.faperta.unand.ac.id/index.php/solum/article/view/11
+Anti-inflammatory sesquiterpene lactones from Tithonia diversifolia, https://www.scielo.br/j/rbfar/a/ySHm7TSspWdyMbrxdbjYsKH/?lang=en&format=html
+Sesquiterpene lactones from Tithonia diversifolia act as peroxisome, https://www.ebi.ac.uk/chembl/explore/document/CHEMBL2163343
+Structural modification and biological activity studies of Tagitinin C, https://www.researchgate.net/publication/351923207_Structural_modification_and_biological_activity_studies_of_Tagitinin_C_and_its_derivatives
+Sub-Chronic Toxicological Evaluation of the Sesquiterpene Lactone, https://www.mdpi.com/2673-9976/24/1/1
+Sesquiterpene lactones from Tithonia diversifolia with ferroptosis, https://www.researchgate.net/publication/382166581_Sesquiterpene_lactones_from_Tithonia_diversifolia_with_ferroptosis-inducing_activities
+Tithonia rotundifolia - NMPPDB, https://nmppdb.com.ng/species-details?specy=%20tithonia-rotundifolia
+Ethnobotanical Knowledge and the Distribution of Pesticidal Plants, https://www.mdpi.com/1424-2818/18/5/253
+Tithonia diversifolia (Mexican sunflower) | CABI Compendium, https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.54020
+Pollen source diversity in Apis cerana beekeeping around Ir. H, https://smujo.id/biodiv/article/download/22796/9175/1202333
+Adoption Intensity of Selected Organic-Based Soil Fertility ... - Frontiers, https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2020.570190/full
+Assessment of Technology Options Addressing Agricultural, https://www.gjournals.org/GJAS/GJAS%20Pdf/2013/March/Mtei%20et%20al.pdf
+Organic Nutrient Source Allocation and Use in Smallholder Farming, https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.692981/full
+Tithonia diversifolia as a green manure for soil fertility improvement, https://www.researchgate.net/publication/226743342_Tithonia_diversifolia_as_a_green_manure_for_soil_fertility_improvement_in_western_Kenya_A_review
+Tithonia diversifolia (Hemsl.) A. Gray: Botany, Bioactivity, and, https://ejournal.uki.ac.id/index.php/prolife/article/download/8077/3946/34821
+Tithonia - Plant Atlas - University of South Florida, https://florida.plantatlas.usf.edu/genus/1226
+Tithonia diversifolia hemsl a gray The plant was named after the, https://blythedalevillage.co.za/tithonia-diversifolia-hemsl-a-gray/
+Tithonia diversifolia - GBIF, https://www.gbif.org/taxon/57863
+Tithonia diversifolia | Plantamor Database, https://plantamor.com/species/profile/tithonia/diversifolia
+Tithonia diversifolia: Variations in leaf nutrient concentration and, https://www.researchgate.net/publication/226034806_Tithonia_diversifolia_Variations_in_leaf_nutrient_concentration_and_implications_for_biomass_transfer
+Effect of Soil Supplementation with Fortified Tithonia Mulch and, http://www.aensiweb.net/AENSIWEB/aejsa/aejsa/2008/264-270.pdf
+Using Tithonia diversifolia (Hemsl.) Gray in a Short Fallow System to, https://pdfs.semanticscholar.org/5f85/64a84dc93dc8b838399a054930cdf3bb4947.pdf
+Researching Tithonia and other Daisies: As fallow species in, https://www.cabidigitallibrary.org/doi/full/10.1079/9781800620117.0039
+Effect Of Gliricidia Sepium And Senna Spectabilis Prunings On Soil, https://erepository.uonbi.ac.ke/server/api/core/bitstreams/a4335ac4-4393-4c1c-a9b3-1bfea6fbcdbe/content
+Sesquiterpene lactones of Tithonia diversifolia. Stereochemistry of, https://pubs.acs.org/doi/10.1021/jo01325a018
+Tithonia diversifolia - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Tithonia%20diversifolia

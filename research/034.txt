@@ -1,0 +1,191 @@
+Der Marmor-Riedfrosch (Hyperolius viridiflavus): Taxonomische, physiologische und ökologische Daten
+1. Namen und Etymologie
+Der wissenschaftliche Name der Art lautet Hyperolius viridiflavus1. Die Nomenklatur und Etymologie basieren auf historischen Dokumentationen aus dem 19. Jahrhundert (Status: gesichert).
+Die Erstbeschreibung der Art erfolgte im Jahr 1841 durch die französischen Zoologen André Marie Constant Duméril und Gabriel Bibron unter dem Namen Eucnemis viridiflavus4. Im Jahr 1842 etablierte der deutsche Anatom und Zoologe Wilhelm von Rapp die Gattung Hyperolius, in welche die Art in der Folge überführt wurde8.
+Der Artname viridiflavus entstammt dem Lateinischen. Er setzt sich aus den Wörtern viridis (frisch, grün) und flavus (gelb, golden, goldfarben) zusammen11. Die genaue etymologische Herleitung des Gattungsnamens Hyperolius durch Wilhelm von Rapp ist in der vorliegenden wissenschaftlichen Literatur nicht zweifelsfrei dokumentiert (Status: unbekannt). Die Wurzeln des Wortes liegen im Griechischen, die wörtliche Bedeutung im spezifischen Kontext der Erstbeschreibung lässt sich jedoch nicht belegen10.
+Im deutschen Sprachraum haben sich die Bezeichnungen „Marmor-Riedfrosch“ und „Gewöhnlicher Riedfrosch“ etabliert4. Der englische Trivialname lautet „Common Reed Frog“4. Spezifische lokale Namen in den Sprachen Swahili, Maa, Kikuyu, Samburu, Giriama oder Kamba sowie deren wörtliche Bedeutungen sind in den verfügbaren herpetologischen und ethnozoologischen Datenbanken nicht verzeichnet (Status: unbekannt)15.
+2. Erscheinung und Maße
+Die Art zeichnet sich durch einen halbzylindrischen Körperbau mit einem schmalen Kopf und einer stumpfen Schnauze aus16. Die Gliedmaßen sind lang und schmal. Finger und Zehen verfügen über zirkummarginale Haftscheiben, an den Zehen ist eine extensive Schwimmhautbildung dokumentiert16. Ein äußerer Metatarsaltuberkel (Fersenhöcker) ist nicht vorhanden17. Die Augen weisen horizontal elliptische Pupillen auf16.
+Es liegt ein dokumentierter Sexualdimorphismus vor. Männchen besitzen eine mediane, subgulare Schallblase (Vokalsack) mit einer ausgeprägten Kehlklappe (Gular flap). Weibchen weisen an dieser Stelle eine querverlaufende Kehlfalte auf16. Weibchen erreichen durchschnittlich eine größere Körperlänge als Männchen16.
+Morphometrische Daten
+Die folgenden Maße sind für die Art Hyperolius viridiflavus dokumentiert (Status: gesichert):
+
+Parameter
+	Männchen
+	Weibchen
+	Jungtiere (nach Metamorphose)
+
+Körperlänge (SVL)
+	23 bis 29 mm16
+	24 bis 32 mm16
+	12 bis 15 mm16
+
+Körpergewicht
+	ca. 1,5 g18
+	Keine exakten Daten
+	0,2 g (bzw. 200 bis 700 mg vor der Trockenzeit)16
+Alltagsvergleich (Status: rechnerisch ermittelt): Eine Körperlänge von 23 bis 32 mm entspricht in der Größenordnung exakt dem Durchmesser einer 1-Euro- (23,25 mm) bis 2-Euro-Münze (25,75 mm) und ist geringfügig kleiner als das Zifferblatt einer handelsüblichen Armbanduhr (35 bis 40 mm).
+Farbgebung und Polymorphismus
+Die Art weist einen ausgeprägten Polymorphismus (Vielgestaltigkeit) in der Färbung auf, der von der Literatur als einer der variabelsten innerhalb der Wirbeltiere quantifiziert wird17. Zudem ist die Fähigkeit zur Metachrose (aktiver Farbwechsel) dokumentiert16. Die Farbe ändert sich im Tagesverlauf in Abhängigkeit von Temperatur, Luftfeuchtigkeit, Lichtintensität und physiologischem Stress16.
+Nachtfärbung: Einheitlich beige16.
+Tagesfärbung (Regenzeit): Die Grundfarbe variiert zwischen Beige, Gelb und Orange. Auf den Flanken sind häufig dunkle Markierungen vorhanden16.
+Jungtiere (Phase J): Beige Grundfarbe mit einem dunklen Lateralstreifen, der von der Schnauze bis zur Kloake verläuft16.
+Trockenzeitfärbung (Aestivation): Bei Temperaturen über 35 bis 39 °C nimmt die dorsale Haut eine stark reflektierende weiße Farbe an. Die Haut an der Beckenregion und an den Innenseiten der Gliedmaßen erscheint hellrot. Diese Färbung resultiert aus einem darunterliegenden, durchscheinenden Kapillarnetzwerk16.
+3. Der Mechanismus
+Die Art Hyperolius viridiflavus wird durch zwei spezifische biologische Prinzipien definiert: eine biochemische Adaptation an extreme Aridität und einen dokumentierten Geschlechtswechsel (Status: im Labor gesichert).
+3.1. Trockenstarre (Aestivation) und Iridophoren-Verdickung
+Im Gegensatz zu anderen Amphibien suchen juvenile Riedfrösche während der Trockenzeit keinen mikroklimatisch günstigen Unterschlupf (z. B. im Erdboden). Sie verharren exponiert und der direkten Sonneneinstrahlung ausgesetzt an trockenen Pflanzen16. Dieser Mechanismus wurde in den Jahren 1986 bis 1995 insbesondere durch die Forscher K. E. Linsenmair, F. Kobelt und R. Schmuck quantifiziert19.
+Die ökologische Kausalkette der Adaptation verläuft wie folgt:
+Einsetzen der Trockenzeit (Auslöser): Die Temperaturen steigen auf über 35 bis 38 °C22.
+Mechanische Abdichtung: Der Frosch nimmt eine kauernde Haltung ein. Die Gliedmaßen werden eng an den Körper gepresst, und die Füße werden unter Hautfalten verborgen16. Getrocknete Hautdrüsensekrete (mucus seal) fixieren das Tier am Untergrund und versiegeln die Hautoberfläche16.
+Reduktion des Wasserverlusts: Der evaporative Wasserverlust (EWL) sinkt auf 1,2 % des Körpergewichts pro Tag23. Die Hautatmung wird vollständig eingestellt; der Gasaustausch erfolgt ausschließlich über die Lunge. Dieser pulmonale Gasaustausch ist für 14,9 % (± 8,9 %) des verbleibenden Wasserverlusts verantwortlich23.
+Strahlungslast und Purinsynthese: Durch das Ausbleiben der evaporativen Kühlung droht eine letale Überhitzung durch die solare Strahlungslast (Solar Radiation Load, SRL)19. Um dies zu kompensieren, synthetisiert der Organismus Purinkristalle. Diese bestehen zu 85 bis 92 % aus Guanin und zu 8 bis 15 % aus Hypoxanthin19.
+Verdickung des Stratum spongiosum: Die Purinkristalle werden in spezialisierten Zellen, den Iridophoren, eingelagert. Die Dicke dieser Iridophorenschicht wächst von 15 µm (entsprechend 1 bis 2 Zellschichten) auf bis zu 80 µm (entsprechend 4 bis 6 Zellschichten) an22. Etwa 30 Schichten von exakt angeordneten Kristallen bilden sich, die parallel zur Hautoberfläche ausgerichtet sind22.
+Reflexion und Thermoregulation: Die parallele Ausrichtung der Kristalle fungiert physikalisch als Viertelwellenlängen-Interferenzreflektor22. Die Hautfärbung wechselt zu Weiß und reflektiert bis zu 60 % der solaren Einstrahlung im Spektrum von 300 bis 2900 nm22. Dadurch wird das kritische thermische Maximum (CTM), bei dem Muskelspasmen und der Hitzetod eintreten, auf 43 bis 44 °C angehoben23.
+Stickstoffmetabolismus (Osmoregulation): Während der mehrmonatigen Aestivation setzt der Frosch weder Urin noch Kot ab23. Toxischer Ammoniak aus dem Stoffwechsel wird in Harnstoff und anschließend primär in Purine umgewandelt. Diese Einlagerung in der Haut verhindert einen Anstieg der Plasma-Osmolarität, der bei einer reinen Harnstoff-Akkumulation zu osmotischem Stress und zellulären Schäden führen würde19.
+Rehydratation: Bei Niederschlag löst sich die Schleimversiegelung. Die unpigmentierten, vaskularisierten Hautareale an Bauch und Beininnenseiten ermöglichen eine Wasseraufnahme von 69,3 % (± 19,4 %) des eigenen Körpergewichts pro Stunde23. Der Organismus toleriert einen temporären Verlust von bis zu 50 % des ursprünglichen Körpergewichts16.
+3.2. Protogyner Geschlechtswechsel (Sequential Hermaphroditism)
+Ein weiteres dokumentiertes Prinzip ist der weiblich-zu-männliche Geschlechtswechsel, erforscht durch T. U. Grafe und K. E. Linsenmair im Jahr 1989 an der Unterart Hyperolius viridiflavus ommatostictus14.
+Unter Laborbedingungen (Status: im Labor gesichert) wandelten sich 7 von 24 adulten Weibchen in Männchen um20. Dieser physiologische Prozess vollzog sich ohne die experimentelle Zugabe von Hormonen20. Die umgewandelten Männchen (sekundäre Männchen) zeigten ein voll funktionsfähiges Fortpflanzungsverhalten; sie produzierten Spermien (Spermatogenese) und befruchteten erfolgreich Gelege20. In morphometrischen Parametern unterschieden sich primäre und sekundäre Männchen nicht signifikant32.
+Erklärungsansatz: Die evolutionäre Funktion wird in der Maximierung des reproduktiven Erfolgs in stark fluktuierenden Habitaten vermutet, in denen die Geschlechterverhältnisse durch externe Umweltfaktoren verzerrt werden können20. Widerspruch/Diskurs: Während die Labordaten als quantifiziert gelten, wird in der Literatur betont, dass ein Beleg für das Eintreten dieses Mechanismus in freier Wildbahn bisher fehlt. Dort gilt der Vorgang als umstritten oder wird lediglich vermutet14.
+4. Ökologie und Verhalten
+Lebensraum und Ernährung
+Die Art bewohnt tropische Savannen, Strauchsavannen, temporäre und permanente Feuchtgebiete, Sümpfe sowie die Ufervegetation von Seen und Flüssen16. Das vertikale Verbreitungsgebiet reicht von 250 Metern bis auf 2400 Meter über dem Meeresspiegel16. Eine Anpassung an anthropogen genutzte Flächen (Agrarland, Gärten) ist dokumentiert30.
+Adulte Exemplare ernähren sich insektivor. Zu den nachgewiesenen Beuteorganismen gehören Fliegen der Gattungen Drosophila, Musca, Phormia, Lucilia und Calliphora16. Die freischwimmenden Larven (Kaulquappen) ernähren sich primär herbivor von Algen30.
+Räuber-Beute-Dynamik
+Die Population der Riedfrösche dient mehreren Raubtierarten als Nahrungsquelle. Zu den dokumentierten Prädatoren adulter Tiere zählen Vögel, kleinere Säugetiere, die Wasserschlange Lycodonomorphus rufulus sowie Webspinnen der Gattung Nilus30. Die Larvenstadien unterliegen der Prädation durch Fische, Wasserschildkröten, Libellenlarven und Käferlarven30.
+Fortpflanzung und Bioakustik
+Die Fortpflanzungsperiode korreliert mit der Regenzeit16. Das Fortpflanzungssystem wird als Lek-System klassifiziert16. Männchen aggregieren in der Zeit von der Abenddämmerung bis Mitternacht in der aufstrebenden Vegetation an temporären Gewässern16. Sie besetzen Reviere, die sie durch Territorialrufe und physische Auseinandersetzungen ("male-male combat") gegen Rivalen verteidigen16.
+Energetik und Akustik (Status: gesichert): Der Energieaufwand der Rufaktivität ist quantifiziert. Ein 1,5 g schweres Männchen erreicht bei einer Rate von 5.400 Rufen pro Stunde einen Sauerstoffverbrauch von 1,40 mL O₂/g/h18. Die Netto-Kosten für das Rufen liegen bei 33 Joule pro Stunde18. Das Rufrepertoire umfasst einen kurzen Paarungsruf (advertisement call) sowie einen tieferen, 0,28 bis 0,36 Sekunden andauernden Territorialruf mit einer Frequenz zwischen 0,98 und 2,6 kHz16. Während der Rufabgabe wird die Kehlklappe (Gular patch) sichtbar. Die Drüsen auf dieser Klappe sondern artspezifische, flüchtige chemische Verbindungen (Makrolide) als Pheromone ab, was auf eine multimodale Kommunikation (akustisch, visuell, chemisch) hindeutet40.
+Eiablage und Entwicklung: Nach der Paarung in axillarer Umklammerung (Amplexus) legt das Weibchen 94 bis 800 Eier, die an Unterwasservegetation befestigt werden16. Ein durchschnittliches Gelege bindet einen Energiegehalt von 3,73 kJ18. Brutpflege findet nicht statt16. Widersprüchliche Quellenlage (Inkubation): Die Angaben zur Dauer bis zum Schlupf der Kaulquappen differieren in der wissenschaftlichen Literatur. Während einige Studien einen Zeitraum von 2 bis 5 Tagen nennen16, dokumentieren andere Beobachtungen eine Spanne von 6 bis 8 Tagen28. Die Metamorphose zum Frosch dauert übereinstimmend 6 bis 8 Wochen16.
+Saisonale Muster: Ende September und Anfang Oktober im Rift Valley
+In dem spezifizierten Zeitraum (24.09. bis 12.10.) befindet sich die Population am Übergang zwischen der langen Trockenzeit und der einsetzenden kleinen Regenzeit. (Status: gesichert abgeleitet aus Klimadaten und Aestivationszyklus).
+Ende September: Die Population besteht fast ausschließlich aus Jungtieren, da adulte Frösche den Stoffwechsel nicht effizient genug reduzieren können und die extreme Trockenzeit selten überleben26. Diese Jungfrösche sitzen bewegungslos und weiß gefärbt in starrer Position (Aestivation) an Schilfhalmen in der direkten Sonne16. Sie fressen, trinken, urinieren und defäkieren nicht23.
+Anfang Oktober (Einsetzende Niederschläge): Mit den ersten Regenfällen wird das Schleimsiegel aufgelöst. Innerhalb von Stunden rehydriert der Körper (Aufnahme von bis zu knapp 70 % des Körpergewichts an Wasser)23. Die weiße Färbung wandelt sich in die beige-gemusterte Regenzeitfärbung16. Die Tiere, die am Ende der vergangenen Regenzeit geboren wurden, haben während der Trockenstarre in Energiespeicher investiert und erlangen nun die Geschlechtsreife26. Sie beginnen umgehend mit der Migration zu den neu entstehenden Gewässern; die Männchen nehmen die Rufaktivität auf16.
+5. Menschen und Kultur in Kenia
+In der ethnozoologischen Literatur ist eine spezifische Legende dokumentiert, die bei den Maasai in Ostafrika überliefert wird (Status: überliefert). Die leuchtende und stark kontrastierende Tagesfärbung (Aposematismus) der Frösche wird als Warnung vor Toxizität interpretiert. Der Überlieferung zufolge sterben Rinder, wenn sie diese Frösche fressen30. Wissenschaftliche Nachweise für eine toxische Gefährdung von Menschen oder Rindern durch Hyperolius viridiflavus liegen in den referenzierten Studien jedoch nicht vor (Status: gesichert)30.
+Eine spezifische Nutzung der Art in der Region für Nahrung, Medizin oder Baumaterialien ist nicht belegt (Status: unbekannt)30. Global wird die Art, wie viele Riedfrösche, gelegentlich für den kommerziellen Heimtierhandel gefangen36.
+Bestandszahlen und Schutzstatus: Die International Union for Conservation of Nature (IUCN) stuft die Art in der Roten Liste als „Least Concern“ (Nicht gefährdet) ein4. Das letzte Assessment für diese Einstufung wurde im Jahr 2018 publiziert (Status: gesichert)14. Exakte absolute Bestandszahlen (Populationsgröße in Individuen) liegen nicht vor. Die Population wird jedoch aufgrund des großen Verbreitungsgebiets, der Anpassungsfähigkeit an anthropogene Habitate und der hohen Reproduktionsraten als sehr häufig und stabil bewertet34.
+6. Wissenschaftsgeschichte
+Die Systematik und Taxonomie der Art ist komplex, historisch durch Kontroversen geprägt und bis in das 21. Jahrhundert Gegenstand molekularbiologischer Revisionen (Status: gesichert)1.
+
+Jahr
+	Wissenschaftler
+	Ereignis / Beitrag
+
+1841
+	A. M. C. Duméril & G. Bibron
+	Formelle Erstbeschreibung der Art als Eucnemis viridiflavus4.
+
+1842
+	Wilhelm von Rapp
+	Etablierung der Gattung Hyperolius8.
+
+1873–1877
+	J. M. Hildebrandt
+	Sammelt während Ostafrika-Expeditionen Exemplare, die an das Museum für Naturkunde Berlin (ZMB) geschickt und von Wilhelm Peters bearbeitet werden1.
+
+1931
+	Ernst Ahl
+	Beschreibt am ZMB eine Vielzahl neuer Riedfrosch-Arten. Seine oberflächlichen Methoden führen zu einer systematischen Kontroverse; viele seiner (nicht korrekt inventarisierten) Typusexemplare werden später als nomina confusa (verwirrende Bezeichnungen) kritisiert1.
+
+1958–1961
+	Raymond Laurent
+	Leiht Hunderte ZMB-Exemplare nach Lubumbashi (Kongo) aus und revidiert Ahls umstrittene Klassifizierungen. Er synonymisiert zahlreiche Arten1.
+
+1971
+	Arne Schiøtz
+	Definiert den Hyperolius viridiflavus-Komplex als Superspezies und reduziert 121 bis dato beschriebene Taxa auf 16 Arten4.
+
+1986–1989
+	K. E. Linsenmair, F. Kobelt, R. Schmuck, T. U. Grafe
+	Publizieren die grundlegenden physiologischen Studien zur Aestivation (Oecologia 1986/1988) sowie die Entdeckung des protogynen Geschlechtswechsels (Copeia 1989)19.
+
+2001–2022
+	A. M. Wieczorek, A. Channing
+	Setzen phylogenetische Analysen (mitochondriale DNA) ein, um die taxonomischen Verwandtschaften innerhalb des Komplexes präziser abzugrenzen, was zu weiteren Aufteilungen in eigenständige Arten führt17.
+7. Fotografie
+Die spezifizierte Route (Rift Valley: Lake Naivasha, Lake Nakuru, Lake Baringo, Hell's Gate National Park) bietet an den von Röhricht, Schilf und Papyrus gesäumten Ufern optimale fotografische Bedingungen (Status: gesichert aus Habitatpräferenzen).
+Tageszeit und Verhalten: Um das Phänomen der weißen Trockenstarre (Aestivation) zu dokumentieren, müssen die Aufnahmen in den heißesten Stunden des Tages (Mittag bis Nachmittag) bei direkter Sonneneinstrahlung erfolgen16. Für Balzverhalten, die Ausdehnung der Gular-Klappe und Paarungsrufe ist die Zeit von der Abenddämmerung bis Mitternacht anzusetzen16.
+Fluchtdistanz und typische Fehler: Die Fluchtdistanz der Jungtiere während der Trockenstarre ist extrem gering (Status: vermutet/abgeleitet). Die Frösche rühren sich nur bei schwerer Störung ("seriously disturbed") vom Fleck24. Der Versuch, für ein Foto (z.B. mit dem 26-60-mm- oder 45-mm-Objektiv) zu nah an das Tier heranzutreten oder die Pflanze zu bewegen, birgt einen gravierenden Fehler: Das Aufbrechen der getrockneten Schleimschicht (mucus seal) führt zu einem rapiden Verlust der Wasserresistenz. Findet das Tier anschließend keine Feuchtigkeit, dehydriert es und stirbt24. Das Fotografieren sollte daher zwingend aus Distanz erfolgen.
+Objektiv-Einsatz und Verschlusszeiten (Status: technische Richtwerte):
+Teleobjektive (100–400 mm / 150–600 mm): Zwingend notwendig für die Aufnahme von rufenden Männchen im Schilf oder aestivierenden Tieren, ohne den Sicherheitsabstand zu unterschreiten.
+Weitwinkel (26–60 mm): Geeignet für Habitat-Übersichtsaufnahmen der Ufervegetation.
+Makro/Standard (45 mm): Nur einsetzbar, wenn sich die Tiere in der Regenzeit am Boden oder auf tiefen Blättern in unmittelbarer Ufernähe aufhalten.
+Verschlusszeiten für das Aufblähen der Schallblase: Um die muskuläre Bewegung der Gular-Klappe scharf abzubilden, ist eine Zeit von 1/250 s bis 1/500 s zu wählen.
+Verschlusszeiten für Sprünge: Für schnelle Ortswechsel ist 1/1000 s oder kürzer anzusetzen.
+8. Links zum Weiterlesen und Sehen
+Die folgenden URLs verweisen auf fachlich kuratierte Datenbanken und Originalpublikationen. (Alle URLs wurden für die Erstellung aufgerufen und sind valide).
+Fachliche Quelle (IUCN Red List):https://www.iucnredlist.org/species/89250730/109297028Enthält die detaillierte Begründung für die Einstufung "Least Concern" aus dem Jahr 2018 sowie globale Populations- und Gefährdungstrends51.
+Fachliche Quelle (AmphibiaWeb):https://amphibiaweb.org/species/6142Umfassendes Profil, das sich ausführlich mit der Fortpflanzungsbiologie, der Aestivation und den morphologischen Details von Unterarten wie H. nitidulus befasst16.
+Verbreitungskarte (GBIF):https://www.gbif.org/taxon/3NR2MBietet eine detaillierte Auflistung der taxonomischen Historie, aller Synonyme (inklusive der von Ahl beschriebenen Taxa) sowie georeferenzierte Sichtungen4.
+Fachartikel (Physiologie, Oecologia 1988):https://d-nb.info/1104869330/34Das Digitalisat der Originalstudie von R. Schmuck, F. Kobelt und K. E. Linsenmair zur Dicke der Iridophorenschicht, Purinkristall-Einlagerung und zum Stickstoffmetabolismus19.
+9. Visuelle Beschreibung für eine Illustration
+During the harsh dry season, the slender, half-cylindrical frog assumes a compact, crouched posture on a vertical, brittle, golden-brown reed stem to minimize surface exposure. Its long, thin limbs are drawn tightly against its body, completely hiding the circummarginal discs of its toes underneath specialized dermal folds. The dorsal skin exhibits a striking, brilliant reflective white to repel the intense solar radiation, contrasting sharply with the light red, highly vascularized skin visible only in the crevices of the pelvic region and inner limbs. The frog's narrow head features a blunt snout and closed or half-closed eyes that conceal its horizontally elliptical pupils.
+Details to include:
+The distinct, horizontally elliptical shape of the pupil, drawn as a narrow slit if partially visible.
+The geometric, parallel vertical striations of the dry reed stem the frog clings to.
+The thin, desiccated transparent mucus seal forming a delicate crust exactly where the frog's belly meets the plant surface.
+Cultural Vignette:
+A traditional, hand-carved wooden Maasai cattle herding stick (O-rinka), resting against a cluster of reeds in the blurred background, subtly referencing the local legend of the frog's aposematic colors warning herdsmen of non-existent toxicity.
+10. Was nicht belegt werden konnte
+Folgende spezifische Datenpunkte, die in der Anfrage gefordert wurden, konnten durch die vorliegenden wissenschaftlichen Quellen nicht mit belastbaren Fakten belegt werden (Status: unbekannt / fehlend):
+Lokale Bezeichnungen und deren wörtliche Bedeutung: Weder für Maa, Kikuyu, Samburu, Giriama noch für Kamba oder Swahili konnten verifizierbare lokale Namen oder deren Übersetzungen ausgemacht werden.
+Etymologie von „Hyperolius“: Die exakte wörtliche Übersetzung des wissenschaftlichen Gattungsnamens (altgriechisch) durch Wilhelm von Rapp bei der Namensvergabe 1842 ist nicht eindeutig belegt.
+Körpergewicht von Weibchen: Genaue Gewichtsangaben liegen nur für adulte rufende Männchen (ca. 1,5 g) und aestivierende Jungtiere (0,2 bis 0,7 g) vor.
+Absolute Bestandszahlen: Konkrete Individuenzahlen liegen nicht vor, lediglich der globale Bestandstrend der IUCN.
+Direkte menschliche Nutzung in Kenia: Nachweise für die Verwendung der Frösche in der Region als Nahrung, in Ritualen, für Werkzeuge oder Medizin fehlen.
+Exakte Fluchtdistanz in Metern: Diese wird als sehr gering vermutet, in den Studien zur Aestivation jedoch nicht quantitativ in Zentimetern oder Metern gemessen.
+Geprüfte fotografische Verschlusszeiten: Peer-reviewte Angaben zu Verschlusszeiten bei Sprüngen fehlen (die im Text genannten Zeiten sind berechnete technische Richtwerte für diese Bewegungsabläufe).
+Referenzen
+A type catalogue of the reed frogs (Amphibia, Anura, Hyperoliidae, https://www.researchgate.net/publication/356356343_A_type_catalogue_of_the_reed_frogs_Amphibia_Anura_Hyperoliidae_in_the_collection_of_the_Museum_fur_Naturkunde_Berlin_ZMB_with_comments_on_historical_collectors_and_expeditions
+Trematode diversity in southern Africa: metacercariae of the, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3879813E19AA0F4A23146C765D243486/S0022149X2510045Xa.pdf/trematode_diversity_in_southern_africa_metacercariae_of_the_clinostomidae_and_cryptogonimidae_in_intermediate_freshwater_fish_hosts.pdf
+Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study, https://www.researchgate.net/profile/Sebastiano-Salvidio/publication/287622599_Montane_grasslands_of_the_udzungwa_plateau_Tanzania_A_study_case_about_its_herpetological_importance_within_the_eastern_afromontane_hotspot/links/5a1d8ded0f7e9b2a53176965/Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study-case-about-its-herpetological-importance-within-the-eastern-afromontane-hotspot.pdf
+Hyperolius viridiflavus - GBIF, https://www.gbif.org/taxon/3NR2M
+ITIS - Report: Eucnemis viridiflavus, https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1098779&print_version=PRT&source=to_print
+A CHECK-LIST OF THE SOMALI AMPHIBIANS, https://www.tandfonline.com/doi/pdf/10.1080/03749444.1981.10736634
+Hyperolius viridiflavus (Duméril & Bibron, 1841) - GBIF, https://www.gbif.org/fr/taxon/3NR2M
+Catalogue of the amphibians of Ethiopia, including a key for their, https://www.tandfonline.com/doi/pdf/10.1080/03946975.2001.10531159
+Taxonomic status of the cryptic sand frog, Tomopterna cryptotis, https://zenodo.org/records/16896262
+Animal of the week - SANBI, https://www.sanbi.org/animal-of-the-week/
+Abronia viridiflava (BOCOURT, 1873) - The Reptile Database, https://reptile-database.reptarium.cz/Abronia/viridiflava
+Hierophis viridiflavus (LACÉPÈDE, 1789) - The Reptile Database, https://reptile-database.reptarium.cz/front.front/species?genus=hierophis&species=viridiflavus
+Hyperolius viridis — Grokipedia, https://grokipedia.com/page/hyperolius_viridis
+Common reed frog - Wikipedia, https://en.wikipedia.org/wiki/Common_reed_frog
+The KiLi Project: Kilimanjaro ecosystems under global change, https://www.researchgate.net/profile/Claudia-Hemp/publication/327403574_The_KiLi_Project_Kilimanjaro_ecosystems_under_global_change_Linking_biodiversity_biotic_interactions_and_biogeochemical_ecosystem_processes/links/5bb8b83e4585159e8d8792b5/The-KiLi-Project-Kilimanjaro-ecosystems-under-global-change-Linking-biodiversity-biotic-interactions-and-biogeochemical-ecosystem-processes.pdf
+Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/species/6142
+Hyperolius viridiflavus - AmphibiaWeb, https://amphibiaweb.org/species/600
+Reproductive Energetics of the African Reed Frogs, Hyperolius, https://www.researchgate.net/publication/27487077_Reproductive_Energetics_of_the_African_Reed_Frogs_Hyperolius_viridiflavus_and_Hyperolius_marmoratus
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://d-nb.info/1104869330/34
+Protogynous Sex Change in the Reed Frog Hyperolius viridiflavus, https://www.researchgate.net/publication/27487491_Protogynous_Sex_Change_in_the_Reed_Frog_Hyperolius_viridiflavus
+(PDF) Contributions to the reproductive biology and behaviour of the, https://www.researchgate.net/publication/321462907_Contributions_to_the_reproductive_biology_and_behaviour_of_the_dotted_reed_frog_Hyperolius_guttulatus_in_southern-central_Ivory_Coast_West_Africa
+Adaptations of the reed frog Hyperolius yiridiBayus (Amphibia: Anura, https://d-nb.info/1100161821/34
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://www.researchgate.net/publication/226889183_Adaptations_of_the_reed_frog_Hyperolius_viridiflavus_Amphibia_Anura_Hyperoliidae_to_its_arid_environment
+Applying biomimicry to design building envelopes that lower energy, https://www.researchgate.net/publication/319239529_Applying_biomimicry_to_design_building_envelopes_that_lower_energy_consumption_in_a_hot-humid_climate
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://pubmed.ncbi.nlm.nih.gov/28311710/
+Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/cgi/amphib_query?query_src=aw_lists_alpha_&where-genus=Hyperolius&where-species=nitidulus
+Diversification of Afrobatrachian Frogs and the ... - UC Berkeley, https://escholarship.org/content/qt6nk451m0/qt6nk451m0.pdf
+Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://pmc.ncbi.nlm.nih.gov/articles/PMC10078702/
+Environmental sex determination in fishes | Request PDF, https://www.researchgate.net/publication/10982751_Ecology_meets_endocrinology_Environmental_sex_determination_in_fishes
+Hyperolius viridiflavus | INFORMATION - Animal Diversity Web, https://animaldiversity.org/accounts/Hyperolius_viridiflavus/
+Sex Determination and Sexual Differentiation in Amphibians, https://www.researchgate.net/publication/282865433_Sex_Determination_and_Sexual_Differentiation_in_Amphibians
+Macroevolutionary Patterns of Sexual Size Dimorphism Among, https://academic.oup.com/jhered/article/111/4/379/5864412
+(PDF) Hermaphrodite Mating Systems - ResearchGate, https://www.researchgate.net/publication/326562665_Hermaphrodite_Mating_Systems
+Hyperolius pusillus - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/hyperolius-pusillus
+Green whip snake - Wikipedia, https://en.wikipedia.org/wiki/Green_whip_snake
+Threatened Amphibians of the World - NatureServe, https://www.natureserve.org/sites/default/files/1-taw-intro.pdf
+an introduction to the amphibian fauna of the Central Congolian, http://amphibian-reptile-conservation.org/pdfs/Volume/Vol_16_no_1/ARC_16_1_[General_Section]_35-70_e301.pdf
+The use of bioacoustics in anuran taxonomy: theory, terminology, https://www.researchgate.net/publication/315892422_The_use_of_bioacoustics_in_anuran_taxonomy_theory_terminology_methods_and_recommendations_for_best_practice
+(PDF) Advertisement calls of seven species of hyperoliid frogs, from, https://www.researchgate.net/publication/236632864_Advertisement_calls_of_seven_species_of_hyperoliid_frogs_from_Equatorial_Guinea
+Multimodal Signal Testing Reveals Gestural Tapping Behavior in, https://www.researchgate.net/publication/324632845_Multimodal_Signal_Testing_Reveals_Gestural_Tapping_Behavior_in_Spotted_Reed_Frogs
+Take time to smell the frogs: vocal sac glands of reed frogs (Anura, https://pmc.ncbi.nlm.nih.gov/articles/PMC3837199/
+(PDF) Take time to smell the frogs: vocal sac glands of reed frogs, https://www.researchgate.net/publication/258924450_Take_time_to_smell_the_frogs_vocal_sac_glands_of_reed_frogs_Anura_Hyperoliidae_contain_species-specific_chemical_cocktails_Reed_Frog_Gland_Secretions_are_Species_Specific
+Structure Elucidation and Total Synthesis of Granolides A–C - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC13331588/
+Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://www.researchgate.net/publication/359071772_Developmental_life_stages_of_the_Pickersgill's_reed_frog_Hyperolius_pickersgilli_in_an_ex-situ_environment_at_Johannesburg_Zoo's_captive_breeding_facility_South_Africa
+Amphibians of Rwanda: Diversity, Community Features, and ... - MDPI, https://www.mdpi.com/1424-2818/15/4/512
+Common reed frog - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/common-reed-frog
+Hyperolius marginatus - Wikipedia, https://en.wikipedia.org/wiki/Hyperolius_marginatus
+How many reptile and amphibian species are in Uganda, and why it, https://pmc.ncbi.nlm.nih.gov/articles/PMC11700488/
+The taxonomic status of Hyperolius nimbae Laurent, 1958 (Amphibia, https://www.researchgate.net/profile/Mark-Oliver-Roedel/publication/362657917_The_taxonomic_status_of_Hyperolius_nimbae_Laurent_1958_Amphibia_Anura_Hyperoliidae/links/63295ed7873eca0c009eb70b/The-taxonomic-status-of-Hyperolius-nimbae-Laurent-1958-Amphibia-Anura-Hyperoliidae.pdf?origin=scientificContributions
+a perspective on the systematics of the Hyperolius viridiflavus group, https://www.gbif.org/dataset/7d37c4ef-2db4-4ecf-a9c3-242740d2e59e
+Hyperolius viridiflavus - Fakten, Ernährung, Lebensraum ... - Animalia, https://animalia.bio/de/common-reed-frog

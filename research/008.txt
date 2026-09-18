@@ -1,0 +1,155 @@
+Forschungsbericht: Strukturiertes Rohmaterial zu Euplectes jacksoni
+1. Namen und Etymologie
+Die Nomenklatur der Art ist auf wissenschaftlicher und internationaler Ebene eindeutig dokumentiert, weist jedoch Lücken in den regionalen Bezeichnungen auf.
+Die wissenschaftliche Erstbeschreibung des Taxons erfolgte 1891 durch den britischen Ornithologen Richard Bowdler Sharpe unter dem lateinischen Protonym Drepanoplectes jacksoni1. Heute wird die Art taxonomisch als Euplectes jacksoni (Sharpe, 1891) geführt3. Der wissenschaftliche Gattungsname Euplectes ist ein Kompositum aus dem Altgriechischen „eu“ (für „gut“ oder „fein“) und dem Neulateinischen „plectes“ (für „Weber“)5 (Status: gesichert). Das Artepitheton jacksoni wurde zu Ehren von Frederick John Jackson vergeben, einem britischen Kolonialadministrator und Ornithologen6 (Status: gesichert).
+Auf internationaler und regionaler Ebene haben sich folgende Trivialnamen etabliert:
+
+Sprache
+	Name
+	Wörtliche Bedeutung / Herkunft
+	Status
+
+Deutsch
+	Leierschwanzweber6, Leierschwanzwida6
+	Bezieht sich auf die Schwanzform im Prachtkleid.
+	gesichert
+
+Englisch
+	Jackson's Widowbird3
+	Adaption des Artepithetons.
+	gesichert
+
+Swahili
+	Kweche10, Kweche-wanda2
+	Unbekannt.
+	gesichert
+
+Maa, Kikuyu, Samburu, Giriama, Kamba
+	Unbekannt
+	In der Literatur nicht spezifisch für diese Art belegt.
+	unbekannt
+(Anmerkung zur Etymologie: Der Giryama-Begriff „bombo“ wird zwar für rote Euplectes-Arten verwendet, ist jedoch für Euplectes jacksoni nicht als artspezifisch isolierbar13.)
+2. Erscheinung und Morphologie
+Euplectes jacksoni weist einen ausgeprägten saisonalen und sexuellen Dimorphismus auf. Die Differenzierung zwischen den Geschlechtern sowie zwischen Brut- und Ruhephasen betrifft sowohl die physischen Dimensionen als auch die Farbgebung.
+Die nachfolgende Tabelle fasst die metrischen Parameter und phänotypischen Ausprägungen zusammen:
+
+Merkmal
+	Männchen (Prachtkleid)
+	Männchen (Schlichtkleid) / Weibchen
+	Status / Bemerkung
+
+Gesamtlänge
+	ca. 30 cm (inklusive Schwanzfedern)6
+	ca. 14 cm6
+	gesichert. Alltagsvergleich: 30 cm entspricht der Längsseite eines DIN-A4-Blattes; 14 cm entspricht der Länge eines durchschnittlichen Kugelschreibers.
+
+Körpergewicht
+	40 bis 49 g6 (Mittelwert 42,7 g14)
+	Widersprüchliche Datenlage: 12 g15 vs. 29,7 g14
+	widersprüchlich (Werte aus verschiedenen Studien).
+
+Schwanzlänge
+	ca. 20 cm16
+	Kurz
+	gesichert.
+
+Gefiederfärbung
+	Samtschwarz; Schultern gelb-braun gestreift6
+	Spatzenähnlich braun; Oberseite gelblich-braun, Unterseite gestrichelt6
+	gesichert.
+
+Kopf und Extremitäten
+	Kräftiger, heller konischer Schnabel; schwarze Augen; dunkelbraune Beine6
+	Helle Augenbrauenstreifen (Überaugenstreif); hellbrauner Schnabel; braune Augen6
+	gesichert.
+
+Flügelspannweite
+	ca. 46 cm18
+	Unbekannt
+	gesichert, aber nur in Einzelstudie beziffert.
+Ergänzend ist ein Geburtsgewicht der Küken von 2,7 g dokumentiert14. Die physische Belastung des Männchens während der Ausbildung der 20 cm langen Schwanzfedern führt regelmäßig zu Strukturfehlern („fault bars“). Dies sind durchscheinende Linien auf den Federn, die durch eine reduzierte Ablagerung von Keratin aufgrund von Stress oder Mangelernährung während des schnellen Federwachstums entstehen16 (Status: gesichert).
+3. Der Mechanismus: Sexuelle Selektion, Lek-System und morphologische Kompensation
+Das dominierende biologische Prinzip, das Euplectes jacksoni charakterisiert, ist die intensive Wechselwirkung zwischen sexueller Selektion und physischen Kosten (dem „Handicap-Prinzip“). Dieser Mechanismus manifestiert sich im sogenannten Lek-Verhalten (Balzarena) und erfordert tiefgreifende anatomische Anpassungen. Die entscheidenden Forschungsarbeiten hierzu lieferte der Biologe Staffan Andersson in Feldstudien zwischen 1989 und 199319.
+Die ökologische und evolutionäre Kausalkette stellt sich wie folgt dar:
+Territoriale Modifikation und Balz (Die Ursache): Männchen etablieren individuelle Territorien innerhalb eines gemeinsamen Balzplatzes (Lek). Sie greifen aktiv in die Umgebung ein, indem sie das Gras zu Tanzarealen stutzen [cite: User Query]. Innerhalb dieser präparierten Ringe führen sie stundenlang ritualisierte, vertikale Sprünge („jump display“) aus20.
+Partnerwahl durch das Weibchen (Die Selektion): Die Weibchen treffen ihre Partnerwahl basierend auf einer Kombination visueller und dynamischer Signale. Ausschlaggebend sind die absolute Länge der schwarzen Schwanzfedern sowie die Frequenz und Ausdauer der Sprünge23. Untersuchungen an verwandten, kurzschwänzigen Arten (wie Euplectes orix) deuten darauf hin, dass die weibliche Präferenz für lange Schwänze eine offene, vorbestehende biologische Neigung ist, die den evolutionären Druck zur Verlängerung des Ornaments aufrechterhält25.
+Physiologische und strukturelle Kosten (Das Handicap): Das Wachstum des 20 cm langen nuptialen Schwanzes wird innerhalb von exakt fünf Wochen abgeschlossen16. Diese enorme physiologische Leistung korreliert positiv mit der Körperkondition: Männchen in der späten Phase des Schwanzwachstums weisen einen geringeren Index für die relative Körpermasse auf als zu Beginn16. Das schnelle Wachstum erzwingt strukturelle Defizite in Form der oben beschriebenen „fault bars“ (Keratin-Fehlstellen)16. Zudem erhöht das 20 cm lange Ornament den aerodynamischen Widerstand während des Fluges und der Sprungrituale drastisch19.
+Morphologische Kompensation (Die Lösung): Als evolutionäre Antwort auf den erhöhten Luftwiderstand durch den langen Schwanz weisen die Männchen einen ausgeprägten Dimorphismus in der Flügellänge auf19. Setzt man die Tarsuslänge (als Maß für die grundlegende Skelettgröße) als Konstante, lassen sich 70 % der Variation im Flügel-Dimorphismus bei der Gattung Euplectes durch den Schwanz-Dimorphismus erklären19. Andersson konnte nachweisen, dass die verlängerten Flügel (ca. 46 cm Spannweite) als energetische Kompensation dienen, um den Kraftaufwand während des vertikalen Sprungrituals zu minimieren und die Sprungfrequenz aufrechtzuerhalten18. Er korrigierte damit ältere Studien (z. B. von Payne, 1984), welche die Art fälschlicherweise als nicht stärker größen-dimorph als ihre kongenerischen Verwandten klassifiziert hatten19.
+(Status des gesamten Mechanismus: empirisch gesichert durch Feldstudien16).
+4. Ökologie und Verhalten
+Lebensraum und Verbreitung: Euplectes jacksoni ist ein Endemit der ostafrikanischen Hochebenen. Das natürliche Verbreitungsgebiet beschränkt sich ausschließlich auf die grasbewachsenen Hochländer in Kenia und im nördlichen Tansania2. Die Art bevorzugt tropisches und subtropisches Hochland-Grasland sowie agrarisch genutzte Flächen auf Höhenlagen zwischen 1.500 und 3.000 Metern3.
+Nahrung und Tagesrhythmus: Die Vögel sind obligat tagaktiv und ernähren sich vorwiegend granivor (samenfressend)26. Die primäre Nahrungsquelle besteht aus den Samen von Süßgräsern, insbesondere Themeda triandra und Cynodon plectostachys6. Zudem werden landwirtschaftliche Nutzpflanzen wie Hirse und als Proteinergänzung Insekten aufgenommen6. Die Nahrungsaufnahme erfolgt zumeist am Boden, häufig innerhalb von Schwärmen26.
+Sozial- und Fortpflanzungsverhalten: Die Spezies lebt in einem polygynen System, bei dem sich ein ressourcenverteidigendes Männchen mit mehreren Weibchen paart5. Außerhalb der Fortpflanzungszeiten zeigen die Vögel ein hochgradig soziales Verhalten und versammeln sich zu großen Schwärmen, die häufig in Schilfbeständen übernachten26. Obwohl die Balzarenen regelmäßig durch patrouillierende Greifvögel gestört werden, konnte in Feldstudien keine unmittelbare Prädation der balzenden Männchen im Lek dokumentiert werden16.
+Abhängige Arten: Das Gefieder von Euplectes jacksoni dient als obligater Lebensraum für die Tierlaus Brueelia terpsichore (Ordnung Phthiraptera). Dieser Insekten-Ektoparasit wurde als neue Art exklusiv auf Euplectes jacksoni und der nah verwandten Unterart Euplectes progne delamerei dokumentiert21.
+Verhaltensmuster Ende September bis Anfang Oktober (Reisezeitraum): Der Fortpflanzungszyklus der Art in Kenia richtet sich streng nach den Niederschlagsmustern. Dokumentiert sind Brutaktivitäten von Dezember bis Januar, April bis Juni sowie von August bis September und im November6. Im Zeitraum von Ende September bis Anfang Oktober – am Übergang von der langen Trockenzeit zur kurzen Regenzeit – befinden sich die adulten Männchen in der kritischen Endphase der Ausbildung ihres Prachtgefieders (pränuptiale Mauser)24. Das Wachstum des langen Schwanzes nähert sich dem Abschluss, die Leks sind etabliert. In dieser Zeit stutzen die Männchen intensiv die Tanzareale im Gras und führen tagtäglich die vertikalen Sprünge aus, um die durch die Nahrungsverfügbarkeit der beginnenden Regenzeit eintreffenden Weibchen anzuziehen6. (Status: gesichert).
+5. Menschen und Kultur in Kenia
+Schutzstatus und Bestände: Die Art wird auf der Roten Liste der International Union for Conservation of Nature (IUCN) unter dem Status „Near Threatened“ (potenziell gefährdet, Kategorie 3.1) gelistet3. Die primäre Gefährdungsursache ist die fortschreitende Zerstörung des Habitats durch die Ausweitung landwirtschaftlicher Flächen und den Verlust offener Hochland-Grasländer3. Da es sich um standorttreue Populationen handelt (keine Migration), wirken sich lokale Veränderungen der Flächennutzung unmittelbar aus30. Belastbare, absolute Bestandszahlen mit konkreten Jahresangaben liegen im verfügbaren Datenmaterial nicht vor (Status: unbekannt).
+Kulturhistorische Verknüpfungen:
+Die vorliegende Forschungsliteratur dokumentiert für Euplectes jacksoni keine traditionelle Nutzung als Nahrung, Medizin oder Handelsobjekt durch lokale Gemeinschaften. Ebenso fehlen Überlieferungen, dass der Leierschwanzweber eine spezifische Rolle in Mythen, Ritualen oder Sprichwörtern spielt. Aufgrund der Ernährung durch Hirse und Grassamen ist ein Konfliktpotenzial mit Landwirten durch Fraßschäden an Nutzpflanzen naheliegend, jedoch in den herangezogenen Quellen nicht als dokumentierter historischer oder aktueller Konfliktfall belegt (Status: vermutet / unbelegt).
+6. Wissenschaftsgeschichte
+Die Taxonomie und Erforschung der Art ist eng mit britischen Entdeckern und der modernen Verhaltensökologie verbunden:
+1891: Die formelle wissenschaftliche Erstbeschreibung erfolgte durch den britischen Ornithologen Richard Bowdler Sharpe3. Sharpe veröffentlichte seine Ergebnisse im Band 3, Ausgabe 10 (Seite 246) der ornithologischen Fachzeitschrift Ibis2.
+Terra typica: Das erste beschriebene Exemplar (Typusexemplar) stammte aus der Region Kikuyu in Kenia1.
+Namensgebung: Sharpe benannte den Vogel nach Frederick John Jackson, einem britischen Naturforscher und Kolonialadministrator. In der Literatur existieren widersprüchliche Angaben zu Jacksons Geburtsjahr (18596 versus 18607). Jackson prägte durch seine Expeditionen die Erforschung der ostafrikanischen Avifauna maßgeblich7.
+1989–1993: Die bedeutendsten verhaltensökologischen Studien an der Art führte Staffan Andersson durch19. Seine Messungen zur Tarsus- und Flügellänge beendeten eine wissenschaftliche Kontroverse über die aerodynamischen Kosten sexueller Ornamente. Andersson widerlegte 1993 vorherige Klassifikationen (insbesondere durch Payne, 1984), welche die Größenverhältnisse im Dimorphismus von Lek-brütenden Webervögeln bis dahin fehlinterpretiert hatten19. (Status: gesichert).
+7. Fotografie auf der spezifizierten Route
+Die fotografische Erfassung der Art verlangt die Berücksichtigung spezifischer räumlicher und technischer Parameter.
+Orte auf der Route: Die Sichtungswahrscheinlichkeit ist im Nairobi National Park hoch. Die Art ist hier aufgrund ihrer Präferenz für offenes Grasland in der Nähe von Wasserquellen nachgewiesen31. Auch die Ngong Hills gehören zum dokumentierten, hochgelegenen natürlichen Habitat der Vögel32. Für Nairobi (Stadt), den Karura Forest und den Sheldrick Wildlife Trust liegen in den herangezogenen Registern keine expliziten Nachweise vor, da diese Gebiete weniger mit offenen Hochlandsteppen korrelieren (Status: gesichert).
+Verhalten und Tageszeit: Die höchste Aktivität zeigt sich in den frühen Morgenstunden. Um Hitzeflimmern über dem Grasland zu vermeiden und das optimale Licht für das tiefschwarze Prachtgefieder zu nutzen, sollte die Balzarena (das Lek) frühzeitig aufgesucht werden. Das fotografisch lohnendste Verhalten ist das ausdauernde, vertikale Springen („jump display“) des Männchens aus dem präparierten Grasring heraus20.
+Ausrüstung und technische Parameter:
+Objektive: Um den kleinen Körper (14 cm ohne Schwanzfedern) abzulichten, sind die mitgeführten Teleobjektive (150 bis 600 mm oder zumindest 100 bis 400 mm) zwingend erforderlich6. Kürzere Brennweiten (45 mm, 26 bis 60 mm) sind nicht geeignet, um formatfüllende Aufnahmen des Vogels anzufertigen, können jedoch für die Dokumentation der modifizierten Grasarchitektur (des Leks) im Weitwinkel eingesetzt werden (Status: aus physikalischen Gegebenheiten abgeleitet).
+Verschlusszeiten: Da es sich um hochdynamische, explosionsartige Sprünge eines leichten Vogels (ca. 45 g) handelt, sind minimale Verschlusszeiten erforderlich, um Bewegungsunschärfe in den verlängerten Flügeln zu vermeiden. Richtwerte von 1/2000 bis 1/2500 Sekunde sind bei der Sprungphase anzuraten. Bei statischen Posen im Gras können Verschlusszeiten von 1/500 Sekunde ausreichen (Status: vermutet, basierend auf aerodynamischen Notwendigkeiten).
+Fehlervermeidung: Ein typischer technischer Fehler bei schwarzem Gefieder in heller Umgebung ist die Unterbelichtung. Eine Belichtungskorrektur (z.B. +1 EV) ist in Erwägung zu ziehen (Status: vermutet / empirischer Standard der Tierfotografie). Exakte Angaben zur Fluchtdistanz existieren in den referenzierten Quellen nicht.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle (IUCN Red List): https://www.iucnredlist.org/species/22719249/94619458 Offizielles Datenblatt der Weltnaturschutzunion mit Details zum „Near Threatened“-Gefährdungsstatus und zur Lebensraumproblematik.28
+Fachliche Quelle (Avibase): https://avibase.ca/87071086 Umfangreiche taxonomische Datenbank, welche alle Synonyme, taxonomischen Konzepte sowie die Referenz zur Originalbeschreibung verzeichnet.2
+Fotos (Wikipedia): https://en.wikipedia.org/wiki/Jackson%27s_widowbird Enzyklopädischer Artikel, der gemeinfreie Fotografien der Spezies sowie Details zur Fortpflanzung bereitstellt.3
+Fotos (Wikimedia Commons): https://commons.wikimedia.org/wiki/Category:Euplectes_jacksoni Zentrale Sammlung urheberrechtsfreier Medien und taxonomischer Referenzen der Art.14
+(Hinweis: Ein funktionierender und spezifischer Link zu einer Tonaufnahme auf Xeno-canto für exakt diese Art befand sich nicht im überprüften Datenmaterial).
+9. Visuelle Beschreibung für eine Illustration
+The adult male Jackson's Widowbird in breeding plumage features a robust, velvety black body that creates a stark contrast against a stout, pale horn-colored conical bill and completely black eyes. Its posture during the lek display is aggressively vertical, with the body arcing upward while a twenty-centimeter-long, broad black tail cascades downward to counterbalance the aerodynamic lift. In mid-leap, the partially extended wings reveal subtle yellowish-brown stripes on the shoulders, breaking the otherwise solid black silhouette.
+Details: 1. A single black tail feather showing a translucent, horizontal "fault bar" indicating reduced keratin deposition during rapid growth. 2. A mature, drooping spikelet of the Themeda triandra grass, its primary food source. 3. The sharp contrast of the pale conical beak against the jet-black head plumage.
+Cultural Vignette: A traditional Kikuyu agricultural basket (Kiondo) woven from natural sisal fibers, referencing the type locality "Kikuyu" where the species was first discovered.
+10. Was nicht belegt werden konnte
+Nach rigoroser Überprüfung der Forschungssnippets konnten folgende im Anforderungsprofil gewünschte Datenpunkte nicht mit belastbaren Quellen belegt werden:
+Lokale Namensgebung: Wörtliche Bedeutungen oder Namen für exakt diese Vogelart in den Sprachen Maa, Kikuyu, Samburu, Giriama und Kamba sind im Rohmaterial nicht dokumentiert.
+Alltagsvergleich (Gewicht): Während die Größenverhältnisse ableitbar waren, gibt die Datenlage keinen belastbaren Alltagsvergleich für die 42,7 g Lebendgewicht an.
+Kulturelle Verknüpfung: Spezifische kenianische Mythen, Überlieferungen, Rituale oder dokumentierte historische Nutzungen (Nahrung, Medizin, Material, Handel) durch lokale Gemeinschaften fehlen völlig.
+Konkreter Mensch-Tier-Konflikt: Ein durch Quellen bestätigter historischer oder aktueller Konflikt mit der lokalen Landwirtschaft wurde nicht gefunden.
+Absolute Bestandszahlen: Die populationsökologische Datenlage nennt keine absoluten Individuenzahlen oder aktuelle Zensus-Ergebnisse, sondern stützt sich auf relative Einstufungen (Gefährdungsstatus).
+Fluchtdistanz: Exakte metrische Angaben zur Fluchtdistanz der Art vor Menschen sind nicht dokumentiert.
+Kamera-Parameter: Die geforderten Verschlusszeiten und typischen Fehler mussten basierend auf der beschriebenen Biomechanik und allgemeinen physikalischen Gesetzmäßigkeiten abgeleitet (vermutet) werden, da sie nicht in den ornithologischen Texten stehen.
+Audio-Link: Das Material verweist zwar auf die Plattform Xeno-canto, enthält jedoch keine tatsächlich überprüfbare, exakte URL für die Tonaufnahme von Euplectes jacksoni (vorhandene Links verwiesen auf eine andere Spezies, E. progne).
+Works cited
+Weavers (Ploceidae) - Encyclopedia.com, https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/weavers-ploceidae
+Euplectes jacksoni (Jackson's Widowbird) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=87071086
+Jackson's widowbird - Wikipedia, https://en.wikipedia.org/wiki/Jackson%27s_widowbird
+Jackson's Widowbird - Wikidata, https://www.wikidata.org/wiki/Q386742
+Euplectes - Wikipedia, https://en.wikipedia.org/wiki/Euplectes
+Jackson's Widowbird — BirdNET+ Taxonomy, https://birdnet.cornell.edu/taxonomy/species/Euplectes%20jacksoni
+Jackson's Widowbird - Turkana Wildlife Safaris, https://turkanawildlifesafaris.com/jacksons-widowbird/
+Leierschwanzweber - Wikipedia, https://de.wikipedia.org/wiki/Leierschwanzweber
+BIRDS OF TANZANIA - BIRD LIST, https://www.birdlist.org/tanzania.htm
+kweche - Swahili-english dictionary, https://swahili_english.en-academic.com/6801/kweche
+Category:Euplectes - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Euplectes
+List of birds of Kenya - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Kenya
+Giryama Bird Names: An Etymological Dictionary (draft) - Scribd, https://www.scribd.com/document/14849374/Giryama-Bird-Names-An-Etymological-Dictionary-draft
+Category:Euplectes jacksoni - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Euplectes_jacksoni
+CASPPZT: Songbird Chapter Part 3 by TyThom1999 on DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT-Songbird-Chapter-Part-3-1368697444
+Costs of Sexual Advertising in the Lekking Jackson's Widowbird, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=13169&context=condor
+Patterns of variation in ornaments of Crested Auklets Aethia cristatella, https://www.researchgate.net/publication/227608529_Patterns_of_variation_in_ornaments_of_Crested_Auklets_Aethia_cristatella
+Catalogue des timbres d'oiseaux du monde - Free, http://bastien.paulet.free.fr/catalogue.php?Country=%&BirdName=.*&LatinBirdName=.*&SelectedYear=%&MyReference=.*&SelectedObject=%&SelectedTopic=WWF&Language=EN&Username=anonymous&SelectedArtwork=.*&Recherche=OK
+Tail Ornamentation, Size Dimorphism and Wing Length in the Genus, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=22626&context=auk
+Sexual dimorphism and modes of sexual selection in lekking, https://www.researchgate.net/publication/229695336_Sexual_dimorphism_and_modes_of_sexual_selection_in_lekking_Jackson's_Widowbirds_Euplectes_jacksoni_Ploceinae
+Four new species of Brueelia Kéler, 1936 (Phthiraptera: Ischnocera, https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/659
+Люмпены: истории из жизни, советы, новости, юмор и картинки, https://pikabu.ru/tag/%D0%9B%D1%8E%D0%BC%D0%BF%D0%B5%D0%BD%D1%8B
+Males with a Faster Courtship Display have More White Spots and, https://www.researchgate.net/publication/236593469_Males_with_a_Faster_Courtship_Display_have_More_White_Spots_and_Higher_Pairing_Success_in_the_Diamond_Firetail_Stagonopleura_guttata
+Red-collared widowbird - Wikipedia, https://en.wikipedia.org/wiki/Red-collared_widowbird
+Female preferences for long tails constrained by species recognition, https://www.researchgate.net/publication/46512383_Female_preferences_for_long_tails_constrained_by_species_recognition_in_short-tailed_red_bishops
+Long-Tailed Widowbird - Facts, Diet, Habitat & Pictures on Animalia, https://animalia.bio/long-tailed-widowbird
+Lake Naivasha Basin Integrated Management Plan 2012-2022, ftp://ftp.itc.nl/pub/naivasha/imarisha/LNB_Mgt_Plan_28March2012.pdf
+Jackson's widowbird - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/jacksons-widowbird?taxonomy=1579
+APPENDIX - JICA, https://www.jica.go.jp/english/our_work/social_environmental/id/africa/kenya/c8h0vm0000fhihet-att/gh13tc000000tbpo.pdf
+Jackson's widowbird - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/jacksons-widowbird
+Nairobi National Park Birds, https://nairobipark.org/nairobi-national-park-birds/
+Wetlands of Kenya - IUCN Portals, https://portals.iucn.org/library/sites/library/files/documents/WTL-003.pdf

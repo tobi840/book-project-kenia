@@ -1,0 +1,38 @@
+Bild-Styleguide und Gemini-Prompt-Baustein
+Ziel: Illustrationen in der Anmutung klassischer botanischer und zoologischer Tafeln mit Druckgrafik-Charakter, wie sie Naturbücher dieser Art prägen. Eigener Stil, kein Nachbau einer bestimmten Illustratorin. Wiedererkennbar über 80 Kapitel durch feste Parameter.
+1. Die Parameter (was über alle Bilder gleich bleibt)
+Technik-Anmutung: Handgezeichnete Druckgrafik. Sichtbare Linienführung, leichte Körnung wie Siebdruck oder Lithografie, flache Farbflächen mit feiner Schraffur für Volumen. Keine Fotorealistik, kein 3D-Rendering, kein digitaler Airbrush-Look, keine Aquarell-Verläufe.
+Farbpalette: Pro Bild 4 bis 6 Farben plus eine Akzentfarbe. Gedeckte Erdtöne als Basis (Ocker, Umbra, Salbeigrün, Terrakotta, Graublau), Akzent kräftig (Korallenrot, Zitronengelb, Türkis). Hintergrund einfarbig getönt (Creme, blasses Salbei, sandiges Ocker, Taubenblau), nie reines Weiß, nie Schwarz.
+Komposition Hauptbild (Hochformat 3:4):
+Hauptmotiv groß, füllt 60 bis 70 Prozent der Fläche, leicht aus der Mitte
+Wissenschaftlich korrekte Proportionen und Merkmale (Schnabelform, Blattstellung, Fellzeichnung, Anzahl der Zehen)
+2 bis 3 kleine Detail-Insets am Rand: Frucht, Blatt, Feder, Spur, Ei, Blüte im Querschnitt
+Eine kleine kulturelle Vignette am unteren Bildrand: Hände mit Werkzeug, Kalebasse, Hüttenumriss, Kanu, Speer, Perlenschmuck. Menschen nur als Silhouette oder angeschnitten, keine Gesichter
+Kein Text, keine Beschriftung, keine Rahmenlinie
+Komposition Detailbild (quadratisch 1:1): Ein einzelnes Merkmal groß: Rinde, Auge, Kralle, Samenkapsel, Federmuster. Gleiche Palette wie das Hauptbild.
+Licht und Raum: Flach, wie bei einer Tafel. Kein dramatisches Licht, keine Schatten auf dem Boden, kein Horizont. Der Hintergrund ist Fläche, nicht Landschaft. Ausnahme: Bäume dürfen eine reduzierte Bodenlinie haben.
+2. Was vermieden wird
+Fotorealismus, Disney-Augen, Safari-Kitsch (Sonnenuntergang, Akazie als Silhouette), Wasserzeichen, Text, Signaturen, Karten, mehrere Tiere derselben Art in Aktion (Herde), Menschen mit Gesichtern, Blut, Jagdszenen.
+3. Gemini-Prompt-Baustein
+Fester Block, wird bei jedem Bild vorangestellt. Danach kommt der artspezifische Teil aus dem Research-Doc.
+Illustration in the style of a classic natural history plate with a hand-printed, screen-print quality: visible linework, subtle paper grain, flat colour areas with fine hatching for volume. Limited palette of 4 to 6 muted earth tones (ochre, umber, sage green, terracotta, grey-blue) plus one bright accent colour. Solid tinted background in [Hintergrundfarbe], no pure white, no black. Portrait format 3:4. Main subject large and slightly off-centre, scientifically accurate proportions and markings. Two or three small detail insets at the margins. One small cultural vignette at the bottom edge showing [Vignette], people only as silhouettes or cropped, no faces. No text, no labels, no border, no watermark, no photorealism, no 3D rendering, no dramatic lighting, no landscape horizon.
+
+Subject: [Art, lateinischer Name]. [3 bis 5 Sätze artspezifische Beschreibung aus dem Research-Doc: Größe, Form, Farbe, charakteristische Merkmale, typische Haltung]. Detail insets: [Detail 1], [Detail 2], [Detail 3]. Accent colour: [Farbe].
+Für das Detailbild:
+Same style as above. Square format 1:1. A single close-up feature filling the frame: [Merkmal]. Same palette as the main plate. Solid tinted background in [Hintergrundfarbe]. No text, no border.
+4. Hintergrundfarben nach Lebensraum
+Feste Zuordnung, damit das Buch beim Blättern eine Ordnung bekommt:
+Nairobi: Taubenblau
+Rift Valley: blasses Salbei
+Laikipia / Mt. Kenya: Creme
+Küste Mombasa: helles Sandgelb
+Tsavo / Amboseli: rötliches Ocker (Tsavo-Erde)
+5. Workflow
+Bildprompt pro Kapitel wird von Claude aus Research-Doc plus Baustein erzeugt (Batch, 25 Stück in einem Doc)
+Generierung in Gemini, 2 bis 4 Varianten pro Prompt
+Auswahl durch Tobi oder Helene nach: Merkmale korrekt, Stil konsistent, kein Kitsch
+Ablage als PNG in 05_Illustrationen, Dateiname nach Namenskonvention
+Bei Abweichung im Stil: nicht nachbessern, sondern Prompt anpassen und neu generieren
+6. Pilotcharge
+Die ersten 5 Bilder werden nebeneinander gelegt und auf Konsistenz geprüft, bevor der Baustein für alle 80 festgeschrieben wird. Änderungen am Baustein danach nur mit Neu-Generierung der Pilotbilder.
+

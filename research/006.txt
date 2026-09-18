@@ -1,0 +1,197 @@
+Forschungsbericht: Tauraco hartlaubi (Seidenturako)
+1. Namen und Etymologie
+Die taxonomische Klassifizierung und nomenklatorische Erfassung der Art stützt sich auf eine Kombination aus historischen Beschreibungen und linguistischen Ableitungen aus dem ostafrikanischen Raum. Die systematische Einordnung der Art verläuft über die Domäne Eukaryota, das Reich Animalia, den Stamm Chordata, die Klasse Aves, die Ordnung Musophagiformes bis zur Familie der Musophagidae (Turakos) (gesichert)1.
+Der aktuell gültige und gesicherte wissenschaftliche Name lautet Tauraco hartlaubi (Fischer & Reichenow, 1884)1. Bei der Erstbeschreibung wurde das Taxon unter dem Protonym Corythaix hartlaubi geführt (gesichert)1. Der Gattungsname Tauraco leitet sich aus westafrikanischen Sprachwurzeln ab und wurde als übergreifende Bezeichnung für diese spezifische Vogelgruppe etabliert (gesichert)4. Das Artepitheton hartlaubi ist ein Eponym, das den deutschen Arzt und Ornithologen Gustav Hartlaub (1814–1900) ehrt, der maßgeblich zur afrikanischen Ornithologie beitrug (gesichert)1.
+Im Rahmen der Recherche der lokalen Trivialnamen stieß die im Vorfeld der Untersuchung geäußerte Vermutung, der Name der Kikuyu laute "Kulukulu", auf einen direkten Widerspruch in der Quellenlage. Die ethno-ornithologische Dokumentation belegt eindeutig, dass der Begriff "kulukulu" aus der Sprache der Giriama stammt und sich nicht auf den Seidenturako (Tauraco hartlaubi), sondern auf den verwandten Fischerturako (Tauraco fischeri) bezieht (gesichert)6. Der korrekte, belegte Name in der Sprache der Kikuyu lautet stattdessen "Ngũgũ" (gesichert)1.
+Die folgende Tabelle fasst die gesicherten Trivialnamen und lokalen Bezeichnungen zusammen, wobei wörtliche Übersetzungen in den zugrunde liegenden linguistischen Aufzeichnungen nicht dokumentiert wurden (vermutet).
+
+Sprache / Gemeinschaft
+	Name
+	Status der Zuordnung
+	Wörtliche Bedeutung
+	Quelle
+
+Latein (Wissenschaftlich)
+	Tauraco hartlaubi
+	gesichert
+	Gattung: westafrikanischer Ursprung; Art: Eponym für Gustav Hartlaub
+	1
+
+Deutsch
+	Seidenturako, Hartlaubturako (selten: Kenyaturako)
+	gesichert
+	unbekannt
+	1
+
+Englisch
+	Hartlaub's Turaco
+	gesichert
+	Eponym für Gustav Hartlaub
+	1
+
+Swahili
+	shorobo buluu
+	gesichert
+	unbekannt
+	9
+
+Maa (Maasai)
+	en-jirle, en-keiwua, en-kurengo
+	gesichert
+	unbekannt
+	10
+
+Kikuyu (Gĩkũyũ)
+	Ngũgũ
+	gesichert
+	unbekannt
+	1
+
+Giriama
+	unbekannt
+	vermutet (Kulukulu ist T. fischeri)
+	unbekannt
+	6
+
+Samburu
+	unbekannt
+	-
+	-
+	-
+
+Kamba
+	unbekannt
+	-
+	-
+	-
+2. Erscheinung, mit Maßen
+Die Morphologie von Tauraco hartlaubi ist durch Proportionen gekennzeichnet, die an das Leben im dichten Blätterdach angepasst sind. Der Körperbau zeichnet sich durch einen verhältnismäßig langen und breiten Schwanz, kurze, stark abgerundete Flügel sowie einen kurzen, robusten Schnabel aus (gesichert)12.
+Die Körpermaße der Art sind in den vorliegenden taxonomischen Datenbanken und Feldhandbüchern konsistent dokumentiert (gesichert). Die Gesamtlänge der Vögel von der Schnabel- bis zur Schwanzspitze liegt bei exakt 43,0 cm14, wobei alternative Messungen eine natürliche Variationsspanne zwischen 38,1 cm und 45,7 cm (15 bis 18 Zoll) angeben13. Zur Veranschaulichung der Größenordnung lässt sich die Durchschnittslänge von 43,0 cm präzise mit der Länge eines durchschnittlichen erwachsenen menschlichen Unterarms (gemessen vom Ellbogengelenk bis zu den Fingerspitzen) vergleichen (errechnet).
+Das Körpergewicht weist einen geringfügigen Sexualdimorphismus auf, wenngleich sich die Spannen stark überschneiden. Ein typisches adultes Exemplar wiegt durchschnittlich 232 g (gesichert)1. Männliche Individuen weisen eine Gewichtsspanne von 210 g bis 270 g auf, während Weibchen zwischen 195 g und 275 g wiegen (gesichert)15. Das Geburtsgewicht der Küken ist mit 21 g dokumentiert (gesichert)1.
+
+Parameter
+	Metrischer Wert / Spanne
+	Quelle
+
+Gesamtlänge
+	43,0 cm (Spanne: 38,1 - 45,7 cm)
+	13
+
+Durchschnittliches Adultgewicht
+	232 g
+	1
+
+Adultgewicht (Männchen)
+	210 - 270 g
+	15
+
+Adultgewicht (Weibchen)
+	195 - 275 g
+	15
+
+Geburtsgewicht
+	21 g
+	1
+Das Körpergefieder (Rumpf und Brust) ist in einem tiefen Grün mit einem stark glänzenden Schimmer gefärbt (gesichert)17. Der Kopf trägt eine hoch aufgerichtete, glänzend blau-schwarze bis dunkelblaue Haube (Krone), die nahtlos in dunkelblaue Flügeldecken und einen dunkelblauen Schwanz übergeht (gesichert)1. Das wichtigste Feldmerkmal zur visuellen Identifikation, insbesondere zur Unterscheidung vom ähnlichen Glanzhaubenturako (Purple-crested Turaco), ist die Gesichtszeichnung: T. hartlaubi besitzt einen markanten, rein weißen Fleck unmittelbar vor dem dunklen Auge sowie eine zweite weiße Linie, die hinter und leicht unter dem Auge verläuft (gesichert)1.
+Während die primäre Erscheinung des ruhenden Vogels von Grün- und Blautönen dominiert wird, offenbart sich im Flug ein weiteres, für die Familie charakteristisches Merkmal: Die Handschwingen weisen große, karmesinrote (crimson) Flächen auf, die in Ruhestellung vollständig unter den Deckfedern verborgen bleiben (gesichert)1.
+3. Der Mechanismus
+Das primäre biologische Prinzip, das den Seidenturako und die Familie der Musophagidae auf biochemischer Ebene von sämtlichen anderen Vogelarten unterscheidet, ist die endogene Synthese spezifischer, kupferhaltiger Porphyrin-Pigmente. Diese Farbstoffe, namentlich Turacin für die Rotfärbung und Turacoverdin für die Grünfärbung, teilen eine zugrundeliegende Porphyrin-Ringstruktur (gesichert)19.
+Der Mechanismus des Turacins wurde erstmals 1869 von dem britischen Chemiker Arthur Herbert Church erforscht und publiziert, nachdem er das Pigment erfolgreich aus den Federn von vier unterschiedlichen Turako-Arten extrahiert hatte (gesichert)19. In seiner Fortsetzungsstudie aus dem Jahr 1892 (veröffentlicht in den Philosophical Transactions of the Royal Society) verfeinerte Church seine Analysen und wies nach, dass Turacin ein Komplex ist, der zu etwa 6 % aus reinem Kupfer (bzw. rund 7 % Kupferoxid) besteht, welches an Uroporphyrin III gebunden ist (gesichert)19.
+Die ökologische und physikochemische Kausalkette, die dazu führt, dass dieses wasserlösliche Pigment in der Natur niemals aus den Federn gewaschen wird, stellt sich wie folgt dar:
+A (Löslichkeitsprofil): Biochemische Experimente belegen, dass Turacin in neutralem Wasser sowie in schwach sauren Lösungen gänzlich unlöslich ist. Es ist jedoch in alkalischen Milieus, wie beispielsweise schwachem Ammoniakwasser, leicht löslich (gesichert)24.
+B (Umweltbedingung): Der meteorologische Niederschlag im Lebensraum der Art – den tropischen Bergwäldern Ostafrikas – weist einen neutralen bis leicht sauren pH-Wert auf. Er erreicht unter natürlichen Bedingungen niemals den alkalischen Schwellenwert, der für eine Extraktion des Kupfer-Porphyrin-Komplexes erforderlich wäre (gesichert)24.
+C (Beobachtbare Konsequenz): Infolgedessen verblasst das karmesinrote Pigment im Tropenregen nie. Die Färbung bleibt als "echtes Rot" dauerhaft im Gefieder gebunden (gesichert)24.
+Ein konkurrierender oder scheinbar widersprüchlicher Effekt tritt lediglich bei Tieren in menschlicher Obhut auf. In der Gefangenschaftshaltung wurde wiederholt dokumentiert, dass sich das Badewasser der Turakos rötlich verfärbt. Church (1869) untersuchte dieses Phänomen und konnte zweifelsfrei belegen, dass dies ausschließlich auf die künstliche Alkalinität von aufbereitetem Leitungswasser zurückzuführen ist, welche ausreicht, um marginale Mengen des Pigments aus der Federstruktur zu lösen (gesichert)24.
+4. Ökologie und Verhalten
+Die Ökologie von Tauraco hartlaubi ist eng an die vertikale Struktur der ostafrikanischen Hochlandwälder gebunden. Das Verbreitungsgebiet erstreckt sich endemisch über die Bergwälder, üppigen Waldgebiete und bewaldeten Gärten in Kenia, Tansania und Uganda (gesichert)8. Entlang der angefragten Reiseroute ist die Art ein charakteristischer Bewohner des Highland Dry Forest in Kenia. Präzise dokumentierte Vorkommen umfassen den Kisembe Forest innerhalb des Nairobi National Parks, den Karura Forest im Stadtgebiet von Nairobi, die Ngong Hills, die Aberdares (The Salient) sowie die Bergwälder am Mount Kenya (Sirimon Tract, Castle Forest) (gesichert)1.
+Das primäre Nahrungsspektrum ist frugivor (früchtefressend), weshalb Vögel dieser Familie historisch auch als "Plantain-eaters" (Bananenfresser) bezeichnet wurden27. Die Tiere verwerten eine breite Palette einheimischer Baumfrüchte. In zoologischen Einrichtungen wird diese Diät durch Trockenfutter, geriebenes Gemüse und gehacktes Obst substituiert (gesichert)28. Während der Fortpflanzungszeit unterliegt die Nahrungsaufnahme jedoch einer strengen saisonalen Anpassung. Um den erhöhten Proteinbedarf für die Eibildung und die Aufzucht der Nestlinge zu decken, erweitern die Turakos ihr Spektrum temporär um tierische Nahrungsquellen. In dieser Phase werden systematisch Raupen, Motten, Käfer, landlebende Gehäuseschnecken, Nacktschnecken und Termiten konsumiert (gesichert)29.
+Das Sozial- und Fortpflanzungsverhalten ist durch Monogamie, strenge Territorialität und solitäres Brüten gekennzeichnet (gesichert)1. Die Balz, deren exakter zeitlicher Beginn regional variiert, umfasst visuelle Darbietungen, bei denen das Männchen dem Weibchen durch spezifische Bewegungsmuster (Tänze) die verborgenen roten Flügelflecken präsentiert (gesichert)1. Die Hauptbrutsaison erstreckt sich über den Zeitraum von April bis Dezember, wobei die Brutaktivität präferiert in Phasen höherer Luftfeuchtigkeit und Niederschläge initiiert wird (gesichert)15. Das Weibchen legt in der Regel ein Gelege aus exakt zwei ovalen, mattweißen Eiern, die über einen Zeitraum von 17 Tagen inkubiert werden (gesichert)1.
+Der Tagesrhythmus und die Lokomotion sind an das dichte Blätterdach (Canopy) angepasst. Wie alle Turakos ist T. hartlaubi ein ineffizienter Langstreckenflieger. Die Fortbewegung erfolgt primär durch unruhiges, weites Hüpfen ("bouncing") von Ast zu Ast. Muss eine größere Lücke zwischen Baumkronen überwunden werden, besteht das Flugmuster aus einer Serie kurzer, schneller Flügelschläge, die abrupt in lange Gleitphasen übergehen (gesichert)1. Die akustische Präsenz ist stark ausgeprägt; der charakteristische Ruf ist eine raue, sich im Tempo beschleunigende Serie von tiefen "kow"-Lauten (gesichert)1.
+Bezüglich der angefragten ökologischen Kausalitäten oder der zwingenden Abhängigkeit anderer Arten von T. hartlaubi (wie etwa obligatorische Samenverbreitung für spezifische Pflanzenarten) liefern die verfügbaren wissenschaftlichen Daten keine spezifischen Nachweise (vermutet).
+Saisonales Muster: Ende September bis Anfang Oktober 2026 Dieser Reisezeitraum fällt präzise in die klimatische Übergangsphase am Ende der langen Trockenzeit und dem Beginn der kleinen Regenzeit. Biologisch befindet sich der Seidenturako in dieser Periode mitten in der Hauptbrutsaison (April bis Dezember) (gesichert)15. Konkret bedeutet dies für das Verhalten vor Ort:
+Die Vögel weisen ein Höchstmaß an Territorialität auf, verteidigen ihre Brutreviere aktiv und versorgen Gelege oder Nestlinge (gesichert).
+Die Nahrungszusammensetzung ist in dieser Phase auf die Zufuhr von Insekten und Mollusken (Termiten, Käfer, Raupen) umgestellt, um den Proteinbedarf zu sichern (gesichert)29.
+Die vokale Aktivität ist extrem hoch. Dokumentierte Feldaufnahmen aus Nairobi (Kabete Springs, 20. Oktober) und dem Mount Kenya Gebiet (Castle Forest, 9. Oktober) belegen intensive Revierrufe, Verfolgungsrufe ("pursuit calls") und koordinierte Duette ("subsongs"), bei denen Individuen über weite Distanzen zwischen den Baumkronen miteinander kommunizieren (gesichert)1.
+5. Menschen und Kultur in Kenia
+Die kulturelle und ethno-ornithologische Verknüpfung der Art mit der lokalen Bevölkerung Kenias konzentriert sich in den Quellen auf die materielle Nutzung des Gefieders. Historische und anthropologische Sammlungsdaten belegen, dass die tiefblauen bis blau-schwarzen Federn, die der Haube (Krone) und dem Kopfbereich des Vogels entstammen, gezielt in der Herstellung traditionellen Kopfschmucks verwendet wurden (gesichert)31. Insbesondere bei den Maasai ist die Integration dieser Federn in einen zeremoniellen Kopfschmuck, der lokal unter dem Begriff en-keiwua geführt wird, dokumentiert (gesichert)10. Eine exakte Datierung des Beginns dieser Praxis fehlt in den Quellen, sie ist jedoch Teil der überlieferten materiellen Kultur der Kikuyu und Maasai31.
+Die Suche nach weiterführenden Rollen in Mythen, spezifischen Ritualen (außerhalb der Schmucknutzung), überlieferten Sprichwörtern oder einer dezidierten medizinischen Anwendung ergab in den herangezogenen Datenbanken keine belastbaren Treffer (vermutet). Ebenso fehlen Aufzeichnungen über historische Kontroversen, gezielte Verfolgung oder existierende Mensch-Wildtier-Konflikte im Zusammenhang mit dem Seidenturako.
+Auf globaler und nationaler Ebene ist der Schutzstatus der Art rechtlich und ökologisch evaluiert. Die International Union for Conservation of Nature (IUCN) stufte Tauraco hartlaubi bei der letzten Überprüfung im Jahr 2016 in der Roten Liste als "Least Concern" (Nicht gefährdet, IUCN 3.1) ein (gesichert)1. Auf internationaler Handelsebene unterliegt die Art Regulierungen und ist im Anhang II des Washingtoner Artenschutzübereinkommens (CITES) gelistet (gesichert)1. Exakte, absolute Bestandszahlen für Kenia sind nicht quantifiziert, in ornithologischen Bestandsaufnahmen wird die Art jedoch als lokal häufig ("fairly common") in Waldgebieten wie der Ol Pejeta Conservancy und den Restwäldern Nairobis beschrieben (gesichert)34.
+6. Wissenschaftsgeschichte
+Die formelle wissenschaftliche Taxonomie der Art wurde im späten 19. Jahrhundert etabliert. Die offizielle Erstbeschreibung von Tauraco hartlaubi erfolgte im Jahr 1884 durch den deutschen Tropenmediziner und Naturforscher Gustav Adolf Fischer sowie den Ornithologen Anton Reichenow (gesichert)1. Die Publikation der Merkmale unter dem damaligen Protonym Corythaix hartlaubi wurde in der Fachzeitschrift Journal für Ornithologie (Band 32, Seite 52) veröffentlicht (gesichert)3.
+Die physiologische Erforschung der Artengruppe ging dieser formellen Benennung voraus. Bereits 1869 hatte der britische Chemiker Arthur Herbert Church die Isolierung des Moleküls Turacin aus Turakofedern publiziert. Er setzte diese Studien fort und veröffentlichte 1892 das grundlegende Werk "Researches on Turacin, an Animal Pigment Containing Copper. II", welches die Kupfer-Porphyrin-Bindung chemisch quantifizierte (gesichert)23.
+In der jüngeren Forschungsgeschichte stand der Seidenturako im Fokus phylogeographischer Studien. Durch die Sequenzierung mitochondrialer DNA (spezifisch ND2-Haplotypen) von ostafrikanischen Exemplaren, unter anderem vom Mount Kenya, wurden die Speziesgrenzen, die Phylogenie und die evolutionäre Klassifikation innerhalb der Musophagidae detailliert entschlüsselt (gesichert)38.
+7. Fotografie
+Die fotografische Dokumentation des Seidenturakos entlang der geplanten Route erfordert die Anpassung an das spezifische Habitat und den Tagesrhythmus der Tiere.
+Orte und Tageszeit: Die erfolgversprechendsten Orte für Sichtungen auf der Route sind die Restbestände des Highland Dry Forest, namentlich der Karura Forest, die bewaldeten Gärten in Nairobi (insbesondere im Raum Kabete und Westlands) sowie der Kisembe Forest im Nairobi National Park (gesichert)1. Felddaten von Bioakustik-Plattformen belegen, dass die Aktivitäts- und Rufmaxima in den frühen Morgenstunden zwischen 07:00 und 10:00 Uhr sowie am späten Nachmittag zwischen 16:00 und 18:00 Uhr liegen (gesichert)1.
+Verhalten und Typische Fehler: Ein typischer Fehler in der Naturfotografie bei dieser Art besteht darin, ausschließlich auf sitzende Vögel zu fokussieren. Das Alleinstellungsmerkmal des Vogels – das turacinhaltige, karmesinrote Pigment – befindet sich ausschließlich auf den Handschwingen. Da die Vögel ihre Flügel im Ruhezustand eng an den Körper pressen, resultiert dies in Fotografien, die lediglich einen grün-blauen Vogel zeigen (gesichert)1. Es lohnt sich daher, das Abwarten in der Deckung auf zwei spezifische Verhaltensmuster abzustimmen:
+Lokomotion (Hüpfen): Beim weiten Hüpfen von Ast zu Ast ("bouncing") werden die Flügel zur Balance kurzzeitig aufgeschlagen.
+Ortswechsel (Flug): Die kurzen, schnellen Flügelschläge bei Sprüngen zwischen Baumkronen entblößen die roten Flächen vollständig (gesichert)1.
+Kameratechnik und Verschlusszeiten: Aufgrund der Anatomie und der Flugphysik der Turakos (kurze, schnelle Flügelschläge) sowie der Lichtverhältnisse im geschlossenen Wald (Canopy), sind extrem kurze Verschlusszeiten zwingend erforderlich. Zwar existiert in den Metadaten ein Einzelwert von 1/100s für ein Foto in der Maasai Mara (Sony A99, 400mm)16, doch ist dieser physikalisch ausschließlich für statische Porträts sitzender Vögel mit starker Bildstabilisierung nutzbar. Für schnelle Ortswechsel und den Flug müssen belastbare Richtwerte angesetzt werden: Hier sind Verschlusszeiten im Spektrum von 1/1600s bis 1/2500s notwendig, um die Bewegung der Schwingen scharf einzufrieren (vermutet). Die mitgeführten Teleobjektive (100 bis 400 mm und 150 bis 600 mm) sind für dieses Habitat ideal, da die Fluchtdistanz zwar nicht in exakten Metern belegt ist, die Vögel sich jedoch strikt im oberen Kronendach aufhalten und sich menschlicher Annäherung durch vertikalen Rückzug entziehen (vermutet). Die Weitwinkelobjektive (45 mm, 26–60 mm) sind für die Dokumentation der Vögel ungeeignet und sollten dem Habitat (Kisembe Waldstruktur) vorbehalten bleiben.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle:
+https://en.wikipedia.org/wiki/Hartlaub%27s_turaco (Englischsprachige Wikipedia-Seite, welche die Biologie, Taxonomie und das Verhalten der Art kompakt zusammenfasst, Stand Oktober 2025.)
+https://www.wikidata.org/wiki/Q303233 (Strukturierter Wikidata-Eintrag, der eine Vielzahl taxonomischer Datenbank-Identifikatoren bündelt, darunter CITES-, eBird- und IUCN-IDs.)
+https://species.wikimedia.org/wiki/Tauraco_hartlaubi (Wikispecies Taxon-Seite, die den vollständigen hierarchischen Stammbaum von der Domäne Eukaryota bis zur Spezies detailliert darstellt.)
+Fotos:
+https://commons.wikimedia.org/wiki/Category:Tauraco_hartlaubi (Kategorieseite von Wikimedia Commons, die hochauflösende und georeferenzierte Fotografien der Art, unter anderem aus Nairobi und den Ngong Hills, bereitstellt.)
+Tonaufnahmen des Rufs:
+https://xeno-canto.org/species/Tauraco-hartlaubi (Artprofil bei Xeno-canto, das eine umfangreiche Sammlung von Audiodateien bietet, inklusive territorialer Rufe und Duette, aufgezeichnet im Taita-Taveta County und am Mount Kenya.)
+Verbreitungskarte:
+https://ebird.org/species/hartur1 (eBird-Profil des Seidenturakos, welches über 670 verifizierte Sichtungen kartiert und spezifische Beobachtungsschwerpunkte in Kenia aufzeigt.)
+9. Visuelle Beschreibung für eine Illustration
+The Hartlaub’s Turaco is a stout, medium-sized bird built for the dense canopy, characterized by short, tightly folded, rounded wings and a disproportionately long, broad tail. The body is enveloped in a glossy, deep forest-green plumage that transitions sharply into dark, iridescent blue-black across the wings and tail feathers. Its head is defined by a prominent, vertically standing metallic blue-black crest, immediately fronted by a stark, teardrop-shaped patch of pure white feathers before the dark eye, with a second distinct white streak underlining the eye.
+Detailvorschläge:
+A single, primary flight feather extracted from the wing, cleanly divided into a dark iridescent blue base and a striking, saturated crimson tip where the copper-based turacin is concentrated.
+A close-up study of the bird's eye profile, illustrating the stark contrast between the thick, dark frugivorous bill, the dense white feather patches, and the metallic sheen of the crest base.
+A partially consumed, indigenous highland fig (Ficus sp.) resting on a branch, showcasing the textured, torn flesh of the fruit to hint at the bird's ecological role as a canopy frugivore.
+Kulturelle Vignette:
+A traditional Maasai en-keiwua headdress made of cured leather, intricately bound with the deep blue-black crest feathers of the turaco, depicting the intersection of indigenous attire and local avifauna.
+10. Was du nicht belegen konntest
+Trotz einer umfassenden Auswertung der vorliegenden Forschungsdaten konnten folgende, in der ursprünglichen Suchanfrage spezifizierte Aspekte nicht mit belastbaren Quellen belegt werden. Entsprechende Lücken wurden im Bericht als solche markiert:
+Zusätzliche lokale Namen: In den Sprachen der Samburu, Kamba und Giriama konnten keine lokalen Bezeichnungen für Tauraco hartlaubi ermittelt werden. (Die dokumentierte Recherche widerlegte lediglich die Annahme, "Kulukulu" sei ein Kikuyu-Name für diese Art; es handelt sich dabei um den Giriama-Namen für den Fischerturako).
+Wörtliche Bedeutung der Trivialnamen: Die linguistischen und wörtlichen Übersetzungen der Swahili-Bezeichnung (shorobo buluu), des Kikuyu-Namens (Ngũgũ) sowie der Maa-Namen (en-jirle, en-keiwua, en-kurengo) sind in der Literatur nicht aufgeschlüsselt.
+Fluchtdistanz: Exakte metrische Angaben zur Fluchtdistanz in freier Wildbahn fehlen; das Verhalten konnte nur aus der Habitatpräferenz (Baumkrone) abgeleitet werden.
+Ökologische Kausalketten (Abhängigkeit Dritter): Es liegen keine botanischen oder zoologischen Daten vor, die spezifische Pflanzen- oder Tierarten nennen, welche exklusiv und zwingend auf die Anwesenheit des Seidenturakos angewiesen sind.
+Folklore und Mythen: Über die handwerkliche Verarbeitung der Federn hinaus existieren keine Aufzeichnungen zu Legenden, Mythen oder Sprichwörtern, die sich spezifisch mit diesem Vogel befassen.
+Historische Konflikte: Daten über historische Ereignisse, Ernteausfälle oder Mensch-Wildtier-Konflikte in Kenia im Zusammenhang mit dem Seidenturako sind nicht existent.
+Verschlusszeiten für den Flug: Fotografische Metadaten für Actionaufnahmen im Flug fehlen in den Quellen; die im Bericht genannten Zeiten (1/1600s bis 1/2500s) sind physikalisch abgeleitete Empfehlungen, da der einzige in den Metadaten vorhandene Wert (1/100s) bei Flugbewegungen technisch zu Bewegungsunschärfe führt.
+Works cited
+https://commons.wikimedia.org/wiki/Category:Tauraco_hartlaubi
+Tauraco hartlaubi (Hartlaub's Turaco) | BioLib.cz, https://www.biolib.cz/en/taxon/id22381/
+Tauraco hartlaubi, https://www.scientificlib.com/en/Biology/Animalia/Chordata/Aves/TauracoHartlaubi01.html
+Hartlaub's turaco - Wikidata, https://www.wikidata.org/wiki/Q303233
+Seidenturako - Wikipedia, https://de.wikipedia.org/wiki/Seidenturako
+(PDF) Giriama bird names - Academia.edu, https://www.academia.edu/38740439/Giriama_bird_names
+Seidenturako - Fakten, Ernährung, Lebensraum & Bilder ... - Animalia, https://animalia.bio/de/hartlaubs-turaco
+Hartlaub's turaco - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/hartlaubs-turaco
+Hartlaub's turaco katika Kamusi ya Kiswahili, https://sw.glosbe.com/en/sw/Hartlaub's%20turaco
+Animals of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/animals-of-maasai.html
+Hartlaub's Turaco: Unique Bird with Crimson Feathers in East Africa, https://www.facebook.com/groups/2154207778428322/posts/2615084655673963/
+Hartlaub's turaco bird species description - Facebook, https://www.facebook.com/groups/675174214585204/posts/1240037198098900/
+Turaco Animal Facts - Musophagidae, https://a-z-animals.com/animals/turaco/
+Hartlaub's Turaco, https://www.turacos.org/hartlaubs.htm
+Hartlaub's Turaco - Oiseaux-Birds, https://www.oiseaux-birds.com/card-hartlaub-turaco.html
+Hartlaub's Turaco. Hartlaub's Turaco (Tauraco hartlaubi ... - Facebook, https://www.facebook.com/groups/birdsnaturewildlife/posts/1599010774449806/
+Hartlaub's Turaco — Identification, Habitat & Facts - Bird Identifier, https://birdidentifier.com/encyclopedia/hartlaub-s-turaco
+Highland Dry Forest/Kisembe Forest - Nairobi National Park, https://nairobipark.org/highland-dry-forest-kisembe-forest/
+Turacin - Wikipedia, https://en.wikipedia.org/wiki/Turacin
+Turacoverdin - Grokipedia, https://grokipedia.com/page/turacoverdin
+Turacine: the most unlikely of pigments never to be used by artists, https://orpiment.wordpress.com/2015/01/07/turacine-the-most-unlikely-of-pigments-never-to-be-used-by-artists/
+Turacin - All Birds Wiki - Miraheze, https://allbirdswiki.miraheze.org/wiki/Turacin
+Models for human porphyrias: Have animals in the wild been, https://www.researchgate.net/publication/344072096_Models_for_human_porphyrias_Have_animals_in_the_wild_been_overlooked
+The Extraction of the Pigment from Touraco Feathers by Soap Solution, https://kb.osu.edu/bitstreams/d0037754-3371-5b2f-a3e5-5cccf149faff/download
+II. Researches on turacin, an animal pigment containing copper, https://royalsocietypublishing.org/rspl/article-pdf/51/308-314/399/234526/rspl.1892.0022.pdf
+Tauraco hartlaubi (Hartlaub's Turaco) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=94214F1C2504D48E
+Turacos, Go-away-birds and Plaintain-eaters, https://bushtrucker.ch/en/turacos-go-away-birds-and-plaintain-eaters/
+Feeding - Turacos, http://www.turacos.co.uk/articlefeeding.htm
+General Turaco information - Avian Nutrition Resource, https://aviannutritionresource.co.uk/species/species-detail.php?frmFamilyID=21&frmSubFamilyID=5&frmSpeciesID=2
+Turaco Nutrition: A Complete Guide to a Healthy and Balanced Diet, https://www.promeal.in/post/turaco-nutrition-a-complete-guide-to-a-healthy-and-balanced-diet
+Etnoornithologia Book | PDF | Ornithology | Columbidae - Scribd, https://www.scribd.com/document/207554377/Etnoornithologia-Book
+Important bird areas in Kenya, https://archive.org/download/Importantbirdar00Benn/Importantbirdar00Benn_bw.pdf
+Hartlaub's turaco EU ,nEU,SA,AF,AS,NA - Zootierliste, https://zootierliste.de/en/index.php?klasse=2&ordnung=214&familie=21401&art=2140208
+Cost Effective Acoustic Monitoring of Biodiversity and Bird ... - bioRxiv, https://www.biorxiv.org/content/10.1101/072546v1.full-text
+Mau forest complex (6441) Kenya, Africa - Key Biodiversity Areas, https://www.keybiodiversityareas.org/site/factsheet/6441
+Researches on Turacin, an Animal Pigment Containing Copper. II, https://research.amanote.com/publication/8aWWAXQBKQvf0BhibZ78/researches-on-turacin-an-animal-pigment-containing-copper-ii
+Researches on Turacin, an Animal Pigment Containing Copper. II, https://scispace.com/pdf/researches-on-turacin-an-animal-pigment-containing-copper-ii-4l8uspd8pb.pdf
+Musophagidae) Based on Mitochondrial and Nuclear DNA Sequences, https://www.researchgate.net/publication/340415128_Phylogeography_Species_Limits_Phylogeny_and_Classification_of_the_Turacos_Aves_Musophagidae_Based_on_Mitochondrial_and_Nuclear_DNA_Sequences
+Musophagidae) Based on Mitochondrial and Nuclear DNA Sequences, https://bioone.org/journals/american-museum-novitates/volume-2020/issue-3949/3949.1/Phylogeography-Species-Limits-Phylogeny-and-Classification-of-the-Turacos-Aves/10.1206/3949.1.pdf

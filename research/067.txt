@@ -1,0 +1,198 @@
+Forschungsbericht: Hyphaene compressa (Dum-Palme) im Tsavo- und Amboseli-Ökosystem
+1. Namen und Etymologie
+Die taxonomische Einordnung und Nomenklatur der Art Hyphaene compressa ist das Resultat einer komplexen und historisch revisionsreichen wissenschaftlichen Einordnung1. Der Status der aktuellen botanischen Nomenklatur gilt als gesichert, wenngleich die innerartliche Variabilität in der Vergangenheit zu einer Vielzahl von Synonymen führte.
+Der wissenschaftliche Name setzt sich aus dem Gattungsnamen Hyphaene und dem Art-Epitheton compressa zusammen. Die Gattung Hyphaene wurde im Jahr 1788 von dem deutschen Arzt und Botaniker Joseph Gaertner in seiner Publikation De Fructibus et Seminibus Plantarum etabliert2. Der Gattungsname leitet sich aus dem altgriechischen Verb ὑφαίνω (hyphaino) ab, was wörtlich übersetzt „weben“ oder „flechten“ bedeutet. Diese Namensgebung ist eine vermutete Referenz auf die stark verwobene Faserstruktur, die das Mesokarp (Fruchtfleisch) der Palmenfrüchte durchzieht4.
+Das Art-Epitheton compressa wurde im Jahr 1878 von dem deutschen Botaniker und Palmenexperten Hermann Wendland in der Botanischen Zeitung (Berlin) 36: 116 vergeben1. Der Begriff stammt von dem lateinischen Adjektiv compressus, a, um ab, dessen wörtliche Bedeutung „zusammengedrückt“ oder „komprimiert“ lautet. Die Benennung referenziert die Form der Früchte dieser Art, welche im Vergleich zu anderen Vertretern der Gattung seitlich abgeflacht sind (Status: gesichert)4.
+Aufgrund der hohen morphologischen Variabilität der Früchte und Blätter existieren in den botanischen Datenbanken 33 anerkannte Synonyme für Hyphaene compressa2. Die meisten dieser Synonyme gehen auf den italienischen Botaniker Odoardo Beccari zurück, der 1924 die Art H. multiformis aufstellte und diese in zahlreiche Unterarten und Varietäten gliederte (darunter ambigua, deformis, diminuta, gibbosa, intermedia, kilvaensis, macrocarpa, mahengensis, manca, morogorensis, moshiensis, nasuta, obconica, obesa, odorata, panganensis, plagiosperma, rovumensis, semiplaena, stenosperma, subglobosa, tangatensis, trigibba und lindiensis)1. Weitere Synonyme umfassen Chamaeriphes compressa (H.Wendl.) Kuntze, Hyphaene benadirensis Becc., Hyphaene incoje Furtado, Hyphaene kilvaensis (Becc.) Furtado, Hyphaene mangoides Becc., Hyphaene megacarpa Furtado und Hyphaene semiplaena (Becc.) Furtado5.
+In den Verbreitungsgebieten in Kenia und den angrenzenden Regionen sind zahlreiche Trivialnamen in verschiedenen Sprachen belegt. Die wörtliche Bedeutung dieser lokalen Bezeichnungen ist in den verfügbaren ethnobotanischen Quellen nicht dokumentiert (Status: unbekannt).
+
+Sprache / Ethnie
+	Lokaler Name
+	Status der Nennung
+	Wörtliche Bedeutung
+
+Deutsch
+	Dumpalme, Ostafrikanische Dumpalme
+	gesichert7
+	unbekannt
+
+Englisch
+	East African doum palm, Gingerbread palm
+	gesichert4
+	Lebkuchen-Palme (Bezug auf den Geschmack)
+
+Swahili
+	Mkoma, Mlala, Mkoche, Koma
+	gesichert4
+	unbekannt
+
+Samburu
+	Iparwa, Lparwai, Malala, Nkujit ae nkeok
+	gesichert4
+	unbekannt
+
+Giriama
+	Mlala, Mkoma
+	gesichert4
+	unbekannt
+
+Kamba
+	Mukoma
+	gesichert9
+	unbekannt
+
+Turkana
+	Eeng'ol, Eng'oli
+	gesichert4
+	unbekannt
+
+Pokot
+	Tangayiween, Takayua, Takuyua
+	gesichert4
+	unbekannt
+
+Maa (Ilchamus-Dialekt)
+	Lparrua
+	gesichert4
+	unbekannt
+
+Gabra / Borana
+	Meetti, Koone, Meeti, Qoone
+	gesichert4
+	unbekannt
+
+Rendille
+	Baar, Gey-i-khooona
+	gesichert4
+	unbekannt
+
+Boni / Bajuni
+	Medi / Marara
+	gesichert4
+	unbekannt
+2. Erscheinung, mit Maßen
+Hyphaene compressa ist ein diözischer (zweihäusiger), verholzender Baum, der sich durch langsames Wachstum und ein hohes potenzielles Lebensalter auszeichnet10. Unter ungestörten Bedingungen kann die Art ein Alter von über 100 Jahren erreichen, wobei menschliche Eingriffe die durchschnittliche Lebensdauer in vielen Populationen auf etwa 30 Jahre reduzieren (Status: beobachtet)5.
+Hinsichtlich der Gesamthöhe existieren in den Quellen widersprüchliche Angaben. Taxonomische Beschreibungen verzeichnen primär eine Wuchshöhe von 4 bis 12 Metern, in Ausnahmefällen bis zu 15 Metern1. Ökologische Felddaten aus Ostafrika dokumentieren hingegen Höhen von 10 bis 20 Metern1. Legt man die Maximalhöhe von 20 Metern zugrunde, entspricht dies rechnerisch in etwa der Höhe eines sechs- bis siebengeschossigen Wohnhauses (Status: berechnet). Der solitäre Hauptstamm erreicht einen Brusthöhendurchmesser von 20 bis 30 cm, maximal bis zu 40 cm1. Die Rinde ist grau gefärbt und weist eine stark vertikal zerfurchte (rissige) Struktur auf4. In seltenen Fällen teilt sich der Stamm bereits unterhalb der Erdoberfläche und bringt 2 bis 4 Stämme gleicher Höhe hervor1.
+Die Blattkronen bestehen aus jeweils 10 bis 15 spiralig angeordneten Blättern1. Die Blätter weisen eine intensiv grüne, bläulich-grüne oder olivgrüne Färbung auf1. Es handelt sich um costapalmata (fächerförmige) Blätter, bei denen sich die Mittelrippe (Costa) stark in die Blattspreite hineinbiegt1. Die basale Blattscheide misst 30 bis 40 cm in der Länge1. Der Blattstiel (Petiole) erreicht Längen zwischen 0,7 und 1,4 Metern. An seiner Basis ist der Stiel etwa 7 cm breit, verjüngt sich zur Spitze hin auf 2,5 bis 3 cm und zeigt eine grünlich-gelbe Färbung1. Die Ränder des Blattstiels sind mit robusten, schwarzbraunen, nach oben gebogenen Dornen bewehrt, die jeweils etwa 1 cm lang sind und in einem Abstand von 4 bis 5 cm zueinander stehen1.
+Die Blattspreite wird von einer 45 bis 55 cm langen, stark zurückgebogenen Mittelrippe durchzogen und teilt sich in 35 bis 40 (andere Zählungen nennen 50 bis 53) linealisch-lanzettliche Einzelsegmente auf, die in einer spitzen Form enden1. Die Segmente sind an ihrer Basis für weniger als die Hälfte ihrer Gesamtlänge miteinander verwachsen. Die Längen der Segmente variieren je nach Position am Blatt: Basale Segmente messen 53 bis 66 cm, mittlere Segmente 85 bis 114 cm und apikale Segmente 54 bis 62 cm1. Abgestorbene Blattbasen verbleiben über einen langen Zeitraum am Stamm und bilden eine charakteristische Hülle1.
+Die Fortpflanzungsorgane (Infloreszenzen) wachsen interfoliar (zwischen den Blättern) und erreichen Längen von 1 bis 1,5 Metern, wobei männliche und weibliche Blüten an separaten Bäumen (Diözie) auftreten4. Männliche Blütenstände treten in einer Anzahl von bis zu 5 pro Krone auf. Der sichtbare Teil des Blütenstandstiels misst 30 cm, gefolgt von einer 45 bis 50 cm langen Rachis, die 6 bis 8 Seitenäste (Rachillae) trägt1. Die männlichen Blüten sind gelb gefärbt, dreizählig, mit 6 Staubblättern ausgestattet und öffnen sich sukzessive1. Weibliche Blütenstände sind robuster gebaut. Sie bestehen aus einem 20 cm langen sichtbaren Stielteil und tragen typischerweise 4 seitliche, bis zu 25 cm lange Rachillae sowie eine apikale Rachilla1. Die weiblichen Blüten sind grünlich, stehen solitär auf kurzen, behaarten Stielen und weisen ein dreiblättriges Gynoeceum auf1.
+Aus den weiblichen Blüten entwickeln sich nach der Bestäubung die Früchte. Diese sind als Steinfrüchte (Drupen) klassifiziert und weisen eine extreme Polymorphie auf. Die Formen variieren von länglich bis birnenförmig1. Die Früchte erreichen Längen von 6 bis 12 cm und Breiten von 4 bis 9 cm1. Bei der Reife nehmen sie eine dunkelorange bis hellbraune Färbung an1. Ein einziger ausgewachsener Baum ist in der Lage, mehrere Tausend dieser Früchte pro Jahr zu produzieren5. Im Inneren der Frucht befindet sich unter einem faserigen Fruchtfleisch ein einzelner, eiförmiger (ovoider) Same, der etwa 3,5 cm lang ist und einen Durchmesser von 3 cm aufweist. Dieser Same ist von einem extrem harten Endosperm (pflanzliches Elfenbein) umgeben4.
+3. Der Mechanismus
+Die Art Hyphaene compressa wird durch zwei distinkte biologische Prinzipien determiniert: die echte dichotome Verzweigung des Hauptstamms und die durch Endozoochorie (Tierausbreitung) regulierte Aufhebung der physischen Samendormanz. Beide Mechanismen sind essenziell für das Überleben und die strukturelle Eigenheit der Art.
+Die dichotome Verzweigung
+Die überwiegende Mehrheit der Vertreter innerhalb der Familie der Palmengewächse (Arecaceae) wächst strikt monopodial und unverzweigt. Hyphaene compressa hingegen weist eine echte dichotome Verzweigung (Gabelung) der oberirdischen Stämme auf (Status: gesichert)10. Dieser Wachstumstyp, bei dem sich das apikale Meristem (das primäre Wachstumsgewebe an der Sprossspitze) in zwei exakt gleichwertige, unabhängige Vegetationspunkte teilt, ist bei Samenpflanzen äußerst selten und tritt natürlich nur bei wenigen Palmengattungen (wie Dypsis, Korthalsia und Laccosperma) auf10.
+Die erste Gabelung des Stammes erfolgt typischerweise in einer Höhe von 4 bis 5 Metern über dem Erdboden, was einem Baumalter von 15 bis 30 Jahren entspricht1. Im weiteren Verlauf des Wachstums wiederholt sich dieser Teilungsprozess. Bis zur vollständigen Ausreifung kann sich der Stamm bis zu 5- oder 6-mal teilen (Dichotomie 5. oder 6. Ordnung). Aus dieser exponentiellen Verzweigung resultiert mathematisch eine maximale Anzahl von 64 separaten Kronen pro Baum ()1.
+Phylogenetische Studien und anatomische Forschungen (unter anderem von Fisher und Tomlinson) belegen, dass diese Form der Luftverzweigung innerhalb der Gattung Hyphaene evolutionär nur ein einziges Mal entstanden ist12. Ökologisch führt die Verzweigung zu einer massiven Vergrößerung der photosynthetisch aktiven Fläche und einer Multiplikation der Blütenstände, ohne den hydrodynamischen Widerstand der Pflanze in den windigen Ebenen überproportional zu belasten (Status: vermutet/abgeleitet aus der Morphologie)5.
+Aufhebung der physischen Dormanz (Elefanten-Passage)
+Die Fortpflanzungsbiologie der Dum-Palme wird durch eine stark ausgeprägte "physische Dormanz" der Samen eingeschränkt. Die Samenkeimung in der freien Natur nimmt unter rein abiotischen Bedingungen drei bis zehn Monate in Anspruch oder schlägt gänzlich fehl10. Die anatomische Ursache hierfür ist das dicke, stark faserige Mesokarp (Fruchtfleisch) kombiniert mit dem extrem verholzten Endokarp (der Schale, die das pflanzliche Elfenbein umschließt). Diese Schichten bilden eine nahezu wasserundurchlässige Barriere. Wasser ist jedoch der zwingende biochemische Auslöser für den Keimungsprozess16.
+Die Behauptung, der Same keime ausschließlich nach der Passage durch einen Elefantenmagen, ist wissenschaftlich nicht vollumfänglich korrekt. Labortests belegen, dass auch mechanische und chemische Behandlungen ohne tierische Beteiligung zum Erfolg führen (Status: gesichert). Dennoch stellen Elefanten (Loxodonta africana) in der freien Natur den quantitativ wichtigsten Mechanismus (major mechanism) für die Ausbreitung und Keimungsbeschleunigung dar10.
+Die ökologische Kausalkette der Elefanten-Passage stellt sich wie folgt dar:
+Ingestion (Aufnahme): Elefanten konsumieren die mit bis zu 12 cm sehr großen, kohlenhydratreichen Früchte als Ganzes, oft direkt vom Boden10.
+De-Husking und Skarifizierung (Chemisch-mechanische Bearbeitung): Im Verdauungstrakt des Elefanten wird das faserige Mesokarp durch die starken Magensäuren und die mechanische Reibung im Darmtrakt vollständig entfernt (De-Husking). Gleichzeitig wird das harte Endokarp angeraut, was als Skarifizierung bezeichnet wird. Die Wasserundurchlässigkeit der Hülle wird gebrochen.
+Egestion (Ausscheidung): Der Same selbst übersteht die Passage intakt. Er wird mit dem Kot ausgeschieden. Das mikroklimatische Milieu im Elefantendung bietet ideale Feuchtigkeits- und Nährstoffbedingungen4.
+Keimung: Infolge der aufgebrochenen Barriere dringt Wasser in das Endosperm ein, was die Keimung auslöst.
+Diese Kausalkette ist durch agrarwissenschaftliche Laborversuche an Hyphaene-Samen indirekt belegt: Wurden Samen für 30 Minuten mechanisch skarifiziert und anschließend für 24 Stunden in Wasser eingeweicht, stieg die Keimrate auf 93 %. Eine 10-minütige Behandlung mit hochkonzentrierter Schwefelsäure, gefolgt von einer 12-stündigen Wässerung, die den Magen-Darm-Trakt chemisch simuliert, führte zu Keimraten zwischen 49 % und 71,7 %, während unbehandelte Kontrollgruppen im selben Zeitraum teilweise eine Keimrate von 0 % aufwiesen16.
+Als konkurrierende Erklärung für die Keimung ohne Herbivoren gilt der Zerfall des Mesokarps durch mikrobielle Verrottung in feuchten Mikroklimata, insbesondere bei periodischen Überschwemmungen an Flussufern, was jedoch signifikant längere Zeiträume erfordert15.
+4. Ökologie und Verhalten
+Hyphaene compressa weist eine hohe Spezialisierung auf extreme abiotische Faktoren auf und nimmt eine zentrale Rolle im Ökosystem ein.
+Lebensraum und Standortansprüche
+Die Palme gedeiht primär in den ariden und semi-ariden Ländereien (ASALs) Ostafrikas24. Sie bildet dichte Bestände in Küstenebenen, in offenen Grassavannen sowie an den Rändern von Seen, Flussufern (wie dem Tana River) und saisonalen Sumpfgebieten4. Die vertikale Verbreitung erstreckt sich vom Meeresspiegel bis auf 1.400 Meter Höhe1.
+Die klimatischen Optimalbedingungen liegen im tropischen bis subtropischen Bereich bei Tageshöchsttemperaturen zwischen 36 und 38 °C (Toleranzbereich 15 bis 35 °C im Jahresmittel)5. Die Art ist hochgradig an Dürrebedingungen angepasst und überlebt bei extrem geringen Jahresniederschlägen von 150 bis 600 mm5. Diese Unabhängigkeit von Oberflächenwasser wird durch ihre Eigenschaft als Phreatophyt ermöglicht: Die Palme entwickelt ein tiefes Pfahlwurzelsystem, mit dem sie unterirdische Grundwasserleiter (Aquifere) anzapft5.
+Bodenchemisch zeigt H. compressa eine außergewöhnliche Toleranzschwelle. Sie wächst auf nährstoffarmen, extrem salzigen, stark kalkhaltigen sowie hochalkalischen Böden mit einem pH-Wert von bis zu 95. Überdies verfügt die Pflanze über unterirdische Knollen (Bulbs), die es ihr ermöglichen, nach dem oberflächlichen Abbrennen durch Savannenfeuer erneut auszutreiben. Sie gilt daher als feuerresistent5.
+Saisonale Muster (Reisezeitraum Ende September bis Anfang Oktober)
+Der Zeitraum von Ende September bis Anfang Oktober markiert in den Ökosystemen Tsavo und Amboseli das Ende der langen Trockenzeit und den unmittelbaren Übergang zu den „Short Rains“ (der kleinen Regenzeit). In dieser Phase maximaler hydrologischer Belastung des Ökosystems zeigt H. compressa ihre ökologische Schlüsselfunktion: Während flachwurzelnde Gräser und Akazien weitgehend verdorrt sind, hält die Palme über ihr Pfahlwurzelsystem die Wasserversorgung aufrecht. Sie behält ihr bläulich-grünes Blätterdach und fungiert als einer der wenigen primären Schattenspender in der offenen Savanne. Da die Früchte unabhängig von spezifischen Jahreszeiten fast das ganze Jahr über heranreifen, stehen sie am Ende der Trockenzeit als energiereiche Nahrungsquelle zur Verfügung, wenn andere Ressourcen erschöpft sind5.
+Interaktionen mit der Fauna
+Verschiedene Säugetier- und Vogelarten sind zwingend oder fakultativ auf H. compressa angewiesen:
+Herbivoren: Afrikanische Elefanten und verschiedene Pavianarten (Papio spp.) verzehren die reifen Früchte. Auch stark bedrohte Primatenarten wie der Tana-River-Stummelaffe nutzen die Früchte als Nahrung4.
+Bestäuber: Die gelben und grünlichen Blüten werden von Bienen besucht, die den Pollen transferieren20.
+Symbiose mit dem Afrikanischen Palmensegler (Cypsiurus parvus): Es besteht eine hochspezifische ökologische Nischennutzung durch diesen 16 cm langen, aerodynamischen Vogel aus der Familie der Segler (Apodidae)26. Der Palmensegler landet niemals freiwillig auf dem Boden. Er jagt Insekten im Flug und trinkt im Flug. Zur Fortpflanzung nutzt er ausschließlich die Blätter von Palmen, präferiert dabei Arten wie H. compressa. Der Vogel fängt im Flug umherwirbelnde Federn, Pflanzensamen oder trockenes Gras. Mit einem stark klebenden, speziellen Speichel klebt er dieses Nistmaterial an die Unterseite eines vertikal herabhängenden Palmblattes. Das resultierende Nest ist ein kleines, flaches Polster. Da das Blatt im Wind stark schwankt und fast senkrecht hängt, klebt der Vogel auch die ein bis zwei gelegten Eier mit seinem Speichel in der Nistmulde fest, um ein Herabfallen zu verhindern. Die Jungvögel klammern sich nach dem Schlüpfen an das Nest, bis sie flügge sind26.
+5. Menschen und Kultur in Kenia
+Die Dum-Palme ist in den ländlichen und ariden Gemeinschaften Kenias (wie den Turkana, Samburu, Pokot und Tharaka Nithi) eine essenzielle sozioökonomische Lebensgrundlage10. Fast jeder Teil der Pflanze wird genutzt.
+Nutzungsmuster (Nahrung, Material, Medizin, Handel)
+Material und Konstruktion: Die unreifen ("immature"), noch geschlossenen Blattwedel werden geerntet, gespalten und als Fasern für das Flechten von Körben, Matten, Hüten und Besen verwendet10. Reife, grüne Blätter werden getrocknet und zur Dachabdeckung (Thatching) von traditionellen Hütten, aber auch von permanenten Siedlungen, Touristen-Camps und Flüchtlingslagern eingesetzt10. Die Blattfasern werden durch Schlagen gelöst und zu Hängematten verarbeitet. In der Turkana-Region organisieren sich Frauen in Kooperativen, um diese Flechtwaren auf lokalen und internationalen Märkten zu verkaufen, was die wirtschaftliche Unabhängigkeit stärkt10.
+Holz: Die massiven Stämme unterhalb der ersten Gabelung liefern ein hochdichtes, extrem robustes und vor allem termitenresistentes Bauholz. Es wird für Stützpfeiler, Zäune und Latrinen verwendet und übertrifft in der Festigkeit das Holz der Kokospalme10.
+Nahrung und Getränke: In Hunger- und Dürreperioden dient die Frucht als Grundnahrungsmittel. Das weiche Mesokarp der jungen Früchte wird zu einem süßen, alkoholfreien Saft gepresst, der besonders bei Kindern beliebt ist. Der harte innere Kern wird zerschlagen, zu Pulver zermahlen und als Aroma für andere Speisen verwendet. Ein spezifisches Gericht der Turkana auf Basis der Palme wird "Lokot" genannt10.
+Palmwein: Durch das Anschneiden des apikalen Meristems (Tapping) der Stämme wird Pflanzensaft gewonnen, der spontan zu einem Palmwein mit einem Alkoholgehalt von ca. 3,6 % Vol. fermentiert. Da dieser Wein nach 24 Stunden verfällt und es an Infrastruktur zur Konservierung mangelt, bleibt die wirtschaftliche Bedeutung lokal begrenzt. Ein fehlerhaftes, zu tiefes Einschneiden beim Zapfen führt irreversibel zum Absterben des Baumes10.
+Ethnobotanik: Wurzeln und Blätter werden medizinisch zur Prävention von Bodenerosion eingesetzt, finden aber auch Anwendung als traditionelle Medizin (etwa gegen Kopfschmerzen oder Parasitenbefall) (Status: überliefert)24. Haustiere (Kamele, Esel, Ziegen) erhalten in extremen Dürrezeiten junge Blätter als Futterersatz33.
+Konflikte, Schutzstatus und genetische Diversität
+Weltweit wird die Art von der IUCN auf der Roten Liste mit dem Status „Least Concern“ (Nicht gefährdet, Assessment 2017) geführt, da sie in Ostafrika weit verbreitet ist1. Innerhalb Kenias wird die Lage jedoch kritischer bewertet. In den ASAL-Gebieten Kenias gilt die Art national als gefährdet (threatened) und wird als "National Priority Species" eingestuft (Kigomo, 2001)24. Exakte Bestandszahlen für Kenia mit Jahresangabe liegen in den Quellen nicht vor, jedoch sind die Konfliktlinien klar dokumentiert.
+Der Hauptkonflikt resultiert aus der Sedentarization (Sesshaftwerdung) nomadischer Hirtenvölker. Die Konzentration von Vieh und Menschen an fixen Standorten entlang von Flussläufen führt zu starker Überweidung und Bodendegradation. Die intensive Ernte der unreifen "Schwertblätter" (sword leaves) stört das Wachstum und führt bei den Palmen zu Zwergwuchs (Dwarfing). Destruktives Palmweinzapfen, unkontrolliertes Abbrennen und Abholzung dezimieren die adulten Bestände (Status: gesichert)24.
+Dies hat Auswirkungen auf die Genetik der Populationen: Moderne Analysen von 96 Individuen (durch Omire et al. 2020a, 2022) aus dem Turkana-Gebiet (Norden) und der Tana-Fluss-Region (Küste/Osten) belegen eine signifikante Heterogenität. Es wurden zwei Hauptcluster identifiziert. Entlang des Tana-Flusses fungiert das Wasser als Samen-Disperser, was zu einem asymmetrischen Genfluss und höherer genetischer Vielfalt in der Küstenregion führt, während isoliertere Populationen durch die Übernutzung genetische Erosion (Verlust von Genotypen) erleiden. Die genetische Differenzierung () liegt bei moderaten 0,07424.
+6. Wissenschaftsgeschichte
+Die systematische Einordnung von Hyphaene compressa spiegelt die historischen Paradigmenwechsel der Botanik wider.
+1788 (Joseph Gaertner): Der deutsche Arzt und Botaniker Joseph Gaertner beschrieb in seinem epochalen Werk De Fructibus et Seminibus Plantarum erstmals die Gattung Hyphaene, wobei er H. coriacea als erstes Taxon festlegte2.
+1878 (Hermann Wendland): Der deutsche Botaniker und Gärtner Hermann Wendland, ein renommierter Palmenexperte, beschrieb die spezifische Art H. compressa auf Basis morphologischer Merkmale und publizierte dies in der Botanischen Zeitung1.
+1924 (Die Kontroverse um Odoardo Beccari): Der italienische Floristik-Experte Odoardo Beccari publizierte eine monografische Abhandlung der Gattung in seinem Werk Palme Borass.. Beccari sah die Dum-Palmen nie in ihrem natürlichen Habitat in Afrika. Er arbeitete fast ausschließlich mit getrocknetem Herbarium-Material und den gesammelten, stark polymorphen Früchten. Dies führte zu einer massiven taxonomischen Überklassifizierung: Beccari schuf die Art H. multiformis und teilte diese in Dutzende Unterarten und Varietäten auf. Er verursachte damit eine Konfusion, die die Palmensystematik fast ein Jahrhundert lang prägte1.
+1986 (John Dransfield): Der britische Botaniker John Dransfield publizierte eine umfassende Revision der ostafrikanischen Hyphaene-Arten. Er erkannte, dass Beccaris unzählige Unterarten lediglich phänotypische Variationen derselben Spezies darstellten, und reduzierte die meisten Namen auf Synonyme von H. compressa1.
+Ab 2014 (Moderne Phylogenetik und das "Hyphaene Project"): Ein multidisziplinäres Forscherteam des Konservatoriums und Botanischen Gartens in Genf (u.a. Fred Stauffer, Camille Christe, Yamama Naciri, Mathieu Perret) startete das "Hyphaene Project". Sie nutzen Next-Generation-Sequencing (NGS), um die molekulare Phylogenie der Gattung aufzuklären. Ein markantes Ergebnis war der Nachweis, dass die seltene indische Art H. dichotoma genetisch nicht von der afrikanischen H. compressa abzugrenzen ist, was auf eine historische Ausbreitung durch portugiesische Seefahrer hindeuten könnte. Parallel dazu lieferten kenianische Wissenschaftler (Agnes Omire, Johnstone Neondo, Nancy Budambula) in den Jahren 2020 bis 2022 grundlegende Daten zur morphologischen und genetischen Diversität der Art in den ASAL-Gebieten Kenias3.
+7. Fotografie
+Für den Reisezeitraum im späten September / frühen Oktober bieten der Tsavo Ost, Tsavo West sowie der Amboseli Nationalpark verlässliche Sichtungschancen, insbesondere an saisonalen Flussläufen und Sumpfrändern7.
+Beobachtungspraxis und Tageszeit:
+Die Palme verweilt statisch; das fotografische Abwarten fokussiert sich auf die interagierende Tierwelt.
+Elefanten: Gegen die Mittagszeit und am frühen Nachmittag suchen Elefanten den Schatten der Palmenkronen und klauben gefallene Früchte vom Boden10. Fluchtdistanzen bei Habituation in Nationalparks sind gering, dennoch erfordert das Verhalten der Tiere eine respektvolle räumliche Distanz.
+Afrikanischer Palmensegler: Die Vögel zeigen die höchste Aktivität in der späten Nachmittagssonne und beginnenden Dämmerung, wenn sie in dichten Schwärmen Insekten jagen und anschließend rasant unter die Palmblätter einfliegen27.
+Objektivwahl und Richtwerte:
+26–60 mm / 45 mm (Landschaft & Silhouette): Geeignet, um die spektakuläre dichotome Verzweigung der Kronen vor dem weiten Himmel freizustellen. Ein typischer Fehler ist hier die Überbelichtung (Ausbrennen) des Himmels; die Belichtung sollte auf den hellen Hintergrund gemessen werden, um den Stamm als scharfen Scherenschnitt abzubilden.
+100–400 mm (Säugetier-Interaktion): Ideal für Elefanten oder Paviane am Fuß der Palme. Verschlusszeiten zwischen 1/500 s und 1/1000 s frieren Rüsselbewegungen beim Greifen der Früchte zuverlässig ein.
+150–600 mm (Avifauna / Palmensegler): Die Fotografie des Afrikanischen Palmenseglers im Flug erfordert das obere Ende der Brennweite (600 mm). Da diese Vögel Fluggeschwindigkeiten von bis zu 110 km/h (über 30 m/s) erreichen und extreme Richtungswechsel vollziehen, sind extrem kurze Verschlusszeiten von 1/2500 s bis 1/4000 s zwingend erforderlich, um Bewegungsunschärfe zu eliminieren. In der abendlichen Dämmerung bedingt dies zwangsläufig eine offene Blende und hohe ISO-Werte26.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+POWO (Plants of the World Online, Kew): https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667490-1Der taxonomische Standard der Royal Botanic Gardens Kew, der die vollständige Liste der 33 historischen Synonyme für H. compressa dokumentiert.
+The Hyphaene Project (Genf): https://www.hyphaene.org/index.php/species-and-synonyms/hyphaene-compressaEine wissenschaftliche Datenbank des Konservatoriums Genf mit detaillierten metrischen Vermessungen der Blätter und Infloreszenzen sowie Notizen zur Systematik.
+Genetische Studie (NCBI PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC8854861/Ein detaillierter Fachartikel von Omire et al. zur genetischen Diversität und Bedrohung der Dum-Palme in den kenianischen ASAL-Regionen.
+Monaco Nature Encyclopedia: https://www.monaconatureencyclopedia.com/hyphaene-compressa/?lang=enUmfassende botanische und ethnobotanische Aufarbeitung der Spezies mit exakten Maßangaben und Erklärungen zur historischen Etymologie.
+Kultur und Fotografie:
+Wikipedia (Kultur und Nutzung): https://en.wikipedia.org/wiki/Hyphaene_compressaEnthält einen guten Überblick über die wirtschaftliche Nutzung der Palme durch Frauen-Kooperativen im Turkana-Tal sowie Public Domain Fotos.
+BirdWeather (Afrikanischer Palmensegler): https://app.birdweather.com/species/african-palm-swiftAggregierte ornithologische Sichtungsdaten zum Afrikanischen Palmensegler, der für seine Brut symbiotisch auf die Blätter der Palmen angewiesen ist.
+9. Visuelle Beschreibung für eine Illustration
+The Hyphaene compressa rises as a solitary, robust pillar from the arid ground before bifurcating into a highly geometric, strictly dichotomous branching pattern. At approximately four to five meters high, the grey, deeply vertically fissured trunk splits symmetrically in a Y-shape, a process that repeats up to five or six times, creating a sprawling canopy of up to 64 distinct spherical crowns. Each terminal head is an explosive rosette of costapalmate leaves, presenting a stark olive-to-bluish-green contrast, while old, withered leaf sheaths stubbornly cling to the upper sections of the branches, giving the lower canopy an untidy, thatched appearance.
+Detail 1 (Fruit): A mature fruit (drupe), irregular and pear-shaped, measuring up to 12 cm, bearing a tough, fibrous dark-orange to pale-brown outer skin.
+Detail 2 (Leaf Petiole): The thick, yellowish-green base of the leaf stalk, armed aggressively with sharp, upward-curving blackish-brown thorns spaced exactly 4 to 5 cm apart along its margins.
+Detail 3 (Nest): A close-up of a single Cypsiurus parvus (African Palm Swift) nest glued seamlessly to the downward-hanging vertical underside of a palm segment, constructed entirely of small grey feathers and hardened saliva, holding two small eggs.
+Cultural Vignette (Basket): A woven Turkana basket featuring intricate geometries, displaying the fibrous strength of immature, split palm leaves dyed in local earth tones.
+10. Was du nicht belegen konntest
+Die folgenden, in der Anfrage explizit geforderten Datenpunkte konnten anhand des vorliegenden Materials nicht belegt werden:
+Kikuyu-Name: In den ethnobotanischen Quellen fand sich kein belegter Name der Kikuyu für Hyphaene compressa.
+Maa-Name spezifisch für H. compressa: Der Begriff "ol-piro" wurde in den Quellen für die Gattung allgemein bzw. für die Art H. coriacea notiert. Für H. compressa wird lediglich der Name des verwandten Ilchamus-Dialekts (lparrua) erwähnt. Ein spezifischer Name der Maasai (Maa) lag nicht vor.
+Alltagsvergleiche für Größenordnungen: Explizite Alltagsvergleiche (z. B. "Handfläche", "Türhöhe") sind in den wissenschaftlichen Originaltexten nicht vorhanden. Da Erfindungen untersagt waren, wurden nur die reinen metrischen Werte übernommen, mit Ausnahme der berechenbaren Haushöhe für den 20-Meter-Stamm.
+Absolute Bestandszahlen in Kenia: Es existieren keine Daten zu absoluten Baum-Individuen in den ASAL-Gebieten Kenias. Es liegen lediglich Verteilungsraten aus spezifischen Studienpopulationen vor.
+Fluchtdistanz in Metern: Spezifische Fluchtdistanzen in Metern für Elefanten oder Paviane an der Palme wurden in den ökologischen Texten nicht beziffert, lediglich die physischen Fluggeschwindigkeiten der Vögel.
+Works cited
+Hyphaene compressa, https://www.hyphaene.org/index.php/species-and-synonyms/hyphaene-compressa
+Systematics and classification - Hyphaene, https://www.hyphaene.org/index.php/about-hyphaene/systematics-classification
+(PDF) A multidisciplinary study of the doum palms (Hyphaene Gaertn.), https://www.researchgate.net/publication/326147011_A_multidisciplinary_study_of_the_doum_palms_Hyphaene_Gaertn_origin_of_the_project_current_advances_and_future_perspectives
+Hyphaene compressa - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/hyphaene-compressa/?lang=en
+Hyphaene compressa: A comprehensive Growing Guide for, https://www.viriar.com/blogs/palms-tree-encyklopedia/hyphaene-compressa
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667490-1
+Hyphaene compressa - Safari Afrika, https://www.safari-afrika.de/pflanzenwelt/palmen/hyphaene-compressa/
+Nordosten tropisches Afrika: Arten - Pl@ntNet identify - Plantnet, https://identify.plantnet.org/de-at/k-northeast-tropical-africa/species?family=Arecaceae
+Hyphaene compressa | Interactive Suitable Tree Species Selection, https://apps.worldagroforestry.org/suitable-tree/content/hyphaene-compressa-1
+Hyphaene compressa - Wikipedia, https://en.wikipedia.org/wiki/Hyphaene_compressa
+Dichotomous branching: the plant form and integrity upon the apical, https://pmc.ncbi.nlm.nih.gov/articles/PMC4047680/
+Species delimitation and diversification of the doum palms (Hyphaene, https://academic.oup.com/botlinnean/advance-article/doi/10.1093/botlinnean/boag077/8770589
+(PDF) BeyondGenera Palmarum: progress and prospects in palm, https://www.researchgate.net/publication/303935353_BeyondGenera_Palmarum_progress_and_prospects_in_palm_systematics
+The Structural Biology of Palms - ResearchGate, https://www.researchgate.net/publication/375247505_The_Structural_Biology_of_Palms
+Hyphaene compressa: A comprehensive Growing Guide for, https://www.viriar.com/es/blogs/palms-tree-encyklopedia/hyphaene-compressa
+Variation in Hyphaene thebaica Mart. fruit - BEC-UAC, https://www.bec.uac.bj/uploads/publication/b746ecedbb2c2a818cf7f0210f58cf24.pdf
+Hyphaene petersiana dormancy and germination - Academia.edu, https://www.academia.edu/96459897/Hyphaene_petersiana_dormancy_and_germination
+Effect of drying and soaking fruits and seeds on germination of, https://pdfs.semanticscholar.org/ec69/cc37e378c09e159dcd5812540a0ea6827dcf.pdf
+Hyphaene compressa (H. coriacea) Palmae, https://apps.worldagroforestry.org/usefultrees/pdflib/Hyphaene_compressa_TZA.pdf
+Distribution and ecology - Hyphaene, https://www.hyphaene.org/index.php/about-hyphaene/distribution-and-ecology
+Seed Scarification Requirement in Doum (Hyphaene thebaica Mart.), https://www.researchgate.net/publication/239615738_Seed_Scarification_Requirement_in_Doum_Hyphaene_thebaica_Mart
+Methods for Improving the Germination of Rhodotypos scandens, https://www.mdpi.com/2223-7747/13/5/648
+(PDF) Variation in Hyphaene thebaica mart. Fruit - ResearchGate, https://www.researchgate.net/publication/280009396_Variation_in_Hyphaene_thebaica_mart_Fruit_Physical_characteristics_and_factors_affecting_seed_germination_and_seedling_growth_in_Benin_West_Africa
+Genetic Diversity and Population Structure of Doum Palm ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8854861/
+Hyphaene compressa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Hyphaene+compressa
+New World palm swift | bird - Britannica, https://www.britannica.com/animal/New-World-palm-swift
+African palm swift - Wikipedia, https://en.wikipedia.org/wiki/African_palm_swift
+African palm swift - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/african-palm-swift
+African Palm Swift (Cypsiurus parvus) identification - Birda.org, https://app.birda.org/species-guide/39891/African_Palm_Swift
+African palm swift's unique nest and breeding habits - Facebook, https://www.facebook.com/groups/2020503754915509/posts/2643503675948844/
+African Palm Swift - Whole Earth Education, https://wholeeartheducation.com/african-palm-swift/
+African palm swift Facts for Kids, https://kids.kiddle.co/African_palm_swift
+(PDF) Hyphaene compressa, an important palm in the arid and semi, https://www.researchgate.net/publication/342084840_Hyphaene_compressa_an_important_palm_in_the_arid_and_semi-arid_regions_of_Kenya
+Living palm collections in Florida (USA). A. Hyphaene coriacea, https://www.researchgate.net/figure/Living-palm-collections-in-Florida-USA-A-Hyphaene-coriacea-originally-collected-in_fig4_326147011
+Hyphaene compressa - Wikidata, https://www.wikidata.org/wiki/Q5958852
+Species delimitation and diversification of the doum palms (Hyphaene, https://academic.oup.com/botlinnean/advance-article-pdf/doi/10.1093/botlinnean/boag077/70786392/boag077.pdf
+Hyphaene – A multidisciplinary study, https://www.hyphaene.org/
+Main complexities hindering taxonomic studies in certain palm groups., https://www.researchgate.net/figure/Main-complexities-hindering-taxonomic-studies-in-certain-palm-groups_fig1_326147011

@@ -1,0 +1,261 @@
+Forschungsbericht: Strukturiertes Rohmaterial zur Gattung Dorylus (Treiberameise / Siafu) in Kenia
+1. Namen und Etymologie
+Die systematische Einordnung und Nomenklatur der afrikanischen Treiberameisen ist das Resultat einer langen taxonomischen Historie. Die Art gehört zur Ordnung der Hautflügler (Hymenoptera), zur Familie der Ameisen (Formicidae) und zur Unterfamilie der Dorylinae1. Die Unterfamilie Dorylinae entwickelte sich Schätzungen zufolge vor 102 bis 74 Millionen Jahren und durchlief in ihrer frühen Geschichte schnelle adaptive Radiationen3. Die Taxonomie der Unterfamilie wird in der Literatur widersprüchlich diskutiert: Während ältere Quellen Dorylus als einzige Gattung der Unterfamilie Dorylinae bezeichnen2, heben neuere systematische Revisionen hervor, dass die Anzahl der anerkannten dorylinen Gattungen von 19 auf 28 erhöht wurde4. (Status: umstritten bezüglich des Umfangs der Unterfamilie, gesichert bezüglich der Gattungszugehörigkeit).
+Der wissenschaftliche Name der Gattung lautet Dorylus und wurde im Jahr 1793 von dem dänischen Entomologen Johan Christian Fabricius vergeben1. Die wörtliche Bedeutung des Begriffs leitet sich vom griechischen Wort „dory“ (δόρυ) ab, was wörtlich übersetzt „Speer“, „Lanze“, „Holz“ oder „Baumstamm“ bedeutet8. (Status: gesichert). Für die im kenianischen Hochland und montanen Waldgebieten am häufigsten dokumentierte Art, Dorylus molestus, zeichnet der deutsche Zoologe Adolph Gerstäcker verantwortlich, der diese Art im Jahr 1859 beschrieb11.
+Neben der wissenschaftlichen Nomenklatur existiert eine Vielzahl von etablierten Trivialnamen, die sich auf das spezifische Jagdverhalten oder die Morphologie der Tiere beziehen. Die nachfolgende Tabelle fasst die dokumentierten Trivialnamen zusammen.
+
+Sprache
+	Trivialname
+	Bedeutung / Bemerkung
+	Status
+
+Deutsch
+	Treiberameise, Heeresameise, Wanderameise
+	Bezieht sich auf das Jagdverhalten (Untergattung Anomma), bei dem Beute vor einer breiten Front hergetrieben wird.
+	gesichert2
+
+Deutsch
+	Wurstfliege
+	Spezifische Bezeichnung für die Männchen der Gattung.
+	gesichert2
+
+Englisch
+	Driver ant, Safari ant, Siafu, Red ant, Seroi ant
+	Allgemeine Bezeichnungen im englischsprachigen Raum.
+	gesichert1
+
+Englisch
+	Sausage fly
+	Spezifische Bezeichnung für die Männchen.
+	gesichert7
+
+Swahili
+	Siafu
+	Lehnwort aus regionalen Bantusprachen, das von indigenen Völkern für verschiedene Arten dieser Ameisen verwendet wird.
+	gesichert1
+Weitere lokale Namen der in der Route liegenden ethnischen Gemeinschaften (Maa, Kikuyu, Samburu, Giriama, Kamba) lassen sich durch die vorliegende Literatur nicht spezifisch für die Gattung Dorylus belegen. Zwar existieren ethnobiologische Studien zur Nutzung von Insekten (wie Carebara vidua) und Medizinpflanzen bei diesen Gruppen, doch spezifische Vokabeln für die Treiberameise werden dort nicht aufgeführt (Status: unbekannt)14.
+2. Erscheinung, mit Maßen
+Die Angehörigen der Gattung Dorylus weisen einen extremen Polymorphismus auf, der sich in stark differenzierten Kasten äußert. Ein gemeinsames morphologisches Merkmal aller Kasten ist der eingliedrige, knotenförmige Petiolus (Stielchenglied) ohne abgesetzten Postpetiolus, was sie morphologisch von anderen altweltlichen Heeresameisen der Gattung Aenictus unterscheidet2. Ebenso fehlt propodeale Lappenbildung, und das Stigma am Propodeum ist hoch angesetzt18.
+Die Königin (Dichthadiigyn)
+Die Königinnen der Gattung Dorylus weisen eine hochgradig spezialisierte Form auf, die in der Entomologie als dichthadiigyn bezeichnet wird. Sie sind dauerhaft flügellos und besitzen weder Flügel noch Flügelrudimente2. Die Augen (Ocellen und Komplexaugen) fehlen vollständig2. Die Körperlänge erreicht extreme Ausmaße; bei der Art Dorylus wilverthi werden bis zu 52 mm gemessen, womit sie zu den größten bekannten Ameisen zählen2.
+Der Kopf der Königin ist stark verbreitert und abgerundet. Im Gegensatz zu den Arbeiterinnen fehlt den Mandibeln der Subapikalzahn, wodurch diese linear oder sichelförmig erscheinen2. Das Abdomen ist zylindrisch geformt und stark verlängert. Insbesondere das dritte Abdominalsegment (das erste Gastersegment) erreicht eine ungewöhnliche Länge. In Zeiten aktiver Eiablage schwillt das Abdomen stark an (Physogastrie)2. Der Petiolus weist an der Bauchseite lappenartige Erweiterungen auf, die in der Aufsicht die Breite des Thorax erreichen2.
+Arbeiterinnen und Soldaten
+Die Arbeiterinnen der Gattung Dorylus zeichnen sich durch einen kontinuierlichen Größenpolymorphismus aus, bei dem die Übergänge zwischen den einzelnen Größenklassen fließend verlaufen, ohne scharf abgegrenzte Subkasten zu bilden2. Die größten Individuen (Soldaten) weisen eine mehr als 100-fache Körpermasse im Vergleich zu den kleinsten Arbeiterinnen auf2. Das Trockengewicht der kleinsten Arbeiterinnen von Dorylus wilverthi ist mit 0,12 mg dokumentiert19. (Status: gesichert).
+Ihre Körperform ist zylindrisch, wobei besonders die Soldaten überproportional große Köpfe besitzen, in denen die massive Muskulatur für die Beißwerkzeuge verankert ist2. Komplexaugen und Ocellen fehlen bei den Arbeiterinnen gänzlich; die Orientierung zwischen Hell und Dunkel wird über einen Hautlichtsinn vermutet2. Die Mandibeln sind verlängert und sichelförmig mit parallelen Innen- und Außenkanten. An der Spitze befindet sich ein scharfer, sichelförmiger Zahn, flankiert von einem deutlich vergrößerten Subapikalzahn in der Mitte der Mandibel sowie weiteren kleineren Zähnen2.
+Die Fühler weisen je nach Art 8, 9, 11 oder 12 Segmente auf18. Die Taster (Palpen) der Maxillen und des Labiums sind zumeist zweigliedrig und extrem verkürzt, das Labrum ist abgerundet2. Die Naht zwischen Pronotum und Mesopleuren ist sichtbar, aber durch eine schmale Zone unbeweglich verwachsen2. Ein rudimentärer, nicht funktionsfähiger Giftstachel ist vorhanden, verbleibt jedoch verborgen im Abdomen2.
+Männchen
+Die Männchen kontrastieren stark mit den weiblichen Kasten und ähneln in ihrer Morphologie großen Wespen, was historisch zu taxonomischen Fehleinschätzungen führte2. Sie sind voll flugfähig und besitzen große, halbkugelförmig hervorstehende Komplexaugen sowie drei Ocellen2. Die Fühler bestehen aus 13 Segmenten, von denen die ersten drei glatt und glänzend sind2. Ein markantes Merkmal sind die abgeflachten Femora (Oberschenkel), die deutlich breiter und stärker komprimiert sind als die Tibien und Tarsen18.
+Das Abdomen ist auffällig zylindrisch und verlängert, ohne sich nach hinten zu verjüngen2. Die Genitalkapsel der Männchen weist eine einzigartige Morphologie auf: Eine winzige rautenförmige Struktur (Patella), gebildet aus einem Fragment der Basimeren, liegt dorsal über dem Aedeagus. Die Telomeren verbergen die inneren Klappen der Genitalkapsel nicht, sondern bilden einen spiralförmigen Arm, der sich proximal faltet und dann distal über den Rest der Kapsel ragt18.
+
+Merkmal
+	Königin
+	Arbeiterin / Soldat
+	Männchen
+	Status
+
+Körperlänge / Gewicht
+	Bis zu 52 mm Länge
+	Ab 0,12 mg Trockengewicht
+	(Keine exakten Einzelmaße in Quelle)
+	gesichert2
+
+Augen
+	Fehlend
+	Fehlend
+	Komplexaugen und Ocellen groß
+	gesichert2
+
+Flügel
+	Fehlend
+	Fehlend
+	Vorhanden (funktional)
+	gesichert2
+
+Abdomen
+	Physogastrisch, verlängert
+	Zylindrisch, mit rudimentärem Stachel
+	Zylindrisch, nicht verjüngt
+	gesichert2
+
+Mandibeln
+	Ohne Subapikalzahn
+	Mit großem Subapikalzahn
+	Sichelförmig
+	gesichert2
+Für die Größenordnung lassen sich aus den Quellen belastbare Alltagsvergleiche ableiten: Die Gesamtmasse einer ausgewachsenen Kolonie von Dorylus nigricans, die aus bis zu 7 Millionen adulten Arbeiterinnen besteht, wird auf 50 kg beziffert. Dies entspricht präzise der Körpermasse eines weiblichen Leoparden20. Das Temporärnest (Biwak), das aus den lebenden Körpern der Arbeiterinnen gebildet wird, erreicht einen Durchmesser von bis zu 1 Meter21.
+3. Der Mechanismus
+Die Gattung Dorylus ist durch drei außergewöhnliche biologische Prinzipien gekennzeichnet: die Nutzung als chirurgische Wundklammern, die extreme Polyandrie (Mehrfachpaarung) gepaart mit kolonialer Fission und die interspezifische Hybridisierung.
+Chirurgische Wundklammern (Biomechanik der Mandibeln)
+Ein Mechanismus, der diese Art kulturhistorisch und biomechanisch besonders macht, ist die Beschaffenheit der Mandibeln bei den Soldaten. Die Kiefer funktionieren als effektive chirurgische Wundklammern, eine Methode, die in der Ethnomedizin bei indigenen Gemeinschaften Ostafrikas dokumentiert ist22. (Status: gesichert/überliefert).
+Der Ablauf (Kausalkette):
+(A) Ein Soldat der Gattung Dorylus wird gegriffen und an die Ränder einer offenen Wunde geführt, deren Kanten vom Behandelnden manuell zusammengehalten werden22.
+(B) Der defensive Beißreflex des Insekts wird ausgelöst. Die sichelförmigen Mandibeln dringen beidseitig in das menschliche Gewebe ein22.
+(C) Die massive Muskulatur im überproportional großen Kopf des Soldaten verriegelt die Kiefer beim Zubeißen derart stark, dass die Mandibeln nicht ohne Gewalteinwirkung geöffnet werden können2.
+(D) Unmittelbar nach dem Biss wird der Hinterleib (Thorax und Abdomen) der Ameise abgetrennt. Der Kopf verbleibt als autarke, organische Wundklammer im Gewebe22.
+(E) Das Chitin der Ameise weist antibakterielle und entzündungshemmende Eigenschaften auf, was die Wundheilung zusätzlich begünstigt, bis die Kanten verwachsen sind und die Mandibeln entfernt werden können24.
+Extreme Polyandrie und Reproduktion (Fission)
+Die Fortpflanzungsbiologie von Dorylus unterscheidet sich grundlegend von der anderer Ameisen und ist gekennzeichnet durch eine der höchsten bekannten Paarungsfrequenzen. Dieser Vorgang wurde insbesondere zwischen 2004 und 2010 von den Forschern Daniel Kronauer und Caspar Schöning am Mount Kenya und im Kakamega Forest untersucht2.
+Der Mechanismus (Kausalkette):
+(A) Die Königin von Dorylus (Anomma) molestus ist dauerhaft flügellos, was Paarungsflüge in der Luft unmöglich macht13.
+(B) Stattdessen fliegen Männchen ("Wurstfliegen") aus fremden Kolonien aus, dringen in das unterirdische Nest der virginellen Königin ein und paaren sich mit ihr innerhalb der elterlichen Kolonie13. Die Arbeiterinnen kontrollieren den Zugang und entscheiden, welche Männchen zur jungen Königin vorgelassen werden27.
+(C) Die Königin paart sich mit einer extrem hohen Anzahl an Männchen. Die absolute Paarungsfrequenz liegt bei 17,3 Männchen pro Königin, die effektive Paarungsfrequenz bei 17,526. (Status: gesichert).
+(D) Diese extreme Polyandrie führt dazu, dass die bis zu 20 Millionen Arbeiterinnen einer Kolonie eine sehr hohe genetische Diversität aufweisen (sie sind im Mittel nur Halbschwestern)2. Diese Diversität erhöht die Toleranz der Kolonie gegenüber Krankheitserregern und optimiert die Arbeitsteilung13.
+(E) Aufgrund der Flügellosigkeit der Königin erfolgt die Ausbreitung der Art ausschließlich durch Fission (Koloniespaltung). Erreicht eine Kolonie eine kritische Größe, teilt sich die Belegschaft, und ein Teil zieht mit einer neuen, frisch begatteten Königin fort, um ein eigenständiges Nest zu gründen2.
+(F) Verliert eine bestehende Kolonie ihre Königin, geht das Volk zumeist zugrunde. Forschungen haben jedoch belegt, dass sich weisellose (königinnenlose) Kolonien von Dorylus molestus nach einer Spanne von 4 bis 43 Tagen mit benachbarten, intakten Kolonien zusammenschließen können (Koloniefusion)29.
+Interspezifische Hybridisierung
+Lange Zeit galt es in der Zoologie als unwahrscheinlich, dass nahe verwandte Arten im Tierreich regelmäßig hybridisieren, insbesondere bei Ameisen, bei denen die Arbeiterinnen die Partnerwahl kontrollieren28. Eine Kontroverse lösten Daniel Kronauer und Caspar Schöning 2011 aus, als sie im Kakamega Forest in Westkenia durch die Analyse von mitochondrialer DNA (mtDNA) und nuklearen Mikrosatelliten nachwiesen, dass regelmäßiger Genfluss zwischen Dorylus molestus und Dorylus wilverthi stattfindet28.
+Wirkungsweise: Sympatrisch (im selben Gebiet) lebende Populationen weisen Zwischenformen auf. So teilen sich eine "Dorylus molestus-ähnliche" und eine "Dorylus wilverthi-ähnliche" Form im Kakamega Forest einen gemeinsamen mitochondrialen Haplotyp. Männchen der einen Art paaren sich mit Königinnen der anderen, woraus fortwährend Hybrid-Arbeiterinnen hervorgehen, die zwei distinkten genetischen Clustern angehören27.
+4. Ökologie und Verhalten
+Lebensraum und Nistverhalten: Das bevorzugte Habitat der Gattung Dorylus, speziell von Dorylus molestus und Dorylus wilverthi, umfasst intakte Regenwälder (wie den Kakamega Forest), montane Wälder (wie die Flanken des Mount Kenya bis auf 3.000 Meter Höhe), Sekundärwälder sowie an diese Habitate angrenzende landwirtschaftliche Nutzflächen31. Ein entscheidender ökologischer Faktor ist die Waldbedeckung: Eine Studie wies nach, dass Kolonien gänzlich fehlen, wenn die Waldbedeckung in einem Radius von 1.400 Metern um das Nest unter 11 % fällt33. Die Walddichte erklärt 58 % der Variation in der Abundanz (Häufigkeit) der Kolonien33. (Status: gesichert).
+Treiberameisen legen keine dauerhaften Nester an. Sie nutzen natürliche unterirdische Hohlräume oder graben selbst Kavitäten, für die sie bis zu 48,5 kg Bodenmaterial bewegen müssen13. Alternativ bilden sie temporäre Biwaks – Nester mit einem Durchmesser von bis zu 1 Meter, die gänzlich aus den ineinander verhakten Körpern der Arbeiterinnen bestehen und dem Schutz der Königin und der Brut dienen21.
+Tagesrhythmus und saisonale Muster (Fokus 24.09. bis 12.10.2026): Heiße und trockene Wetterbedingungen hemmen die Aktivität von Dorylus-Arten an der Erdoberfläche. Sie jagen daher vornehmlich nachts, in den frühen Morgenstunden oder an bewölkten Tagen34.
+Der Zeitraum vom 24. September bis zum 12. Oktober markiert in Kenia den Übergang von der langen Trockenzeit zum Beginn der kleinen Regenzeit ("short rains", Oktober bis Dezember). Am Mount Kenya ist das Niederschlagsmuster bimodal (März–Mai und Oktober–Dezember) bei einer dokumentierten mittleren Jahresniederschlagsmenge von 2.178 mm an der Chogoria Forest Station31.
+Spezifisches Verhalten in diesem Zeitraum: (Status: vermutet/ökologische Folgerung). Die einsetzenden Regenfälle ab Ende September durchfeuchten den ausgetrockneten Waldboden. Dies stimuliert die Oberflächenaktivität der Annelida (Regenwürmer), die die absolute Hauptbeute von Dorylus molestus darstellen20. In Folge der gesteigerten Beuteverfügbarkeit intensivieren die Treiberameisen ihre massiven oberirdischen und in die niedere Vegetation reichenden Raubzüge (Swarm Raids) erheblich20.
+Nahrung und Raubzüge: Treiberameisen sind generalistische Prädatoren (Polyphagen)13. Zwar bilden Regenwürmer in montanen Wäldern die Basis der Ernährung, das Beutespektrum ist jedoch extrem breit. Es reicht von Spinnentieren, Tausendfüßern, Krabben, Schnecken und anderen sozialen Insekten (Termiten, Bienen, Ameisen) bis hin zu Wirbeltieren wie Fröschen, Schlangen und Aas (dokumentiert wurde unter anderem die Verwertung eines Affenkadavers)20. Auch weiche pflanzliche Ressourcen wie herabgefallene Avocados oder die Wurzeln von landwirtschaftlichen Nutzpflanzen (Pak Choi, Rettich) werden konsumiert31.
+Die Jagd erfolgt koordiniert in Schwärmen. Die Ameisen rücken in einer dichten, teppichartigen Front vor, die durchschnittlich 10,3 m breit ist (± 4,6 m Standardabweichung) und Spitzenbreiten von über 20 m erreichen kann20. Ein einzelner Raubzug deckt Flächen von über 1.000 Quadratmetern ab, wobei der Jagdradius (Foraging Range) um das Nest im Durchschnitt bei 75,0 m liegt20.
+Migrationsmuster (Patch-Use): Die Umzüge der Kolonien werden nicht durch einen endogenen Brutzyklus diktiert, sondern durch die lokale Verknappung von Nahrungsressourcen31. Ein Nestaufenthalt dauert hochgradig variabel zwischen 3 und 111 Tagen (Median: 17 Tage)2. Ist das Beutevorkommen im Radius erschöpft, wandert die Kolonie ab. Die Umzugsdistanz beträgt im Durchschnitt 92,7 m (± 29,7 m) in direkter Linie, wobei sich die Ameisen aktiv von der am nächsten gelegenen Nachbarkolonie entfernen2. In bewaldeten Gebieten ist die Koloniedichte hoch; der Abstand zur nächsten Kolonie misst durchschnittlich nur 82,1 m (± 29,4 m)36. Ein vollständiger Umzug, bei dem die gesamte Brut transportiert wird, nimmt bis zu drei Tage in Anspruch31. Bei einer experimentellen Fütterung von 8 Kolonien mit Thunfisch in Öl und gebratenen Hühnereiern (zusätzlich 150 g Trockenmasse) im Vergleich zu 9 Kontrollkolonien konnte nachgewiesen werden, dass ein erhöhtes Nahrungsangebot den Verbleib im Nest signifikant verlängert31.
+Abhängige Arten und Feinde:
+Ameisenvögel: Arten wie Alethe poliocephala folgen den Ameisenfronten systematisch. Sie fressen nicht die Ameisen selbst, sondern erbeuten die zahllosen Insekten, die in Panik vor der anrückenden Treiberameisenfront flüchten20.
+Prädatoren: Schimpansen nutzen spezialisierte Werkzeuge (meist aus Lianen gefertigt), um nach Dorylus-Ameisen zu fischen (Ant-Dipping)20. Schuppentiere (Pangoline) brechen die Nester auf und lösen dadurch in einem geringen Prozentsatz der Fälle vorzeitige Koloniemigrationen aus20. Auch Mangusten ernähren sich von Treiberameisen20.
+Unterirdisch jagende Vertreter der Untergattung Dorylus (Typhlopone) erbeuten ebenfalls Angehörige oberirdisch jagender Treiberameisen20.
+Bezüglich der Legeleistung der Königin liegen in den untersuchten Fachquellen teils widersprüchliche Angaben vor. Eine Publikation gibt an, die Königin sei in der Lage, "1 bis 2 Millionen Eier in einem Monat" zu legen21. Eine andere Quelle quantifiziert die Legeleistung auf "bis zu 225.000 Eier pro 35-Tage-Periode"4. (Status: Widerspruch in den quantitativen Belegen; beide Werte sind als Maximalannahmen dokumentiert, ohne dass die Diskrepanz in den Quellen taxonomisch aufgelöst wird).
+5. Menschen und Kultur in Kenia
+Die Interaktion zwischen Menschen und Treiberameisen in Ostafrika ist vielschichtig und umfasst medizinische und diätetische Nutzung, historische Konflikte in der Landwirtschaft sowie Bestandskrisen durch Lebensraumverlust.
+Medizinische und praktische Nutzung: Wie in Abschnitt 3 erläutert, dienen die Soldaten von Dorylus indigenen Gemeinschaften als improvisiertes chirurgisches Nahtmaterial. Die Köpfe der Tiere verklammern Wundränder, während das Chitin die Wundheilung fördert22. (Status: überliefert und ethnomedizinisch dokumentiert). Eine weitere traditionelle Nutzung ist die Schädlingsbekämpfung: Historisch und vereinzelt bis heute werden Treiberameisen von Landwirten genutzt oder in Siedlungen toleriert, da heranziehende Schwärme Ratten, Termiten und andere Schädlinge in kurzer Zeit aus Vorratsspeichern und Hütten vertreiben17.
+Nahrung: Die flugfähigen Männchen der Treiberameisen weisen ein hohes Körpervolumen und Fettspeicher für die Paarungsflüge auf. In verschiedenen Teilen Afrikas werden sie unter der Bezeichnung "Wurstfliegen" als eiweißreiche Nahrung gesammelt und verzehrt2. Zwar konsumieren Gemeinschaften in Kenia (wie die Luo) auch andere Ameisen wie Carebara vidua17, der Konsum von Dorylus-Männchen lässt sich jedoch keiner der spezifischen entlang der Route ansässigen Gemeinschaften (Kikuyu, Maa, Samburu) regional exakt zuordnen.
+Konflikte mit Menschen (Landwirtschaft und Imkerei): Für Imker in Ostafrika stellen Dorylus-Kolonien eine erhebliche ökonomische Bedrohung dar. Eine einzige Kolonie ist in der Lage, innerhalb einer Nacht 20 bis 30 Honigbienenstöcke restlos zu plündern34. Die Ameisen greifen nicht nur über die Bodenoberfläche an, sondern graben unterirdische Tunnel in die Bienenstöcke (Apiarien). Ist der Eintritt gewährt, werden Wächterbienen getötet und die gesamte Brut sowie der Honigvorrat abtransportiert34. Als Gegenmaßnahme sind Imker im tropischen Afrika gezwungen, traditionelle Bienenstöcke an Drähten in die Äste von Bäumen zu hängen. Selbst dann lassen sich die Ameisen teils von darüber liegenden Ästen auf die Stöcke fallen34. Alternativ wird in afrikanischen Regionen mit biologischer Schädlingsbekämpfung experimentiert, indem Nester der asiatischen Knotenameise (Crematogaster chiarinii) um die Bienenstöcke herum angesiedelt werden, da diese Dorylus quadratus aggressiv abwehren34. Zudem gelten Arten wie Dorylus laevigatus in landwirtschaftlich geprägten Gebieten (z.B. in Nordthailand nachgewiesen, ökologisch aber auf Kenia übertragbar) als Schädlinge, da sie sich unterirdisch in die Wurzeln von Pak Choi (Brassica chinensis L.), Rettich (Raphanus sativus L.) und Erdnüssen (Arachis hypogaea L.) einbohren, was zu Ernteausfällen führt35. (Status: gesichert).
+Schutzstatus und Bestandszahlen (Historisches Ereignis): Trotz ihrer immensen Koloniegrößen reagieren Treiberameisen extrem sensibel auf die Zerstückelung von Waldgebieten (Habitatfragmentierung). Eine umfassende Studie zur Bestandsentwicklung von Dorylus wilverthi im westlichen Kenia (Kakamega-Region) belegte einen dramatischen Populationsrückgang. Unter Anwendung historischer und rezenter Waldflächendaten in mathematischen Modellen (PHDM) wurde nachgewiesen, dass die Koloniezahl zwischen 1913 und 2003 um 52 % geschrumpft ist33. (Status: errechnet aus Modellierungsdaten, 2009 veröffentlicht).
+Jahr / Szenario
+	Geschätzte Anzahl an Kolonien (D. wilverthi West-Kenia)
+
+1913 (Historischer Stand)
+	2.801 Kolonien
+
+2003 (Modellierter Stand)
+	1.346 Kolonien
+
+Worst-Case-Szenario (Wald nur auf Schutzgebiete reduziert)
+	Unter 300 Kolonien
+Wissenschaftler mahnen an, dass bei einem Fall der Population auf unter 300 Kolonien das langfristige Überleben dieser ökologischen Schlüsselart (Keystone-Spezies) in Kenia nicht mehr gewährleistet ist, weshalb ein strikter Schutz der verbleibenden Waldflächen gefordert wird33. In der IUCN Red List werden einzelne Arten, wie Dorylus labiatus in Asien, bereits als potenziell stark gefährdet gelistet, während afrikanische Populationen (wie D. helvolus) aufgrund fehlender globaler Datensätze teilweise als "Data Deficient" (unzureichende Datenlage) klassifiziert sind38.
+6. Wissenschaftsgeschichte
+Die Gattung Dorylus blickt auf eine lange Forschungsgeschichte zurück, die von taxonomischen Missverständnissen bis hin zu bahnbrechenden genetischen Entdeckungen reicht.
+1764: Der schwedische Naturforscher Carl von Linné beschrieb das erste Individuum der Gattung. Da er lediglich ein flugfähiges, wespenähnliches Männchen vorliegen hatte, ordnete er das Insekt fälschlicherweise der Gattung der Faltenwespen zu und nannte es Vespa helvola (heute: Dorylus helvolus)2.
+1793: Der dänische Entomologe Johan Christian Fabricius erkannte die morphologische Eigenständigkeit und beschrieb die Gattung Dorylus erstmals formell1.
+1859: Der deutsche Zoologe Adolph Gerstäcker publizierte in den "Monatsberichten der Königlichen Preussische Akademie des Wissenschaften zu Berlin" die Erstbeschreibung der in Kenia vorherrschenden Art Dorylus molestus11.
+2004–2010: Die Forscher Daniel Kronauer und Caspar Schöning leiteten am Mount Kenya sowie im Kakamega Forest Feldforschungen und veröffentlichten bahnbrechende genetische Analysen. Sie dokumentierten erstmals die extreme Polyandrie (effektive Paarungsrate von 17,5) sowie die exakten Migrationsmuster (Patch-Use) und Koloniefusionen nach dem Verlust der Königin2.
+2011 (Kontroverse Studie zur Hybridisierung): Kronauer, Schöning und ihr Team veröffentlichten in der Fachzeitschrift Frontiers in Zoology eine Studie, die ein zentrales Dogma der Myrmekologie ins Wanken brachte. Sie wiesen mittels Mikrosatelliten-Markern und mtDNA nach, dass im Kakamega Forest kontinuierlicher Genfluss zwischen den Arten Dorylus molestus und Dorylus wilverthi stattfindet28. Da bei Ameisen die Arbeiterinnen bestimmen, welches Männchen sich mit der jungen Königin im Nest paaren darf, galt eine interspezifische Hybridisierung in diesem Ausmaß zuvor als unmöglich27.
+Die genetische Struktur der Treiberameisen in Kenia wurde in der Studie von 2011 durch spezifische Haplotypen dokumentiert. Die nachfolgende Tabelle zeigt einen Auszug der an der Route und im weiteren Kenia identifizierten Haplotypen für Dorylus molestus30.
+Haplotyp-Nr.
+	Art
+	Fundort in Kenia (Auswahl)
+	Anzahl der beprobten Kolonien
+
+3, 4, 5, 6, 7
+	D. molestus
+	Kakamega Forest
+	33
+
+8
+	D. molestus
+	Mt. Elgon / Kakamega
+	2
+
+9
+	D. molestus
+	Mt. Kenya (West)
+	1
+
+10 bis 17
+	D. molestus
+	Mt. Kenya (East)
+	29
+
+37
+	D. molestus
+	Ngong Hills
+	1
+(Hinweis: Dieser Datensatz der Studie belegt die genetische Diversität entlang der Route [Ngong Hills, Mount Kenya] und untermauert die Hybridisierungsthese30).
+7. Fotografie auf der Route
+Für die Dokumentation der Dorylus-Arten während des Reisezeitraums (24.09. bis 12.10.2026) gelten spezifische fotografische Parameter, bedingt durch das Verhalten der Insekten und die einsetzenden Regenfälle.
+Orte und Tageszeiten: Entlang der geplanten Route bieten Feucht- und Waldgebiete wie der Karura Forest, die Ngong Hills sowie Randzonen des Nairobi National Parks (insbesondere in der Nähe des Sheldrick Wildlife Trust) die höchste Wahrscheinlichkeit für Sichtungen. Da Hitze und Sonneneinstrahlung die Aktivität der Tiere an der Oberfläche unterdrücken, sind die frühen Morgenstunden (kurz nach Sonnenaufgang), die späte Dämmerung oder stark bewölkte, regnerische Tage die idealen Tageszeiten31.
+Welches Verhalten lohnt das Abwarten:
+Vogelindikatoren: Das Abwarten auf Ameisenvögel (insbesondere Arten wie Alethe poliocephala). Die Vögel folgen den Raubzügen geräuschvoll in der niederen Vegetation. Wo sich die Vögel auf Beute stürzen, befindet sich unmittelbar darunter die anrückende Ameisenfront20.
+Architektur der Bewegung: Es lohnt sich, an Kanten (Wurzeln, Steine, Wege) auszuharren, an denen sich der Raubzug in eine schmale Kolonne bündelt. Die großen Soldaten formieren sich an den äußeren Rändern der Kolonne, heben die Köpfe, öffnen die Mandibeln und bilden einen lebenden Tunnel, durch den die kleineren Arbeiterinnen Beute oder Brut tragen.
+Nestumbau: Da ein Umzug zwei bis drei Tage dauert, lassen sich hier Fließbewegungen dokumentieren, bei denen riesige Mengen an Bodenmaterial (bis zu 48,5 kg akkumuliert) oder weiße Larven transportiert werden31.
+Fluchtdistanz und typische Fehler: Es existiert keine Fluchtdistanz. Da die Arbeiterinnen vollständig blind sind2, reagieren sie nicht auf visuelle Reize wie das Herannahen eines Fotografen. Stattdessen nehmen sie Vibrationen und chemische Signale wahr2.
+Typischer Fehler: Das unbedachte Positionieren der Füße direkt in oder nahe der Zugstraße. Die Ameisen klettern geräuschlos die Beine hinauf. Bei Erreichen einer bestimmten Dichte oder ausgelöst durch Pheromone verbeißen sie sich synchron. Ihre Mandibeln durchdringen Kleidung und Haut schmerzhaft2. Ein sofortiges Entfernen aus der Zone ist zwingend.
+Kameraeinstellungen und Belastungswerte:
+Teleobjektive (100–400 mm & 150–600 mm): Diese Brennweiten sind essenziell, um Porträts der Soldaten (Mandibeln) oder das Verflechten der Körper (Biwak) auf Augenhöhe (aus Bauchlage oder Hocke) zu fotografieren, ohne in die kritische Angriffsdistanz der Schwärme eintreten zu müssen.
+Weitwinkel (26–60 mm & 45 mm): Eignen sich, um die immense Skalierung der Schwärme (Angriffsfronten von bis zu 20 Metern Breite) im Kontext des afrikanischen Waldbodens festzuhalten.
+Verschlusszeiten: Obwohl spezifische Laufgeschwindigkeiten für Dorylus molestus in der Literatur selten exakt quantifiziert sind, erreichen verwandte Dorylus-Arten (wie D. spininodis) an der Oberfläche Geschwindigkeiten von 8 bis 30 cm pro Sekunde41. Aufgrund dieser schnellen, ruckartigen Beinbewegungen und des Verwacklungsrisikos beim Einsatz der 600-mm-Brennweite sind kurze Verschlusszeiten zwingend erforderlich. Belastbare Richtwerte liegen bei 1/500 bis 1/1000 Sekunde oder kürzer, um Mandibeln und Beine bei der Jagd oder dem Transport gestochen scharf "einzufrieren" (Status: abgeleitet aus den Geschwindigkeitsdaten für Dorylus41 und fotografischen Standards).
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle:
+https://www.antweb.org/taxontreatments.do?rank=genus&name=dorylus Taxonomische Referenzdatenbank (finanziert durch die National Science Foundation), die extrem hochauflösende, wissenschaftliche Makrofotografien von Museumsexemplaren (wie Dorylus wilverthi und D. nigricans) inklusive Frontal- und Profilansichten bietet42.
+http://www.frontiersinzoology.com/content/8/1/20 Open-Access-Publikation (Kronauer et al., 2011) über die Aufsehen erregende Forschung zur Hybridisierung zwischen den Treiberameisen D. molestus und D. wilverthi in Ostafrika28.
+Fotos:
+https://www.inaturalist.org/observations/183751329 Citizen-Science-Beobachtung einer Ameise, die illustriert, wie extrem nah die Fotografie am Boden erfolgen muss (Beobachtungen dokumentieren das Verhalten und die Morphologie im echten Habitat)45.
+https://commons.wikimedia.org/wiki/Category:Dorylus Umfangreiche Sammlung von Fotografien und historischen Illustrationen zur Gattung Dorylus auf Wikimedia Commons1.
+Verbreitungskarte:
+https://www.gbif.org/taxon/47Y3 Verbreitungskarte und aggregierte Fundortdaten der Global Biodiversity Information Facility (GBIF), inklusive Synonymen und taxonomischer Historie der Gattung Dorylus7.
+Kultur oder Geschichte:
+https://www.iucnredlist.org Datenbank der IUCN, in der die Gefährdung von Arten global gelistet wird (hier sind Bestandsgefährdungen, wie der Verlust durch Entwaldung, für einige Dorylus-Vertreter einsehbar)33.
+9. Visuelle Beschreibung für eine Illustration
+The Dorylus soldier ant is characterized by a strikingly disproportionate morphology, possessing an elongated, cylindrical body entirely lacking functional eyes. Its most defining feature is a massive, heavily armored head, which accounts for a substantial fraction of its total volume, anchoring two formidable, scythe-like mandibles. These mandibles curve inward precisely, each equipped with a sharp apical point and a distinctly enlarged, jagged subapical tooth located midway along the inner edge. The insect’s exoskeleton exhibits a polished, hard texture with coloration ranging from deep amber to dark reddish-brown.
+Detailvorschläge:
+Mandibles: A close-up of the locked, sickle-shaped jaws showcasing the sharp subapical tooth used for gripping and piercing flesh.
+Architecture: The interlocking structure of a temporary subterranean bivouac, depicting thousands of worker bodies woven together to form a living wall.
+Physogastry: The immensely swollen, pale and segmented abdomen of the dichthadiigyn queen, stretching up to 52 millimeters during her peak egg-laying phase.
+Kulturelle Vignette:
+A traditional, hollowed-out wooden gourd or calabash, sealed with leaves, used historically by local farmers to transport live soldier ants for pest control inside granaries or dwellings.
+10. Was du nicht belegen konntest
+Folgende der abgefragten Details konnten durch die zur Verfügung gestellten wissenschaftlichen und historischen Quellen nicht belastbar belegt oder aufgeschlüsselt werden:
+Lokale Namen in Maa, Kikuyu, Samburu, Giriama und Kamba: In den bereitgestellten Quellen (z.B. ethnobiologische Studien14) wurden diese ethnischen Gruppen intensiv bezüglich der Nutzung von Heilpflanzen (z.B. durch die Kamba) und dem Konsum anderer Insekten (Carebara vidua) behandelt. Eine spezifische sprachliche Vokabel für Treiberameisen in den Sprachen dieser Gemeinschaften wurde in den Texten jedoch an keiner Stelle erwähnt. Der einzige durch die Literatur gesicherte regionale Name lautet "Siafu" (Swahili).
+Alltagsvergleiche für Insektenmaße (Handfläche, Unterarm, Türhöhe): Abgesehen von der Körperlänge der Königin (52 mm) und dem Trockengewicht der Arbeiterinnen (0,12 mg) lieferten die Quellen keine direkten Alltagsvergleiche für die Abmessungen einzelner Insekten. Die einzigen quantifizierbaren Alltagsvergleiche betrafen die Makroebene (Gesamtmasse der Kolonie = weiblicher Leopard, Nestdurchmesser = 1 Meter).
+Laufgeschwindigkeiten für Dorylus molestus: Exakte cm/s-Angaben für die in Kenia häufigste Art (D. molestus) fehlten in den Daten. Zwar wurden Bewegungsprofile für Termiten oder die lateinamerikanische Art Eciton hamatum angegeben, für Dorylus lag lediglich ein Messwert für die westafrikanische Art Dorylus spininodis (8 bis 30 cm/s) vor41, der in Abschnitt 7 für die Kameraeinstellungen adaptiert wurde.
+Referenzen
+Category:Dorylus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Dorylus?uselang=de
+Dorylus - Wikipedia, https://de.wikipedia.org/wiki/Dorylus
+Dorylinae - Wikipedia, https://en.wikipedia.org/wiki/Dorylinae
+Generic revision of the ant subfamily Dorylinae (Hymenoptera ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC4982377/
+(PDF) Generic revision of the ant subfamily Dorylinae (Hymenoptera, https://www.researchgate.net/publication/305891957_Generic_revision_of_the_ant_subfamily_Dorylinae_Hymenoptera_Formicidae
+Dorylus - Wikidata, https://www.wikidata.org/wiki/Q1352647
+Dorylus - GBIF, https://www.gbif.org/taxon/47Y3
+DORYLINE Definition & Meaning - Merriam-Webster, https://www.merriam-webster.com/dictionary/doryline
+Taxonomic revision of European Eudorylini (Insecta, Diptera, https://www.researchgate.net/profile/Christian_Kehlmaier/publication/257702933_Taxonomic_revision_of_European_Eudorylini_Insecta_Diptera_Pipunculidae/links/5be41429299bf1124fc34f8d/Taxonomic-revision-of-European-Eudorylini-Insecta-Diptera-Pipunculidae.pdf
+Hymenoptera - Summa Gallicana, https://www.summagallicana.it/Agassiz_nomenclator_zoologicus/Hymenoptera.htm
+Dorylus (English) - Mineralatlas Lexikon, https://www.mineralienatlas.de/lexikon/index.php/FossilData?lang=en&fossil=Dorylus
+Mineralatlas Lexikon - Dorylus, https://www.mineralienatlas.de/lexikon/index.php/FossilData?fossil=Dorylus
+Dorylus - Wikipedia, https://en.wikipedia.org/wiki/Dorylus
+Do you know the TRADITIONAL NAMES and Uses of Indigenous, https://www.youtube.com/watch?v=1gjUbcoUnvc
+Kamba people - AFRICA | 101 Last Tribes, https://www.101lasttribes.com/tribes/kamba.html
+Giriama people - Wikipedia, https://en.wikipedia.org/wiki/Giriama_people
+(PDF) Cultural aspects of ants, bees and wasps, and their products, https://www.researchgate.net/publication/349814072_Cultural_aspects_of_ants_bees_and_wasps_and_their_products_in_sub-Saharan_Africa
+Dorylus Fabricius 1793 - Plazi TreatmentBank, https://tb.plazi.org/GgServer/html/FB705FE0C721C3A393B51DD0057635C3
+Encyclopedia of Insects 0125869908, 9780125869904 - dokumen.pub, https://dokumen.pub/encyclopedia-of-insects-0125869908-9780125869904.html
+Influence of driver ant swarm raids on earthworm prey densities in, https://www.researchgate.net/publication/226449320_Influence_of_driver_ant_swarm_raids_on_earthworm_prey_densities_in_the_Mount_Kenya_forest_Implications_for_prey_population_dynamics_and_colony_migrations
+Cultural aspects of ants, bees and wasps and their products in sub, https://www.researchgate.net/publication/341983177_Cultural_aspects_of_ants_bees_and_wasps_and_their_products_in_sub-Saharan_Africa
+Army ants - Dorylus, Wildlife of Kenya, driver ants, safari ... - YouTube, https://www.youtube.com/watch?v=HuRemRonZRM
+Edible insects as a sustainable solution to food insecurity in conflict, https://brill.com/view/journals/jiff/11/13/article-p2267_3.pdf
+Journal of Ethnobiology and Ethnomedicine, https://d-nb.info/1109301391/34
+A review on Ethnomedicinal practices of insects in Assam, India, https://www.researchgate.net/publication/388628764_A_review_on_Ethnomedicinal_practices_of_insects_in_Assam_India
+Extreme queen-mating frequency and colony fission in African army, https://www.researchgate.net/publication/8464678_Extreme_queen-mating_frequency_and_colony_fission_in_African_army_ants
+Evolution of worker allometries in Dorylus army ants | Request PDF, https://www.researchgate.net/publication/253845240_Evolution_of_worker_allometries_in_Dorylus_army_ants
+Hybridization in East African swarm-raiding army ants - ResearchGate, https://www.researchgate.net/publication/51588238_Hybridization_in_East_African_swarm-raiding_army_ants
+Colony fusion and worker reproduction after queen loss in army ants, https://royalsocietypublishing.org/rspb/article/277/1682/755/73021/Colony-fusion-and-worker-reproduction-after-queen
+Hybridization in East African swarm-raiding army ants - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC3177866/
+Should I stay or should I go now? Patch use by African army ant, https://www.researchgate.net/publication/225758491_Should_I_stay_or_should_I_go_now_Patch_use_by_African_army_ant_colonies_in_relation_to_food_availability_and_predation
+Morphological variation among army ant populations. (A, https://www.researchgate.net/figure/Morphological-variation-among-army-ant-populations-A-Photographs-of-D-wilverthi_fig2_51588238
+Deforestation and the population decline of the army ant Dorylus, https://www.researchgate.net/publication/229924245_Deforestation_and_the_population_decline_of_the_army_ant_Dorylus_wilverthi_in_western_Kenya_over_the_last_century
+Crematogaster chiarinii ants as a potential biological control agent, https://www.researchgate.net/publication/261602704_Crematogaster_chiarinii_ants_as_a_potential_biological_control_agent_for_protecting_honeybee_colonies_from_attack_by_Dorylus_quadratus_driver_ants_in_Ethiopia_Hymenoptera_Formicidae
+The Diversity of Subterranean Dorylus Ants in the Agricultural, https://li01.tci-thaijo.org/index.php/tnh/article/view/261405
+Temporal and spatial patterns in the emigrations of the army ant, https://www.researchgate.net/publication/227797326_Temporal_and_spatial_patterns_in_the_emigrations_of_the_army_ant_Dorylus_Anomma_molestus_in_the_montane_forest_of_Mt_Kenya
+Flying ants often carry heavy abdomens packed with nutrient, https://www.researchgate.net/figure/Flying-ants-often-carry-heavy-abdomens-packed-with-nutrient-reserves-for-founding_fig3_323320638
+The National Red List 2012 of Sri Lanka, https://www.cea.lk/web/images/pdf/redlist2012.pdf
+The Ants (Hymenoptera, Formicidae) of Sri Lanka: a taxonomic, https://pmc.ncbi.nlm.nih.gov/articles/PMC7508952/
+Dorylus helvolus - GBIF, https://www.gbif.org/taxon/37FCG
+Synopsis of the Biological Data on the Leatherback Sea Turtle, https://www.widecast.org/Resources/Docs/Eckert%20KL%20et%20al%20(2012)%20Leatherback%20Sea%20Turtle%20Synopsis.pdf
+Datei:Dorylus helvolus casent0106079 profile 1.jpg - Wikipedia, https://de.wikipedia.org/wiki/Datei:Dorylus_helvolus_casent0106079_profile_1.jpg
+Taxonomic Classification of Ants (Formicidae) from Images using, https://www.biorxiv.org/content/10.1101/407452v1.full.pdf
+File:Dorylus nigricans casent0172642 profile 1.jpg, https://commons.wikimedia.org/wiki/File:Dorylus_nigricans_casent0172642_profile_1.jpg
+Differences in id quality and speed - iNaturalist Community Forum, https://forum.inaturalist.org/t/differences-in-id-quality-and-speed/45694
+Driver Ant (Dorylus helvolus) — Insects | DailyNatureDive, https://www.dailynaturedive.com/animal/insects/driver-ant

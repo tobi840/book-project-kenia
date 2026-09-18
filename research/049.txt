@@ -1,0 +1,193 @@
+Strukturiertes Rohmaterial: Orycteropus afer (Erdferkel) in Kenia
+1. Namen und Etymologie
+Die Nomenklatur der Art spiegelt historisch sowohl ihre anatomischen Besonderheiten als auch ihr Verbreitungsgebiet wider. Der Status der nachfolgenden Namenszuweisungen und Etymologien ist, sofern nicht anders markiert, gesichert.
+
+Kategorie
+	Name / Bezeichnung
+	Sprache
+	Wörtliche Bedeutung
+
+Wissenschaftlicher Artname
+	Orycteropus afer (Pallas, 1766)
+	Latein / Griechisch
+	„Grabfuß Afrikas“1
+
+Gattungsname
+	Orycteropus
+	Griechisch
+	Abgeleitet von orykteropous (grabender Fuß / Grabfuß)1
+
+Art-Epitheton
+	afer
+	Latein
+	„Aus Afrika“ / „Afrika betreffend“1
+
+Ordnung
+	Tubulidentata (Huxley, 1872)
+	Latein
+	„Röhrenzähner“ (tubulus = kleine Röhre, dens = Zahn)2
+
+Familie
+	Orycteropodidae (J. E. Gray, 1821)
+	Latein / Griechisch
+	Systematische Ableitung des Gattungsnamens5
+
+Deutscher Name
+	Erdferkel
+	Deutsch
+	Sinngemäße Übertragung der afrikaansen Bedeutung5
+
+Englischer Name
+	Aardvark
+	Afrikaans
+	„Erdschwein“ / „Bodenschwein“ (aarde = Erde, vark = Schwein)2
+
+Swahili
+	Mhanga (auch: Kukukifuku, Fundi-Mchanga)
+	Swahili
+	Unbekannt (etymologischer Ursprung in den Quellen nicht belegt)9
+
+Kikuyu
+	Nyama (auch: Ngari, Njagĩ)
+	Kikuyu
+	Nyama bedeutet primär „Fleisch“, wird aber als Tiername gelistet11
+Es ist gesichert, dass die heute im Englischen gebräuchliche Bezeichnung „Aardvark“ auf die ursprünglich afrikaanse Form erdvark zurückgeht, welche die grabende Lebensweise und die schweineähnliche Physis des Tieres beschreibt2. Alternative, vorwiegend historisch oder umgangssprachlich belegte englische Bezeichnungen umfassen „African ant bear“, „anteater“ und „Cape anteater“1.
+2. Erscheinung, mit Maßen
+Die morphologischen Merkmale des Erdferkels weisen keinen gesicherten Sexualdimorphismus auf; Männchen und Weibchen unterscheiden sich äußerlich nicht signifikant2. Das Tier stellt den größten rezenten Vertreter der Klade Afroinsectiphilia dar2.
+
+Maß / Merkmal
+	Wert / Spanne
+	Status und Anmerkungen
+
+Körperlänge (ohne Schwanz)
+	1,05 m bis 1,30 m
+	Gesichert1
+
+Körperlänge (mit Schwanz)
+	Bis zu 2,20 m
+	Gesichert1
+
+Schwanzlänge
+	Bis zu 0,70 m
+	Gesichert; an der Basis verdickt, fleischig2
+
+Schulterhöhe
+	0,60 m
+	Gesichert2
+
+Körperumfang
+	ca. 1,00 m
+	Gesichert2
+
+Körpergewicht (Spannen-Widerspruch)
+	60 kg bis 80 kg vs. 40 kg bis 65 kg
+	Umstritten: Quellen nennen abweichende Spannen für adulte Tiere1
+
+Geburtsgewicht
+	ca. 2 kg
+	Gesichert8
+
+Ohrenlänge
+	Bis zu 0,24 m
+	Gesichert; röhrenförmig1
+
+Zungenlänge
+	Bis zu 0,30 m
+	Gesichert; schlangenartig, dünn2
+
+Hinterfußlänge
+	0,225 m bis 0,29 m
+	Gesichert5
+
+Haarlänge an den Beinen
+	ca. 0,04 m
+	Gesichert; deutlich länger als am restlichen Körper5
+Das physische Erscheinungsbild ist durch konvergente Evolution geprägt, da das Tier ökologische Nischen besetzt, die in anderen Weltregionen von nicht verwandten Arten eingenommen werden. Der Leib ist massig gebaut und durch einen markant aufgewölbten Rücken charakterisiert, der in einen muskulösen, känguruähnlichen Schwanz übergeht1. Die Gliedmaßen sind kräftig, wobei die Hinterbeine eine größere Länge als die Vorderbeine aufweisen1. Der Kopf ist langgestreckt und verjüngt sich zu einer röhrenförmigen, schweineähnlichen Schnauze, an deren Ende sich eine weiche, flexible Nase mit einer kleinen Mundöffnung befindet2.
+Die Haut des Erdferkels ist blass gelblich-grau, wird jedoch in der Praxis meist durch die Erde des jeweiligen Lebensraums rötlich-braun eingefärbt1. Das Gesicht und die Schwanzspitze können eine weißliche Färbung aufweisen8. Die Haut ist dick und verfügt über keinerlei subkutanes Fettgewebe; sie dient als primärer physischer Schutz vor Sonneneinstrahlung und den Bissen der staatenbildenden Insekten1. Die Behaarung ist auf dem Großteil des Rumpfes spärlich und tritt überwiegend in asymmetrischen Büscheln von drei bis vier Haaren auf, während Beine und Füße eine dichtere Behaarung aufweisen2.
+Der Skelettapparat weist tiefgreifende anatomische Anpassungen an die grabende Lebensweise (Fossorialität) auf. Das Schlüsselbein ist kräftig und stark gebogen5. An den Langknochen der Extremitäten befinden sich ausgeprägte, erhabene Leisten, die als erweiterte Muskelansatzstellen für die massive Grabmuskulatur dienen5. Die vorderen Extremitäten besitzen vier, die hinteren fünf Strahlen, welche jeweils durch kleine Flughäute oder Schwimmhäute verbunden sind und in massiven, spatenförmigen Krallen enden1. Die Wirbelsäule setzt sich aus 7 Hals-, 13 Brust-, 8 Lenden-, 6 Kreuzbein- (bei noch nicht ausgewachsenen Tieren 5) und 25 bis 28 Schwanzwirbeln zusammen5.
+3. Der Mechanismus
+Das definierende biologische Prinzip, das diese Art als einzigen rezenten Vertreter der Ordnung Tubulidentata taxonomisch isoliert, ist die namengebende Mikrostruktur der Zähne2.
+Die ökologische Kausalkette, die zu dieser evolutionären Entwicklung führte, ist gesichert und verläuft wie folgt: Das Erdferkel ist ein hochspezialisierter Myrmekophage, dessen Nahrung fast exklusiv aus Ameisen und Termiten besteht5. Um diese aus den harten Bauten zu extrahieren, nutzt es seine bis zu 0,30 m lange, von klebrigem Speichel überzogene Zunge2. Bei dieser Methode der Nahrungsaufnahme werden zwangsläufig erhebliche Mengen an Sand und Erde (Bodenpartikeln) mit den Insekten aufgenommen4. Die ständige Präsenz von Silikaten und Sand im Mundraum führt zu einer extremen mechanischen Abrasion (Abrieb) der Zähne4.
+Als evolutionäre Antwort auf diesen permanenten Verschleiß hat die Art unbewurzelte, sich kontinuierlich abnutzende und permanent nachwachsende Zähne entwickelt (Hypselodontie)6. Der strukturelle Aufbau dieser Zähne weicht fundamental von dem anderer Säugetiere ab: Den Zähnen fehlt jeglicher Zahnschmelz6. Sie bestehen stattdessen aus einer Vielzahl mikroskopischer, sechseckiger Dentinröhrchen (Tubuli), die säulenartig aneinander gebunden und durch Zahnzement zusammengehalten werden8. Ein adultes Tier besitzt weder Schneide- noch Eckzähne, sondern ausschließlich 20 bis 22 stiftförmige Backenzähne (Prämolaren und Molaren) im hinteren Kieferbereich6. Das Gebiss ist diphyodont angelegt, jedoch fallen die rudimentären Milchzähne bereits vor der Geburt im Mutterleib aus6.
+Um die mangelnde mechanische Zerkleinerungsfähigkeit des Gebisses zu kompensieren, wurde ein weiterer Teil des Verdauungsmechanismus in den Magen verlagert. Der Pylorus-Bereich des Magens ist stark muskulös und agiert als Muskelmagen (ähnlich dem Muskelmagen von Vögeln), der die unzerkaute Nahrung mithilfe der aufgenommenen Sandpartikel zermahlt, wodurch ein intensives Kauen obsolet wird2.
+Parallel zur Modifikation des Verdauungstraktes entwickelte sich ein hochkomplexer olfaktorischer Mechanismus. Der Schädel des Erdferkels enthält mehr knöcherne Nasenmuscheln (Turbinalia) als bei jedem anderen bekannten Säugetier2. Diese anatomische Besonderheit maximiert die Oberfläche für das olfaktorische Epithel und optimiert die Analyse von Geruchsmolekülen, was das essenzielle biologische Werkzeug darstellt, um Insektennester im Dunkeln und unter der Erdoberfläche aufzuspüren2. Während des Grabens greift ein weiterer Schutzmechanismus: Borstenartige Haare an der Schnauze fungieren als Filter, und die schlitzförmigen Nasenlöcher können aktiv und vollständig verschlossen werden, um das Einatmen von Staub und Erde zu verhindern1.
+4. Ökologie und Verhalten
+Lebensraum und Fortpflanzung: Erdferkel bewohnen ein weites Spektrum an Habitaten in Subsahara-Afrika, darunter Savannen, Buschland, Halbwüsten sowie offene und geschlossene Waldgebiete1. Sie meiden lediglich Gebiete, in denen das Graben unmöglich ist, konkret felsige und steinige Regionen sowie Küsten- und Sumpfwälder mit hohem Grundwasserspiegel1. Ihre topografische Toleranz reicht von Meereshöhe bis zu dokumentierten 3.200 m in Äthiopien1.
+Die Art lebt territorial und strikt einzelgängerisch. Interaktionen zwischen den Geschlechtern finden ausschließlich während der Paarungszeit statt (polygynes System)1. Die Kommunikation ist primär olfaktorisch: Beide Geschlechter verfügen über Analdrüsen, jedoch sondern Männchen zusätzlich Moschus aus Genitaldrüsen ab, während Weibchen diesen spezifischen Duftstoff in Drüsen an den Ellenbogen produzieren2. Nach einer Tragzeit von etwa sieben Monaten (213 Tagen) wird in der Regenzeit ein einzelnes Jungtier mit einem Gewicht von etwa 2 kg geboren7. Das Jungtier verlässt den Bau erstmals nach zwei Wochen, beginnt in der 14. Woche Termiten zu fressen, wird mit 16 Wochen entwöhnt und verlässt das Revier der Mutter vor Ablauf des ersten Lebensjahres8.
+Nahrung und Symbiose: In einer einzigen Nacht kann ein Erdferkel bis zu 50.000 Insekten aufnehmen15. Neben Ameisen und Termiten existiert eine belegte symbiotische Beziehung zu einer einzigen Pflanzenart: der sogenannten Erdferkel-Gurke (Cucumis humifructus). Die Tiere verzehren diese Früchte, um ihren Wasserbedarf zu decken, und scheiden die Samen anschließend in ihren unterirdischen Bauten aus, wodurch sie die Ausbreitung der Pflanze sichern4.
+Saisonale Muster und Verhaltensänderung (Kenia, Ende September / Anfang Oktober): Regulär sind Erdferkel nachtaktiv (dieler Zyklus) und legen bei der Nahrungssuche jede Nacht zwischen 2 km und 5 km zurück2. Der Reisezeitraum (24.09. bis 12.10.) fällt in Kenia auf das Ende der langen Trockenzeit und den potenziellen Beginn der kleinen Regenzeit. Wenn diese Trockenzeit in eine ausgeprägte Dürre übergeht, greift ein gravierender, dokumentierter Anpassungsmechanismus: Durch die abnehmende Bodenfeuchtigkeit sinkt die Aktivität und Reproduktion der unterirdischen Insekten drastisch, was zu einem akuten Nahrungsmangel für das Erdferkel führt23. Um unter diesen Umständen den Energieverbrauch für die Thermoregulation in kalten Nächten zu senken, ändern die Tiere ihr Verhaltensmuster vollständig: Sie wechseln von der Nachtaktivität zur Tagaktivität (diurnaler Shift) und verkürzen ihre aktiven Phasen um rund ein Viertel23. Physiologisch geht dieser Zustand mit einer extremen Heterothermie einher. Während die Körpertemperatur normalerweise homöotherm zwischen 35,4 °C und 37,2 °C reguliert wird, fällt die 24-Stunden-Minimaltemperatur bei energetischer Unterversorgung drastisch ab. Bei verhungernden Tieren in Dürreperioden wurden Körpertemperaturen von bis zu 25,0 °C gemessen, von denen sich die Individuen meist nicht mehr erholen23. Im angegebenen Reisezeitraum ist auf der Route bei ausbleibendem Niederschlag somit potenziell mit geschwächten, tagaktiven Erdferkeln zu rechnen.
+Die Unterwelt-Infrastruktur (Ecosystem Engineer): Das Erdferkel ist der maßgebliche primäre Ausgräber der Savanne und agiert als "Ecosystem Engineer" (Ökosystem-Ingenieur)3. Aufgrund ihrer muskulösen Gliedmaßen und Krallen können sie innerhalb von nur 15 Sekunden einen 0,60 m tiefen Bau graben16. Verlassene Erdferkelbaue bilden ein essenzielles Mikrohabitat, das die Bodentemperatur, Luftfeuchtigkeit und Vegetation (Samenverteilung) der Umgebung moduliert25. Diese Infrastruktur wird von einer Vielzahl anderer Spezies als Zufluchtsort vor Raubtieren, zur Thermoregulation oder als Aufzuchtort zwingend benötigt. Zu diesen Sekundärnutzern gehören der Afrikanische Wildhund (Lycaon pictus), die Tüpfelhyäne (Crocuta crocuta), Stachelschweine (Hystrix africaeaustralis), Warzenschweine, Afrikanische Wildkatzen, Warane, Pythons sowie die seltene Blauschwalbe7. Kamerastudien auf landwirtschaftlichen Flächen belegen zudem, dass die Präsenz von Wildtieren an diesen Bauten teilweise positiv mit der Anwesenheit von Nutztieren wie Schafen oder Rindern korreliert, da die Bauten in strukturell veränderten Landschaften an Bedeutung gewinnen27.
+5. Menschen und Kultur in Kenia
+Nutzung und Konflikte: Auf der Roten Liste der IUCN wird der globale Erhaltungszustand des Erdferkels als "Least Concern" (Nicht gefährdet, Einstufung dokumentiert für 2014) geführt7. Eine exakte globale oder auf Kenia bezogene Bestandszahl liegt der Wissenschaft nicht vor. Dichteschätzungen existieren lediglich für isolierte Habitate (z.B. acht Tiere pro 1.000 Hektar in der südafrikanischen Karoo, erhoben durch Taylor & Skinner 2003)1. Trotz des Status als nicht gefährdet verzeichnen lokale Populationen Rückgänge7. Konflikte mit Menschen resultieren vorwiegend aus der Ausdehnung landwirtschaftlicher Flächen, bei der Erdferkel fälschlicherweise als Ernteschädlinge betrachtet und verfolgt werden21. Zudem wird das Tier in verschiedenen Regionen Subsahara-Afrikas stark als Nahrungsquelle (Bushmeat) gejagt7.
+Kultur und Mythologie: Überlieferungen, Mythen oder spezifische Rituale der Gemeinschaften entlang der kenianischen Route (Kikuyu, Samburu, Maasai) sind in den vorliegenden Quellen nicht dokumentiert (siehe Abschnitt 10). Die einzige historisch überlieferte mythologische Verknüpfung aus dem afrikanischen Raum stammt aus der ägyptischen Antike: In der Ägyptologie wird das Erdferkel als eine der anfänglichen tierischen Manifestationen der Gottheit Seth (Set) interpretiert (dokumentiert u.a. in der Zeitschrift für Ägyptische Sprache und Altertumskunde)31.
+6. Wissenschaftsgeschichte
+Die Nomenklatur und systematische Einordnung des Erdferkels sind von historischen Missverständnissen und Kontroversen geprägt.
+Entdeckung und Ordnung: Die Art wurde im Jahr 1766 von dem Zoologen Peter Simon Pallas anhand von Exemplaren vom Kap der Guten Hoffnung beschrieben3. Pallas ordnete das Tier aufgrund morphologischer Konvergenzen fälschlicherweise den Ameisenbären zu und gab ihm den Namen Myrmecophaga afra6. 1788 folgte eine weitere Beschreibung durch Johann Friedrich Gmelin als Myrmecophaga capensis30. Erst die mikroskopische Analyse der Zähne offenbarte, dass das Erdferkel in keiner evolutionären Verbindung zu den südamerikanischen Zahnarmen (Edentata) steht. Dies führte dazu, dass der Biologe Thomas Henry Huxley im Jahr 1872 die separate, monotypische Ordnung Tubulidentata etablierte5. Molekulargenetische Studien des späten 20. Jahrhunderts bestätigten diese Trennung und ordneten das Erdferkel der Überordnung Afrotheria zu (nächste lebende Verwandte sind Rüsselspringer, Tenreks und Goldmulle)2.
+Kontroverse um die Erstbeschreibung (Geoffroy Saint-Hilaire vs. Cuvier): Um die Urheberschaft des Gattungsnamens Orycteropus existierte eine langanhaltende Kontroverse (gesichert). Bis ins 21. Jahrhundert wurde der Name in Standardwerken fälschlicherweise dem Naturforscher Georges Cuvier (1798) oder anderen Autoren zugeschrieben33. Studien des Paläontologen Thomas Lehmann (ab 2007) und des Zoologen Neal Woodman (2021) belegten jedoch abschließend, dass Étienne Geoffroy Saint-Hilaire den Namen bereits 1796 in der Publikation Bulletin de la Société Philomatique geprägt hatte33. Die historische Konfusion entstand, da Geoffroy Saint-Hilaire seine Originalbeschreibung mehrfach republizierte, ohne seine Urheberschaft in zeitgenössischen Verzeichnissen eindeutig zu dokumentieren33.
+Paläontologische Historie in Kenia: Der Paläontologe Bryan Patterson datierte das erste Auftreten früher Verwandter (möglicherweise aus der Klade der Ptolemaiida) auf das Ende des Paläozäns2. Der erste unbestrittene Röhrenzähner wurde durch Donald MacInnes (1955/1956) in miozänen Ablagerungen in Kenia entdeckt und als Myorycteropus africanus klassifiziert2. Aus dem Plio-Pleistozän Kenias sind zudem Fossilien bekannt, die ursprünglich als Orycteropus crassidens beschrieben wurden. Eine Studie von Lehmann et al. (2008) korrigierte dies und bewies, dass die kenianischen Funde stattdessen der Art O. djourabensis zuzuordnen sind, was die erste kontinentale Ausbreitung dieser Art belegt36.
+7. Fotografie
+Standorte auf der Route: Die Art ist entlang der geplanten Route im Laikipia-County, im Mpala Research Centre sowie im Ol Pejeta Conservancy beheimatet27. Neueste Kamerafallenstudien belegen die Präsenz der Tiere zudem auf Steigungen des Mount Kenya (bis auf über 2.300 m)37.
+Tageszeit und Verhalten: Unter normalen klimatischen Bedingungen sind Erdferkel strikt nachtaktiv2. Das Abwarten empfiehlt sich in der Dämmerung an frischen Bau-Eingängen. Ein gesichertes Verhaltensmuster, das Fotografen nutzen können: Bevor ein Erdferkel seinen Bau verlässt, verharrt es für exakt etwa zehn Minuten am Eingang, um die Umgebung ausgiebig olfaktorisch und akustisch zu prüfen1. Tritt jedoch Ende September / Anfang Oktober die beschriebene Dürresituation auf, verschiebt sich die Aktivität in die Tagesstunden, was Beobachtungen bei Tageslicht ermöglicht23.
+Fluchtdistanz und Fehler: Das Sehvermögen der Art ist rudimentär, der Geruchs- und Gehörsinn hingegen überragend4. Der häufigste Fehler ist eine laute Annäherung oder eine Positionierung, bei der der Wind die menschliche Witterung zum Tier trägt4. Erfolgt die Annäherung völlig lautlos und gegen den Wind, kann die Fluchtdistanz extrem gering ausfallen, da die Tiere während der Nahrungsaufnahme hochgradig fokussiert sind4. Bei Störung erfolgt die Flucht explosiv: Das Tier flüchtet entweder in Sekundenbruchteilen in den Bau oder legt oberirdisch innerhalb von Sekunden 10 Meter zurück1. Wenn in die Enge getrieben, wehren sie sich aggressiv mit ihren Grabkrallen17.
+Ausrüstung:
+Die Teleobjektive mit 100 bis 400 mm sowie 150 bis 600 mm eignen sich primär, um die zehnminütige Wachsamkeitsphase am Bau aus der Distanz festzuhalten, ohne den olfaktorischen Radius des Tieres zu verletzen. Nähert sich ein nahrungssuchendes Tier im Dunkeln der eigenen Position, kommen die lichtstarken Objektive (45 mm oder 26 bis 60 mm) zum Einsatz. Da die Tiere nach der Ruhepause ruckartig aus dem Bau springen, sind bei diesen Lichtverhältnissen hohe ISO-Werte zwingend erforderlich, um kurze Verschlusszeiten zu erzielen (siehe Lücken in Abschnitt 10 zu exakten Millisekunden-Werten).
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+https://www.iucnredlist.org/species/41504/21286437Offizieller Eintrag der IUCN Red List, der den Gefährdungsstatus (Least Concern) und allgemeine Bestandsinformationen für Orycteropus afer dokumentiert.27
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11004549/Wissenschaftliche Publikation (2024) über eine umfangreiche Kamerafallenstudie, die das Vorkommen des Erdferkels in der Laikipia-Region und am Westhang des Mt. Kenya nachweist.37
+https://www.researchgate.net/publication/357129252_Whence_Orycteropus_The_correct_authorship_and_date_for_the_generic_name_of_the_aardvark_Mammalia_Tubulidentata_OrycteropodidaeFachartikel des Zoologen Neal Woodman (2021), der die komplexe publikationshistorische Kontroverse um die Gattung Orycteropus auflöst.33
+Verbreitungskarte / Taxonomie:
+https://www.gbif.org/taxon/74ZNFTaxonomisches Kernprofil der Global Biodiversity Information Facility (GBIF) mit Auflistung aller Typusexemplare, Synonyme und globalen Verbreitungsdaten.39
+9. Visuelle Beschreibung für eine Illustration
+The aardvark exhibits a remarkably robust and hunched profile, featuring a prominently arched back that slopes steeply down towards thick, muscular hind legs and somewhat shorter front limbs. Its body is covered in a sparse, pale yellowish-grey coat that tends to group in small, asymmetrical clusters of three or four coarse hairs, which are frequently stained the reddish-brown hue of the local savanna soil. The elongated, tubular head tapers down to a distinctively flexible, pig-like snout terminating in a disc housing the nostrils, offset by very large, upright, rabbit-like ears that can fold backwards to prevent dirt ingress.
+Detail 1: A close-up of the spade-like front feet, displaying four strong, heavy claws joined by a small web of skin, designed for rapid soil excavation.
+Detail 2: A longitudinal cross-section of a molar, revealing the complete lack of enamel and the dense, geometric bundle of microscopic, hexagonal dentine tubules.
+Detail 3: The tip of the elongated snout with its slit-like nostrils tightly squeezed shut, surrounded by stiff, bristle-like vibrissae that filter out the dust.
+Cultural Vignette: An abstract silhouette in the background showing the ancient Egyptian deity Set, emphasizing the distinct, upright, square-tipped ears and arched back that link the mythological figure to the aardvark's characteristic anatomy.
+10. Was du nicht belegen konntest
+Die folgenden, spezifisch im Prompt angefragten Parameter konnten aus den zur Verfügung gestellten strukturierten Rohdaten nicht oder nicht ausreichend belegt werden:
+Lokale Namen (Bedeutung und Vollständigkeit): Während der Kikuyu-Name (Nyama) und der Swahili-Name (Mhanga) identifiziert wurden, fehlen in den Quellen wörtliche Übersetzungen für das Swahili-Wort. Für die Sprachen Maa (Maasai), Samburu, Giriama und Kamba sind in den Snippets keine konkreten Begriffe (bzw. bei Maa nur ein vager Hinweis auf die Existenz eines Namens) und keine etymologischen Bedeutungen dokumentiert.
+Verschlusszeiten für die Fotografie: Es gibt keine belastbaren Richtwerte (in Bruchteilen von Sekunden), die für das Einfrieren der Bewegung beim Graben oder Flüchten in der Dämmerung empfohlen werden.
+Mythos und Sprichwort in Kenia: Regional auf Kenia begrenzte Mythen, Legenden, Rituale oder historische Ereignisse in Bezug auf das Erdferkel sind in den Quellen nicht vorhanden. Der einzige überlieferte Mythos entstammt der ägyptischen Antike (Set).
+Audio / Tonaufnahme: Eine URL zu einer Tonaufnahme des Rufs (oder der dokumentierten grunzenden/blökenden Laute) ist in den bereitgestellten Daten nicht enthalten.
+Direkte Foto-Links: Verwiesene Links zu iNaturalist, Wikimedia Commons oder Flickr Commons, die direkt auf verwertbare Bilddateien des Erdferkels führen, fehlen; die vorhandenen Links verweisen auf übergeordnete taxonomische Seiten oder Fremdarten.
+Works cited
+Orycteropus afer - SANBI, https://www.sanbi.org/animal-of-the-week/orycteropus-afer/
+Aardvark - Wikipedia, https://en.wikipedia.org/wiki/Aardvark
+Pleistocene aardvark (Orycteropus afer) burrow traces on South, https://www.cambridge.org/core/journals/quaternary-research/article/pleistocene-aardvark-orycteropus-afer-burrow-traces-on-south-africas-cape-coast/E5E6C9ED7228B5E0B7C1E44762D2CB4B
+Page 13 - Africa Geographic, https://africageographic.com/page/13/?trips
+Erdferkel - Wikipedia, https://de.wikipedia.org/wiki/Erdferkel
+Orycteropodidae - Wikipedia, https://en.wikipedia.org/wiki/Orycteropodidae
+WildLife Aardvark - Facebook, https://www.facebook.com/groups/1396839053771838/posts/4349324351856612/
+Aardvark | Description, Diet, Habitat, & Facts - Britannica, https://www.britannica.com/animal/aardvark
+(PDF) Sengwer Trilingual Dictionary - ResearchGate, https://www.researchgate.net/publication/395349748_Sengwer_Trilingual_Dictionary
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6350106/
+Aardvark population decline in Kenya - Facebook, https://www.facebook.com/groups/kenyansforwildlife/posts/3416304501716460/
+Kikuyu entries with incorrect language header - njagĩ … nyamũga, https://kaikki.org/dictionary/Kikuyu/categories-other/VE/Kikuyu%20entries%20with%20incorrect%20language%20header/njag%C4%A9--nyam%C5%A9ga.html
+Gìkūyū Dictionary Digital | PDF | Language Arts & Discipline - Scribd, https://www.scribd.com/document/722735864/Gik%C5%ABy%C5%AB-Dictionary-Digital-Copy
+Timbuŋ - Dagbani Wikipedia, https://dag.wikipedia.org/wiki/Timbu%C5%8B
+The rarest of rare sight in the night!!! We were driving out ... - Facebook, https://www.facebook.com/Jokotta/posts/the-rarest-of-rare-sight-in-the-nightwe-were-driving-out-in-night-in-masai-mara-/1573228824815744/
+5 Interesting Facts about the Aardvark, https://www.bwindiugandagorillatrekking.com/5-interesting-facts-about-the-aardvark/
+Aardvark by Ognimdo2002 on DeviantArt, https://www.deviantart.com/ognimdo2002/art/Aardvark-1004194766
+Loss of teeth and enamel in tetrapods: fossil record, genetic data, https://pmc.ncbi.nlm.nih.gov/articles/PMC2736120/
+Aardvark Animal Facts - Orycteropus afer, https://a-z-animals.com/animals/aardvark/
+Defining management units for European captive aardvarks, https://www.uni-trier.de/fileadmin/fb6/prof/BIO/Hochkirch/Pohlov%C3%A1_et_al._2014_Zoo_Biol.pdf
+Südafrikanisches Stachelschwein - Animalia, https://animalia.bio/de/cape-porcupine
+Aardvark are one of the more curious looking animals that you may, https://www.facebook.com/Kariega.Game.Reserve/posts/aardvark-are-one-of-the-more-curious-looking-animals-that-you-may-encounter-on-a/1134608038696790/
+(PDF) Drought-induced starvation of aardvarks in the Kalahari, https://www.researchgate.net/publication/318570331_Drought-induced_starvation_of_aardvarks_in_the_Kalahari_An_indirect_effect_of_climate_change
+Temminck's pangolins relax the precision of body temperature, https://academic.oup.com/conphys/article/11/1/coad068/7252935
+Ecosystem engineering through aardvark (Orycteropus afer) burrowing, https://www.researchgate.net/publication/325111804_Ecosystem_engineering_through_aardvark_Orycteropus_afer_burrowing_Mechanisms_and_effects
+Aardvark Burrows: A Potential Resource for Animals in Arid and, https://www.researchgate.net/publication/232675135_Aardvark_Burrows_A_Potential_Resource_for_Animals_in_Arid_and_Semi-Arid_Environments
+The relationship between wildlife and livestock associated with, https://repository.up.ac.za/bitstreams/69259102-15cc-4f5f-a424-91f344aa51da/download
+Mesocarnivore diet in a human-dominated landscape with abundant, https://connectsci.au/wr/article/53/7/WR26008/274597/Mesocarnivore-diet-in-a-human-dominated-landscape
+Mesocarnivore diet in a human-dominated landscape with abundant, https://bioone.org/journals/wildlife-research/volume-53/issue-7/WR26008/Mesocarnivore-diet-in-a-human-dominated-landscape-with-abundant-livestock/10.1071/WR26008.full
+Orycteropus afer • Aardvark - Mammal Diversity Database, https://www.mammaldiversity.org/taxon/1000520/
+AARDVARK (ORYCTEROPUS AFER): THE INITIAL, https://dspace.cuni.cz/bitstream/handle/20.500.11956/210369/PES_suppl_2026_AARDVARK.pdf?sequence=1&isAllowed=y
+Myrmecophaga afra Pallas, 1766 - GBIF, https://www.gbif.org/taxon/DTCRT
+(PDF) Whence Orycteropus? The correct authorship and date for the, https://www.researchgate.net/publication/357129252_Whence_Orycteropus_The_correct_authorship_and_date_for_the_generic_name_of_the_aardvark_Mammalia_Tubulidentata_Orycteropodidae
+Whence Orycteropus? The correct authorship and date ... - USGS.gov, https://www.usgs.gov/publications/whence-orycteropus-correct-authorship-and-date-generic-name-aardvark-mammalia
+Mammalogy: Adaptation, Diversity, Ecology 9781421436524, https://dokumen.pub/mammalogy-adaptation-diversity-ecology-9781421436524-1421436523-9781421436531-1421436531.html
+Plio-Pleistocene aardvarks (Mammalia, Tubulidentata) from East Africa, https://fr.copernicus.org/articles/11/67/2008/
+Shifting mammal communities and declining species richness along, https://pmc.ncbi.nlm.nih.gov/articles/PMC11004549/
+Eye features and retinal photoreceptors of the nocturnal aardvark, https://pmc.ncbi.nlm.nih.gov/articles/PMC11932471/
+Orycteropus afer (Pallas, 1766) - GBIF, https://www.gbif.org/taxon/74ZNF

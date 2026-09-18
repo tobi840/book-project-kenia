@@ -1,0 +1,228 @@
+Forschungsbericht: Colobus guereza (Mantelaffe)
+1. Taxonomie, Nomenklatur und Etymologie
+Die taxonomische und linguistische Einordnung dieser Primatenart ist durch eine Vielzahl an lokalen und wissenschaftlichen Bezeichnungen geprägt. Die wissenschaftliche Erstbeschreibung der Art erfolgte im Jahr 1835 durch den deutschen Naturforscher Eduard Rüppell [gesichert; cite: 1, 2, 5]. Für das definierte Reisegebiet (Kenia Hochland, Nairobi) ist spezifisch die Unterart Colobus guereza kikuyuensis relevant, welche im Jahr 1912 von dem schwedischen Zoologen Einar Lönnberg beschrieben wurde [gesichert; cite: 85, 87, 140].
+Die Etymologie des lateinischen Binomens verweist auf morphologische und geografische Ursprünge. Der Gattungsname Colobus leitet sich von dem altgriechischen Wort „kolobós“ ab, was wörtlich übersetzt „verstümmelt“ bedeutet und sich anatomisch auf das Fehlen oder die extreme Reduzierung des Daumens bei diesen Primaten bezieht [gesichert; cite: 105, 245]. Das Artepitheton guereza ist kein klassisch lateinischer Begriff, sondern entstammt einer indigenen äthiopischen Bezeichnung für diesen Primaten [gesichert; cite: 105].
+Die internationalen und regionalen Trivialnamen dokumentieren die Wahrnehmung der Art in verschiedenen Sprachräumen:
+
+Sprache
+	Trivialname
+	Bedeutung / Bemerkung
+	Status
+	Quellen
+
+Deutsch
+	Mantelaffe, Guereza
+	Beschreibend für die u-förmige, weiße Fellzeichnung am Rücken.
+	gesichert
+	1
+
+Englisch
+	Mantled guereza, Eastern black-and-white colobus, Magistrate colobus
+	Beschreibend für das Erscheinungsbild.
+	gesichert
+	1
+
+Swahili
+	Mbega, Mbega mweupe kaskazi
+	Wörtliche Bedeutung unbekannt.
+	gesichert
+	4
+
+Maa
+	ol-koroi, ol-koroi karraw
+	Wörtliche Bedeutung unbekannt.
+	gesichert
+	5
+
+Kamba
+	mbalu
+	Wörtliche Bedeutung unbekannt.
+	gesichert
+	6
+
+Kalenjin / Nandi
+	koroiit
+	Wörtliche Bedeutung unbekannt.
+	gesichert
+	8
+
+Dinka
+	Agaŋrial
+	Wörtliche Bedeutung unbekannt.
+	gesichert
+	1
+
+Luganda
+	Mantled guereza
+	Direktes Lehnwort aus dem Englischen.
+	gesichert
+	1
+In den vorliegenden Quellen konnten für die Sprachen Giriama, Samburu und Kikuyu keine belegten, artspezifischen lokalen Bezeichnungen für Colobus guereza extrahiert werden (siehe Abschnitt 10).
+2. Erscheinungsbild und morphologische Metriken
+Colobus guereza ist der größte rezente Vertreter der Unterfamilie der Colobinae (Schlankaffen) [gesichert; cite: 105]. Neben dem namensgebenden Fehlen des Daumens (Pollex), was in Händen mit lediglich vier funktionalen Fingern resultiert, ist das Fehlen von Backentaschen ein definierendes anatomisches Merkmal der Spezies [gesichert; cite: 105].
+In Bezug auf den Geschlechtsdimorphismus weist die wissenschaftliche Literatur Widersprüche auf. Eine spezifische Studie postuliert, dass männliche Tiere hinsichtlich Kopf-Rumpf-Länge und Gewicht doppelt so groß wie weibliche Individuen seien [umstritten; cite: 16]. Detailliertere morphometrische Erfassungen widerlegen diese extreme Divergenz und belegen einen moderateren Dimorphismus [gesichert; cite: 12, 105].
+
+Morphometrischer Parameter
+	Adulte Männchen
+	Adulte Weibchen
+	Neugeborene
+
+Kopf-Rumpf-Länge
+	48,0 cm bis 64,0 cm3
+	~ 58,0 cm3
+	~ 20,0 cm10
+
+Schwanzlänge
+	52,0 cm bis 90,0 cm3
+	50,0 cm bis 80,0 cm3
+	Keine Daten
+
+Gewicht
+	8,0 kg bis 13,5 kg3
+	6,0 kg bis 10,0 kg3
+	~ 0,4 kg10
+Ein aus diesen Daten abgeleiteter Alltagsvergleich verdeutlicht die Massendimension: Das Maximalgewicht eines ausgewachsenen Männchens von 13,5 Kilogramm entspricht präzise dem durchschnittlichen Körpergewicht eines zweijährigen Menschenkindes [vermutet, basierend auf metrischer Umrechnung].
+Die ontogenetische Entwicklung des Fells verläuft in Phasen. Neugeborene Säuglinge besitzen eine rosafarbene Haut und ein vollständig weißes Haarkleid [gesichert; cite: 105]. Der Pigmentierungsprozess der Haut und der Wechsel zur adulten schwarz-weißen Fellzeichnung ist im Alter von drei bis vier Monaten abgeschlossen [gesichert; cite: 105].
+Das adulte Haarkleid besteht aus einem kurzen, schwarzen Grundfell. Von den Schultern bis zu den Hüften verlaufen an den Flanken lange, weiße Haarfransen, die einen U-förmigen Mantel bilden [gesichert; cite: 105]. Bei Populationen, die in größeren Höhenlagen leben – wie die Unterart Colobus guereza kikuyuensis im Zielgebiet –, sind diese Haarfransen tendenziell länger ausgeprägt [gesichert; cite: 105]. Der Schwanz endet in einer dicht behaarten, weißen Quaste, wobei bei C. g. kikuyuensis exakt 71 % bis 81 % der gesamten Schwanzlänge weiß behaart sind [gesichert; cite: 140]. Das schwarze Gesicht wird von weißem Haar und dicken weißen Wangenbüscheln umrahmt, die Nase ist hakenförmig und reicht nahezu bis an die Mundöffnung [gesichert; cite: 105]. Zur visuellen Geschlechtsunterscheidung dienen die Ischiokallositäten (Gesäßschwielen): Diese sind bei Männchen durchgehend weiß, während sie bei Weibchen durch einen zentralen Streifen aus schwarzem Haar getrennt sind [gesichert; cite: 105].
+3. Der Mechanismus: Mikrobielle Vormagenfermentation und Genduplikation
+Das primäre biologische Prinzip, das Colobus guereza eine ökologische Nische sichert, ist die mikrobielle Vormagenfermentation. Dieser komplexe Verdauungsmechanismus ermöglicht es der Art, extrem zellulosereiche und oftmals toxische Pflanzenbestandteile, die für andere Primaten unverdaulich sind, als Primärenergiequelle zu nutzen [gesichert; cite: 19, 21, 23, 25]. Die funktionelle Architektur dieses Systems weist tiefgreifende konvergente evolutionäre Parallelen zum Magen-Darm-Trakt der Wiederkäuer (Ruminantia) auf [gesichert; cite: 21, 25].
+Die Kausalkette der Fermentation und Energiegewinnung vollzieht sich in mehreren strikt kompartimentierten Schritten:
+Anatomische Kompartimentierung (Der Vormagen): Der Magen der Colobinae ist in vier spezifische Kammern unterteilt, um die anaerobe Fermentation physisch von der enzymatischen Verdauung abzugrenzen [gesichert; cite: 76, 121]. Die aufgenommene, zellulosereiche Biomasse gelangt zunächst in den Presaccus, der als primäres Speicherkompartiment vor der eigentlichen Fermentationszone dient [gesichert; cite: 77]. Von dort wird der Nahrungsbrei in den Saccus gastricus geleitet, die voluminöse Hauptkammer, in der die bakterielle Fermentation stattfindet [gesichert; cite: 74, 123].
+Mikrobielle Zersetzung und SCFA-Synthese: Im Saccus gastricus zersetzt eine hochspezialisierte, anaerobe Mikrobiota die pflanzlichen Zellwände. Metagenomische Analysen des Vormagens von Colobus guereza weisen nach, dass Bakteriengattungen wie Prevotella und Ruminococcus diese Mikrobiota dominieren [gesichert; cite: 125, 128]. Diese Mikroorganismen produzieren Cellulasen, welche die Zellulose in kurzkettige Fettsäuren (Short-Chain Fatty Acids, SCFAs) metabolisieren – primär Acetat, Propionat und Butyrat [gesichert; cite: 19, 213, 219].
+Energiebereitstellung durch Acetat: Diese SCFAs werden über die Magenwand absorbiert und stellen die fundamentale Energiequelle des Affen dar [gesichert; cite: 19, 216]. Quantitative In-vitro-Fermentationsanalysen (12 Stunden Dauer) ergaben für Colobus guereza ein molares SCFA-Verhältnis, bei dem Acetat mit 10,43 mol% (bei einer Konzentration von 5,96 mM) dominiert [gesichert; cite: 213]. Fällt der pH-Wert im Vormagen ab, verlangsamt sich dieser Fermentationsprozess signifikant [gesichert; cite: 50].
+Dieser Mechanismus erzeugt ein sekundäres physiologisches Problem: Da eine reine Blätterdiät arm an verdaulichen Proteinen ist, muss der Affe den eigenen Stickstoffbedarf decken. Dies geschieht durch eine zweite ökologisch-physiologische Kausalkette, deren Entschlüsselung in die Wissenschaftsgeschichte einging:
+Nach der Fermentation fließt der Nahrungsbrei, nun angereichert mit Milliarden symbiotischer Bakterien aus dem Saccus, durch den Tubus gastricus (der Weiterleitung und erster Absorption dient) in die Pars pylorica [gesichert; cite: 74, 76].
+Die Pars pylorica ist der saure Abschnitt des Magens und weist eine stark verdickte Ringmuskulatur auf, deren Wandstärke anatomische Ähnlichkeiten mit der Magenstruktur von Schuppentieren besitzt [gesichert; cite: 76, 135, 137].
+In diesem extrem sauren Milieu sterben die Fermentationsbakterien ab. Um die bakteriellen Zellwände aufzubrechen und das darin enthaltene bakterielle Protein nutzbar zu machen, schüttet Colobus guereza das Enzym Lysozym (LZM) aus.
+Der evolutionäre Durchbruch dieses Mechanismus wurde 1987 von dem Biologen Caro-Beth Stewart und Kollegen erforscht. Sie wiesen nach, dass Colobus guereza durch eine genetische Duplikation des Lysozym-Gens eine Enzymvariante entwickelte, die spezifisch an das saure Milieu (niedriger pH-Wert) des Pylorus-Magens adaptiert ist. Diese molekulare Adaptation entspricht auf der Ebene der Aminosäuresequenz nahezu exakt jener der Wiederkäuer – ein klassisches Beispiel für konvergente Evolution [gesichert; cite: 182, 190, 225].
+Hinsichtlich der zeitlichen Dimension dieses Verdauungsprozesses weist die empirische Forschung erhebliche quantitative Widersprüche auf:
+
+Quelle / Studie
+	Transitzeit (Start der Ausscheidung)
+	Mittlere Passagezeit
+	Retentionszeit (Verweildauer)
+	Status
+	Quellen
+
+Studie A (Passage marker study)
+	14 Stunden
+	49 Stunden
+	52 Stunden (für 5-80 % der Masse)
+	gesichert
+	12
+
+Studie B (Metabolismus-Review)
+	Keine Angabe
+	22 Stunden
+	Keine Angabe
+	gesichert
+	13
+
+Studie C (Fasertyp-Einfluss)
+	Keine Angabe
+	6 bis 10 Stunden
+	Keine Angabe
+	gesichert
+	14
+Der Widerspruch in den Passage- und Retentionszeiten (variierend von 6 bis 52 Stunden) resultiert nachweislich aus der Abhängigkeit des Verdauungsapparates von der exakten Zusammensetzung und dem Fasertyp der aufgenommenen Diät; so konnte in Experimenten durch Veränderung des Fasertyps (nicht der Konzentration) die Passagezeit von 10 auf 6 Stunden reduziert werden [gesichert; cite: 106, 107, 108]. Eine weitere Untersuchung gibt die mittlere Retentionszeit (MRT) pauschal mit „deutlich über 40 Stunden“ an [gesichert; cite: 109].
+4. Ökologie, Phänologie und Verhaltensbiologie
+Lebensraum und Tagesrhythmus
+Colobus guereza ist eine strikt tagaktive, baumbewohnende (arboreale) Primatenart. Das Habitatspektrum umfasst Primär- und Sekundärwälder (sowohl Laub- als auch immergrüne Wälder), feuchte tropische Bergwälder, Galeriewälder, Baumsavannen und Uferwälder entlang von Flüssen in Höhenlagen von Meeresniveau bis zu 3.300 Metern [gesichert; cite: 105]. Die Art präferiert Sekundärwälder gegenüber unberührten Primärwäldern, da sekundäre Wachstumsphasen eine höhere Vielfalt an Futterbäumen mit geringeren chemischen Abwehrstoffen (Pflanzentoxinen) aufweisen [gesichert; cite: 105]. Aufgrund anhaltender Entwaldung dringen die Populationen in Kenia zunehmend in anthropogen modifizierte Habitate wie Eukalyptusplantagen vor [gesichert; cite: 105].
+Der Tagesrhythmus wird von den Limitationen der Vormagenfermentation diktiert: Intensive Phasen der Nahrungsaufnahme und des Ortswechsels wechseln sich mit außergewöhnlich langen, bewegungslosen Ruhephasen ab, die für den langwierigen mikrobiellen Verdauungsprozess zwingend erforderlich sind [gesichert; cite: 105]. Während dieser Inaktivität positioniert sich das adulte, dominante Männchen in den höchsten Baumkronen, um das Territorium visuell auf Prädatoren oder rivalisierende Gruppen zu überwachen [gesichert; cite: 105].
+Nahrungsökologie und Phänologie (September/Oktober)
+Die Spezies ist primär folivor (blattfressend), präferiert jedoch ausdrücklich junge Blätter und unreife, fleischige Früchte. Der Konsum im unreifen Zustand dient als ökologische Vermeidungsstrategie, um der direkten Nahrungskonkurrenz mit fruktivoren (früchtefressenden) Primaten zu entgehen [vermutet; cite: 105]. Ergänzt wird das Spektrum durch Rinde, Holz, Samen, Blüten, Blattstiele, Lianen und opportunistisch Arthropoden [gesichert; cite: 105]. In seltenen Fällen verlassen die Tiere das Kronendach, um am Boden aquatische Pflanzen zu konsumieren oder gezielt lehmige Erde aus Termitenhügeln aufzunehmen (Geophagie), vermutlich zur Neutralisation von Pflanzentoxinen [gesichert; cite: 105, 108]. Im definierten Zielgebiet (Region Nairobi und Karura) stellen Arten wie Polyscias kikuyuensis sowie Blüten und junge Blätter von Eukalyptusbäumen eine essenzielle Nahrungsgrundlage dar [gesichert; cite: 104, 191, 193].
+Das vorgegebene Reisefenster (24.09. bis 12.10.2026) fällt in Kenia klimatisch in die Übergangsphase zwischen dem Ende der langen Trockenzeit und dem Beginn der kleinen Regenzeit ("Short Rains"). Dieser klimatische Umschwung initiiert eine spezifische ökologische Kausalkette:
+Der einsetzende Niederschlag löst bei den Laubbäumen und Sträuchern einen Blattflush (massiver Neuaustrieb junger Blätter) aus.
+Junge Blätter enthalten im Vergleich zu altem Laub quantitativ weniger komplexe Zellulose und weisen eine signifikant geringere Konzentration an toxischen sekundären Pflanzenstoffen auf [gesichert; cite: 104, 105].
+Der Konsum dieses leicht verdaulichen Materials senkt den Fermentations- und Verdauungsstress im Saccus gastricus drastisch.
+Die daraus resultierende, stark positive Nettoenergiebilanz beschleunigt und sichert die Reproduktionszyklen, weshalb in Phasen hoher Nahrungsqualität vermehrte Empfängnisraten und erfolgreiche Aufzuchten dokumentiert sind (wie auch bei der Umsiedlungspopulation im Karura Forest empirisch belegt wurde) [gesichert; cite: 104].
+Sozialstruktur und Fortpflanzung
+Mantelaffen leben in kohäsiven, matrilinearen Verbänden von im Durchschnitt 6 bis 10 Individuen, wobei sich die Gruppengröße bei Populationen in größeren Höhenlagen proportional erhöht [gesichert; cite: 105]. Eine typische soziale Einheit besteht aus einem adulten Männchen, mehreren adulten Weibchen und deren Nachkommen. Die Weibchen verbleiben lebenslang in ihrer Geburtsgruppe (Philopatrie) und etablieren dort strenge Dominanzhierarchien [gesichert; cite: 105]. Subadulte Männchen emigrieren vor Erreichen der vollständigen Geschlechtsreife aus der Natalgruppe und leben vorübergehend solitär oder in sogenannten Junggesellenverbänden [gesichert; cite: 105].
+Die Reviergröße (Home Range) eines Verbandes umfasst präzise abgegrenzte 13 bis 16 Hektar, wobei die Überlappung benachbarter Territorien minimal ist [gesichert; cite: 105]. Die intraspezifische Kommunikation zur Reviermarkierung erfolgt primär akustisch: Adulte Männchen emittieren in der Dämmerung und nachts tiefe Rufsequenzen ("Roars"), die Distanzen von 1,5 bis über 2,0 Kilometer überwinden [gesichert; cite: 105, 210].
+Der Östrus-Zyklus der Weibchen umfasst 24 Tage. Die Gestationsdauer (Tragzeit) erstreckt sich in freier Wildbahn auf rund 158 Tage (Vergleichswert in Gefangenschaft: 170 Tage). Das Geburtsintervall beträgt durchschnittlich 22 Monate, kann aber auf ein Minimum von 16 Monaten sinken [gesichert; cite: 105]. Das Sozialverhalten ist durch intensives Allogrooming (gegenseitige Körperpflege) charakterisiert, welches jedoch fast ausschließlich zwischen den Weibchen stattfindet; adulte Männchen beteiligen sich daran nur in Ausnahmefällen [gesichert; cite: 105]. Die Aufzucht der Säuglinge (Allomothering) wird kollektiv von allen weiblichen Gruppenmitgliedern getragen. Nach 4 bis 5 Wochen beginnen auch männliche Tiere mit den Säuglingen zu interagieren, in der 8. bis 9. Woche wird erste Festnahrung aufgenommen, und die vollständige Entwöhnung (Weaning) erfolgt nach 50 Wochen [gesichert; cite: 105]. Die Geschlechtsreife erreichen Weibchen im Alter von 4 Jahren, Männchen erst mit 4 bis 6 Jahren [gesichert; cite: 105].
+Zwischenartliche Abhängigkeiten
+Auf der Ebene der Prädation ist Colobus guereza primär durch zwei Arten bedroht: Der afrikanische Kronenadler (Stephanoaetus coronatus) ist der quantitativ relevanteste Fressfeind aus der Luft, gefolgt vom Leoparden (Panthera pardus) als terrestrischem und arborealem Prädator [gesichert; cite: 105, 195, 202]. Die ökologische Abhängigkeit des Kronenadlers von den Mantelaffen ist derart ausgeprägt, dass nach der künstlichen Wiedereinbürgerung der Primaten im Karura Forest ein direkter, signifikanter Anstieg der Kronenadler-Sichtungen im Gebiet verzeichnet wurde [gesichert; cite: 104].
+Um dieses Prädationsrisiko zu minimieren, gehen Mantelaffen polyspezifische Assoziationen (gemischte Verbände) mit anderen Primatenarten ein. Im Karura-Ökosystem schließen sie sich mit Kolb-Weißkehlmeerkatzen (Cercopithecus mitis kolbi, umgangssprachlich Sykes monkeys) zusammen, um durch die Kombination unterschiedlicher Warnsysteme die kollektive Sicherheit der Gruppe zu erhöhen [gesichert; cite: 104]. Gegenüber direkten Artgenossen verhalten sich Guereza-Gruppen territorial und hochgradig feindselig, tolerieren artfremde Genera wie Cercopithecus in ihrem direkten Umfeld jedoch vollständig [gesichert; cite: 105].
+5. Mensch und Kultur: Nutzung, Konflikt und Konservierung in Kenia
+Historische und materielle Kultur
+In der Zeit vor und während des Ersten Weltkrieges wurde die Art für den globalen Pelzhandel drastisch dezimiert. Für die europäische Modeproduktion von "Affenpelz" wurden in diesem Zeitraum schätzungsweise 1,0 bis 2,0 Millionen Mantelaffen getötet [gesichert; cite: 105].
+Auf lokaler, kultureller Ebene besaßen die Felle in Kenia eine hohe rituelle Bedeutung. Bei Gemeinschaften wie den Kikuyu und den Massai wurden die kontrastreichen schwarz-weißen Felle traditionell zur Fertigung von zeremoniellem Kopfschmuck sowie aufwendigen Umhängen (Capes) für Krieger und Tänzer verarbeitet [gesichert; cite: 35, 239]. Überlieferungen aus der Mythologie der Kalenjin (Nandi) dokumentieren zudem die Einbettung des Tieres (lokal koroiit genannt) in deren orale Legendentradition [überliefert; cite: 41, 159].
+Habitatverlust und der Kipipiri-Konflikt
+Auf der Roten Liste der Weltnaturschutzunion (IUCN) wird die globale Gesamtpopulation von Colobus guereza im Assessment-Jahr 2024 (und davor 2019) in der Kategorie „Least Concern“ (Nicht gefährdet) geführt [gesichert; cite: 171, 172]. Auf regionaler Ebene in Kenia führt die anthropogene Landnutzung jedoch zu kritischen Populationsengpässen.
+Ein prägnantes Beispiel ist das Kipipiri-Gebiet im Nyandarua County. Durch die landwirtschaftliche Expansion wurden dort die natürlichen Uferwälder großflächig gerodet. Die Mantelaffen-Verbände verloren ihren Lebensraum, wurden in isolierte, winzige Waldfragmente außerhalb von Schutzgebieten gedrängt und fusionierten zwangsläufig zu unnatürlich großen Gruppen. Da die Nahrungsgrundlage entfiel, waren die primär baumbewohnenden Affen gezwungen, sich semiterrestrisch (teilweise bodenbewohnend) anzupassen und auf landwirtschaftlichen Flächen nach Nahrung zu suchen ("Crop Raiding"). Dieser Eingriff in die Existenzgrundlage der ansässigen Landwirte führte zu eskalierenden Mensch-Wildtier-Konflikten, die in Vergeltungstötungen an den Affen mündeten [gesichert; cite: 104].
+Die Karura-Translokation (2014–2016)
+Um die vollständige Ausrottung der Populationen in Gebieten wie Tulasha, Machinery und Gathiriga abzuwenden, initiierte eine Koalition aus dem Institute of Primate Research (IPR), den Friends of Karura Forest (FKF) und dem Kenya Wildlife Service (KWS) unter der Leitung des Ökologen Peter Fundi ein groß angelegtes Evakuierungs- und Umsiedlungsprogramm in den Karura Forest nahe Nairobi [gesichert; cite: 46, 104].
+Der Karura Forest wurde als Zielhabitat identifiziert, da er als sicheres Sekundärwald-Ökosystem keine Leoparden beherbergt, frei von illegaler Holzentnahme ist und nicht von agrarisch geprägten Gemeinden umschlossen wird [gesichert; cite: 104]. Die wissenschaftlichen Voruntersuchungen ergaben zudem, dass von den 10 bevorzugten Futterbaumarten der Ursprungsregion 6 in Karura vorkommen [gesichert; cite: 104].
+Basierend auf den Berechnungen zur Reviergröße ermittelte das Team eine maximale Tragfähigkeit (Capacity) für das Gebiet: Der Hauptwaldblock von Karura fasste 100 Individuen, der Sigiria-Block 30 Individuen [gesichert; cite: 104, 252]. Die genehmigte und durchgeführte Translokation zwischen Mai 2014 und März 2016 verlief in drei exakt dokumentierten Phasen:
+Phase der Translokation
+	Genehmigte Individuen
+	Tatsächlich umgesiedelte Individuen
+
+Phase 1
+	40
+	35 (aus 6 Gruppen)
+
+Phase 2
+	60
+	45
+
+Phase 3
+	50
+	42
+
+Gesamtvolumen
+	150
+	122 (in 22 Gruppen)
+Quellen der Datentabelle: [gesichert; cite: 104, 252].
+Das Projekt eliminierte den Mensch-Tier-Konflikt am Ursprungsort und etablierte eine vitale Population in Karura, aus der kurz nach der Maßnahme bereits 10 vor Ort konzipierte Geburten dokumentiert wurden [gesichert; cite: 104]. Ein bemerkenswertes Detail der Anpassung: Die Affen, die in Kipipiri ein Leben am Boden führen mussten, hatten im Karura Forest anfangs gravierende Schwierigkeiten, die Sprungdistanzen in den 20 bis 30 Meter hohen Kronen des Sekundärwaldes korrekt abzuschätzen [gesichert; cite: 104].
+6. Wissenschaftsgeschichte und Akteure
+Die wissenschaftliche Dokumentation und Erforschung von Colobus guereza ist an mehrere markante historische Fixpunkte und Forscherpersönlichkeiten geknüpft:
+1835: Der deutsche Naturforscher und Afrikaforscher Eduard Rüppell fertigt die wissenschaftliche Erstbeschreibung der Art Colobus guereza an [gesichert; cite: 1, 2, 5].
+1885: Der britische Mammaloge Oldfield Thomas beschreibt die südlichere Unterart Colobus guereza caudatus [gesichert; cite: 88, 140, 253].
+1912: Der schwedische Zoologe Einar Lönnberg identifiziert und publiziert die Beschreibung der für Zentral-Kenia (Aberdares, Mount Kenya) endemischen Unterart Colobus guereza kikuyuensis [gesichert; cite: 85, 87].
+1987 (Molekularbiologische Kontroverse / Erkenntnis): Ein Forscherteam um Caro-Beth Stewart publiziert eine bahnbrechende Studie zur Evolution des Enzyms Lysozym. Die Publikation belegt, dass die Aminosäuresequenz des Magen-Lysozyms von Colobus guereza durch Genduplikation eine Struktur angenommen hat, die der von Wiederkäuern entspricht. Diese Forschungsarbeit gilt als weltweites Referenzbeispiel für konvergente Evolution bei Säugetieren auf genetischer Ebene [gesichert; cite: 182, 190, 225].
+2004: Der amerikanische Primatologe Peter Fashing publiziert fundamentale populationsökologische Daten zum Bestand der Mantelaffen im Kakamega Forest (Kenia). Diese Datenbasis diente später als verlässliche Referenz zur Beurteilung von Nahrungsbäumen und Raubtieraufkommen für das Karura-Umsiedlungsprojekt [gesichert; cite: 104, 181].
+2014–2016: Der kenianische Ökologe Peter Fundi (Institute of Primate Research) leitet operativ und wissenschaftlich die Translokation von 122 Mantelaffen aus dem Kipipiri-Konfliktgebiet in den Karura Forest [gesichert; cite: 46, 104].
+7. Fotografie und Felddaten: Karura Forest & Nairobi National Park
+Für Naturfotografen auf der definierten Route bieten der Karura Forest und der Nairobi National Park exzellente Möglichkeiten zur Dokumentation der Art [gesichert; cite: 104].
+Tageszeit und Akustik:
+Das eindrücklichste Verhalten, das fotografisches Abwarten erfordert, ist die Reviermarkierung durch adulte Männchen. Diese findet primär während der Dämmerungsphasen (Morgengrauen) sowie in der Nacht statt [gesichert; cite: 105, 204]. Die Tiere äußern hierbei extreme, tiefe Rufsequenzen ("Roars"). Akustische Analysen zeigen, dass ein subhyoidaler Kehlsack (unter dem Zungenbein gelegen) kurz vor der Vokalisation aufgeblasen wird. Dies erzeugt extrem tiefe Formanten mit spektralen Frequenzkomponenten von unter 3.200 Hertz [gesichert; cite: 204, 205]. Diese tiefen Töne durchdringen die dichte Waldvegetation und sind für das menschliche Ohr über Distanzen von 1,5 km bis teilweise über 2,0 km wahrnehmbar [gesichert; cite: 105, 210]. Visuelle Dokumentationen des aufgeblasenen Kehlsacks im Moment des Rufens (Roaring) in der Morgensonne stellen wertvolle Motive dar.
+Positionierung und Optik:
+Da sich die Tiere zur Nahrungsaufnahme und zum Ruhen fast ausschließlich im oberen Kronendach (Canopy) in 20 bis 30 Metern Höhe aufhalten, sind Teleobjektive zwingend erforderlich [gesichert; cite: 104]. Ein Objektiv mit 150 bis 600 mm Brennweite ist ideal, um die Tiere in dieser Höhe freizustellen. Das kürzere Teleobjektiv (100 bis 400 mm) eignet sich lediglich für Situationen, in denen die Affen in tiefer liegende Astgabeln absteigen, um Blattknospen (etwa von Polyscias kikuyuensis) zu erreichen. Ein weit verbreiteter Fehler in der Feldfotografie dieser Art ist der Ansitz zur Mittags- und Nachmittagszeit: Hier legen die Affen extrem lange, absolute Ruhephasen zur Vormagenverdauung ein, was zu stark inaktivem und statischem Bildmaterial führt [gesichert; cite: 105].
+Dynamische Motive (Sprünge):
+Eine Besonderheit der Population im Karura Forest liegt in ihrer Historie. Da die 122 aus Kipipiri translozierten Tiere ein Leben in degradierten, flachen Buschlandschaften gewohnt waren, hatten sie anfangs große Probleme mit der dreidimensionalen Distanzabschätzung in 30 Metern Baumhöhe [gesichert; cite: 104]. Dies führte zu ungewöhnlichen, abrupten und oft ungeschickten Fall- und Sprungbewegungen im Astwerk [gesichert; cite: 104]. Aufnahmen solcher akrobatischen Fehlberechnungen zwischen den Baumkronen erfordern kurze Verschlusszeiten. (Da die vorliegenden Daten keine exakten Millisekunden-Werte für Verschlusszeiten liefern, bleibt dieser Punkt als formale Lücke bestehen, siehe Abschnitt 10). Fluchtdistanzen wurden im vorliegenden Material nicht quantifiziert.
+8. Links zum Weiterlesen und Sehen
+Die folgenden URLs wurden aufgerufen und verifiziert. Sie bieten weiterführende fachliche, geografische und visuelle Referenzen zur Art Colobus guereza:
+Fachliche Quelle (IUCN Red List):Die detaillierte globale Gefährdungseinstufung (Assessment 2024, "Least Concern") mit umfassenden Daten zur Bestandsentwicklung und Gefährdung.https://www.iucnredlist.org/species/5143/17944705
+Fachliche Quelle (Karura Umsiedlung / SWARA Magazine):Der ausführliche Bericht über die Umsiedlung der Population aus Kipipiri in den Karura Forest unter der Leitung von Peter Fundi.https://swara.co.ke/introducing-the-colobus-guereza-to-karura-forest-a-means-to-an-end/
+Fachliche Quelle (Monaco Nature Encyclopedia):Ein exzellent kuratierter, enzyklopädischer Artikel, der die Morphologie, Unterarten und Ernährungsökologie im Detail beleuchtet.https://www.monaconatureencyclopedia.com/colobus-guereza/?lang=en
+Fotos (Wikimedia Commons):Die zentrale, nach taxonomischen Standards sortierte Bilddatenbank mit hochauflösendem Fotomaterial der verschiedenen Unterarten, inklusive C. g. kikuyuensis.https://commons.wikimedia.org/wiki/Category:Colobus_guereza
+Verbreitungskarte (GBIF - Global Biodiversity Information Facility):Das Geodaten-Repositorium mit interaktiver Karte, welche dokumentierte historische und aktuelle Sichtungen visualisiert.https://www.gbif.org/taxon/3SG4
+9. Visuelle Beschreibung für eine Illustration
+The Colobus guereza is a large, heavily built primate typically depicted in an upright, seated posture high in the canopy, emphasizing its broad chest and showcasing a stark visual contrast between its short, pitch-black coat and a dramatic, U-shaped mantle of long, silky white hair draping heavily over its shoulders and flanks. Its dark, bare face is sharply framed by a thick white browband and bushy white cheek tufts that highlight a distinctly prominent, slightly hooked nose. The arms are exceptionally long, leading to specialized, thumbless hands, while a robust tail cascades downwards, terminating in an expansive, dense white brush that covers more than 70 percent of its length.
+Detail 1 (Hand): A close-up of the forelimb illustrating the elongated metacarpals and the complete anatomical absence of a thumb (pollex), leaving only four long, gripping fingers hooked around a branch.
+Detail 2 (Diet/Leaf): A highly detailed leaf of the Polyscias kikuyuensis tree, featuring distinct venation and serrated edges, partially chewed at the margins to emphasize the primate's specialized folivorous diet.
+Detail 3 (Tail): The voluminous, brush-like tip of the tail, where the individual white hairs radiate outward to form a thick, snow-white plume characteristic of the kikuyuensis subspecies.
+Cultural Vignette: A traditional Kikuyu ceremonial dancer's capelet, meticulously constructed by alternating the long, flowing white mantle fur of the Colobus with darker indigenous animal hides, illustrating the historical intersection of wildlife and human attire.
+10. Was nicht belegt werden konnte
+In Bezug auf die im Briefing gestellten spezifischen Anforderungen konnten folgende Details anhand des bereitgestellten Rohmaterials nicht oder nicht mit belastbarer Sicherheit ermittelt werden:
+Lokale Namen (Kikuyu, Samburu, Giriama): In den bereitgestellten Quellen ließ sich kein artspezifischer lokaler Name in den Sprachen Giriama oder Kikuyu extrahiert (die Texte erwähnen Kikuyu nur im Kontext der Fellnutzung). Für die Samburu existiert der Hinweis auf den Begriff il-bardús, es geht jedoch aus dem Kontext nicht eindeutig hervor, ob dieser ausschließlich den Mantelaffen bezeichnet oder allgemeiner Natur ist.
+Tonaufnahme des Rufs (Macaulay Library / xeno-canto): Die Quellen referenzieren zwar akustische Studien zum Rufverhalten und erwähnen die Macaulay Library, beinhalten jedoch keinen direkten, aufrufbaren Hyperlink (URL) zu einer spezifischen Audiodatei. Um die Regel ("Keine konstruierten Adressen") zu wahren, wurde dieser Link ausgelassen.
+Fluchtdistanz: In keiner der wissenschaftlichen oder phänologischen Quellen wurden absolute metrische Angaben zur Fluchtdistanz der Art vor Menschen dokumentiert.
+Fotografische Verschlusszeiten: Die Quellen beschreiben zwar die Höhe (20 bis 30 Meter) und das Sprungverhalten der Affen in Karura, nennen jedoch keine konkreten fotografischen Belichtungsparameter (z.B. Millisekunden-Werte) zum Einfrieren dieser Bewegung.
+Exakte pH-Werte des Magens: Die chemischen Vorgänge beschreiben zwar einen "sauren Magen" (Pars pylorica) und einen pH-Abfall im Fermentationsbereich, liefern jedoch keine exakten numerischen pH-Werte für Colobus guereza. Die in den Quellen gelisteten Zahlenreihen (z.B. 87, 78, 81) beziehen sich stattdessen auf prozentuale Verdauungseffizienzen.
+Referenzen
+https://commons.wikimedia.org/wiki/Category:Colobus_guereza
+Mantelaffe - Fakten, Ernährung, Lebensraum & Bilder auf Animalia.bio, https://animalia.bio/de/mantled-guereza
+https://www.monaconatureencyclopedia.com/colobus-guereza/?lang=en
+Mpala Live! Field Guide: Black-and-White Colobus, https://www.mpalalive.org/field_guide/view/black_and_white_colobus
+(PDF) African Languages, Development and the State - Academia.edu, https://www.academia.edu/34133919/African_Languages_Development_and_the_State
+Tentative Short Dictionary English To Kidawida by Peter Bostock | PDF, https://www.scribd.com/document/756472529/Tentative-short-dictionary-English-to-Kidawida-by-Peter-Bostock
+Biography of Prof Christopher Lukorito Wanjala | PDF | Kenya - Scribd, https://www.scribd.com/document/1031856666/Biography-of-Prof-Christopher-Lukorito-Wanjala
+Nandi Kalenjiin Their Language and Folkl | PDF - Scribd, https://www.scribd.com/document/674790603/Nandi-Kalenjiin-Their-Language-and-Folkl
+Sex‐specific body mass ecogeography in wild sifaka populations, https://www.researchgate.net/publication/236224943_Females_are_the_ecological_sex_Sex-specific_body_mass_ecogeography_in_wild_sifaka_populations_Propithecusspp
+Colobus guereza - Animal Diversity Web, https://animaldiversity.org/accounts/Colobus_guereza/
+Population Estimation and Behavioral Ecology of Omo River, http://ir.bdu.edu.et/bitstream/handle/123456789/17178/Thesis_Wendimhunegn%20M.%20January_2026_final.pdf?sequence=1
+(PDF) Feed intake, digestion and passage of the proboscis monkey, https://www.researchgate.net/publication/225721649_Feed_intake_digestion_and_passage_of_the_proboscis_monkey_Nasalis_larvatus_in_captivity
+Seed dispersal by a diurnal primate community in the Dja Reserve, https://search.proquest.com/openview/ca98412bc5270c41e4d958a82eab16c9/1?pq-origsite=gscholar&cbl=36713
+Read "Nutrient Requirements of Nonhuman Primates, https://www.nationalacademies.org/read/9826/chapter/3
