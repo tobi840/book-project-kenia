@@ -68,6 +68,11 @@ LAT_STOPP = set([
     "herum", "darum", "warum", "ringsum", "rundum", "wiederum", "darunter",
     "worum", "hinaus", "heraus", "voraus", "zugleich", "zuvor",
 ])
+# Lateinische Wortpaare, die keine Artnamen sind und darum aufrecht stehen.
+# Krankheitsbezeichnungen, Fachbegriffe, Werktitel.
+KEIN_ARTNAME = set([
+    "Malaria tropica", "Diabetes mellitus", "Delirium tremens",
+])
 
 # ------------------------------------------------------------------- Parsing
 
@@ -149,7 +154,7 @@ class Builder(HTMLParser):
 
 
 def saubere_woerter(text):
-    text = LUECKE_RE.sub(" ", text)
+    text = OFFEN_RE.sub(" ", LUECKE_RE.sub(" ", text))
     return [w for w in re.findall(r"\S+", text) if re.search(r"[0-9A-Za-zÀ-ÿ]", w)]
 
 
@@ -158,7 +163,7 @@ def wortzahl(text):
 
 
 def saetze(text):
-    text = LUECKE_RE.sub(" ", text).strip()
+    text = OFFEN_RE.sub(" ", LUECKE_RE.sub(" ", text)).strip()
     g = text
     for i, abk in enumerate(ABKUERZUNGEN):
         g = g.replace(abk, abk.replace(".", MARK_A + str(i) + MARK_A))
@@ -345,6 +350,8 @@ def pruefe(pfad, research_duenn=False):
         for m in LAT_PAAR_RE.finditer(ausser_em):
             art = m.group(2)
             if art in LAT_STOPP:
+                continue
+            if m.group(0) in KEIN_ARTNAME:
                 continue
             if not art.endswith(LAT_ENDUNGEN):
                 continue
