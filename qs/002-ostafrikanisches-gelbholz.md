@@ -60,3 +60,48 @@ Kein Befund. Rechtschreibung, Zeichensetzung und Kongruenz unauffällig. Tempus 
 1. Ein FALSCH Befund färbt die Ampel von Prüfung 1 rot: Der Satz zum Blattaustrieb verlegt ihn in das Zeitfenster Dezember/Januar, das Research Doc verortet ihn aber ausdrücklich im Reisezeitraum Ende September bis Anfang Oktober.
 2. Zwei UNBELEGT Zusätze gehen über das Research Doc hinaus: der weltweite Handel mit Podoholz und die Behauptung, der Same lande oft in podofreiem Wald.
 3. Ansonsten hohe Faktentreue: alle Zahlen, Daten, Namen, lokalen Namen und Statusmarkierungen (überliefert, vermutet, gesichert) stimmen mit dem Research Doc überein, der Linkcheck zeigt keine erfundenen oder toten URLs, und alle drei offenen Lücken sind korrekt und vollständig markiert.
+
+## Nachprüfung
+
+### 1. Sind die sechs Korrekturen umgesetzt, und richtig?
+
+1. Blattaustrieb entkoppelt von Fruchtreife: UMGESETZT. Neue Stelle: „Reif sind die Früchte meist im Dezember und Januar. Neue Blätter schiebt er zu einer anderen Zeit, beim Übergang von der langen Trockenzeit in die kleine Regenzeit Ende September und Anfang Oktober, blaugrau und hell gegen das dunkle Grün darunter.“ Der Zeitbezug ist jetzt korrekt an den Reisezeitraum (24.09. bis 12.10.) gehängt, „zu einer anderen Zeit“ trennt ihn explizit von der Dezember/Januar Fruchtreife. Deckt sich mit dem Research Doc.
+
+2. Handelssatz gekürzt: UMGESETZT. Neue Stelle: „Im Swahili heißt der Baum „Podo“ oder „Mpodo“, unter diesem Namen wird sein Holz gehandelt.“ Der Zusatz „ging sein Holz um die Welt“ ist gestrichen, es bleibt nur die belegte Aussage (gehandelt unter dem Namen Podo). Die im Research Doc genannten Verwendungen (Schiffsbau, Eisenbahnschwellen, Möbel, Furniere, Instrumentenbau) stehen bereits im Abschnitt „Menschen und Kultur“, keine Dopplung nötig.
+
+3. Same/Habitat Satz gekürzt: UMGESETZT. Neue Stelle: „Der Same kommt unversehrt wieder heraus, mit dem Kot, weit vom Mutterbaum, in einem neuen Lebensraum.“ Der unbelegte Zusatz „oft in einem Stück Wald, in dem noch kein Podo steht“ ist gestrichen, „neuer Lebensraum“ entspricht dem Research Doc („in einem neuen Habitat“).
+
+4. Adjektivkette gekürzt: UMGESETZT. Neue Stelle: „Zwölf bis achtzehn Millimeter lang, fleischig, im schrägen Morgenlicht fast wie lackiert.“ Aus der Dreierkette „lang, glatt, fleischig“ ist „glatt“ gestrichen, es bleiben zwei Merkmale.
+
+5. Fachbegriff erklärt: UMGESETZT. Neue Stelle: „Aus seinen Blättern wurde Podolid isoliert, ein bioaktiver Pflanzenstoff, der insektizid wirkt und im Reagenzglas gegen Leukämiezellen.“ „Norditerpenlacton“ ist durch die allgemeinverständliche Umschreibung „ein bioaktiver Pflanzenstoff“ ersetzt, eine Formulierung, die sich sogar wörtlich an das Research Doc anlehnt („bioaktive sekundäre Pflanzenstoffe“).
+
+6. Zischlaut Häufung entzerrt: UMGESETZT. Neue Stelle: „Sicherheitskräfte gingen mit Gewalt gegen die Demonstranten vor. Die internationale Verurteilung zwang die Regierung, die Bebauung aufzugeben.“ Der Satz ist in zwei Sätze aufgeteilt, „schlugen ... nieder“ und „stoppte“ (beide mit sch/st Anlaut) sind ersetzt durch „gingen ... vor“ und „aufzugeben“. Die Zischlaut Ballung ist deutlich reduziert, der Fakteninhalt (Gewalt gegen Demonstranten, internationaler Druck stoppt Bebauung) bleibt korrekt erhalten.
+
+Alle sechs Anweisungen sind umgesetzt und inhaltlich korrekt am Research Doc ausgerichtet.
+
+### 2. Hat die Korrektur etwas kaputt gemacht?
+
+**Prüfung 1 (Fakten), erneut vollständig durchgeführt:** Keine neuen FALSCH oder UNBELEGT Befunde. Die sechs korrigierten Stellen sind jetzt research-treu (siehe oben). Alle übrigen Fakten wurden erneut gegen das Research Doc gehalten (Höhen, Durchmesser, Blatt- und Samenmaße, Rindenwerte, Perm/Gondwana Alter, Malapa/Sterkfontein, Karura Chronologie 1902/1932/25%/1998/Januar 1999/2009/2011/15 Hektar/100.000 Setzlinge/70 Arten, Tannin 3 bis 6%, IUCN 2013, äthiopisches Fällverbot 1994, alle lokalen Namen, Statusmarkierungen „überliefert“/„wird vermutet“) und stimmen unverändert mit dem Research Doc überein. Die drei offenen [[LÜCKE]] Marker sind unverändert vorhanden und weiterhin korrekt gesetzt.
+
+**Prüfung 2 (Stil), erneut vollständig durchgeführt:** Die beiden vormals bemängelten Stellen (Adjektivkette, unerklärter Fachbegriff) sind behoben. Keine neuen Stilverstöße: keine Gedankenstriche im gesamten Dokument, keine verbotenen Wörter, 2 rhetorische Fragen (unverändert, im Rahmen), 1 Humor Einwurf (unverändert), letzter Absatz kehrt weiter zum Anfangsbild zurück (graugrüne Kugel im schrägen Morgenlicht), Körpermaß neben Zahl weiterhin vorhanden. Wortzahl Geschichte jetzt 1095 (vorher 1085), unauffällig.
+
+**Skript regel_check.py (--json):** `ampel_regelcheck: gelb`, `rot: 0`, `gelb: 3`. Die drei gelben Befunde sind ausschließlich die drei bereits bekannten, korrekt gesetzten [[LÜCKE]] Marker. Keine neuen Regelverstöße.
+
+**Skript check_links.py (--json):** 4 Links, 0 erfundene URLs, 0 tote Links, 4 nicht prüfbar (Egress Policy sperrt die Hosts, alle 4 URLs stammen laut Skript aus dem Research Doc, Herkunft „im-research“). Unverändert gegenüber der ersten Prüfung, keine Regression.
+
+**Zischlautprobe (Vorlesbarkeit), erneut geprüft:** Der einzige vormals bemängelte Satz ist entzerrt (siehe Punkt 6 oben). Keine neue Zischlaut Häufung an anderer Stelle aufgefallen.
+
+**Gedankenstriche (Grundgesetz 5):** Datei durchsucht, keine Gedankenstriche (kurz oder lang) außerhalb der HTML Kommentar-Randzeichen `-->` im Metadatenblock gefunden.
+
+Die Korrektur hat nichts Neues kaputt gemacht. Ampel Prüfung 1 wechselt von rot auf grün.
+
+### Ampel nach Nachprüfung
+
+- Prüfung 1 (Fakten): **grün** (0 FALSCH, 0 UNBELEGT, keine neuen Befunde)
+- Regelcheck (Skript): gelb, 0 rot, 3 gelb (weiterhin nur die drei offenen Lücken)
+- Linkcheck (Skript): 4 Links, 0 erfundene URLs, 0 tote Links, 4 nicht prüfbar
+
+### Weiterhin offen
+
+- Drei [[LÜCKE]] Marker bleiben unverändert bestehen, da das Research Doc dazu explizit keine Angaben liefert: wörtliche Bedeutung der lokalen Namen (Maa, Samburu, Kamba, Kipsigis), überlieferte Legenden oder Sprichwörter zur Baumart, exakte gemessene Fluchtdistanz der Mantelaffen (nur Näherungswert 10 bis 20 Meter im Research Doc). Schließen dieser Lücken erfordert Nachrecherche, die laut Grundgesetz nur mit Freigabe von Tobi läuft.
+- Die 4 Weiterlesen Links bleiben technisch nicht prüfbar (Egress Policy), das ist laut Vorgabe kein Fehlerbefund, sondern ein offener Prüfstatus, sollte aber nicht mit „geprüft und in Ordnung“ verwechselt werden.

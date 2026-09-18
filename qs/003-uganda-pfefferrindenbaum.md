@@ -57,3 +57,43 @@ Rechtschreibung, Zeichensetzung und Kongruenz unauffällig. Lateinischer Name du
 1. Der Text hält die Statusmarkierungen (gesichert, umstritten, überliefert, vermutlich) fast durchgängig exakt so wie im Research-Doc, das ist der stärkste Befund dieser QS.
 2. Ein Satz weitet eine nur für Kenia belegte Aussage (Malariabehandlung durch Abkochung) unbelegt auf Uganda aus und ergänzt eine nicht belegte Zeitangabe.
 3. Acht offene `[[LÜCKE]]`-Marker sind korrekt gesetzt und nicht heimlich gefüllt, das Kapitel ist trotz dünner Quellenlage an mehreren Stellen ehrlich offen.
+
+## Nachprüfung
+
+Geprüft: Sitzt die Korrektur, und hat sie etwas Neues kaputt gemacht. Grundlage weiterhin das Research-Doc, keine Nachrecherche.
+
+### 1. Sind die vier Anweisungen umgesetzt
+
+1. **Kenia/Uganda und Zeitangabe gestrichen: ja, richtig.** Neue Stelle: „Dass Rinde und Blätter in Kenia gegen Malaria abgekocht werden, bekommt damit einen Mechanismus.“ Deckt sich jetzt exakt mit Research-Doc Abschnitt 5 („Menschen und Kultur in Kenia“): „Vor allem aber werden Rinde und Blätter in wässrigen Abkochungen konsumiert, um Malaria zu behandeln.“ Kein Uganda-Bezug, keine Zeitangabe mehr im Kapiteltext, beides korrekt entfernt.
+
+2. **AFLP erklärt: umgesetzt, aber mit neuem Befund (siehe Abschnitt 2 unten).** Neue Stelle: „Eine genetische Kartierung brachte dann einen unerwarteten Befund. Das Verfahren heißt Amplified Fragment Length Polymorphism, kurz AFLP, und vergleicht die Länge vervielfältigter Bruchstücke des Erbguts. 223 solcher Bänder fielen von Baum zu Baum verschieden aus.“ Die Ausschreibung des Kürzels („Amplified Fragment Length Polymorphism“) steht so im Research-Doc (Abschnitt „Menschen und Kultur in Kenia“: „Amplified Fragment Length Polymorphism (AFLP)“) und ist damit gedeckt. Der Zusatz „vergleicht die Länge vervielfältigter Bruchstücke des Erbguts“ steht in keiner Form im Research-Doc, das Dossier nennt nur den ausgeschriebenen Namen und das Ergebnis, nicht die Funktionsweise der Methode. Der Fachbegriff ist jetzt zwar allgemeinverständlich, aber mit einer nicht belegten Erklärung, die dem Grundgesetz „nichts aus Modellwissen ergänzen“ widerspricht.
+
+3. **GBIF-Linktext gekürzt: ja, richtig.** Neue Stelle: „GBIF: Warburgia ugandensis · Taxonomische Einordnung, Synonyme und umgangssprachliche Namen.“ Deckt sich jetzt wortgetreu mit Research-Doc Abschnitt 8: „taxonomische Klassifizierung, Synonyme und umgangssprachliche Namen der Art.“ „und Fundpunkte der Art“ ist entfernt.
+
+4. **Tempus auf Präteritum umgestellt: ja, richtig.** Neue Stellen: „Der schottische Botaniker Thomas Archibald Sprague benannte die Art 1906, im Journal of the Linnean Society, Botany und im Kew Bulletin.“ und „Das deckte der Forscher Kubo in den späten 1970er Jahren auf.“ Beide jetzt im Präteritum, passend zu „Muchugi und Kollegen legten diese Arbeiten 2008 und 2012 vor.“ Inhalt und Zahlen unverändert gegenüber der Vorversion.
+
+### 2. Hat die Korrektur etwas Neues kaputt gemacht
+
+**Prüfung 1 (Fakten), erneut vollständig:** Ein neuer Befund.
+
+1. „Das Verfahren heißt Amplified Fragment Length Polymorphism, kurz AFLP, und vergleicht die Länge vervielfältigter Bruchstücke des Erbguts.“ | UNBELEGT | Die Umschreibung der Methode („vergleicht die Länge vervielfältigter Bruchstücke des Erbguts“) steht nicht im Research-Doc. Das Dossier führt AFLP nur als Namen und Ergebnis (223 polymorphe Bänder, genetische Diversität), erklärt aber nicht, was das Verfahren technisch tut. Der ursprüngliche Befund aus Prüfung 2 (unerklärter Fachbegriff) ist damit zwar stilistisch behoben, aber durch eine neue, unbelegte Sacherklärung ersetzt worden.
+
+Alle anderen Werte, Namen, Statusmarkierungen und die vier korrigierten Stellen selbst sind mit dem Research-Doc deckungsgleich. Kein FALSCH, kein STATUSFEHLER, kein VERZERRT.
+
+**Prüfung 2 (Stil), erneut vollständig:** Keine Befunde mehr. Der ursprüngliche Fund (unerklärter Fachbegriff AFLP) ist behoben, der Ersatzbefund gehört zu Prüfung 1 (siehe oben), nicht zu Stil. Keine Gedankenstriche im Kapiteltext (geprüft, 0 Treffer), keine verbotenen Wörter, keine Adjektivketten ab drei Gliedern, Rhetorische Frage weiterhin ein Rätsel-Setup mit Auflösung, letzter Absatz kehrt weiterhin zum Anfangsbild zurück. Der neue AFLP-Absatz bleibt unter 40 Wörtern pro Satz und bricht den Erzählfluss nicht.
+
+**`regel_check.py --json`:** Ampel gelb, 0 rot, 8 gelb (alle acht weiterhin offene `[[LÜCKE]]`-Marker, unverändert gegenüber der Vorversion). Geschichte jetzt 947 Wörter (vorher 929, Zuwachs durch die AFLP-Erklärung), 8 Absätze, erster Satz weiterhin 14 Wörter, letzter Absatz weiterhin 53 Wörter, weiterhin kein Satz über 40 Wörter, weiterhin 1 rhetorische Frage, weiterhin 1 lateinischer Name im Fließtext, weiterhin 5 Links. Kein neuer Regelverstoß durch die Korrektur.
+
+**`check_links.py --json`:** Weiterhin 5 Links, 0 erfundene URLs, 0 tote Links, 5 nicht prüfbar (Egress-Policy sperrt die Hosts, alle 5 Herkunft „im-research“). Der gekürzte GBIF-Kontextsatz wurde korrekt erkannt und bleibt „nicht-prüfbar“, nicht tot. Kein neuer Linkbefund.
+
+**Prüfung 3 (Vorlesbarkeit) und Prüfung 4 (Struktur), stichprobenartig gegen die vier geänderten Stellen erneut geprüft:** keine neuen Befunde. Der GBIF-Eintrag in „Weiterlesen und Sehen“ ist weiterhin vollständig mit einem Kontextsatz versehen, die fünf Blöcke sind unverändert vollständig vorhanden. Die drei zusätzlichen Sätze im AFLP-Absatz bilden keine Schachtelsätze und keine ungewöhnlichen Zischlaut-Häufungen.
+
+### Fazit
+
+Drei der vier Korrekturen (1, 3, 4) sind vollständig und ohne Nebenwirkung umgesetzt. Die vierte (2, AFLP) ist stilistisch gelöst, hat dabei aber eine neue, unbelegte Sacherklärung eingeführt. Ampel bleibt **gelb**, jetzt mit einem UNBELEGT-Befund (statt vorher einem anderen). Kein FALSCH, kein STATUSFEHLER, kein VERZERRT, keine erfundenen URLs, keine toten Links, Lückenzahl unverändert bei acht.
+
+**Weiterhin offen (korrekturauftrag):**
+
+1. Im Satz „Das Verfahren heißt Amplified Fragment Length Polymorphism, kurz AFLP, und vergleicht die Länge vervielfältigter Bruchstücke des Erbguts.“ den Teil „und vergleicht die Länge vervielfältigter Bruchstücke des Erbguts“ streichen oder durch `[[LÜCKE: wie das AFLP-Verfahren technisch funktioniert]]` ersetzen, da das Research-Doc AFLP nur benennt, die Funktionsweise aber nicht erklärt. Nur die Ausschreibung des Kürzels („Amplified Fragment Length Polymorphism“) ist belegt.
+
+Alle acht bestehenden `[[LÜCKE]]`-Marker aus der ersten QS bleiben unverändert offen (Gattungsname Warburgia, wörtliche Bedeutung der Lokalnamen, Kamba/Samburu/Giriama-Namen, Maße für Blätter/Früchte/Samen, Geschlechts- und Altersunterschiede, absolute Bestandszahlen, Phänologie für Ende September/Anfang Oktober, fotografische Fehler/Verschlusszeiten). Keine davon wurde durch diesen Korrekturauftrag berührt.
