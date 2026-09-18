@@ -100,6 +100,17 @@ Gibt es nichts davon, schreibst du unter die Überschrift genau ein Wort: `Nicht
 
 Das ist der Normalfall und ein gutes Ergebnis.
 
+## Die Datei ist das Ergebnis, nicht dein Bericht
+
+Wenn du nebenbei eine strukturierte Zusammenfassung zurückgibst, ist sie
+Beiwerk. Gewertet wird `qs/{nr}-{slug}.md`, und nur die Datei geht in
+`patch_anwenden.py`.
+
+Das ist keine Formalie. In Runde 3 hat ein Prüfer vier Patches und ein
+`UNBELEGT` in seine Datei geschrieben und in derselben Antwort "grün, null
+Patches" zurückgemeldet. Wer dem Bericht geglaubt hätte, hätte den echten
+Fehler verloren. Auf 95 Kapitel wäre das ein stiller Ausfall.
+
 ## Bei der zweiten Runde
 
 Die zweite Runde ist die letzte (E22). Sie ist **keine Abhakliste**: sie prüft Prüfung 1 mit derselben Tiefe wie die erste, weil ein Patch etwas verschoben haben kann. Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, damals noch durch ein Modell, das umformulieren durfte.

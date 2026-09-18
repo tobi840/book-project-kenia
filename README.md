@@ -30,6 +30,18 @@ kostet die Regel etwas. Sie wurde trotzdem so gesetzt.
 Arbeitsmaterial für `patch_anwenden.py`, nicht für Tobi. Im Normalfall steht
 unter `## Für Tobi` genau ein Wort: `Nichts.`
 
+### Die QS-Datei ist die Wahrheit, nicht die Rückmeldung des Prüfers
+
+`patch_anwenden.py` liest `qs/{nr}-{slug}.md`. Was ein QS-Lauf sonst noch über
+sich selbst meldet, Ampel, Zahl der Patches, Zusammenfassung, ist nicht
+maßgeblich und darf nie als Gate dienen.
+
+In Runde 3 hat ein Prüfer vier Patches und ein `UNBELEGT` in seine Datei
+geschrieben und gleichzeitig "grün, null Patches" gemeldet. Ein Automat, der
+der Meldung folgt statt der Datei, hätte den Fehler verloren, ohne dass es
+jemand bemerkt. Über 95 Kapitel ist das der teuerste denkbare Ausfall, weil er
+lautlos ist.
+
 ### Warum der Korrekturschritt weg ist
 
 Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, in
