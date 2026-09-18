@@ -1,0 +1,185 @@
+Daten- und Faktenbericht: Sagittarius serpentarius (Sekretär) für Kapitel-Rohmaterial
+1. Namen und Etymologie
+[Gesichert] Die taxonomische Einordnung und Namensgebung der Art greift auf historische Beobachtungen und linguistische Ableitungen zurück. Der lateinische wissenschaftliche Name lautet Sagittarius serpentarius1. [Gesichert] Die Erstbeschreibung der Art erfolgte im Jahr 1779 durch den englischen Illustrator John Frederick Miller unter dem Protonym Falco serpentarius3. [Gesichert] Vier Jahre später, im Jahr 1783, ordnete der französische Naturforscher Johann Hermann die Art in seinem Werk Tabula affinitatum animalium der neu geschaffenen, monotypischen Gattung Sagittarius zu3.
+[Gesichert] Die wörtliche Bedeutung des wissenschaftlichen Namens setzt sich aus zwei lateinischen Begriffen zusammen. Der Gattungsname Sagittarius bedeutet „Bogenschütze“2. Der Artname serpentarius leitet sich vom lateinischen Wort serpens (Genitiv: serpentis) ab, was „Schlange“ bedeutet2. [Gesichert] In der semantischen Zusammensetzung bedeutet der Name wörtlich übersetzt „Schlangen-Bogenschütze“1.
+[Umstritten] Für den englischen Trivialnamen „Secretarybird“ existieren zwei konkurrierende etymologische Erklärungsmodelle. [Gesichert] Die erste und am weitesten verbreitete Erklärung, die 1780 von dem französischen Universalgelehrten Georges-Louis Leclerc, Comte de Buffon, formuliert wurde, besagt, dass die langen, abstehenden schwarzen Nackenfedern des Vogels an die Gänsekiele (Federkiele) erinnern, die sich Schreiber und Sekretäre im 19. Jahrhundert in Arbeitspausen hinter das Ohr steckten3. [Gesichert] Die zweite Hypothese wurde 1977 von C. Hilary Fry (Aberdeen University) vorgeschlagen. Diese besagt, dass der Begriff „Secretary“ eine französische Verballhornung (secrétaire) des arabischen Begriffs „saqr-et-tair“ darstellt2. [Gesichert] Dieser arabische Begriff bedeutet wörtlich übersetzt „Falke der Halbwüste“ oder generisch „jagender Vogel“2.
+[Gesichert] In den lokalen Sprachen Kenias und angrenzender Regionen spiegeln die Namen teils die physischen Merkmale, teils die kulturelle Wahrnehmung wider.
+
+Sprache / Gemeinschaft
+	Trivialname
+	Belegte wörtliche Bedeutung / Etymologie
+	Status der Angabe
+
+Deutsch
+	Sekretär, Sekretärvogel
+	Leitet sich direkt von den englischen und französischen Trivialnamen ab.
+	[Gesichert]6
+
+Swahili
+	Karani (tamba), Ndege kilemba, Varani tamba
+	Karani verweist auf die Funktion eines Sekretärs oder Schreibers.
+	[Gesichert]1
+
+Maa (Maasai)
+	ol-enbai nabo
+	Wörtliche Bedeutung: „ein Pfeil“.
+	[Gesichert]5
+
+Maa (Maasai)
+	Ol-mamura, LMAMURRA
+	Keine wörtliche Bedeutung in den Quellen belegt.
+	[Gesichert]10
+
+Kamba
+	ndei
+	Keine wörtliche Bedeutung in den Quellen belegt.
+	[Gesichert]13
+
+Kikuyu
+	Unbekannt
+	In den vorliegenden Datenquellen nicht belegt.
+	[Unbekannt]
+
+Samburu
+	Unbekannt
+	In den vorliegenden Datenquellen nicht belegt.
+	[Unbekannt]
+
+Giriama
+	Unbekannt
+	In den vorliegenden Datenquellen nicht belegt.
+	[Unbekannt]
+
+Xhosa
+	inxhanxhosi
+	Keine wörtliche Bedeutung in den Quellen belegt.
+	[Gesichert]5
+
+Zulu
+	intungunono
+	Keine wörtliche Bedeutung in den Quellen belegt.
+	[Gesichert]5
+2. Erscheinung, mit Maßen
+[Gesichert] Der Sekretär ist ein großer, terrestrisch lebender Greifvogel, dessen Körperbau Merkmale eines Adlers mit den kranichartig verlängerten Beinen eines Schreitvogels kombiniert3.
+[Widersprüchlich] Bei den Körpermaßen weisen die Datenquellen teilweise Differenzen auf.
+Körperhöhe: Die Angaben zur Höhe variieren von 0,9 bis 1,2 m15 bis zu 1,3 m3. Ein zitierter Alltagsvergleich beschreibt die Höhe mit knapp vier Fuß ("nearly four feet tall"), was 1,22 m entspricht1.
+Körperlänge: Die Gesamtlänge von der Schnabelspitze bis zum Ende der Schwanzfedern wird mit 1,1 bis 1,5 m3 beziehungsweise 112 bis 152 cm angegeben18.
+Flügelspannweite: Die weitgehende Übereinstimmung der Quellen taxiert die Spannweite auf 1,9 bis 2,2 m (190 bis 220 cm)3. Eine abweichende taxonomische Datenbank nennt 1,2 bis 1,35 m15, was biomechanisch bei einer Körperhöhe von bis zu 1,3 m auf einen methodischen Messfehler (beispielsweise die Messung einer einzelnen Flügellänge) hindeutet.
+Gewicht: Die Gewichtsangaben liegen in einer Spanne von 2,3 bis 5,0 kg15, wobei spezifischere ornithologische Messungen einen Bereich von 3,74 bis 4,27 kg mit einem errechneten Durchschnittsgewicht von 4,05 kg belegen3.
+Detailmaße: Der Tarsus (das Laufbein) misst durchschnittlich 31 cm, die Schwanzfedern weisen eine Länge von 57 bis 85 cm auf3.
+[Widersprüchlich] Hinsichtlich des Sexualdimorphismus bezüglich der Körpermasse gibt es widersprüchliche Angaben: Eine Quelle verzeichnet, dass Weibchen tendenziell geringfügig kleiner als Männchen sind15, eine andere gibt an, Weibchen seien etwas größer6, während eine dritte Quelle das völlige Fehlen eines Größenunterschieds zwischen den Geschlechtern postuliert20.
+[Gesichert] Die Farbgebung und Gefiederstruktur weisen klare Kontraste auf. Das Grundgefieder an Rumpf, Hals und den vorderen Flügeldecken ist aschgrau bis blaugrau gefärbt, was auf der Bauchseite in ein helleres Grau bis Grauweiß übergeht3. Im harten Kontrast dazu stehen die tiefschwarzen primären und sekundären Schwungfedern, der Rumpf sowie die befiederten Oberschenkel, die optisch an schwarze Hosen erinnern3. Die oberen Schwanzdecken sind weiß und teilweise schwarz gebändert. Der keilförmige Schwanz hat an der Basis eine grauschwarze Marmorierung, zwei breite schwarze Bänder und weiße Spitzen. Zwei stark verlängerte zentrale Schwanzfedern ragen im Flug weit über die Beine hinaus5.
+[Gesichert] Der Kopf ist durch ein nacktes, federloses Gesicht gekennzeichnet, dessen Hautpartie bei ausgewachsenen Tieren intensiv rot bis orange gefärbt ist3. Der kurze, nach unten gebogene Greifvogelschnabel ist bläulich und setzt an einer markanten gelben Wachshaut (Cere) an3. Die blassbraunen Augen sind von langen, schwarzen "Wimpern" umgeben. Anatomisch handelt es sich dabei nicht um Haare, sondern um modifizierte, borstenartige Federn, denen die Widerhaken fehlen8. Am Hinterkopf befindet sich die namensgebende Federkrone, die aus etwa einem Dutzend spatelförmiger, 10 bis 20 cm langer schwarzer Federn besteht3.
+[Gesichert] Die Extremitäten weisen extreme Anpassungen auf. Die sehr langen, rosa bis violett-grauen Beine sind an den unteren Hälften mit dicken, panzerartigen Schuppen bedeckt, die als mechanischer Schutz gegen die Bisse von Giftschlangen dienen1. Die Zehen sind kurz und messen nur etwa 20 Prozent der Länge eines vergleichbar schweren Adlers5. Sie sind kräftig gebaut und an der Basis durch eine kleine Schwimmhaut verbunden, weshalb der Vogel anatomisch nicht in der Lage ist, Objekte oder Beute mit den Füßen zu greifen5.
+[Gesichert] Altersunterschiede sind optisch deutlich erkennbar. Juvenile Tiere (Nestlinge und Jungvögel) weisen anstelle der rot-orangen eine gelbe Gesichtshaut auf. Ihr Gefieder hat einen stärkeren Braunanteil, die zentralen Schwanzfedern sind kürzer und die Iriden sind gräulich statt hellbraun5. Bei adulten Tieren sind die Geschlechter phänotypisch nahezu identisch, Männchen weisen lediglich tendenziell etwas längere Schwanz- und Nackenfedern, einen proportional kürzeren Kopf und ein bläulicheres Graugefieder auf3.
+3. Der Mechanismus
+[Gesichert] Das biologische Kernprinzip des Sekretärs ist der Verzicht auf den fliegenden Sturzflug zugunsten einer terrestrischen Jagdtechnik. Anstelle von Greifklauen nutzt er einen biomechanisch hochspezialisierten Tötungstritt, um Beute, insbesondere schnelle und wehrhafte Giftschlangen, am Boden zu betäuben oder zu töten1.
+[Gesichert] Die Kinetik und die neuromuskulären Parameter dieses Mechanismus wurden 2016 in einer Feldstudie quantifiziert. Die britische Forschergruppe um Monica A. Daley, Campbell P. Murn, Steven J. Portugal und Emily L. Sparkes rüstete künstliche Beuteobjekte (Gummischlangen) mit instrumentierten Kraftmessplatten aus und publizierte die Daten im Fachjournal Current Biology24.
+[Gesichert] Die Messungen ergaben eine absolute Trittkraft von 195 Newton (N)24. Bezogen auf das Körpergewicht des Vogels bedeutet dies, dass jeder Tritt eine Kraft generiert, die dem Fünffachen der eigenen Körpermasse entspricht20. Relative Vergleiche zeigten, dass der Sekretär im Verhältnis zu seiner Masse die höchste Jagdschlagkraft aller bisher gemessenen Vogelarten erzeugt27.
+[Gesichert] Die vollständige Kontaktzeit des Fußes mit der Beute beträgt lediglich 15 Millisekunden (ms)20. In einem dokumentierten Alltagsvergleich entspricht diese Zeitspanne einem Zehntel der Dauer eines menschlichen Lidschlags20.
+[Gesichert] Diese extreme Geschwindigkeit erzwingt eine hochkomplexe neuronale Kausalkette:
+Visuelle Erfassung: Die Beute, beispielsweise eine zustoßende Viper, initiiert eine schnelle Bewegung. Das stark ausgeprägte, frontale und binokulare visuelle System des Sekretärs erfasst diese Bewegung räumlich5.
+Neuronale Berechnung: Die neuromuskuläre Steuerung zielt den Tritt präzise auf den Kopf oder den Nacken der Schlange, um ihr das Genick zu brechen oder das zentrale Nervensystem zu betäuben15.
+Fehlende Rückkopplung: Weil die physische Kontaktzeit von 15 Millisekunden kürzer ist als die Zeit, die Nervensignale vom Fuß zum Gehirn benötigen, fehlt die propriozeptive und somatosensorische Rückkopplung ("feedback loop"). Das bedeutet, der Vogel spürt den Kontakt erst, wenn der Tritt bereits ausgeführt und beendet ist. Ein Korrigieren der Bewegung während des Schlags ist biologisch unmöglich20.
+Mechanische Entladung: Das Tier verlässt sich vollständig auf die Vorausberechnung ("trusts the motion"). Die stark verlängerten Beinknochen, konkret der Tibiotarsus und der Tarsometatarsus, wirken in einer Peitschenbewegung als Hebel, um die 195 Newton punktgenau zu entladen20.
+Passive Verteidigung: Sollte der Tritt das Ziel verfehlen und die Schlange in den verbleibenden Millisekunden einen Gegenbiss ausführen, trifft dieser in der Regel auf die stark verhornten Schuppen des unteren Laufbeins, welche die Giftzähne nicht durchdringen können1. Gleichzeitig breitet der Vogel beim Angriff die Flügel aus und stellt die Nackenfedern auf ("Terror-Display"), was die Balance stabilisiert und die Silhouette optisch vergrößert, um Angriffe der Beute auf den gefiederten, weniger vulnerablen Bereich abzulenken1.
+4. Ökologie und Verhalten
+Lebensraum und Tagesrhythmus
+[Gesichert] Der Lebensraum des Sekretärs erstreckt sich endemisch über Subsahara-Afrika, von Senegal im Westen bis Somalia im Osten und südwärts bis Südafrika1. In Kenia besiedelt er alle Regionen mit Ausnahme der extrem ariden Wüstengebiete1. Bevorzugt werden offene Grassavannen mit kurzem Gras (unter 0,5 m Höhe), Buschland (Karoo) und landwirtschaftliche Flächen, in denen vereinzelt Akazien oder Wüstendatteln (Balanites) stehen1. Dichte Wälder, tiefes Buschwerk und geschlossene Vegetationsdecken werden strikt gemieden, da sie die Sicht auf die Beute und das schnelle Schreiten blockieren5.
+[Gesichert] Die Tiere sind ausschließlich tagaktiv. Ihr Rhythmus beginnt etwa ein bis zwei Stunden nach Sonnenaufgang, sobald der Morgentau getrocknet ist. Nach einer ausgiebigen Phase der Gefiederpflege (Preening) fliegen sie von ihren Schlafbäumen herab und beginnen die Jagd auf dem Boden3. Die Foragierungsdistanz ist enorm: Sekretäre legen täglich Strecken von bis zu 32 Kilometern (20 Meilen) gehend zurück1. Dabei halten sie eine Durchschnittsgeschwindigkeit von 2,5 bis 3,0 km/h bei einer Frequenz von etwa 120 Schritten pro Minute3. In den Mittagsstunden ruhen sie im Schatten1. Fliegen mit eigenem Antrieb ist für sie durch die langen Beine und großen Flügel mühsam und erschöpfend. Stattdessen nutzen sie in der Tageshitze die Thermik, um mit gespreizten Schwungfedern kräfteschonend in Höhen von bis zu 3.800 Metern aufzusteigen3. Bei Einbruch der Dämmerung kehren sie zurück und landen stets gegen den Wind auf den Kronen von Bäumen, wo sie übernachten3.
+Nahrung und Ökosystem-Dynamik
+[Umstritten] Zwar verweisen Trivialname und kulturelle Darstellung primär auf den Konsum von Giftschlangen1, quantitative Feldstudien zur Nahrungsökologie belegen jedoch ein anderes Bild. [Gesichert] Der Sekretär ist ein opportunistischer Karnivor, dessen Breitbanddiät mehrheitlich aus Gliederfüßern (Arthropoden wie Heuschrecken, Käfer, Spinnen, Skorpione) und kleinen Säugetieren (Mäuse, Ratten, Hasen, Mungos, Igel) besteht5. Reptilien, Amphibien und Nestlinge ergänzen die Nahrung6. Die Tiere stampfen gezielt in dichte Grasbüschel, um verborgene Beute aufzuscheuchen15. Die Beute wird meist im Ganzen verschluckt; unverdauliche Reste wie Haare, Knochen, Schuppen und Exoskelette sowie kleine Steine (Gastrolithen) würgen die Vögel in Form von Gewöllen (Pellets) an ihren Nist- und Schlafplätzen wieder aus1.
+[Gesichert] Ein dokumentiertes saisonales Verhaltensmuster ist das gezielte Aufsuchen von Flächenbränden (Bushfires). Sekretäre patrouillieren an den Rändern von oder direkt auf frisch verbrannten Arealen, um Kleintiere und Insekten zu fressen, die dem Feuer nicht rechtzeitig entkommen konnten oder verbrannt sind1.
+Fortpflanzung und Sozialstruktur
+[Gesichert] Sekretäre leben territorial. Monogame Paare besetzen Reviere, deren Größe bis zu 50 Quadratkilometer betragen kann1. Sie dulden keine Nahrungskonkurrenten in ihrem Kerngebiet; Raubadler (wie Aquila rapax), die versuchen, erlegte Beute zu stehlen (Kleptoparasitismus), werden in direkten physischen Auseinandersetzungen zu Boden getreten5. Größere Ansammlungen von bis zu 50 Individuen sind die absolute Ausnahme und treten nur punktuell bei Ressourcenkonzentration auf, wie etwa an verbliebenen Wasserlöchern in extremen Trockenphasen oder bei plötzlichen Massenvermehrungen von Heuschrecken3.
+[Gesichert] Die Fortpflanzung kann prinzipiell ganzjährig erfolgen1. Die Balz findet teils in der Luft statt und geht mit gutturalen Knurrlauten einher1. Der Nestbau in der Krone eines Dornenbaums beansprucht bis zu sechs Monate. Die Nester wachsen über Jahre durch ständige Erweiterungen und können Durchmesser von 2,4 Metern (8 feet) und eine Tiefe von 30 cm erreichen1. Das Gelege umfasst 1 bis 3 weiße bis blassgrüne Eier mit rauer Schale, die im Abstand von zwei bis drei Tagen gelegt werden1. Nach einer Inkubationszeit von 42 bis 46 Tagen schlüpfen die Küken, welche in den ersten 30 Tagen von beiden Eltern mit hochgewürgter Nahrung versorgt werden, bevor sie unzerkleinerte Beutestücke erhalten1. Nach etwa 12 Wochen (100 Tagen) werden die Jungtiere flügge1.
+Verhalten zur Reisezeit (Ende September bis 12. Oktober)
+[Gesichert] Für diesen Zeitraum am Ende der langen Trockenzeit und vor Beginn der kleinen Regenzeit konvergieren mehrere ökologische Faktoren:
+Sichtbarkeit: Die Savannengräser sind am Ende der Trockenzeit maximal abgefressen oder verdorrt, was die Sichtbarkeit der terrestrischen Vögel deutlich erhöht1.
+Brutaktivität: Evolutionsbiologisch fällt der Schwerpunkt der Brutaktivität in die späte Trockenzeit, sodass die ressourcenintensive Nestlingsphase mit dem Anstieg der Beutepopulationen durch den einsetzenden Regen synchronisiert ist3. Das Beobachten von Nestbau- oder Fütterungsaktivitäten in Akazienkronen ist hoch wahrscheinlich.
+Wasserbindung: Wasserlöcher sind in dieser Periode stark reduziert, was die Wahrscheinlichkeit erhöht, auf Agglomerationen ungebundener (jugendlicher oder partnerloser) Vögel an den letzten Dämmen zu treffen3.
+Feuer-Scavenging: Die trockene Biomasse macht Bushfires zu dieser Zeit häufig; Sekretäre patrouillieren folglich vermehrt an frisch verbrannten Flächen1.
+Ökologische Abhängigkeiten
+[Gesichert] Sekretäre stehen weit oben in der Nahrungskette, adulte Tiere haben keine nennenswerten natürlichen Prädatoren1. Das Nest bildet jedoch eine Mikro-Ressource: Eulen, Raben, Krähen und Milane profitieren direkt davon, indem sie unbeaufsichtigte Eier oder junge Küken in der Baumkrone erbeuten1. Endoparasitisch ist die Art ein spezifischer Wirt für Blutparasiten wie Leucocytozoon beaurepairei und Hepatozoon ellisgreineri5.
+5. Menschen und Kultur in Kenia
+[Überliefert] In den historischen Praktiken traditioneller Gesellschaften hat die Art spezifische Anwendungen gefunden. Die Gemeinschaft der Maasai in Ostafrika nutzte verbrannte Federn, die Eier und das Fett des Sekretärs als Ingredienzien in der traditionellen Medizin5. [Überliefert] Auch andere afrikanische Gemeinschaften schrieben dem Vogel Eigenschaften zu: Die Xhosa assoziieren mit ihm eine überdurchschnittliche Intelligenz5. Durch seine ökologische Funktion als aktiver Prädator von Giftschlangen und Schädlingen (Nagetiere) genießt er in Landwirtschaftsgebieten hohes Ansehen. Teilweise wurden Tiere historisch domestiziert, um Gehöfte von Schadnagern und Schlangen freizuhalten3. In Südafrika trägt er wegen dieser Effizienz den lokalen Beinamen „Devil’s Horse“6. [Gesichert] Seine Bedeutung manifestiert sich auch in der modernen Heraldik: Der Sekretär ziert als Wappentier das Staatswappen des Sudan und seit dem Jahr 2000 das südafrikanische Wappen, wo er Wachstum und den Schutz vor Staatsfeinden symbolisiert1.
+[Gesichert] Die Bestandserhebung der Art dokumentiert einen dramatischen Rückgang. Im Jahr 2011 wurde der Sekretär von der International Union for Conservation of Nature (IUCN) als „Vulnerable“ (Gefährdet) eingestuft, jedoch aufgrund rapide sinkender Zahlen im gesamten Verbreitungsgebiet im Jahr 2020 auf den Status „Endangered“ (Stark gefährdet) hochgestuft (BirdLife International 2020)1. Aktuelle Schätzungen der IUCN für das Jahr 2024 taxieren die Gesamtpopulation auf 6.700 bis 67.000 adulte Individuen mit abnehmender Tendenz38. Daten aus Citizen-Science-Projekten (SABAP1 vs. SABAP2) bestätigen erhebliche Rückgänge der Melderaten34.
+[Gesichert] Der Konfliktraum zwischen Mensch und Tier wird von Habitatverlust dominiert. Die Fragmentierung von Grassavannen durch Infrastruktur, die Zerschneidung durch Straßen und der Bau von Windparks reduzieren die Jagdreviere. Überweidung durch Nutztiere dezimiert das Grasland und entzieht dem Ökosystem die Kleintiere, von denen sich der Sekretär ernährt. Zudem dokumentieren Berichte eine hohe Mortalität durch Kollisionen: In unzureichend markierten Stromleitungen, Windturbinen und vor allem Weidezäunen verfangen sich die Vögel im Tiefflug mit ihren langen Beinen tödlich1. Die Art gilt in Teilen Westafrikas bereits als lokal ausgestorben und konzentriert sich in Ostafrika zunehmend auf ausgewiesene Naturschutzgebiete1.
+6. Wissenschaftsgeschichte
+[Gesichert] Die europäische Erfassung der Art begann im Jahr 1767, als ein Beamter der Niederländischen Ostindien-Kompanie ein lebendes Exemplar vom Kap der Guten Hoffnung in die Niederlande überführte3. [Gesichert] 1769 nutzte der niederländische Naturforscher Arnout Vosmaer dieses Exemplar für die erste publizierte Beschreibung. Er hielt fest, dass niederländische Siedler das Tier wegen seines an einen Bogenschützen erinnernden Gangs "sagittarius" nannten3. [Gesichert] 1779 etablierte der englische Illustrator John Frederick Miller in seiner Publikation Icones animalium et plantarum den formellen binominalen Namen Falco serpentarius. Da dies die älteste gültige Publikation des Artnamens ist, unterliegt serpentarius der Prioritätsregel3. [Gesichert] 1783 ordnete der französische Naturforscher Johann Hermann das Tier in seinem Werk Tabula affinitatum animalium der eigenen Gattung Sagittarius zu, was die phylogenetische Isolation der Art widerspiegelte3.
+[Gesichert] Die Abstammungslinie blieb über Jahrhunderte ein taxonomisches Rätsel, bis molekulargenetische Studien in den Jahren 2008 und 2015 die phylogenetische Herkunft zweifelsfrei klärten. DNA-Analysen belegten, dass der Sekretär ein Mitglied der Accipitriformes ist und das Schwestertaxon zu einer Klade bildet, in der Fischadler und Habichtartige verortet sind5.
+[Gesichert] Das Jahr 2016 markierte einen Durchbruch in der Erforschung der Biomechanik. In diesem Jahr veröffentlichten Campbell P. Murn, Steven J. Portugal, Emily L. Sparkes und Monica A. Daley im Fachjournal Current Biology die Studie "The fast and forceful kicking strike of the secretary bird". Durch die Nutzung von mit Kraftmessern präparierten Gummischlangen gelang es ihnen, die Trittkraft von 195 N in 15 Millisekunden empirisch zu quantifizieren und die motorischen Restriktionen (fehlendes Feedback) zu erklären25.
+7. Fotografie
+[Gesichert] Bezogen auf die geplante Reiseroute (Nairobi und Umgebung) stellt der Nairobi National Park das vielversprechendste Terrain für fotografische Begegnungen dar. Der Park verzeichnet mit über 500 Arten und einer Dichte von etwa 4,3 Vögeln pro Quadratkilometer eine sehr hohe Avifauna-Konzentration auf kleinem Raum39. Die halbariden, offenen Grassavannen des Parks minimieren den Sichtschutz durch dichte Vegetation, was das Auffinden der charakteristischen, hohen Silhouette des Sekretärs extrem erleichtert39.
+[Gesichert] Zeitpunkt und Positionierung: Die Morgendämmerung (Dawn) liefert flaches Licht für Silhouette-Aufnahmen. Fotografen sollten sich an Vegetationskanten positionieren, an denen kurz abgeweidetes Gras auf höhere Grasbestände trifft, und Horizontlinien sowie Termitenhügel absuchen39. Eine zweite Aktivitätsphase bietet sich 1 bis 2 Stunden nach Sonnenaufgang (ca. 7:30 bis 8:30 Uhr), wenn der Morgentau abgetrocknet ist und die Tiere vom Preening in den Schreitflug übergehen3.
+[Gesichert] Ausrüstung: Da terrestrische Greifvögel im Nairobi National Park eine große Fluchtdistanz wahren, werden Teleobjektive der Reichweite 400 bis 600 mm zwingend empfohlen9. Die mitgeführten Objektive (100–400 mm und 150–600 mm) decken dieses Spektrum vollständig ab.
+[Gesichert] Verhalten und Belastungswerte:
+Abwarten lohnt sich bei: Dem Beutefang. Der Vogel zeigt dann sein "Terror Display", breitet die Flügel weit aus und stellt die spatelförmigen Nackenfedern markant auf1. Weiterhin ist das Absuchen von Arealen mit frischen Brandspuren optisch reizvoll1.
+Verschlusszeiten: Für Vögel im langsamen Schritt (Pacing) belegen EXIF-Daten von Feldaufnahmen Werte von 1/400 s bis 1/500 s (bei f/4 bis f/10) als ausreichend, um scharfe Bilder zu erzeugen9. Für das Einfrieren des 15-Millisekunden-Trittes fehlen in den Quellen spezifische EXIF-Werte, physikalisch erzwingt eine solche Dynamik jedoch Zeiten im Bereich der Tausendstelsekunden.
+Typische Fehler: Das Parken direkt an der offensichtlichsten Sichtkante; das Ignorieren der Windrichtung an Gewässern (Wind kräuselt das Wasser und zerstört Spiegelungen); sowie das Laufenlassen des Motors beim Scannen des Gebiets39.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle:
+https://animaldiversity.org/accounts/Sagittarius_serpentarius/ Das Animal Diversity Web der University of Michigan bietet detaillierte wissenschaftliche Beschreibungen zur Morphologie, Fortpflanzung, Nahrungszusammensetzung und Analyse der Gewölle15.
+https://avibase.bsc-eoc.org/species.jsp?avibaseid=DCBCCEB89FD9FC3F Avibase liefert eine lückenlose Dokumentation der taxonomischen Klassifikation inklusive der historischen Protonyme von Miller (1779)4.
+Fotos:
+https://commons.wikimedia.org/wiki/Sagittarius_serpentarius Die Hauptkategorie in Wikimedia Commons bündelt Dutzende verifizierter, hochauflösender Fotos aus Nationalparks wie Amboseli und Serengeti, einschließlich Flug- und Jagdaufnahmen5.
+https://www.flickr.com/photos/nostri-imago/2855059214 Ein Referenzfoto für Fotografen, da es vollständige EXIF-Kameradaten (Canon EOS 5D, 200 mm, 1/400 s) einer Aufnahme bei Tageslicht offenlegt21.
+Tonaufnahme des Rufs:
+https://www.xeno-canto.org/species/Sagittarius-serpentarius Die ornithologische Audiodatenbank xeno-canto stellt spezifische Tonaufnahmen der leisen, froschähnlichen Knurrlaute und Balzrufe des Sekretärs bereit8.
+9. Visuelle Beschreibung für eine Illustration
+The Secretarybird presents an eccentric, instantly recognizable silhouette that fuses the raptorial upper body of an eagle with the excessively elongated, stiff legs of a wading crane. Standing tall at 1.3 meters, its plumage offers a sharp, elegant contrast: a pale, dove-grey body transitioning into clean white lower feathers, abruptly punctuated by deep black primary and secondary flight feathers, muscular black thighs, and two sweeping, ribbon-like central tail feathers. Its featherless, vivid red-orange face is framed by a bluish hooked beak and distinct, bristle-like black eyelashes, while a crest of long, spatulate black feathers rests loosely against the back of its neck, swaying with each deliberate step.
+Details:
+Feder: A single crest feather from the nape, approximately 15 centimeters long, tapering narrowly at the base and broadening into a flattened, rounded spatulate tip.
+Fuß: The lower leg and foot, covered in thick, heavily armored pale-pinkish scales, ending in three short, stout forward toes joined by a minimal webbing, emphasizing brutal stomping force over grasping ability.
+Auge: A macro view of the pale brown iris set against bare orange skin, highlighting the unusual modified feathers forming stiff, barb-less eyelashes along the lid.
+Kulturelle Vignette:
+A traditional Maasai medicine pouch made from weathered hide and bound with leather sinew, featuring a single, charred black Secretarybird crest feather secured in its knot, referencing the historical use of ol-enbai nabo in local healing practices.
+10. Was du nicht belegen konntest
+Gemäß der Anforderung, offene Punkte und Lücken in der Datenlage transparent zu dokumentieren, konnten folgende spezifischen Anfragen aus dem bereitgestellten Rohmaterial nicht belegt werden:
+Lokale Namen und deren Bedeutung für Kikuyu, Samburu und Giriama: Trotz der Abfrage waren in den Forschungsdaten keine Trivialnamen (und logischerweise auch keine Etymologien) für diese drei Gemeinschaften auffindbar.
+Wörtliche Bedeutung der Namen für Maasai (Ol-mamura), Kamba (ndei), Xhosa (inxhanxhosi) und Zulu (intungunono): Die Namen sind als Vokabeln dokumentiert, ihre linguistische Herleitung oder wörtliche Übersetzung (wie sie bei ol-enbai nabo = "ein Pfeil" vorliegt) war jedoch nicht belegt.
+Alltagsvergleich für Größenordnung: Bis auf die Angabe "nearly four feet tall" (knapp 1,22 m), was etwa der Höhe eines Brustkorbs oder Türgriffs entspricht, fanden sich keine expliziten Alltagsvergleiche (z. B. Fußballfeld, Handfläche) in den Quellen.
+Verschlusszeiten für dynamische Aktionen (Flug, Sprung, Tritt): Die zugänglichen EXIF-Daten deckten lediglich statische Situationen oder langsames Gehen ab (1/400 s bis 1/500 s). Belastbare Richtwerte für die Fotografie des 15-Millisekunden-Trittes fehlten.
+Fluchtdistanz in Metern: Die Quellen geben lediglich generisch an, dass die Tiere im Nairobi National Park "Abstand halten" (keep distance) und Brennweiten ab 400 mm erforderlich sind. Eine numerische Angabe zur Fluchtdistanz in Metern existiert in den Daten nicht.
+Works cited
+Secretary Bird - MpalaLive, https://www.mpalalive.org/field_guide/view/secretary_bird/1000
+What Secretary Bird Scientific Name and Their Ecosystem Role?, https://jerrytanzaniatours.com/blog/secretary-bird-scientific-name/
+Secretarybird - Wikipedia, https://en.wikipedia.org/wiki/Secretarybird
+Sagittarius serpentarius (Secretarybird) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=DCBCCEB89FD9FC3F
+Sagittarius serpentarius - Wikimedia Commons, https://commons.wikimedia.org/wiki/Sagittarius_serpentarius
+Sagittarius serpentarius - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/sagittarius-serpentarius/?lang=en
+Secretary Bird (Sagittarius serpentarius) - Wildlife ACT, https://www.wildlifeact.com/blog/secretary-bird-sagittarius-serpentarius
+Black Secretarybird Facts - Facebook, https://www.facebook.com/fb-answers/black-secretarybird-facts/
+File:Sagittarius serpentarius Sekretär.JPG - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Sagittarius_serpentarius_Sekret%C3%A4r.JPG
+Wildlife Guide to East Africa | PDF | Bat | Camera - Scribd, https://www.scribd.com/document/936116055/Wildlife-of-East-Africa-1
+What bird species is in the Ruiru, Kiambu County, Kenya video?, https://www.facebook.com/groups/23197610550/posts/10174000971625551/
+What type of a bird do you know? 1. Chepchubo - Facebook, https://www.facebook.com/groups/1875651269182252/posts/3268493173231381/
+Akambainbritishe 00 Linduoft | PDF | East Africa | Kenya - Scribd, https://www.scribd.com/document/1054817247/akambainbritishe00linduoft-1
+Secretarybird or secretary bird (Sagittarius serpentarius) Is a large, https://www.facebook.com/azka.kicau/photos/1489666432743171/
+Sagittarius serpentarius (secretary bird) - Animal Diversity Web, https://animaldiversity.org/accounts/Sagittarius_serpentarius/
+Secretarybird - Amnéville - Zoo AMNEVILLE, https://zoo-amneville.com/en/secretary-bird/
+This is a Secretary Bird! The name comes from ... - Facebook, https://www.facebook.com/vetpaw/posts/this-is-a-secretary-birdthe-name-comes-from-the-long-black-feathers-that-stick-o/519209223837322/
+Bird Sagittariidae - Secretarybird - Fat Birder, https://fatbirder.com/ornithology/sagittariidae-secretarybird/
+Secretary Bird (Sagittarius serpentarius) Dimensions & Drawings, https://www.dimensions.com/element/secretary-bird-sagittarius-serpentarius
+Meet the secretary bird, a bird of prey that gave up the sky. She, https://www.facebook.com/100084294215102/posts/meet-the-secretary-bird-a-bird-of-prey-that-gave-up-the-sky-she-hunts-on-foot-wa/1006461472173651/
+File:Secretary Bird (Sagittarius serpentarius).jpg, https://commons.wikimedia.org/wiki/File:Secretary_Bird_(Sagittarius_serpentarius).jpg
+Secretary bird facts and unique characteristics - Facebook, https://www.facebook.com/groups/707260619331135/posts/4790451891011967/
+National Museum, Bloemfontein - Facebook, https://www.facebook.com/NationalMuseumBloemfontein/posts/%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%B2%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%9D-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%A4%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%AF%F0%9D%90%A8%F0%9D%90%9E%CC%88%F0%9D%90%A5-%F0%9D%91%BA%F0%9D%92%82%F0%9D%92%88%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%95%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%96%F0%9D%92%94-%F0%9D%92%94%F0%9D%92%86%F0%9D%92%93%F0%9D%92%91%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%95%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%96%F0%9D%92%94%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%9E-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%92%F0%9D%90%B0%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%9D%F0%9D%90%AD-%F0%9D%90%8E%F0%9D%90%AB%F0%9D%90%A7%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A0/819499440683911/
+Secretary bird's powerful snake-stomping abilities - Facebook, https://www.facebook.com/groups/673474311594094/posts/1087705036837684/
+The fast and forceful kicking strike of the secretary bird - ResearchGate, https://www.researchgate.net/publication/291830118_The_fast_and_forceful_kicking_strike_of_the_secretary_bird
+Polish Archaeology in the Mediterranean 27/2. Research, https://wuw.pl/data/include/cms//PAM27_Tom2_2020.pdf?v=1583404278860
+Non-visual camouflage predicts hunting success in a wild predator, https://www.researchgate.net/publication/373563975_Non-visual_camouflage_predicts_hunting_success_in_a_wild_predator
+Pi is 0960982215014839 | PDF | Force | Birds - Scribd, https://www.scribd.com/document/1076303369/Pi-is-0960982215014839
+Secretary bird's powerful snake-stomping abilities - Facebook, https://www.facebook.com/groups/142126849181880/posts/9933686650025802/
+Sekretär (Vogel) - Wikipedia, https://de.wikipedia.org/wiki/Sekret%C3%A4r_(Vogel)
+Secretary bird spotted roosting in tree at Kruger - Facebook, https://www.facebook.com/groups/19988341712/posts/10161833685156713/
+Secretary bird (Sagittarius serpentarius), Amboseli National Park, https://www.grida.no/resources/2407
+Secretary Bird breeding and hunting habits - Facebook, https://www.facebook.com/groups/indibw/posts/5687500244648213/
+Recent distribution and population trends for Secretarybirds, https://www.cambridge.org/core/journals/bird-conservation-international/article/recent-distribution-and-population-trends-for-secretarybirds-sagittarius-serpentarius-in-south-africa-lesotho-and-eswatini-from-citizen-science-data/B7C0CE90AABC08EE0AD9A03BA0F169C5
+Summary of Bird Monitoring Reports from Operational Wind Energy, https://birdlife.org.za/wp-content/uploads/Summary-of-Bird-Monitoring-Reports-from-Operational-Wind-Energy-Facilities-in-South-Africa-No.3.pdf
+Dispersal dynamics of juvenile SecretarybirdsSagittarius, https://www.researchgate.net/publication/333614927_Dispersal_dynamics_of_juvenile_SecretarybirdsSagittarius_serpentariusin_southern_Africa
+(PDF) Recent distribution and population trends for Secretarybirds, https://www.researchgate.net/publication/384122915_Recent_distribution_and_population_trends_for_Secretarybirds_Sagittarius_serpentarius_in_South_Africa_Lesotho_and_Eswatini_from_citizen_science_data
+List of Accipitriformes by population - Wikipedia, https://en.wikipedia.org/wiki/List_of_Accipitriformes_by_population
+Nairobi National Park Birdwatching Guide, https://nairobipark.org/nairobi-national-park-birdwatching-guide/
+File:Secretary Bird (Sagittarius serpentarius) (30301925865).jpg, https://commons.wikimedia.org/wiki/File:Secretary_Bird_(Sagittarius_serpentarius)_(30301925865).jpg
+African Scissor Bird Facts - Facebook, https://www.facebook.com/fb-answers/african-scissor-bird-facts/

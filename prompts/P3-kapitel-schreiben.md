@@ -36,7 +36,7 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 - Kein Absatz über 200 Wörter.
 - Erster Satz der Geschichte unter 25 Wörtern.
 - Letzter Absatz der Geschichte unter 80 Wörtern.
-- Keine Gedankenstriche, weder "–" noch "—". Punkt, Komma, Doppelpunkt, Klammer.
+- Keine Gedankenstriche, weder Halbgeviertstrich (U+2013) noch Geviertstrich (U+2014). Punkt, Komma, Doppelpunkt, Klammer.
 - Das Ende kehrt zum Anfangsbild zurück. Kein Fazit, keine Moral, kein Allgemeinplatz.
 - Höchstens zwei Humor-Einwürfe, höchstens zwei rhetorische Fragen und die nur als Rätsel-Setup.
 - **Jeder lateinische Name steht kursiv, Gattung wie Art**, auch der von Nebenarten, Wirtspflanzen, Erregern, Bestäubern und Synonymen, und auch der allein stehende Gattungsname. Kein Ermessen. Nicht kursiv sind Handels- und Drogennamen, auch wenn sie wie ein Taxon aussehen. Die Regel "höchstens einmal im Fließtext" gilt nur für die Art des Kapitels.
@@ -132,20 +132,30 @@ Eine Datei `chapters/{nr}-{slug}.html` nach `styleguide/02-kapitel-template.md`.
 
 ## Selbstprüfung vor der Abgabe
 
-Zwei Skripte, beide kostenlos, beide vor der Abgabe:
+**Du rufst kein Skript auf.** Die Hauptsession lässt `regel_check.py` und
+`research_check.py` einmal über dein Kapitel laufen, sobald du fertig bist. Ihre
+Ausgabe geht an den Prüfer, nicht an dich. Der Grund ist Geld: ein Agent, der
+Skripte startet und ihre Ausgabe liest, kostete in der Messung das Vierfache
+eines Agenten, der nur seine drei Dateien liest.
 
-```
-python3 scripts/regel_check.py chapters/{nr}-{slug}.html
-python3 scripts/research_check.py chapters/{nr}-{slug}.html --research research/{nr}-{slug}.txt
-```
+Was die Skripte finden, hast du also nicht mehr selbst in der Hand. Zurück
+bekommst du ein Kapitel genau einmal, und nur bei **rotem** Regel-Check: harte
+Untergrenze von 550 Wörtern unterschritten, fehlender Block, Gedankenstrich.
+Gelbe Befunde gehen durch, korrigiert werden sie später als Patch.
 
-Behebe, was sie melden. Höchstens zwei Runden. Bleibt danach etwas offen, melde es, statt es zu verstecken.
+Diese beiden prüfst du darum vor der Abgabe von Hand, weil ein Patch sie nicht
+mehr reparieren kann:
 
-`regel_check.py` zählt: Längen, Absätze, Sätze, verbotene Zeichen und Wörter, Marker, Dreierketten.
+- **Länge.** Zähl die Wörter der Geschichte. Unter 800 ist gelb, unter 550 ist
+  kein Kapitel. Ein Patch darf nur streichen, also wird ein zu kurzes Kapitel
+  nie länger.
+- **Gedankenstriche.** Weder Halbgeviertstrich (U+2013) noch Geviertstrich (U+2014). Das färbt sofort rot.
 
-`research_check.py` liest gegen das Research-Doc: Zahlen, die dort nicht stehen, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), und Aufzählungen, deren Quellsatz ein Vorbehaltswort trägt und dein Satz nicht. Seine Befunde sind Verdachtsfälle, keine Urteile. Prüf jeden einzeln nach, bevor du änderst.
-
-**Beim Beheben gilt dieselbe Regel wie in der Korrektur: streichen oder wörtlich aus dem Doc übernehmen, nicht umformulieren.** Jeder Fehler, der im Pilot nach dem Erstentwurf entstanden ist, entstand beim Umformulieren. Keiner beim Streichen.
+Alles Übrige findest du nur, indem du deinen eigenen Text gegen das Research-Doc
+liest: verschluckte Vorbehaltswörter, unbelegte Erklärungen von Fachbegriffen,
+Statusfehler. In Kapitel 006 sind genau dort fünf Abweichungen entstanden, die
+weder die Skripte noch die erste QS-Runde gefunden haben, zwei davon ein
+weggelassenes „insbesondere".
 
 Was kein Skript findet, findest du nur, indem du deinen eigenen Text noch einmal gegen das Research-Doc liest: unbelegte Erklärungen von Fachbegriffen und Statusfehler.
 

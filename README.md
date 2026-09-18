@@ -11,17 +11,17 @@ weggefallen, weil ein Skript die Patches anwendet.
 
 | # | Schritt | Wer | Was passiert |
 |---|---------|-----|--------------|
-| 1 | Substanz-Check | Sonnet 5 | Research-Doc aus Drive holen, nach `research/` spiegeln, messen: Zeichen, belegte Zahlen, URLs. Urteil: trägt das Doc ein volles Kapitel oder ist es dünn? |
-| 2 | Schreiben | Opus | Kapitel nach `prompts/P3-kapitel-schreiben.md` als HTML, danach Selbstprüfung gegen die Skripte, höchstens zwei Runden |
-| 3 | Skripte | Skript | `regel_check.py` (zählt), `research_check.py` (liest gegen das Research-Doc). Kostenlos, deterministisch, sofort |
-| 4 | QS | Sonnet 5 | Zwei Prüfungen nach `prompts/P4-qs.md`, sieht Kapitel und Research-Doc, ändert nichts. Ausgabe sind **Patches**, keine Prosa |
+| 1 | Substanz-Check | entfällt | Die 76 Research-Docs liegen als `research/{nr}.txt` im Repo. Nicht neu aus Drive spiegeln. |
+| 2 | Schreiben | Opus | Kapitel nach `prompts/P3-kapitel-schreiben.md` als HTML. Liest genau vier Dateien, ruft kein Skript auf |
+| 3 | Skripte | Skript | `regel_check.py` (zählt), `research_check.py` (liest gegen das Research-Doc). Laufen in der Hauptsession, ihre Ausgabe geht in den QS-Auftrag |
+| 4 | QS | Sonnet, Effort low | Zwei Prüfungen nach `prompts/P4-qs.md`, sieht Kapitel und Research-Doc, ändert nichts. Ausgabe sind **Patches**, keine Prosa |
 | 5 | Patch | Skript | `patch_anwenden.py` wendet an, was die drei Patch-Regeln besteht, und lehnt jede Umformulierung ab |
 
 Der Schreiber sieht seine eigene Prüfung nie: Opus schreibt, Sonnet 5 prüft.
 Was sich zählen lässt, zählt ein Skript und kein Modell.
 
-**Höchstens zwei QS-Runden je Kapitel, angestrebt ist eine (E22).** Was die
-zweite Runde nicht findet, bleibt im Buch. Das ist eine bewusste Entscheidung
+**Höchstens zwei QS-Runden je Kapitel, und Runde 2 nur bei roter Runde 1
+(E22, E24).** Was Runde 1 bei grüner Ampel nicht findet, bleibt im Buch. Das ist eine bewusste Entscheidung
 zugunsten von Tempo: 95 Kapitel in fünf Tagen bei bewusst etwas niedrigerer
 Qualität pro Kapitel. Runde 3 im Pilot fand noch ein echtes `FALSCH`, also
 kostet die Regel etwas. Sie wurde trotzdem so gesetzt.
@@ -169,10 +169,13 @@ eine Litanei. Fehlt für eine Sprache ein Name, ist das kein Mangel und kein Mar
 ## Verzeichnisse
 
 ```
+CLAUDE.md     Arbeitsregeln fuer Agenten: Workflow-Groessen, Dateilisten,
+              Token-Grenzen. Gilt vor allen anderen Vorgaben
+chapters.tsv  Nummer, Trivialname, Lebensraum fuer alle 100 Kapitel
 styleguide/   Text-Styleguide V2 und Kapitel-Template (HTML)
 prompts/      Arbeitsfassungen von P3 (Schreiben) und P4 (QS)
-research/     Spiegel der Deep-Research-Docs aus Drive, Substanz-Messung,
-              namen-bedeutungen.md (geschlossener Vermerk, E12)
+research/     {nr}.txt, 76 Spiegel der Deep-Research-Docs. Es fehlen 24:
+              076 bis 078 und 080 bis 100. Das ist der Engpass des Projekts
 chapters/     {nr}-{slug}.html, das Ergebnis
 qs/           {nr}-{slug}.md, Ampel plus Patch-Block
 berichte/     Pilotbericht, Re-QS und der Prozessdurchgang

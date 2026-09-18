@@ -6,78 +6,92 @@ Im Rahmen der Recherche der lokalen Trivialnamen stieß die im Vorfeld der Unter
 Die folgende Tabelle fasst die gesicherten Trivialnamen und lokalen Bezeichnungen zusammen, wobei wörtliche Übersetzungen in den zugrunde liegenden linguistischen Aufzeichnungen nicht dokumentiert wurden (vermutet).
 
 Sprache / Gemeinschaft
-Name
-Status der Zuordnung
-Wörtliche Bedeutung
-Quelle
+	Name
+	Status der Zuordnung
+	Wörtliche Bedeutung
+	Quelle
+
 Latein (Wissenschaftlich)
-Tauraco hartlaubi
-gesichert
-Gattung: westafrikanischer Ursprung; Art: Eponym für Gustav Hartlaub
-1
+	Tauraco hartlaubi
+	gesichert
+	Gattung: westafrikanischer Ursprung; Art: Eponym für Gustav Hartlaub
+	1
+
 Deutsch
-Seidenturako, Hartlaubturako (selten: Kenyaturako)
-gesichert
-unbekannt
-1
+	Seidenturako, Hartlaubturako (selten: Kenyaturako)
+	gesichert
+	unbekannt
+	1
+
 Englisch
-Hartlaub's Turaco
-gesichert
-Eponym für Gustav Hartlaub
-1
+	Hartlaub's Turaco
+	gesichert
+	Eponym für Gustav Hartlaub
+	1
+
 Swahili
-shorobo buluu
-gesichert
-unbekannt
-9
+	shorobo buluu
+	gesichert
+	unbekannt
+	9
+
 Maa (Maasai)
-en-jirle, en-keiwua, en-kurengo
-gesichert
-unbekannt
-10
+	en-jirle, en-keiwua, en-kurengo
+	gesichert
+	unbekannt
+	10
+
 Kikuyu (Gĩkũyũ)
-Ngũgũ
-gesichert
-unbekannt
-1
+	Ngũgũ
+	gesichert
+	unbekannt
+	1
+
 Giriama
-unbekannt
-vermutet (Kulukulu ist T. fischeri)
-unbekannt
-6
+	unbekannt
+	vermutet (Kulukulu ist T. fischeri)
+	unbekannt
+	6
+
 Samburu
-unbekannt
--
--
--
+	unbekannt
+	-
+	-
+	-
+
 Kamba
-unbekannt
--
--
--
+	unbekannt
+	-
+	-
+	-
 2. Erscheinung, mit Maßen
 Die Morphologie von Tauraco hartlaubi ist durch Proportionen gekennzeichnet, die an das Leben im dichten Blätterdach angepasst sind. Der Körperbau zeichnet sich durch einen verhältnismäßig langen und breiten Schwanz, kurze, stark abgerundete Flügel sowie einen kurzen, robusten Schnabel aus (gesichert)12.
 Die Körpermaße der Art sind in den vorliegenden taxonomischen Datenbanken und Feldhandbüchern konsistent dokumentiert (gesichert). Die Gesamtlänge der Vögel von der Schnabel- bis zur Schwanzspitze liegt bei exakt 43,0 cm14, wobei alternative Messungen eine natürliche Variationsspanne zwischen 38,1 cm und 45,7 cm (15 bis 18 Zoll) angeben13. Zur Veranschaulichung der Größenordnung lässt sich die Durchschnittslänge von 43,0 cm präzise mit der Länge eines durchschnittlichen erwachsenen menschlichen Unterarms (gemessen vom Ellbogengelenk bis zu den Fingerspitzen) vergleichen (errechnet).
 Das Körpergewicht weist einen geringfügigen Sexualdimorphismus auf, wenngleich sich die Spannen stark überschneiden. Ein typisches adultes Exemplar wiegt durchschnittlich 232 g (gesichert)1. Männliche Individuen weisen eine Gewichtsspanne von 210 g bis 270 g auf, während Weibchen zwischen 195 g und 275 g wiegen (gesichert)15. Das Geburtsgewicht der Küken ist mit 21 g dokumentiert (gesichert)1.
 
 Parameter
-Metrischer Wert / Spanne
-Quelle
+	Metrischer Wert / Spanne
+	Quelle
+
 Gesamtlänge
-43,0 cm (Spanne: 38,1 - 45,7 cm)
-13
+	43,0 cm (Spanne: 38,1 - 45,7 cm)
+	13
+
 Durchschnittliches Adultgewicht
-232 g
-1
+	232 g
+	1
+
 Adultgewicht (Männchen)
-210 - 270 g
-15
+	210 - 270 g
+	15
+
 Adultgewicht (Weibchen)
-195 - 275 g
-15
+	195 - 275 g
+	15
+
 Geburtsgewicht
-21 g
-1
+	21 g
+	1
 Das Körpergefieder (Rumpf und Brust) ist in einem tiefen Grün mit einem stark glänzenden Schimmer gefärbt (gesichert)17. Der Kopf trägt eine hoch aufgerichtete, glänzend blau-schwarze bis dunkelblaue Haube (Krone), die nahtlos in dunkelblaue Flügeldecken und einen dunkelblauen Schwanz übergeht (gesichert)1. Das wichtigste Feldmerkmal zur visuellen Identifikation, insbesondere zur Unterscheidung vom ähnlichen Glanzhaubenturako (Purple-crested Turaco), ist die Gesichtszeichnung: T. hartlaubi besitzt einen markanten, rein weißen Fleck unmittelbar vor dem dunklen Auge sowie eine zweite weiße Linie, die hinter und leicht unter dem Auge verläuft (gesichert)1.
 Während die primäre Erscheinung des ruhenden Vogels von Grün- und Blautönen dominiert wird, offenbart sich im Flug ein weiteres, für die Familie charakteristisches Merkmal: Die Handschwingen weisen große, karmesinrote (crimson) Flächen auf, die in Ruhestellung vollständig unter den Deckfedern verborgen bleiben (gesichert)1.
 3. Der Mechanismus

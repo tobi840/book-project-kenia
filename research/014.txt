@@ -1,0 +1,216 @@
+Strukturiertes Rohmaterial: Dispholidus typus (Boomslang) auf der Kenia-Route
+1. Namen und Etymologie
+Die Nomenklatur und taxonomische Zuordnung der Art basieren auf einer komplexen wissenschaftlichen Historie, die bis in das frühe 19. Jahrhundert zurückreicht.
+Wissenschaftlicher Name und Historie: Die Erstbeschreibung der Art erfolgte im Jahr 1828 durch den schottischen Zoologen und Militärarzt Sir Andrew Smith unter dem Basionym Bucephalus typus (gesichert)1. Smith beschrieb das Typusexemplar anhand eines Fundes aus der Region "Old Latakoo" in Südafrika3. Im Jahr 1829 ergänzte Smith die Beschreibung um eine farbliche Variation, die er Bucephalus viridis nannte2. Der heute international gültige Gattungsname Dispholidus wurde im Jahr 1832 von dem französischen Arzt und Zoologen Georges Louis Duvernoy etabliert (gesichert)4. Die Gattung ist monotypisch, wobei neuere molekulare und morphologische Analysen zur Abspaltung von Insel- und Regionalpopulationen geführt haben.
+Die Etymologie der wissenschaftlichen Bezeichnung leitet sich aus dem Altgriechischen ab (gesichert):
+Dispholidus: Ein Neologismus aus der Vorsilbe dis (δις), bedeutend für "zwei" oder "doppelt", und dem Nomen pholis (φολίς), welches "Schuppe" bedeutet4. Duvernoy wählte diesen Namen, um auf spezifische morphologische Merkmale hinzuweisen, namentlich die doppelte Analschuppe (Scutum anale) und die paarig angeordneten 112 Kaudalschuppen4.
+typus: Entstammt dem griechischen typos, was wörtlich "Abdruck" oder "Markierung" bedeutet. In der taxonomischen Nomenklatur wird es verwendet, um die Art als das primäre Typusexemplar der Gattung zu deklarieren4.
+In der jüngeren wissenschaftlichen Literatur werden verschiedene Unterarten und nah verwandte neue Arten gelistet, die sich durch geografische Isolation und Schuppenzählung unterscheiden (gesichert):
+
+Taxon
+	Autor und Jahr
+	Typuslokalität
+	Bemerkung
+	Quelle
+
+D. typus typus
+	(A. Smith, 1828)
+	Südafrika
+	Nominatform
+	1
+
+D. typus kivuensis
+	Laurent, 1955
+	Uvira, Kivu (DRK)
+	Belegt für Kenia, Uganda, Ruanda
+	2
+
+D. typus viridis
+	Boulenger, 1905
+	Old Latakoo
+	Taxonomischer Status umstritten
+	4
+
+D. punctatus
+	Laurent, 1955
+	Dundo, Angola
+	Zuvor Unterart, nun eigene Art
+	9
+
+D. pembae
+	Hughes, 2021
+	Mkanyageni, Pemba
+	Neue Art (Endemit auf Pemba, Tansania)
+	11
+Trivialnamen:
+Deutsch: Afrikanische Baumschlange (gesichert), Grüne Boomslang (gesichert)4.
+Englisch: Boomslang (gesichert), Common Boomslang (gesichert)2.
+Afrikaans: Boomslang (gesichert). Der Name wurde im Zeitraum 1785 bis 1795 dokumentiert und leitet sich wörtlich aus den Begriffen boom (Baum) und slang (Schlange) ab14.
+Swahili: In Zentral-Unguja und Ostafrika wird der allgemeine Begriff Nyoka für "Schlange" verwendet (gesichert)16. Spezifische lokale Modifikationen oder Lehnwörter wie Nguvumali werden in einigen ethno-herpetologischen Quellen mit Schlangen in Verbindung gebracht, ein direkter etymologischer Beleg, der ausschließlich D. typus meint, ist jedoch umstritten beziehungsweise nicht zweifelsfrei geklärt16.
+Maa, Kikuyu, Samburu, Giriama, Kamba: Für diese Sprachen sind nach Auswertung der vorliegenden Ethno-Herpetologie-Dokumente keine artspezifischen Namen für D. typus belegt (unbekannt). Diese Gemeinschaften klassifizieren Schlangen zumeist nach dem Habitat oder dem Gefährlichkeitsgrad, verzichten jedoch auf eine exakte Artabgrenzung im linnéschen Sinne16.
+2. Erscheinung, mit Maßen
+Dispholidus typus ist eine an das Klettern adaptierte, schlanke Natter mit einem ausgeprägten Sexualdimorphismus und ontogenetischen Farbwechseln.
+Körperbau und Morphometrie: Der Körper ist lateral (seitlich) komprimiert, was die Gewichtsverteilung im Geäst optimiert (gesichert)2. Der Kopf ist deutlich vom schlanken Hals abgesetzt und weist eine charakteristische eiförmige Grundstruktur auf2. Der Canthus rostralis (die Kante zwischen Auge und Schnauzenspitze) ist scharf definiert2. Ein primäres Erkennungsmerkmal sind die im Verhältnis zum Kopf proportional massiv vergrößerten Augen, welche über runde Pupillen verfügen (gesichert)2.
+Die Beschuppung (Squamation) des Körpers besteht aus sehr schmalen, stark gekielten Dorsalschuppen, die schräg angeordnet sind und apikale Gruben aufweisen (gesichert)2. Sie liegen am Mittelkörper in 19 oder 21 Reihen vor2. Das Gebiss ist opisthoglyph (trugnatterartig). Im vorderen Oberkiefer sitzen sieben bis acht kleine Zähne (Maxillarzähne), gefolgt von drei stark vergrößerten, mit einer Furche versehenen Giftzähnen, die anatomisch direkt unterhalb der großen Augen positioniert sind2. Die Fangs können bei Nichtgebrauch in den Mundraum zurückgeklappt werden8.
+
+Morphologische Metrik
+	Wert / Spanne
+	Quelle
+
+Gesamtlänge (Adult)
+	100 bis 160 cm, maximal dokumentiert 183 cm
+	2
+
+Körperlänge Männchen
+	119,38 bis 200,66 cm (3 ft 11 in - 6 ft 7 in)
+	8
+
+Körperlänge Weibchen
+	99,06 bis 160,02 cm (3 ft 3 in - 5 ft 3 in)
+	8
+
+Schwanzlänge Männchen
+	27,94 bis 55,88 cm (11 in - 1 ft 10 in)
+	8
+
+Schwanzlänge Weibchen
+	17,78 bis 35,56 cm (7 in - 1 ft 2 in)
+	8
+
+Gewicht (Adult, Weibchen)
+	0 bis 907 g (0 bis 2 lbs)
+	8
+
+Gewicht (Adult, gesamt)
+	175 bis 510 g
+	2
+
+Durchschnittsgewicht
+	299,4 g
+	2
+
+Länge (Schlüpfling)
+	29 bis 38 cm
+	2
+Alltagsvergleich für die Größenordnung: Quellen beschreiben den Körperumfang eines juvenilen, etwa 45 cm langen Exemplars als exakt so dick wie der kleinste Finger eines erwachsenen Menschen (gesichert)2.
+Farben, Sexualdimorphismus und Altersstufen:
+Die Art weist in Abhängigkeit von Alter und Geschlecht völlig unterschiedliche Phänotypen auf (gesichert).
+Schlüpflinge und Juvenile: Nach dem Schlüpfen sind männliche Jungtiere grau mit blauen Sprenkeln, während weibliche Jungtiere eine blassbraune Grundfärbung aufweisen. Beide Geschlechter besitzen in diesem Stadium auffällige smaragdgrüne Augen2. Die vollständige Ausfärbung zum adulten Tier nimmt mehrere Jahre in Anspruch2.
+Adulte Weibchen: Zeigen eine kryptische Färbung und sind überwiegend braun oder olivfarben2.
+Adulte Männchen: Weisen typischerweise eine hellgrüne bis leuchtend grüne Grundfärbung auf. Die Ränder der Einzelschuppen sind schwarz oder blau abgesetzt, was auf dem Körper zu einer netzartigen Musterung führt2.
+3. Der Mechanismus: Toxikologie und Biochemie
+Das herausragende biologische Prinzip von Dispholidus typus ist die Zusammensetzung und der Wirkmechanismus ihres Giftes. Innerhalb der Familie der Nattern (Colubridae), deren Toxine für den Menschen zumeist ungefährlich sind, stellt die Boomslang eine Ausnahme dar, da sie über ein potenziell letales Hämotoxin verfügt, das die Blutgerinnungskaskade (Hämostase) irreversibel stört (gesichert)2.
+Die biochemische Kausalkette der Envenomierung:
+Sekretion und Injektion: Das Toxin wird in der spezialisierten Duvernoy-Drüse im hinteren Kopfbereich synthetisiert22. Beim Zubeißen wird das Gift über die drei gefurchten hinteren Zähne in das Gewebe des Opfers eingeleitet2. Da die Zähne weit hinten im Kiefer liegen, reißt die Schlange ihr Maul für einen Verteidigungsbiss in einem Winkel von bis zu 180 Grad auf23.
+Molekulare Zusammensetzung: Transkriptomische und proteomische Analysen der Giftdrüse belegen, dass das Sekret aus sieben Proteinfamilien besteht: Drei-Finger-Toxine (3FTx), Phospholipase A2 (PLA2), Cysteine-rich secretory proteins (CRISP), Schlangengift-Serinproteasen (SVSP), C-Typ-Lektin-ähnliche Proteine (CTL), Kunitz-Typ-Inhibitoren (KUN) und Schlangengift-Metalloproteinasen (Snake Venom Metalloproteinases, SVMPs)24.
+Wirkung der SVMPs (Prothrombin-Aktivierung): Das Hauptpathogen sind die zinkabhängigen SVMPs der Klasse P-III20. Diese fungieren als spezifische Prothrombin-Aktivatoren26. Sie binden an das im Blutkreislauf zirkulierende Zymogen Prothrombin und konvertieren es durch proteolytische Spaltung in Meizothrombin26. Dieser katalytische Prozess funktioniert in vitro wie in vivo vollkommen unabhängig von körpereigenen Calciumionen oder Phospholipid-Kofaktoren20.
+Verbrauchskoagulopathie (Defibrinierung): Das unkontrolliert generierte Meizothrombin zerschneidet systematisch das Fibrinogen des Opfers in funktionslose Fibrin-Moleküle und Fibrinspaltprodukte (FDPs)21. Die Leber ist nicht in der Lage, die Gerinnungsfaktoren in der Geschwindigkeit nachzuproduzieren, in der sie vom Gift verbraucht werden21.
+Disseminierte Intravasale Koagulopathie (DIC): Diese pathologische Kaskade führt zu zahllosen Mikrothromben in den kleinen Blutgefäßen und endet in einem als Venom Induced Consumption Coagulopathy (VICC) bekannten Syndrom, das einer DIC gleicht21.
+Klinische Endstufe (Hämorrhagie): Durch die vollständige Erschöpfung des Fibrinogens verliert das Blut seine Gerinnungsfähigkeit (Inkoagulabilität). Nach einer Latenzzeit von mehreren Stunden bis zu 24 Stunden kommt es zu systemischen, spontanen Einblutungen (Hämorrhagien) in das Gewebe, die Schleimhäute sowie in Augen, Lungen, Herz und das Gehirn. Unbehandelt resultiert dies im Tod durch inneres Verbluten oder sekundär durch akute Tubulusnekrose (Nierenversagen)21. Neben den hämatologischen Effekten existieren vorläufige Daten, dass das Gift muskarinähnliche Agonisten enthält, die an neuromuskulären Präparaten rhythmische Kontraktionen auslösen22.
+Zahlen, Daten und Messwerte zur Toxizität (gesichert): Ein adultes Exemplar produziert pro Biss eine Ausbeute von lediglich 1,6 bis 8,0 mg Gift (Trockengewicht)2. Die Literatur nennt stark abweichende Werte für die letale Dosis (LD50), was sich durch verschiedene Verabreichungswege (intravenös, subkutan, intraperitoneal) im Mäusemodell erklärt (Widerspruch dokumentiert):
+LD50 (intravenös, Maus): 0,07 bis 0,1 mg/kg2.
+LD50 (intraperitoneal, Maus): 1,3 bis 1,8 mg/kg2.
+LD50 (subkutan, Maus): 12,5 mg/kg2.
+Eine generalisierte Übersichtsquelle nennt zudem einen Durchschnittswert von etwa 0,70 mg/kg34.
+Forschung zur Antivenom-Neutralisierung (gesichert): In Laborexperimenten zeigte D. typus-Gift ohne Zugabe von Antivenom eine effektive Konzentration (EC50) von 0,20 µg/mL (95 % Konfidenzintervall: 0,18–0,23 µg/mL), um menschliches Plasma zum Gerinnen zu bringen. Bei einer Konzentration von 20 µg/mL gerann das Plasma in 11,2 Sekunden20. Die Verabreichung des südafrikanischen, monovalenten Boomslang-Antivenoms (SAVP) neutralisiert diesen Prozess extrem wirksam. Die EC50-Kurve verschiebt sich nach der Gabe auf 1,62 µg/mL. Gegenüber der toxikologisch ähnlichen Lianennatter (Thelotornis mossambicanus) erweist sich dieses Antivenom als 11,3-mal effektiver in der Neutralisierung der SVMPs20.
+4. Ökologie und Verhalten
+Die Morphologie von Dispholidus typus ist strikt an ein arboreales (baumbewohnendes) Leben angepasst. Die Tiere meiden den Boden und halten sich fast ausschließlich im Kronendach und dichten Geäst auf14. Ihr Verbreitungsgebiet umfasst Tieflandwälder, Savannen, Strauchland und Feuchtgebiete2. Entlang der kenianischen Route dokumentieren Quellen Vorkommen in stadtnahen Randbereichen wie Nairobi (Stadtgebiet), im Nairobi National Park, dem Karura Forest sowie in den höher gelegenen Ngong Hills (gesichert)36.
+Ernährung und Prädation: Die Schlange ist tagaktiv (diurnal) und jagt visuell4. Ihre großen Augen, gekoppelt mit einem charakteristischen seitlichen Hin- und Herwiegen des Kopfes, ermöglichen ein stereoskopisches Sehen und eine exakte Tiefenwahrnehmung beim Fixieren der Beute (gesichert)2. Das Nahrungsspektrum besteht überwiegend aus baumbewohnenden Echsen, insbesondere Chamäleons der Gattungen Chamaeleo und Kinyongia40. D. typus gilt neben Greifvögeln wie dem Kuckuckweih (Aviceda cuculoides) als Hauptprädator ostafrikanischer Chamäleons40. Frösche werden ebenfalls opportunistisch gejagt8.
+Ökologische Interaktion Ende September und Anfang Oktober in Kenia (gesichert):
+In diesem Zeitfenster – dem Übergang der langen Trockenzeit in die beginnende kleine Regenzeit – offenbart sich ein exakt getaktetes saisonales Verhaltensmuster.
+Beuteverfügbarkeit: Die einsetzenden Niederschläge initiieren das kollektive Brüten von Webervögeln (Ploceidae), wie dem Textweber (Ploceus cucullatus). Die polygynen Männchen weben in großer Zahl ihre flaschenförmigen Nester in die Äste von Akazienbäumen, in die die Weibchen anschließend zwei bis drei Eier legen, um die zeitgleich schlüpfenden Raupen und Käfer als Kükenfutter zu nutzen42.
+Saisonale Anpassung der Schlange: Schlangen, die sich auf Eier und Nestlinge spezialisiert haben, weisen exakt in diesen australen Frühlings- und Sommermonaten einen starken Anstieg ihrer Nahrungsaufnahme auf, der mit den Brutzeiten der Vögel synchronisiert ist43.
+Fazit für die Route: Im späten September und frühen Oktober jagt D. typus gezielt in den ausgedehnten Webervogel-Kolonien, um Nester zu plündern. Die Vögel sind auf baumbewohnende Schlangen als limitierenden Faktor ihrer Population eingestellt42.
+Fortpflanzung und Sozialverhalten: D. typus ist eine solitär lebende Spezies (gesichert)8. Die Paarung folgt einem polygynandrischen Muster8. Die Art ist ovipar. Adulte Weibchen legen durchschnittlich 8 bis 14 Eier, wobei unter optimalen Bedingungen bis zu 27 Eier dokumentiert sind. Diese werden in feuchtem Milieu, vornehmlich in hohlen Baumstämmen oder verrottendem Totholz, abgelegt2. Die Inkubationsdauer beträgt zwischen 65 und 100 Tagen14. In kälteren Jahreszeiten, in denen die Aktivität ruht (Brumation), ziehen sich die Schlangen in verlassene Vogelnester zurück8.
+Trotz ihres tödlichen Giftes ist das Verhalten gegenüber Großsäugern und Menschen extrem scheu (timid) (gesichert)2. Bei Störung verlässt sich die Art auf ihre Tarnung oder flieht schnellstmöglich2. Wird sie in die Enge getrieben, ändert sich das Verhalten drastisch: Die Schlange bläst die Kehlregion (Gular-Bereich) auf, um das optische Volumen ihres Kopfes zu vergrößern, rollt den vorderen Körper in eine S-Form und stößt aus dieser Position zu2.
+5. Menschen und Kultur in Kenia
+Die kulturelle und medizinische Interaktion mit der Art ist in Kenia von Aversion und Distanz geprägt.
+Nutzung und Konflikte: Es gibt in den Quellen keinerlei Belege für eine kommerzielle Nutzung der Spezies als Material, in der traditionellen Medizin oder als Nahrungsquelle in Kenia (unbekannt). Konflikte und Bissunfälle ereignen sich fast ausschließlich dann, wenn Personen ungeschützt versuchen, das Tier zu fangen, es zu attackieren oder in die Enge zu treiben (gesichert)2. Die medizinische Behandlung von Bissen leidet im ländlichen Afrika unter strukturellen Problemen. Die südafrikanischen Impfstoffhersteller (SAVP) stellen ein monovalentes Boomslang-Antivenom (20 ml Dosis) her35. In abgelegenen Gesundheitseinrichtungen fehlt dieses Antivenom jedoch häufig, was zu unbehandelten Todesfällen führt35.
+Rolle im Mythos und Sprichwort (überliefert): Ein dokumentiertes kulturelles Fragment aus der Swahili-Sprache ist das Sprichwort „Mtoto wa nyoka ni nyoka“, was wörtlich übersetzt bedeutet: „Das Kind einer Schlange ist eine Schlange“17. Es beschreibt die metaphorische Ansicht, dass negative oder gefährliche Wesenszüge vererbt werden. Dieses Sprichwort verdeutlicht die generalisierte, oft religiös oder kulturell begründete Furcht vor Schlangen in Kenia, bezieht sich jedoch nicht singulär auf die Boomslang17.
+Schutzstatus und Bestandszahlen (gesichert): Die Weltnaturschutzunion (IUCN) führt Dispholidus typus in der Roten Liste der bedrohten Arten. In der Evaluierung aus dem Jahr 2021 wurde die Art in der Kategorie "Least Concern" (nicht gefährdet) eingestuft14. Der globale Bestand gilt als "Stable" (stabil)14. Es existieren keine absoluten Bestandszahlen. Die IUCN konstatiert jedoch, dass aufgrund der weiten Verbreitung der Spezies quer durch Subsahara-Afrika keine spezifischen Erhaltungsmaßnahmen erforderlich sind und derzeit keine anthropogenen Bedrohungen für die Art vorliegen14.
+6. Wissenschaftsgeschichte
+Dispholidus typus markiert einen der drastischsten Wendepunkte in der Geschichte der Herpetologie und Toxinologie.
+Bis in die Mitte des 20. Jahrhunderts wurde in der Fachwelt das unumstößliche Dogma gelehrt, dass Schlangen aus der Familie der Colubridae (Nattern), insbesondere jene mit hinten liegenden Giftzähnen (opisthoglyph), nicht in der Lage seien, eine für den Menschen tödliche Dosis Gift zu produzieren oder zu injizieren8.
+Der Fall Karl Patterson Schmidt: Dieses Paradigma wurde durch das Schicksal des amerikanischen Herpetologen Prof. Karl Patterson Schmidt im Jahr 1957 tragisch widerlegt (gesichert)21. Am 25. September 1957 befand sich Schmidt in seinem Labor im Field Museum of Natural History in Chicago. Er hatte ein lebendes, juveniles Exemplar von Dispholidus typus erhalten, welches ihm Marlin Perkins, der damalige Direktor des Lincoln Park Zoo, zur taxonomischen Identifikation zugeschickt hatte21. Bei der Untersuchung des Tieres wurde Schmidt in den Daumen gebissen21.
+Aufgrund seiner wissenschaftlichen Überzeugung, dass der Biss einer juvenilen Trugnatter keine Gefahr darstelle, verzichtete Schmidt auf ärztliche Hilfe oder die Verabreichung von Antivenom8. Als die durch die SVMPs ausgelöste Disseminierte Intravasale Koagulopathie (DIC) einsetzte, entschied er sich stattdessen, die physiologischen Veränderungen seines eigenen Körpers als wissenschaftliches Experiment stundengenau zu dokumentieren48. In diesem als "Death Diary" berühmt gewordenen Logbuch protokollierte er minutiös den Beginn von Schüttelfrost, die Schleimhautblutungen im Mundraum sowie spätere massive Hämorrhagien aus den Augen, Lungen, Nieren und dem Gehirn21. Schmidt verstarb knapp 24 Stunden nach dem Biss am 26. September 1957 an inneren Blutungen21.
+Im Januar 2017 veröffentlichten Forscher (Pla et al.) im Journal Biochimica et Biophysica Acta eine transkriptomische und venometrische Analyse, die explizit Schmidts Tod untersuchte ("What killed Karl Patterson Schmidt?"). Sie sequenzierten das Gift einer Boomslang aus Tansania und bewiesen, dass genau jene Metalloproteinasen (SVMPs), die Schmidts DIC-Syndrom auslösten, durch das bereits in den 1950er Jahren verfügbare amerikanische Antivenom "CroFab™" zumindest teilweise hätten immunneutralisiert werden können, wenn Schmidt ärztliche Hilfe in Anspruch genommen hätte21.
+7. Fotografie
+Die fotografische Dokumentation der Spezies stellt aufgrund ihres Verhaltensspektrums hohe technische Anforderungen an das Equipment.
+Orte und Tageszeiten (gesichert): Auf der Route in Kenia sind Sichtungen in Wald- und Strauchgebieten wie dem Karura Forest, den Ngong Hills oder dem Nairobi National Park am wahrscheinlichsten36. Da die Art strikt tagaktiv ist, empfiehlt sich die Suche in den Vormittags- und späten Nachmittagsstunden, wenn die Sonne zur Thermoregulation auf das Blätterdach scheint4.
+Brennweiten und Fluchtdistanz: Das Tier besitzt exzellente visuelle Fähigkeiten und reagiert auf Annäherung oder Bodenerschütterungen mit sofortiger, rasanter Flucht in das unzugängliche Kronendach2.
+Die kurzen Brennweiten (26 bis 60 mm und 45 mm) sind für die Beobachtung in freier Wildbahn gänzlich ungeeignet, da die Fluchtdistanz der Schlange weit über deren effektiver Reichweite liegt.
+Das schwere Teleobjektiv 150 bis 600 mm (montiert auf einem Stativ) ist das zwingende Hauptwerkzeug. Es erlaubt formatfüllende Porträts aus 10 bis 20 Metern Entfernung.
+Das Objektiv 100 bis 400 mm eignet sich ideal, um weiteren Kontext abzulichten, beispielsweise das Tier im Verhältnis zu den hängenden Nestern der Webervögel.
+Lohnende Motive und Fehler: Ein fotografisch äußerst lohnendes Verhalten ist das seitliche Hin- und Herwiegen des Kopfes, mit dem die Schlange ihre stereoskopische Tiefenschärfe justiert2. Auch das akrobatische Ausräumen von flaschenförmigen Vogelnestern ist ein erzählerisch starkes Motiv42. Ein typischer und gefährlicher Fehler ist das "Ecken" der Schlange. Wenn das Tier auf einem Ast so positioniert wird, dass ihm der Fluchtweg abgeschnitten ist, schaltet es von Flucht auf Verteidigung um, bläst den Hals auf und formt den Körper zu einem S für einen frontalen Stoß2. Dies provoziert unnötigen Stress für das Tier und Gefahr für den Fotografen.
+Verschlusszeiten:
+Präzise messtechnische Angaben zu Verschlusszeiten für das Einfrieren der Bewegung (Flug oder Zustoßen) existieren im Quellenmaterial nicht. Es wird qualitativ lediglich von schnellen Reaktionen gesprochen (siehe Punkt 10).
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle (Taxonomie): https://reptile-database.reptarium.cz/Dispholidus/typusDie taxonomische Datenbank "The Reptile Database" listet die komplette historische Synonymie, Unterart-Klassifizierungen und detaillierte Verbreitungsdaten der Spezies auf.
+Fachliche Quelle (Wissenschaftsgeschichte und Toxikologie): https://pmc.ncbi.nlm.nih.gov/articles/PMC5335903/Der auf PubMed Central veröffentlichte Fachartikel rekonstruiert die medizinischen Details zum Tod von Karl Patterson Schmidt und analysiert das Boomslang-Gift mittels moderner Proteomik.
+Fachliche Quelle (Medizinische Daten): https://www.mdpi.com/2072-6651/9/5/171Dieser Artikel im Journal Toxins liefert detaillierte Labordaten zur Blutgerinnungsstörung durch das Gift und beweist die Wirksamkeit des südafrikanischen Antivenoms.
+Verbreitungskarte (GBIF): https://www.gbif.org/species/2452958Der Eintrag in der Global Biodiversity Information Facility (GBIF) zeigt Fundortkoordinaten und interaktive Verbreitungskarten, die das Vorkommen in Kenia bestätigen.
+Fotos (Wikimedia Commons): https://commons.wikimedia.org/wiki/Category:Dispholidus_typusDieses Repositorium enthält 51 überprüfte Medieninhalte, die den sexuellen Dimorphismus, die grüne Färbung der Männchen sowie das Warnverhalten (aufgeblasener Hals) visuell dokumentieren.
+9. Visuelle Beschreibung für eine Illustration
+The Dispholidus typus presents a remarkably slender, laterally compressed body that tapers into a long, whip-like tail, making it perfectly adapted for weightless traversal across thin branches. The illustration should capture the snake in its tense, defensive posture: the front third of the body coiled into an S-shape, with the throat prominently inflated to simulate a larger mass. The head is distinctly egg-shaped, featuring a sharp snout contour and dominated by disproportionately large, striking emerald-green eyes with perfectly round pupils. The dorsal scales are exceptionally narrow, oblique, and strongly keeled; in adult males, they display a vibrant light green color with sharp black or bright blue edges, creating a delicate, net-like pattern across the entire length of the animal.
+Detailvorschläge:
+Ein vergrößertes Detail einer einzelnen stark gekielten Rückenschuppe, das die mikroskopische apikale Grube und den schwarzen Schuppenrand um das hellgrüne Zentrum zeigt.
+Eine Nahaufnahme des unverhältnismäßig großen, smaragdgrünen Auges, welche den markanten Canthus rostralis (Kante über dem Auge) und die runde Pupille hervorhebt.
+Ein kunstvoll gewebtes, flaschenförmiges Nest des Textwebers (Ploceus cucullatus), das von einem dornigen Akazienast herabhängt.
+Kulturelle Vignette:
+Ein traditioneller, aus hartem Holz geschnitzter Swahili-Mörser mit Stößel (kinu und mchi), der unbeaufsichtigt im trockenen Savannengras unter einer dornigen Akazie steht und die räumliche Nähe menschlichen Alltags zum Habitat im Kronendach illustriert.
+10. Was du nicht belegen konntest
+Folgende angefragten Spezifikationen und Daten konnten nach Auswertung der bereitgestellten Dokumente nicht belastbar belegt werden:
+Artspezifische lokale Bezeichnungen: Weder Namen noch wörtliche Bedeutungen für Dispholidus typus in den Sprachen Maa, Kikuyu, Samburu, Giriama und Kamba sind dokumentiert. Die Ethnoherpetologie-Studien behandeln Schlangen nur generisch.
+Konkrete Orte auf der Route (Sheldrick Wildlife Trust): Während die Präsenz in Nairobi, im Nairobi National Park, im Karura Forest und in den Ngong Hills explizit in Herpetologie-Aufzeichnungen bestätigt wird, fehlt ein gesicherter, namentlicher Sichtungsnachweis für das konkrete Grundstück des Sheldrick Wildlife Trust.
+Kulturelle Narrative und Legenden: Abgesehen von dem generalisierten Swahili-Sprichwort "Mtoto wa nyoka ni nyoka" existieren in den bereitgestellten Quellen keine konkreten kenianischen Mythen, Legenden oder Überlieferungen, die sich singulär auf die Boomslang beziehen.
+Fotografische Verschlusszeiten: Die Quellen beschreiben die Flucht- und Angriffsgeschwindigkeit der Schlange qualitativ als "sehr schnell" oder "rasant". Exakte photometrische Messwerte in Sekundenbruchteilen (z. B. 1/1000s oder 1/2000s), die als belastbare Richtwerte für die Fotografie des Zustoßens dienen könnten, fehlen vollständig.
+Referenzen
+annotated checklist and provisional conservation status of namibian, https://www.lacerta.de/AF/Bibliografie/BIB_4908.pdf
+Boomslang - Wikipedia, https://en.wikipedia.org/wiki/Boomslang
+Die Herpetofauna Südwest-Afrikas. - Lacerta.de, https://lacerta.de/AF/Bibliografie/BIB_4836.pdf
+Dispholidus typus (SMITH, 1828) - The Reptile Database, https://reptile-database.reptarium.cz/Dispholidus/typus
+Atlas and Red List of the Reptiles of South Africa ... - Opus at SANBI, https://opus.sanbi.org/bitstream/20.500.12143/5653/1/Suricata_1_2014.pdf
+https://www.gbif.org/species/2452958
+DISPHOLIDUS Definition & Meaning - Merriam-Webster, https://www.merriam-webster.com/dictionary/Dispholidus
+Boomslang Animal Facts - Dispholidus typus, https://a-z-animals.com/animals/boomslang/
+ILLUSTRATED TYPE CATALOGUE OF THE “LOST, https://www.lacerta.de/AF/Bibliografie/BIB_14843.pdf
+Dispholidus punctatus LAURENT, 1955 - The Reptile Database, http://reptile-database.reptarium.cz/Dispholidus/punctatus
+Dispholidus pembae HUGHES, 2021 - The Reptile Database, http://reptile-database.reptarium.cz/Dispholidus/pembae
+Reptiles of Pemba - RepFocus, https://www.repfocus.dk/GEO/Pemba.html
+Category:Dispholidus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Dispholidus
+Boomslang - Unsung Animals Wiki - Fandom, https://unsung-animals.fandom.com/wiki/Boomslang
+boomslang - WordReference.com Dictionary of English, https://www.wordreference.com/definition/boomslang
+Swahili Names for Snakes in Unguja | PDF - Scribd, https://pt.scribd.com/document/14023752/Swahili-Ethnoherpetology-Notes-from-Central-Unguja
+Let's talk Snakes - Nyika Silika, https://www.nyikasilika.org/lets-talk-snakes/
+Full text of "Bulletin" - Internet Archive, https://archive.org/stream/bulletin232619931996east/bulletin232619931996east_djvu.txt
+(PDF) Psammophis Onomastic: Annotated Etymology and, https://www.researchgate.net/publication/413940027_Psammophis_Onomastic_Annotated_Etymology_and_Taxonomy_of_the_Genus_Psammophis
+Coagulating Colubrids: Evolutionary, Pathophysiological and ... - MDPI, https://www.mdpi.com/2072-6651/9/5/171
+What killed Karl Patterson Schmidt? Combined venom gland ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5335903/
+IN VITRO ACTIVITY OF DUVERNOY'S GLAND SECRETIONS, https://www.scielo.br/j/jvat/a/QJCcB5hMtJMJSjSpyhvmvWt/?lang=en
+LD50 Test, https://www.chm.bris.ac.uk/~paulmay/webprojects2003/stoneley/strength.htm
+(PDF) What killed Karl Patterson Schmidt? Combined venom gland, https://www.researchgate.net/publication/312871240_What_killed_Karl_Patterson_Schmidt_Combined_venom_gland_transcriptomic_venomic_and_antivenomic_analysis_of_the_South_African_green_tree_snake_the_boomslang_Dispholidus_typus
+Development of an oral regimen of unithiol for the treatment ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11919382/
+Metalloproteases Affecting Blood Coagulation, Fibrinolysis ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5086644/
+MANAGEMENT A B - International Athletic, https://img1.wsimg.com/blobby/go/7ddd2767-0c49-4c90-9916-fbfff0acc937/downloads/Auerbach%60s%20Wilderness%20Medicine%20Part%20Five%20b.pdf?ver=1731684921444
+Venomous snakes - Envenoming, therapy | Request PDF, https://www.researchgate.net/publication/281668112_Venomous_snakes_-_Envenoming_therapy
+Characterisation of Venom Induced Consumption Coagulopathy, https://core.ac.uk/download/235670526.pdf
+Handheld Point-of-Care Devices for Snakebite Coagulopathy - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC12040437/
+Snake Venom Components Affecting the Coagulation System, https://www.researchgate.net/publication/313023660_Snake_Venom_Components_Affecting_the_Coagulation_System
+(PDF) Haemotoxicity of snakes: a review of pathogenesis, clinical, https://www.researchgate.net/publication/387697915_Haemotoxicity_of_snakes_a_review_of_pathogenesis_clinical_manifestations_novel_diagnostics_and_challenges_in_management
+Rooi Els (Rooiels) fynbos flora and fauna, https://rooielsfynbos.co.za/fauna/animal/view/212
+16 Types of Venomous Snakes Ranked by Venom Potency, https://www.earthreminder.com/types-of-venomous-snakes/
+SJMLS Volume 5 Issues 4 December 2020, https://sokjmls.com.ng/index.php/SJMLS/article/view/117/102
+Top 10 Most Venomous Snakes in the World - Worldfire Vacations, https://worldfirevacations.com/blog/most-venomous-snakes-in-the-world/
+Red-lipped Snake at Queen Elizabeth National Park, https://wherewildlife.com/queen-elizabeth/red-lipped-snake/
+Coastal forests of eastern Africa - IUCN Portals, https://portals.iucn.org/library/sites/library/files/documents/FR-022_09.pdf
+Snake population declines and conservation – A global synthesis, https://researchspace.ukzn.ac.za/server/api/core/bitstreams/2138a12c-2253-4660-933c-bc416a70b4f3/content
+Chamaeleo | INFORMATION - Animal Diversity Web, https://animaldiversity.org/accounts/Chamaeleo/
+Ecology and Life History of Chameleons - Anthony Herrel, http://anthonyherrel.fr/publications/Measey%20et%20al%202013%20Ecology%20-%20Chameleon%20Book.pdf
+Village weaver - Grokipedia, https://grokipedia.com/page/Village_weaver
+Adaptation in the African egg-eating snake: A comparative approach, https://www.researchgate.net/publication/227603080_Adaptation_in_the_African_egg-eating_snake_A_comparative_approach_to_a_classic_study_in_evolutionary_functional_morphology
+Snakes of the World: A Guide to Every Family 9780691240671, https://dokumen.pub/snakes-of-the-world-a-guide-to-every-family-9780691240671.html
+Cape Rockjumper - BirdLife South Africa, https://www.birdlife.org.za/red-data-book/red-list/cape-rockjumper/
+appendix g: ecological species of importance list | erm, https://www.erm.com/contentassets/e44f2342ddba49a19a1a006e9981cd34/08-appendix-g-ecological-species-of-importance-list.pdf
+Name of the Week 2017 | The ETYFish Project, https://etyfish.org/name-of-the-week2017/
+ApocalypticLog / Real Life - TV Tropes, https://tvtropes.org/pmwiki/pmwiki.php/ApocalypticLog/RealLife
+Science Friday Podcast - Lectoro, https://www.lectoro.com/index_action_search_ytq_ScienceFridayPodcast.html

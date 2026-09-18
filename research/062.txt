@@ -1,0 +1,239 @@
+Forschungsbericht: Die Großblättrige Mangrove (Rhizophora mucronata) an der Küste Kenias
+1. Namen und Etymologie
+Die Nomenklatur der Art Rhizophora mucronata vereint historische europäische Wissenschaftstraditionen mit lokaler ostafrikanischer Taxonomie. Der gültige wissenschaftliche Name wurde im Jahr 1804 von dem französischen Botaniker Jean-Louis Marie Poiret vergeben und innerhalb des Werkes Encyclopédie Méthodique. Botanique (Band 6, Seite 189) von Jean-Baptiste de Lamarck publiziert (Status: gesichert)1. Die Namensgebung leitet sich aus dem Griechischen und Lateinischen ab. Der Gattungsname Rhizophora ist eine Zusammensetzung der griechischen Begriffe rhiza für „Wurzel“ und phoros für „tragend“ oder „Träger“, was den charakteristischen Habitus des auf Stelzwurzeln stehenden Baumes exakt beschreibt (Status: gesichert)2. Das Artepitheton mucronata hat seinen Ursprung im lateinischen Wort mucronatus, welches sich mit „mit einer kurzen Spitze versehen“ übersetzen lässt und auf die abrupte, dornartige Spitze der Blätter dieser Art verweist (Status: gesichert)2.
+Im deutschen Sprachgebrauch wird die Art informell als Großblättrige Mangrove bezeichnet, wenngleich in der Literatur häufiger der Begriff Rote Mangrove auftaucht (Status: gesichert)4. Im englischsprachigen Raum haben sich deskriptive Bezeichnungen etabliert, welche die Herkunft, die Wurzelausprägung oder die taxonomische Einordnung als echte Mangrove betonen. An der Küste Kenias, dem geographischen Fokus dieses Berichts, dominieren Bezeichnungen aus den Bantusprachen, vorrangig Swahili und den Dialekten der Mijikenda-Gruppe.
+
+Sprache / Kulturkreis
+	Name
+	Wörtliche Bedeutung
+	Status der Angabe
+
+Wissenschaftlich (Latein)
+	Rhizophora mucronata
+	Wurzeltragend, mit kurzer Spitze
+	Gesichert1
+
+Deutsch
+	Rote Mangrove, Großblättrige Mangrove
+	Deskriptiv
+	Gesichert4
+
+Englisch
+	Asiatic mangrove, loop-root mangrove, red mangrove, true mangrove
+	Deskriptiv (Asiatisch, Bogenwurzel, Rot, Echt)
+	Gesichert2
+
+Swahili
+	Mkoko (Plural: Mikoko), Mkaka
+	Unbekannt
+	Gesichert4
+
+Giriama / Mijikenda
+	Mkoko
+	Unbekannt
+	Gesichert7
+
+Maa
+	Unbekannt
+	Unbekannt
+	Unbelegt
+
+Kikuyu
+	Unbekannt
+	Unbekannt
+	Unbelegt
+
+Samburu
+	Unbekannt
+	Unbekannt
+	Unbelegt
+
+Kamba
+	Unbekannt
+	Unbekannt
+	Unbelegt
+2. Erscheinung, mit Maßen
+Rhizophora mucronata präsentiert sich als immergrüner Baum, dessen physische Struktur durch die hydrologischen und osmotischen Extreme der Gezeitenzone determiniert wird. Eine taproote (pfahlwurzelartige) Primärwurzel ist zumeist verkümmert oder fehlt gänzlich; stattdessen stützt sich der Baum auf ein massives, weitreichendes System aus bogenförmigen Stelzwurzeln, die aus dem unteren Stamm und den unteren Ästen entspringen (Status: gesichert)2. Die Rinde des zylindrischen Stammes zeigt eine rötlich-braune bis nahezu schwarze Färbung. Sie ist rau, schuppig und wird von markanten horizontalen Rissen durchzogen, die den Stamm nahezu vollständig umrunden (Status: gesichert)2. Das unter der Rinde liegende Holz weist im Radialschnitt eine silbrige Maserung auf, während das Kernholz dunkel orange-rot gefärbt ist (Status: gesichert)11.
+Das Blattwerk ist kreuzgegenständig (dekussiert) angeordnet. Die ledrigen Blätter sind auf der Oberseite glänzend grün und auf der Unterseite von einer blasseren Färbung, wobei die Unterseite von zahlreichen kleinen, schwarzen, korkartigen Warzen überzogen ist (Status: gesichert)2. Die Blattspitze endet in dem namensgebenden feinen Dorn, der jedoch durch Umwelteinflüsse in der Gezeitenzone häufig abbricht (Status: gesichert)5. Die Art ist zwittrig (hermaphroditisch), weshalb keine morphologischen Unterschiede zwischen männlichen und weiblichen Individuen existieren (Status: gesichert)2. Die axillären Blütenstände bilden sich als zwei- bis dreifach verzweigte Zymen aus. Jede der pale-grünen bis gelblichen Blüten verfügt über vier ledrige Kelchblätter und vier lanzettlich-eiförmige, an den Rändern zottig behaarte Kronblätter (Status: gesichert)2.
+Nach der Befruchtung bildet sich eine länglich-eiförmige, matt braun-grüne Beere. Das bemerkenswerteste morphologische Merkmal ist das aus der Frucht noch am Mutterbaum austreibende Hypokotyl (die Keimwurzel). Dieses zylindrische Organ ist mit kleinen Warzen besetzt, wächst strikt vertikal nach unten und verjüngt sich zu einer harten, scharfen Spitze (Status: gesichert)11.
+Um die räumlichen Dimensionen der Art in einen plastischen Kontext zu setzen, werden im Folgenden die metrischen Parameter der Pflanzenteile aufgeschlüsselt und, wo mathematisch ableitbar, mit Alltagsgrößen verglichen.
+
+Merkmal
+	Metrisches Maß
+	Alltagsvergleich
+	Status des Vergleichs
+
+Baumhöhe (Küstenrand)
+	10 bis 15 m5
+	Höhe eines vier- bis fünfstöckigen Wohnhauses
+	Vermutet (mathematisch abgeleitet)
+
+Baumhöhe (Flussufer/Optimal)
+	20 bis 27 m (max. 30 m)5
+	Länge eines halben Fußballfeldes (Breite)
+	Vermutet (mathematisch abgeleitet)
+
+Stammdurchmesser (BHD)
+	50 bis 70 cm2
+	Breite einer handelsüblichen Zimmertür
+	Vermutet (mathematisch abgeleitet)
+
+Länge der Stelzwurzeln
+	Bis zu 5 m2
+	Länge eines Mittelklasse-PKW
+	Vermutet (mathematisch abgeleitet)
+
+Blattlänge
+	8,5 bis 18 cm (max. 23 cm)11
+	Ein maximales Blatt (23 cm) entspricht der Längsseite eines DIN-A5-Papiers
+	Vermutet (mathematisch abgeleitet)
+
+Blattbreite
+	5 bis 10,5 cm (max. 15 cm)11
+	Breite einer erwachsenen Handfläche
+	Vermutet (mathematisch abgeleitet)
+
+Blattstiel (Petiolus)
+	2,5 bis 5,5 cm11
+	Länge eines Daumengliedes
+	Vermutet (mathematisch abgeleitet)
+
+Nebenblätter (Stipeln)
+	5,5 bis 8,5 cm11
+	Länge eines Zeigefingers
+	Vermutet (mathematisch abgeleitet)
+
+Blütenkelchblätter
+	0,9 bis 1,9 cm2
+	Durchmesser einer 1-Cent-Münze
+	Vermutet (mathematisch abgeleitet)
+
+Frucht (Beere)
+	Länge: 5 bis 7 cm, Ø: 2,5 bis 3,5 cm11
+	Größe eines kleinen Hühnereis
+	Vermutet (mathematisch abgeleitet)
+
+Hypokotyl (Keimwurzel)
+	Länge: 30 bis 64 cm (max. >100 cm), Ø: 1,8 bis 2,5 cm11
+	Standardlänge (60 cm) entspricht einem menschlichen Arm vom Ellenbogen bis zu den Fingerspitzen
+	Vermutet (mathematisch abgeleitet)
+3. Der Mechanismus
+Die Existenz von Rhizophora mucronata im litoralen Grenzbereich zwischen Land und Ozean wird durch eine hochspezialisierte osmotische Kausalkette ermöglicht. Das biologische Kernprinzip ist die hydrodynamische Regulation durch mechanische Ultrafiltration in den Wurzeln, gekoppelt mit extremen negativen Drücken (Tension) im Xylem (Status: gesichert)16. Der Pflanzenphysiologe Per Fredrik Scholander quantifizierte diesen Mechanismus in detaillierten Feldstudien in den Jahren 1962 und 1968, indem er die Drücke in den Leitbahnen der Mangroven mittels einer von ihm modifizierten Druckkammer (Scholander-Bombe) mass.
+Die ökologische und physiologische Kausalkette dieses Mechanismus stellt sich wie folgt dar:
+Die physikalische Barriere (A): Das umgebende Gezeitenwasser weist eine Salinität von etwa 3 % (hauptsächlich Natriumchlorid) auf. Diese Salzkonzentration erzeugt ein externes osmotisches Potenzial, das einen massiven Sog auf das Süßwasser in der Pflanze ausübt. Der Druckwert dieses Meerwassers liegt bei etwa -25 bar (entspricht -2,5 Megapascal, MPa) (Status: gesichert)16.
+Der Gegendruck im Xylem (B): Um einen osmotischen Wasserverlust an das Meer zu verhindern und Wasser aufzunehmen, muss die Mangrove in ihrem Inneren einen noch stärkeren Unterdruck generieren. Selbst bei geschlossenen Stomata (Spaltöffnungen), also bei ausbleibender Transpiration, existiert in der Pflanze ein Basisdruck, der den marinen osmotischen Druck übersteigt. Hinzu kommt ein hydrostatischer Widerstand von -1 bar pro 10 Meter Wuchshöhe, den die Wassersäule gegen die Schwerkraft überwinden muss (Status: gesichert)16. Messungen belegen, dass das Wasserpotenzial im Stamm, bei dem 50 % der Xylem-Leitfähigkeit durch Kavitation verloren gehen, bei Rhizophora zwischen -4,5 und -6,5 MPa liegt (Status: gesichert)19.
+Die Filtration (C): Während der enorme Unterdruck Wasser in die Wurzeln saugt, blockiert die epidermale Struktur der Wurzel die Salzionen. Diese Filtration erfolgt an einer spezifischen mikroskopischen Barriere: Die erste Subschicht der äußersten Wurzelzelllage, welche über eine hierarchische, dreilagige Porenstruktur verfügt, hält die Natriumionen nahezu vollständig zurück (Status: gesichert)18.
+Das Resultat im Saft (D): Die Ultrafiltration bewirkt, dass der aufsteigende Xylemsaft entsalzt wird. Die verbleibende Salzkonzentration im Xylemsaft beträgt weniger als ein Hundertstel der Salinität des umgebenden Meerwassers (Status: gesichert)16.
+Die Aufrechterhaltung (E): Der gefilterte, salzarme Saft wird durch die extremen Kohäsionskräfte des Wassers im Xylem kontinuierlich bis in die Baumkrone gezogen, ohne dass die feinen Flüssigkeitsfäden reißen. Da Rhizophora mucronata als "Nicht-Sekretor" klassifiziert ist und im Gegensatz zu anderen Gattungen (wie Avicennia) keine Salzdrüsen auf den Blättern besitzt, ist sie fast vollständig auf die fehlerfreie Funktion dieser Wurzelfiltration angewiesen (Status: gesichert)16.
+Neben Scholanders Modell der reinen physikalischen Druck-Filtration existiert eine modulierende Erklärungsebene zur Regulation des Saftstroms, die von Forschern wie Zwieniecki et al. im Jahr 2001 vorangetrieben wurde (Das Hydrogel-Modell). Diese Theorie postuliert, dass die Durchflussrate im Xylem durch Pektin-Hydrogele in den sogenannten Tupfenmembranen (pit membranes) reguliert wird, die auf mikroskopische Salinitätsschwankungen im bereits gefilterten Saft reagieren (Status: gesichert)17. Wenn die Salzkonzentration im Leitgewebe steigt oder sinkt, schrumpfen oder quellen diese Gele und verändern den Durchmesser der Mikrokanäle. Experimentelle Daten zeigen, dass die Xylem-Leitfähigkeit bei komplett deionisiertem Wasser sowie bei stark salzhaltigem Wasser (557 mM, entsprechend -2,4 MPa) auf ihr Minimum von etwa 70 % der Maximalkapazität sinkt. Die optimale und höchste Leitfähigkeit erreicht die Pflanze bei einem spezifischen osmotischen Potenzial von -0,75 bis -0,82 MPa (Status: gesichert)17. Beide Mechanismen konkurrieren nicht direkt, sondern ergänzen sich: Die Filtration hält das Salz draußen, während die Hydrogele die Durchflussrate des restlichen Salzes im Leitgewebe optimieren.
+4. Ökologie und Verhalten
+Der Lebensraum von Rhizophora mucronata konzentriert sich auf die intertidale Zone des Indopazifiks. Sie besiedelt Ästuare (Flussmündungen), Gezeitenkrieks und flache Küstenlinien, die einer täglichen Überflutung durch die Gezeiten ausgesetzt sind (Status: gesichert)5. Im kenianischen Küstenökosystem ist sie die dominierende von neun nachgewiesenen Mangrovenarten und bildet häufig den immergrünen Saum der wassernächsten Front, da sie eine höhere Toleranz für lang anhaltende Überflutungen (Inundation) aufweist als assoziierte Arten (Status: gesichert)5. Sie wächst in Reinbeständen oder formt komplexe Vergesellschaftungen mit Arten wie Avicennia marina, Ceriops tagal und Bruguiera gymnorrhiza (Status: gesichert)5.
+Als Primärproduzent stellt die Art die Basis des lokalen marinen Nahrungsnetzes dar. Die autotrophe Nahrungsaufnahme durch Photosynthese generiert signifikante Mengen organischer Substanz. Wissenschaftliche Untersuchungen im Mangrovenwald der Gazi Bay südlich von Mombasa ergaben eine jährliche Streuproduktion (Litterfall) von 4,34 Tonnen pro Hektar (entspricht 1,19 g pro Quadratmeter und Tag), wovon allein die Blätter von Rhizophora mucronata 39 % ausmachen (Status: gesichert)21. Das herabfallende Laub reichert das Sediment mit Nährstoffen an. Pro 100 Gramm Trockenmasse enthalten die Blätter 0,4 bis 1 g Stickstoff, 0,1 g Phosphor, 0,9 bis 1,2 g Kalium und 1,1 bis 2,0 g Calcium (Status: gesichert)23.
+Zahlreiche Tierarten sind auf das komplexe Stelzwurzelsystem angewiesen. Die Wurzeln fungieren als Sedimentfalle, bremsen die Strömungsgeschwindigkeit und schaffen ruhige Wasserzonen, die als geschützte Brutstätten (Nursery-Habitate) für eine Vielzahl mariner Fische und Garnelen (Prawns) dienen (Status: gesichert)2. Krabben spielen eine ambivalente Rolle im Verhaltenszyklus der Mangrove. Einerseits fördern sie durch Graben die Bodendurchlüftung und zerkleinern abgefallenes Laub, andererseits ernähren sie sich von den Keimlingen der Pflanze und beschädigen diese stark, was einen massiven Fraßdruck (Prädation) auf die Verjüngung des Waldes ausübt (Status: gesichert)5.
+Das Fortpflanzungsverhalten ist durch das Phänomen der Viviparie gekennzeichnet. Die Samen keimen, während die Frucht noch am Mutterbaum hängt. Das austreibende Hypokotyl wird über Wochen bis Monate mit Nährstoffen versorgt und elongiert (Status: gesichert)5. Fällt es schließlich ab, dringt die beschwerte, spitze Form wie ein Pfeil in das weiche Sediment ein oder wird verdriftet, um an entfernteren Küstenabschnitten Wurzeln zu schlagen.
+Saisonales Verhalten im September und Oktober (Reisezeitraum): Der Zeitraum vom 24. September bis 12. Oktober markiert an der kenianischen Küste das Ende der langen Trockenzeit und den langsamen Übergang in die kurze Regenzeit. Phänologische Studien in der Gazi Bay belegen, dass das Abwerfen der voll entwickelten Propagules (Fruiting) bei Rhizophora mucronata genau in dieser Periode, in den Monaten September und Oktober, seinen jährlichen Höhepunkt erreicht (Status: gesichert)26. Parallel dazu beginnt ab Oktober die nächste Blühphase (Flowering), in der die Bäume frische Knospen für den Zyklus des Folgejahres ausbilden (Status: gesichert)26. Die Art zeigt im Reisezeitraum demnach eine maximale reproduktive Dynamik, bei der das Herabfallen ausgereifter Keimlinge mit dem Erwachen neuer Blütenstände zeitlich überlappt.
+5. Menschen und Kultur in Kenia
+Die sozioökonomische Geschichte der kenianischen Küste ist untrennbar mit den Beständen von Rhizophora mucronata verbunden. Die Wälder prägten Architektur, Handel, Fischerei und traditionelle Medizin der Region.
+
+Nutzungsart
+	Details und Region
+	Zeitraum / Dokumentation
+	Status
+
+Material (Architektur)
+	Nutzung der Stämme als "Boriti" (Stützbalken). Unverzichtbar für Wand- und Dachkonstruktionen in traditionellen Swahili-Häusern an der Küste. Die Giriama bevorzugen das Holz für Flechtwerk aufgrund des geraden Wuchses.
+	Historisch bis rezent7
+	Gesichert
+
+Handel (Export)
+	Massenhafter Export von Boriti-Balken auf Segelschiffen (Dhows) in den baumlosen persisch-arabischen Raum.
+	Über Jahrhunderte bis 198229
+	Gesichert
+
+Holzkohle und Brennholz
+	Einschlag für den urbanen Feuerholzmarkt, da sich das Holz leicht spalten lässt und einen extrem hohen Brennwert besitzt.
+	Rezent (Mombasa, Lamu)7
+	Gesichert
+
+Material (Gerbstoffe/Farbe)
+	Extraktion von Tanninen (8-40 % in luftgetrockneter Rinde) zur Herstellung von Leder, sowie "Cutch" als braun-schwarzer Farbstoff für Fischernetze und Segel, um diese vor Verfall zu bewahren.
+	Historisch bis rezent (Fischergemeinschaften)2
+	Gesichert
+
+Nahrung
+	In Krisenzeiten werden junge Triebe als Gemüse verzehrt oder Extrakte zur Herstellung von Wein genutzt.
+	Unspezifiziert (Notzeiten)5
+	Überliefert
+
+Medizin
+	Nutzung verschiedener Pflanzenteile in der Volksmedizin zur Behandlung von Hämaturie (Blut im Urin), Angina, Dysenterie (Ruhr) und Hämorrhagien. Extrakte hemmen in Labortests Staphylococcus aureus und Candida albicans.
+	Unspezifiziert2
+	Überliefert/Gesichert
+Die massive Ausbeutung der Wälder für den Arabien-Handel führte in der zweiten Hälfte des 20. Jahrhunderts zu schweren ökologischen Konflikten. Um den Kollaps der marinen Ökosysteme zu verhindern, implementierte die kenianische Regierung im Jahr 1982 einen präsidentiellen Exportbann, der die Ausfuhr von Mangrovenstämmen ins Ausland bis heute strikt untersagt (Status: gesichert)29.
+Die gegenwärtigen Mangrovenbestände Kenias bedecken eine Fläche von 53.000 bis 61.271 Hektar. Die mit Abstand bedeutendste Population befindet sich mit 460 km² im Lamu-Archipel (etwa 59 % des nationalen Bestandes), gefolgt vom Vanga-Funzi-System an der Grenze zu Tansania (Status: gesichert)7. Das globale Assessment für die Weltnaturschutzunion (IUCN) im Jahr 2010 stufte Rhizophora mucronata aufgrund ihrer weiten Verbreitung im Indopazifik in die Kategorie "Least Concern" (Nicht gefährdet) ein (Status: gesichert)5. Mythen, Legenden oder spezifische Rituale, die ausschließlich mit dieser Pflanzenart verknüpft sind, ließen sich in der fachlichen Literatur nicht zweifelsfrei dokumentieren (Status: unbelegt).
+6. Wissenschaftsgeschichte
+Die taxonomische Klassifikation von Rhizophora mucronata erfolgte während der Ära der europäischen Naturexpeditionen in den Tropen, deren Herbarbelege zur Jahrhundertwende des 18. und 19. Jahrhunderts in Europa ausgewertet wurden. Die formale Erstbeschreibung wurde von dem französischen Botaniker Jean-Louis Marie Poiret verfasst. Sie erschien im Jahr 1804 in der Encyclopédie Méthodique. Botanique (Band 6, S. 189), deren Herausgeber Jean-Baptiste de Lamarck war (Status: gesichert)1.
+Die enorme morphologische Variabilität der Art – geschuldet den stark variierenden Gezeiten- und Salinitätsbedingungen ihrer jeweiligen Mikrohabitate – führte im 19. Jahrhundert zu taxonomischen Kontroversen. Verschiedene Forscher identifizierten vermeintlich neue Arten, die von späteren Botanikern wieder als bloße Ausprägungen von R. mucronata klassifiziert und synonymisiert wurden (Status: gesichert)2. Zu diesen Synonymen zählen:
+Rhizophora macrorrhiza, beschrieben im Jahr 1836 von dem britischen Botaniker William Griffith anhand von Pflanzenmaterial aus Myanmar2.
+Rhizophora longissima, definiert im Jahr 1837 von dem spanischen Ordensgeistlichen und Botaniker Francisco Manuel Blanco auf den Philippinen2.
+Rhizophora latifolia, eingeführt im Jahr 1861 von dem niederländischen Botaniker Friedrich Anton Wilhelm Miquel2.
+Die physiologische Erforschung der Art ist untrennbar mit dem norwegisch-amerikanischen Biologen Per Fredrik Scholander verbunden. In zwei zentralen Studien, publiziert in den Jahren 1962 und 1968, löste Scholander das jahrzehntealte Rätsel der Salztoleranz. Er widerlegte die Annahme energieaufwändiger aktiver "Salzpumpen" in den Wurzeln und bewies stattdessen das Vorhandensein einer reinen Ultrafiltration durch hydrostatischen Unterdruck, den er mit der von ihm entwickelten Druckkammer messbar machte (Status: gesichert)16.
+7. Fotografie
+Die Küstenlandschaft nördlich von Mombasa bietet im späten September und frühen Oktober ausgezeichnete fotografische Bedingungen.
+Ort und Timing: Entlang der geplanten Route sind der Mtwapa Creek sowie die von Mangroven gesäumten Meeresarme Tudor Creek und Mwache Creek (im Einzugsbereich des Mombasa Marine National Park) die verlässlichsten Areale zur Sichtung und Dokumentation (Status: gesichert)32. Das anvisierte Zeitfenster am frühen Morgen oder späten Nachmittag in Kombination mit Niedrigwasser (Ebbe) ist zwingend erforderlich. Nur dann liegen die massiven Stelzwurzelsysteme frei im Schlick.
+Verhalten und Fluchtdistanzen: Das statische Motiv der Bäume erfordert die Beobachtung der assoziierten Fauna. Zahlreiche Krabbenarten weiden die freiliegenden Wurzeln ab oder suchen im Schlick nach herabgefallenen Keimlingen (Status: gesichert)5. Diese Krebstiere reagieren extrem empfindlich auf Erschütterungen im weichen Boden und besitzen Fluchtdistanzen von mehreren Metern. Ein stationäres, vibrationsfreies Abwarten ist unerlässlich. Das zweite dokumentationswürdige Ereignis ist der natürliche Abwurf der Hypokotyle, der im Zeitraum September/Oktober seinen statistischen Höhepunkt erreicht (Status: gesichert)26.
+Ausrüstung und Belichtung (Richtwerte):
+Habitat-Aufnahmen (26 bis 60 mm / 45 mm Objektive): Um das komplexe Wurzelwerk mitsamt seiner räumlichen Tiefe scharf abzubilden, ist eine Abblendung auf Blende f/8 bis f/11 geboten (Status: vermutet / fotografisch abgeleitet).
+Tierisches Verhalten (100 bis 400 mm / 150 bis 600 mm Objektive): Die schnellen Seitwärtsbewegungen und plötzlichen Fluchtsprünge der Krabben erfordern bei langen Telebrennweiten Belichtungszeiten von mindestens 1/500 bis 1/1000 Sekunde, um Bewegungsunschärfe zu vermeiden.
+Der Fall des Hypokotyls: Um den rasanten vertikalen Sturz des bis zu 60 cm langen Keimlings in das Wasser oder den Schlick einzufrieren, sind extrem kurze Verschlusszeiten im Bereich von 1/1000 bis 1/2000 Sekunde erforderlich (Status: vermutet / physikalisch abgeleitet).
+Typische Fehler:
+Ein klassischer Fehler besteht darin, die Fotografie bei Flut anzusetzen. Das einströmende Wasser verdeckt das Stelzwurzelsystem fast vollständig, wodurch der visuelle Charakter der Rhizophora mucronata verloren geht. Ebenso führt die Nutzung schwerer Teleobjektive unter dem oft dichten, lichtschluckenden Mangrovendach ohne Stativ oder ausreichende ISO-Erhöhung zu Verwacklungen.
+8. Links zum Weiterlesen und Sehen
+POWO (Plants of the World Online, Kew Gardens): Taxonomische Hierarchie, umfassende Synonymliste und eine kartierte globale Verbreitungsübersicht, kuratiert durch die Royal Botanic Gardens. (Fachliche Quelle)https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:719830-1
+IUCN Red List of Threatened Species: Das offizielle Assessment aus dem Jahr 2010 zur Einstufung in die Gefährdungskategorie "Least Concern", inklusive ökologischer Basisdaten. (Fachliche Quelle)https://doi.org/10.2305/IUCN.UK.2010-2.RLTS.T178825A7618520.en (verlinkt auf die Datensatz-DOI 10.15468/0qnb58 in der IUCN-Datenbank)
+PROTA4U (Plant Resources of Tropical Africa): Eine überaus detaillierte Datenbank, welche die physikalischen Holzeigenschaften, den prozentualen Tanningehalt der Rinde und die Nutzungsgeschichte als Baumaterial in Ostafrika aufschlüsselt. (Fachliche Quelle)https://prosea.prota4u.org/view.aspx?id=1417
+WoRMS (World Register of Marine Species): Ein Katalogisierungsnetzwerk mariner Fundorte, das spezifische kenianische Bestände wie Gazi Bay, Mida Creek, Mtwapa Creek und Tudor Creek auf einer interaktiven Verbreitungskarte verzeichnet. (Verbreitungskarte)https://www.marinespecies.org/aphia.php?p=taxdetails&id=235095
+(Hinweis: Es konnten keine direkten, funktionsfähigen Foto-URLs für iNaturalist oder Wikimedia Commons verifiziert werden, da die zur Verfügung gestellten Datensätze lediglich auf Textauszüge von Forenseiten ohne gültigen direkten Bildpfad verwiesen. Tonaufnahmen existieren für botanische Subjekte nicht).
+9. Visuelle Beschreibung für eine Illustration
+The Asiatic mangrove (Rhizophora mucronata) stands as a 15-meter evergreen tree, its straight, cylindrical trunk clad in rough, reddish-black bark characterized by deep, horizontal fissures. The tree is elevated above the muddy substrate upon a sprawling, complex buttress of arching, reddish stilt roots that emerge from the lower trunk and lower branches. The dense canopy is composed of decussate, broadly elliptical, glossy green leaves that taper into a sharp mucronate tip, while their pale undersides are speckled with tiny black corky warts. For specific detail, the illustration should highlight a torpedo-like propagule (hypocotyl) extending up to 60 cm downwards from a dull brown-green, pear-shaped fruit; a close-up of the leaf's underside focusing on the corky warts and the fragile, pointed tip; and a detailed macro section of the rough bark revealing the horizontal striations. As a cultural vignette, the illustration should feature a traditional wooden Swahili dhow floating nearby, its deck heavily loaded with stripped, straight mangrove poles (boriti), reflecting the historical coastal trade with Arabia.
+10. Was du nicht belegen konntest
+Folgende Spezifikationen der Rechercheanfrage ließen sich anhand der vorliegenden, verifizierten Daten nicht belastbar beantworten oder belegen:
+Lokale Namen bei Binnenvölkern: Namen der Art bei den Maa, Kikuyu, Samburu und Kamba konnten nicht dokumentiert werden. Da diese ethnischen Gruppen traditionell im kenianischen Binnenland siedeln, existiert möglicherweise keine eigene marine Nomenklatur für Mangroven.
+Etymologie von "Mkoko": Die Theorie, dass der Swahili-Name "Mkoko" eine lautmalerische Nachahmung des knackenden Geräuschs beim Spalten des Holzes sei, ist in den linguistischen und botanischen Referenzen nicht erwähnt. Der Begriff ist als Pflanzenname gesichert, seine Wurzel bleibt hier jedoch spekulativ.
+Mythen, Legenden und Rituale: Direkte Erwähnungen mythologischer Bedeutungen, spezifischer Rituale oder Sprichwörter, die sich exklusiv auf Rhizophora mucronata beziehen, fehlen.
+Direkte Foto-URLs: Exakte, abrufbare URLs zu spezifischen Fotos auf iNaturalist, Wikimedia Commons oder Flickr Commons waren in den Rohdaten nicht vorhanden, weshalb keine konstruierten Adressen eingefügt wurden.
+Audioaufnahmen: Naturgemäß existieren für Flora keine Rufe oder akustischen Äußerungen.
+Alltagsvergleiche: Die geforderten metrischen Alltagsvergleiche (Handfläche, Türhöhe) waren in den Quellen nicht explizit enthalten. Um der Anfrage gerecht zu werden, wurden sie auf Basis der wissenschaftlichen Maße mathematisch abgeleitet und mit dem Status "vermutet" deutlich gekennzeichnet.
+Referenzen
+Rhizophora mucronata (Loop-root mangrove) - Trefle, http://150.107.74.186:8083/explore/species/rhizophora-mucronata
+Rhizophora mucronata - Grokipedia, https://grokipedia.com/page/Rhizophora_mucronata
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:719830-1
+Rhizophora mucronata - Safari Afrika, https://www.safari-afrika.de/pflanzenwelt/mangroven/rhizophora-mucronata/
+Rhizophora mucronata - Wikipedia, https://en.wikipedia.org/wiki/Rhizophora_mucronata
+Rhizophora mucronata : Black Mangrove | Atlas of Living Australia, https://bie.ala.org.au/species/Rhizophora+mucronata
+Michael Gachanja Enock Kanyanya February, 2004, http://coastalforests.tfcg.org/pubs/SocioEco-Ken.pdf
+Mohamed PAKIA, M.Sc. - EPub Bayreuth, https://epub.uni-bayreuth.de/881/1/Pakia.pdf
+Swahili Ethnobotany and Carved Doors | PDF - Scribd, https://pt.scribd.com/doc/14444108/Swahili-Ethnobotany-and-Carved-Doors
+Indigenous knowledge and management systems for marine, https://erepository.uonbi.ac.ke/server/api/core/bitstreams/c642f88e-e366-476e-9945-5fd316dda7c9/content
+Rhizophora mucronata Rhizophoraceae Poiret, https://apps.worldagroforestry.org/treedb/AFTPDFS/Rhizophora_mucronata.PDF
+PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/view.aspx?id=1417
+A taxonomic revision of Rhizophora L. (Rhizophoraceae) in Thailand, https://www.researchgate.net/publication/381818497_A_taxonomic_revision_of_Rhizophora_L_Rhizophoraceae_in_Thailand
+Asiatic Mangrove (Rhizophora mucronata) – An overview, https://euacademic.org/UploadArticle/624.pdf
+Rhizophora mucronata in Flora of China @ efloras.org, http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014690
+Water Relations and Salt Balance (Chapter 8) - The Botany of, https://www.cambridge.org/core/books/botany-of-mangroves/water-relations-and-salt-balance/42DA60ACFB2834CA7F162B414513988E
+Sap salinity effects on xylem conductivity in two mangrove species, https://www.researchgate.net/publication/227658783_Sap_salinity_effects_on_xylem_conductivity_in_two_mangrove_species
+Novel water filtration of saline water in the outermost layer of ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC4742776/
+Osmotic and hydraulic adjustment of mangrove saplings to extreme, https://sites.lifesci.ucla.edu/eeb-sacklab/wp-content/uploads/sites/71/2017/03/Mendez-Alonzo_etal_2017_TP.pdf
+NATIONAL MANGROVE ECOSYSTEM MANAGEMENT PLAN - TEMA, https://tema-kenya.org/admin/uploads/NATIONAL%20MANGROVE%20ECOSYSTEM%20MANAGEMENT%20PLAN-2_6789071fe78f4.pdf
+Mangrove litter biomass input in a forest impacted by human, https://www.soctropecol.eu/PDF/Ecotropica_2010_01/Kihia%20et%20al%202010.pdf
+Baseline Ecological Insights of Vegetation and Carbon Stocks, https://www.mdpi.com/2071-1050/18/4/1906
+PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/view.aspx?id=3038
+Dunes, Groundwater, Mangroves and Birdlife in Coastal Kenya, https://www.ascleiden.nl/sites/default/pubfiles/brd-hoorweg-dunes-v9.pdf
+PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/view.aspx?id=1392
+Litter fall and decomposition of mangrove species Avicennia marina, https://www.ajol.info/index.php/wiojms/article/view/56975/45372
+Vegetative and reproductive phenologies of four mangrove species, https://connectsci.au/bt/article/53/2/109/133023/Vegetative-and-reproductive-phenologies-of-four?utm_source=researchgate.net&utm_medium=article
+Ceriops tagal - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Ceriops+tagal
+"Mangroves in Lamu County: A Vital Resource Under Threat", https://storymaps.arcgis.com/stories/c5ae63bf11b243c98f5c5527d9fb2180
+Rhizophora mucronata - The IUCN Red List of Threatened Species, https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/178825
+Environmental Research Laboratory, Gulf Breeze, Collected, https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=9100PTVJ.TXT
+World Register of Marine Species - Rhizophora mucronata Poir., https://www.marinespecies.org/aphia.php?p=taxdetails&id=235095

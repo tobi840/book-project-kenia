@@ -1,0 +1,286 @@
+Rohmaterial: Catharanthus roseus (Madagaskar-Immergrün)
+1. Namen und Etymologie
+Die taxonomische Klassifikation ordnet die Art Catharanthus roseus (L.) G.Don dem Pflanzenreich (Plantae) und der Abteilung der Gefäßpflanzen (Tracheophyta) zu [gesichert]1. Innerhalb der Klasse der Zweikeimblättrigen (Magnoliopsida) gehört sie zur Ordnung der Enzianartigen (Gentianales) und zur Familie der Hundsgiftgewächse (Apocynaceae) [gesichert]1. Auf einer tieferen taxonomischen Ebene wird die Art der Unterfamilie Rauvolfioideae, dem Tribus Vinceae und dem Subtribus Catharanthinae zugeordnet [gesichert]3. Die formelle Nomenklatur durchlief historische Änderungen. Zunächst wurde die Pflanze von Carl von Linné im Jahr 1759 unter dem Namen Vinca rosea in das binominale System aufgenommen [gesichert]6. Im Jahr 1837 ordnete der schottische Botaniker George Don die Pflanze der Gattung Catharanthus zu und etablierte den heute gültigen wissenschaftlichen Namen Catharanthus roseus (L.) G.Don [gesichert]4. Weitere historische Synonyme umfassen Lochnera rosea (L.) Rchb. ex Endl., Ammocallis rosea (L.) Small, Pervinca rosea (L.) Gaterau und Vinca gulielmi-waldemarii Klotzsch [gesichert]1.
+Die Etymologie des Gattungsnamens Catharanthus leitet sich aus dem Griechischen ab, wobei „katharos“ wörtlich „rein“ und „anthos“ wörtlich „Blüte“ bedeutet [gesichert]8. Das lateinische Artepitheton roseus lässt sich wörtlich mit „rot“, „rosa“ oder „rosig“ übersetzen [gesichert]9.
+Für die Trivialnamen existieren je nach Region unterschiedliche Bezeichnungen. Der deutsche Trivialname lautet Madagaskar-Immergrün [gesichert]10. Spezifische lokale Bezeichnungen für die kenianischen Sprachgruppen Maa, Kikuyu, Samburu, Giriama und Kamba sind in der vorliegenden Datenbasis unbekannt [gesichert]11.
+
+Sprache / Region
+	Trivialname
+	Wörtliche Bedeutung (sofern belegt)
+	Status
+
+Englisch
+	Madagascar periwinkle, Rose periwinkle, Old maid, Bright eyes, Graveyard plant
+	unbekannt
+	[gesichert]1
+
+Swahili (Kenia/Ostafrika)
+	Olubinu
+	unbekannt
+	[überliefert]11
+
+Kenia (generisch)
+	Maua
+	„Blumen“ (generischer Begriff)
+	[überliefert]9
+
+Indien
+	Sadabahar
+	„immer blühend“
+	[gesichert]9
+
+Malaysia / Indonesien
+	Kembang Tapak Dara
+	unbekannt
+	[gesichert]1
+
+Brasilien
+	Boa-noite
+	unbekannt
+	[gesichert]9
+
+Peru
+	Chavelita
+	unbekannt
+	[gesichert]9
+2. Erscheinung, mit Maßen
+Catharanthus roseus wächst als immergrüner, mehrjähriger Halbstrauch (Suffrutex) oder als krautige Pflanze [gesichert]2. Die Pflanze entwickelt schlanke, fleischige Stängel, die einer holzigen Basis entspringen und einen aufrechten oder anliegenden Wuchs aufweisen [gesichert]9. Das gesamte Pflanzengewebe führt einen weißen Milchsaft (Latex) [gesichert]9. Wird die Pflanze oberflächlich zurückgeschnitten oder steigt die Umgebungstemperatur nach einer Kälteperiode, erfolgt ein Neuaustrieb hauptsächlich aus basalen Achselknospen oder direkt aus dem Wurzelsystem [gesichert]16.
+Die Laubblätter sind gegenständig in Paaren am Stängel angeordnet [gesichert]16. Sie weisen eine ovale bis längliche Form auf, sind unbehaart und besitzen eine glänzende, grüne Oberfläche [gesichert]16. Ein charakteristisches Merkmal ist die deutlich sichtbare, helle Mittelrippe (Midrib) [gesichert]18.
+Die radiärsymmetrischen Blüten sitzen endständig oder in den Blattachseln [gesichert]15. Sie bestehen aus einem kurzen Kelch (Calyx), einem lang behaarten Fruchtknoten, einer fünfeckigen Narbe (Stigma) und einer Krone (Corolla) mit fünf kronblattartigen Lappen [gesichert]15. Die Farbpalette der Blüten reicht von reinem Weiß über verschiedene Rosa- und Violetttöne bis hin zu dunklem Pink [gesichert]9. Das Zentrum der Blüte, auch „Auge“ genannt, weist häufig eine dunklere, rote Färbung auf [gesichert]9. Die rosa Pigmentierung wird durch das Anthocyanidin-Pigment Rosinidin verursacht [gesichert]20.
+Nach der Befruchtung bildet die Pflanze als Frucht ein Paar von Balgfrüchten (Follikeln) aus [gesichert]5. Die darin enthaltenen Samen sind nackt, gerippt, komprimiert und besitzen keinen Haarschopf (Coma) [gesichert]4. Bei den Maßen der Frucht gibt es in den Quellen widersprüchliche Angaben, die im Folgenden tabellarisch dargestellt werden. Spezifische Größen- oder Farbunterschiede zwischen Geschlechtern existieren nicht, da die Blüten zwittrig (bisexuell) sind [gesichert]4.
+
+Körperteil
+	Metrisches Maß
+	Alltagsvergleich (errechnet/belegt)
+	Status
+
+Wuchshöhe
+	0,7 m bis 1,0 m
+	Entspricht der Höhe einer typischen Türklinke
+	[gesichert]16
+
+Wuchsbreite
+	0,7 m bis 1,0 m
+	Entspricht einem großen Regenschirm
+	[gesichert]16
+
+Blattlänge
+	2,5 cm bis 9,5 cm
+	Länge eines menschlichen Daumens bis zur Handflächenbreite
+	[gesichert]18
+
+Blattbreite
+	1,0 cm bis 3,5 cm
+	Breite eines bis zwei Fingern
+	[gesichert]18
+
+Blattstiel (Petiole)
+	1,0 cm bis 1,8 cm
+	unbekannt
+	[gesichert]18
+
+Blüte: Basale Röhre
+	2,5 cm bis 3,0 cm
+	unbekannt
+	[gesichert]19
+
+Blüte: Kronendurchmesser
+	2,0 cm bis 5,0 cm
+	Durchmesser einer 2-Euro-Münze bis zum Boden einer Kaffeetasse
+	[gesichert]19
+
+Fruchtlänge (Angabe A)
+	2,0 cm bis 4,0 cm
+	Länge einer Streichholzschachtel
+	[gesichert]20
+
+Fruchtlänge (Angabe B)
+	15,0 cm bis 25,0 cm
+	Länge eines Unterarms (Widerspruch zu Angabe A)
+	[umstritten]19
+
+Fruchtbreite
+	3,0 mm
+	unbekannt
+	[gesichert]20
+3. Der Mechanismus
+Das primäre biologische Prinzip, das Catharanthus roseus auszeichnet, ist die komplexe Biosynthese von über 130 verschiedenen Terpenoid-Indol-Alkaloiden (TIAs) [gesichert]9. Die medizinisch bedeutendsten Endprodukte dieser Synthese sind die dimeren Bisindol-Alkaloide Vinblastin und Vincristin, die durch die Dimerisierung (Kopplung) der beiden monomeren Alkaloide Catharanthin und Vindolin entstehen [gesichert]22.
+Die ökologische Kausalkette für die Produktion dieser Alkaloide dient der chemischen Verteidigung der Pflanze gegen Fraßfeinde, wie beispielsweise die Raupe des Tabakschwärmers (Manduca sexta) [gesichert]24. Tritt ein Fraßschaden auf, wird ein Transkriptionsfaktor namens HIVE (Herbivore-Induced Vindoline-gene Expression) aktiviert [gesichert]24. Dieser Transkriptionsfaktor stimuliert die Produktion der dimeren Alkaloide [gesichert]24. Während die Monomere Vindolin und Catharanthin für Insekten isoliert kaum toxisch sind, ist ihr kondensiertes Endprodukt (z. B. Anhydrovinblastin) hochtoxisch [gesichert]24. Umgekehrt führt Kältestress zu einer Unterdrückung dieser Alkaloid-Biosynthese [gesichert]24.
+Die biochemische Kausalkette der TIA-Biosynthese erfordert eine strikte räumliche Trennung und umfasst annähernd 30 enzymatische Schritte, die sich über fünf subzelluläre Kompartimente in vier verschiedenen Zelltypen des Blattes erstrecken [gesichert]23. Der Prozess beginnt mit der Synthese von Strictosidin aus den Vorstufen Tryptophan (Indol-Monomer) und Geranylpyrophosphat (Monoterpenoid-Monomer) [gesichert]23. Strictosidin dient als Basis für alle weiteren TIAs [gesichert]23. In der Folge werden die beiden entscheidenden Monomere räumlich getrennt produziert: Das Alkaloid Catharanthin wird in den Epidermiszellen der Blätter gebildet und durch einen spezifischen ATP-Binding-Cassette G (ABCG)-Transporter, identifiziert als CrTPT2, auf die Blattoberfläche transportiert, wo es fast ausschließlich in den Wachsausscheidungen der Cuticula akkumuliert [gesichert]22. Parallel dazu wird das Alkaloid Vindolin im Blattinneren synthetisiert. Diese Produktion findet in hochspezialisierten Mesophyllzellen, den sogenannten Idioblasten, sowie in den nicht verlängerten Milchröhren (Laticiferen) statt [gesichert]22.
+Um die räumliche Trennung zu überwinden und die Kopplung einzuleiten, müssen beide Monomere in die Vakuolen der Mesophyllzellen transportiert werden [gesichert]22. Dieser Transport erfolgt über ein spezifisches Protonen-Antiport-System, das durch einen pH-Gradienten über den Tonoplasten angetrieben wird, welcher durch die Enzyme V-H+-ATPase und V-H+-PPase aufrechterhalten wird [gesichert]22. In der Vakuole findet die eigentliche Dimerisierung statt. Ein Enzym der Klasse III Peroxidasen, identifiziert als CrPrx1, nutzt das im Blattgewebe natürlich vorkommende Wasserstoffperoxid (H2O2) als Elektronenakzeptor, um Catharanthin zu aktivieren [gesichert]23. Das aktivierte Catharanthin reagiert daraufhin mit Vindolin und bildet eine Iminium-Zwischenverbindung [gesichert]23. Eine Reduktase, bei der es sich vermutlich um die Tetrahydroalstonin-Synthase (THAS) handelt, reduziert diese Zwischenverbindung zu alpha-3',4'-Anhydrovinblastin (AHVB) [gesichert]23. Aus AHVB entstehen in finalen Schritten die Krebsmedikamente Vinblastin und Vincristin [gesichert]23.
+Die Ausbeute dieser Stoffe in der natürlichen Pflanze ist extrem gering, was die Erforschung und Extraktion erschwert und verteuert. Die prozentualen Erträge variieren je nach Extraktionsmethode und Studie:
+
+Extrakt / Alkaloid
+	Prozentualer Ertrag
+	Status
+
+Gesamtalkaloidgehalt der Pflanze
+	ca. 2,56 %
+	[gesichert]27
+
+Roher Methanolextrakt (aus 50 g Blattpulver)
+	12,8 %
+	[gesichert]18
+
+Roher Petrolether-Extrakt
+	2,56 %
+	[gesichert]18
+
+Vinblastin (aus trockenen Blättern)
+	0,0003 % bis 0,038 % (w/w)
+	[gesichert]21
+
+Vincristin (Angabe A)
+	0,60 % bis 0,65 %
+	[umstritten]21
+
+Vincristin (Angabe B, HPLC-Messung)
+	bis zu 148 µg/g (entspricht ca. 0,0148 %)
+	[umstritten]28
+Die Identifizierung von CrPrx1 und dessen Subzellulärlokalisation wurde zwischen 2003 und 2008 maßgeblich von Forschergruppen unter der Leitung von Mariana Sottomayor und Ros Barceló vorangetrieben [gesichert]23.
+4. Ökologie und Verhalten
+Catharanthus roseus ist ursprünglich an den trockenen Küstenregionen im Osten und Süden Madagaskars heimisch [gesichert]16. Durch menschliche Einführung ist die Art heute pantropisch verbreitet und hat sich in den Subtropen und Tropen weltweit eingebürgert, darunter in Kenia, Australien, Bangladesch, Indien, Malaysia, Pakistan und den südlichen USA [gesichert]9.
+Die Pflanze zeichnet sich durch eine hohe Toleranz gegenüber diversen Bodenbedingungen aus. Sie wächst auf leichten (sandigen), mittleren (lehmigen) und schweren (tonigen) Böden, sowie auf nährstoffarmen Felsböden und Sanddünen [gesichert]16. Hinsichtlich der Bodenchemie erträgt sie ein breites pH-Spektrum, das von stark sauer bis stark alkalisch reicht, und besitzt eine ausgeprägte Toleranz für Bodensalz (Salinität) [gesichert]15. Klimatisch bevorzugt sie Jahresniederschläge zwischen 1.000 mm und 1.200 mm, toleriert jedoch Spannen von 800 mm bis 1.400 mm [gesichert]16. Die optimalen Wachstumstemperaturen liegen zwischen 20 °C und 30 °C, die Toleranzgrenzen reichen von 10 °C bis 34 °C [gesichert]16. Fällt die Temperatur unter 5 °C bis 7 °C, führt dies zum Absterben von Ästen oder der gesamten Pflanze [gesichert]16. Einmal etabliert, gilt die Pflanze als äußerst dürretolerant [gesichert]16.
+In tropischen Äquatorbedingungen, wie an der kenianischen Küste, zeigt die Pflanze keine saisonale Ruhephase, sondern blüht und fruchtet kontinuierlich das ganze Jahr über [gesichert]20. Die Fortpflanzung erfolgt sexuell; obwohl die Pflanze selbstfertil (selbstbefruchtend) ist, wird sie häufig von Schmetterlingen und Bienen bestäubt [gesichert]16. Die Ausbreitung der produzierten Samen erfolgt lokal durch Ameisen, Wind und Wasser, jedoch besitzt die Art keine morphologischen Anpassungen für eine Langstreckenausbreitung über 100 Meter durch Wind oder Tiere [gesichert]29. Die globale Ausbreitung ist primär auf den Menschen zurückzuführen, beispielsweise durch kontaminierten Boden oder Gartenabfälle [gesichert]29.
+Catharanthus roseus steht in einer starken Abhängigkeit zu mikrobiologischen Endophyten. Die Pflanze beherbergt in ihrem Gewebe verschiedene Arten von endophytischen Pilzen, wie Nigrospora zimmermanii und Arten der Gattung Curvularia [gesichert]32. Diese Pilze infizieren die Pflanze, ohne Krankheitssymptome auszulösen, und regulieren strukturelle Gene hoch [gesichert]33. Speziell die Expression des Gens für die Klasse III Peroxidase (PRX1) wird durch diese Pilze verstärkt, was die Produktion von Vindolin und Vincristin steigert [gesichert]33. Ein in-vitro-Versuch zeigte, dass der isolierte Pilz Nigrospora zimmermanii selbstständig Vincristin produzieren kann, mit einer Ausbeute von 5,344 µg/mL in der ersten Generation [gesichert]32. Eine weitere Abhängigkeit, jedoch parasitärer Natur, besteht zu Phytoplasmen. Die Pflanze ist hochgradig anfällig für diese Bakterien, was sich in drastischen Symptomen wie einer Phyllodie (Rückbildung der Blüten zu blattähnlichen Strukturen) und einer deutlichen Reduzierung der Blattgröße äußert [gesichert]20.
+Konkretes Verhalten im Reisezeitraum (24.09. bis 12.10.): In der Küstenregion Kenias markiert dieser Zeitraum das Ende der langen Trockenzeit und den Beginn der kleinen Regenzeit. Die Pflanze hat die Trockenzeit aufgrund ihrer ausgeprägten Dürretoleranz als immergrüner Strauch überdauert [vermutet]16. Physiologische Studien zeigen, dass Catharanthus roseus unter simuliertem Dürrestress (durch Zusatz von bis zu 12 % PEG4000) vermehrt Terpenoide in ihren Laticiferen und Idioblasten anreichert, während die Konzentrationen von Vinblastin und Vincristin konstant bleiben [gesichert]27. Mit den ersten Niederschlägen im Oktober wird die Pflanze aus ihren basalen Achselknospen neue vegetative Triebe bilden und gleichzeitig ihre ganzjährige Blüten- und Samenproduktion fortsetzen [vermutet]16.
+5. Menschen und Kultur in Kenia und weltweit
+Die Verbreitung und Nutzung von Catharanthus roseus in Kenia und global ist tief in der Ethnobotanik verwurzelt. Historischen Überlieferungen zufolge wurde die Pflanze während der Blütezeit des Swahili-Handelsnetzwerks (ca. 800 bis 1450 n. Chr.) von Seeleuten im Indischen Ozean durch Stecklinge verbreitet [überliefert]6. Malagassische Fischer und Seeleute kauten die Blätter, um Hungergefühle zu unterdrücken und Erschöpfung bei langen Überfahrten zu lindern [überliefert]6.
+In Kenia und Ostafrika wurden verschiedene traditionelle Nutzungen dokumentiert. Im Jahr 1962 berichteten Watt und Breyer-Brandwijk, dass traditionelle Heiler in Ost- und Südafrika die Pflanze zur Behandlung nicht näher spezifizierter Geschlechtskrankheiten verwendeten [gesichert]35. Zudem wird aus den Blättern und Wurzeln ein Dekokt gekocht, das oral eingenommen wird, um Malaria, Rheuma, Asthma und Menstruationsbeschwerden zu behandeln [überliefert]12. Äußerlich wird ein frischer Blattsaft auf die Haut aufgetragen, um Blutungen zu stoppen, Wespengift zu neutralisieren oder Hautentzündungen (Dermatitis) zu lindern [gesichert]13.
+Auf globaler Ebene wird die Pflanze in nahezu allen traditionellen Heilsystemen der Tropen und Subtropen eingesetzt.
+
+Region / Land
+	Verwendeter Pflanzenteil
+	Zubereitung
+	Indikation (Traditionelle Nutzung)
+	Status
+
+Jamaika, Karibik
+	Ganze Pflanze / Blätter
+	Dekokt / Tee
+	Diabetes, Augenkrankheiten
+	[gesichert]6
+
+Indien
+	Blätter
+	Saft / Paste
+	Wespenstiche, Krebs, Diabetes (Ayurveda)
+	[gesichert]19
+
+Südafrika
+	Wurzel
+	Getrocknet und als Dekokt
+	Urogenitale Infektionen
+	[gesichert]19
+
+China
+	Oberirdische Teile
+	Dekokt
+	Menstruationsregulierung
+	[gesichert]19
+
+Australien
+	Blätter / Wurzelrinde
+	Dekokt
+	Menorrhagie, Diabetes, Fiebermittel
+	[gesichert]19
+
+Hawaii
+	Blätter
+	Gekochter Umschlag
+	Stillung von Blutungen
+	[gesichert]21
+In Europa rankten sich in der Vergangenheit Volksglauben und Mythen um die Pflanze. Aufgrund ihrer angeblichen magischen Eigenschaften nahmen die Europäer an, sie könne böse Geister abwehren, und in Frankreich wurde sie historisch als „Veilchen der Zauberer“ ("violet of the sorcerers") bezeichnet [überliefert]39.
+Die Beziehung zwischen Menschen und dieser Pflanze beinhaltet jedoch auch ein enormes Konfliktpotenzial, das als eines der bekanntesten Beispiele für "Biopiraterie" in die Geschichte einging. In den 1950er Jahren wurde das US-Pharmaunternehmen Eli Lilly auf die Pflanze aufmerksam, nachdem das Unternehmen Berichte über die Anwendung als Antidiabetikum durch malagassische und jamaikanische Heiler untersucht hatte [gesichert]34. Wissenschaftler des Unternehmens isolierten die Verbindungen Vinblastin und Vincristin, patentierten diese im Jahr 1958 – zwei Jahre vor der Unabhängigkeit Madagaskars von Frankreich – und entwickelten daraus die Krebsmedikamente Oncovin und Velban [gesichert]34. Durch Vincristin stieg die Überlebensrate bei kindlicher Leukämie von unter 10 % im Jahr 1960 auf heute über 90 % [gesichert]13. Kommerziell erwirtschaftete Eli Lilly in den 1980er Jahren mit diesen Medikamenten jährliche Gewinne zwischen 90 und 400 Millionen US-Dollar [gesichert]34. Die indigene Bevölkerung Madagaskars, deren traditionelles Wissen den Anstoß zur Erforschung gegeben hatte, erhielt nie eine finanzielle Entschädigung (Benefit-Sharing) [gesichert]34. Eli Lilly verteidigte dies mit dem Argument, dass die malagassische Bevölkerung die Pflanze zur Behandlung von Diabetes einsetzte, das Unternehmen jedoch Medikamente gegen Krebs entwickelt habe, weshalb keine Biopiraterie vorliege [gesichert]34.
+Gleichzeitig ist der Umgang mit der Pflanze von toxikologischen Gefahren geprägt. Die Pflanze ist stark giftig; der Verzehr oder das Einatmen des Rauchs ist für Menschen gefährlich [gesichert]29. Fressen Weidetiere größere Mengen der Pflanze, kommt es zu Neurotoxizität, Hypotonie, Anfällen, Anämie und zum Tod [gesichert]15. In Australien (Westaustralien, Queensland) wird Catharanthus roseus aufgrund der unkontrollierten Ausbreitung als invasives Umweltunkraut (Noxious weed) gesetzlich bekämpft [gesichert]20.
+Bezüglich des globalen Schutzstatus existieren widersprüchliche Angaben. Einige Quellen geben an, dass die Pflanze von der IUCN noch nicht offiziell bewertet wurde (Data Deficient / Not Assessed) [umstritten]16. Anderen Berichten zufolge wird sie global als "Least Concern" (Nicht gefährdet) eingestuft, da sie weltweit kultiviert wird [umstritten]31. Auf Madagaskar, ihrem Ursprungsort, ist die Wildpopulation jedoch gefährdet. Offiziellen Zolldaten zufolge exportierte Madagaskar zwischen 2018 und 2023 insgesamt 35.800 Tonnen medizinischer Pflanzen, was einem jährlichen Handelswert von 68 Millionen USD entspricht [gesichert]44. Die lokalen Erntearbeiter, die die Pflanzen oft zwischen 5 Uhr morgens und Mittag sammeln, verdienen dabei nur 2 bis 2,5 USD pro Tag, was unter dem Existenzminimum liegt [gesichert]44. Weniger als 45 % dieses Handels mit madagassischen Medizinalpflanzen verlaufen legal [gesichert]44.
+6. Wissenschaftsgeschichte
+Die formelle wissenschaftliche Dokumentation von Catharanthus roseus erstreckt sich über mehrere Jahrhunderte. Der erste schriftliche Nachweis durch einen Europäer stammt aus dem Jahr 1658 von Etienne de Flacourt, dem damaligen Gouverneur einer Kolonie der französischen Ostindien-Kompanie in Madagaskar [gesichert]6. In der Mitte des 18. Jahrhunderts gelangten Samen der Pflanze aus dem Garten des französischen Königs Ludwig XV. in Trianon, Paris, nach London. Der Empfänger, Philip Miller, Chefgärtner im Chelsea Physic Garden, kultivierte die Pflanze erfolgreich und beschrieb sie unter dem sperrigen Namen Vinca foliis oblongo-ovatis integerrimis, tubo floris longissimo, caule ramoso fructicoso [gesichert]6. Die erste gedruckte Illustration der Pflanze wurde von Richard Lancake angefertigt [gesichert]6. Auf Basis von Millers Notizen und Lancakes Zeichnung wendete Carl von Linné 1759 sein binominales System an und taufte die Pflanze Vinca rosea [gesichert]6. Im Jahr 1837 gliederte der schottische Botaniker George Don die Art in die Gattung Catharanthus ein [gesichert]4.
+In den 1920er Jahren begannen zwei nordamerikanische Forschergruppen, angeregt durch ethnobotanische Berichte, die angebliche antidiabetische Wirkung der Pflanze klinisch zu prüfen [gesichert]6. Der entscheidende medizinische Durchbruch ereignete sich 1949 durch einen Zufall im Labor von Robert und Clark Noble. Halina Czajkowski Robinson, eine polnische Einwanderin und Labortechnikerin, stellte bei Tierversuchen mit Pflanzenextrakten fest, dass der Blutzuckerspiegel zwar unverändert blieb, die Anzahl der weißen Blutkörperchen jedoch drastisch absank [gesichert]6. Diese Beobachtung leitete die Krebsforschung ein. In den 1950er Jahren isolierte Dr. Gordon Svoboda für das Unternehmen Eli Lilly die Alkaloide Vinblastin und Vincristin, was die Basis für moderne Chemotherapien bildete [gesichert]13.
+7. Fotografie
+Für Naturfotografen auf der geplanten Route bietet die Küste von Mombasa (Bamburi Beach, Nguuni Nature Sanctuary, Mombasa Marine National Park, Mtwapa Creek) hervorragende Möglichkeiten, Catharanthus roseus zu dokumentieren. Die Pflanze wächst dort sowohl kultiviert als auch verwildert an Wegrändern, offenen Feldern, Klippen und auf sandigen Böden nahe menschlicher Siedlungen [gesichert]20.
+Die beste Tageszeit für die Fotografie sind die frühen Morgenstunden oder der späte Nachmittag. Da die Laubblätter eine dicke, wachsartige Cuticula besitzen, führt die harte Mittagssonne am Äquator zu extremen Reflexionen, Kontrastverlust und überbelichteten Spitzlichtern [vermutet]. Die Pflanze selbst ist statisch, ihr ökologisches Verhalten zieht jedoch Insekten wie Bienen und Schmetterlinge an, die die Bestäubung übernehmen [gesichert]16. Da Insekten eine Fluchtdistanz von etwa ein bis zwei Metern aufweisen, lohnt es sich, sich in Position zu begeben und das Eintreffen der Bestäuber abzuwarten.
+Objektive und Einstellungen:
+Das 26 bis 60 mm Objektiv eignet sich für Habitat-Aufnahmen, um die Pflanze in ihrer harschen, trockenen Umgebung (z.B. an den Felsen des Mtwapa Creek) zu zeigen. Eine Blende von f/8 bis f/11 sorgt für ausreichende Schärfentiefe.
+Das 45 mm Objektiv ist nützlich für Pflanzenporträts.
+Die Teleobjektive (100 bis 400 mm und 150 bis 600 mm) sind optimal, um Bestäuber auf der Blüte zu isolieren, ohne deren Fluchtdistanz zu unterschreiten.
+Verschlusszeiten: Für Bienen oder Schmetterlinge im Anflug oder während der unruhigen Nahrungsaufnahme sind Verschlusszeiten von 1/1000 bis 1/2000 Sekunde erforderlich, um die Bewegung der Flügel einzufrieren [vermutet]. Für statische Aufnahmen der Blüte aus der Hand reichen bei aktivierter Stabilisierung 1/200 bis 1/250 Sekunde [vermutet].
+Typische Fehler:
+Ein häufiger Fehler bei der Makrofotografie dieser Blüten ist eine zu geringe Schärfentiefe (z. B. f/2.8). Wenn der Fokus exakt auf das röhrenförmige Zentrum (das „Auge“) gelegt wird, verschwinden die äußeren Ränder der fünf Kronblätter in der Unschärfe, was die wissenschaftliche Dokumentation der Blüte einschränkt. Ein Abblenden auf f/5.6 oder f/8 bei nahen Distanzen ist empfehlenswert [vermutet].
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+POWO (Plants of the World Online) – Übersicht über Taxonomie, Synonyme und globale Verbreitung der Kew Gardens: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77880-115
+PFAF (Plants For A Future) – Sehr detailliertes Profil zu essbaren und medizinischen Eigenschaften, ökologischen Ansprüchen und Zuchtbedingungen: https://pfaf.org/user/Plant.aspx?LatinName=Catharanthus%20roseus16
+USDA Plants Database – Datenblatt des US-Landwirtschaftsministeriums mit taxonomischer Hierarchie und invasivem Status: https://plants.sc.egov.usda.gov/plant-profile/CARO142
+Fotos:
+Wikimedia Commons – Exzellent belichtetes Foto der dunkelpinken ("roten") Farbvariante unter CC BY-SA 4.0 Lizenz: https://commons.wikimedia.org/wiki/File:Catharanthus_roseus-Red_flowers_of_Madagascar_Periwinkle_2.JPG46
+Wikimedia Commons – Detaillierte Nahaufnahme von Laubblättern und Blüte unter CC BY-SA 3.0 Lizenz: https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_(Flowers).jpg47
+Verbreitungskarte:
+GBIF (Global Biodiversity Information Facility) – Weltweite Dokumentation von Vorkommen, Geodaten und Referenzsammlungen: https://www.gbif.org/species/316983048
+Kultur oder Geschichte:
+Chelsea Physic Garden – Ein ausführlicher Blogartikel, der die globale Geschichte, die Einführung in Europa durch Philip Miller und die Biopiraterie rund um Eli Lilly beleuchtet: https://www.chelseaphysicgarden.co.uk/the-many-lives-of-a-medicinal-superstar-delving-into-the-global-story-of-catharanthus-roseus/6
+9. Visuelle Beschreibung für eine Illustration
+The evergreen subshrub features a sturdy, woody base from which slender, fleshy stems ascend, maintaining either an erect or trailing posture up to one meter in height. The dark-green, glossy leaves are arranged in perfect opposite pairs along the stem, presenting a glabrous, oval-to-oblong shape defined by a prominently pale, distinct midrib. Solitary, symmetrical flowers bloom at the leaf axils or terminals, unfolding into five flat, petal-like corolla lobes that range in color from pure white to vivid pink, converging sharply into a contrasting dark-red tubular center, known as the "eye".
+Detailvorschläge:
+Frucht: Ein sich längs öffnendes Paar zylindrischer Balgfrüchte (Follikel), aus denen kleine, gerippte, komprimierte Samen ohne Haarschopf herausfallen.
+Blatt (Querschnitt/Mikroskopisch): Eine vergrößerte Darstellung des Zellgewebes, die die Wachsschicht (Cuticula) der Epidermis zeigt, in der die kristallisierten Alkaloide lagern.
+Wurzelsystem: Ein angeschnittener Wurzelbereich, der neue, sprießende Achselknospen zeigt, die typisch für den Neuaustrieb nach Trockenheit oder Rückschnitt sind.
+Kulturelle Vignette:
+Ein traditioneller, aus Holz geschnitzter madagassischer Mörser mit Stößel (oder ein bauchiges Tongefäß zum Kochen von Dekokten), flankiert von einer Handvoll ovaler Blätter und Blüten, was auf die jahrhundertealte Zubereitung als Mittel gegen Hunger und Diabetes verweist.
+10. Was du nicht belegen konntest
+Folgende der angefragten Informationen waren in der Datenlage nicht auffindbar oder widersprüchlich:
+Lokale Namen für kenianische Gemeinschaften: Es wurde explizit nach den Namen bei Maa, Kikuyu, Samburu, Giriama und Kamba gefragt. Obwohl die ethnobotanische Nutzung in Ostafrika erwähnt wird, ist der spezifische Begriff für Catharanthus roseus in diesen fünf Sprachen unbekannt. Das Wort "Olubinu" wird genannt, ist aber keinem dieser Stämme eindeutig linguistisch zuzuordnen. Das in Kenia genutzte Wort "Maua" bedeutet generisch "Blumen" und ist kein spezifischer Pflanzenname.
+Genaues Fruchtmaß: Es liegt ein eklatanter Widerspruch in den Quellen vor. Eine Quelle nennt 2,0 bis 4,0 cm Länge, während eine andere Quelle 15,0 bis 25,0 cm angibt. Der Fehler konnte mangels einer dritten, entscheidenden Quelle nicht aufgelöst werden.
+Saisonales Verhalten exakt im September/Oktober: Die Aussagen zum Verhalten beim Übergang von der langen Trockenzeit zur kleinen Regenzeit an der kenianischen Küste sind abgeleitet und als vermutet gekennzeichnet. Die Quellen belegen zwar die ganzjährige Blüte und Dürretoleranz, nennen aber die Monate September und Oktober nicht explizit in Kombination mit dem Wuchsverhalten in Kenia.
+Dies dient nur zu Informationszwecken. Für medizinische Beratung oder Diagnosen konsultieren Sie bitte medizinisches Fachpersonal.
+Works cited
+Catharanthus roseus (L.) G.Don | Apocynaceae - MyBIS, https://www.mybis.gov.my/sp/33491
+Catharanthus roseus (L.) G. Don - USDA Plants Database, https://plants.sc.egov.usda.gov/plant-profile/CARO14
+Revision of Catharanthus G. Don Series of Revisions ... - WUR eDepot, https://edepot.wur.nl/282984
+Floristic Account of Apocynaceae (Gentianales) in Tunisia - MDPI, https://www.mdpi.com/2223-7747/14/3/318
+Floristic Account of Apocynaceae (Gentianales) in Tunisia - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC11821063/
+The many lives of a medicinal superstar: delving into the global story, https://www.chelseaphysicgarden.co.uk/the-many-lives-of-a-medicinal-superstar-delving-into-the-global-story-of-catharanthus-roseus/
+ITIS - Report: Catharanthus roseus, https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=30168
+Catharanthus | International Plant Names Index, https://www.ipni.org/n/2251-1
+An Updated Review on Catharanthus Roseus: Its Traditional and, https://www.derpharmachemica.com/pharma-chemica/an-updated-review-on-catharanthus-roseus-its-traditional-and-modern-use-for-humankind-91066.html
+Immergruen —Vinca major - Silberkraft, https://silberkraft.com/pages/l/vinca-major
+(PDF) Antimalarial Plants Used Across Kenyan Communities, https://www.researchgate.net/publication/341793298_Antimalarial_Plants_Used_Across_Kenyan_Communities
+Antimalarial Plants Used across Kenyan Communities - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC7306085/
+Catharanthus roseus, commonly known as Madagascar periwinkle, https://www.facebook.com/olunikeadetunji.bello/posts/catharanthus-roseus-commonly-known-as-madagascar-periwinkle-is-a-beautiful-flowe/2098978180691309/
+Catharanthus roseus - OneKP - CNGBdb, https://db.cngb.org/onekp/species/Catharanthus%20roseus
+Catharanthus roseus (L.) G.Don - UAE Flora, https://www.uaeflora.ae/plant/359
+Catharanthus roseus Madagascar Periwinkle, Jasmine ... - PFAF.org, https://pfaf.org/user/Plant.aspx?LatinName=Catharanthus%20roseus
+Catharanthusroseus Extraction and Phytochemical Screening - Scribd, https://www.scribd.com/document/998142292/Catharanthusroseus-Extraction-and-Phytochemical-Screening-copy
+Validated high performance thin layer chromatographic analysis of, https://ijpp.org.in/archive/volume/8/issue/4/article/23370
+Catharanthus roseus: A Comprehensive Review of Its, https://cellnatsci.com/2958-695X/article/10-61474-ncs-2024-00044
+Catharanthus roseus - Wikipedia, https://en.wikipedia.org/wiki/Catharanthus_roseus
+Phytochemical analysis of leaf extracts of Catharanthus roseus (L, https://www.botanyjournals.com/assets/archives/2021/vol6issue4/6-3-183-403.pdf
+Indole Alkaloids from Catharanthus roseus: Bioproduction and Their, https://pmc.ncbi.nlm.nih.gov/articles/PMC6272713/
+Dimerization of catharanthine and vindoline - Wikipedia, https://en.wikipedia.org/wiki/Dimerization_of_catharanthine_and_vindoline
+Peroxidase from Catharanthus roseus (L.) G. Don and the, https://www.researchgate.net/publication/9077791_Peroxidase_from_Catharanthus_roseus_L_G_Don_and_the_biosynthesis_of_a-3'4'-anhydrovinblastine_A_specific_role_for_a_multifunctional_enzyme
+The leaf idioblastome of the medicinal plant Catharanthus roseus is, https://academic.oup.com/jxb/article-pdf/75/1/274/54732029/erad374.pdf
+Molecular Cloning and Characterization of a Vacuolar Class III, https://search.proquest.com/openview/2ca12860e803d81b31fc125b9d036efa/1?pq-origsite=gscholar&cbl=40931
+(PDF) Vinblastine and Vincristine Production on Madagascar, https://www.researchgate.net/publication/305857781_Vinblastine_and_Vincristine_Production_on_Madagascar_Periwinkle_Catharanthus_roseus_L_G_Don_Callus_Culture_Treated_with_Polethylene_Glycol
+Research Journal of Pharmaceutical, Biological and Chemical, https://www.rjpbcs.com/pdf/2016_7(4)/[244].pdf
+Catharanthus roseus Risk - California Invasive Plant Council, https://www.cal-ipc.org/plants/risk/catharanthus-roseus-risk/
+Catharanthus roseus - Biodiversity at FLAME University, https://biodiversityatflame.wordpress.com/2020/03/03/catharanthus-roseus/
+Once in a blue moon, a plant stops you in your tracks ... - Facebook, https://www.facebook.com/tropicaljungle/posts/once-in-a-blue-moon-a-plant-stops-you-in-your-tracks-and-immediately-goes-onto-t/1492275802935872/
+Report on Vincristine-Producing Endophytic Fungus Nigrospora, https://pmc.ncbi.nlm.nih.gov/articles/PMC9697034/
+Fungal endophytes of Catharanthus roseus enhance vindoline, https://pmc.ncbi.nlm.nih.gov/articles/PMC4879578/
+Piracy of the Periwinkle: Extraction of Madagascar's Traditional, https://criticaldebateshsgj.scholasticahq.com/post/3401-piracy-of-the-periwinkle-extraction-of-madagascar-s-traditional-indigenous-knowledge-by-babiha-bakshi
+Catharanthus roseus (L.) G. Don.: Extraordinary Bapedi medicinal, https://academicjournals.org/journal/JMPR/article-full-text-pdf/AD7A70F24670
+Madagascar periwinkle and Pacific yew - SlideServe, https://www.slideserve.com/quilla/madagascar-periwinkle-and-pacific-yew
+Phytochemical Analysis of Catharanthus Roseus L. (G.) DON, https://www.academia.edu/39270466/Phytochemical_Analysis_of_Catharanthus_Roseus_L_G_DON
+5 1-pharmacognostical profile of selected medicinal plants | PDF, https://www.slideshare.net/slideshow/5-1pharmacognostical-profile-of-selected-medicinal-plants/248333591
+(PDF) AN UPDATED REVIEW ON CATHARANTHUS ROSEUS, https://www.researchgate.net/publication/305299573_AN_UPDATED_REVIEW_ON_CATHARANTHUS_ROSEUS_PHYTOCHEMICAL_AND_PHARMACOLOGICAL_ANALYSIS
+Catharanthus roseus (L.) G. Don: A review of its ethnobotany, https://pubmed.ncbi.nlm.nih.gov/34562562/
+Sharing Stories, Sharing Collections - Museum Wales, https://museum.wales/blog/2018-02-27/Sharing-Stories-Sharing-Collections/
+Authorship Collaborative - Rosy Periwinkle, https://case.edu/affil/sce/authorship-spring2004/rosy.html
+The search for unknown biodiversity - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC3156167/
+Global demand for Madagascar's unique plants fuels unsustainable, https://www.traffic.org/news/global-demand-for-madagascars-unique-plants-fuels-unsustainable-harvesting/
+Botanical Name / Catharanthus roseus (L.) G.Don - Flora of Sri Lanka, https://www.floraofsrilanka.com/species/1311
+File:Catharanthus roseus-Red flowers of Madagascar Periwinkle 2, https://commons.wikimedia.org/wiki/File:Catharanthus_roseus-Red_flowers_of_Madagascar_Periwinkle_2.JPG
+File:Catharanthus roseus (Flowers).jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_(Flowers).jpg
+Catharanthus roseus (L.) G.Don, Periwinkle (World flora) - Pl@ntNet, https://identify.plantnet.org/martinique/species/Catharanthus%20roseus%20(L.)%20G.Don/data
+Catharanthus roseus (L.) G. Don - Plant Identifier - Plantnet, https://identify.plantnet.org/fr/aft/species/Catharanthus%20roseus%20(L.)%20G.%20Don/data
+Catharanthus roseus - Planted, https://planted-app.com/plants/catharanthus-roseus

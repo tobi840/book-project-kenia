@@ -5,65 +5,76 @@ Die formelle wissenschaftliche Benennung lautet Warburgia ugandensis Sprague [ge
 Die nachfolgende Tabelle verzeichnet die belegten Trivial- und Lokalnamen der Spezies. Die wörtlichen Bedeutungen der regionalen Namen sind in der ethobotanischen Literatur des Quellenmaterials nicht übersetzt.
 
 Sprache / Region
-Name
-Wörtliche Bedeutung
-Status
-Quelle
+	Name
+	Wörtliche Bedeutung
+	Status
+	Quelle
+
 Deutsch
-Uganda-Pfefferrindenbaum
-Bezieht sich auf den scharfen Geschmack der Rinde
-gesichert
-Nutzer-Vorgabe
+	Uganda-Pfefferrindenbaum
+	Bezieht sich auf den scharfen Geschmack der Rinde
+	gesichert
+	Nutzer-Vorgabe
+
 Englisch
-East African Greenheart, East African greenbark, Elephant Pepper Tree, Uganda Greenheart
-unbekannt
-gesichert
-2
+	East African Greenheart, East African greenbark, Elephant Pepper Tree, Uganda Greenheart
+	unbekannt
+	gesichert
+	2
+
 Swahili
-mgurure
-unbekannt
-gesichert
-3
+	mgurure
+	unbekannt
+	gesichert
+	3
+
 Kikuyu
-Mũthĩga, muthiga
-unbekannt
-gesichert
-2
+	Mũthĩga, muthiga
+	unbekannt
+	gesichert
+	2
+
 Maasai
-Olsokonoi, ol-mororoi
-unbekannt
-gesichert
-2
+	Olsokonoi, ol-mororoi
+	unbekannt
+	gesichert
+	2
+
 Maasai
-Soroko
-unbekannt
-umstritten (in Quelle syntaktisch nicht trennscharf zugeordnet)
-5
+	Soroko
+	unbekannt
+	umstritten (in Quelle syntaktisch nicht trennscharf zugeordnet)
+	5
+
 Nandi
-Sinendet
-unbekannt
-gesichert
-6
+	Sinendet
+	unbekannt
+	gesichert
+	6
+
 Luganda / Ganda
-Abasi, Mukuzanume, masuko
-unbekannt
-gesichert
-2
+	Abasi, Mukuzanume, masuko
+	unbekannt
+	gesichert
+	2
+
 Luhya
-mukhungula
-unbekannt
-gesichert
-3
+	mukhungula
+	unbekannt
+	gesichert
+	3
+
 Sukuma
-kagua
-unbekannt
-gesichert
-3
+	kagua
+	unbekannt
+	gesichert
+	3
+
 mhw
-Makokothi
-unbekannt
-gesichert
-2
+	Makokothi
+	unbekannt
+	gesichert
+	2
 Für die Gemeinschaften der Kamba, Samburu und Giriama liegen im untersuchten Datensatz keine verifizierten Bezeichnungen für Warburgia ugandensis vor.
 2. Erscheinung, mit Maßen
 Warburgia ugandensis ist ein immergrüner Baum, der eine dichte, belaubte Krone ausbildet und als Teil der oberen Waldschicht (Canopy) wächst [gesichert]3. Morphologische Unterschiede zwischen den Geschlechtern (Sexualdimorphismus) oder spezifischen Altersstufen werden in den quantitativen Studien nicht dokumentiert [unbekannt].
@@ -81,7 +92,7 @@ Die quantitative Belegung dieser Mechanismen zeigt in den pharmakologischen Stud
 Warburgia ugandensis besiedelt spezifische ökologische Nischen innerhalb Ostafrikas und weist eine enge Toleranzspanne gegenüber klimatischen Bedingungen auf. Der primäre Lebensraum erstreckt sich über Tiefland-Regenwälder sowie trockene, immergrüne Bergwälder (Dry Montane Forests) [gesichert]9.
 Feldstudien in den Bergwäldern um den Mount Kenya (Kangaita, Kahurura, Ontulili, Gathioro) spezifizieren die klimatischen Präferenzen der Art. Die Populationen konzentrieren sich auf Höhenlagen zwischen 1.800 und 2.500 Metern über dem Meeresspiegel [gesichert]10. Das optimale jährliche Niederschlagsvolumen in diesen Habitaten liegt zwischen 650 mm und 1.500 mm [gesichert]10. Die Spezies reagiert stark negativ auf übermäßige Feuchtigkeit; sie fehlt vollständig in feuchten Bergwäldern (Moist Montane Forests) sowie in mittleren feuchten Zonen, was auf eine Unverträglichkeit gegenüber wassergesättigten Böden schließen lässt [gesichert]10.
 Die Fortpflanzungsbiologie ist durch ein gemischtes Paarungssystem (mixed mating system) charakterisiert, das überwiegend auf Fremdbestäubung (Outcrossing) angewiesen ist [gesichert]22. Die Pflanze ist hierbei auf tierische Vektoren angewiesen. Kleine Insekten, vor allem Bienen der Gattung Trigona, fungieren als primäre Bestäuber der Blüten [gesichert]22. Ein spezifischer Tagesrhythmus wird in den Quellen nicht quantifiziert, jedoch bedingt die Insektenbestäubung eine Öffnung und olfaktorische Aktivität der Blüten während der diurnalen Flugzeiten der Trigona-Bienen [vermutet].
-Bezüglich saisonaler Muster für den Zeitraum Ende September und Anfang Oktober, dem Übergang von der langen Trockenzeit zur kurzen Regenzeit in Kenia, liefern die ökologischen Datensätze keine artspezifischen phänologischen Zeitreihen. Blattaustrieb, exakte Blütezeiten oder Fruchtreife können für dieses spezifische meteorologische Fenster nicht belastbar abgeleitet werden [unbekannt].
+Bezüglich saisonaler Muster für den Zeitraum Ende September und Anfang Oktober – dem Übergang von der langen Trockenzeit zur kurzen Regenzeit in Kenia – liefern die ökologischen Datensätze keine artspezifischen phänologischen Zeitreihen. Blattaustrieb, exakte Blütezeiten oder Fruchtreife können für dieses spezifische meteorologische Fenster nicht belastbar abgeleitet werden [unbekannt].
 5. Menschen und Kultur in Kenia
 Die weitreichende Verwendung von Warburgia ugandensis in der Kultur, Medizin und dem Alltag der kenianischen und ugandischen Bevölkerung hat historische Wurzeln und prägt die gegenwärtige Bestandssituation des Baumes.
 In der traditionellen Medizin (Ethnomedizin) gilt die Art als essenzielle Ressource. Die Rinde, die Wurzeln und junge Zweige enthalten antibakterielle und antimykotische Wirkstoffe [gesichert]9. Getrocknete Rinde wird von Anwendern zerkaut und der austretende Saft geschluckt, um ein breites Spektrum an Leiden zu behandeln, darunter Verstopfung, Magenschmerzen, Zahnschmerzen, Husten, Fieber, Muskelschmerzen und allgemeine Gliederschmerzen [gesichert]9. Frische Wurzeln werden abgekocht und der resultierende Sud wird in Suppen gemischt, um Durchfall (Diarrhö) präventiv entgegenzuwirken [gesichert]9. Ein Absud aus Blättern wird äußerlich als Heilbad zur Linderung diverser Hautkrankheiten appliziert [gesichert]9. Vor allem aber werden Rinde und Blätter in wässrigen Abkochungen konsumiert, um Malaria zu behandeln [gesichert]9.
@@ -98,11 +109,11 @@ Für eine fotografische Dokumentation auf der Route durch Kenia bietet sich der 
 Da es sich um ein sessiles Motiv handelt, existiert keine Fluchtdistanz des Baumes. Jedoch erfordert die Interaktion mit der Tierwelt Geduld. Ein Ansitz an den Blüten lohnt sich zur Erfassung der Bestäubungsökologie. Die Blüten werden von kleinen Bienen (Trigona) angeflogen [gesichert]22. Für die Aufnahmen der Insekten im Anflug auf die Blüten sind aufgrund der schnellen Flügelbewegung Verschlusszeiten im Bereich der Standard-Makrofotografie von Insekten (vermutlich ab 1/1000 Sekunde) erforderlich [vermutet, aus physikalischen Gesetzmäßigkeiten abgeleitet, da in den Quellen nicht beziffert]. Eine spezifische Tageszeit ist in der Literatur nicht vermerkt, die Diurnik der Bienen limitiert das Zeitfenster jedoch auf die Tageslichtstunden [vermutet].
 Hinsichtlich der Objektivwahl diktiert die Morphologie des Baumes das Equipment. Um die bis zu 15 Meter hoch gelegenen Kronenbereiche, Blätter und Blüten von der Bodenperspektive aus formatfüllend abzulichten, sind die vorhandenen Teleobjektive mit Brennweiten von 100 bis 400 mm beziehungsweise 150 bis 600 mm zwingend erforderlich. Für Detailaufnahmen der dicken, gefurchten Rinde und der klebrigen, austretenden Harztropfen eignet sich das 45 mm Objektiv. Die Weitwinkel-Brennweiten (26 bis 60 mm) sind prädestiniert, um den Habitus des Baumes im dichten Bestandsgefüge des Karura Forest zu erfassen. Typische fotografische Fehler (wie Belichtungsprobleme durch den Kontrast von hellem Himmel und dunklem Canopy) werden im vorliegenden wissenschaftlichen Quellenmaterial nicht thematisiert [unbekannt].
 8. Links zum Weiterlesen und Sehen
-Verbreitungskarte und Taxonomie:	https://www.gbif.org/taxon/7FTT3	Der Eintrag der Global Biodiversity Information Facility (GBIF) listet die taxonomische Klassifizierung, Synonyme und umgangssprachliche Namen der Art.
-Historische Nomenklatur:	https://www.ipni.org/n/77189155-1	Die Datenbank des International Plant Names Index (IPNI) verzeichnet den historischen Publikationsnachweis der Erstbeschreibung durch T.A. Sprague aus dem Jahr 1906.
-Fachartikel zur Domestikation (Open Access):	https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0065619	Eine Studie aus PLOS ONE, die die Methodik der vegetativen Vermehrung (Stecklingsaufzucht in Kiefernrinde) aufgrund der Samenrekalzitranz detailliert beschreibt.
-Pharmakologische Fachquelle:	https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.678535/full	Ein ausführlicher Artikel aus Frontiers in Pharmacology, der die toxikologischen Parameter und die Anti-Malaria-Eigenschaften (Inhibition von Hämozoin) ethnomedizinischer Pflanzen Ugandas analysiert.
-Ökologie und kommerzieller Rückgang:	https://www.mdpi.com/2223-7747/10/9/1780	Eine Untersuchung in der Fachzeitschrift Plants (MDPI), welche taxonomische Unklarheiten beleuchtet und den potenziellen kommerziellen Einsatz der Extrakte als Ersatz für Sandelholzöl evaluiert.
+Verbreitungskarte und Taxonomie:https://www.gbif.org/taxon/7FTT3Der Eintrag der Global Biodiversity Information Facility (GBIF) listet die taxonomische Klassifizierung, Synonyme und umgangssprachliche Namen der Art.
+Historische Nomenklatur:https://www.ipni.org/n/77189155-1Die Datenbank des International Plant Names Index (IPNI) verzeichnet den historischen Publikationsnachweis der Erstbeschreibung durch T.A. Sprague aus dem Jahr 1906.
+Fachartikel zur Domestikation (Open Access):https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0065619Eine Studie aus PLOS ONE, die die Methodik der vegetativen Vermehrung (Stecklingsaufzucht in Kiefernrinde) aufgrund der Samenrekalzitranz detailliert beschreibt.
+Pharmakologische Fachquelle:https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.678535/fullEin ausführlicher Artikel aus Frontiers in Pharmacology, der die toxikologischen Parameter und die Anti-Malaria-Eigenschaften (Inhibition von Hämozoin) ethnomedizinischer Pflanzen Ugandas analysiert.
+Ökologie und kommerzieller Rückgang:https://www.mdpi.com/2223-7747/10/9/1780Eine Untersuchung in der Fachzeitschrift Plants (MDPI), welche taxonomische Unklarheiten beleuchtet und den potenziellen kommerziellen Einsatz der Extrakte als Ersatz für Sandelholzöl evaluiert.
 (Hinweis: Externe Medienlinks zu Fotodatenbanken wie Wikimedia oder iNaturalist sowie Tonaufnahmen waren im Forschungsmaterial nicht verzeichnet und können aufgrund der strengen Quellenvorgabe nicht bereitgestellt werden).
 9. Visuelle Beschreibung für eine Illustration
 Warburgia ugandensis presents as a robust, evergreen canopy tree reaching up to 15 meters in height, supported by a medium-thick trunk covered in deeply furrowed, greyish-brown bark. The crown is dense and rounded, tightly packed with alternate, glossy, dark-green leaves that reflect light from their smooth upper surfaces, possessing a tough, obovate morphology. Where the rough bark is scarred, small, sticky beads of amber-colored resin exude and slowly harden, contrasting sharply with the pale, yellowish-green heartwood exposed beneath.

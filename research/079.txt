@@ -1,0 +1,209 @@
+Recherchebericht: Scarabaeus satyrus (Tsavo und Amboseli)
+Dieser Bericht aggregiert und strukturiert validierte Forschungsdaten zur Art Scarabaeus satyrus für den Verwendungszweck in einem naturkundlichen Sachbuch. Der Fokus liegt auf der Region Tsavo und Amboseli im Reisezeitraum vom 24. September bis 12. Oktober 2026.
+1. Namen und Etymologie
+Die Nomenklatur der Art ist in der wissenschaftlichen Literatur sowie in einigen lokalen Sprachen belegt, weist jedoch taxonomische Unschärfen in der historischen Zuordnung auf (Status: gesichert)1.
+Der wissenschaftliche lateinische Name lautet Scarabaeus satyrus (Status: gesichert)1. Die Erstbeschreibung erfolgte durch den schwedischen Entomologen Carl Henrik Boheman im Jahr 1860 (Status: gesichert)1. In der entomologischen Fachliteratur wird gelegentlich das Jahr 1857 im Zusammenhang mit Bohemans Monografie „Insecta Caffraria“ genannt. Diese Datierung geht jedoch auf taxonomische Verwechslungen mit morphologisch ähnlichen Schwesterarten oder Synonymen wie Scarabaeus rusticus zurück und gilt für S. satyrus als inkorrekt (Status: gesichert)3.
+Die wörtliche Bedeutung des Gattungsnamens Scarabaeus entstammt dem Lateinischen und bedeutet übersetzt schlicht „Käfer“ oder spezifisch „Skarabäus“ (Status: gesichert)5. Der Artname satyrus verweist auf die mythologische Figur des Satyrs aus der griechischen Antike. Eine explizite Begründung Bohemans, warum er diese spezifische Bezeichnung wählte, ist in den historischen Dokumenten nicht überliefert (Status: unbekannt).
+Die Trivialnamen in verschiedenen Sprachen weisen unterschiedliche Grade der Belegbarkeit auf. Die folgende Tabelle fasst die lokal und international verwendeten Bezeichnungen zusammen.
+
+Sprache
+	Name
+	Wörtliche Bedeutung
+	Status
+
+Deutsch
+	Dungkäfer
+	Käfer, der Dung nutzt
+	gesichert7
+
+Englisch
+	Dung beetle
+	Käfer, der Dung nutzt
+	gesichert1
+
+Swahili
+	Mbung'o / Bugo
+	Nicht eindeutig belegt
+	umstritten9
+
+Maa (Maasai)
+	Entusi
+	Nicht belegt
+	gesichert9
+
+Kikuyu / Kamba
+	Gītong'o kya mai
+	Nicht belegt
+	vermutet9
+Der Swahili-Begriff "Mbung'o" wird in verschiedenen Quellen synonym für den Dungkäfer sowie für die Tsetsefliege verwendet; einige lokale Sprecher ordnen "Bugo" spezifisch dem Dungkäfer zu (Status: umstritten)9. Die Bezeichnung "Gītong'o kya mai" wird in linguistischen Datensammlungen aufgeführt, kann jedoch nicht eindeutig der Sprache Kikuyu oder Kamba zugeordnet werden (Status: vermutet)9. Für die lokalen Sprachen Samburu und Giriama liegen keine Belege für eine spezifische Benennung der Art vor (Status: unbekannt).
+2. Erscheinung und anatomische Maße
+Die phänotypische Erscheinung von Scarabaeus satyrus ist das Resultat evolutionärer Anpassungen an eine fossoriale (grabende) Lebensweise in sandigen und halbtrockenen Habitaten. Die Biomechanik des Insekts ist primär auf den schnellen Abtransport und das Eingraben von schwerer Biomasse ausgelegt (Status: gesichert)6.
+Das adulte Insekt erreicht eine Körperlänge von exakt 25 mm (Status: gesichert)6. Als Alltagsvergleich für diese Größenordnung lässt sich die Breite eines durchschnittlichen menschlichen Daumens heranziehen (Status: ausgerechnet). Zum Gewicht des adulten S. satyrus existieren keine spezifischen Messdaten in den untersuchten Quellen (Status: unbekannt). Die übergeordnete Familie der Scarabaeidae weist ein Gewichtsspektrum auf, das von unter 1 mg bei den kleinsten Vertretern bis zu über 10 g bei den größten Arten reicht (Status: gesichert)11.
+Die Körperfärbung ist vollständig schwarz, wobei der Exoskelett-Panzer unter direktem Lichteinfall eine leicht irisierende, metallische Reflexion aufweisen kann (Status: gesichert)4. Diese Färbung und Struktur dient der physischen Stabilität und Tarnung im Substrat (Status: gesichert)6.
+Der anatomische Aufbau weist stark spezialisierte charakteristische Merkmale auf. Der Kopfschild (Clypeus) ist breit und schaufelartig geformt. Er wird von dem Insekt als mechanischer Hebel genutzt, um Erdreich auszuheben und die Dungmasse zu durchtrennen (Status: gesichert)6. Die Antennen sind lamellar (fächerartig) aufgebaut. Sie enden in einer keulenförmigen Struktur, die das Tier aufspreizen kann, um die Oberfläche für olfaktorische Rezeptoren zu vergrößern. Dies ermöglicht die präzise Ortung von frischem Dung über große Distanzen (Status: gesichert)6.
+Die Extremitäten sind funktional zweigeteilt. Die Vorderbeine sind robust, verbreitert und an den Außenkanten der Tibiae mit scharfen Zähnen und Sporen besetzt, die als Grabwerkzeuge dienen (Status: gesichert)6. Die Hinterbeine sind im Kontrast dazu stark verlängert und lateral abgeflacht. Diese Geometrie ermöglicht das charakteristische Rückwärtslaufen und das synchrone Rollen der Dungkugel (Status: gesichert)6.
+Das zentrale Nervensystem und Gehirn von S. satyrus sind detailliert kartiert. Die neuroanatomische Struktur umfasst unter anderem stark spezialisierte Sehzentren im Lobus opticus (mit Lamina, Medulla und Lobula-Komplex), einen Zentralkomplex (mit ellipsoidförmigen und fächerförmigen Körpern) für die räumliche Orientierung sowie Pilzkörper (Corpora pedunculata) für die olfaktorische Integration und das Lernverhalten (Status: gesichert)15.
+Zwischen den Geschlechtern existiert ein ausgeprägter Sexualdimorphismus. Männliche Individuen sind im statistischen Durchschnitt größer als weibliche. Zudem weisen die Männchen an der Kopfpartie (Clypeus) und dem Pronotum (Halsschild) häufig stärker ausgeprägte Projektionen oder hornartige Strukturen auf, die bei Rangkämpfen eingesetzt werden. Bei Weibchen sind diese Strukturen stark reduziert oder fehlen vollständig (Status: gesichert)6.
+Im Larvenstadium (Altersstufe) unterscheidet sich das Tier komplett von der adulten Form. Die Larven (Engerlinge) besitzen einen weichen, weißen Körper in charakteristischer C-Form, der Längen von bis zu 30 mm erreichen kann. Der Kopf ist dunkel pigmentiert und mit stark chitinisierten Mandibeln (Kieferzangen) ausgestattet, um die verfestigten Pflanzenfasern im Inneren der Brutkugel zu zerkleinern (Status: gesichert)6.
+3. Der Mechanismus: Himmelsnavigation an der Milchstraße
+Das zentrale biologische Prinzip, das S. satyrus innerhalb der Insektenklasse isoliert, ist seine Fähigkeit, sich bei der Navigation ausschließlich am Lichtband der Milchstraße zu orientieren. Die Mechanismen wurden maßgeblich im Jahr 2013 von einem Forschungsteam um Marie Dacke, Eric Warrant, Marcus Byrne, Clarke Scholtz und Emily Baird entschlüsselt und publiziert (Status: gesichert)1.
+Die Entstehung dieser hochspezialisierten Orientierung folgt einer strikten ökologischen Kausalkette, die beim Auffinden der Nahrungsquelle beginnt und bei der Sicherung der Brut endet (Status: gesichert)1.
+A (Ressourcenakkumulation): Ein großer Pflanzenfresser setzt frischen Dung ab. Innerhalb von Minuten treffen Tausende von koprophagen Käfern verschiedenster Arten an dieser punktuellen Nahrungsquelle ein. Es entsteht eine hyperkompetitive Konkurrenzsituation.
+B (Ressourcensicherung und Flucht): Um zu verhindern, dass die gesammelte Biomasse von Artgenossen gestohlen wird, separiert S. satyrus ein Stück Dung, formt dieses zügig zu einer perfekten Kugel und flieht vom Zentrum des Haufens.
+C (Geometrischer Zwang): Der physikalisch und geometrisch kürzeste und schnellste Weg aus der hochkompetitiven Zone ist eine absolut gerade Linie. Jede Richtungsänderung oder Kurve erhöht die statistische Wahrscheinlichkeit, die eigene Bahn zu kreuzen oder auf Konkurrenten zu treffen, die dem Käfer die Kugel entwenden.
+D (Visuelle Kompass-Kalibrierung): Um nachts auf dieser geraden Linie zu bleiben, ohne visuelle Landmarken auf dem Boden nutzen zu können, weicht das visuelle System des Käfers auf den Nachthimmel aus. In mondlosen Nächten nutzt das Insekt die Helligkeitsunterschiede des diffusen Lichtbandes der Milchstraße als festen Referenzpunkt, um die Bewegungsachse zu fixieren.
+E (Konsumation und Reproduktion): Am Ende der geraden Rollstrecke, weit entfernt vom ursprünglichen Dunghaufen, wird die Kugel in das lockere Erdreich eingegraben, wo sie konsumiert wird oder der Eiablage dient.
+Die Funktionsweise des visuellen Mechanismus ist an die physiologischen Grenzen der Insektenaugen gebunden. Die Facettenaugen des Dungkäfers besitzen nicht die notwendige optische Auflösung oder Lichtempfindlichkeit, um einzelne, schwach leuchtende Sterne als punktförmige Navigationspunkte zu erkennen (Status: gesichert)16. Der Mechanismus basiert stattdessen auf der Registrierung von Licht-Schatten-Gradienten. Das Auge verarbeitet die Milchstraße als ein integratives, diffuses Band aus Licht, das sich signifikant vom restlichen dunklen Himmel abhebt (Status: gesichert)16.
+Die wissenschaftlichen Belege stützen sich auf kontrollierte Feld- und Planetariumsexperimente. In Feldversuchen in Südafrika wurden die Käfer in einer kreisrunden Arena mit einem Radius von 120 cm ausgesetzt (Status: gesichert)16. Ein optimaler, gerader Fluchtweg entsprach somit 120 cm. Die Ergebnisse belegen die Abhängigkeit vom dorsalen Sichtfeld.
+
+Versuchsbedingung (Feldexperiment)
+	Mittlere Pfadlänge
+	Standardabweichung
+	Status
+
+Freie Sicht auf sternenklaren Himmel
+	207,9 cm
+	± 33,4 cm
+	gesichert16
+
+Sicht nach oben blockiert (Pappkappe)
+	476,7 cm
+	± 75,3 cm
+	gesichert16
+
+Kontrollexperiment (transparente Kappe)
+	143,4 cm
+	± 11,8 cm
+	gesichert16
+Um zu beweisen, dass exakt die Milchstraße und nicht andere Faktoren der Auslöser ist, replizierte das Team die Versuche im Planetarium in Johannesburg. Die Zeit, die ein Käfer vom Zentrum bis zum Rand einer 2-Meter-Arena benötigte, diente als Indikator für die Geradlinigkeit des Pfades.
+
+Projektion im Planetarium
+	Zeit bis zum Arena-Rand
+	Standardabweichung
+	Status
+
+Kompletter Sternenhimmel (inklusive Milchstraße)
+	43,3 s
+	± 6,9 s
+	gesichert16
+
+Nur das diffuse Band der Milchstraße
+	53,3 s
+	± 12,1 s
+	gesichert16
+
+4.000 schwache Sterne (ohne helle Sterne)
+	65,2 s
+	± 12,1 s
+	gesichert16
+
+Nur die 18 hellsten Sterne (ohne Milchstraße)
+	81,3 s
+	± 14,0 s
+	gesichert16
+
+Komplette Dunkelheit
+	120,7 s
+	± 24,9 s
+	gesichert16
+Vor dieser Entdeckung existierten drei konkurrierende Erklärungsansätze für die nächtliche Navigation, die durch die Studien von Dacke et al. widerlegt oder relativiert wurden (Status: gesichert)1:
+Landmarken-Navigation: Die Hypothese, Käfer würden sich an terrestrischen Silhouetten (Bäumen, Bergen) orientieren, wurde durch das Errichten einer blickdichten, einen Meter hohen kreisrunden Barriere widerlegt. Die Käfer navigierten weiterhin in geraden Linien.
+Mondlicht-Polarisation: Diese Erklärung ist partiell korrekt. In mondhellen Nächten orientiert sich der Käfer tatsächlich an dem Polarisationsmuster des Mondlichts. Die Hypothese erklärte jedoch nicht, wie die Tiere in Nächten bei Neumond navigierten.
+Einzelstern-Navigation: Die Hypothese, Käfer würden extrem helle Leitsterne nutzen, wurde im Planetarium falsifiziert. Wurden ausschließlich die 18 hellsten Sterne an die Kuppel projiziert, verdoppelte sich die Zeit bis zum Erreichen des Arena-Randes, und die Tiere verloren die Orientierung.
+4. Ökologie und Verhalten im jahreszeitlichen Kontext
+Der primäre Lebensraum von Scarabaeus satyrus umfasst die trockenen und halbtrockenen Savannenlandschaften des südlichen und östlichen Afrikas. Für das Anlegen der tiefen Brutkammern sind Habitate mit lockeren, sandigen oder leicht durchdringbaren Böden zwingend erforderlich (Status: gesichert)6.
+Das Nahrungsspektrum ist strikt koprophag. Die Käfer verwerten die Hinterlassenschaften von großen Herbivoren. Adulte Tiere besitzen spezialisierte Mundwerkzeuge, um nährstoffreiche Flüssigkeiten und feine organische Partikel aus dem feuchten Dung herauszufiltern. Im Gegensatz dazu sind die starken Mandibeln der Larven darauf ausgelegt, auch die feste, faserige Matrix innerhalb der Dung-Brutkugel vollständig zu konsumieren (Status: gesichert)6.
+Der Tagesrhythmus ist streng nocturn (nachtaktiv) (Status: gesichert)15. Die Aktivitätsphase beginnt unmittelbar nach Sonnenuntergang, wenn die Umgebungstemperaturen sinken (Status: gesichert)20.
+Das Sozialverhalten ist durch extreme intraspezifische Konkurrenz am Futterplatz geprägt, was zu Aggressionen und Kämpfen führt (Status: gesichert)8. Das Fortpflanzungsverhalten ist komplex strukturiert. Üblicherweise sind es die männlichen Tiere, die den Dung extrahieren und zu einer Kugel formen. Das Männchen bietet diese Dungkugel einem Weibchen an. Im Falle der Akzeptanz rollt das Männchen die Kugel rückwärts, während das Weibchen entweder mitläuft oder auf der Kugel mitreitet. Die physische Kopulation erfolgt erst, nachdem die Kugel im weichen Boden vergraben wurde. Daraufhin formt das Weibchen eine dedizierte Brutkugel, in die ein einzelnes Ei gelegt wird (Status: gesichert)18. Der gesamte Entwicklungszyklus vom Ei über das Puppenstadium bis zum adulten Käfer kann zwischen zwei Monaten und mehreren Jahren variieren (Status: gesichert)6.
+Saisonale Muster (Tsavo / Amboseli, 24.09. bis 12.10.2026): Der benannte Reisezeitraum markiert in Süd-Kenia klimatisch das Ende der langen Trockenzeit und den Beginn der kurzen Regenzeit. In der abklingenden Trockenzeit befinden sich große Teile der Dungkäferpopulation in einer unterirdischen Diapause (Ruhephase) in den schützenden Puppenkammern, da frischer Dung aufgrund der Trockenheit schnell verkrustet und schwer zu verarbeiten ist (Status: gesichert)6. In den Tagen zwischen Ende September und Anfang Oktober lösen die ersten Regenfälle der kleinen Regenzeit einen massiven ökologischen Impuls aus. Das Wasser weicht den Boden auf und senkt die Umgebungstemperatur. Gleichzeitig steigt die Aktivität und Kotproduktion der großen Pflanzenfresser. Für S. satyrus bedeutet dieser Zeitraum ein synchronisiertes massenhaftes Schlüpfen der adulten Tiere aus dem Boden. Die Insekten suchen in höchster Dringlichkeit frischen Dung, kämpfen um Ressourcen, vollführen die Himmelsnavigation zum Abtransport und beginnen unverzüglich mit der Reproduktion, um das enge Zeitfenster der optimalen Bodenfeuchtigkeit für das Anlegen der neuen Brutkammern zu nutzen (Status: vermutet / abgeleitet aus Klimadaten und Entwicklungszyklen).
+Trotz der enormen ökologischen Bedeutung von Dungkäfern für den Nährstoffkreislauf und die Bodenbelüftung nennt die vorliegende Datenbasis keine spezifischen anderen Arten, die symbiotisch oder parasitär direkt von S. satyrus abhängig sind (Status: unbekannt).
+5. Menschen und Kultur in Kenia
+Die direkte Interaktion zwischen Menschen und Scarabaeus satyrus umfasst sowohl ernährungsphysiologische Nutzungen als auch mythologische Überlieferungen, wobei der geographische Kontext stark variiert.
+Als Nahrungsquelle werden die proteinreichen Larven des Käfers genutzt. Analytische Studien zur Nährstoffzusammensetzung der verarbeiteten Larven von S. satyrus belegen einen extrem hohen Gehalt an Makro- und Mikronährstoffen.
+
+Nährstoff / Mineral
+	Gehalt (pro 100 g Trockengewicht)
+	Status
+
+Rohprotein
+	59,65 g – 66,05 g
+	gesichert22
+
+Rohfett
+	15,18 g – 16,87 g
+	gesichert22
+
+Rohasche
+	4,45 g – 4,67 g
+	gesichert22
+
+Eisen (Spurenelement)
+	19,19 mg
+	gesichert22
+
+Phosphor (Makromineral)
+	331,42 mg
+	gesichert22
+Aus den Quellen geht jedoch nicht hervor, von welcher spezifischen Gemeinschaft in Kenia (z.B. Maasai, Kamba) und in welcher Region diese Larven verzehrt werden (Status: unbekannt). Konflikte mit Menschen sind nicht dokumentiert (Status: unbekannt).
+Mythologische Rollen, Rituale oder Sprichwörter in den lokalen kenianischen Gemeinschaften sind in den Forschungsdaten nicht verzeichnet (Status: unbekannt). Historische Überlieferungen beschränken sich auf das antike Ägypten. Dort wurde der Dungkäfer (vorwiegend die verwandte Art Scarabaeus sacer) mit Khepri, dem Gott des Sonnenaufgangs, gleichgesetzt. Der Käfer galt als Symbol der Schöpfung, der Wiedergeburt und der Unsterblichkeit der Sonne, während die gerollte Dungkugel die wandernde Sonnenscheibe darstellte. Große Amulette aus grünlichem Stein, sogenannte Herz-Skarabäen, wurden in das Leinentuch von Mumien eingewickelt. Sie sollten das Herz des Verstorbenen während der Psychostasie (Seelenwägung) vor der Göttin Maat schützen (Status: überliefert)5.
+Der Schutzstatus der Art auf der Roten Liste der Weltnaturschutzunion (IUCN) wird in den Quellen widersprüchlich behandelt. Einerseits wird angeführt, die Art sei als gefährdet ("Vulnerable") gelistet (Status: umstritten)24. Eine andere Dokumentation klassifiziert den Status von Dungkäfern dieser Art jedoch explizit als nicht bewertet ("Not Evaluated") (Status: umstritten)8. Absolute Bestandszahlen oder Populationsgrößen mit Jahresangabe existieren nicht (Status: unbekannt).
+6. Wissenschaftsgeschichte
+Die systematische Erfassung der Art begann Mitte des 19. Jahrhunderts. Der schwedische Insektenkundler Carl Henrik Boheman beschrieb die Art im Jahr 1860 (Status: gesichert)1. Das taxonomische Fundament stützte sich dabei auf die umfangreichen biologischen Sammlungen der Expeditionen von Johan August Wahlberg, der in den Jahren 1838 bis 1845 die Region der sogenannten "Caffraria" (das heutige südliche Afrika) bereiste und systematisch Insekten sammelte (Status: gesichert)4.
+Die Insektenfamilie der Dungkäfer durchlief zwischen 1988 und 2023 eine Phase, die in der Entomologie als "Taxonomic Revolution" bezeichnet wird. Innerhalb von 35 Jahren veröffentlichten 86 Autoren aus 15 Ländern 81 komplette Revisionen und 69 Supplemente, in denen der taxonomische Status von 950 Arten neu bewertet wurde. Dies knüpfte an die frühe taxonomische Hochzeit in den Jahren 1867 bis 1869 an, in der Edgar von Harold 205 neue Taxa beschrieb (Status: gesichert)26. Diese Revisionen präzisierten auch die Abgrenzung von Scarabaeus zu Schwestergattungen wie Escarabaeus (Status: gesichert)27.
+Die wissenschaftlich relevanteste Studie, die direkt mit S. satyrus assoziiert ist, wurde im Januar 2013 publiziert. Die Forscherin Marie Dacke (Lund University) und ihr Team erbrachten den Erstnachweis, dass ein Insekt die Sterne und spezifisch die Milchstraße zur Navigation nutzt. Das Experiment im Johannesburger Planetarium gilt als methodischer Meilenstein in der Erforschung der visuellen Orientierung von Insekten (Status: gesichert)1.
+7. Fotografie: Hinweise für Tsavo und Amboseli
+Für fotografische Dokumentationen während der Expedition (24.09. bis 12.10.) in Tsavo und Amboseli ergeben sich aus dem Verhaltensmuster der Tiere strenge Parameter.
+Ort und Zeit: Das Zielhabitat sind frische Kotansammlungen großer Herbivoren, vornehmlich Elefanten und Büffel. Die höchste Aktivität findet in den ersten Stunden der Dunkelheit kurz nach Sonnenuntergang statt (Status: gesichert)8.
+Abwarten auf Verhalten: Das optisch und wissenschaftlich wertvollste Verhalten ist der "Tanz" (Orientation Dance). Nachdem das Tier eine Kugel geformt hat, klettert es auf den Scheitelpunkt der Dungkugel und rotiert einmal komplett um die eigene vertikale Körperachse. Dieser Vorgang dient dem Auslesen des Lichtbandes der Milchstraße und der Kalibrierung des inneren Kompasses (Status: gesichert)1. Dies ist der Moment, in dem das Tier relativ stillhält.
+Fluchtdistanz und Fehlerquellen: Der Käfer besitzt im eigentlichen Sinne keine große Fluchtdistanz vor Menschen, reagiert aber hyperempfindlich auf optische Störungen. Typische Fehler beim Fotografieren sind das Aufstellen vor der Lichtquelle (Verschattung des Himmels) und das Einschalten von hellen Kopflampen, Suchscheinwerfern oder Kamerablitzen. Trifft künstliches Licht auf den Käfer oder wird der Blick auf die Milchstraße durch den Fotografen blockiert, verliert das Tier sofort die Orientierung, bricht den linearen Kurs ab und läuft im Kreis (Status: gesichert)16.
+Objektivwahl: Bei einer Objektgröße von 25 mm sind die Teleobjektive (100–400 mm, 150–600 mm) nur bedingt geeignet, da ihre Naheinstellgrenze die Detailauflösung von Kleinstinsekten erschwert, es sei denn, sie werden für Aufnahmen im Kontext (Tier im Vordergrund, Landschaft/Sternenhimmel im Hintergrund) eingesetzt. Die Linsen 45 mm und 26–60 mm sind für Makro-Aufnahmen prädestiniert, erfordern jedoch, dass die Kamera auf Bodenhöhe am Futterplatz positioniert wird.
+Verschlusszeiten: Die Daten zur Bewegungsgeschwindigkeit weisen eine Besonderheit auf. Eine Quelle protokolliert die Rollgeschwindigkeit mit 3,42 bis 3,83 Metern pro Sekunde (Status: gesichert zitiert, jedoch physikalisch stark umstritten/vermutlich ein Fehler in der Primärquelle)16. Sollte das Tier auch nur annähernd einen Bruchteil dieser Geschwindigkeit erreichen, sind extrem kurze Verschlusszeiten zwingend. Richtwerte für das Einfrieren der schnellen Beinbewegungen beim Rollen erfordern Zeiten von minimal 1/1000 s bis 1/2000 s (Status: abgeleitet).
+8. Links zum Weiterlesen und Sehen
+Fachartikel (Current Biology): https://www.researchgate.net/publication/235374810_Dung_Beetles_Use_the_Milky_Way_for_Orientation Dieser Fachartikel von Dacke et al. aus dem Jahr 2013 liefert die primären Forschungsdaten, Messreihen und die detaillierte Methodik des Planetarium-Experiments zur Orientierung an der Milchstraße16.
+Fachliche Quelle (Neuroanatomie): https://insectbraindb.org/app/species/23 Die Insect Brain Database visualisiert und katalogisiert den dreidimensionalen Aufbau des Nervensystems von S. satyrus, inklusive detaillierter Aufschlüsselungen der Seh- und Navigationszentren15.
+Kultur und Geschichte: https://en.wikipedia.org/wiki/Scarabaeus_satyrus Dieser Artikel bündelt taxonomische Grundlagen, den Entwicklungszyklus und die Verknüpfung der Art mit den Entdeckungen der Himmelsnavigation in kompakter Form1.
+Fotos (Wikimedia Commons): https://commons.wikimedia.org/wiki/File:Scarabaeus_satyrus_(Boheman,_1860)_(3847992837)_(2).jpg Das Bild zeigt das präparierte Exemplar eines 25 mm großen Scarabaeus satyrus aus Namibia und dokumentiert visuell die ausgeprägte Zähnung der vorderen Tibiae sowie die glatte Struktur des schwarzen Exoskeletts10.
+9. Visuelle Beschreibung für eine Illustration
+The adult Scarabaeus satyrus possesses a robust, domed body measuring exactly 25 mm in length, fully encased in a glossy, pitch-black exoskeleton that reflects a faint metallic sheen under starlight. Its prominent head shield, the clypeus, is flat and wide with jagged, crown-like projections designed for severing root fibers and slicing through damp earth. In motion, the insect's posture is deeply angled; its broad forelegs, heavily armed with sharp outer teeth, are planted firmly on the ground while its elongated, flattened hind legs reach backward to grip a perfectly spherical, fibrous dung ball. The segmented lamellate antennae expand outwards like small, serrated fans, testing the night air.
+Detailvorschläge:
+Spur: A bifurcated track in the dry red earth, where a chaotic pattern of jagged footprints suddenly resolves into a singular, smooth trench pressed down by the heavy rolling ball.
+Auge: A macro depiction of the insect's multi-faceted compound eye, emphasizing its lack of pupil and optimized curvature to absorb the diffuse glow of a wide sky.
+Frucht/Dung: Coarse, undigested golden grass stems and acacia seed pods protruding unevenly from the dark, moist matrix of an elephant dung ball.
+Kulturelle Vignette:
+A low-profile Maasai manyatta (hut) constructed from woven wooden saplings and sealed with a smooth layer of mud and cattle dung, standing starkly silhouetted against a brilliant night sky.
+10. Was nicht belegt werden konnte
+Bei der Auswertung des zur Verfügung stehenden Quellenmaterials ergaben sich für den angefragten Informationsbedarf folgende Lücken:
+Wörtliche Bedeutung des Namens (Satyrus): Warum der Erstbeschreiber Boheman explizit das Epitheton "satyrus" (Satyr) wählte, wird in den Texten nicht begründet.
+Lokale kenianische Namen: Bezeichnungen in den Sprachen Samburu, Giriama und Kamba sind nicht belegt.
+Gewicht des adulten Tieres: Die Daten benennen die Spannweite der gesamten Familie (unter 1 mg bis über 10 g) und das Gewicht getrockneter Larven, nennen aber kein exaktes Körpergewicht eines adulten S. satyrus.
+Lokale Mythen und Kultur in Kenia: Sämtliche Angaben zur mythologischen Verknüpfung (Gott Khepri, Sonnensymbol) beziehen sich exakt auf das antike Ägypten. Für die ethnischen Gemeinschaften in Kenia (z. B. Maasai) konnten keine Rituale, Sprichwörter oder Konflikte dokumentiert werden.
+Spezifische Abhängigkeiten: Die Quellen benennen keine konkreten Arten, die symbiontisch oder parasitär auf diese eine Käferart angewiesen sind.
+Bestandszahlen und IUCN-Klarheit: Es gibt in den Quellen keinerlei Zahlen zur Gesamtpopulation. Die Angaben zum IUCN-Schutzstatus widersprechen sich direkt ("Vulnerable" versus "Not Evaluated") und konnten nicht aufgelöst werden.
+Works cited
+Scarabaeus satyrus - Wikipedia, https://en.wikipedia.org/wiki/Scarabaeus_satyrus
+Scarabaeus Linnaeus, 1758 - IRMNG, http://www.irmng.org/aphia.php?p=taxdetails&id=1213199
+Escarabaeus remii Davis and Deschodt, 2016 - Plazi TreatmentBank, https://treatment.plazi.org/id/03B7AE4BFFC0BC55FEC1FB19601EF925/2
+Scarabaeus geminogalenus Davis and Deschodt 2016, sp. nov., https://tb.plazi.org/GgServer/html/03B7AE4BFFC8BC49FEF9FF1863B6FBD0/2
+Scarab Beetles - Museo della Merda, https://www.theshitmuseum.org/the-museum/scarabeo/
+Scarabaeus - Grokipedia, https://grokipedia.com/page/Scarabaeus
+Sinne: Dungkäfer blicken in die Sterne - Spektrum der Wissenschaft, https://www.spektrum.de/news/dungkaefer-blicken-in-die-sterne/1181888
+Dung Beetle Animal Facts - Scarabaeidae, https://a-z-animals.com/animals/dung-beetle/
+This insect is a bad Bloodsucker of Livestock and wild animal., https://www.facebook.com/groups/523396435442256/posts/940518200396742/
+File:Scarabaeus satyrus (Boheman, 1860) (3847992837) (2).jpg, https://commons.wikimedia.org/wiki/File:Scarabaeus_satyrus_(Boheman,_1860)_(3847992837)_(2).jpg
+What do hundreds of hungry dung beetles look and sound like?, https://www.facebook.com/TimYowie/posts/what-do-hundreds-of-hungry-dung-beetles-look-and-sound-like/1601115984626756/
+The Dung Beetle Dung beetles are beetles that feed on feces. All, https://www.facebook.com/shello46.co/posts/creature-of-the-day-the-dung-beetle-dung-beetles-are-beetles-that-feed-on-feces-/1509911463826826/
+Shiny! Dung beetles have the beauty and the brawn — some, https://www.facebook.com/nikonsmallworld/posts/shiny-dung-beetles-have-the-beauty-and-the-brawn-some-species-are-able-to-move-o/1232340485599051/
+Grade 4 ((Science)) Dung beetle or Scarab beetle - Facebook, https://www.facebook.com/groups/2336236936637048/posts/4334436890150366/
+Scarabaeus satyrus Nocturnal dung beetle - Insect Brain Database, https://insectbraindb.org/app/species/23
+(PDF) Dung Beetles Use the Milky Way for Orientation - ResearchGate, https://www.researchgate.net/publication/235374810_Dung_Beetles_Use_the_Milky_Way_for_Orientation
+Dung Beetles Follow the Milky Way: Insects Found to Use Stars for, https://www.facebook.com/groups/2201437605/posts/10151191360697606/
+Evolution of dung beetles in the timeline of mammals? - Facebook, https://www.facebook.com/groups/qaetec/posts/1673930562622415/
+Dung beetles: In the gutter, gazing at the stars | Knowable Magazine, https://knowablemagazine.org/content/article/living-world/2020/dung-beetles-gutter-gazing-stars
+(PDF) Lunar orientation in a beetle - ResearchGate, https://www.researchgate.net/publication/8602588_Lunar_orientation_in_a_beetle
+Dung beetles eat **liquid from animal dung**. A few ... - Facebook, https://www.facebook.com/groups/davidattenboroughfanss/posts/3481078778829938/
+Nutritional composition and microbial quality of Processed edible, https://www.researchgate.net/publication/395989674_Nutritional_composition_and_microbial_quality_of_Processed_edible_dung_beetle_larvae_Scarabaeus_satyrus
+جعران فرعوني - المعرفة, https://www.marefa.org/%D8%AC%D8%B9%D8%B1%D8%A7%D9%86_%D9%81%D8%B1%D8%B9%D9%88%D9%86%D9%8A
+What is the scientific name of this dung beetle? - Facebook, https://www.facebook.com/groups/30749256655/posts/10158743555786656/
+Evolution of the Scarabaeini (Scarabaeidae: Scarabaeinae), https://www.researchgate.net/publication/227764922_Evolution_of_the_Scarabaeini_Scarabaeidae_Scarabaeinae
+The Taxonomic Revolution of New World dung beetles (Coleoptera, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2023.1168754/full
+Three new species, a synonymy and taxonomic notes on southern, https://www.researchgate.net/publication/311730982_Three_new_species_a_synonymy_and_taxonomic_notes_on_southern_African_members_of_the_dung_beetle_genera_Scarabaeus_s_str_Linnaeus_1758_and_Escarabaeus_Zidek_Pokorny_2011_Scarabaeidae_Scarabaeinae

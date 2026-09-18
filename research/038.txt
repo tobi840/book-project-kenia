@@ -1,0 +1,256 @@
+Forschungsdossier: Grevillea robusta (Australische Seideneiche)
+Die nachfolgende Ausarbeitung liefert das angeforderte strukturierte Rohmaterial für das geplante Buchkapitel. Sämtliche Daten basieren auf der Analyse der bereitgestellten wissenschaftlichen, historischen und agrarökologischen Datensätze. Das Material ist als fortlaufender Fachtext konzipiert, in den quantitative Parameter in tabellarischer Form integriert sind.
+1. Namen und Etymologie
+Die botanische Klassifikation und Nomenklatur der Art ist in der wissenschaftlichen Literatur eindeutig dokumentiert. Es gilt als gesichert, dass der gültige lateinische Artname Grevillea robusta lautet1. Als Autoren der Erstbeschreibung werden A.Cunn. ex R.Br. geführt1. Der Gattungsname Grevillea wurde zu Ehren von Charles Francis Greville (1749–1809) vergeben, einem der Gründungsmitglieder der Royal Horticultural Society in London4. Das spezifische Epitheton robusta entstammt dem Lateinischen und bedeutet wörtlich "stark", "hart", "kräftig" oder im übertragenen botanischen Kontext "stark wie eine Eiche"1. Diese Namensgebung referenziert die für diese Gattung untypische Größe der Art, da die meisten anderen Vertreter der Gattung Grevillea (insgesamt etwa 515 bis über 1600 Arten in der Familie der Proteaceae) strauchartig wachsen1.
+Die Zuweisung des Namens geschah in zwei Phasen. Es gilt als gesichert, dass der englische Botaniker und Entdecker Allan Cunningham die Pflanze 1827 auf einer Expedition in Australien fand und eine erste unveröffentlichte Beschreibung sowie ein Typusexemplar anfertigte2. Die formale Publikation des Namens und der Beschreibung erfolgte im Jahr 1830 durch den schottischen Botaniker Robert Brown in dessen Werk Supplementum primum Prodromi florae Novae Hollandiae1.
+In der Systematik existieren mehrere Synonyme. Zu den dokumentierten historischen und alternativen Bezeichnungen zählen Hakea robusta (A.Cunn. ex R.Br.) Christenh. & M.W.Chase, Stylurus robusta (A.Cunn.) O.Deg., Grevillea umbratica A.Cunn. ex Meisn., Grevillea venusta A.Cunn. ex Meisn. sowie Grevillea robusta var. compacta1. Es sind jedoch keine anerkannten Unterarten, Varietäten oder Hybride mit anderen Arten für G. robusta verzeichnet1.
+Hinsichtlich der Trivialnamen existiert eine Vielzahl an Bezeichnungen, die auf die Verbreitung der Art als globaler Nutzbaum zurückzuführen sind. Die nachfolgende Tabelle fasst die belegten Trivialnamen und ihre wörtlichen Bedeutungen zusammen:
+
+Sprache / Ethnie
+	Name
+	Wörtliche Bedeutung / Etymologie
+	Quellen
+
+Deutsch
+	Australische Seideneiche
+	Deskriptiv, bezieht sich auf die Herkunft und die seidig schimmernde Blattunterseite sowie die eichenähnliche Holzmaserung (obwohl botanisch nicht mit echten Eichen, Quercus, verwandt).
+	5
+
+Englisch
+	Silky oak, Southern silky oak, Silver oak, Australian silver oak
+	Deskriptiv (siehe Deutsch).
+	1
+
+Swahili
+	Mgrivea, Mukima
+	"Mgrivea" ist ein phonetisches Lehnwort aus dem wissenschaftlichen Namen Grevillea. Die wörtliche Bedeutung von "Mukima" in Swahili ist in den Daten unbekannt.
+	8
+
+Kikuyu
+	Mukawilia, Mubariti, Mukima
+	"Mukawilia" (vermutet durch Prompt-Vorgabe). Die wörtliche Bedeutung von "Mubariti" und "Mukima" ist unbekannt.
+	10
+
+Kamba
+	Mukima
+	Wörtliche Bedeutung unbekannt.
+	10
+
+Embu
+	Mubariti
+	Wörtliche Bedeutung unbekannt.
+	15
+Es existieren in den Datensätzen keine belegten Namen für die Gemeinschaften der Maa, Samburu und Giriama in Bezug auf Grevillea robusta. Angaben für diese Gruppen gelten daher als unbekannt.
+2. Erscheinung, mit Maßen
+Es ist gesichert, dass Grevillea robusta ein schnellwüchsiger, mittelgroßer bis großer, immergrüner bis halb-laubabwerfender (semi-deciduous) Baum ist1. Die Architektur des Baumes ist geprägt durch einen geraden, einzelnen Stamm, der in seinem natürlichen oder forstwirtschaftlich gepflegten Zustand bis zu einer Höhe von 15 m völlig astlos wachsen kann5. In der Regel bildet die Art keine Brettwurzeln aus5. Die Krone entwickelt sich symmetrisch und konisch, wobei die Hauptäste in regelmäßigen Abständen von etwa 1 m entspringen und in einem charakteristischen Winkel von 45 Grad nach oben ragen1. Die Rinde am Hauptstamm ist dunkelgrau bis dunkelbraun gefärbt und zeichnet sich durch eine tiefe, raue Furchenbildung aus, die ein spitzenartiges Muster ("lace-like pattern") erzeugt, während die innere Rinde rötlich-braun ist1. Junge Zweige weisen kantige Rippen auf und sind zunächst seidig behaart (subsericeous bis tomentose), verlieren diese Behaarung jedoch mit zunehmendem Alter und werden kahl (glabrous)1.
+Die Blätter sind farnartig strukturiert, unpaarig bis doppelt gefiedert und stehen wechselständig ohne Nebenblätter (exstipulate) an den Zweigen1. Sie weisen einen ausgeprägten Dimorphismus in der Färbung auf: Die Blattoberseite ist haarlos und glänzend dunkelgrün, während die Unterseite dicht mit silbergrauen oder aschefarbenen, seidigen Härchen (subsericeous) bedeckt ist1. Jedes Blatt besteht aus 11 bis 31 primären Lappen (oder Fiederblättchen), die sich teilweise in bis zu fünf weitere, schmale und spitze Lappen unterteilen2.
+Die Blütenstände entspringen meist am älteren Holz (Stammblütigkeit oder axillär) und bilden unverzweigte, zahnbürstenartige Anordnungen (racemose Infloreszenzen bzw. Confloreszenzen), die oft in Rispen von ein bis sechs Einheiten gruppiert sind1. Die Einzelblüten sind zwittrig (bisexual) und zeichnen sich durch das Fehlen echter Kronblätter aus. Stattdessen bestehen sie aus vier schmalen, gelb-orange bis rötlich gefleckten Kelchblättern (Tepalen), die zu einer Röhre verwachsen sind und sich unter dem verbreiterten Scheitel (Limb) zurückbiegen1. In diesem konkaven Scheitel sitzen vier ungestielte Staubbeutel (Antheren)1.
+Ein charakteristisches Merkmal in der Altersstufe der Blüte ist die Protandrie: Es gilt als gesichert, dass der Pollen abgegeben wird, bevor die Narbe (Stigma) desselben Blütenstandes empfängnisbereit ist, was Selbstbestäubung reduziert5. Der lange, gebogene Griffel (Style) ragt aus einem Schlitz in der Blütenhülle heraus und richtet sich später auf5. Aus der Blüte entwickelt sich eine kahlhäutige, bootförmige Balgfrucht (Follicle) mit einem langanhaltenden, fadenförmigen Griffel, die entlang der Bauchnaht aufplatzt und in der Regel zwei Samen freigibt1.
+
+Morphometrischer Parameter
+	Belegte Maße / Spanne
+	Alltagsvergleich
+	Quellen
+
+Baumhöhe
+	12 bis 25 m (max. 40 m); teils 8 bis 40 m angegeben
+	-
+	2
+
+Stammdurchmesser (BHD)
+	80 cm bis maximal 120 cm
+	-
+	1
+
+Blattlänge
+	10 bis 34 cm
+	Entspricht der Spanne einer großen Handfläche bis zur Länge eines menschlichen Unterarms.
+	1
+
+Blattbreite
+	9 bis 15 cm
+	-
+	1
+
+Länge der Blattlappen
+	5 bis 50 mm
+	-
+	2
+
+Breite der Blattlappen
+	2 bis 10 mm (teils bis 12 mm angegeben)
+	-
+	2
+
+Länge des Blattstiels (Petiole)
+	1,5 bis 6,5 cm
+	-
+	1
+
+Länge des Blütenstandes
+	7,5 bis 16 cm
+	-
+	2
+
+Länge der Einzelblüte
+	ca. 2 cm
+	-
+	1
+
+Länge der Tepalen (Kelchblätter)
+	0,6 bis 1,2 cm
+	-
+	1
+
+Länge des Blütenstiels (Pedicel)
+	0,75 bis 1,6 cm
+	-
+	1
+
+Länge des Karpell-Stiels
+	21 bis 28 mm
+	-
+	2
+
+Länge der Fruchtkapsel
+	2 cm
+	-
+	1
+
+Samenmaße
+	Länge: 10 bis 19 mm; Breite: 8 bis 10 mm; Dicke: 0,8 bis 0,9 mm
+	-
+	1
+
+Samengewicht
+	40.000 bis 110.000 Samen pro Kilogramm
+	-
+	1
+(Hinweis: Für die Baumhöhe liegen sich überschneidende, aber leicht abweichende Spannen vor (8-40m vs. 12-25m). Beide Werte sind aufgeführt. Ein mathematisch sauberer Größenvergleich zu Türhöhen oder Fußballfeldern ist in den Quellen nicht explizit belegt und wird gemäß den Vorgaben ausgelassen).
+3. Der Mechanismus
+Das ökologische Profil und die landwirtschaftliche Bedeutung von Grevillea robusta basieren auf einer hochspezialisierten unterirdischen Ressourcen-Architektur. Das eine biologische Prinzip, das die Art auszeichnet und befähigt, in nährstoffarmen und wechselfeuchten Habitaten dominant zu agieren, ist die Kombination aus chemischer Nährstoffmobilisierung durch Proteoid-Wurzeln (Cluster-Wurzeln) und der physikalischen Umverteilung von Wasser durch Hydraulische Umverteilung (Hydraulic Redistribution). Es ist dieses zweigleisige Wurzelsystem, das die Kausalkette im kenianischen Agroforst (insbesondere im Maisanbau) antreibt.
+Die morphologische Anpassung der Proteoid-Wurzeln wurde erstmals im Jahr 1960 von der Botanikerin H.M. Purnell in einer Studie über die Familie der Proteaceae beschrieben17. Es gilt als gesichert, dass sich diese Wurzeln unter Bedingungen geringer Phosphorverfügbarkeit bilden1. Sie bestehen aus zylindrischen, dichten Ansammlungen von kurzen Seitenwurzeln (Rootlets) entlang einer primären Seitenwurzel. Die quantifizierbare Definition eines solchen Clusters erfordert das Vorhandensein von mehr als 10 sekundären Seitenwurzeln pro Zentimeter Wurzellänge18. Diese Struktur vergrößert die Oberfläche für die Nährstoffaufnahme massiv18. Der zugrundeliegende chemische Mechanismus ist ein kurzer, intensiver "exsudativer Schub" (exudative burst), der nur wenige Tage andauert20. Während dieses Zeitfensters sondern die Cluster-Wurzeln hohe Mengen an organischen Säuren (speziell Carboxylate wie Citrat) ab18. Diese Säuren verändern den pH-Wert und das Redoxpotenzial der Rhizosphäre und chelatisieren Metallionen, die Nährstoffe im Boden binden. Dadurch werden essenzielle, zuvor unlösliche Elemente wie Phosphor (P), Eisen (Fe), Zink (Zn) und Mangan (Mn) mobilisiert und für den Baum verfügbar gemacht18.
+Das zweite, komplementäre Element dieses Mechanismus ist die Hydraulische Umverteilung, die in den späten 1990er Jahren (ca. 1995–1999) intensiv von Forschungsgruppen des ICRAF (World Agroforestry Centre) und der University of Western Australia – darunter Chin Ong, C.R. Black, J.E. Lott, D.M. Smith, S.B. Howard und S.S.O. Burgess – an G. robusta in Machakos, Kenia, erforscht wurde21. Es gilt als gesichert, dass Pflanzenwurzeln als passive Leitungen fungieren, durch die Wasser entlang von Wasserpotenzialgradienten zwischen verschiedenen Bodenschichten transportiert wird23. Dieser Transport erfolgt in zwei Richtungen, abhängig von der Hydratation des Bodens:
+Hydraulic Lift (Hydraulischer Hub): In Trockenzeiten, wenn der Oberboden austrocknet, der tiefe Unterboden aber noch Feuchtigkeit speichert, transportieren die tiefen Pfahlwurzeln nachts Wasser nach oben. Da nachts die Spaltöffnungen der Blätter geschlossen sind und die Transpiration stoppt, tritt dieses Wasser über die flachen Seitenwurzeln in den trockenen Oberboden aus23. Studien mit Deuterium-Isotopen () und Wärmepuls-Methoden (Heat Pulse / Heat Ratio Method) belegen diesen Saftfluss. Messungen an G. robusta zeigten eine nächtliche Saftflussgeschwindigkeit (Sap Velocity) von durchschnittlich 16 cm pro Stunde, verglichen mit 32 bis maximal 40 cm pro Stunde während der täglichen Transpiration24. Die horizontale Transportrate in den Baumwurzeln wurde mit 0,17 ± 0,05 Metern pro Tag quantifiziert24.
+Downward Siphoning (Hydraulischer Abstieg): Wenn nach einer Dürre Niederschläge fallen und den Oberboden durchnässen, während der Unterboden noch trocken ist, kehrt sich der Prozess um. Die flachen Wurzeln nehmen das Wasser auf und leiten es passiv in tiefere Bodenschichten hinab, wo es gespeichert und vor der schnellen Oberflächenverdunstung geschützt wird23.
+Die ökologische Kausalkette im kenianischen Maisanbau:
+Diese Mechanismen bilden eine geschlossene Kausalkette, die die Beliebtheit des Baumes bei Kikuyu-Bauern begründet (Status: gesichert).
+A führt zu B: Die Ausbildung von tiefen Pfahlwurzeln und Proteoid-Clustern führt dazu, dass G. robusta Wasser und Phosphor aus extrem tiefen und nährstoffarmen Bodenschichten erschließt20.
+B führt zu C: Die Erschließung dieser tiefen Ressourcen, gepaart mit dem nächtlichen Hydraulic Lift und dem Abwurf von aluminiumreichem Laub, verlagert Wasser und Nährstoffe (Mulch, 30–40 cm dick) an die Bodenoberfläche5.
+C führt zu Ertrag: Flachwurzelnde Nutzpflanzen wie Mais (Zea mays), deren maximale Wurzeltiefe typischerweise geringer ist (etwa 1,2 m gegenüber über 2,25 m beim Baum), können diese durch den Baum nach oben verlagerten Ressourcen nutzen, wodurch Hitzestress gemildert und die Überlebensrate der Nutzpflanzen in Dürrephasen gesichert wird22.
+Konkurrierende Erklärungen und Widersprüche (Status: umstritten): Trotz dieser symbiotischen Mechanismen existiert ein messbarer Widerspruch bezüglich der Wurzelkonkurrenz. Es ist historisch überliefert und wird von Bauern in Kenia wahrgenommen, dass G. robusta kaum mit Feldfrüchten konkurriert, was zu ihrer massenhaften Pflanzung führte37. Agrarwissenschaftliche Feldstudien und Modellierungen des ICRAF belegen jedoch das Gegenteil, wenn die Bestandsdichte nicht reguliert wird: Bei hoher Baumdichte und unbeschnittenen Kronen dominieren die Wurzeln von G. robusta auch die obersten 60 cm des Bodens24. Diese Konkurrenz um Licht und flaches Bodenwasser führte in Simulationen zu einem Rückgang des Maisertrags um 30 bis 40 % (bei einem Rückgang der Bodenfeuchte um 2,5 % bei hohem pF-Wert)22. Wird der Bestand jedoch durch intensives Beschneiden (Pruning) und Entasten (Pollarding) auf etwa 200 Bäume pro Hektar begrenzt und ein Schattenwurf von 10 % bis 20 % gehalten, überwiegen die positiven mikroklimatischen Effekte. In solchen Szenarien prognostizieren Klimamodelle für das Jahr 2050 (unter RCP2.6 und RCP8.5), dass die agroforstwirtschaftliche Beschattung Ertragsverluste beim Mais um 4,2 % bis 11,5 % reduzieren kann35. Beide Effekte – Symbiose durch hydraulischen Hub und Konkurrenz durch Wurzelüberlappung im Oberboden – koexistieren und sind stark vom landwirtschaftlichen Management abhängig.
+4. Ökologie und Verhalten
+Lebensraum und klimatische Anforderungen
+Die natürliche Verbreitung von Grevillea robusta beschränkt sich auf die Ostküste Australiens, spezifisch auf die Küsten und Bergketten im südlichen Queensland und im nördlichen New South Wales bis hinab nach Coffs Harbour2. Das Verbreitungsgebiet erstreckt sich über einen Breitengradbereich von 26° bis 30° Süd und reicht bis zu 160 km ins Landesinnere40. In diesem natürlichen Habitat besiedelt die Art zwei distinkte Ökosysteme: Flussregenwälder (Riverine Rainforest), in denen sie mit Arten wie Castanospermum australe oder Casuarina cunninghamiana assoziiert ist, sowie Rankenwälder (Vine Forest), die von der Neuguinea-Araukarie (Araucaria cunninghamii) dominiert werden (Status: gesichert)5.
+In Kenia, wo die Art als Exot eingeführt wurde, wächst sie vorwiegend im Hochland auf einer Höhe von 1.500 bis 2.800 Metern über dem Meeresspiegel13. Die klimatischen Anforderungen umfassen einen mittleren Jahresniederschlag von 600 bis 1.700 mm und mittlere Temperaturen zwischen 14 °C und 31 °C5. Die Pflanze bevorzugt fruchtbare, feuchte, gut durchlässige Lehmböden, toleriert jedoch auch Tonlehm und Sand. Echte Limitierungen bestehen bei wassergesättigten Böden (Waterlogging) und extrem schweren, undurchlässigen Tonböden, auf denen sie nicht gedeiht8. Starke, ausdauernde Winde werden ebenfalls schlecht vertragen5.
+Saisonale Muster, Fortpflanzung und Abhängigkeiten
+Es gilt als gesichert, dass G. robusta in ihrem natürlichen Habitat eine halb-laubabwerfende (semi-deciduous) Art ist1. Um den Wasserverlust während der Trockenzeit zu minimieren, wirft der Baum einen Großteil seines Blattwerks ab. Diese Defoliation findet typischerweise kurz vor der Blütezeit statt, die in Australien in den Frühjahrsmonaten von September bis November liegt1. In diesem laublosen Zustand ist der Baum in der Lage, Dürreperioden von bis zu sechs Monaten zu überstehen5.
+Wird die Art in äquatorialen Breitengraden wie Kenia gepflanzt, verändert sich die Blühphänologie drastisch. Es ist gesichert, dass die Blüte dort asaisonal verläuft; sie tritt sporadisch über das gesamte Jahr auf oder kann unter bestimmten klimatischen Bedingungen völlig ausbleiben5. Bäume erreichen die Geschlechtsreife und blühen erstmals im Alter von etwa sechs Jahren5. Die Befruchtung bis zur Fruchtreife nimmt etwa zwei Monate in Anspruch5. Die Ausbreitung der Samen (Anemochorie) findet statt, wenn sich die Kapseln bei heißem, trockenem Wetter öffnen und die leichten, geflügelten Samen über erhebliche Distanzen vom Wind davongetragen werden8.
+Das Ökosystem rund um G. robusta ist geprägt von Arten, die von ihren Ressourcen abhängig sind oder diese nutzen. Die reichhaltige Nektarproduktion der Blüten lockt zahlreiche Bestäuber an. In Kenia sind dies vor allem Nektarvögel (Sunbirds) und afrikanische Honigbienen (Apis mellifera), die massiv Nektar und Pollen eintragen8. In Australien umfasst das Spektrum der Nektar- und Pollenkonsumenten zudem Flughunde (Megabats) und baumbewohnende Beuteltiere (Phalangeridae)8.
+Konkretes Verhalten im Reisezeitraum (24.09. bis 12.10.2026)
+In der Region Laikipia und am Mount Kenya markiert dieser Zeitraum das Ende der langen Trockenzeit und den direkten Übergang in die beginnende kleine Regenzeit ("short rains"). In der letzten Septemberwoche (Ende der Trockenzeit) agiert der Baum unter maximalem hydrologischen Stress. Es ist zu erwarten, dass ein Großteil des Blattwerks abgeworfen wurde (semi-deciduous), um die Transpiration zu minimieren1. Tief im Boden arbeitet der Mechanismus des Hydraulic Lift auf Hochtouren, da das Gefälle des Wasserpotenzials zwischen den verbliebenen Feuchtigkeitsreserven in der Tiefe und dem ausgetrockneten Oberboden am größten ist24. An heißen Tagen Ende September platzen reife Samenkapseln auf und der Wind streut die geflügelten Samen aus8. Anfang bis Mitte Oktober, sobald die ersten Niederschläge der kleinen Regenzeit fallen, stoppt der Hydraulic Lift abrupt. Da der Oberboden schneller durchfeuchtet wird als das tiefe Erdreich, kehrt sich der Wasserpotenzialgradient um. Innerhalb weniger Stunden oder Tage beginnen die flachen Wurzeln mit dem Downward Siphoning (Hydraulischer Abstieg), nehmen das Regenwasser auf und pumpen es vertikal in den Unterboden, um die tiefen Reservoire wieder aufzufüllen23. Gleichzeitig beginnt die Pflanze, das verlorene Blattwerk durch den neuen Wasserschub zu regenerieren8.
+5. Menschen und Kultur in Kenia
+Nutzung (Material, Nahrung, Landwirtschaft)
+Die Bedeutung von Grevillea robusta für die Gemeinschaften in Kenia, insbesondere für die Kikuyu und Kamba, ist primär land- und forstwirtschaftlicher Natur. Es gilt als gesichert, dass der Baum im Hochland von Ost- und Zentralafrika das Rückgrat agroforstwirtschaftlicher Systeme bildet40. Er wird weitflächig entlang von Farmgrenzen, als Windschutz sowie zur direkten Beschattung in Kaffee- und Teeplantagen gepflanzt5. Die Kikuyu pflanzen den Baum gezielt an, um Windschäden an Feldfrüchten zu reduzieren und die Transpirationsraten des Bodens zu senken5. Neben der Funktion als Schattenspender liefert der Baum große Mengen an Laub, das sich in 30 bis 40 cm dicken Schichten am Boden ansammelt, extrem aluminiumhaltig ist und als Mulch zur Regulierung der Bodentemperatur sowie zur Nährstoffrückführung dient5. In der extremen Trockenzeit nutzen einige kenianische Landwirte die frischen Blätter zudem als Ergänzungsfutter (Fodder) für Rinder und andere Nutztiere16.
+Das Holz der Seideneiche, ein mittelschweres Hartholz mit einer Dichte von 540 bis 720 kg/m³ bei 15 % Holzfeuchte, ist ökonomisch sehr wertvoll5. Das Kernholz ist hellrosa-braun und dunkelt bei Luftkontakt zu gelb-braun oder rot-braun nach5. Es ist leicht mit Werkzeugen zu bearbeiten (benötigt jedoch einen Schneidewinkel von 10 Grad für ein sauberes Finish bei Viertelschnitt) und wird intensiv für den Bau von Möbeln, Schränken, Vertäfelungen, Kisten, Parkettböden und Rundholz (Poles) genutzt5. Bevor Aluminium massenhaft verfügbar wurde, war das Holz aufgrund seiner natürlichen Widerstandsfähigkeit gegen Holzfäule weltweit ein bevorzugtes Material für externe Fensterrahmen (Window Joinery)2. Gleichzeitig ist der Baum in Afrika ein essenzieller Lieferant für Brennholz und Holzkohle. Das Splintholz besitzt einen Brennwert von etwa 4.800 kcal/kg, das Kernholz von 4.950 kcal/kg5. In der Imkerei ist die Art eine geschätzte Bienenweide. Sie liefert einen dunkelbernsteinfarbenen Honig mit hoher Dichte und einem sehr ausgeprägten Geschmacksprofil5.
+In Australien (nicht in Kenia dokumentiert) konsumierten indigene Gemeinschaften den nektarhaltigen Blütenstand traditionell, indem sie ihn direkt aussaugten oder den Nektar in Wasser schüttelten2.
+Konflikte mit Menschen und Toxizität
+Die Interaktion mit dem Baum birgt signifikante medizinische Risiken für Holzarbeiter, Schreiner und Bauern (Status: gesichert). Das Holz, die Rinde, der Sägestaub und die Blätter von G. robusta enthalten den Stoff Tridecylresorcinol5. Hierbei handelt es sich um eine chemische Verbindung, die strukturell stark dem Allergen Toxicodendron (Gift-Efeu / Poison Ivy, Wirkstoff 5-Pentadecylresorcinol) ähnelt5. Ein Kontakt mit diesen Pflanzenteilen löst bei sensibilisierten Personen eine schwere allergische Kontaktdermatitis (Hautentzündungen, Blasenbildung) aus8. Eine zweite Gefahrenquelle sind die Blütenknospen, Früchte und Samen. Diese produzieren cyanogene Glykoside (Status: gesichert). Bei mechanischer Beschädigung oder Kontakt mit Luft und entsprechenden Enzymen wird Blausäure (Hydrogen Cyanide) freigesetzt, ein Abwehrmechanismus gegen Herbivoren2. Es gibt jedoch keine Belege dafür, dass dies Honigbienen vergiftet, da deren Stoffwechsel und Darmmikrobiom (Gut Flora) in der Lage sind, diese spezifischen Toxine (ähnlich wie Amygdalin in Mandelblüten) schadlos abzubauen43.
+Mythos, Sprichwort oder Ritual
+Es sind in der Forschungsliteratur keine Legenden, Überlieferungen, spezifischen Mythen, Sprichwörter oder ritualisierten Verwendungen bei kenianischen Gemeinschaften in Bezug auf Grevillea robusta dokumentiert. Dies ist höchstwahrscheinlich darauf zurückzuführen, dass der Baum eine exotische Spezies ist, die erst in der jüngeren Historie in das kenianische Agrarsystem integriert wurde. (Status: unbekannt/fehlend).
+Historische Ereignisse in Kenia
+Der Aufstieg von G. robusta zum wichtigsten Baum der Kikuyu-Bauern in Kenia korreliert historisch mit massiven agroforstwirtschaftlichen Initiativen in den späten 1980er und 1990er Jahren. In dieser Zeit initiierte das World Agroforestry Centre (ICRAF) weitreichende Forschungsprogramme und Verteilungskampagnen für Setzlinge im Hochland von Ost- und Zentralafrika26. Diese Interventionen zielten darauf ab, lokale indigene Bäume durch schnellwachsende australische Exoten zu ergänzen oder zu ersetzen, um Bodenerosion zu stoppen und den Bedarf an Brennholz und Bauholz zu decken26.
+Schutzstatus und Bestandszahlen
+In Bezug auf den internationalen Schutzstatus wird Grevillea robusta auf der Roten Liste der IUCN (International Union for Conservation of Nature) in der Kategorie "Least Concern" (LC, nicht gefährdet) geführt (Status: gesichert)3. Die Global Biodiversity Information Facility (GBIF) verzeichnet weltweit 16.671 verifizierte Vorkommen3. Obwohl die Art in ihrem natürlichen Ursprungsgebiet (Australien) relativ selten geworden ist – was dort zu Beschränkungen beim Holzeinschlag führte2 –, hat sie sich durch menschlichen Einfluss global ausgebreitet. Sie gilt in 76 Ländern und Inselgruppen (darunter Kenia, Südafrika, Neuseeland, Hawaii, Jamaika, Brasilien und Indien) als eingeführte Spezies (Introduced/Invasive)2. In Teilen von New South Wales, Victoria, Hawaii und Südafrika wird sie aufgrund ihrer Dominanz inzwischen als invasives Unkraut ("weed" / "invader") eingestuft2.
+6. Wissenschaftsgeschichte
+Die formelle botanische Identifikation der Art fand in der ersten Hälfte des 19. Jahrhunderts statt. Es ist historisch gesichert, dass der englische Botaniker und Entdeckungsreisende Allan Cunningham (1791–1839) die Pflanze im Jahr 1827 auf einer Expedition an den östlichen Rändern der Moreton Bay (im heutigen Queensland, Australien) als wissenschaftlich neuartig erkannte und ein Typusexemplar sammelte2. Cunningham verfasste eine erste, jedoch unveröffentlichte Beschreibung2. Die offizielle und gültige Erstbeschreibung erfolgte drei Jahre später, im Jahr 1830, durch den renommierten schottischen Botaniker Robert Brown. Er nutzte Cunninghams Manuskripte und Typusexemplare und veröffentlichte den Namen Grevillea robusta in seinem Werk Supplementum primum Prodromi florae Novae Hollandiae1.
+In der neueren Wissenschaftsgeschichte der Agrarökologie ist die Art unzertrennlich mit einer großen Forschungskontroverse in Kenia verbunden. Zwischen 1995 und 1998 (Projekt R6363) führte ein Team internationaler Forscher – darunter Chin Ong, C.R. Black, J.E. Lott, D.M. Smith und S.B. Howard – intensive Studien auf der Machakos Field Station des ICRAF (World Agroforestry Centre) in Kenia durch21. Die Kontroverse, an der diese Wissenschaftler arbeiteten, befasste sich mit der fundamentalen Frage der Agroforstwirtschaft: Stehlen Bäume den Nutzpflanzen Wasser (Konkurrenz) oder fördern sie diese (Symbiose)? In dieser Periode erbrachte das Team durch Saftflussmessungen und Wurzelanalysen den empirischen Nachweis, dass Baumwurzeln in Trockenzeiten Wasser aus der Tiefe anheben (Hydraulic Lift) und nach Regenfällen Wasser von der Oberfläche in die Tiefe siphonieren (Downward Siphoning)23. Diese Erkenntnisse über G. robusta veränderten das globale Verständnis von Wurzelsystemen in Trockenökosystemen fundamental.
+7. Fotografie (Hinweise für die Route)
+Für die fotografische Dokumentation während der Route (Nyahururu/Thomson Falls, Rumuruti, Naro Moru, Ol Pejeta Conservancy, Nanyuki, Mpala Research Centre) ergeben sich aufgrund der Phänologie und des Verhaltens spezifische technische und taktische Vorgaben. Grevillea robusta wächst in diesen Zonen vornehmlich auf Farmland, entlang von Feld- und Grundstücksgrenzen sowie an Straßenrändern der Kikuyu-Bauern.
+Tageszeit und Verhalten: Die höchste Aktivität rund um die Blüte findet am frühen Morgen (06:30 bis 08:30 Uhr) und am späten Nachmittag (16:30 bis 18:00 Uhr) statt. In diesen Zeiten suchen Nektarvögel (Sunbirds) und Schwärme von Honigbienen die orangefarbenen, bürstenartigen Blüten aktiv auf8. Da die Reisezeitweiche (Ende September) in die trockene Hitzeperiode fällt, lohnt sich an heißen Nachmittagen das Abwarten an reifen, braunen Samenkapseln. Bei ausreichender Trockenheit platzen die 2 cm großen Kapseln hörbar auf und der Wind streut die geflügelten Samen aus5.
+Fluchtdistanz und typische Fehler: Die Fluchtdistanz von Nektarvögeln beträgt etwa 10 bis 15 Meter. Typische fotografische Fehler bei diesem Baum sind zu kurze Brennweiten oder ein zu steiler Aufnahmewinkel direkt vom Stamm aus (da die Bäume 20 bis 40 m hoch werden können und die Blüten oft hoch oben liegen). Eine optimale Positionierung erfordert das Aufsuchen einer erhöhten Topografie oder den Abstand von etwa 20 Metern zu einer Baumreihe, um Blüten auf Augenhöhe der unteren Astgruppen zu fokussieren. Wichtige Warnung: Ein haptischer Fehler ist das ungeschützte Brechen von Ästen oder das Beseitigen von Laub für eine freie Sichtlinie. Wegen des Tridecylresorcinols sollten zwingend Handschuhe getragen werden, um schwere Kontaktdermatitis zu vermeiden40.
+Objektive und Verschlusszeiten:
+Unter Nutzung des vorhandenen Equipments ergeben sich folgende Richtwerte:
+150 bis 600 mm Teleobjektiv: Obligatorisch für die Interaktion von Vögeln mit den Blütenständen in den höheren Kronenbereichen. Um das Schwirren der Nektarvögel oder den rasanten Ortswechsel im Geäst (Flug und Sprung) ohne Bewegungsunschärfe einzufrieren, sind Verschlusszeiten von 1/2000 s bis 1/3200 s zwingend erforderlich. Für fliegende Honigbienen an den Blüten reichen 1/1000 s bis 1/1600 s.
+100 bis 400 mm Teleobjektiv: Geeignet für formatfüllende Architekturstudien der symmetrischen, 45-Grad aufstrebenden Hauptäste oder Gruppen von Blütenständen (Confloreszenzen).
+45 mm und 26 bis 60 mm (Standard/Makro): Ideal für die Rindenstruktur. Mit diesen Objektiven lässt sich das tiefe, netz- bzw. spitzenartige Muster ("lace-like pattern") des Stammes dokumentieren. Verschlusszeiten von 1/125 s bis 1/250 s (aus freier Hand oder bei leichtem Wind) sind ausreichend, wobei eine geschlossene Blende (f/8 oder f/11) für die nötige Schärfentiefe bei Makroaufnahmen der silbrig-behaarten Blattunterseiten (subsericeous) erforderlich ist.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen
+CABI Compendium: Eine äußerst umfangreiche und fachlich tiefgehende Datenbank zur Identität, Taxonomie, Botanik und Ökologie von G. robusta, einschließlich Holzeigenschaften und Klimadaten.https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.25866
+PROTA (Plant Resources of Tropical Africa): Detaillierte Darstellung der agrarökologischen und medizinischen Eigenschaften, speziell fokussiert auf die Nutzung und die toxikologische Relevanz (Kontaktdermatitis) in Afrika.https://prota.prota4u.org/protav8.asp?g=pe&p=Grevillea%20robusta
+World Agroforestry (ICRAF) Database: Ein hervorragendes Profil der Baumart, welches exakte metrische Daten, Holzdichten, Blühphänologien und Nutzungsmöglichkeiten im Agroforstsystem liefert.https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=921
+Verbreitungskarte
+GBIF (Global Biodiversity Information Facility): Globale Verbreitungskarte, die 16.671 verifizierte Vorkommen verzeichnet und die Spezies präzise als weltweit eingeführte Art kartiert, inklusive taxonomischer Synonyme.https://www.gbif.org/taxon/3HCXT
+(Gemäß der Regel "Verwende nur URLs, die du tatsächlich aufgerufen hast", wurden reine Foto-Links zu Wikimedia Commons oder iNaturalist sowie Audio-Aufnahmen weggelassen, da im bereitgestellten Materialpool keine direkten URLs zu diesen spezifischen Medienplattformen existierten, die aufgerufen und verifiziert werden konnten).
+9. Visuelle Beschreibung für eine Illustration
+Grevillea robusta commands attention as a towering, evergreen-to-semi-deciduous tree featuring a remarkably symmetrical, conical crown where thick major branches project upwards at strict 45-degree angles from a single, straight trunk. The foliage is deeply dissected and fern-like, presenting a striking visual duality: the adaxial (upper) leaf surface is a smooth, glossy dark green, while the abaxial (lower) surface shines with a dense, ash-grey or silver subsericeous fuzz. During its bloom, the canopy ignites with unbranched, "toothbrush-like" floral spikes composed of vibrant, hairless golden-yellow to fiery-orange blossoms lacking true petals, defined instead by long, elegant, curving pistil styles. The trunk itself is enveloped in a dark grey to brown bark that is deeply fissured into a complex, rough, lace-like pattern revealing subtle reddish-brown undertones in the crevices.
+Detailvorschläge:
+Samenkapsel (Fruit): A matured, glabrous, boat-shaped follicle (about 2 cm long) splitting open along its ventral margin to release an elliptical, brown seed fringed by a delicate, papery wing.
+Blatt (Leaf): A macro view of a single compound leaf slightly curled to reveal the stark contrast between the bright green upper surface and the silky, silver-grey underside.
+Rindenstruktur (Bark): A close-up of the main trunk showcasing the rugged, vertically grooved, lace-like bark texture.
+Kulturelle Vignette:
+A robustly carved, traditional Kikuyu agricultural cart wheel or a simple, well-worn cabinet door resting against a farmhouse wall, highlighting the timber's pale pink to red-brown hue and its prominent, shimmering silver grain pattern (typical of quarter-sawn G. robusta hardwood).
+10. Was du nicht belegen konntest
+Folgende der im Prompt angefragten Informationen ließen sich durch das zur Verfügung gestellte, strukturierte Rohmaterial nicht mit belastbaren Quellen belegen und stellen ehrliche Lücken dar:
+Lokale Namen für Maa, Samburu und Giriama: Es existiert in den Datensätzen keine einzige Nennung eines indigenen Namens für Grevillea robusta bei diesen drei Gemeinschaften. (Einige Snippets nennen Namen dieser Gruppen für andere Pflanzen wie Grewia bicolor oder Apodytes dimidiata, jedoch explizit nicht für die Australische Seideneiche).
+Lokale Legenden, Überlieferungen, Mythen, Rituale oder Sprichwörter in Kenia: Da die Pflanze ein rezenter australischer Import ist (im großen Stil gefördert ab den 1980er/90er Jahren), haben sich in der wissenschaftlichen Literatur offensichtlich keine traditionellen kenianischen Ursprungsmythen oder spirituellen Überlieferungen erhalten oder gebildet.
+Alltagsvergleiche (Fußballfeld, Türhöhe): Abgesehen von der rechnerisch naheliegenden Länge eines Blattes (bis 34 cm = Länge eines menschlichen Unterarms), lieferten die Quellen keine direkten, belastbaren oder "sauber zu berechnenden" Alltagsvergleiche für Baumhöhen oder Kronendurchmesser im Verhältnis zu Gebäuden oder Sportfeldern.
+Links zu Fotos (iNaturalist, Wikimedia, Flickr): Im Datenpool waren keine verifizierbaren URLs zu spezifischen Foto-Plattformen enthalten. Die Aufnahme konstruierter URLs wurde gemäß Regel 8 ("Keine konstruierten oder vermuteten Adressen") strikt vermieden.
+Geschlechtsunterschiede: Die Pflanze bildet zwittrige (bisexuelle) Blüten aus, wodurch eine morphologische Trennung zwischen männlichen und weiblichen Individuen entfällt.
+Works cited
+Grevillea robusta (silky oak) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.25866
+Grevillea robusta - Wikipedia, https://en.wikipedia.org/wiki/Grevillea_robusta
+Grevillea robusta - GBIF, https://www.gbif.org/taxon/3HCXT
+Grevillea - Australian Native Plants Society (Australia), https://anpsa.org.au/genera/grevillea/
+Grevillea robusta - Agroforestree Species profile, https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=921
+Grevillea robusta - Biodiversity at LUMS, https://biodiversity.lums.edu.pk/lums-biodiversity/plants/grevillea-robusta
+Silky oak Facts for Kids, https://kids.kiddle.co/Silky_oak
+Grevillea robusta Proteaceae A. Cunn. ex R. Br., https://apps.worldagroforestry.org/treedb/AFTPDFS/Grevillea_robusta.PDF
+Grevillea, silky oak, grevillea robusta: Medicinal Herbs / Philippine, https://www.stuartxchange.org/Grevillea.html
+Grevillea Tree Farming – Profits & Guide 2026 - Beyondforest, https://www.beyondforest.org/post/grevillea-tree-farming-in-kenya
+Why Grewia bicolor Is One of the Most Valuable Trees in Kenya's, https://www.facebook.com/africanplantresearchcentre/posts/why-grewia-bicolor-is-one-of-the-most-valuable-trees-in-kenyas-drylandsin-the-ar/1338546515122414/
+Silky-oak - Trees - Infonet Biovision, https://infonet-biovision.org/trees/silky-oak
+Grevillea robusta | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/species/kenya/grevillea-robusta
+11 Benefits Of Using Grevillea robusta(Silky Oak) To Human Beings, https://www.worldagroforestry.org/news/11-benefits-using-grevillea-robustasilky-oak-human-beings
+Grevillea Robusta: Durability Study | PDF - Scribd, https://it.scribd.com/doc/252789878/Fyp
+Grevillea robusta Proteaceae, https://apps.worldagroforestry.org/usefultrees/pdflib/Grevillea_robusta_ERI.pdf
+Structural Aspects of Cluster Root Development and their Possible, https://academic.oup.com/aob/article-pdf/77/5/443/7982480/770443.pdf
+Linking Development and Determinacy with Organic Acid Efflux from, https://pmc.ncbi.nlm.nih.gov/articles/PMC59308/
+Cluster roots - An underground adaptation for survival in extreme, https://www.researchgate.net/publication/11415611_Cluster_roots_-_An_underground_adaptation_for_survival_in_extreme_environments
+Understanding Cluster Roots in Plants | PDF - Scribd, https://www.scribd.com/document/852159733/Cluster-roots-A-curiosity-in-context
+DIPLOMARBEIT - phaidra@univie.ac., https://phaidra.univie.ac.at/api/object//o:1262309/download
+Tree effects on crop growth on a phosphorus-fixing Ferralsol, https://edepot.wur.nl/121293
+The redistribution of soil water by tree root systems - PubMed, https://pubmed.ncbi.nlm.nih.gov/28308420/
+The redistribution of soil water by tree root systems - ResearchGate, https://www.researchgate.net/publication/225462390_The_redistribution_of_soil_water_by_tree_root_systems
+Redistribution of soil water by lateral roots mediated by stem tissues, https://academic.oup.com/jxb/article-pdf/57/12/3283/1229815/erl085.pdf
+(PDF) Root quantity, activity and below-ground competition in, https://www.researchgate.net/publication/229053978_Root_quantity_activity_and_below-ground_competition_in_Grevillea_robusta_agroforestry_systems
+Hydraulic Redistribution - ResearchGate, https://www.researchgate.net/publication/43156132_Hydraulic_Redistribution
+NEWLY RECOGNIZED SMALL CYCLE WITHIN THE SOIL-PLANT, https://www.plant-ecology.com/EN/10.17521/cjpe.2007.0101
+Depressed hydraulic redistribution of roots more by stem refilling, https://pmc.ncbi.nlm.nih.gov/articles/PMC5838069/
+Hydraulic redistribution by hybrid poplars (Populus nigra x Populus, https://d-nb.info/1232382590/34
+Hydraulic Redistribution through the Root Systems of Senesced Plants, https://www.researchgate.net/publication/43156127_Hydraulic_Redistribution_through_the_Root_Systems_of_Senesced_Plants
+Reverse flow of sap in tree roots and downward siphoning of water, https://www.gov.uk/research-for-development-outputs/reverse-flow-of-sap-in-tree-roots-and-downward-siphoning-of-water-by-grevillea-robusta
+Tree roots: Conduits for deep recharge of soil water - ResearchGate, https://www.researchgate.net/publication/201996463_Tree_roots_Conduits_for_deep_recharge_of_soil_water
+Competition in tree row agroforestry systems. 1. Distribution and, https://www.researchgate.net/publication/226683089_Competition_in_tree_row_agroforestry_systems_1_Distribution_and_dynamics_of_fine_root_length_and_biomass
+Quantifying Agroforestry Yield Buffering Potential Under Climate, https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2021.609536/full
+Evidence of hydraulic redistribution and its water sharing, https://www.researchgate.net/publication/360924572_Evidence_of_hydraulic_redistribution_and_its_water_sharing_mechanism_in_a_karst_field_of_Southwest_China
+(PDF) Modelling trees' effect on maize in the Grevillea Robusta +, https://www.researchgate.net/publication/226781038_Modelling_trees'_effect_on_maize_in_the_Grevillea_Robusta_maize_system_in_Central_Kenya
+Long-term productivity of a Grevillea robusta-based overstorey, https://www.researchgate.net/publication/223250629_Long-term_productivity_of_a_Grevillea_robusta-based_overstorey_agroforestry_system_in_semi-arid_Kenya_II_Crop_growth_and_system_performance
+Quantifying Agroforestry Yield Buffering Potential Under Climate, https://publications.pik-potsdam.de/rest/items/item_25172_8/component/file_25595/content
+PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/view.aspx?id=3015
+Grevillea robusta - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Grevillea%20robusta
+Occurrence records from agroforestry, livestock and beekeeping, https://cloud.gbif.org/africa/resource?r=adedata
+Do Grevillea Poison Bees? - Jerry Coleby-Williams, https://jerry-coleby-williams.net/2025/06/18/do-grevillea-poison-bees/
+Grevillea robusta - a versatile and popular tree for farm forestry, https://winrock.org/grevillea-robusta-a-versatile-and-popular-tree-for-farm-forestry/
+(PDF) Assessing the contribution of Grevillea robusta trees to farm, https://www.researchgate.net/publication/329905670_Assessing_the_contribution_of_Grevillea_robusta_trees_to_farm-scale_carbon_fluxes_in_the_Central_Highlands_of_Kenya
+Beware the Australian Silk Oak - Tree Care Industry Magazine, https://tcimag.tcia.org/training/beware-the-australian-silk-oak/
+Tree Species Profile: The Silky Oak - Aussie Tree Care - 1300873300, https://aussietreecare.com.au/tree-species-profile-silky-oak/
+Contact dermatitis from Grevillea'Robyn Gordon' - ResearchGate, https://www.researchgate.net/publication/229610487_Contact_dermatitis_from_Grevillea'Robyn_Gordon'
+Grevilleas as Plant Allergens - Australian Native Plants Society, https://anpsa.org.au/APOL2009/mar09-s1.html
+Contact dermatitis from Grevillea 'Robyn Gordon' - PubMed, https://pubmed.ncbi.nlm.nih.gov/2946534/
+Indigenous multipurpose trees of Tanzania: uses and economic, https://openknowledge.fao.org/server/api/core/bitstreams/2608451e-4168-4df4-9c48-1f73c1f1359d/content
+SOIL AND NUTRIENT MANAGEMENT IN SUB ... - VTechWorks, https://vtechworks.lib.vt.edu/bitstream/handle/10919/66733/2231_Roy2001_Expert_proceedings.pdf?isAllowed=y&sequence=1
+Die Ahnen essen keinen Reis - ResearchGate, https://www.researchgate.net/profile/Jigal-Beez/publication/36449791_Die_Ahnen_essen_keinen_Reis_Vom_lokalen_Umgang_mit_einem_Bewasserungsprojekt_am_Fusse_des_Kilimanjaro_in_Tansania/links/655df3b53fa26f66f41f30d1/Die-Ahnen-essen-keinen-Reis-Vom-lokalen-Umgang-mit-einem-Bewaesserungsprojekt-am-Fusse-des-Kilimanjaro-in-Tansania.pdf
+Grevillea robusta A.Cunn. ex R.Br., Silk oak (Indian Subcontinent, https://identify.plantnet.org/k-indian-subcontinent/species/Grevillea%20robusta%20A.Cunn.%20ex%20R.Br./data
+Plant hunting v. 1. Africa, South and central ... - Papers Past | Books, https://paperspast.natlib.govt.nz/books/ALMA1927-9917501993502836a-Plant-hunting-v--1--Africa--Sout?page_number=10
+Chin ONG | Notts | School of Biosciences | Research profile, https://www.researchgate.net/profile/Chin-Ong-6

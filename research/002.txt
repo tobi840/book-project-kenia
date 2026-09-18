@@ -5,38 +5,48 @@ Die Etymologie des Namens ist gesichert: Der 1988 etablierte Gattungsname Afroca
 Die nachfolgende Tabelle dokumentiert die gesicherten Trivial- und Lokalnamen. Die etymologische Bedeutung der lokalen Namen ist in den Quellen größtenteils nicht belegt, mit Ausnahme der Sprache der Kikuyu. Überliefert ist, dass das in der Kikuyu-Sprache verwendete Präfix „Mũ-“ (wie in Mũthengera) Pflanzen und Lebewesen klassifiziert, denen ein innewohnender Geist (Mũndũ) zugeschrieben wird5.
 
 Sprache / Gemeinschaft
-Dokumentierter Name
-Status
+	Dokumentierter Name
+	Status
+
 Latein (Wissenschaftlich)
-Afrocarpus falcatus
-gesichert1
+	Afrocarpus falcatus
+	gesichert1
+
 Deutsch
-Gewöhnliches Afrogelbholz, Ostafrikanisches Gelbholz
-gesichert1
+	Gewöhnliches Afrogelbholz, Ostafrikanisches Gelbholz
+	gesichert1
+
 Englisch
-Yellowwood, Outeniqua yellowwood, African fern-pine, Bastard yellowwood
-gesichert4
+	Yellowwood, Outeniqua yellowwood, African fern-pine, Bastard yellowwood
+	gesichert4
+
 Swahili
-Podo, Mpodo
-gesichert10
+	Podo, Mpodo
+	gesichert10
+
 Kikuyu
-Muthengera (Mũthengera)
-gesichert5
+	Muthengera (Mũthengera)
+	gesichert5
+
 Maa (Maasai)
-Olpiripiri, Ormusanduku
-gesichert11
+	Olpiripiri, Ormusanduku
+	gesichert11
+
 Samburu
-Piripirindi
-gesichert8
+	Piripirindi
+	gesichert8
+
 Kamba
-Muvengea, Kitundu
-gesichert5
+	Muvengea, Kitundu
+	gesichert5
+
 Kipsigis
-Saptet
-gesichert12
+	Saptet
+	gesichert12
+
 Giriama
-unbekannt
-nicht belegt
+	unbekannt
+	nicht belegt
 2. Erscheinung und metrische Dimensionen
 Afrocarpus falcatus wächst als immergrüner, diözischer (getrenntgeschlechtlicher) Nadelbaum, der in seinem natürlichen Waldhabitat die obere Kronenschicht (Emergent-Schicht) erreicht4. Ein optischer Sexualdimorphismus ist in der vegetativen Struktur nicht vorhanden; weibliche und männliche Exemplare unterscheiden sich ausschließlich durch ihre Reproduktionsorgane4.
 Gesamtdimensionen und Rindenstruktur
@@ -49,50 +59,64 @@ Das Holz von Afrocarpus falcatus weist anatomisch undeutliche bis gänzlich fehl
 Die nachfolgende Tabelle fasst die gesicherten metrischen Dimensionen und physikalischen Kennzahlen des Holzes bei einem Feuchtigkeitsgehalt von 12 % zusammen:
 
 Merkmal
-Dimension / Maß
-Quelle
+	Dimension / Maß
+	Quelle
+
 Wuchshöhe
-bis zu 45 m (Maximal 60 m)
-4
+	bis zu 45 m (Maximal 60 m)
+	4
+
 Astfreier Stamm
-bis zu 25 m
-4
+	bis zu 25 m
+	4
+
 Stammdurchmesser
-bis zu 200 cm (Maximal 300 cm)
-4
+	bis zu 200 cm (Maximal 300 cm)
+	4
+
 Blattlänge
-10 bis 45 mm (durchschnittlich 20–40 mm)
-4
+	10 bis 45 mm (durchschnittlich 20–40 mm)
+	4
+
 Blattbreite
-1 bis 6 mm (durchschnittlich 2–4 mm)
-4
+	1 bis 6 mm (durchschnittlich 2–4 mm)
+	4
+
 Männlicher Zapfen
-5 bis 15 mm Länge, ca. 3 mm Breite
-4
+	5 bis 15 mm Länge, ca. 3 mm Breite
+	4
+
 Same (Fruchtkörper)
-12 bis 18 mm Länge
-4
+	12 bis 18 mm Länge
+	4
+
 Dicke der Samenschale
-1 bis 8 mm
-4
+	1 bis 8 mm
+	4
+
 Holzdichte (12 % Feuchte)
-430 bis 560 kg/m³ (Maximal 620 kg/m³)
-4
+	430 bis 560 kg/m³ (Maximal 620 kg/m³)
+	4
+
 Bruchmodul
-50 bis 68 N/mm² (Maximal 82 N/mm²)
-4
+	50 bis 68 N/mm² (Maximal 82 N/mm²)
+	4
+
 Elastizitätsmodul
-7.600 bis 8.900 N/mm²
-4
+	7.600 bis 8.900 N/mm²
+	4
+
 Druckfestigkeit (parallel)
-35 bis 42 N/mm²
-4
+	35 bis 42 N/mm²
+	4
+
 Janka-Härte (Seite)
-2.840 bis 3.740 N
-4
+	2.840 bis 3.740 N
+	4
+
 Schwindmaß (grün zu trocken)
-3,6 % radial, 5,4 % tangential
-4
+	3,6 % radial, 5,4 % tangential
+	4
 3. Der Mechanismus: Das Epimatium und die verzögerte Fortpflanzung
 Das definierende biologische Prinzip, das Afrocarpus falcatus in Abgrenzung zu den meisten anderen Nadelbäumen (wie etwa den Pinaceae) auszeichnet, ist die evolutionäre Aufgabe des holzigen Samenzapfens zugunsten eines modifizierten, fleischigen Ausbreitungsorgans, des sogenannten Epimatiums4.
 Endozoochorie als ökologische Kausalkette

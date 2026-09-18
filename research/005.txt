@@ -3,87 +3,107 @@ Botanisch-ökologisches Dossier: Tithonia diversifolia (Kenia)
 Die Nomenklatur der Art spiegelt sowohl ihre botanische Einordnung als auch ihre vielfältige regionale Wahrnehmung wider. Der Status der wissenschaftlichen Bezeichnungen ist gesichert.
 
 Name / Bezeichnung
-Sprache / Herkunft
-Bedeutung / Anmerkung
-Quelle
-Tithonia diversifolia (Hemsl.) A. Gray
-Latein (Wissenschaftlicher Name)
-Akzeptierter Name. Das Basionym lautet Mirasolia diversifolia Hemsl.
-1
-Tithonia
-Griechische Mythologie
-Der Gattungsname ist abgeleitet von Tithonus, einem mythologischen trojanischen Jüngling und Geliebten der Göttin Eos (Aurora). Er wurde später in eine Heuschrecke verwandelt.
-4
-diversifolia
-Latein
-Das Art-Epitheton bedeutet wörtlich "verschiedenblättrig" (differently shaped leaves), was auf die variable Ausprägung der Blattstruktur (Foliage) verweist.
-5
-Riesen-Tithonie
-Deutsch
-Deutscher Trivialname.
-1
-Mexican Sunflower, Tree marigold, Japanese sunflower, Bolivian sunflower
-Englisch
-Gängige Trivialnamen, die sich auf die Herkunft oder die Wuchsform beziehen.
-1
-Maua
-Swahili
-Allgemeiner Begriff für Blume, lokal als Sammelbezeichnung in Gebrauch.
-8
-Maruru, Kiruri
-Kikuyu
-Wörtliche Bedeutung ist unbekannt.
-9
-Maua makech, Akech, Maua madungo, Otech
-Luo
-Wörtliche Bedeutung ist unbekannt.
-8
-Maua amalulu, Amatwele
-Luhya
-Wörtliche Bedeutung ist unbekannt.
-8
-Ilaa, Mulaa
-Kamba
-Wörtliche Bedeutung ist unbekannt.
-9
-Unbekannt
-Maa, Samburu, Giriama
-In der untersuchten Literatur sind keine spezifischen lokalen Bezeichnungen dokumentiert.
+	Sprache / Herkunft
+	Bedeutung / Anmerkung
+	Quelle
 
+Tithonia diversifolia (Hemsl.) A. Gray
+	Latein (Wissenschaftlicher Name)
+	Akzeptierter Name. Das Basionym lautet Mirasolia diversifolia Hemsl.
+	1
+
+Tithonia
+	Griechische Mythologie
+	Der Gattungsname ist abgeleitet von Tithonus, einem mythologischen trojanischen Jüngling und Geliebten der Göttin Eos (Aurora). Er wurde später in eine Heuschrecke verwandelt.
+	4
+
+diversifolia
+	Latein
+	Das Art-Epitheton bedeutet wörtlich "verschiedenblättrig" (differently shaped leaves), was auf die variable Ausprägung der Blattstruktur (Foliage) verweist.
+	5
+
+Riesen-Tithonie
+	Deutsch
+	Deutscher Trivialname.
+	1
+
+Mexican Sunflower, Tree marigold, Japanese sunflower, Bolivian sunflower
+	Englisch
+	Gängige Trivialnamen, die sich auf die Herkunft oder die Wuchsform beziehen.
+	1
+
+Maua
+	Swahili
+	Allgemeiner Begriff für Blume, lokal als Sammelbezeichnung in Gebrauch.
+	8
+
+Maruru, Kiruri
+	Kikuyu
+	Wörtliche Bedeutung ist unbekannt.
+	9
+
+Maua makech, Akech, Maua madungo, Otech
+	Luo
+	Wörtliche Bedeutung ist unbekannt.
+	8
+
+Maua amalulu, Amatwele
+	Luhya
+	Wörtliche Bedeutung ist unbekannt.
+	8
+
+Ilaa, Mulaa
+	Kamba
+	Wörtliche Bedeutung ist unbekannt.
+	9
+
+Unbekannt
+	Maa, Samburu, Giriama
+	In der untersuchten Literatur sind keine spezifischen lokalen Bezeichnungen dokumentiert.
+	
 Die Zuordnung der lokalen Namen zu den Gemeinschaften der Kikuyu, Luo, Luhya und Kamba in West- und Zentralkenia ist durch agrarwissenschaftliche Berichte gesichert9.
 2. Erscheinung, mit Maßen
 Tithonia diversifolia ist ein schnellwüchsiger, ausdauernder (perennierender) Strauch, der in Form von verholzenden, teils sukkulenten Pflanzen auftritt5.
 
 Merkmal
-Dimension / Eigenschaft
-Quelle
+	Dimension / Eigenschaft
+	Quelle
+
 Höhe
-1.2 m bis 5.0 m. In agrarischen Heckenpflanzungen liegt der Durchschnitt bei 2.0 m bis 3.0 m. Ein Alltagsvergleich für die Maximalhöhe von 5.0 m entspricht der Höhe eines einstöckigen Gebäudes.
-5
+	1.2 m bis 5.0 m. In agrarischen Heckenpflanzungen liegt der Durchschnitt bei 2.0 m bis 3.0 m. Ein Alltagsvergleich für die Maximalhöhe von 5.0 m entspricht der Höhe eines einstöckigen Gebäudes.
+	5
+
 Breite (Krone)
-Bis zu 4.0 m Ausdehnung pro Pflanze.
-6
+	Bis zu 4.0 m Ausdehnung pro Pflanze.
+	6
+
 Gewicht
-Ein Gesamtgewicht wird in der Literatur nicht spezifiziert (unbekannt).
+	Ein Gesamtgewicht wird in der Literatur nicht spezifiziert (unbekannt).
+	
 
 Blattlänge
-10.0 cm bis 40.0 cm.
-5
+	10.0 cm bis 40.0 cm.
+	5
+
 Blattfläche
-45.0 cm² bis 182.25 cm² (Mesophyll). Der Blattflächenindex (Leaf Area Index) beträgt 4.5.
-6
+	45.0 cm² bis 182.25 cm² (Mesophyll). Der Blattflächenindex (Leaf Area Index) beträgt 4.5.
+	6
+
 Blütenstand (Durchmesser)
-5.0 cm bis 15.0 cm im Querschnitt.
-6
+	5.0 cm bis 15.0 cm im Querschnitt.
+	6
+
 Zungenblüten (Länge)
-4.0 cm bis 6.0 cm.
-11
+	4.0 cm bis 6.0 cm.
+	11
+
 Röhrenblüten (Durchmesser)
-Etwa 3.0 cm im Zentrum.
-5
+	Etwa 3.0 cm im Zentrum.
+	5
+
 Samenlänge
-0.5 cm.
-6
+	0.5 cm.
+	6
 Die Stängel der Art wachsen aufrecht und weisen an der Basis eine holzige Struktur auf5. Im Verlauf des Wachstums ist es gesichert, dass die Pflanze ihre unteren Blätter abwirft. Dieser altersbedingte Verlust führt zu einer Wuchsform, die morphologisch als "leggy" (hochbeinig oder kahl im unteren Bereich) beschrieben wird6. Die Stängel sind von hoher Brüchigkeit geprägt, besitzen jedoch die Eigenschaft, an Berührungspunkten mit dem Boden neue Wurzeln auszubilden6.
 Die Blätter sind wechselständig (alternierend) an den Stängeln angeordnet und weisen einen gezahnten (serraten) Rand sowie eine spitze (akute) Form auf5. Eine gesicherte Altersdifferenzierung zeigt sich in der Blattstruktur: Ältere und größere Blätter sind tiefer gelappt als jüngere6. Ein einzelnes Exemplar trägt Blätter mit unterschiedlichen Ausprägungen, typischerweise mit 3 bis 7 Lappen5. Die Blattoberseite besitzt eine dunkelgrüne, raue Textur, während die Unterseite von Haaren bedeckt ist (tomentös/hirsut), was ihr ein graugrünes Erscheinungsbild verleiht5. Die parallelen Blattadern treten deutlich hervor11.
 Die Fortpflanzungsorgane ordnen sich in gänseblümchen- bis sonnenblumenartigen Blütenständen (Capitulum) an6. Diese bestehen aus leuchtend gelben Zungenblüten und einem braunen bis schwarzen Zentrum aus Röhrenblüten5. Die Blüten verströmen einen honigartigen Duft6. Es existieren keine Geschlechtsunterschiede, da die Pflanze zwittrig ist. Die Früchte reifen als trockene, nicht aufspringende Achänen heran, die braune und leichte Samen enthalten6.
@@ -121,23 +141,28 @@ Weitwinkel bis Normalbrennweite (26-60 mm / 45 mm): Diese Linsen dienen der Erfa
 8. Links zum Weiterlesen und Sehen
 
 Quellestyp
-Beschreibung
-URL
+	Beschreibung
+	URL
+
 Fachliche Quelle (CABI)
-Das CABI Compendium liefert detaillierte Informationen über den Status der Art als invasives Unkraut und referenziert historische Publikationen.
-https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.5402027
+	Das CABI Compendium liefert detaillierte Informationen über den Status der Art als invasives Unkraut und referenziert historische Publikationen.
+	https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.5402027
+
 Fachliche Quelle (POWO)
-Die Datenbank von Kew Gardens listet das gesamte Taxon, die Erstbeschreiber und Synonyme wie Mirasolia diversifolia auf.
-https://powo.science.kew.org/37
+	Die Datenbank von Kew Gardens listet das gesamte Taxon, die Erstbeschreiber und Synonyme wie Mirasolia diversifolia auf.
+	https://powo.science.kew.org/37
+
 Fachliche Quelle (PROTA)
-Plant Resources of Tropical Africa dokumentiert die Erfassung der Pflanze in Beentjes "Kenya trees, shrubs and lianas".
-https://prota.prota4u.org/protav8.asp?g=pe&p=Tithonia%20diversifolia44
+	Plant Resources of Tropical Africa dokumentiert die Erfassung der Pflanze in Beentjes "Kenya trees, shrubs and lianas".
+	https://prota.prota4u.org/protav8.asp?g=pe&p=Tithonia%20diversifolia44
+
 Verbreitungskarte (GBIF)
-Die Global Biodiversity Information Facility verzeichnet historische Funddaten, inklusive des Typusbelegs von Bourgeau aus dem Jahr 1866.
-https://www.gbif.org/taxon/5786336
+	Die Global Biodiversity Information Facility verzeichnet historische Funddaten, inklusive des Typusbelegs von Bourgeau aus dem Jahr 1866.
+	https://www.gbif.org/taxon/5786336
+
 Fachartikel (Agroforst)
-Eine der grundlegenden Studien zu den agronomischen Hürden (Labor Constraints) und der Nährstoffabgabe durch Tithonia in afrikanischen Kleinbauern-Systemen.
-https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.692981/full31
+	Eine der grundlegenden Studien zu den agronomischen Hürden (Labor Constraints) und der Nährstoffabgabe durch Tithonia in afrikanischen Kleinbauern-Systemen.
+	https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.692981/full31
 9. Visuelle Beschreibung für eine Illustration
 The Tithonia diversifolia is a towering, bushy shrub reaching up to five meters, characterized by upright, slightly woody stems that often appear bare near the base due to natural leaf drop. The foliage is coarse and deeply lobed with three to seven distinct serrated segments, displaying a dark, textured green on the upper surface and a fuzzy, grayish-green underneath. Crowning the terminal branches are large, brilliant yellow capitulum flowers measuring up to 15 centimeters across, with radiating bright petals encircling a tightly packed, dark brown to black central disc.
 Detail Suggestions:
@@ -191,6 +216,7 @@ Tithonia - Plant Atlas - University of South Florida, https://florida.plantatlas
 Tithonia diversifolia hemsl a gray The plant was named after the, https://blythedalevillage.co.za/tithonia-diversifolia-hemsl-a-gray/
 Tithonia diversifolia - GBIF, https://www.gbif.org/taxon/57863
 Tithonia diversifolia | Plantamor Database, https://plantamor.com/species/profile/tithonia/diversifolia
+Tithonia diversifolia: Variations in leaf nutrient concentration and, https://www.researchgate.net/publication/226034806_Tithonia_diversifolia_Variations_in_leaf_nutrient_concentration_and_implications_for_biomass_transfer
 Effect of Soil Supplementation with Fortified Tithonia Mulch and, http://www.aensiweb.net/AENSIWEB/aejsa/aejsa/2008/264-270.pdf
 Using Tithonia diversifolia (Hemsl.) Gray in a Short Fallow System to, https://pdfs.semanticscholar.org/5f85/64a84dc93dc8b838399a054930cdf3bb4947.pdf
 Researching Tithonia and other Daisies: As fallow species in, https://www.cabidigitallibrary.org/doi/full/10.1079/9781800620117.0039

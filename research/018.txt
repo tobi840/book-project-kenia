@@ -1,0 +1,285 @@
+Fachbericht: Strukturiertes Rohmaterial zu Balanites aegyptiaca
+1. Namen und Etymologie
+Der wissenschaftliche und taxonomisch akzeptierte Name der Art lautet Balanites aegyptiaca (L.) Delile (gesichert)1. Die botanische Nomenklatur weist eine detaillierte Historie auf. Carl von Linné ordnete die Pflanze in seiner Erstbeschreibung im Jahr 1753 ursprünglich unter dem Basionym Ximenia aegyptiaca ein (gesichert)1. Im Jahr 1813 separierte der französische Botaniker Alire Raffeneau-Delile die Art und transferierte sie in die von ihm neu aufgestellte Gattung Balanites (gesichert)1. Ein zwischenzeitlich von Michel Adanson vorgeschlagener Gattungsname lautete Agialid, welcher sich jedoch nicht durchsetzte (gesichert)1.
+Die Etymologie des Gattungsnamens Balanites leitet sich aus dem griechischen Wort für „Eichel“ ab (gesichert)3. Dies stellt eine direkte deskriptive Referenz an die eichelförmige Morphologie der Frucht dar (gesichert)3. Das Artepitheton aegyptiaca verweist auf die geografische Herkunft der Typus-Exemplare, die aus Ägypten stammten (gesichert)3.
+Im deutschen Sprachgebrauch ist die Pflanze als Wüstendattel etabliert (gesichert)5. Im englischen Schrifttum existiert eine breite Synonymik: Desert date, Soap berry tree, Thorn tree, Egyptian myrobalan, Egyptian balsam und Zachum oil tree (gesichert)1.
+Die lokale Verankerung der Art in Kenia und den angrenzenden Sprachräumen spiegelt sich in einer Vielzahl dokumentierter Vernakularnamen wider. Wörtliche Übersetzungen oder tiefere etymologische Herleitungen dieser lokalen Bezeichnungen sind im vorliegenden Material nicht belegt (gesichert).
+
+Sprache/Gemeinschaft
+	Lokaler Name
+	Belegstatus
+	Quellen
+
+Swahili
+	mchunju
+	gesichert
+	1
+
+Maa (Maasai)
+	Olamuriaka
+	gesichert
+	9
+
+Kikuyu
+	'Mukawa
+	gesichert
+	9
+
+Kamba
+	Mukawa
+	gesichert
+	9
+
+Samburu
+	unbekannt
+	vermutet (kein Beleg)
+	-
+
+Giriama
+	unbekannt (Bezug zur Aststruktur postuliert)
+	vermutet
+	10
+
+Marakwet
+	Ng'oswet
+	gesichert
+	11
+
+Borana (Boran)
+	baddan, Dagams
+	gesichert
+	9
+
+Luo
+	Ochuoga
+	gesichert
+	9
+
+Nandi / Kipsigis
+	Lelgetwa, Legetetwet
+	gesichert
+	9
+
+Hausa
+	aduwa
+	gesichert
+	1
+
+Tamasheq (Tuareg)
+	taboraq
+	gesichert
+	1
+
+Amharisch
+	bedena
+	gesichert
+	1
+
+Arabisch (Sudan/Ägypten)
+	lalob, hidjihi, inteishit, heglig (hijlij)
+	gesichert
+	1
+2. Erscheinung, mit Maßen
+Balanites aegyptiaca ist ein stark verzweigter, dorniger und xerophytischer Strauch oder Baum (gesichert)1. Die Art weist keine sekundären Geschlechtsmerkmale auf, da die Blüten zwittrig (hermaphroditisch) sind (gesichert)1. Altersstufen lassen sich phänotypisch primär an der Rindenstruktur und am Blühbeginn differenzieren; die reproduktive Phase beginnt erst ab einem Baumalter von 5 bis 7 Jahren, während das Ertragsmaximum bei 15 bis 25 Jahren erreicht wird (gesichert)4. Die maximale Lebensdauer beträgt mindestens 100 Jahre (gesichert)14.
+Die morphologischen Dimensionen und Charakteristika sind in der folgenden Übersicht zusammengefasst. Wo möglich, wurden die metrischen Angaben rechnerisch in alltägliche Größenordnungen übersetzt.
+
+Merkmal
+	Dimension / Spezifikation
+	Alltagsvergleich (rechnerisch/belegt)
+	Status & Quelle
+
+Wuchshöhe
+	Bis 10 m, in Einzelfällen 12 m bis 17 m.
+	10 m entsprechen etwa der Höhe eines dreistöckigen Wohnhauses.
+	gesichert1
+
+Stammdurchmesser
+	30 cm bis 45 cm.
+	Entspricht etwa dem Durchmesser eines großen Autoreifens.
+	gesichert14
+
+Stamm- und Rindenstruktur
+	Kurz, basal verzweigt. Borke dunkelbraun bis grau, tief längsgefurcht mit rauen korkartigen Schuppen. Junge Äste glatt und grün.
+	-
+	gesichert1
+
+Dornen
+	Länge bis zu 8 cm. Gerade, grün oder gelb, spiralförmig an den Ästen angeordnet.
+	8 cm entsprechen der Länge eines durchschnittlichen menschlichen Zeigefingers.
+	gesichert1
+
+Blätter (allgemein)
+	Spiralförmig angeordnet, bifoliolat (zwei Teilblättchen pro Stiel). Dunkelgrün, ledrig, anfangs fein behaart.
+	-
+	gesichert1
+
+Blattstiele (Petiolen)
+	0,5 mm bis 4,0 mm.
+	-
+	gesichert14
+
+Teilblättchen (Foliolen)
+	Länge 2,5 cm bis 6,0 cm. Asymmetrisch verkehrteiförmig (obovat).
+	-
+	gesichert15
+
+Blüten (Infloreszenz)
+	8 mm bis 14 mm Durchmesser. Grünlich-gelb, 5 Kronblätter, radiärsymmetrisch. Bündel von 3 bis 5 Blüten.
+	-
+	gesichert1
+
+Blütenstiele (Pedizellen)
+	Unter 10 mm, in Einzelfällen (Sambia/Simbabwe) bis 15 mm. Grau und flaumig.
+	-
+	gesichert1
+
+Frucht (Morphologie)
+	Länge 2,5 cm bis 7,0 cm. Durchmesser 1,5 cm bis 4,0 cm. Ellipsoide Steinfrucht. Grün und filzig (jung), gelb bis hellbraun und kahl (reif).
+	"Pflaumengröße" laut botanischer Quelle.
+	gesichert1
+
+Fruchtgewicht
+	6 g bis 15 g pro Frucht.
+	-
+	gesichert14
+
+Samen / Steinkern
+	Länge 1,5 cm bis 3,0 cm. Hellbraun, faserig, extrem hart. Macht 50 % bis 60 % der Fruchtmasse aus.
+	-
+	gesichert1
+
+Samenanzahl pro kg
+	500 bis 1500 trockene, gereinigte Samen pro 1 kg Masse.
+	-
+	gesichert15
+
+Wurzelsystem
+	Tiefe Pfahlwurzel (mehrere Meter) und stark strahlenförmig auslaufende Lateralwurzeln (hemisphärische Masse).
+	-
+	gesichert14
+3. Der Mechanismus: Molluskizide Saponine zur Bilharziose-Kontrolle
+Das herausragende phytochemische Prinzip von Balanites aegyptiaca, das in der tropenmedizinischen Forschung von enormer Relevanz ist, ist die Produktion potenter Molluskizide (schneckenabtötender Substanzen) auf der chemischen Basis von Steroid-Saponinen (gesichert)4. Dieser Mechanismus unterbricht den Übertragungsweg der Schistosomiasis (Bilharziose), indem er die aquatischen Zwischenwirte der Parasiten eliminiert.
+Die wasserlöslichen Extrakte, die aus der Stammrinde, den Wurzeln, dem Frucht-Mesokarp und den Samen extrahiert werden können, weisen eine extrem hohe Toxizität für Süßwasserschnecken auf, insbesondere für Arten der Gattungen Biomphalaria (wie Biomphalaria pfeifferi) und Bulinus (wie Bulinus globosus) (gesichert)1.
+Die ökologisch-epidemiologische Kausalkette
+Der Mechanismus entfaltet sich in folgender chronologischer Kette:
+Einbringung: Pflanzenteile von Balanites aegyptiaca (insbesondere Fruchthüllen, Samen oder Rindenemulsionen) fallen natürlich oder werden anthropogen gezielt in stehende Gewässer eingebracht (gesichert)4.
+Diffusion: Die in den Geweben konzentrierten wasserlöslichen Steroid-Saponine (wie Balanitin) diffundieren in das wässrige Milieu (gesichert)4.
+Zelluläre Zerstörung: Aufgrund ihrer amphiphilen (oberflächenaktiven) Struktur binden die Saponine an die Sterole in den Zellmembranen der Schnecken, verändern deren Permeabilität drastisch und führen zur zellulären Lysis im respiratorischen Epithel und in den weichen Geweben, was den Tod des Organismus zur Folge hat (abgeleitet aus der chemischen Natur von Saponinen und gesichert durch empirische Toxizitätstests)4.
+Entwicklungsstopp der Parasiten: Ohne die lebenden Schnecken als obligatorische Zwischenwirte können sich die Wimpernlarven (Mirazidien) der Schistosomen nicht zu den infektiösen Zerkarien weiterentwickeln (gesichert)4.
+Schutz des Endwirtes: Die Infektionskette zum Endwirt Mensch, der normalerweise beim Kontakt mit kontaminiertem Wasser von Zerkarien penetriert wird, reißt ab (gesichert)4.
+Belegzahlen und Wirkstoffkonzentrationen
+Experimentelle Studien belegen die Toxizität der Rohextrakte und isolierten Saponine mit konkreten Messwerten:
+Ein Rohextrakt aus der Stammrinde induzierte bei einer Konzentration von 10 mg/L eine 100-prozentige Mortalität für fast alle untersuchten Schneckenarten, mit der einzigen Ausnahme der adulten Form von Biomphalaria pfeifferi (gesichert)19.
+Für die adulte Form von Bulinus globosus wurde eine mittlere letale Dosis (LD50) von 6,4 mg/L gemessen (gesichert)19.
+In einem Bioassay mit Samenglykosiden ergaben Konzentrationen von 0,125 %, 0,250 %, 0,500 % und 1,00 % Mortalitätsraten von 30,0 %, 53,3 %, 73,0 % und 73,3 %. Die Letalkonzentration (LC50) lag hier bei 0,256 % (gesichert)23.
+Biochemische Spezifikation und konkurrierende Mechanismen
+Die chemische Analyse (GC-MS und NMR-Spektroskopie) der Saponine von Balanites aegyptiaca identifizierte spezifische Diosgenyl-Saponine (gesichert)19. Der Wirkstoffkomplex umfasst Substanzen, die in der Literatur als Balanitin-1, -2, -3 sowie Balanitin-6 und -7 klassifiziert werden (gesichert)20.
+Balanitin-1: Molekulargewicht 1030 (gesichert)21.
+Balanitin-2: Molekulargewicht 1016 (gesichert)21.
+Balanitin-3: Molekulargewicht 884 (gesichert)21. Das Aglykon (der Nicht-Zucker-Anteil des Saponins) wurde in diesen Verbindungen als Diosgenin oder Yamogenin identifiziert, an das Zuckerketten aus Rhamnose und Glucose gebunden sind (gesichert)21.
+Gibt es alternative oder konkurrierende Erklärungen für die Toxizität? Eine Struktur-Aktivitäts-Studie verglich die Steroid-Saponine aus Balanites aegyptiaca mit Triterpenoid-Saponinen (etwa aus Zygophyllum coccineum). Es zeigte sich, dass letztere inaktiv waren. Die molluskizide Wirkung ist demnach kein allgemeiner Saponin-Effekt, sondern strukturell strikt an die spezifischen Steroid-Saponine (Diosgenyl-Derivate) gebunden (gesichert)23.
+Bemerkenswert an diesem Mechanismus ist seine Selektivität: Das Gift greift Schnecken, Wasserflöhe (Wirte des Guineawurms) und Fische an, beeinflusst Säugetiere jedoch nicht systemisch. Das behandelte Wasser ist für Menschen trinkbar, und durch das Saponin betäubte Fische bleiben für den Verzehr unbedenklich (gesichert)4. Dennoch vermerken Langzeitbeobachtungen aus der Côte d'Ivoire, dass Fischer, die den Extrakt kontinuierlich über 5 bis 6 Jahre applizieren, Schädigungen des Sehvermögens erleiden (gesichert)4.
+4. Ökologie und Verhalten
+Balanites aegyptiaca weist eine ungewöhnlich weite ökologische Amplitude auf und ist an die harschen Bedingungen der Trockengebiete Afrikas und des Nahen Ostens adaptiert (gesichert)1.
+Lebensraum
+Die Art gedeiht in ariden bis subhumiden Klimata mit einer jährlichen Niederschlagsmenge von 250 mm bis 1200 mm und mittleren Jahrestemperaturen zwischen 20 °C und 30 °C (gesichert)4. Das Höhenspektrum reicht von Meereshöhe bis zu 2000 m (gesichert)4. Im Rift Valley Kenias wächst der Baum auf einer Vielzahl von Bodentypen, die von reinem Sand bis zu schweren Tonböden (Black Cotton Soils) reichen (gesichert)1. Die maximale Vegetationsentwicklung erreicht das Individuum jedoch auf flachen, alluvialen Schwemmböden oder in Flusstälern mit tiefgründigem, sandigem Lehm und Zugang zu unterirdischem Wasser (gesichert)4. Die Art toleriert saisonale Überflutungen, Buschfeuer und Weidetätigkeit (gesichert)1.
+Saisonales Muster im September und Oktober
+Der Zeitraum vom 24. September bis 12. Oktober markiert in Kenia klimatisch das Ende der langen Trockenzeit und den beginnenden Umschwung zur kleinen Regenzeit. Das phänologische Verhalten von Balanites aegyptiaca zu diesem spezifischen Zeitpunkt ist für das Ökosystem entscheidend: Im Gegensatz zu vielen umgebenden Arten erreicht die Wüstendattel genau auf dem Höhepunkt der Trockenzeit ihren Frucht- und Laubhöhepunkt (gesichert)4. Das bedeutet, dass sie frisches, grünes Laub und reife, saftige Früchte zu einer Zeit anbietet, in der die Nahrungs- und Wasserressourcen in der Savanne extrem limitiert sind. Dieses asaisonale Verhalten fungiert als ökologischer Ankerpunkt.
+Fortpflanzung und abhängige Arten
+Da das Sämlingsstadium stark lichtbedürftig ist, benötigt der Baum für die Naturverjüngung offene Savannen oder lichte Waldränder; im Schatten geht er zugrunde (gesichert)4. Die unscheinbaren, duftenden Blüten werden durch Insekten bestäubt (gesichert)4. Abhängigkeiten und Interaktionen mit der Fauna sind divers:
+Bestäuber und Insekten: Die Blüten produzieren reichlich Nektar, der primär von der Rossameise (Camponotus sericeus) gesammelt wird (gesichert)1. Die Raupen des afrikanischen Schmetterlings Bunaea alcinoe (Cabbage tree emperor moth) fressen das Laub und verursachen teils vollständige Entlaubungen (gesichert)1.
+Vögel und frugivore Säugetiere: Sie verzehren das Fruchtfleisch und scheiden den harten Samen aus oder würgen ihn hoch (Endochorie), was zur Ausbreitung der Pflanze führt (gesichert)4.
+Nagetiere: Die Afrikanische Grasratte (Arvicanthis niloticus) klettert während der Trockenzeit explizit auf die Bäume, um die wasserhaltigen Früchte von Balanites aegyptiaca zu erreichen (gesichert)6.
+Raubtiere/Allesfresser: Der Honigdachs (Mellivora capensis) gräbt nach den Wurzeln des Baumes und frisst die herabgefallenen Beeren (gesichert)26.
+Pflanzenfresser: Antilopen wie Heuglins Gazelle (Eudorcas tilonura) scharren in der Trockenzeit den Boden unter dem schattenspendenden Baum auf, um kühle Ruheplätze im Sand zu generieren (gesichert)27.
+5. Menschen und Kultur in Kenia
+Die Nutzungsdimensionen der Wüstendattel durch den Menschen sind tief in den traditionellen Gesellschaften Kenias verwurzelt.
+Nahrung (Famine Food)
+Die Frucht ist essbar, jedoch stark bitter. Sie wird vor allem in ariden Regionen als sogenanntes Hungernahrungsmittel ("famine food") geschätzt, da der Baum auch in schweren Dürren fruchtet (gesichert)1. Die jungen Blätter und Triebe werden gekocht oder zerstoßen, in Fett angebraten und als Gemüse konsumiert (gesichert)4. Der ölhaltige Samen wird intensiv abgekocht, um die toxischen und bitteren Saponine auszuwaschen, und anschließend als Brei mit Sorghumhirse vermischt (gesichert)1.
+Medizin und Pharmakologie
+In Ostafrika und spezifisch in Kenia nutzen Gemeinschaften wie die Kikuyu, Kamba und Borana die Pflanze vielseitig:
+Ein Wurzeldekokt wird traditionell als Brechmittel (Emetikum) verwendet (gesichert)4.
+In Suppen aufgekochte Wurzeln werden gegen Ödeme und Magenschmerzen eingenommen (gesichert)4.
+Rindeninfusionen dienen der Behandlung von Sodbrennen und teilweise Malaria (gesichert)4.
+Das Holzharz wird, vermischt mit Maismehlbrei, zur Linderung von Schmerzen im Brustkorb appliziert (gesichert)4.
+In modernen In-vitro-Studien zeigten wässrige und ethanolische Extrakte aus der Rinde signifikante antioxidative Eigenschaften (DPPH-Radikalfängereigenschaften von 67,39 % bei 250 µg/ml) und werden auf ihr Potenzial zur Behandlung der benignen Prostatahyperplasie (BPH) untersucht, da sie eine bis zu 166,7%ige Relaxation der Prostata-Glatttmuskulatur bei Laborratten bewirkten (gesichert)28.
+Material und Handel
+Das Holz der Wüstendattel ist blassgelb, hart und langlebig (gesichert)4. Trotz des oft kurzen und gefurchten Stammes, der die industrielle Verarbeitung in Sägewerken erschwert, lässt sich das Holz lokal sehr gut hobeln und drechseln. Es wird für Werkzeuggriffe, landwirtschaftliche Joche, Mörser, Stößel, Hocker und Kämme verwendet (gesichert)4. Es produziert ein extrem hochwertiges Brennholz (Brennwert 4600 kcal/kg), das bei der Verbrennung nahezu rauchfrei bleibt, was es für Feuerstellen im Inneren von Hütten prädestiniert (gesichert)3. Die harte Samenschale wird auf ihr Potenzial zur Herstellung von industrieller Aktivkohle untersucht (vermutet)4.
+Rolle in Mythos und Kultur
+Die leeren Samenkerne werden im Sudan und in Ostafrika zu Halsketten, Gebetsketten (Rosaries) verarbeitet oder als Spielsteine für das traditionelle Brettspiel 'Warri' genutzt (gesichert)3. In einem breiteren historischen und religionsgeschichtlichen Kontext wird Balanites aegyptiaca oft als Quelle für das legendäre „Zachum-Öl“ identifiziert und mit dem in der Bibel erwähnten „Balsam von Gilead“ in Verbindung gebracht (überliefert)30. In Ägypten ist die rituelle Nutzung des Baumes durch archäologische Funde von Fruchtsteinen als Votivgaben in den Gräbern der 12. Dynastie (vor mehr als 4000 Jahren) belegt (gesichert)1.
+Schutzstatus und Bestand
+Auf der globalen Roten Liste der IUCN wird Balanites aegyptiaca in der Kategorie "Least Concern" (Nicht gefährdet) geführt (gesichert)32. Konkrete Bestandszahlen für Kenia, versehen mit einer Jahresangabe, lassen sich aus den vorliegenden Daten nicht rekonstruieren. Konflikte mit Menschen sind minimal; die Art wird im Gegenteil aktiv gemanagt, in Agroforstsysteme integriert und aufgrund ihrer massiven Dornen als lebender Schutzzaun (Kraal) für Viehhürden angepflanzt (gesichert)3.
+6. Wissenschaftsgeschichte
+Die Taxonomie und Erforschung der Wüstendattel ist durch eine lange chronologische Reihe prominenter Akteure gekennzeichnet.
+1592: Der venezianische Arzt und Botaniker Prospero Alpini (Alpinus) publizierte die erste wissenschaftliche europäische Beschreibung und Illustration des Baumes unter dem Namen 'agihalid' (gesichert)1.
+1753: Der schwedische Systematiker Carl von Linné bearbeitete Material aus Ägypten und reihte die Spezies in der Erstausgabe seiner Species Plantarum als Ximenia aegyptiaca ein (gesichert)1.
+Spätes 18. Jahrhundert: Der französische Botaniker Michel Adanson transferierte die Pflanze temporär in eine eigene Gattung Agialid (gesichert)1. Ein Schüler Linnés, Pehr (Peter) Forsskål, verzeichnete in dieser Zeit ebenfalls Öle der Pflanze im Rahmen seiner historischen Forschungen (gesichert)30.
+1813: Der französische Botaniker Alire Raffeneau-Delile, der als Wissenschaftler an Napoleon Bonapartes Ägypten-Expedition teilnahm, lieferte im Werk Description de l'Égypte die endgültige Neukombination als Balanites aegyptiaca, wodurch die eigenständige Gattung Balanites begründet wurde (gesichert)1.
+1933: In der Tropenmedizin publizierte R.G. Archibald im Sudan eine bahnbrechende Studie, in der er die traditionelle Nutzung der Früchte als Fischgift untersuchte und erstmals wissenschaftlich belegte, dass der Baum zur Bekämpfung der Schistosomiasis eingesetzt werden kann (gesichert)22.
+2001: Der Botaniker Martin Sands veröffentlichte eine umfassende taxonomische Revision der Gattung Balanites, die die starken morphologischen Variationen (Polymorphismen) von Balanites aegyptiaca in Blattform und Dornenlänge klärte und die Einteilung in Unterarten standardisierte (gesichert)2.
+7. Fotografie
+Für die fotografische Felddokumentation der Wüstendattel auf der geplanten Route im Rift Valley (Lake Naivasha, Lake Nakuru, Lake Baringo und Hell's Gate National Park) gelten spezifische biophysikalische und technische Parameter.
+Die Bäume wachsen meist als solitäre Landschaftselemente auf den alluvialen Ebenen in Seenähe oder stehen vereinzelt an den Rändern der Abbruchkanten (gesichert)4. Da die tief gefurchte graue Rinde in der grellen äquatorialen Mittagssonne harte, unstrukturierte Schatten wirft und die Krone lichtdurchlässig ist, sind die Tageszeiten unmittelbar in den ersten zwei Stunden nach Sonnenaufgang und vor Sonnenuntergang am vielversprechendsten (vermutet).
+Ende September und Anfang Oktober trägt der Baum reife, gelbe Früchte, weshalb Ansitzfotografie an diesem Baum eine hohe Ereignisdichte verspricht (gesichert)4. Zu erwartendes Verhalten umfasst den Anflug fruchtfressender Vögel, das Klettern von Grasratten im Geäst und das Suchen von Ruheplätzen durch Gazellen im Schatten (gesichert)6.
+Objektiveinsatz und Verschlusszeiten:
+150 bis 600 mm Teleobjektiv: Ideal, um Vögel in der eher lichten Krone oder sich am Boden nähernde Raubtiere (wie den Honigdachs) bei großer Fluchtdistanz freizustellen. Um kleine Singvögel im An- und Abflug zwischen den scharfen Dornen einzufrieren, sind kurze Verschlusszeiten im Bereich von 1/1250 s bis 1/2000 s zwingend erforderlich (vermutet).
+100 bis 400 mm Teleobjektiv: Geeignet für ruhende Gazellen unter dem Baum. Bei minimaler Bewegung genügen Verschlusszeiten um 1/250 s bis 1/500 s (vermutet).
+45 mm Objektiv: Vorgesehen für Detailaufnahmen der 8 mm bis 14 mm kleinen, sternförmigen Blüten und der korkartigen Rinde. Ein Stativ ist für die nötige Schärfentiefe ratsam; Verschlusszeiten können hier bei 1/100 s liegen, sofern kein Wind die Blätter bewegt (vermutet).
+26 bis 60 mm Standard/Weitwinkel: Für Habitataufnahmen im Rift Valley. Ein typischer Kompositionsfehler in der Savanne ist es, den nur 10 Meter hohen, aber stämmigen Baum ohne Maßstab (z. B. ein Tier, ein Termitenhügel) abzulichten, wodurch er auf dem Foto wie ein kleiner Busch wirkt (vermutet).
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+https://prota.prota4u.org/protav8.asp?g=pe&p=Balanites%20aegyptiaca – Die Datenbank Plant Resources of Tropical Africa (PROTA) liefert einen exzellenten agrarwissenschaftlichen und ethno-botanischen Überblick.
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:813589-1 – Plants of the World Online der Royal Botanic Gardens (Kew) bietet gesicherte taxonomische Daten und globale Verbreitungsgebiete.
+https://apps.worldagroforestry.org/treedb/AFTPDFS/Balanites_aegyptiaca.PDF – Ein extrem dichtes, wissenschaftliches PDF-Profil des World Agroforestry Centre (ICRAF) mit detaillierten biophysikalischen und forstwirtschaftlichen Eckdaten.
+Fotos und Verbreitungskarte:
+https://www.inaturalist.org/taxa/342713-Balanites-aegyptiaca – Die Citizen-Science-Plattform iNaturalist enthält hunderte georeferenzierte Feldfotos von Rinde, Dornen, Frucht und Blättern in situ.
+https://www.gbif.org/species/5421115 – Die Global Biodiversity Information Facility (GBIF) zeigt die exakte geografische Streuung von Herbarium-Belegen auf einer interaktiven Weltkarte.
+(Hinweis: Für diese Art waren im Rohmaterial keine funktionierenden Links zu Vogelruf-Datenbanken (xeno-canto, Macaulay Library) enthalten, was bei einer Pflanze konsistent ist. Ein direkter URL-Link zur IUCN Red List wurde im Rohmaterial nicht aufgeführt, jedoch war die Gefährdungskategorie textlich belegt.)
+9. Visuelle Beschreibung für eine Illustration
+Balanites aegyptiaca forms a deeply rooted, rounded tree reaching up to 10 meters, characterized by a somewhat open, tangly crown that permits light to filter through. The short, fluted trunk branches low to the earth and is armored in deeply fissured, greyish-brown bark that scales away in rugged patches to reveal smooth, yellow-green layers underneath. The branches zig-zag erratically and are fiercely guarded by straight, rigid, green to yellow spines up to eight centimeters long, which protrude in a spiral formation. Springing directly from the bases of these formidable spines are small, dark green, leathery leaves comprised of two asymmetrical leaflets.
+Frucht: A cross-section of the date-like drupe, displaying the brittle, pale brown outer rind, the sticky, greenish-brown mesocarp, and the exceptionally hard, fibrous, light brown stone filling the center.
+Samenkapsel/Blüte: A tight, dense cluster of small, star-shaped, five-petaled greenish-yellow flowers blooming directly from a node where a massive green spine meets the branch.
+Rindenstruktur: A detailed macro rendering of the heavily ridged, corky bark, focusing on the deep vertical fissures and the contrasting smooth yellow-green patches where old scales have fallen off.
+Kulturelle Vignette: A heavily worn, traditionally carved wooden mortar and pestle, fashioned from the pale yellow, highly durable wood of the tree, resting on cracked earth beside a small pile of harvested yellow fruits.
+10. Was du nicht belegen konntest
+Die folgenden, im Briefing explizit angefragten Informationen ließen sich aus dem zur Verfügung stehenden Quellenmaterial nicht durch belastbare Fakten belegen:
+Name bei den Samburu: In den Datenquellen war der Name in der Sprache der Samburu nicht aufgeführt.
+Name bei den Giriama: Eine Quelle (Snippet 19) deutete an, dass der Name der Pflanze bei den Giriama auf deren "Verzweigungsmuster" ("branching habit") zurückgeht. Das genaue Wort in der Sprache der Giriama wurde jedoch in den zur Verfügung gestellten Zeilen abgeschnitten und fehlt.
+Populationsdaten: Konkrete absolute Bestandszahlen (Zählung der Individuen) für Kenia, versehen mit einer Jahresangabe, waren im Quellenmaterial nicht vorhanden.
+Fotografische Konstanten: Wissenschaftlich validierte Fluchtdistanzen von Tieren spezifisch im Kontext dieser Baumart sowie exakte, empirisch gemessene Verschlusszeiten waren nicht belegt. Die in Abschnitt 7 getroffenen Angaben sind aus dem ökologischen Szenario und fotografischen Grundregeln abgeleitet ("vermutet").
+Direkter Link zur Roten Liste: Obwohl der Schutzstatus (Least Concern) der IUCN in den Texten referenziert wird, wurde keine konkrete, überprüfbare URL auf die Datenbank iucnredlist.org für genau diese Art geliefert, weshalb sie in der Linkliste unter Punkt 8 ausgespart bleiben musste.
+Works cited
+Overview of Balanites aegyptiaca | PDF | Plants - Scribd, https://www.scribd.com/document/390829270/Balanites-aegyptiaca-Wikipedia-pdf
+The Desert Date and Its Relatives: A Revision of the Genus Balanites, https://www.researchgate.net/publication/271960459_The_Desert_Date_and_Its_Relatives_A_Revision_of_the_Genus_Balanites
+Balanites aegyptiaca - Alchetron, The Free Social Encyclopedia, https://alchetron.com/Balanites-aegyptiaca
+Balanites aegyptiaca Balanitaceae (L.) Del., https://apps.worldagroforestry.org/treedb/AFTPDFS/Balanites_aegyptiaca.PDF
+Felix-Marie Abel and his Vision of Nature in Palestine, https://vilnay.kinneret.ac.il/wp-content/uploads/2022/01/felixmarie-abel-and-his-vision-of-nature-in-palestine-.pdf
+Nilratte - Fakten, Ernährung, Lebensraum & Bilder auf Animalia.bio, https://animalia.bio/de/african-grass-rat
+Balanites aegyptiaca - NMPPDB, https://nmppdb.com.ng/species-details?specy=%20balanites-aegyptiaca
+Balanites aegyptiaca (L.) Del. - UAE Flora, https://www.uaeflora.ae/plant/363
+Some Medicinal Trees and Shrubs of Eastern Africa E | PDF - Scribd, https://www.scribd.com/document/985209599/Some-Medicinal-Trees-and-Shrubs-of-Eastern-Africa-E
+Home"" """"> ar.cn.de.en.es.fr.id.it.ph.po.ru.sw - Your.Org, http://ftpmirror.your.org/pub/misc/cd3wd/1005/_ag_tradit_food_plants_kenya_2_en_lp_117270_.pdf
+Medicinal Plants Used in the Management of Sexual Dysfunction, https://pmc.ncbi.nlm.nih.gov/articles/PMC10439835/
+view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_5.HTM
+view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_7.HTM
+Balanites aegyptiaca (simple-thorned torchwood) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.8311
+A review on Balanites aegyptiaca Del (desert date) - ResearchGate, https://www.researchgate.net/publication/51808397_A_review_on_Balanites_aegyptiaca_Del_desert_date_Phytochemical_constituents_traditional_uses_and_pharmacological_activity
+A review on Balanites aegyptiaca Del (desert date) - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC3210005/
+Flora of tropical East Africa - Balanitaceae (2003) [1, https://dokumen.pub/flora-of-tropical-east-africa-balanitaceae-2003-1nbsped-9058094138-9789058094131.html
+Wonder Plant Balanites aegyptica (L.) - RJPN, https://rjpn.org/jetnr/papers/JETNR2603139.pdf
+(PDF) Gas Chromotography Mass Spectrometric Analysis and, https://www.academia.edu/35936962/Gas_Chromotography_Mass_Spectrometric_Analysis_and_Molluscicidal_Effect_of_Crude_Saponin_from_Balanites_aegyptiaca_L_Del
+Balanitin-6 and -7: Diosgenyl saponins isolated from Balanites, https://www.spandidos-publications.com/10.3892/ijo.32.1.5/download
+H - Columbia University, http://www.columbia.edu/cu/chemistry/groups/nakanishi/publication/310-The%20Structures%20of%20Balanitins,%20Potent%20Molluscicides%20Isolated%20from%20Balanites%20aegyptiaca.pdf
+Botanical Products in the Treatment and Control of Schistosomiasis, https://pmc.ncbi.nlm.nih.gov/articles/PMC7464741/
+Molluscicidal activity of Balanites aegyptiaca against Monacha, https://www.researchgate.net/publication/230664630_Molluscicidal_activity_of_Balanites_aegyptiaca_against_Monacha_cartusiana
+Balanites aegyptiaca (L.) Delile - Ethnobotanika |, https://ethnobotanika.org/wp-content/uploads/2021/05/Monographie-Balanites-aegyptiaca-Lise-Bessot-2008.pdf
+Fwd: Zygophyllaceae: Balanites aegyptiacus Delile - Google Groups, https://groups.google.com/g/indiantreepix/c/SxBlGULoMtY
+Feeding Specialization of Honey Badgers in the Sahara Desert - MDPI, https://www.mdpi.com/1424-2818/12/2/59
+Heuglin's gazelle - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/heuglins-gazelle?taxonomy=58
+Phytochemical Analysis and Evaluation of in vitro Antioxidant ... - RJPT, https://rjptonline.org/AbstractView.aspx?PID=2023-16-9-48
+Reclination Effects of Serial Extracts from Balanites Aegyptiaca on, https://www.researchgate.net/publication/411167018_Reclination_Effects_of_Serial_Extracts_from_Balanites_Aegyptiaca_on_Isolated_Rat's_Prostate_a_Potential_Anti-Benign_Prostatic_Hyperplasia
+The Queen of Sheba's Gift: A History of the True Balsam of Matarea, https://dokumen.pub/the-queen-of-shebas-gift-a-history-of-the-true-balsam-of-matarea-9780748668502.html
+Justice they act like the modern moisture holding pellets in the soil, https://www.facebook.com/groups/401487400057845/posts/1447489808790927/
+Balanites aegyptiaca (L.) Delile, Desert Date (East Tropical Africa, https://identify.plantnet.org/k-east-tropical-africa/species/Balanites%20aegyptiaca%20(L.)%20Delile/data
+Balanites aegyptiaca (L.) Delile (Macaronesia) - Pl@ntNet identify, https://identify.plantnet.org/oc/k-macaronesia/species/Balanites%20aegyptiaca%20(L.)%20Delile/data
+Saponins 0521329701, 9780521329705 - DOKUMEN.PUB, https://dokumen.pub/saponins-0521329701-9780521329705.html

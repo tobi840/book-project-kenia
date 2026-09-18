@@ -1,0 +1,255 @@
+Recherchereport: Blaustirn-Blatthühnchen (Actophilornis africanus)
+1. Namen und Etymologie
+Der wissenschaftliche und volksmundliche Namensbestand dieser Art ist durch historische europäische Beschreibungen sowie regionale afrikanische Sprachgruppen dokumentiert. Der Status der Herleitung ist für die belegten Namen gesichert.
+
+Sprache / Kategorie
+	Name
+	Etymologie / Wörtliche Bedeutung
+	Quelle
+	Status
+
+Lateinisch
+	Actophilornis africanus
+	Griechisch aktē (Flussufer, Küste), philos (liebend), ornis (Vogel). Lateinisch africanus (afrikanisch, aus Afrika stammend). Wörtlich: "Der afrikanische flussuferliebende Vogel".
+	1
+	gesichert
+
+Lateinisches Synonym
+	Parra africana
+	Historisches Protonym aus der Erstbeschreibung.
+	1
+	gesichert
+
+Deutsch
+	Blaustirn-Blatthühnchen, Zwergblatthühnchen
+	Bezieht sich morphologisch auf das blaue Stirnschild und ökologisch auf den Lebensraum (Schwimmblattvegetation).
+	4
+	gesichert
+
+Englisch
+	African Jacana, African Lily-trotter, Jesus bird
+	"Lily-trotter" beschreibt das Laufen über Seerosen. "Jesus bird" ist ein lokaler Spitzname aufgrund der Illusion, der Vogel laufe auf dem Wasser.
+	4
+	gesichert
+
+Swahili
+	Sile-maua
+	Wörtliche Bedeutung in den vorliegenden Quellen nicht aufgeschlüsselt.
+	8
+	gesichert
+
+Afrikaans
+	Grootlangtoon
+	Wörtlich übersetzt: "Groß-Langzehe". Bezieht sich auf die auffällige Fußanatomie.
+	4
+	gesichert
+
+Maa
+	unbekannt
+	Keine belastbaren Belege vorhanden.
+	-
+	unzureichende Datenlage
+
+Kikuyu
+	unbekannt
+	Keine belastbaren Belege vorhanden.
+	-
+	unzureichende Datenlage
+
+Samburu
+	unbekannt
+	Keine belastbaren Belege vorhanden.
+	-
+	unzureichende Datenlage
+
+Giriama
+	unbekannt
+	Keine belastbaren Belege vorhanden.
+	-
+	unzureichende Datenlage
+
+Kamba
+	unbekannt
+	Keine belastbaren Belege vorhanden.
+	-
+	unzureichende Datenlage
+Das Epitheton africana wurde der Art im Jahr 1789 durch den deutschen Naturforscher Johann Friedrich Gmelin vergeben, der die Art zunächst in der Gattung Parra einordnete1. Die von Gmelin extrem weit gefasste Typuslokalität "Africa" wurde im Jahr 1915 durch den britischen Ornithologen Claude Grant in der Fachzeitschrift Ibis formell auf das Land "Äthiopien" eingeschränkt1. Der Status dieser taxonomischen Historie gilt als gesichert.
+2. Erscheinung, mit Maßen
+Das Blaustirn-Blatthühnchen weist einen ausgeprägten, reversen Geschlechtsdimorphismus auf. Weibchen sind in allen morphologischen Belangen signifikant größer und schwerer als Männchen1. Der Status dieser physischen Daten ist durch Feldmessungen gesichert.
+Körpermaße und Gewicht
+Merkmal
+	Männchen
+	Weibchen
+
+Körperlänge (Gesamt)
+	23 bis 31 cm (keine geschlechtsspezifische Trennung belegt)
+	23 bis 31 cm
+
+Körpermasse
+	115 bis 224 g (Durchschnitt: 137 g)
+	167 bis 290 g (Durchschnitt: 261 g)
+
+Flügelspannweite
+	bis zu 50 cm, abweichende Quelle nennt 64 bis 68 cm
+	bis zu 50 cm, abweichende Quelle nennt 64 bis 68 cm
+
+Tarsuslänge
+	9,7 bis 12,4 cm
+	9,7 bis 12,4 cm
+
+Flügellänge (Maximales Sehnenmaß)
+	14,4 bis 16,8 cm
+	14,4 bis 16,8 cm
+Quellen:1
+Alltagsvergleich für die Größenordnung (gesichert): Mit einer Körperlänge von 23 bis 31 Zentimetern entspricht die Längsausdehnung des Vogels exakt der eines standardisierten 30-Zentimeter-Bürolineals1.
+Detailmaße des Gefieders und der Eier (gesichert):
+Längste Handschwinge (Primärfeder): 13,4 cm12.
+Längste Armschwinge (Sekundärfeder): 10,6 cm12.
+Längste Steuerfeder (Rectrix): 5,05 cm12.
+Hand-Flügel-Index (HWI): 28 bis 31 %12.
+Eimaße: Länge durchschnittlich 38,2 mm, Breite durchschnittlich 31,5 mm. Gewicht des Eis: 17,5 g13.
+Das Masseverhältnis von Weibchen zu Männchen liegt bei Actophilornis africanus im Durchschnitt bei 1,68:1. Damit gehört die Art, neben dem verwandten Madagaskar-Blatthühnchen (Actophilornis albinucha), zu den schwersten Vertretern der Familie der Jacanidae1.
+Charakteristische Färbung und Anatomie (gesichert)
+Adulte Vögel: Brust, Bauch und die gesamte Oberseite sind in einem satten Kastanienbraun gefärbt. Die Flügelspitzen, der Hinterhals und ein durchgehender Augenstreif sind tiefschwarz. Der Vorderhals und die Kehle heben sich in einem reinen Weiß ab1.
+Kopfpartie und Schnabel: Das markanteste Merkmal ist ein blaues, fleischiges Stirnschild (Frontalschild), das sich vom kurzen, blauen Schnabel bis über die Stirn zieht. Hinter dem Schnabel und dem Schild liegt ein kleiner Bereich mit violetten Federn1.
+Beine und Füße: Diese sind grau gefärbt. Die Zehen sind unverhältnismäßig stark verlängert (bis zu 7 cm)2. Die Hinterzehe (Hallux) weist eine extrem gerade und verlängerte Kralle auf, die im Durchschnitt 21 mm misst16.
+Flügelbewaffnung: Am Karpalgelenk (Flügelbug) sitzen Keratinsporne, die kontinuierlich wachsen und durch Abrieb (insbesondere bei territorialen Kämpfen) abgenutzt werden10. Weibchen weisen tendenziell eine stärkere Ausprägung dieser Sporne auf, was mit ihrer dominanteren Rolle bei der Revierverteidigung korreliert1.
+Juvenile Vögel: Jungtiere unterscheiden sich deutlich durch eine weiße Unterseite, die lediglich von einem kastanienbraunen Bauchfleck unterbrochen wird. Das blaue Stirnschild ist in diesem Stadium noch nicht voll ausgeprägt1.
+3. Der Mechanismus
+Die biologische und ökologische Funktion des Blaustirn-Blatthühnchens stützt sich auf zwei untrennbar miteinander verwobene Prinzipien: ein biomechanisches Prinzip der Fortbewegung und ein ethologisches Prinzip der Fortpflanzung (Geschlechterrollenumkehr). Status aller hier genannten Prinzipien und Kausalketten: gesichert.
+Das biomechanische Prinzip: Lastenverteilung auf Schwimmblättern
+Der physikalische Druck () ist definiert als der Quotient aus der wirkenden Gewichtskraft () und der Kontaktfläche (). Das Blaustirn-Blatthühnchen reduziert den punktuellen Druck auf die Wasseroberfläche, indem es die Kontaktfläche () maximiert. Erreicht wird dies durch Zehen, die bis zu 7 cm lang werden, kombiniert mit einer geraden, bis zu 21 mm langen Hinterkralle15. Diese anatomische Anpassung verteilt das Körpergewicht von 137 g (Männchen) bis 261 g (Weibchen) über einen extrem breiten Radius. Der resultierende, stark verringerte Druck verhindert das Durchbrechen der Oberflächenspannung und ermöglicht das Laufen auf flutender Vegetation wie Seerosen (Nymphaea) oder Wasserhyazinthen (Eichhornia crassipes), ohne deren statischen Auftrieb zu überwinden7.
+Das ethologische Prinzip: Sequenzielle Polyandrie und Geschlechterrollenumkehr
+Das Fortpflanzungssystem von Actophilornis africanus zeichnet sich durch klassische (sequenzielle) Polyandrie (Vielmännerei) und eine vollständige Umkehrung der elterlichen Rollen aus1. Dieses System wurde maßgeblich von W.R. Tarboton (1995) an der afrikanischen Art sowie vergleichend von Emlen und Wrege (2004) an amerikanischen Blatthühnchen erforscht10.
+Die ökologische Kausalkette () dieses Mechanismus ist vollständig dokumentiert:
+Ökologische Ausgangslage (A): Die flachen Süßwasserseen in den Tropen und Subtropen bieten ein konstantes, extrem hohes Angebot an wirbellosen Beutetieren in der Schwimmvegetation1.
+Energetische Entlastung der Eiproduktion (B): Durch dieses Überangebot an leicht verfügbarer energiereicher Nahrung ist der relative energetische Aufwand, den ein Weibchen für die Produktion eines 17,5 g schweren Eies aufbringen muss, minimal1. Ein Weibchen kann in rascher Folge mehrere Gelege produzieren.
+Austauschbarkeit der Inkubation (C): Bei Vögeln sind die Embryonen nicht an den Körper der Mutter gebunden. Eier können gleichermaßen von Elterntieren beiderlei Geschlechts durch Körperwärme bebrütet werden1.
+Der limitierende Faktor (D): Weil die Eiproduktion keine zeitliche Hürde mehr darstellt, verschiebt sich der reproduktive Flaschenhals. Die Reproduktionsrate der Population wird nun exklusiv durch die Verfügbarkeit von Brutpflegern limitiert, die Zeit für die 22- bis 28-tägige Inkubation und die nachfolgende 40- bis 70-tägige Kükenaufzucht aufwenden können1.
+Intrasexuelle Selektion und Harem-Bildung (E): Um die eigene Reproduktionsrate zu maximieren, übernehmen die Weibchen die territorial aggressive Rolle. Sie konkurrieren physisch miteinander um die knappe Ressource "brutbereite Männchen". Ein adultes Weibchen besetzt ein großes Territorium und etabliert darin einen Harem aus durchschnittlich 2,4 Männchen, für die sie nacheinander Eier legt7. Diese Konkurrenz führt zu einem evolutionären Selektionsdruck auf Körpergröße und Waffen (Keratinsporne an den Flügeln), weshalb Weibchen (mit durchschnittlich 261 g) massiger sind als Männchen (137 g)10.
+Paternale Brutpflege (F): Das Männchen baut das schwimmende Nest allein, inkubiert das Gelege aus vier Eiern (Inkubationskonstanz von durchschnittlich 53 % bis 70,9 % der Tageszeit) und übernimmt die alleinige Führung und Verteidigung der Nestflüchter-Küken1.
+Adaption der Männchen (gesichert): Um die Küken bei Gefahr vor Prädatoren (z. B. Krokodile, Greifvögel) oder steigendem Wasserstand zu retten, praktizieren die Männchen einen spezifischen Rettungsgriff. Sie klemmen sich die Küken unter die Flügel und tragen diese davon. Dabei sind von außen oft nur noch die langen Beine der Küken sichtbar, die aus dem Brustgefieder des Vaters herabhängen1.
+Konkurrierende Erklärungsansätze für das revierverteidigende Verhalten (umstritten/diskutiert):
+Innerhalb der Ornithologie gibt es Debatten über das genaue Ziel der weiblichen Aggression.
+Hypothese 1 (Klassische Territorialität): Weibchen verteidigen ihr Territorium und ihre Männchen primär gegen Prädatoren und alle generellen Eindringlinge, um den Fortpflanzungserfolg des Harems zu sichern22.
+Hypothese 2 (Anti-Infantizid-Strategie): Neuere Beobachtungen zeigen, dass die Aggression der residenten Weibchen hochspezifisch gegen umherstreifende andere Weibchen gerichtet ist. Fremde Weibchen versuchen, Reviere zu übernehmen und bestehende Gelege oder Küken zu töten (Infantizid), um die Männchen für eigene Eier freizumachen7. Gleichzeitig üben bei verwandten Jacana-Arten auch Männchen Infantizid aus, indem sie die ersten Eier eines Geleges zerstören, wenn die Vaterschaft unsicher ist (da Spermien im Weibchen 4 bis 5 Tage lebensfähig bleiben und Paarungsintervalle zwischen 1 und 10 Tagen variieren)23. Die revierhaltenden Weibchen müssen also ein komplexes Gleichgewicht aus intrasexueller Verteidigung und Paarungsmanagement leisten.
+4. Ökologie und Verhalten
+Lebensraum und abiotische Faktoren
+Das Habitat des Blaustirn-Blatthühnchens (Status: gesichert) umfasst permanente und saisonale flache Süßwasser-Ökosysteme wie Sümpfe, Überschwemmungsebenen, flache Seen und langsam fließende Flüsse in Subsahara-Afrika2. Die Nestbau-Standorte erfordern extrem spezifische topografische und vegetative Parameter. Untersuchungen am äthiopischen Lake Hawassa belegen, dass die Vögel Mikrohabitate mit einer Neigung von exakt 0 Grad (flaches Terrain) bevorzugen, da dies die Stabilität der fragilen Schwimmnester garantiert und das Abrollen der Eier verhindert20. Die Verbreitung reicht von Gebieten auf Meeresspiegelniveau bis in Höhenlagen von 2.000 m. In Kenia wurden Vögel an künstlichen, kleinen Stauseen (0,065 bis 0,249 Quadratkilometer Wasserfläche) im Rift Valley in Höhen von bis zu 2.640 m dokumentiert20. Die Art ist nicht migrierend (Standvogel), vollzieht jedoch nomadische Ausweichbewegungen, wenn Wasserstellen temporär austrocknen2.
+Tagesrhythmus und Nahrung
+Die Vögel sind streng tagaktiv (Status: gesichert)2. Die Nahrungssuche erfolgt überwiegend visuell durch langsames Gehen und Picken auf der Vegetationsoberfläche. Die Ernährung ist carnivor und inkludiert Insekten (Käfer, Fliegen, Libellen), aquatische Würmer, Spinnen, Krustentiere und Mollusken (Schnecken)2. Selten fressen sie auch geringe Mengen von Samen7.
+Abhängigkeit anderer Arten (beobachtet): Es wurde dokumentiert, dass Blaustirn-Blatthühnchen gelegentlich auf den Rücken von im Wasser stehenden Flusspferden (Hippopotamus amphibius) oder Kaffernbüffeln (Syncerus caffer) landen, um Insekten, Parasiten und Wirbellose von deren Haut abzusammeln, was eine lockere, reinigende Symbiose darstellt7.
+Fortpflanzung und Nestverhalten
+Nachdem das Weibchen die vier braunen, schwarz gefleckten Eier gelegt hat, zieht es sich aus der direkten Fürsorge zurück1. Das Männchen bebrütet die Eier, schützt sie an heißen Tagen jedoch oft eher durch das Spenden von Schatten, als sie mit Körperwärme zu wärmen7. Die Inkubationszeit ist stark von den Außentemperaturen abhängig. An kalten Tagen (Durchschnitt 22,9 °C) sitzt das Männchen zu 70,9 % der Zeit auf dem Nest und verlässt dieses im Schnitt 35 Mal pro Tag in sehr kurzen Intervallen von 8,4 Minuten (Status: gesichert durch Telemetriestudien)18. Nach dem Schlüpfen (Tag 22 bis 28) entfernt das Männchen sofort die Eierschalen aus dem Nest7. Die Küken sind Nestflüchter, können kurz nach dem Schlupf schwimmen und tauchen, bleiben jedoch 40 bis 70 Tage lang abhängig von der Führung und dem Schutz des Vaters, bis sie die Flugfähigkeit erreichen2.
+Verhalten Ende September / Anfang Oktober in Kenia
+Der Reisezeitraum vom 24.09. bis 12.10. liegt am Ende der langen Trockenzeit und am Beginn der kleinen Regenzeit im Rift Valley.
+Die dokumentierte Hauptbrutzeit des Blaustirn-Blatthühnchens dauert in Ostafrika von Juni bis Oktober, getriggert durch vorausgehende Niederschläge, die das Wachstum der Schwimmvegetation fördern6.
+Status: vermutet (basierend auf phänologischen Daten). Zu diesem exakten Zeitpunkt befindet sich die lokale Population in der späten Phase des Fortpflanzungszyklus. Beobachter werden mit hoher Wahrscheinlichkeit Männchen antreffen, die bereits halbwüchsige oder junge Küken aus den Monaten Juli und August führen.
+Paarungs- und Revierkämpfe der Weibchen finden in dieser Spätphase seltener statt als zu Beginn der Regenzeit, können jedoch bei Neuanlagen von Zweit- oder Drittbruten auftreten26.
+5. Menschen und Kultur in Kenia
+Konflikte mit Menschen und Lebensraumveränderungen
+Das Überleben der Art hängt vollständig von der Qualität flacher Feuchtgebiete ab. In Kenia, insbesondere an den für die Reiseroute relevanten Seen im Rift Valley, ist diese Abhängigkeit durch menschliche Eingriffe massiv belastet (Status: gesichert).
+Lake Naivasha: Der See unterliegt einer extremen anthropogenen Nutzung, vornehmlich durch die dort angesiedelte Schnittblumen-Industrie (Blumenfarmen). Der massive Einsatz von Pestiziden und Düngemitteln, der in den See ausgewaschen wird, führt zu chemischer Verschmutzung und tangiert die aquatischen Nahrungsketten, auf die das Blatthühnchen angewiesen ist6. Gleichzeitig wurde die Biodiversität des Sees durch eingeführte Arten (Allodiversität) gravierend verändert. Der Rote Amerikanische Sumpfkrebs (Procambarus clarkii) und die aus Südamerika stammende Wasserhyazinthe (Eichhornia crassipes) wurden im 20. Jahrhundert eingeschleppt29. Die Wasserhyazinthe bildet dichte, geschlossene Teppiche, die native Pflanzen verdrängen. Bemerkenswerterweise hat sich das Blaustirn-Blatthühnchen an diese invasive Pflanze angepasst und nutzt die dichten Matten der Wasserhyazinthe als neues Lauf- und Nistsubstrat, was eine erzwungene ökologische Abhängigkeit von einem Neophyten darstellt29.
+Lake Nakuru: Als alkalischer See (Sodasee) bietet er im Hauptbecken keine geeignete Schwimmvegetation für das Blatthühnchen. Die Art weicht hier auf die Süßwasserzuflüsse und sogar auf menschliche Abwasseranlagen aus. Zählungen belegen das Vorkommen von Actophilornis africanus an den Nakuru Town Sewage Works (Kläranlagen) und den Njoro Sewage Ponds, wo das nährstoffreiche Wasser ein dichtes Pflanzen- und Insektenwachstum fördert14. Dies demonstriert eine hohe Adaptionsfähigkeit der Art an künstliche anthropogene Feuchtgebiete.
+Schutzstatus und Bestandszahlen
+Trotz der lokalen Habitatveränderungen gilt der globale Bestand als nicht gefährdet.
+Klassifizierung: Die IUCN Red List of Threatened Species stufte Actophilornis africanus bei der letzten Evaluierung im Jahr 2016 als "Least Concern" (nicht gefährdet) ein1.
+Bestand (2016): Die globale Populationsgröße wird auf rund 1.000.000 Individuen geschätzt. Der Populationstrend wird als stabil bewertet2.
+Nutzung, Mythos und Kultur
+Die wirtschaftliche Nutzung der Art (als Nahrung, für Medizin oder Handel) durch den Menschen findet nicht statt und ist aufgrund der geringen Körpergröße und der extremen Spezialisierung des Vogels als Subsistenzquelle in Ostafrika irrelevant35.
+Kulturelle Wahrnehmung (gesichert): Umgangssprachlich wird die Art im englischsprachigen Raum Afrikas oft als "Jesus bird" bezeichnet. Dieser Name resultiert aus der optischen Illusion, die entsteht, wenn der Vogel über untergetauchte Blätter läuft – es wirkt, als wandle er auf dem Wasser6. Darüber hinaus wird die Art in der modernen Ökologie als wertvolle Indikatorart (indicator species) betrachtet. Ihre bloße Anwesenheit signalisiert der lokalen Bevölkerung und Wissenschaftlern ein intaktes, gesundes Feuchtgebiet mit guter Wasserqualität und funktionierenden Insektenpopulationen6.
+Spezifische indigene Legenden, Riten oder Sprichwörter kenianischer Ethnien (Maa, Kikuyu etc.) sind in den zur Verfügung stehenden Quellen nicht dokumentiert (siehe Abschnitt 10).
+6. Wissenschaftsgeschichte
+Die formelle Erfassung und Erforschung der Art vollzog sich in mehreren historischen Schritten, die von der reinen Klassifikation bis zur detaillierten Verhaltensforschung reichten (Status: gesichert).
+1785 (John Latham): Der englische Ornithologe beschreibt und illustriert die Art erstmals detailliert in seinem umfangreichen Werk A General Synopsis of Birds unter der groben Herkunftsangabe "Africa"1.
+1789 (Johann Friedrich Gmelin): Der deutsche Naturforscher und Botaniker liefert die erste formelle binominale wissenschaftliche Beschreibung. In seiner revidierten und stark erweiterten 13. Auflage von Carl von Linnés Systema Naturae ordnet er den Vogel in die Gattung Parra ein und prägt den Namen Parra africana1.
+1915 (Claude Grant): Der britische Ornithologe und Afrika-Experte schränkt die von Gmelin extrem weit gefasste Typuslokalität formell in einem Beitrag der Fachzeitschrift Ibis auf das geografische Gebiet "Äthiopien" ein, was taxonomisch bis heute Bestand hat1.
+1925 (Harry C. Oberholser): Der amerikanische Ornithologe führt die neue Gattung Actophilornis ein, in der das Blaustirn-Blatthühnchen und sein madagassischer Verwandter seither exklusiv geführt werden1.
+Kontroverse und moderne Studien zur Polyandrie:
+Das evolutionäre Rätsel der Geschlechterrollenumkehr bei den Jacanidae war Ende des 20. Jahrhunderts Gegenstand intensiver Forschung.
+1995: W.R. Tarboton veröffentlicht im ornithologischen Journal Ostrich die wegweisende Studie Polyandry in the African Jacana: The roles of male and female in the mating system. Er dokumentiert erstmals umfassend, dass die Weibchen der afrikanischen Art 1,68-mal schwerer sind als die Männchen und die aggressive Revierverteidigung übernehmen, während die Männchen brüten18.
+2004: Stephen T. Emlen und Peter H. Wrege erweitern dieses Verständnis durch ihre Arbeiten am südamerikanischen Gelbstirn-Blatthühnchen (Jacana jacana), in denen sie den intrasexuellen Wettbewerb zwischen Weibchen um die Männchen empirisch mit Körpermasse und Waffenlänge (Keratinsporne) korrelieren10. Diese Studien festigten das heutige biologische Standardwissen über die Familie.
+7. Fotografie
+Für Naturfotografen auf der Route durch das Rift Valley bietet das Blaustirn-Blatthühnchen exzellente, wenngleich technisch anspruchsvolle Motive.
+Standorte und Tageszeit (gesichert):
+Lake Baringo und Lake Naivasha: Dies sind die vielversprechendsten Kernhabitate. Die Vögel halten sich auf den dichten Teppichen aus Wasserhyazinthen und Seerosen auf36.
+Lake Nakuru: Hier sollte man die Ränder und Süßwassereinläufe (z. B. Mündung des Njoro River) absuchen, nicht die offenen, alkalischen Wasserflächen34.
+Hell's Gate National Park: Extrem geringe Wahrscheinlichkeit. Die Art kommt nur am Rand vor, wo der Nationalpark fast nahtlos in die Feuchtgebiete des Lake Naivasha übergeht. Tiefe Schluchten sind kein Habitat25.
+Tageszeit: Da die Art strikt tagaktiv ist, empfiehlt sich fotografisch das frühe Morgenlicht oder der späte Nachmittag, um die harten Reflexionen auf der feuchten Blattvegetation und dem Wasser zu minimieren2.
+Lohnendes Verhalten zum Abwarten:
+Gleaning (Futtersuche): Das langsame, fast bedächtige Absuchen der Blattoberflächen.
+Der Transportgriff: Da Ende September/Anfang Oktober späte Bruten geführt werden, lohnt das Warten auf Männchen, die sich bei Gefahr (z.B. Schatten von Greifvögeln) die Küken unter die Flügel klemmen. Sichtbar sind dann nur die überdimensionierten Füße der Küken im Brustgefieder2.
+Territoriale Drohgebärden: Weibchen, die mit aufgestellten, nach vorn gereckten Flügeln ihre Karplalsporne präsentieren10.
+Fluchtdistanz und Fehler: Eine exakte Fluchtdistanz in Metern ist in der Literatur nicht spezifiziert. Die Tiere tolerieren eine langsame, geräuschlose Annäherung vom Wasser aus in Kanus. Der häufigste Fehler (Status: gesichert) ist die direkte Annäherung mit Motorbooten; die Vögel reagieren darauf mit lauten, kreischenden Alarmrufen und raschem Auffliegen oder abruptem Abtauchen unter die Vegetation2.
+Objektivwahl und Richtwerte für Verschlusszeiten:
+Das 150 bis 600 mm Teleobjektiv ist das primäre Werkzeug der Wahl. Da der Vogel mit ca. 30 cm klein ist und flach auf dem Wasser agiert, ist maximale Brennweite nötig, um frame-füllende Aufnahmen ohne Störung des Tiers zu erzielen.
+Das 100 bis 400 mm Objektiv eignet sich hervorragend für "Bird-in-Habitat"-Aufnahmen, um die überproportionalen Füße im Kontext der massiven Seerosenblätter oder Wasserhyazinthen zu zeigen.
+Die kurzen Brennweiten (45 mm / 26 bis 60 mm) sind für die Art selbst ungeeignet, dienen aber der Dokumentation des Lake Naivasha Habitats (Weitwinkel der Wasserhyazinthen-Teppiche).
+Verschlusszeiten: Für die statische Futtersuche reicht ein Richtwert von 1/500 s. Bei Revierkämpfen, kurzen Sprints über das Wasser oder beim Flug (Fluggeschwindigkeit wird bei Jacanidae auf ca. 60 km/h bzw. 37 mph geschätzt) müssen zwingend 1/1250 s bis 1/2000 s vorgewählt werden, um die schnellen, wirbelnden Flügelschläge und die aufspritzenden Wassertropfen scharf einzufrieren35.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen
+https://www.iucnredlist.org/species/22693528/93410506 Offizieller Eintrag der Roten Liste der Weltnaturschutzunion mit detaillierten Daten zur globalen Populationsgröße, den Bestandsverläufen und den aktuellen ökologischen Gefährdungsursachen.2
+https://avibase.bsc-eoc.org/species.jsp?avibaseid=D16D486D Umfassende taxonomische Übersicht der Organisation Avibase, die alle historischen Synonyme (u.a. Parra africana), globale Checklisten-Revisionen und volksmundliche Namen strukturiert bündelt.4
+Fotos und Verbreitung
+https://commons.wikimedia.org/wiki/Actophilornis_africanus Sammlung frei nutzbarer Medien und Fotografien auf Wikimedia Commons, die verschiedene Altersstufen, das blaue Stirnschild und das Habitat (u.a. Lake Baringo) exzellent illustrieren.40
+https://www.gbif.org/taxon/9V63 Datenbank der Global Biodiversity Information Facility (GBIF), die eine interaktive Verbreitungskarte basierend auf gesicherten, georeferenzierten Sichtungen bietet.41
+Audio
+https://xeno-canto.org/651037 Globales Tonarchiv für Vogelrufe mit verifizierten Audioaufnahmen des Blaustirn-Blatthühnchens, die zur akustischen Vorbereitung und Identifikation (kreischende Alarmrufe) im Feld genutzt werden können.2
+https://www.birdphotos.com/cgi-bin/birdsounds.cgi?species=African%20Jacana Ergänzende Datenbank mit Spektrogrammen und Audio-Aufnahmen der charakteristischen Triumph- und Kommunikationsrufe der Art.42
+9. Visuelle Beschreibung für eine Illustration
+The African Jacana presents a teardrop-shaped body roughly the size of a pigeon, positioned horizontally and balanced atop absurdly elongated, thin grey legs and toes that radiate outward over the water's surface like wire spokes. Its upper plumage is a rich, polished chestnut across the wings and torso, sharply contrasted by a stark white front neck and a distinct black stripe extending from the crown down the back of the neck and through the eye. The forehead is dominated by a flat, waxy, brilliant pale-blue frontal shield that seamlessly merges into a short, pointed blue beak, giving the bird a somewhat prehistoric, armored appearance.
+Detail Suggestions:
+An extreme close-up of the grey, scaled foot pressing onto a lily pad, emphasizing the hallux (hind claw) that extends backward in a rigidly straight line, averaging exactly 21 mm in length.
+The pale-blue frontal shield viewed from a three-quarter angle, highlighting the smooth, cartilaginous transition from the upper mandible to the crown, bordered posteriorly by a subtle, dark purple feather patch.
+A tiny, precocial chick rendered as a striped, buoyant ball of downy fluff with disproportionately enormous feet, peering out cautiously from beneath the father’s chestnut wing feathers.
+Cultural Vignette:
+A narrow, weathered wooden fishing pirogue (canoe) typical of the Lake Naivasha fisheries, resting motionless among dense, choking clusters of floating green water hyacinth and native water lilies, visually linking human economic presence to the jacana's increasingly fragile and altered wetland habitat.
+10. Was du nicht belegen konntest
+Folgende Parameter aus der ursprünglichen Aufgabenstellung ließen sich anhand der verfügbaren wissenschaftlichen, biologischen und lexikalischen Quellen nicht belastbar belegen und wurden zur Vermeidung von Spekulationen ausgelassen:
+Spezifische regionale Bezeichnungen: Es liegen in der Fachliteratur keine Belege für volksmundliche Namen in den Sprachen der Maa, Kikuyu, Samburu, Giriama oder Kamba vor. Die Belege beschränken sich auf Englisch, Deutsch, Swahili (Sile-maua) und Afrikaans (Grootlangtoon).
+Kulturelle Rituale und Überlieferungen: Abgesehen von dem Spitznamen "Jesus bird" (aufgrund des Laufens über Wasser) existieren keine dokumentierten Mythen, Sprichwörter, Legenden oder rituellen/medizinischen Nutzungen durch kenianische Bevölkerungsgruppen.
+Literarische Größenvergleiche: Die Quellen vergleichen die Größe des Vogels (bis 31 cm) nicht mit Objekten wie "Unterarm" oder "Fußballfeld". Der Vergleich mit einem handelsüblichen 30-Zentimeter-Lineal ist der einzige, der sich aus den Maßangaben präzise und sauber ableiten ließ.
+Exakte Fluchtdistanz: Ornithologische Felddaten beschreiben die Störempfindlichkeit gegenüber Booten nur qualitativ (Auffliegen, lautes Rufen, Abtauchen). Ein exakter empirischer Wert in Metern (z. B. "Fluchtdistanz 15 Meter") ist für diese Art nicht verzeichnet.
+Referenzen
+African jacana - Wikipedia, https://en.wikipedia.org/wiki/African_jacana
+African Jacana - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/african-jacana
+Actophilornis africanus - African Jacana - asturnatura, https://www.asturnatura.com/en/nature/species/actophilornis-africanus
+Actophilornis africanus (African Jacana) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=D16D486D
+African jacana | bird - Britannica, https://www.britannica.com/animal/African-jacana
+African Jacana - Turkana Wildlife Safaris, https://turkanawildlifesafaris.com/african-jacana/
+African Jacana | Appearance, Diet, Habitat, Behavior, https://www.theanimalfacts.com/birds/african-jacana/
+List of birds of Kenya - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Kenya
+Lelieloper - Feiten, Dieet, Leefomgeving & Foto's op Animalia.bio, https://animalia.bio/nl/african-jacana
+SIZE DIMORPHISM, INTRASEXUAL COMPETITION, AND SEXUAL, https://bioone.org/journals/the-auk/volume-121/issue-2/0004-8038_2004_121_0391_SDICAS_2.0.CO_2/SIZE-DIMORPHISM-INTRASEXUAL-COMPETITION-AND-SEXUAL-SELECTION-IN-WATTLED-JACANA/10.1642/0004-8038%282004%29121%5B0391:SDICAS%5D2.0.CO%3B2.short
+CASPPZT: Wading Birds Chapter by TyThom1999 on DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT%3A-Wading-Birds-Chapter-1287556017
+https://www.featherbase.info/zh/species/actophilornis/africanus
+Honeyguide | Birdlife Zimbabwe, https://www.birdlifezimbabwe.org/wp/wp-content/uploads/2024/12/Honeyguide-702.pdf
+Ecology, conservation, and phylogenetic position of the Madagascar, https://www.tandfonline.com/doi/pdf/10.2989/00306525.2019.1662508
+African Jacana facts - Needles Lodge, https://www.needleslodge.com/blog/post/african-jacana-the-elegant-lily-trotter-of-the-low/
+LONGCLAW WHITE MILKWOOD - Greenheart, https://greenheart.co.za/wp-content/uploads/2021/10/AW_72.pdf
+African Jacana Animal Facts - Actophilornis africanus, https://a-z-animals.com/animals/african-jacana/
+(PDF) Incubation behaviour of the African jacana - ResearchGate, https://www.researchgate.net/publication/290893246_Incubation_behaviour_of_the_African_jacana
+Division of labour in parental care behaviour of a sex-role-reversed, https://www.researchgate.net/publication/222400371_Division_of_labour_in_parental_care_behaviour_of_a_sex-role-reversed_shorebird_the_wattled_jacana
+https://www.mdpi.com/2673-4133/7/2/54
+Sex Role Reversal and High Frequency of Social Polyandry in the, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742588/full
+Defense of Eggs and Chicks in the Polyandrous Pheasant-Tailed, https://bioone.org/journalArticle/Download?urlId=10.1675%2F063.044.0311
+Male pheasant-tailed jacanas commit infanticides to avoid cuckoldry, https://www.researchgate.net/publication/263302391_Male_pheasant-tailed_jacanas_commit_infanticides_to_avoid_cuckoldry_when_paternity_of_eggs_is_doubtful
+Birds in Africa - Kaj Halberg, https://kajhalberg.dk/en/birds-in-africa/
+(PDF) The influence of geographic and morphometric factors on the, https://www.researchgate.net/publication/286933657_The_influence_of_geographic_and_morphometric_factors_on_the_distribution_of_water_bird_species_in_small_high_altitude_tropical_man_made_reservoirs_Central_Rift_Valley_Kenya
+Brood success of sex-role-reversed pheasant-tailed jacanas - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11061921/
+(PDF) Brood success of sex-role-reversed pheasant-tailed jacanas, https://www.researchgate.net/publication/380238327_Brood_success_of_sex-role-reversed_pheasant-tailed_jacanas_the_effects_of_social_polyandry_seasonality_and_male_mating_order
+Lake Naivasha, Kenya: Ecology, Society and Future - ResearchGate, https://www.researchgate.net/publication/232693916_Lake_Naivasha_Kenya_Ecology_Society_and_Future
+Lake Naivasha, Kenya: Ecology, Society and ... - BioOne Complete, https://bioone.org/journalArticle/Download?fullDOI=10.1608%2FFRJ-4.2.149
+Ecological impacts of biological invasions on native birds in Africa., https://open.uct.ac.za/bitstreams/e5a7dd14-c826-4639-a4bf-faeaf22d0e76/download
+A review of allodiversity in Lake Naivasha, Kenya - ResearchGate, https://www.researchgate.net/publication/224852502_A_review_of_allodiversity_in_Lake_Naivasha_Kenya_Developing_conservation_actions_to_protect_East_African_lakes_from_the_negative_impacts_of_alien_species
+Response of the waterbird community to floating pennywort, https://www.researchgate.net/publication/318198819_Response_of_the_waterbird_community_to_floating_pennywort_Hydrocotyle_ranunculoides_cover_at_Ngamo_dam_Antelope_Park_Zimbabwe
+Full text of "Wetlands (5th Edition) by William J. Mitsch, James G, https://archive.org/stream/Wetlands_5th_Edition_by_William_J._Mitsch_James_G._Gosselink/Wetlands_5th_Edition_by_William_J._Mitsch_James_G._Gosselink_djvu.txt
+July 2006 and January 2007 waterfowl census - ResearchGate, https://www.researchgate.net/publication/392738633_Waterbird_Monitoring_Programme_in_Kenya_July_2006_and_January_2007_waterfowl_census
+Jacana Animal Facts - Jacanidae, https://a-z-animals.com/animals/jacana/
+African Jacana (Actophilornis africanus) - Birdingplaces, https://www.birdingplaces.eu/nl/birds/3016
+Aves.no, https://aves.no/reiser_ornitologi/kenya03_specieslist.html
+Kenya - Avibase bird checklist, https://avibase.bsc-eoc.org/checklist.jsp?region=KE&list=howardmoore
+Bronze-winged Jacana - Metopidius indicus - A-Z Animals, https://a-z-animals.com/animals/bronze-winged-jacana/
+Actophilornis africanus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Actophilornis_africanus
+Actophilornis africanus - GBIF, https://www.gbif.org/taxon/9V63
+BirdPhotos.com Bird Calls, https://www.birdphotos.com/cgi-bin/birdsounds.cgi?species=African%20Jacana

@@ -2,7 +2,7 @@
 
 Lokale Arbeitsfassung des Drive-Prompts "P4_QS pro Kapitel", Stand 18.09.2026 nach dem zweiten Prozessdurchgang.
 
-**Höchstens zwei Runden je Kapitel, angestrebt ist eine (E22).** Was die zweite Runde nicht findet, steht im Buch. Das ist eine bewusste Entscheidung von Tobi zugunsten von Tempo: 95 Kapitel in fünf Tagen. Dritte Runden gibt es nicht mehr.
+**Höchstens zwei Runden je Kapitel (E22), und Runde 2 gibt es nur, wenn Runde 1 rot war (E24).** Was Runde 1 bei grüner Ampel nicht findet, steht im Buch. Das ist eine bewusste Entscheidung von Tobi zugunsten von Tempo: 95 Kapitel in fünf Tagen. Dritte Runden gibt es nicht mehr.
 
 **Ausgabe sind Patches, keine Prosa.** Die Patches wendet ein Skript an, kein Modell. Damit fällt der Korrekturschritt aus der Kette, und mit ihm die Stelle, an der im Pilot jeder Folgefehler entstanden ist (E20).
 
@@ -10,14 +10,16 @@ Lokale Arbeitsfassung des Drive-Prompts "P4_QS pro Kapitel", Stand 18.09.2026 na
 
 Prüfe das Kapitel `{NR}_{TRIVIALNAME}` gegen sein Research-Doc. **Ändere nichts am Text.** Du schreibst dieses Kapitel nicht und hast es nicht geschrieben.
 
-## Zuerst die Skripte laufen lassen
+## Die Skriptausgabe steht in deinem Auftrag
 
-```
-python3 scripts/regel_check.py chapters/{nr}-{slug}.html
-python3 scripts/research_check.py chapters/{nr}-{slug}.html --research research/{nr}-{slug}.txt
-```
+Du rufst **kein Skript auf** und durchsuchst das Repo nicht. Du liest genau drei
+Dateien: das Research-Doc, das Kapitel und diesen Prompt. Alles andere kostet
+Tokens, die das Projekt nicht hat.
 
-Was diese beiden melden, prüfst du **nicht noch einmal von Hand**. Du prüfst ihre Verdachtsfälle nach und machst daraus Patches oder verwirfst sie.
+`regel_check.py` und `research_check.py` sind vorher einmal gelaufen. Ihre
+Ausgabe steht wörtlich in deinem Auftrag. Was dort steht, prüfst du **nicht noch
+einmal von Hand**. Du prüfst ihre Verdachtsfälle nach und machst daraus Patches
+oder verwirfst sie.
 
 Die Skripte decken ab: Längen, Absätze, Satzlängen, Gedankenstriche, verbotene Wörter, Dreierketten, Marker, Kopfzeilenformat, Struktur, Zahlen ohne Beleg im Doc, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), und Aufzählungen, deren Quellsatz ein Vorbehaltswort trägt.
 
@@ -102,9 +104,12 @@ Das ist der Normalfall und ein gutes Ergebnis.
 
 ## Die Datei ist das Ergebnis, nicht dein Bericht
 
-Wenn du nebenbei eine strukturierte Zusammenfassung zurückgibst, ist sie
-Beiwerk. Gewertet wird `qs/{nr}-{slug}.md`, und nur die Datei geht in
-`patch_anwenden.py`.
+Du gibst zwei Felder zurück, `ampel` und `anzahl_patches`. Das ist die
+Steuergröße für die Frage, ob eine zweite Runde nötig ist, und sonst nichts.
+Gewertet wird `qs/{nr}-{slug}.md`, und nur die Datei geht in
+`patch_anwenden.py`. Widerspricht deine Rückgabe deiner Datei, gilt die Datei.
+
+Eine Ampelzeile **in** der Datei gibt es nicht (E23).
 
 Das ist keine Formalie. In Runde 3 hat ein Prüfer vier Patches und ein
 `UNBELEGT` in seine Datei geschrieben und in derselben Antwort "grün, null
@@ -113,7 +118,8 @@ Fehler verloren. Auf 95 Kapitel wäre das ein stiller Ausfall.
 
 ## Bei der zweiten Runde
 
-Die zweite Runde ist die letzte (E22). Sie ist **keine Abhakliste**: sie prüft Prüfung 1 mit derselben Tiefe wie die erste, weil ein Patch etwas verschoben haben kann. Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, damals noch durch ein Modell, das umformulieren durfte.
+Die zweite Runde ist die letzte (E22) und findet nur statt, wenn die erste rot
+war (E24). Sie ist **keine Abhakliste**: sie prüft Prüfung 1 mit derselben Tiefe wie die erste, weil ein Patch etwas verschoben haben kann. Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, damals noch durch ein Modell, das umformulieren durfte.
 
 Umgesetzte Punkte erwähnst du nicht. Das Kapitel ist der Beleg.
 
@@ -144,4 +150,7 @@ Umgesetzte Punkte erwähnst du nicht. Das Kapitel ist der Beleg.
 - E21: Block "Weiterlesen und Sehen" gestrichen.
 - E22: höchstens zwei QS-Runden, angestrebt eine.
 - E23: QS-Dokument ist Patch-Block plus höchstens fünf Zeilen für Tobi.
+- E24: Runde 2 nur bei roter Runde 1. Der Prüfer ruft keine Skripte auf, liest
+  nur drei Dateien und gibt zwei Felder zurück. Läuft als Sonnet mit Effort
+  `low`.
 - Querverweise: eigener Durchlauf am Ende, im Kapitel unerwünscht.

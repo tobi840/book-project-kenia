@@ -5,30 +5,41 @@ Wissenschaftliche Taxonomie
 Der aktuell anerkannte wissenschaftliche Name lautet Prunus africana (Hook.f.) Kalkman, publiziert im Jahr 19652. Die phylogenetische Systematik verortet die Art wie folgt:
 
 Rang
-Taxon
+	Taxon
+
 Domäne
-Eukaryota5
+	Eukaryota5
+
 Reich
-Plantae2
+	Plantae2
+
 Klasse
-Magnoliopsida (Rosopsida)2
+	Magnoliopsida (Rosopsida)2
+
 Ordnung
-Rosales2
+	Rosales2
+
 Familie
-Rosaceae2
+	Rosaceae2
+
 Unterfamilie
-Amygdaloideae (Syn. Prunoideae)1
+	Amygdaloideae (Syn. Prunoideae)1
+
 Tribus
-Amygdaleae4
+	Amygdaleae4
+
 Gattung
-Prunus
+	Prunus
 [cite: 2, 3, 4]
+
 Untergattung
-Laurocerasus (Koehne)2
+	Laurocerasus (Koehne)2
+
 Sektion
-Mesopygeum (Koehne) Kalkman7
+	Mesopygeum (Koehne) Kalkman7
+
 Art
-Prunus africana
+	Prunus africana
 [cite: 2, 3, 4]
 Synonyme in der Literatur und Pharmakologie
 In der medizinischen, pharmakologischen und älteren botanischen Literatur existieren synonyme Bezeichnungen, die im Kontext der Wirkstoffgewinnung weiterhin Verwendung finden:
@@ -41,35 +52,44 @@ Vernakuläre Nomenklatur in Kenia und international
 Die linguistische Vielfalt der lokalen Bezeichnungen in Kenia korreliert mit dem zersplitterten, archipelartigen Vorkommen der Art in verschiedenen Bergwäldern und deutet auf eine langjährige, nutzungsbasierte Interaktion mit unterschiedlichen Sprachgruppen hin.
 
 Sprache / Ethnie
-Lokaler Name
-Regionale Verortung und Anmerkungen
+	Lokaler Name
+	Regionale Verortung und Anmerkungen
+
 Kikuyu
-Muiri, Mwiria, Muchorowe
-Zentrales Hochland, Mount Kenya, Aberdares. Anmerkung: "Muchorowe" wird teils synonym für Nuxia congesta verwendet10.
+	Muiri, Mwiria, Muchorowe
+	Zentrales Hochland, Mount Kenya, Aberdares. Anmerkung: "Muchorowe" wird teils synonym für Nuxia congesta verwendet10.
+
 Kamba
-Mumbaume, Mutimailu
-Östliche Regionen, Trockenwaldränder13.
+	Mumbaume, Mutimailu
+	Östliche Regionen, Trockenwaldränder13.
+
 Kalenjin (inkl. Keiyo, Kipsigis)
-Tenduet, Chebitet, Yemit, Remit
-Rift Valley und westliche kenianische Hochländer10.
+	Tenduet, Chebitet, Yemit, Remit
+	Rift Valley und westliche kenianische Hochländer10.
+
 Maasai
-Olkojuk
-Weidegebiete im und um das Rift Valley13.
+	Olkojuk
+	Weidegebiete im und um das Rift Valley13.
+
 Samburu
-Lcheni, Lkeni
-Nördliches Kenia (z.B. Mount Nyiru). Anmerkung: Oft als generischer Begriff für "Baum" genutzt, im Kontext ethnomedizinischer Studien jedoch spezifisch auf P. africana bezogen14.
+	Lcheni, Lkeni
+	Nördliches Kenia (z.B. Mount Nyiru). Anmerkung: Oft als generischer Begriff für "Baum" genutzt, im Kontext ethnomedizinischer Studien jedoch spezifisch auf P. africana bezogen14.
+
 Luhya (Bukusu)
-Kumutura
-Westkenia, Region Mount Elgon und Kakamega13.
+	Kumutura
+	Westkenia, Region Mount Elgon und Kakamega13.
+
 Swahili
-Kiburabura, Mfuwate
-Überregionale Handelsnamen und Küstennomenklatur4.
+	Kiburabura, Mfuwate
+	Überregionale Handelsnamen und Küstennomenklatur4.
+
 Englisch (Handel)
-African cherry, Red stinkwood, Iron wood, Bitter almond
-Internationale Bezeichnungen für Forst- und Pharmaprodukte. "Stinkwood" bezieht sich auf den Blausäuregeruch der frischen Rinde2.
+	African cherry, Red stinkwood, Iron wood, Bitter almond
+	Internationale Bezeichnungen für Forst- und Pharmaprodukte. "Stinkwood" bezieht sich auf den Blausäuregeruch der frischen Rinde2.
+
 Afrikaans / Niederländisch
-Afrika-amandel, Bitter amandel / Afrikaanse kers
-Südafrikanischer und historisch-europäischer Handelskontext4.
+	Afrika-amandel, Bitter amandel / Afrikaanse kers
+	Südafrikanischer und historisch-europäischer Handelskontext4.
 2. Erscheinung, Morphologie und Anatomie
 Prunus africana manifestiert sich als markanter, immergrüner Laubbaum, der die obere Kronenschicht (Canopy) der afromontanen Wälder prägt. Seine physische Struktur ist stark von der Lichtverfügbarkeit abhängig, da die Art als lichtbedürftiger Baum des Sekundärwaldes klassifiziert wird3.
 Habitus und Dimensionen
@@ -77,19 +97,25 @@ In ungestörten Habitaten erreicht der Baum Wuchshöhen von 10 bis 25 Metern, wo
 Morphologische Spezifikationen
 
 Pflanzenorgan
-Physische Parameter und Merkmale
+	Physische Parameter und Merkmale
+
 Rinde (Borke)
-Die Borke ist grauschwarz bis dunkelbraun gefärbt und blättert in unregelmäßigen, rechteckigen Schuppen ab. Junge Zweige weisen eine braune, korkartige Struktur auf3. Die innere Rinde ist von rötlich-brauner Farbe und verströmt bei mechanischer Verletzung einen penetranten Blausäuregeruch (ähnlich Bittermandeln), was den Namen "Red Stinkwood" bedingt3.
+	Die Borke ist grauschwarz bis dunkelbraun gefärbt und blättert in unregelmäßigen, rechteckigen Schuppen ab. Junge Zweige weisen eine braune, korkartige Struktur auf3. Die innere Rinde ist von rötlich-brauner Farbe und verströmt bei mechanischer Verletzung einen penetranten Blausäuregeruch (ähnlich Bittermandeln), was den Namen "Red Stinkwood" bedingt3.
+
 Phloem (Mikroskopisch)
-Das Phloem besteht aus zahlreichen langen, dünnwandigen, nicht-lignifizierten Fasern, die in tangentialen Gruppen angeordnet sind und mit Siebgewebe alternieren. Das Xylem weist netzartige oder skalariforme Verdickungen auf, flankiert von lignifizierten Tracheiden. Medulläre Strahlen (meist uniseriat) durchziehen Xylem und Phloem transvers8.
+	Das Phloem besteht aus zahlreichen langen, dünnwandigen, nicht-lignifizierten Fasern, die in tangentialen Gruppen angeordnet sind und mit Siebgewebe alternieren. Das Xylem weist netzartige oder skalariforme Verdickungen auf, flankiert von lignifizierten Tracheiden. Medulläre Strahlen (meist uniseriat) durchziehen Xylem und Phloem transvers8.
+
 Blätter (Lamina)
-Die Anordnung ist wechselständig und einfach. Die Form ist elliptisch bis lanzettlich mit leicht gesägten bis gekerbten (crenulate/serrulate) Rändern. Die Länge variiert zwischen 4 und 15 cm (selten bis 20 cm), die Breite zwischen 2 und 5,5 cm. Die Oberfläche ist kahl (glabrous), oberseits von dunkelgrüner, glänzender Farbe, unterseits blassgrün. Die zentrale Blattader ist auf der Oberseite markant eingesenkt (depressed) und tritt auf der Unterseite prominent hervor3.
+	Die Anordnung ist wechselständig und einfach. Die Form ist elliptisch bis lanzettlich mit leicht gesägten bis gekerbten (crenulate/serrulate) Rändern. Die Länge variiert zwischen 4 und 15 cm (selten bis 20 cm), die Breite zwischen 2 und 5,5 cm. Die Oberfläche ist kahl (glabrous), oberseits von dunkelgrüner, glänzender Farbe, unterseits blassgrün. Die zentrale Blattader ist auf der Oberseite markant eingesenkt (depressed) und tritt auf der Unterseite prominent hervor3.
+
 Blattstiel (Petiole)
-Der Blattstiel ist 1 bis 2 cm lang. Ein entscheidendes optisches Bestimmungsmerkmal ist seine leuchtend rosa bis mattrote (dull red) Färbung, die scharf mit dem Blattgrün kontrastiert3.
+	Der Blattstiel ist 1 bis 2 cm lang. Ein entscheidendes optisches Bestimmungsmerkmal ist seine leuchtend rosa bis mattrote (dull red) Färbung, die scharf mit dem Blattgrün kontrastiert3.
+
 Blüten und Blütenstand
-Die Blütenstände sind achselständige Trauben (Racemes) mit einer Länge von 3 bis 8 cm. Die Einzelblüten sind zwittrig (androgyn), insektenbestäubt, unscheinbar grünlich-weiß bis cremefarben und besitzen 10 bis 20 Staubblätter (Stamina)3.
+	Die Blütenstände sind achselständige Trauben (Racemes) mit einer Länge von 3 bis 8 cm. Die Einzelblüten sind zwittrig (androgyn), insektenbestäubt, unscheinbar grünlich-weiß bis cremefarben und besitzen 10 bis 20 Staubblätter (Stamina)3.
+
 Früchte
-Die Steinfrucht (Drupe) misst etwa 10 mm im Durchmesser. Im Reifestadium nimmt sie eine dunkelrote bis purpurschwarze Färbung an. Die Form ist stark abgeflacht (niedergedrückt-sphärisch) und deutlich zweilappig. Jeder Lappen enthält einen Samen1.
+	Die Steinfrucht (Drupe) misst etwa 10 mm im Durchmesser. Im Reifestadium nimmt sie eine dunkelrote bis purpurschwarze Färbung an. Die Form ist stark abgeflacht (niedergedrückt-sphärisch) und deutlich zweilappig. Jeder Lappen enthält einen Samen1.
 Die "Kakamega-Anomalie"
 In taxonomischen Erhebungen im Kakamega-Wald (Westkenia) wurden Prunus-Exemplare identifiziert, deren Morphologie signifikant vom typischen Phänotyp der Prunus africana abweicht. Forscher isolierten Samen und zogen etwa 250 Setzlinge (unter anderem im Brackenhurst Botanic Garden) nach, um die morphologische Stabilität zu prüfen. Die Kakamega-Individuen weisen größere (16–19 cm lang, 9–9,2 cm breit), extrem glänzende (very glossy) Blätter auf, deren Mittelader abaxial markante Trichom-Büschel (Pubeszenz) in den Blattaderachseln zeigt. Die Blattstiele sind grün und länger (2–2,2 cm). Am auffälligsten ist die Fruchtmorphologie: Während P. africana abgeflachte (oblate) Früchte produziert, sind die Früchte der Kakamega-Variante exakt sphärisch. Diese Daten legen die Existenz einer bislang unbeschriebenen, möglicherweise neuen Art nahe, die morphologisch eher der neuweltlichen Prunus serotina ähnelt (welche jedoch schwarze Früchte trägt)9.
 Zytogenetik und Genomik

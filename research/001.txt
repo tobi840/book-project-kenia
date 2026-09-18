@@ -7,41 +7,49 @@ In der deutschen Nomenklatur ist der Trivialname Gewöhnliche Würgefeige dokume
 Zahlreiche kenianische Gemeinschaften besitzen eigene, historisch gewachsene Bezeichnungen für diese Art. Die wörtlichen Bedeutungen dieser lokalen Nomenklaturen sind in der vorliegenden Quellenlage durchweg unbekannt.
 
 Sprache
-Lokaler Name
-Status der Dokumentation
-Wörtliche Bedeutung
+	Lokaler Name
+	Status der Dokumentation
+	Wörtliche Bedeutung
+
 Kikuyu
-Mũgumo
-Gesichert4
-Unbekannt
+	Mũgumo
+	Gesichert4
+	Unbekannt
+
 Kamba
-Kiumo
-Gesichert9
-Unbekannt
+	Kiumo
+	Gesichert9
+	Unbekannt
+
 Maa (Maasai)
-Oretiti
-Gesichert9
-Unbekannt
+	Oretiti
+	Gesichert9
+	Unbekannt
+
 Nandi
-Koitab cheboiyet
-Gesichert8
-Unbekannt
+	Koitab cheboiyet
+	Gesichert8
+	Unbekannt
+
 Marakwet
-Simotwo
-Gesichert9
-Unbekannt
+	Simotwo
+	Gesichert9
+	Unbekannt
+
 Luo
-Pocho
-Gesichert9
-Unbekannt
+	Pocho
+	Gesichert9
+	Unbekannt
+
 Samburu
-Seepei
-Gesichert10
-Unbekannt
+	Seepei
+	Gesichert10
+	Unbekannt
+
 Giriama
-Unbekannt
-Nicht belegt
-Unbekannt
+	Unbekannt
+	Nicht belegt
+	Unbekannt
 2. Erscheinung, mit Maßen
 Ficus thonningii wächst als immergrüner oder lediglich kurzzeitig laubabwerfender Baum, der eine dichte, abgerundete bis ausladende Krone ausbildet (gesichert)5. Der Stamm ist morphologisch komplex strukturiert; er präsentiert sich häufig geriffelt oder mehrstämmig (gesichert)5. Diese Architektur resultiert aus dem epiphytischen Ursprung der Pflanze, bei dem zahlreiche Luftwurzeln entlang eines Wirtsbaumes hinabwachsen und im Laufe der Zeit miteinander verschmelzen (gesichert)5.
 Die Rindenstruktur variiert in Abhängigkeit vom Alter der Pflanzenteile. Junge Zweige weisen eine Behaarung auf und besitzen an ihren Wachstumsspitzen eine stielförmige Kappe (Stipular cap), die das frische Gewebe bedeckt (gesichert)5. An älteren Ästen und an den Stämmen ist die Rinde glatt, weist eine graue Färbung auf und ist mit Lentizellen (Korkporen) besetzt (gesichert)5. Ein durchgehendes Merkmal der Pflanze ist das Vorhandensein eines reichlichen, milchigen Latex, der bei Gewebeverletzungen austritt und sich an der Luft häufig rosa verfärbt (gesichert)5.
@@ -49,23 +57,31 @@ Die Blätter sind einfach, spiralig angeordnet und gruppieren sich gehäuft an d
 Die Blütenstände (Sykonien), aus denen sich die Feigen entwickeln, wachsen einzeln oder paarweise in den Blattachseln oder direkt unterhalb der Blattansätze am Ast (gesichert)5. Sie sind zunächst von Knospenschuppen umschlossen und nehmen im Reifezustand eine gelbe oder rote Färbung an (gesichert)5. Unterschiede zwischen den Geschlechtern existieren bei dieser Baumart in der äußeren Morphologie nicht, da die Art einhäusig (monözisch) wächst und sich funktional männliche sowie weibliche Blüten gemeinsam innerhalb desselben Sykoniums befinden (gesichert)5. Auch spezifische Altersunterschiede, abgesehen von der Transformation vom Epiphyten zum freistehenden Baum und der Glättung der Rinde, sind nicht quantifiziert.
 
 Morphologisches Merkmal
-Maße und Spezifikationen
+	Maße und Spezifikationen
+
 Wuchshöhe
-6,00 bis 21,00 m (lokal bis vier Stockwerke)4
+	6,00 bis 21,00 m (lokal bis vier Stockwerke)4
+
 Blattlänge (Lamina)
-3,00 bis 20,00 cm5
+	3,00 bis 20,00 cm5
+
 Blattbreite
-1,50 bis 10,00 cm5
+	1,50 bis 10,00 cm5
+
 Blattstiel (Petiole)
-1,00 bis 7,50 cm, schlank5
+	1,00 bis 7,50 cm, schlank5
+
 Seitennerven
-6 bis 13 Paare (aufwärts gebogen)5
+	6 bis 13 Paare (aufwärts gebogen)5
+
 Sykonien (Durchmesser)
-7,00 bis 14,00 mm (globos bis ellipsoid)5
+	7,00 bis 14,00 mm (globos bis ellipsoid)5
+
 Sykonien-Stiel (Pedunkel)
-0,00 (sitzend) bis 10,00 mm5
+	0,00 (sitzend) bis 10,00 mm5
+
 Basale Brakteen an Sykonien
-2,00 bis 4,00 mm (bleibend)5
+	2,00 bis 4,00 mm (bleibend)5
 Ein Alltagsvergleich zur Größenordnung des Stammes findet sich in den historischen Aufzeichnungen zu einem spezifischen, prophetisch bedeutsamen Exemplar nahe Thika: Dieser Baum besaß einen dokumentierten Durchmesser von 15 Fuß, was einem metrischen Maß von 4,57 Metern entspricht (überliefert)15. Unter der Annahme eines kreisrunden Querschnitts lässt sich daraus ein Stammumfang von 14,35 Metern errechnen (gesichert ausrechenbar). Ein anderer Baum am Waiyaki Way in Nairobi wird in seiner Höhe mit "vier Stockwerken" verglichen (gesichert)4. Gewichtsangaben zur Pflanze oder ihren Bestandteilen sind in den Quellen nicht belegt.
 3. Der Mechanismus
 Die Autökologie von Ficus thonningii wird durch zwei distinkte, hochkomplexe biologische Prinzipien determiniert: den epiphytischen Würgemechanismus (Hemiepiphyten-Strategie) und den obligaten Mutualismus mit bestäubenden Feigenwespen (Agaonidae).

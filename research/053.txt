@@ -1,0 +1,168 @@
+Forschungsbericht: Trioceros schubotzi (Mount-Kenya-Seitenstreifenchamäleon)
+1. Namen und Etymologie
+Die taxonomische und linguistische Erfassung dieser Art spiegelt historische Expeditionen sowie die lokalen Sprachen der angrenzenden Regionen wider.
+Es ist gesichert, dass der aktuell gültige wissenschaftliche Name Trioceros schubotzi lautet, vergeben durch den Herpetologen Richard Sternfeld im Jahr 19121. Die Gattung Trioceros leitet sich etymologisch aus dem Griechischen ab, wobei tri- "drei" und ceros "Horn" bedeutet2. Es ist gesichert, dass diese Bezeichnung auf den Typus der Gattung verweist, auch wenn T. schubotzi selbst keine echten Stirnhörner besitzt2. Das spezifische Epitheton schubotzi wurde zu Ehren des deutschen Zoologen Dr. Johann G. Schubotz vergeben1.
+Trivialnamen und lokale Bezeichnungen:
+
+Sprache / Kultur
+	Name / Bezeichnung
+	Wörtliche Bedeutung
+	Status
+
+Deutsch
+	Mount-Kenya-Seitenstreifenchamäleon
+	Beschreibend (Herkunft und Flankenzeichnung)
+	Gesichert
+
+Englisch
+	Mount Kenya side-striped chameleon, Mount Kenya montane dwarf chameleon, Schubotz's chameleon
+	Beschreibend / Eponym
+	Gesichert1
+
+Swahili
+	Kinyonga
+	Allgemeiner Begriff für Chamäleons
+	Gesichert4
+
+Kikuyu
+	kĩĩmbu
+	Allgemeiner Begriff für Chamäleons
+	Gesichert4
+
+Kikuyu
+	mũriyũ
+	Spezifisch für Dreihornchamäleons, teils übergreifend genutzt
+	Gesichert4
+
+Maa
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Samburu
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Giriama
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Kamba
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+2. Erscheinung, mit Maßen
+Das morphologische Erscheinungsbild von Trioceros schubotzi weist spezifische Merkmale auf, die auf das afroalpine Habitat abgestimmt sind. Es ist gesichert, dass die Art einen ausgeprägten Sexualdimorphismus bezüglich der Körpergröße aufweist3.
+Größe und Maße: Es existiert ein dokumentierter Widerspruch in den Literaturquellen bezüglich der Maximallänge der Männchen. Eine Quelle beziffert die Kopf-Rumpf-Länge (SVL - Snout-Vent Length) eines großen Männchens auf 130 mm6. Andere Quellen deklarieren 130 mm bis 150 mm als Gesamtlänge (Kopf-Rumpf-Länge inklusive Schwanz)3. Ausgehend von der Morphologie verwandter Zwergchamäleons wird vermutet, dass 130 mm die Gesamtlänge darstellt und der SVL-Wert in Quelle6 fehlerhaft als Synonym für die Gesamtlänge verwendet wurde.
+Männchen: Gesamtlänge bis zu 130 mm (gesichert)3.
+Weibchen: Kopf-Rumpf-Länge (SVL) ca. 49 mm (gesichert)3. Die Gesamtlänge adulter Weibchen wird auf ca. 100 mm vermutet, ausgehend von typischen Proportionen der Gattung.
+Gewicht: Unbekannt. In den verfügbaren herpetologischen Datensätzen sind keine spezifischen Gewichtsangaben in Gramm dokumentiert.
+Alltagsvergleich (ausgerechnet): Eine Gesamtlänge von 130 mm (13 cm) entspricht gesichert der durchschnittlichen Länge der Handfläche eines erwachsenen Menschen (von der Handwurzel bis zum Ansatz des Mittelfingers).
+Farben und Merkmale: Es ist gesichert, dass die Art von granularen Schuppen bedeckt ist, welche von gekielten Tuberkeln (Hauterhebungen) durchsetzt sind3. Auf dem Hinterkopf befindet sich ein erhöhter Parietalkamm, der einen dreieckigen "Helm" (Casque) formt3. Zudem sind Rücken- und Kehlkämme (Dorsal- und Gularkamm) vorhanden3. Es ist gesichert, dass erwachsene Männchen leuchtend türkisblaue und gelbe Töne in Form von Seitenstreifen aufweisen3. Die weiblichen Tiere sind schlichter gefärbt. Altersstufen unterscheiden sich deutlich: Es ist gesichert, dass Jungtiere kleiner sind, eine weniger ausgeprägte Musterung aufweisen und die charakteristischen Seitenstreifen sowie adulten Färbungen erst mit der Geschlechtsreife entwickeln3.
+3. Der Mechanismus
+Das definierende biologische Prinzip von Trioceros schubotzi ist die Thermoregulation in Frostnächten und die anschließende solare Aufwärmphase. Dieses Prinzip basiert auf der Fähigkeit zur Heterothermie (Kältestarre) in Kombination mit einem physiologischen Farbwechsel zur Infrarotabsorption. Erforscht wurden diese Mechanismen primär durch Stephen M. Reilly (1982) bezüglich der Ökologie8 sowie durch B. Michael Walton und Albert F. Bennett (1993) bezüglich des temperaturabhängigen Farbwechsels kenianischer Chamäleons10.
+Es ist gesichert, dass Chamäleons nicht erfrieren, solange das Körperwasser nicht kristallisiert. Der Körper der Tiere besteht zu über 90 % aus Wasser, welches einen Salzgehalt von ca. 0,9 % aufweist12. Dieser Salzgehalt senkt den Gefrierpunkt der Gewebeflüssigkeit auf -2 °C bis -4 °C ab (gesichert)12. Fällt die Gewebetemperatur unter diesen Wert, bilden sich scharfe Eiskristalle, die die Zellmembranen durchtrennen. Beim Auftauen kommt es zur Autolyse (Zellzerstörung) und zum Tod, da Chamäleons keine Antifreeze-Proteine besitzen (gesichert)12.
+Um die gefährliche Phase der Unterkühlung bei Sonnenaufgang schnellstmöglich zu beenden, nutzt das Tier folgenden physiologischen Kausalmechanismus (gesichert):
+A führt zu B: Die Umgebungstemperatur nahe dem Gefrierpunkt gepaart mit den ersten Lichtreizen des Morgens stimulieren das zentrale Nervensystem13. Das Nervensystem induziert eine passive Verteilung von Melanin (schwarzes Pigment) in den Ausläufern der oberflächennahen Chromatophoren, was die anderen Farbzellen überdeckt und zu einer tiefschwarzen Körperfärbung führt13.
+B führt zu C: Die schwarz gefärbte Haut reflektiert nur noch minimale Anteile des Lichts und erhöht stattdessen die Absorptionsrate drastisch. Dies betrifft nicht nur das sichtbare Licht (400–700 nm), sondern vor allem das nahe Infrarotspektrum (NIR, 700–2600 nm), welches über 50 % der solaren Energie enthält10. Die absorbierte Strahlungsenergie wird direkt in Körperwärme umgesetzt.
+C führt zu D: Der rapid ansteigende innere Temperaturwert beendet die Kältestarre in einem Bruchteil der Zeit, die ein hell gefärbtes Tier benötigen würde. Es ist nachgewiesen, dass bei 5 °C Körpertemperatur bereits Zungenschüsse zur Nahrungsaufnahme möglich sind12. Sobald die optimale Betriebstemperatur erreicht ist, zieht sich das Melanin zurück und das Tier nimmt wieder seine reguläre Krypsis-Färbung (Tarnung) an.
+Konkurrierende Erklärungen für den Farbwechsel (wie reine soziale Kommunikation oder Tarnung) greifen hier ineinander. Es ist gesichert, dass der Farbwechsel bei Chamäleons primär der sozialen Kommunikation dient15. Im spezifischen Fall der frühmorgendlichen Schwarzfärbung bei Hochlandarten ist die thermoregulatorische Funktion jedoch biophysikalisch nachgewiesen und überlagert in diesem Zeitfenster die Kommunikationsfunktion10.
+4. Ökologie und Verhalten
+Lebensraum: Es ist gesichert, dass Trioceros schubotzi ausschließlich im Mount Kenya Nationalpark vorkommt3. Das Habitat beschränkt sich strikt auf die afroalpine Moorland- und Ericaceous-Zone in Höhenlagen zwischen 3.000 und 4.200 m über dem Meeresspiegel3. Die Vegetation besteht aus subtropischem/tropischem Hochland-Strauchwerk, dominiert von niedrigen Büschen und Baumheide (Erica spp.)3. Das Klima ("Sommer am Tag, Winter in der Nacht") ist durch Frostnächte und starke UV-Strahlung am Tag geprägt16.
+Nahrung und Abhängigkeiten: Die Art ernährt sich gesichert als insektivorer Lauerjäger (Sit-and-Wait-Predator)3. Zur Nahrung zählen Gliederfüßer sowie weiche Wirbellose wie Regenwürmer und Nacktschnecken3. Pflanzliche Nahrung ist nicht dokumentiert3. Es wird vermutet, dass Populationen von Gliederfüßern in dieser Höhenlage direkt vom Prädationsdruck des Chamäleons beeinflusst werden18. Umgekehrt hängt das Überleben der Art von der Dichte der Insekten ab. Als Beutetiere (Prädation) dienen Chamäleons generell Vögeln und Schlangen18. In der afroalpinen Zone des Mount Kenya kommen prädativ beispielsweise Greifvögel und die endemische Mount-Kenya-Buschviper (Atheris desaixi) in Betracht, die das Habitat teilen17.
+Fortpflanzung und Sozialverhalten: Es ist gesichert, dass T. schubotzi ovovivipar (lebendgebärend) ist1. Dies ist eine zwingende evolutionäre Anpassung an die Höhe, da abgelegte Eier im Boden gefrieren würden2. Das Weibchen behält die Eier im Körper, fungiert durch das Sonnenbaden als mobiler Inkubator und bringt schließlich voll entwickelte Jungtiere zur Welt2. Die Art lebt gesichert solitär und zeigt Territorialverhalten, welches durch visuelle Displays (Körperabflachung, Farbwechsel) kommuniziert wird18.
+Tagesrhythmus und saisonale Muster (Fokus Ende September / Anfang Oktober): Die Tiere sind strikt tagaktiv3. Das Verhaltensmuster im Reisezeitraum (24.09. bis 12.10.) fällt auf das Ende der langen Trockenzeit und den Beginn der kleinen Regenzeit ("Short Rains"). Es ist gesichert, dass die Nahrungsverfügbarkeit (Insekten) in feuchteren Perioden ansteigt3. In diesem Zeitraum kommt es in den Vormittagsstunden vermehrt zu rascher Wolkenbildung und Niederschlägen. Es wird abgeleitet, dass T. schubotzi Ende September und Anfang Oktober die verbleibenden klaren Morgenstunden nach den Frostnächten maximal für das schwarze Sonnenbaden nutzen muss. Sobald kalter Nebel oder Regen einsetzt, verringert das Tier die Jagdaktivität drastisch und sucht Deckung im Strauchwerk, da die Körpertemperatur ohne direkte Infrarotstrahlung schnell absinkt3.
+5. Menschen und Kultur in Kenia
+Mythos und Überlieferung (Kikuyu): In der Mythologie der Kikuyu, die traditionell in der Region um den Mount Kenya leben, hat das Chamäleon eine zentrale, überlieferte Rolle bei der Entstehung des Todes. Die Legende besagt, dass der Schöpfergott Ngai das Chamäleon (kĩĩmbu) als ersten Boten zu den Menschen sandte22. Es sollte die Botschaft überbringen, dass die Menschen nach dem Tod wieder auferstehen würden22. Das Chamäleon ging jedoch seiner Natur entsprechend sehr langsam und hielt an, um Insekten zu fressen. Daraufhin sandte Ngai einen zweiten Boten – in einigen Versionen einen Webervogel, in anderen eine Eidechse (Gecko / intulo) – mit der Botschaft, dass die Menschen endgültig sterben sollen22. Der zweite Bote war schneller, erreichte die Menschen zuerst und verkündete den Tod. Als das Chamäleon schließlich eintraf und das ewige Leben verkünden wollte, antworteten die Menschen, dass sie das Wort des ersten Boten bereits akzeptiert hätten23. (Status: überliefert) Aufgrund dieser Überlieferung werden Chamäleons in Kenia oft als Unglücksbringer angesehen und in Konfliktsituationen von der lokalen Bevölkerung gemieden oder getötet24.
+Nutzung:
+Es gibt keine belegten Daten für die Nutzung von T. schubotzi als Nahrung oder Medizin in Kenia.
+Schutzstatus und Konflikte:
+
+Parameter
+	Datenlage
+	Status
+
+IUCN Red List
+	Near Threatened (Potenziell gefährdet). Assessment 2013, publiziert 20143.
+	Gesichert
+
+CITES
+	Anhang II (Regulierung des internationalen Handels)3.
+	Gesichert
+
+Bestandszahlen
+	Exakte absolute Zahlen sind unbekannt3. Das Vorkommensgebiet (Extent of Occurrence) beträgt ca. 130 km²3.
+	Gesichert
+Historische und aktuelle Konflikte mit dem Menschen manifestieren sich primär durch Habitatverlust. Es ist gesichert, dass anthropogen verursachte Brände (Wildfires) während Trockenperioden große Flächen der Heidevegetation (Moorland) auf dem Mount Kenya zerstören3. Da das Chamäleon auf diese Sträucher angewiesen ist, bedrohen die Feuer den Bestand existenziell. Zudem zwingt der Klimawandel die an Kälte angepasste Art, weiter den Berg hinaufzuwandern, was den ohnehin winzigen Lebensraum komprimiert3.
+6. Wissenschaftsgeschichte
+Die Taxonomie von Trioceros schubotzi ist geprägt von historischen Expeditionen und nomenklatorischen Revisionen:
+1907-1908: Während der "Deutschen Zentral-Afrika Expedition" unter Führung von Adolf Friedrich, Herzog zu Mecklenburg, wurden die ersten Typusexemplare auf 4.000 m Höhe am Mount Kenya gesammelt1.
+1912: Der deutsche Herpetologe Richard Sternfeld beschrieb die Art erstmals wissenschaftlich unter dem Namen Chamaeleon schubotzi, benannt nach dem Expeditionsteilnehmer Johann G. Schubotz1. (Status: gesichert)
+1963: Der Herpetologe A. S. Rand veröffentlichte Notizen zum Chamaeleo bitaeniatus-Komplex und ordnete einen Lectotypus für schubotzi zu1.
+1982: Stephen M. Reilly publizierte die Studie "Ecological notes on Chamaeleo schubotzi from Mount Kenya", welche die erste fundierte Erforschung der afroalpinen Ökologie dieser spezifischen Art darstellte8. (Status: gesichert)
+2009: Colin R. Tilbury und Krystal A. Tolley publizierten eine umfassende genetische Neuklassifizierung der afrikanischen Chamäleons. Basierend auf molekularen Daten erhoben sie die Untergattung Trioceros zur vollen Gattung, womit die Art ihren heutigen Namen erhielt1. (Status: gesichert)
+2020 (Kontroverse): Der Taxonom Charles J. J. Klaver deckte auf, dass die Bestimmung des Lectotypus durch Rand im Jahr 1963 nach den Richtlinien des International Code of Zoological Nomenclature (ICZN, Art. 74.1.1) formell ungültig war1. Klaver korrigierte dies und bestätigte das Exemplar ZMB 15409 des Museums für Naturkunde Berlin als rechtmäßigen Lectotypus1. (Status: gesichert)
+7. Fotografie (Route, Tageszeit und Technik)
+Logistik auf der Route: Die geplante Reiseroute (Nyahururu, Rumuruti, Naro Moru, Ol Pejeta, Nanyuki, Mpala) verläuft durchgehend auf Höhenlagen zwischen 1.700 und 2.500 m. Es ist gesichert, dass Trioceros schubotzi jedoch ausschließlich oberhalb von 3.000 m vorkommt3. Um die Art zu fotografieren, ist ein Abstecher in den Mount Kenya Nationalpark zwingend erforderlich. Von den Orten der Route bieten sich zwei Zugänge an:
+Von Naro Moru aus über die Naro Moru Route (Fahrt bis zur Met Station auf ca. 3.000 m, danach Fußmarsch in die Moorland-Zone).
+Von Nanyuki aus über die Sirimon Route (Fahrt zum Old Moses Camp auf ca. 3.300 m, direkt im Habitat der Erica-Sträucher)16.
+Tageszeit und Verhalten: Die beste Zeit zur Beobachtung ist der frühe Morgen (ca. 06:15 bis 08:30 Uhr). Zu diesem Zeitpunkt sitzen die Tiere offen im Geäst und färben sich schwarz, um Infrarotlicht zu absorbieren13. Das Abwarten lohnt sich, bis die Tiere auf Betriebstemperatur sind und der erste Zungenschuss nach Insekten erfolgt12.
+Fluchtdistanz und typische Fehler: Chamäleons haben eine sehr geringe Fluchtdistanz, da ihre primäre Verteidigung die Tarnung (Krypsis) ist. Wenn sie sich bedroht fühlen, fliehen sie nicht schnell, sondern rotieren den Körper extrem langsam auf die dem Beobachter abgewandte Seite des Astes18. Der größte handwerkliche Fehler des Fotografen wäre es, bei der Annäherung seinen eigenen Schatten auf das Chamäleon fallen zu lassen. Das Blockieren der direkten Infrarotstrahlung unterbricht die lebenswichtige Aufwärmphase des Tieres sofort10.
+Kameraausrüstung und Verschlusszeiten:
+150-600 mm: Das optimale Objektiv. Es ermöglicht eine Distanz von 2 bis 3 Metern, wodurch das Chamäleon den Fotografen nicht als Bedrohung wahrnimmt und nicht hinter den Ast rotiert. Zudem verdichtet die Brennweite das oft unruhige Buschwerk zu einem homogenen Hintergrund (Bokeh).
+100-400 mm: Ebenfalls exzellent geeignet, insbesondere an der Naheinstellgrenze, um die nur 13 cm kleinen Tiere formatfüllend abzulichten.
+26-60 mm / 45 mm: Nur für Dokumentationen des gesamten Habitats (z. B. Busch im Vordergrund, Gletscher im Hintergrund) sinnvoll.
+Verschlusszeiten: Für ein sitzendes Tier reichen 1/250 s. Um den ballistischen Zungenschuss gestochen scharf "einzufrieren", sind zwingend 1/2000 s bis 1/4000 s erforderlich26. (Status: gesichert).
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+IUCN Red List (Assessment 2014): Umfassende Daten zum Schutzstatus, zur Verbreitungsfläche und zu Bedrohungen. https://www.iucnredlist.org/species/172539/13447243
+The Reptile Database: Vollständige taxonomische Historie, Synonyme und Verweise auf Originalpublikationen für Trioceros schubotzi. https://reptile-database.reptarium.cz/Trioceros/schubotzi?search_param=%28%291
+Fotos: 3. Wikimedia Commons: Sammlung von Aufnahmen der Gattung Trioceros, einschließlich Hochlandarten in ihrem natürlichen Habitat. https://commons.wikimedia.org/wiki/Category:Trioceros27
+Verbreitungskarte: 4. GBIF (Global Biodiversity Information Facility): Interaktive Karten und geografische Occurrence-Datensätze für Kenia. https://www.gbif.org/dataset/7233a2ba-b5ef-44e2-b13c-983f504447bc19
+Kultur / Geschichte / Ökologie: 5. IUCN World Heritage Outlook (Mount Kenya): Detailbericht zur Afroalpinen Vegetation, Höhenzonierung und den verheerenden Feuer-Bedrohungen. https://worldheritageoutlook.iucn.org/node/1082/pdf?year=202516 6. Evolution and Biogeography of Chameleons: Wissenschaftliches Fachkapitel über die Anpassung und Phylogenetik in afrikanischen Hochgebirgshabitaten (Tolley & Menegon). https://www.researchgate.net/publication/259285040_Evolution_and_biogeography_of_chameleons28
+9. Visuelle Beschreibung für eine Illustration
+The Trioceros schubotzi perches delicately on a frost-touched branch, its small, laterally compressed body measuring just under 15 cm in total length. The head is defined by a prominent triangular casque pointing upward at the rear, completely lacking the three forward-facing horns seen in related species. In its morning state, the granular, heavily textured skin is suffused with a deep, matte charcoal-black hue designed to absorb heat, while faint traces of a turquoise and yellow lateral stripe hint at its underlying adult coloration. The zygodactyl feet, shaped like mittens with two toes pointing outward and three inward, tightly grip the stem.
+Details for illustration:
+Blatt: The thick, needle-like foliage of a Giant Heather (Erica spp.) branch upon which the chameleon rests.
+Auge: The large, conical eye turret independently swiveling backwards, contrasting with the dark skin through a slightly lighter, scaly rim.
+Rindenstruktur: A deeply fissured, slightly charred lower stem of the Erica bush, indicating survival through a recent moorland fire.
+Kulturelle Vignette: A traditional, intricately woven Kikuyu basket (Kiondo) resting far below among the lower bushes, establishing the cultural connection to the mountain's human neighbors.
+10. Was nicht belegt werden konnte (Lücken)
+Trotz umfangreicher Sichtung des verfügbaren Datenmaterials konnten die folgenden, spezifisch angefragten Parameter nicht belegt werden:
+Lokale Namen bei Maa, Samburu, Giriama und Kamba: Während die Kikuyu/Swahili-Namen gesichert sind, fehlen linguistische Belege für den Namen speziell dieser Hochland-Art bei den anderen genannten Bevölkerungsgruppen.
+Wörtliche Bedeutung von "kĩĩmbu": Die linguistische Wurzel oder wörtliche Übersetzung des Kikuyu-Wortes für Chamäleon konnte aus den Quellen nicht abgeleitet werden.
+Genaue Tragzeit / Wurfgröße: Obwohl die Ovoviviparie gesichert ist, fehlen quantitative Daten zur Gestationsdauer und Wurfgröße. Diese sind in der Fachliteratur explizit als unzureichend erforscht gekennzeichnet.
+Gewicht in Gramm: In den herpetologischen Datensätzen sind keine Messreihen zum Gewicht der Art dokumentiert, weshalb eine Schätzung unterbleibt.
+Exakte Größenspanne weiblicher Gesamtlängen: Während die Kopf-Rumpf-Länge mit 49 mm gemessen wurde, fehlen statistisch belastbare Spannen für die gesamte Länge erwachsener Weibchen in den Quellen.
+Alltagsvergleiche in der Quelle: Die Alltagsvergleiche (Handfläche) wurden aufgrund der metrischen Daten (130 mm) berechnet, stehen jedoch nicht als wortwörtliche Zitate in den wissenschaftlichen Studien.
+Referenzen
+Trioceros schubotzi (STERNFELD, 1912) - The Reptile Database, https://reptile-database.reptarium.cz/Trioceros/schubotzi?search_param=%28%29
+Trioceros - Wikipedia, https://en.wikipedia.org/wiki/Trioceros
+Trioceros schubotzi - Grokipedia, https://grokipedia.com/page/trioceros_schubotzi
+chameleon - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/chameleon
+a Case Study of Kisagalla Losing Its Words to Kiswahili, https://erepository.uonbi.ac.ke/server/api/core/bitstreams/d01b0dc5-eea6-4670-8f3f-a8fcb4cfece0/content
+Exploring the highlands of Kenya in search of chameleons, https://www.agchamaeleons.de/wp-content/uploads/2022/07/Chamaeleo_0045-Jan-Stipala-Exploring-the-highlands-of-Kenya-in-search-of-chameleons.pdf
+A Photographic Guide To Snakes, Other Reptiles and Amphibians of, https://www.scribd.com/document/622641044/A-Photographic-Guide-to-Snakes-other-Reptiles-and-Amphibians-of-East-Africa-PDFDrive
+Patterns of reptile and amphibian species richness along elevational, https://pmc.ncbi.nlm.nih.gov/articles/PMC4771954/
+ECOLOGICAL NOTES ON CHAMAELEO SCHUBOTZI FROM, https://www.tandfonline.com/doi/abs/10.1080/04416651.1982.9650103
+Temperature-Dependent Color Change in Kenyan Chameleons, https://www.journals.uchicago.edu/doi/abs/10.1086/physzool.66.2.30163690
+Colour change on different body regions provides thermal and, https://royalsocietypublishing.org/rspb/article/283/1832/20160626/78091/Colour-change-on-different-body-regions-provides
+Myth 69: “Chameleons Will Die When Temperatures Drop to the 40s, https://www.chameleons.info/l/xmyth-69-chameleons-will-die-when-temperatures-drop-to-the-40s-of/
+AG Chamäleons, https://www.agchamaeleons.de/wp-content/uploads/2019/10/Chamaeleo_45-nomemberlist.pdf
+Der physiologische Farbwechsel bei Chamäleons, https://www.agchamaeleons.de/wp-content/uploads/2022/07/Chamaeleo_0045-Tobias-Machts-Der-physiologische-Farbwechsel-bei-Chamaeleons.pdf
+Flap-necked chameleons change colour to match their background, https://eprints.bournemouth.ac.uk/41522/1/major-et-al-2025-flap-necked-chameleons-change-colour-to-match-their-background.pdf
+Mount Kenya National Park/Natural Forest - View PDF, https://worldheritageoutlook.iucn.org/node/1082/pdf?year=2025
+Mount Kenya National Park/Natural Forest | World Heritage Outlook, https://worldheritageoutlook.iucn.org/explore-sites/mount-kenya-national-parknatural-forest
+Chameleon - Chamaeleonidae - A-Z Animals, https://a-z-animals.com/animals/chameleon/
+Amphibian and reptile species occurrences in the Tana River Basin, https://www.gbif.org/dataset/7233a2ba-b5ef-44e2-b13c-983f504447bc
+Chameleons of Southern Africa | Request PDF - ResearchGate, https://www.researchgate.net/publication/259285144_Chameleons_of_Southern_Africa
+Chameleons At Night: Why Total Darkness, Drought And Stable, https://www.chameleons.info/l/chameleons-at-night-why-total-darkness-drought-and-stable-temperatures-are-a-mistake/
+Oral Narratives: Themes and Analysis | PDF - Scribd, https://www.scribd.com/document/881304312/54-New-Oral-Narratives-Term-2-Pamphlet
+Why did Unkulunkulu send the lizard after the chameleon?, https://mythology.stackexchange.com/questions/1375/why-did-unkulunkulu-send-the-lizard-after-the-chameleon
+The East Africa Protectorate - Internet Archive, https://archive.org/download/eastafricaprotec00eliouoft/eastafricaprotec00eliouoft.pdf
+(PDF) A Re-Appraisal Of The Systematics Of The African Genus, https://www.researchgate.net/publication/228960635_A_Re-Appraisal_Of_The_Systematics_Of_The_African_Genus_Chamaeleo_Reptilia_Chamaeleonidae
+Ballistic tongue projection in chameleons maintains high ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC2851764/
+Category:Trioceros - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Trioceros
+(PDF) Evolution and biogeography of chameleons - ResearchGate, https://www.researchgate.net/publication/259285040_Evolution_and_biogeography_of_chameleons
