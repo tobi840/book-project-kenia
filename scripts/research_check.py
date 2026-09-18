@@ -105,6 +105,8 @@ Januar Februar Maerz April Juni Juli August September Oktober November
 Dezember Montag Dienstag Mittwoch Donnerstag Freitag Samstag Sonntag
 Swahili Kikuyu Kamba Luo Luhya Maasai Maa Meru Embu Samburu Pokot Turkana
 Works Where This These Eine Diese Dieser Der Die Das Ein Und Als Von Mit
+Artname Gattungsname Familienname Trivialname Artepitheton Gattung Art
+Familie Ordnung Unterart Unterfamilie Klasse Name Begriff Wort Namen
 """.split())
 
 
