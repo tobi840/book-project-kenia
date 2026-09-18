@@ -1,0 +1,152 @@
+Strukturiertes Forschungsdossier: Warburgia ugandensis
+1. Namen und Etymologie
+Die taxonomische und umgangssprachliche Nomenklatur der Art ist durch eine Kombination aus botanischer Klassifikation und regionaler Nutzung in Ostafrika dokumentiert.
+Die formelle wissenschaftliche Benennung lautet Warburgia ugandensis Sprague [gesichert]1. Das Art-Epitheton ugandensis referenziert den geografischen Ursprung oder einen der primären Verbreitungsräume der Pflanze, namentlich Uganda [gesichert]2. Die etymologische Herleitung des Gattungsnamens Warburgia wird in der vorliegenden wissenschaftlichen Literatur nicht explizit aufgeschlüsselt, woraus sich eine Lücke in der Namenshistorie ergibt [unbekannt]. Die Erstbeschreibung erfolgte im Jahr 1906 durch den schottischen Botaniker Thomas Archibald Sprague [gesichert]1.
+Die nachfolgende Tabelle verzeichnet die belegten Trivial- und Lokalnamen der Spezies. Die wörtlichen Bedeutungen der regionalen Namen sind in der ethobotanischen Literatur des Quellenmaterials nicht übersetzt.
+
+Sprache / Region
+Name
+Wörtliche Bedeutung
+Status
+Quelle
+Deutsch
+Uganda-Pfefferrindenbaum
+Bezieht sich auf den scharfen Geschmack der Rinde
+gesichert
+Nutzer-Vorgabe
+Englisch
+East African Greenheart, East African greenbark, Elephant Pepper Tree, Uganda Greenheart
+unbekannt
+gesichert
+2
+Swahili
+mgurure
+unbekannt
+gesichert
+3
+Kikuyu
+Mũthĩga, muthiga
+unbekannt
+gesichert
+2
+Maasai
+Olsokonoi, ol-mororoi
+unbekannt
+gesichert
+2
+Maasai
+Soroko
+unbekannt
+umstritten (in Quelle syntaktisch nicht trennscharf zugeordnet)
+5
+Nandi
+Sinendet
+unbekannt
+gesichert
+6
+Luganda / Ganda
+Abasi, Mukuzanume, masuko
+unbekannt
+gesichert
+2
+Luhya
+mukhungula
+unbekannt
+gesichert
+3
+Sukuma
+kagua
+unbekannt
+gesichert
+3
+mhw
+Makokothi
+unbekannt
+gesichert
+2
+Für die Gemeinschaften der Kamba, Samburu und Giriama liegen im untersuchten Datensatz keine verifizierten Bezeichnungen für Warburgia ugandensis vor.
+2. Erscheinung, mit Maßen
+Warburgia ugandensis ist ein immergrüner Baum, der eine dichte, belaubte Krone ausbildet und als Teil der oberen Waldschicht (Canopy) wächst [gesichert]3. Morphologische Unterschiede zwischen den Geschlechtern (Sexualdimorphismus) oder spezifischen Altersstufen werden in den quantitativen Studien nicht dokumentiert [unbekannt].
+Die physischen Dimensionen des Baumes variieren in direkter Abhängigkeit von den abiotischen Faktoren des Habitats. Die Höhe des Baumes liegt zwischen 4,3 Metern und 15,0 Metern, wobei die Wuchshöhe mit zunehmender Höhenlage des Standorts abnimmt [gesichert]10. Der Kronendurchmesser reicht von 2,3 Metern bis zu 5,1 Metern [gesichert]10. Diese Kronenausprägung wird maßgeblich durch die direkte Konkurrenz benachbarter Bäume determiniert; in offenen Habitaten entwickelt die Spezies signifikant ausladendere Kronen [gesichert]10.
+Der Brusthöhendurchmesser (BHD) des Stammes wird mit Werten zwischen 0,08 Metern und 0,26 Metern gemessen [gesichert]10. Ein BHD von 0,26 Metern entspricht im Alltagsvergleich näherungsweise der Länge eines durchschnittlichen menschlichen Unterarms. Auch der Stammdurchmesser korreliert negativ mit der Niederschlagsmenge und der topografischen Höhe des Standortes [gesichert]10.
+Hinsichtlich der Holzdichte weisen die agrar- und forstwissenschaftlichen Datenbanken widersprüchliche Messreihen auf. Einerseits wird das spezifische Gewicht mit 1.010 kg/m³ angegeben [gesichert]11. Andererseits verzeichnen agroforstwirtschaftliche Register eine Basisdichte von 500 bis 650 kg/m³ [umstritten]12. Das Splintholz des Baumes ist farblich gelb strukturiert, während das Kernholz eine hellbraune bis dunkelrote Färbung annimmt und einen geraden Faserverlauf aufweist [gesichert]12. Bei direkter Luftexposition verfärbt sich das initial gelbe oder grünliche Kernholz zunehmend braun [gesichert]12. Das Holz zeichnet sich durch einen hohen natürlichen Ölgehalt aus, weshalb es bei der Verbrennung einen intensiven, weihrauchähnlichen Geruch emittiert [gesichert]9.
+Die Rinde des Baumes, ebenso wie die Blätter, ist mit hochmolekularen kondensierten Tanninen und ätherischen Ölen durchsetzt [gesichert]13. Diese Inhaltsstoffe verursachen bei der oralen Aufnahme einen brennend scharfen, pfeffrigen Geschmack [gesichert]9. Die jungen, neugebildeten Zweige (Softwood) sind saftig und weisen die höchste Rate an regenerativen Zellstrukturen für eine künstliche Vermehrung auf [gesichert]9.
+Die Früchte der Spezies sind essbar, replizieren jedoch das chemische Profil der Rinde und weisen ebenfalls eine scharfe, pfeffrige Sensorik auf [gesichert]9. Präzise metrische Angaben zu Blattgrößen, Fruchtgewichten oder Samenkapseln für diese spezifische Art sind in den vorliegenden Quellen nicht erfasst [unbekannt].
+3. Der Mechanismus
+Das fundamentale biologische und phytochemische Prinzip, das Warburgia ugandensis auszeichnet, ist die endogene Synthese hochwirksamer Sesquiterpenoide [gesichert]15. Zu den primären isolierten und strukturell charakterisierten Molekülen dieses Typs zählen Muzigadial, Warburganal sowie das Driman-Sesquiterpenoid Ugandenial A [gesichert]15. Diese Verbindungen dienen dem Baum als evolutionärer Abwehrmechanismus und greifen bei Fressfeinden und Pathogenen in grundlegende physiologische und zelluläre Prozesse ein. Die Erforschung dieser Verbindungen, insbesondere durch den Wissenschaftler Kubo in den späten 1970er Jahren, deckte zwei distinkte Kausalketten auf: eine ökologische Fraßhemmung und eine pharmakologische Toxizität gegenüber Blutparasiten [gesichert]15.
+Die ökologische Kausalkette der Insektenabwehr operiert als chemischer Antifeedant-Mechanismus. Der Prozess beginnt mit der Synthese der Sesquiterpenoide in den Laub- und Rindengeweben des Baumes. Wenn Insektenlarven, nachgewiesen bei mindestens zwei Spezies, den Fraß an der Pflanze beginnen, nehmen sie diese Moleküle auf. Die Substanzen binden an spezifische Rezeptoren der Insekten und blockieren die sensorische Rückkopplung für die Nahrungsaufnahme. Diese Rezeptorhemmung führt zu einem sofortigen Stopp des Fraßverhaltens. In der Konsequenz verhungern die Larven oder migrieren von der Pflanze, wodurch die strukturelle Integrität des Baumes gesichert wird [gesichert]17. Parallel entfalten die Moleküle im unmittelbaren Umfeld der Pflanze fungizide sowie hefeabtötende Eigenschaften, die das mikrobielle Milieu regulieren [gesichert]16.
+Die pharmakologische Kausalkette zur Bekämpfung von Plasmodium falciparum, dem Erreger der Malaria tropica, basiert auf der Störung des parasitären Stoffwechsels. Der Mechanismus funktioniert wie folgt: Der Malaria-Parasit infiziert menschliche Erythrozyten (rote Blutkörperchen) und zersetzt das darin enthaltene Hämoglobin, um Aminosäuren zu gewinnen. Bei diesem Verdauungsprozess wird freies Häm freigesetzt, welches für den Parasiten hochtoxisch ist. Um dieser Selbstvergiftung zu entgehen, nutzt der Parasit den Mechanismus der Biokristallisation, bei dem das toxische Häm in ungiftige Hämozoin-Kristalle umgewandelt wird. Werden die Sesquiterpenoide aus W. ugandensis in das Blutsystem eingebracht, inhibieren sie exakt diesen Biokristallisationsprozess. Durch die Blockade der Kristallisation reichert sich das toxische Häm innerhalb der Vakuolen des Parasiten an. Diese Akkumulation führt zur Zerstörung der parasitären Membranen und letztlich zum Tod des Erregers (Parasite Clearance) [gesichert]18.
+Die quantitative Belegung dieser Mechanismen zeigt in den pharmakologischen Studien heterogene Ergebnisse, die methodisch bedingt sind. In In-vitro-Versuchen mit dem resistenten P. falciparum Stamm K1 zeigte das Extrakt eine mittlere inhibitorische Konzentration (IC50) von 5,7 µg/ml [gesichert]18. Die zytotoxische Konzentration (CC50), ab der das Extrakt gesunde Säugetierzellen angreift, lag in dieser Studie bei 14,7 µg/ml, was einen therapeutischen Selektivitätsindex von 2,6 ergibt [gesichert]18. Andere Messungen weisen an Darmepithelzellen (IEC-6) einen IC50-Wert von unter 50 µg/ml aus [gesichert]16. Eine Studie unter Verwendung von Ethanol- und DMSO-Lösungsmitteln ermittelte hochtoxische CC50-Werte von 7,6 µg/ml respektive 6,4 µg/ml [umstritten]19. Im direkten Widerspruch hierzu steht eine toxikologische Auswertung, bei der in akuten Toxizitätstests an Mäusen eine CC50 von über 250 µg/ml und eine letale Dosis (LD50) von über 5.000 mg/kg Körpergewicht verzeichnet wurde, wobei keine Mortalität der Testtiere auftrat [umstritten]21.
+4. Ökologie und Verhalten
+Warburgia ugandensis besiedelt spezifische ökologische Nischen innerhalb Ostafrikas und weist eine enge Toleranzspanne gegenüber klimatischen Bedingungen auf. Der primäre Lebensraum erstreckt sich über Tiefland-Regenwälder sowie trockene, immergrüne Bergwälder (Dry Montane Forests) [gesichert]9.
+Feldstudien in den Bergwäldern um den Mount Kenya (Kangaita, Kahurura, Ontulili, Gathioro) spezifizieren die klimatischen Präferenzen der Art. Die Populationen konzentrieren sich auf Höhenlagen zwischen 1.800 und 2.500 Metern über dem Meeresspiegel [gesichert]10. Das optimale jährliche Niederschlagsvolumen in diesen Habitaten liegt zwischen 650 mm und 1.500 mm [gesichert]10. Die Spezies reagiert stark negativ auf übermäßige Feuchtigkeit; sie fehlt vollständig in feuchten Bergwäldern (Moist Montane Forests) sowie in mittleren feuchten Zonen, was auf eine Unverträglichkeit gegenüber wassergesättigten Böden schließen lässt [gesichert]10.
+Die Fortpflanzungsbiologie ist durch ein gemischtes Paarungssystem (mixed mating system) charakterisiert, das überwiegend auf Fremdbestäubung (Outcrossing) angewiesen ist [gesichert]22. Die Pflanze ist hierbei auf tierische Vektoren angewiesen. Kleine Insekten, vor allem Bienen der Gattung Trigona, fungieren als primäre Bestäuber der Blüten [gesichert]22. Ein spezifischer Tagesrhythmus wird in den Quellen nicht quantifiziert, jedoch bedingt die Insektenbestäubung eine Öffnung und olfaktorische Aktivität der Blüten während der diurnalen Flugzeiten der Trigona-Bienen [vermutet].
+Bezüglich saisonaler Muster für den Zeitraum Ende September und Anfang Oktober, dem Übergang von der langen Trockenzeit zur kurzen Regenzeit in Kenia, liefern die ökologischen Datensätze keine artspezifischen phänologischen Zeitreihen. Blattaustrieb, exakte Blütezeiten oder Fruchtreife können für dieses spezifische meteorologische Fenster nicht belastbar abgeleitet werden [unbekannt].
+5. Menschen und Kultur in Kenia
+Die weitreichende Verwendung von Warburgia ugandensis in der Kultur, Medizin und dem Alltag der kenianischen und ugandischen Bevölkerung hat historische Wurzeln und prägt die gegenwärtige Bestandssituation des Baumes.
+In der traditionellen Medizin (Ethnomedizin) gilt die Art als essenzielle Ressource. Die Rinde, die Wurzeln und junge Zweige enthalten antibakterielle und antimykotische Wirkstoffe [gesichert]9. Getrocknete Rinde wird von Anwendern zerkaut und der austretende Saft geschluckt, um ein breites Spektrum an Leiden zu behandeln, darunter Verstopfung, Magenschmerzen, Zahnschmerzen, Husten, Fieber, Muskelschmerzen und allgemeine Gliederschmerzen [gesichert]9. Frische Wurzeln werden abgekocht und der resultierende Sud wird in Suppen gemischt, um Durchfall (Diarrhö) präventiv entgegenzuwirken [gesichert]9. Ein Absud aus Blättern wird äußerlich als Heilbad zur Linderung diverser Hautkrankheiten appliziert [gesichert]9. Vor allem aber werden Rinde und Blätter in wässrigen Abkochungen konsumiert, um Malaria zu behandeln [gesichert]9.
+Abseits der Pharmazie liefert der Baum Material für Handwerk und Ernährung. Das extrem klebrige Harz, das aus der Rinde austritt, wird als natürlicher Klebstoff extrahiert. Handwerker verwenden es, um Werkzeugstiele (etwa bei landwirtschaftlichen Hacken) in Metallfassungen zu fixieren [gesichert]9. In der Lederverarbeitung werden Extrakte der Rinde aufgrund der enthaltenen hochmolekularen kondensierten Tannine als Gerbstoff genutzt [gesichert]13. Die Blätter und Samen dienen in der lokalen Küche als Gewürz, das Currys eine pfeffrige Schärfe verleiht [gesichert]9. Das stark harzhaltige Holz wird lokal als Brennholz geschätzt und emittiert beim Verbrennen einen weihrauchartigen Geruch [gesichert]9.
+Kulturelle Überlieferungen sind rar dokumentiert. Innerhalb der Kikuyu-Gemeinschaft zirkulieren anekdotische Berichte, nach denen die Blätter des lokal "Muthiga" genannten Baumes Zahnschmerzen auf vermeintlich magische Weise heilen, was den pharmakologischen Effekt mythisch auflädt [überliefert]4.
+Diese intensive Nutzung führt zu massiven ökologischen Konflikten. Durch das unsachgemäße und extensive Ernten der Rinde (welches oftmals zur Ringelung und damit zum Absterben des Baumes führt) sowie durch die Umwandlung von Waldgebieten in landwirtschaftliche Nutzflächen, verzeichnet die Spezies in Afrika einen drastischen Populationsrückgang [gesichert]22. In freier Wildbahn sind verwertbare Exemplare zunehmend schwer zu finden [gesichert]9. Genaue absolute Bestandszahlen mit Jahresangaben sind in der Literatur jedoch nicht publiziert [unbekannt].
+Um dem Populationsdruck entgegenzuwirken, werden Domestikationsprogramme evaluiert. Eine genetische Analyse mittels Amplified Fragment Length Polymorphism (AFLP), bei der 223 polymorphe Bänder isoliert wurden, bewies, dass Bäume auf landwirtschaftlichen Nutzflächen (On-farm-Populationen) eine erstaunlich hohe genetische Diversität (H = 0.1278 bis H = 0.2892) aufweisen. Die Analyse der molekularen Varianz (AMOVA) zeigte, dass 54 % der genetischen Variation innerhalb der Populationen und 46 % zwischen den Populationen liegt. Dies macht die Art zu einem idealen Kandidaten für Schutzprogramme durch Farm-Anbau [gesichert]22. Da die Samen stark rekalzitrant sind (sie verlieren schnell ihre Keimfähigkeit), wurden vegetative Vermehrungsexperimente mit 1.620 Stecklingen aus dem Mabira-Wald durchgeführt. Die höchste Erfolgsquote bei der Kallus- und Wurzelbildung erzielten 7,5 cm lange Weichholz-Stecklinge (Softwood), die unter 10 % Schattennetzen in gemahlener Kiefernrinde kultiviert wurden [gesichert]9.
+6. Wissenschaftsgeschichte
+Die formelle wissenschaftliche Beschreibung der Art wurde im Jahr 1906 durch den schottischen Botaniker Thomas Archibald Sprague in den Publikationen Journal of the Linnean Society, Botany und dem Kew Bulletin etabliert [gesichert]1.
+Die phytochemische Erschließung der Art nahm in den späten 1970er Jahren ihren Anfang, maßgeblich vorangetrieben durch den Forscher Kubo, dessen Arbeiten zur Isolierung der Driman-Sesquiterpenoide Warburganal und Muzigadial führten und deren Antifeedant-Eigenschaften belegten [gesichert]15.
+Eine breite Validierung der traditionellen ethnomedizinischen Nutzung erfolgte im Zeitraum von Januar 2003 bis Dezember 2021 durch das Kenya Medical Research Institute (KEMRI) und dessen Center for Traditional Medicine and Drug Research (CTMDR). In einer groß angelegten systematischen Untersuchung, die 1.170 Tests an 197 verschiedenen Pflanzenarten umfasste, wurden Extrakte von W. ugandensis in standardisierten In-vitro-Screenings auf ihre Zytotoxizität und ihre Plasmodien-Hemmung getestet. Studienleiter wie Muregi, Wube und Muthaura untersuchten hierbei die genauen IC50-Werte der Isolate, was die Art in den Fokus moderner Medikamentenentwicklung gegen resistente Malaria-Stämme rückte [gesichert]26. Parallel dazu etablierten Forscher wie Muchugi et al. im Jahr 2008 und 2012 die erste molekulargenetische Kartierung der Art mittels AFLP-Markern, um die Auswirkungen der Abholzung auf die genetische Diversität messbar zu machen [gesichert]22.
+7. Fotografie
+Für eine fotografische Dokumentation auf der Route durch Kenia bietet sich der Karura Forest in der Nähe von Nairobi an. In diesem auf ca. 1.700 Metern liegenden Waldgebiet formen teils sehr alte Exemplare von Warburgia ugandensis das Kronendach [gesichert]29.
+Da es sich um ein sessiles Motiv handelt, existiert keine Fluchtdistanz des Baumes. Jedoch erfordert die Interaktion mit der Tierwelt Geduld. Ein Ansitz an den Blüten lohnt sich zur Erfassung der Bestäubungsökologie. Die Blüten werden von kleinen Bienen (Trigona) angeflogen [gesichert]22. Für die Aufnahmen der Insekten im Anflug auf die Blüten sind aufgrund der schnellen Flügelbewegung Verschlusszeiten im Bereich der Standard-Makrofotografie von Insekten (vermutlich ab 1/1000 Sekunde) erforderlich [vermutet, aus physikalischen Gesetzmäßigkeiten abgeleitet, da in den Quellen nicht beziffert]. Eine spezifische Tageszeit ist in der Literatur nicht vermerkt, die Diurnik der Bienen limitiert das Zeitfenster jedoch auf die Tageslichtstunden [vermutet].
+Hinsichtlich der Objektivwahl diktiert die Morphologie des Baumes das Equipment. Um die bis zu 15 Meter hoch gelegenen Kronenbereiche, Blätter und Blüten von der Bodenperspektive aus formatfüllend abzulichten, sind die vorhandenen Teleobjektive mit Brennweiten von 100 bis 400 mm beziehungsweise 150 bis 600 mm zwingend erforderlich. Für Detailaufnahmen der dicken, gefurchten Rinde und der klebrigen, austretenden Harztropfen eignet sich das 45 mm Objektiv. Die Weitwinkel-Brennweiten (26 bis 60 mm) sind prädestiniert, um den Habitus des Baumes im dichten Bestandsgefüge des Karura Forest zu erfassen. Typische fotografische Fehler (wie Belichtungsprobleme durch den Kontrast von hellem Himmel und dunklem Canopy) werden im vorliegenden wissenschaftlichen Quellenmaterial nicht thematisiert [unbekannt].
+8. Links zum Weiterlesen und Sehen
+Verbreitungskarte und Taxonomie:	https://www.gbif.org/taxon/7FTT3	Der Eintrag der Global Biodiversity Information Facility (GBIF) listet die taxonomische Klassifizierung, Synonyme und umgangssprachliche Namen der Art.
+Historische Nomenklatur:	https://www.ipni.org/n/77189155-1	Die Datenbank des International Plant Names Index (IPNI) verzeichnet den historischen Publikationsnachweis der Erstbeschreibung durch T.A. Sprague aus dem Jahr 1906.
+Fachartikel zur Domestikation (Open Access):	https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0065619	Eine Studie aus PLOS ONE, die die Methodik der vegetativen Vermehrung (Stecklingsaufzucht in Kiefernrinde) aufgrund der Samenrekalzitranz detailliert beschreibt.
+Pharmakologische Fachquelle:	https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.678535/full	Ein ausführlicher Artikel aus Frontiers in Pharmacology, der die toxikologischen Parameter und die Anti-Malaria-Eigenschaften (Inhibition von Hämozoin) ethnomedizinischer Pflanzen Ugandas analysiert.
+Ökologie und kommerzieller Rückgang:	https://www.mdpi.com/2223-7747/10/9/1780	Eine Untersuchung in der Fachzeitschrift Plants (MDPI), welche taxonomische Unklarheiten beleuchtet und den potenziellen kommerziellen Einsatz der Extrakte als Ersatz für Sandelholzöl evaluiert.
+(Hinweis: Externe Medienlinks zu Fotodatenbanken wie Wikimedia oder iNaturalist sowie Tonaufnahmen waren im Forschungsmaterial nicht verzeichnet und können aufgrund der strengen Quellenvorgabe nicht bereitgestellt werden).
+9. Visuelle Beschreibung für eine Illustration
+Warburgia ugandensis presents as a robust, evergreen canopy tree reaching up to 15 meters in height, supported by a medium-thick trunk covered in deeply furrowed, greyish-brown bark. The crown is dense and rounded, tightly packed with alternate, glossy, dark-green leaves that reflect light from their smooth upper surfaces, possessing a tough, obovate morphology. Where the rough bark is scarred, small, sticky beads of amber-colored resin exude and slowly harden, contrasting sharply with the pale, yellowish-green heartwood exposed beneath.
+Detail 1: A close-up of a woody twig bearing a cluster of small, glossy, dark-green leaves, showing their entire or slightly toothed margins and a laterally placed, tiny, radially symmetric flower.
+Detail 2: The structural topography of the deeply fissured bark, highlighting a fresh, lateral cut that exposes the aromatic, pale yellow sapwood underneath.
+Detail 3: A small, native Trigona bee hovering directly above the delicate petals of a flower, actively foraging for pollen.
+Cultural Vignette: A traditional East African wooden-handled spear or agricultural hoe, where a thick, dark clump of hardened Warburgia resin has been meticulously applied around the metal joint to secure it firmly to the wooden shaft.
+10. Was du nicht belegen konntest
+Im Abgleich mit dem Forschungsauftrag konnten folgende Datenpunkte im bereitgestellten Material nicht oder nicht belastbar verifiziert werden:
+Saisonale Muster (24.09. bis 12.10.): Eine spezifische phänologische Aktivität (wie Blattaustrieb, Blühverhalten oder Fruchtreife) für das exakte Zeitfenster zwischen der langen Trockenzeit und dem Beginn der kleinen Regenzeit in Kenia ist in den Daten nicht erfasst.
+Wörtliche Bedeutung und Etymologie: Die sprachliche Herkunft des Gattungsnamens Warburgia sowie die wortwörtliche Übersetzung sämtlicher lokaler Bezeichnungen (wie "Sinendet" oder "Muthiga") fehlen im Quellenmaterial.
+Spezifische lokale Bezeichnungen: Für die ethnischen Gemeinschaften der Kamba, Samburu und Giriama liegen keine verifizierten Pflanzennamen für diese spezifische Baumart vor.
+Unterschiede bei Geschlecht und Alter: Spezifische morphologische oder chemische Abweichungen zwischen jungen und alten Bäumen (oder Geschlechtsdimorphismus) werden nicht beschrieben.
+Alltagsvergleich für Gewicht: Das metrische Gewicht des Holzes (kg/m³) ist zwar angegeben, lässt sich aber anhand der Quellen nicht seriös auf ein alltagsübliches Referenzobjekt (wie ein Fußballfeld oder eine Tür) umrechnen, da Volumenangaben zu diesen Alltagsgegenständen fehlen.
+Typische fotografische Fehler / Verschlusszeiten: Die Quellenlage zur Biologie des Baumes enthält keinerlei praxisbezogene Hinweise zu fotografischen Hürden oder artspezifischen Belichtungszeiten.
+Zusätzliche Medienlinks: Die geforderten spezifischen Links zu iNaturalist, Wikimedia Commons, Flickr Commons oder Tonaufnahmen sind im verifizierten Datensatz nicht enthalten.
+Works cited
+Warburgia ugandensis subspec. longifolia Verdc., https://www.ipni.org/n/77189155-1
+https://www.gbif.org/taxon/7FTT3
+Medicinal Plants from the Rural Greater Mpigi Region (Uganda) - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC7822678/
+Seen somewhere in Kitui Central. The tree known in Kamba as, https://www.facebook.com/61561957240286/posts/seen-somewhere-in-kitui-central-the-tree-known-in-kamba-as-mukuyu-english-name-s/122195293472398574/
+Kenyan Plant Names and Uses Guide | PDF | Kenya | Ficus - Scribd, https://www.scribd.com/document/895458711/Cog-Nosy
+Ludia mauritiana is a native shrub or small tree found across parts of, https://www.facebook.com/africanplantresearchcentre/posts/ludia-mauritiana-is-a-native-shrub-or-small-tree-found-across-parts-of-the-weste/1355335903443475/
+Craibia brownii is one of Kenya's least known indigenous trees, but, https://www.facebook.com/africanplantresearchcentre/posts/craibia-brownii-is-one-of-kenyas-least-known-indigenous-trees-but-it-has-long-be/1343602584616807/
+African Plant Research & Conservation Centre - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/this-is-one-of-kenyas-most-consequential-indigenous-plantstetradenia-riparia-is-/1340195771624155/
+VEGETATIVE PROPAGATION OF WARBURGIA UGANDENSIS, https://artefacts-discovery.researcher.life/full_text_files/DA-2/4b/4b2da8e87a233e76b2db320fe5904aa2/full_text/VNy75moPIyiLKm5R86HJ6dsAfBJuNE_Ex3z7LgIw%2BXw%3D.pdf
+(PDF) Environmental factors influencing structure and distribution of, https://www.researchgate.net/publication/264236299_Environmental_factors_influencing_structure_and_distribution_of_east_African_green_heart_Warburgia_ugandensis_Sprague_in_Mt_Kenya_Forest
+Saplings of Warburgia ugandensis, also known as Ugandan, https://www.facebook.com/100069809130801/posts/saplings-of-warburgia-ugandensis-also-known-as-ugandan-greenheart-or-simply-gree/622588620078104/
+agroforestree database 4.0 - World Agroforestry Centre, https://apps.worldagroforestry.org/treedb/index.php?keyword=Timber
+Warburgia ugandensis - PlantaeDB, https://plantaedb.com/taxa/phylum/angiosperms/order/canellales/family/canellaceae/genus/warburgia/species/warburgia-ugandensis
+agroforestree database 4.0 - World Agroforestry Centre, https://apps.worldagroforestry.org/treedb/index.php?keyword=Gum_Resin
+Sesquiterpenes from Warburgia ugandensis and their, https://www.researchgate.net/publication/7608439_Sesquiterpenes_from_Warburgia_ugandensis_and_their_antimycobacterial_activity
+Withania somnifera, Warbugia ugandensis, Prunus africana ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC3681961/
+The genus Warburgia: A review of its traditional uses and, https://www.tandfonline.com/doi/pdf/10.3109/13880209.2013.837935
+Pharmacological Assessment of the Antiprotozoal Activity ... - Frontiers, https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2021.678535/full
+Cytotoxicity of Medicinal Plant Species Used by Traditional Healers, https://d-nb.info/1371416532/34
+Cytotoxicity of Medicinal Plant Species Used by Traditional Healers, https://pmc.ncbi.nlm.nih.gov/articles/PMC9108544/
+Safety and Efficacy of Prunus africana and Warburgia ugandensis, https://www.cabidigitallibrary.org/doi/pdf/10.5555/20133287100
+Analysis of the impact of domestication of Warburgia ugandensis, https://www.researchgate.net/publication/305810264_Analysis_of_the_impact_of_domestication_of_Warburgia_ugandensis_Sprague_on_its_genetic_diversity_based_on_amplified_fragment_length_polymorphism
+Antiplasmodial and cytotoxic activities of medicinal plants, https://www.ethnopharmacologia.org/prelude2020/pdf/biblio-hl-20-lacroix.pdf
+An Illustrated Encyclopedia of Vascular Plants 9780226536705, https://dokumen.pub/plants-of-the-world-an-illustrated-encyclopedia-of-vascular-plants-9780226536705.html
+Knowledge Gaps in Taxonomy, Ecology, Population Distribution, https://www.mdpi.com/2223-7747/10/9/1780
+Charles N. Muthaura - Scholar - Bohrium, https://www.bohrium.com/scholar/Ke6644593/Charles_N._Muthaura
+Anti-plasmodial activity and toxicity of extracts of plants used in, https://www.semanticscholar.org/paper/Anti-plasmodial-activity-and-toxicity-of-extracts-Kirira-Rukunga/aa717018edd4d99d34d39f063aff27db037c2724
+Potential of medicinal plants as antimalarial agents: a review of work, https://pmc.ncbi.nlm.nih.gov/articles/PMC10623325/
+Islands in the Desert—Forest Vegetation of Kenya'S Smaller, https://bioone.org/journals/journal-of-east-african-natural-history/volume-91/issue-1/0012-8317_2002_91_27_IITDVO_2.0.CO_2/Islands-in-the-DesertForest-Vegetation-of-KenyaS-Smaller-Mountains-and/10.2982/0012-8317(2002)91%5B27:IITDVO%5D2.0.CO;2.full
+(PDF) Assessment of conservation value of natural habitat relics in, https://www.researchgate.net/publication/272831647_Assessment_of_conservation_value_of_natural_habitat_relics_in_Thika_District
