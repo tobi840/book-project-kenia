@@ -45,6 +45,17 @@ Vier Typen sind bisher am häufigsten durchgerutscht:
 - **Erklärungen von Fachbegriffen.** Jede Umschreibung ist eine Tatsachenbehauptung. "AFLP vergleicht die Länge vervielfältigter Bruchstücke des Erbguts" ist eine, und sie stand in keinem Doc. Ein Kürzel auszuschreiben ist keine Erklärung.
 - **Wörtliche Bedeutungen lokaler Namen.** Nur zulässig aus dem Research-Doc oder aus `research/namen-bedeutungen.md` mit Status `belegt`. Alles Abgeleitete ist `UNBELEGT`, auch wenn es plausibel klingt. Die Datei ist seit dem 18.09.2026 geschlossen (E12).
 
+### Die Brennweiten im Block "Vor der Linse" sind nie ein Befund
+
+Das Research-Doc nennt allgemeine Brennweiten, das Kapitel nennt Tobis
+Objektive. Unser Set: **100 bis 400, 150 bis 600, 45 mm, 26 bis 60.** Der
+Styleguide verlangt genau diese Übersetzung, du siehst den Styleguide aber
+nicht. Weicht eine Brennweite im Kapitel von der im Doc ab, ist das die
+vorgeschriebene Umrechnung und **kein Patch**. Die Verschlusszeiten daneben
+prüfst du normal. Gemessen an Kapitel 009: Das Doc nannte 400 bis 600, 26 bis
+50 und 70 bis 200, das Kapitel 150 bis 600, 26 bis 60 und 100 bis 400. Alle
+drei waren richtig, alle drei wurden als erfundene Zahlen gemeldet.
+
 ## Prüfung 2: was die Skripte nicht messen können
 
 Vier Punkte, mehr nicht:
