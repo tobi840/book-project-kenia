@@ -60,11 +60,33 @@ Skript auf, keiner holt etwas aus Drive.
 
 - Der erste 10er-Batch ist der Test. Danach nennt die Hauptsession Tokens pro
   Kapitel.
-- **Liegt die QS über 60k je Kapitel: anhalten**, die Dateiliste nachschärfen,
-  nicht weiterlaufen lassen.
-- Messwerte bisher: QS-Runde 3 im Pilot 178k je Kapitel, QS von Kapitel 006 mit
-  Dateisuche und Skriptaufrufen 102k. Reine Eingabe aus Research-Doc, Kapitel
-  und P4 sind rund 15k. Der Rest war Overhead.
+- **Liegt die QS über 60k je Kapitel: anhalten**, nicht weiterlaufen lassen.
+- Messwerte: QS-Runde 3 im Pilot 178k je Kapitel. Kapitel 006 mit Dateisuche und
+  Skriptaufrufen 102k. Kapitel 007 mit fester Dateiliste, 6 Tool-Uses: 111k.
+  Kapitel 008 mit allem in einer vorbereiteten Datei, 2 Tool-Uses: 106k.
+
+### Der Bodenpreis eines Subagenten liegt bei 59k
+
+Gemessen am 18.09.2026: Ein Subagent, der nur „OK" antwortet, keine Datei liest
+und kein Werkzeug aufruft, kostet **59.103 Tokens**. Das ist Systemprompt,
+Werkzeugkatalog der Session und diese CLAUDE.md, zweimal gezahlt, weil eine
+Antwort zwei Runden braucht.
+
+Daraus folgt dreierlei, und es ersetzt die frühere Annahme, die Rundenzahl sei
+die Ursache. Sie ist es nicht: 6 Tool-Uses auf 2 zu senken sparte 5 Prozent.
+
+1. **Die 60k-Grenze ist mit einem Subagenten je Kapitel nicht erreichbar.** Der
+   Boden liegt schon darüber. Die Nutzlast einer QS (Research-Doc, Kapitel, P4,
+   zusammen rund 40 KB) kostet obendrauf nur rund 46k.
+2. **Mehrere Kapitel je Prüfer.** Der Bodenpreis fällt einmal an, die Nutzlast
+   skaliert linear. Bei drei Kapiteln je Prüferlauf rund 45k je Kapitel.
+   Gegenrechnung: Ein Prüfer mit drei Kapiteln im Kopf findet im dritten
+   vermutlich weniger als im ersten. Beim ersten Batch messen.
+3. **Konnektoren aus.** Der Werkzeugkatalog ist der größte bewegliche Teil des
+   Bodenpreises, und dieses Projekt braucht keinen einzigen Konnektor: alles
+   liegt als Datei im Repo, Commit und Push laufen über die Git-Kommandozeile.
+   Der Batch gehört in eine Session ohne Konnektoren. Eine neue Session allein
+   hilft nicht, sie erbt denselben Katalog.
 
 ## Research-Docs
 

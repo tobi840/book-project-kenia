@@ -32,7 +32,11 @@ Lokale Arbeitsfassung des Drive-Prompts "P3_Kapitel schreiben", mit den Entschei
 - **Kein Alltagsvergleich, den das Research-Doc nicht wörtlich liefert.** Nicht "mannshoch", nicht "erbsengroß", nicht "so hoch wie ein einstöckiges Gebäude", nicht "wie mit dem Daumennagel eingedrückt". Die Docs führen Alltagsvergleiche als eigenen Punkt und schreiben hin, wenn sich keiner ableiten lässt. Liefert das Doc keinen, steht die Zahl allein, und der Satz bleibt kürzer. Ein erfundener Vergleich ist ein Faktenfehler, kein Stilmittel. Der Styleguide zitiert Droris Körpermaße als Vorbild, das gilt für seine Arten, nicht für unsere (E16).
 - **Eine Erklärung ist eine Tatsachenbehauptung.** Erklär einen Fachbegriff nur mit dem, was das Research-Doc über ihn sagt. Reicht das nicht, benutz den Begriff nicht, sondern ein Alltagswort. Ein Kürzel auszuschreiben ist keine Erklärung und bleibt erlaubt, wenn die Langform im Doc steht.
 - **Status übernehmen:** gesichert, vermutet, beobachtet, überliefert. Das Research-Doc markiert das, der Text auch.
-- Geschichte: 800 bis 1.300 Wörter, 5 bis 9 Absätze. Das untere Ende ist kein Notfall. Ein Kapitel mit 830 belegten Wörtern ist besser als eines mit 1.150, von denen 300 Nebel sind.
+- Geschichte: 800 bis 1.300 Wörter, 5 bis 9 Absätze. **Ziel sind 880, nicht 800.** Das untere Ende ist kein Notfall. Ein Kapitel mit 880 belegten Wörtern ist besser als eines mit 1.150, von denen 300 Nebel sind.
+
+  Der Grund für die 880 ist die Patch-Reserve. Ein Patch kann nur streichen. Kapitel 008 kam mit 804 Wörtern aus dem Schreiben, die QS strich drei zugespitzte Sätze, danach standen 776 da: unter der Norm, ohne dass jemand einen Fehler gemacht hätte. Im Batch sitzt kein Schreiber mehr daneben, der auffüllt, und ein zweiter Schreiberlauf ist nur bei **rotem** Regel-Check vorgesehen. Also liefert der Schreiber die Reserve gleich mit. Sie besteht aus belegter Substanz, nicht aus Nebel: Nebel ist genau das, was die QS anschließend herausstreicht.
+
+- Keine zeitliche Zuspitzung. „Den ganzen Tag", „rund um die Uhr", „unermüdlich" steht in keinem Research-Doc, und zweimal in zwei Kapiteln stand im Doc etwas anderes: der Sekretär ruht mittags im Schatten, Jacksons Wida springt „tagtäglich", nicht den ganzen Tag. `regel_check.py` meldet die drei Wendungen jetzt gelb.
 - Kein Absatz über 200 Wörter.
 - Erster Satz der Geschichte unter 25 Wörtern.
 - Letzter Absatz der Geschichte unter 80 Wörtern.

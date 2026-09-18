@@ -47,6 +47,13 @@ MARK_B = chr(2)
 VERBOTENE_WOERTER = [
     "majestätisch", "faszinierend", "wunderschön", "ikonisch",
     "atemberaubend", "Wunder der Natur",
+    # Zeitliche Zuspitzung. Zweimal in zwei Kapiteln als Fehler bestaetigt:
+    # 007 ("und er geht den ganzen Tag", das Doc nennt Ruhe im Schatten ueber
+    # Mittag) und 008 ("den ganzen Tag senkrecht springt", das Doc schreibt
+    # "tagtaeglich" und nennt die hoechste Aktivitaet am fruehen Morgen).
+    # Kein Research-Doc formuliert so. Steht es doch woertlich im Doc, ist der
+    # Befund gelb und damit ein Verdacht, kein Urteil.
+    "den ganzen Tag", "rund um die Uhr", "unermüdlich",
 ]
 
 # Adjektivketten ab drei Gliedern. Deutsche Substantive sind gross, eine Reihe
