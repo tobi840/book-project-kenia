@@ -10,3 +10,4 @@ Die `.txt`-Dateien sind Spiegel, das Google Doc bleibt die Quelle.
 | 003 | Uganda-Pfefferrindenbaum | Warburgia ugandensis | `1C-HftgJiJucqcwcwW2KC0AmQm1ffMq_XYDHxp4QM1cs` |
 | 004 | Afrikanische Stinkkirsche | Prunus africana | `1fik8dh5t22O02UKENfnIGdqaWrsTEYmvXwO3N09Txgw` |
 | 005 | Mexikanische Sonnenblume | Tithonia diversifolia | `1rVqaUYXYOLTfARV5F78jxpc291YOi-XIiBHe75JRFME` |
+| 006 | Seidenturako | Tauraco hartlaubi | `189CFHtrBvM3hZ0q4mLmnVyEydAfoUOZoIfHaZz2iWf8` |

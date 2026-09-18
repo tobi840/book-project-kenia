@@ -93,6 +93,7 @@ LAT_EPITHET_STOPP = set("""
 herum darum warum ringsum worum wiederum ringsherum drumherum
 datum album museum zentrum publikum minimum maximum optimum
 virus zirkus fokus modus status bonus kaktus
+hinaus heraus voraus daraus woraus hieraus durchaus zuhaus
 """.split())
 
 
