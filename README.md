@@ -6,19 +6,49 @@ Prüfskripte und die erzeugten Kapitel.
 
 ## Der Ablauf pro Kapitel
 
+Seit dem 18.09.2026 fünf Schritte statt acht (E20). Der Korrekturschritt ist
+weggefallen, weil ein Skript die Patches anwendet.
+
 | # | Schritt | Wer | Was passiert |
 |---|---------|-----|--------------|
-| 1 | Substanz-Check | Sonnet 5 | Research-Doc aus Drive holen, nach `research/` spiegeln, messen: Zeichen, belegte Zahlen, URLs, offene Lücken. Urteil: trägt das Doc ein volles Kapitel oder ist es dünn? |
-| 2 | Schreiben | Opus | Kapitel nach `prompts/P3-kapitel-schreiben.md` als HTML, danach Selbstprüfung gegen `scripts/regel_check.py`, höchstens zwei Runden |
-| 3 | Regel-Check | Skript | `scripts/regel_check.py`, zählt Längen, Absätze, Sätze, Zeichen, Struktur, Lücken |
-| 4 | QS | Sonnet 5 | Fünf Prüfungen nach `prompts/P4-qs.md`, sieht nur Kapitel, Research-Doc und Styleguide, ändert nichts |
-| 5 | Linkcheck | Skript | `scripts/check_links.py --offline`, Herkunft jeder URL gegen das Research-Doc. Erreichbarkeit erst im gesammelten Lauf vor dem Satz |
-| 6 | Gesamtampel | Workflow | rechnet Regel-Check, QS und Linkcheck zusammen |
-| 7 | Korrigieren | Opus | nur bei gelb oder rot, nur die gemeldeten Fundstellen, eine Runde |
-| 8 | Re-QS | Sonnet 5 | prüft die Korrektur nach, setzt die finale Ampel |
+| 1 | Substanz-Check | Sonnet 5 | Research-Doc aus Drive holen, nach `research/` spiegeln, messen: Zeichen, belegte Zahlen, URLs. Urteil: trägt das Doc ein volles Kapitel oder ist es dünn? |
+| 2 | Schreiben | Opus | Kapitel nach `prompts/P3-kapitel-schreiben.md` als HTML, danach Selbstprüfung gegen die Skripte, höchstens zwei Runden |
+| 3 | Skripte | Skript | `regel_check.py` (zählt), `research_check.py` (liest gegen das Research-Doc), `check_links.py --offline` (Herkunft jeder URL). Kostenlos, deterministisch, sofort |
+| 4 | QS | Sonnet 5 | Zwei Prüfungen nach `prompts/P4-qs.md`, sieht Kapitel und Research-Doc, ändert nichts. Ausgabe sind **Patches**, keine Prosa |
+| 5 | Patch | Skript | `patch_anwenden.py` wendet an, was die drei Patch-Regeln besteht, und lehnt jede Umformulierung ab |
 
 Der Schreiber sieht seine eigene Prüfung nie: Opus schreibt, Sonnet 5 prüft.
 Was sich zählen lässt, zählt ein Skript und kein Modell.
+
+Eine Nachprüfung läuft nur noch auf Stichprobe, nicht pro Kapitel. Der Grund
+steht in `berichte/PROZESS-KUERZUNG.md`.
+
+### Warum der Korrekturschritt weg ist
+
+Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, in
+einem weiteren ein neuer unbelegter Satz, der erst in der dritten Runde auffiel.
+Jeder dieser Fehler entstand beim **Umformulieren**. Keiner beim Streichen.
+
+Also formuliert nichts mehr um. Ein Patch darf nur streichen, wörtlich aus dem
+Research-Doc übernehmen oder ein Vorbehaltswort ergänzen. `patch_anwenden.py`
+prüft das mechanisch und lehnt alles andere ab.
+
+## Die drei Prüfskripte
+
+| Skript | Braucht | Findet |
+|--------|---------|--------|
+| `regel_check.py` | nur das Kapitel | Längen, Absätze, Satzlängen, Gedankenstriche, verbotene Wörter, Dreierketten, Links, Marker, Kopfzeilenformat, Struktur |
+| `research_check.py` | Kapitel und Research-Doc | Zahlen ohne Beleg, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), Aufzählungen ohne das Vorbehaltswort der Quelle |
+| `check_links.py --offline` | Kapitel und Research-Doc | URLs, die nicht wörtlich im Research-Doc stehen |
+
+`research_check.py` ist am 18.09.2026 dazugekommen. Der Grund: der Regel-Check
+zählt nur, er liest nicht gegen die Quelle, und hat darum fünf von fünf
+Pilotkapiteln grün gemeldet, von denen drei faktisch rot waren. Am fertig
+korrigierten Pilot fand das neue Skript in Sekunden drei Fehler, die zwei
+vollständige QS-Runden übersehen hatten.
+
+Seine Befunde sind **Verdachtsfälle, keine Urteile**. Etwa jeder dritte ist ein
+Fehlalarm. Das ist der Preis dafür, dass er nichts kostet.
 
 ## Gesamtampel
 
@@ -34,20 +64,24 @@ Rechnet der Workflow aus, nicht ein Modell.
 Grün heißt: geht ohne Tobi weiter. Gelb und rot landen im Entscheidungsstapel,
 der einmal am Tag gebündelt vorgelegt wird, nicht kapitelweise.
 
-### Zwei Sorten Marker
+### Nur noch ein Marker
 
 | Marker | Bedeutung | Ampel |
 |--------|-----------|-------|
 | `[[LÜCKE: …]]` | Pflichtfeld des Templates unbelegt | gelb |
-| `[[OFFEN: …]]` | das Research-Doc selbst weist die Angabe als nicht belegbar aus | keine |
 
-Der Unterschied ist der Grund, warum nicht jedes Kapitel gelb wird. Ein
-Research-Doc, das eine Angabe ehrlich offenlässt, ist kein Mangel des Kapitels.
-Ein Pflichtfeld ohne Beleg schon. Eine Seitenzahl gehört in keinen Marker, dort
-steht `(S. XX)` bis zum Satz.
+`[[OFFEN]]` ist seit E15 abgeschafft. Was das Research-Doc als nicht belegbar
+ausweist, steht im Kapitel gar nicht, auch nicht als Marker.
 
-`[[OFFEN]]` ist seit dem 18.09.2026 ein Endzustand. Es gibt keine Nachrecherche
-mehr, die diese Marker später auflöst. Sie halten fest, wo die Quellenlage endet.
+Der Marker hatte zwei Abnehmer: die gesammelte Nachrecherche und den
+Entscheidungsstapel. Die Nachrecherche ist seit E11 und E12 eingestellt,
+ampelrelevant war er nie. Im Pilot standen fünfzehn davon in fünf Kapiteln, einer
+lautete „typische fotografische Fehler, vom Research-Doc als nicht thematisiert
+ausgewiesen". Niemand wird das je bearbeiten. Geschrieben, geprüft, aufgelistet,
+nachgeprüft und am Ende von Hand gelöscht wird es trotzdem.
+
+Wenn das Doc eine Frage offen lässt, hat das Kapitel diese Frage nicht. Eine
+Seitenzahl gehört ohnehin in keinen Marker, dort steht `(S. XX)` bis zum Satz.
 
 ### Nicht ampelrelevant
 
@@ -69,14 +103,22 @@ derselbe Konflikt). Ein gemeinsamer Ort reicht nicht.
 
 ## Längenzonen (Geschichte)
 
+Gesenkt am 18.09.2026 (E18).
+
 | Wörter | Zone |
 |--------|------|
-| unter 600 | rot, harte Untergrenze, kein Kapitel |
-| 600 bis 699 | gelb bei dünnem Research, sonst rot |
-| 700 bis 899 | gelb, zulässig bei dünnem Research |
-| 900 bis 1.500 | grün, Norm |
-| 1.500 bis 1.800 | gelb, kürzen |
-| über 1.800 | rot |
+| unter 550 | rot, harte Untergrenze, kein Kapitel |
+| 550 bis 649 | gelb bei dünnem Research, sonst rot |
+| 650 bis 799 | gelb, zulässig bei dünnem Research |
+| 800 bis 1.300 | grün, Norm |
+| 1.300 bis 1.600 | gelb, kürzen |
+| über 1.600 | rot |
+
+Die Absenkung spart nicht am Buch, sondern am Fehler. Jeder zusätzliche Satz ist
+eine zusätzliche Behauptung, die gegen das Research-Doc stimmen muss. Drori liegt
+bei 700 bis 900 Wörtern. Die alte Untergrenze von 900 hat Texte ins Auffüllen
+getrieben, und aufgefüllt wird mit dem, was nicht belegt ist. Über 100 Kapitel
+gerechnet sind das rund 15.000 Wörter weniger und entsprechend weniger Prüfarbeit.
 
 ## Nachrecherche
 
@@ -108,11 +150,12 @@ eine Litanei. Fehlt für eine Sprache ein Name, ist das kein Mangel und kein Mar
 styleguide/   Text-Styleguide V2 und Kapitel-Template (HTML)
 prompts/      Arbeitsfassungen von P3 (Schreiben) und P4 (QS)
 research/     Spiegel der Deep-Research-Docs aus Drive, Substanz-Messung,
-              namen-bedeutungen.md (einzige erlaubte Nachrecherche)
+              namen-bedeutungen.md (geschlossener Vermerk, E12)
 chapters/     {nr}-{slug}.html, das Ergebnis
-qs/           {nr}-{slug}.md, die Fundstellenlisten
-berichte/     Pilotbericht und was daraus für P3 und P4 folgt
-scripts/      regel_check.py, check_links.py
+qs/           {nr}-{slug}.md, Ampel plus Patch-Block
+berichte/     Pilotbericht, Re-QS und der Prozessdurchgang
+scripts/      regel_check.py, research_check.py, check_links.py,
+              patch_anwenden.py
 ```
 
 ## Bekannte Einschränkung

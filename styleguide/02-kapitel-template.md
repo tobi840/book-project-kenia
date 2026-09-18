@@ -8,7 +8,7 @@ Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgeste
 
 **Kopf.** LEBENSRAUM in Versalien (z. B. RIFT VALLEY, LAIKIPIA, KÜSTE, TSAVO, AMBOSELI, NAIROBI), Trivialname (Deutsch), lateinischer Name kursiv, danach die belegten lokalen Namen im Format `Sprache: „Name"`, mehrere Namen einer Sprache durch Komma. Sprachbezeichnung buchweit einheitlich: **Maa** für die Sprache, **Maasai** nur für Menschen. Englische und deutsche Handelsnamen gehören nicht in die Namenszeile. Die Namenszeile trägt die vollständige Liste, der Fließtext höchstens drei Namen (E13).
 
-**1. Geschichte.** 900 bis 1.500 Wörter nach Text-Styleguide. Vier Bewegungen: These und Erscheinung, Herkunft und Name, Mechanismus, Menschen. Ende als Bild. **Kein Querverweis.** Den setzt ein eigener Durchlauf, wenn alle Kapitel stehen, 20 bis 30 auf 100 Kapitel. Siehe Text-Styleguide Abschnitt 9.
+**1. Geschichte.** 800 bis 1.300 Wörter nach Text-Styleguide (E18). Vier Bewegungen: These und Erscheinung, Herkunft und Name, Mechanismus, Menschen. Ende als Bild. **Kein Querverweis.** Den setzt ein eigener Durchlauf, wenn alle Kapitel stehen, 20 bis 30 auf 100 Kapitel. Siehe Text-Styleguide Abschnitt 9.
 
 **2. Menschen und Kultur.** 150 bis 250 Wörter. Was die Art für Menschen in Kenia bedeutet oder bedeutet hat: Nutzung, Medizin, Mythos, Sprichwort, Konflikt, Schutzstatus, heutige Rolle (Tourismus, Landwirtschaft, Wilderei, Naturschutz). Nur Belegtes. Legenden als Legenden markiert. Wenn die Geschichte in Block 1 schon stark kulturell ist, wird dieser Block kürzer und ergänzt statt zu wiederholen.
 
@@ -17,7 +17,7 @@ Gegenüber der Drive-Fassung ist das Ausgabeformat von Markdown auf HTML umgeste
 - *Brennweite:* Empfehlung aus unserem Set. 100 bis 400 oder 150 bis 600 für Vögel und scheue Säuger. 45 mm für Bäume im Kontext, Blätter, Rinde, Landschaft. 26 bis 60 für Pflanzen nah, Details, Umgebung. Bei Bäumen: Perspektive (von unten in die Krone, Silhouette bei Gegenlicht, Rinde als Fläche)
 - *Bild-Idee:* Ein konkreter Bildvorschlag, der die Geschichte des Kapitels aufgreift. Startwerte nur, wenn sie aus dem Verhalten folgen (z. B. "Vogel im Flug: 1/2000 s oder schneller")
 
-**4. Weiterlesen und Sehen.** 3 bis 6 Links, jeder mit einem Satz Kontext. Typen: Quelle (Fachartikel, Kew, IUCN, Birds of the World, Feldführer), Fotos (iNaturalist, Flickr-Commons, Wikimedia), Ruf (bei Vögeln: xeno-canto, Macaulay Library), Verbreitungskarte (eBird, GBIF, IUCN), Kultur (Museum, Ethnobotanik-Datenbank, Dokumentation). Format: Linktext ist der Titel der Seite, danach ` · ` und ein Satz, was man dort findet. Alle Links werden im QS geprüft (erreichbar, passend, kein Paywall-Overlay ohne Vorschau).
+**4. Weiterlesen und Sehen.** 3 bis 4 Links, jeder mit einem Satz Kontext (E19). Typen: Quelle (Fachartikel, Kew, IUCN, Birds of the World, Feldführer), Fotos (iNaturalist, Flickr-Commons, Wikimedia), Ruf (bei Vögeln: xeno-canto, Macaulay Library), Verbreitungskarte (eBird, GBIF, IUCN), Kultur (Museum, Ethnobotanik-Datenbank, Dokumentation). Format: Linktext ist der Titel der Seite, danach ` · ` und ein Satz, was man dort findet. Im QS wird geprüft, ob jede URL wörtlich im Research-Doc steht. Die Erreichbarkeit ist nachrangig und kein Gate vor dem Satz (E14).
 
 **5. Illustration.** Hauptbild oben unter dem Kopf, Hochformat. Optionales Detailbild neben Block 3 oder 4, quadratisch. Im Entwurf bleibt die `figure` leer und trägt `data-status="offen"`, gefüllt wird sie in Phase Illustration.
 
@@ -85,9 +85,10 @@ Offene Stellen werden im Fließtext als `[[LÜCKE: was fehlt]]` markiert und nie
 
 ## Marker im Text
 
-Zwei Sorten, verschiedene Folgen:
+Nur noch einer:
 
-- `[[LÜCKE: was fehlt]]` steht für ein unbelegtes **Pflichtfeld**: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis sechs Links. Färbt die Ampel gelb.
-- `[[OFFEN: was fehlt]]` steht für das, was das Research-Doc **selbst** als nicht belegbar ausweist. Färbt nicht, wird für die gesammelte Nachrecherche eingesammelt.
+- `[[LÜCKE: was fehlt]]` steht für ein unbelegtes **Pflichtfeld**: Lebensraum, Trivialname, lateinischer Name, mindestens ein belegter lokaler Name, Ort in "Vor der Linse", Brennweite, Bild-Idee, drei bis vier Links. Färbt die Ampel gelb.
 
-Eine fehlende Seitenzahl ist keins von beidem. Dort steht `(S. XX)`.
+`[[OFFEN]]` ist seit E15 abgeschafft. Was das Research-Doc als nicht belegbar ausweist, steht im Kapitel gar nicht, auch nicht als Marker. Der Marker hatte zwei Abnehmer, die gesammelte Nachrecherche und den Entscheidungsstapel, und seit E11 und E12 keinen mehr.
+
+Eine fehlende Seitenzahl ist keine Lücke. Dort steht `(S. XX)`.

@@ -16,9 +16,13 @@ Einstieg mit These oder Sinneseindruck, nicht mit Katalogbeschreibung. Der erste
 
 **Rhetorische Fragen** sind erlaubt, aber nur als Rätsel-Setup. "Aber wozu dienen die kleinen Kugeln und die Löcher?" Nie als Ansprache an den Leser, nie als Stilmittel am Kapitelende. Maximal zwei pro Kapitel.
 
-**Körpermaße statt Zahlen.** Das durchgängigste Merkmal bei Drori: Größen werden am Körper oder an Alltagsdingen gemessen. Dornen so lang wie ein Männerfinger. Rindenplatten babyhandgroß. Domatien walnussgroß. Zwölf Menschen, um einen Baobab zu umfassen. Riesentang wächst pro Tag um eine Armlänge. Eine fußballfeldgroße Wasserfläche. Regel: Jede wichtige Zahl bekommt ein Körpermaß daneben oder wird durch eines ersetzt.
+**Körpermaße bei Drori, und warum sie bei uns anders laufen.** Drori misst Größen am Körper: Dornen so lang wie ein Männerfinger, Rindenplatten babyhandgroß, zwölf Menschen um einen Baobab. Das liest sich gut, und Drori kennt seine Arten aus eigener Anschauung. Wir kennen sie aus einem Research-Doc.
 
-**Fakten als Pointen.** Jede Zahl trägt eine Geschichte. Nicht "die Platane ist robust", sondern: Die Rinde blättert in babyhandgroßen Platten ab, deshalb überlebt sie den Ruß. Der Leser versteht das Prinzip über das Bild.
+**Darum die Gegenregel: kein Alltagsvergleich, den das Research-Doc nicht wörtlich liefert (E2, E16).** Liefert es keinen, steht die Zahl allein. Eine Zahl ohne Bild ist ein schwächerer Satz. Ein erfundenes Bild ist ein Faktenfehler. Im Pilot standen sechs erfundene Vergleiche in fünf Kapiteln, drei davon überlebten zwei QS-Runden: "mannshoch", "wie mit dem Daumennagel eingedrückt", "zwei Meter höher". Keiner stand in einer Quelle, alle drei klangen gut. Genau das ist das Problem.
+
+Was stattdessen trägt: das Verb, der Ort, die Handlung. "Die Rinde blättert in Platten ab" braucht kein Babyhand-Maß, um zu wirken.
+
+**Fakten als Pointen.** Jede Zahl trägt eine Geschichte. Nicht "die Platane ist robust", sondern: Die Rinde blättert in Platten ab, deshalb überlebt sie den Ruß. Der Leser versteht das Prinzip über die Ursache, nicht über den Größenvergleich. (Drori schreibt an dieser Stelle "babyhandgroß". Wir schreiben es nur, wenn das Research-Doc es hergibt.)
 
 **Vier Bewegungen, flexibel gewichtet.**
 
@@ -33,7 +37,7 @@ Die Gewichtung verschiebt sich je nach Art. Bei der Flötenakazie sind es 80 Pro
 
 **Trockener Humor, nie Spott.** Kleine Nebenbemerkungen in Klammern, ironische Wendungen: "quelle horreur", "Sehr britisch!", "besser Inzucht als gar keine Nachkommen", "Ein Maul voll stechender Ameisen ist auch für große Pflanzenfresser kein Vergnügen". Maximal zwei pro Kapitel.
 
-**Querverweis am Ende.** Ein kursiver Satz führt zu einem anderen Kapitel: "Eine effiziente Strategie der Selbstverteidigung hat auch der Nimbaum (S. 120)." Bei uns entsteht dieser Satz nicht beim Schreiben, siehe Abschnitt 9.
+**Querverweis am Ende.** Bei Drori führt ein kursiver Satz zu einem anderen Kapitel: "Eine effiziente Strategie der Selbstverteidigung hat auch der Nimbaum (S. 120)." Beim Schreiben entsteht dieser Satz bei uns **nicht**, siehe Abschnitt 9.
 
 **Was Drori nicht macht und wir auch nicht:** Ich-Perspektive im Kapitel, Moralisieren, Adjektivketten, Superlative ohne Beleg.
 
@@ -51,7 +55,9 @@ Die Gewichtung verschiebt sich je nach Art. Bei der Flötenakazie sind es 80 Pro
 
 **Ortsbezug.** Jedes Kapitel ist an einem Ort der Reise verankert: Lake Baringo, Ol Pejeta, Bamburi, Amboseli. Der Ort ist Kulisse und Mitspieler.
 
-**Wörter als Fundstücke.** Macfarlane sammelt Namen und Begriffe, Drori auch (Domatien von domus, meli maenomenon, unum tantum edo). Wir übernehmen das doppelt: lateinische Wortherkunft plus Swahili-, Maa- oder Kikuyu-Name mit wörtlicher Bedeutung.
+**Wörter als Fundstücke.** Macfarlane sammelt Namen und Begriffe, Drori auch (Domatien von domus, meli maenomenon, unum tantum edo). Wir übernehmen die lateinische Wortherkunft, wenn das Research-Doc sie hergibt.
+
+Die wörtliche Bedeutung eines lokalen Namens ist **kein Fundstück, sondern eine Tatsachenbehauptung**. Sie steht nur im Text, wenn das Research-Doc sie belegt oder `research/namen-bedeutungen.md` sie mit Status `belegt` führt (E5, E12). Nie selbst abgeleitet, auch nicht aus einem Präfix oder einer Nachbarsprache. Der Versuch, diese Bedeutungen nachzurecherchieren, hat 31 Agenten gekostet und ein brauchbares Ergebnis aus sechzehn Namen gebracht. Er ist eingestellt.
 
 **Ruhe im Rhythmus.** Lange Sätze für Beschreibung, kurze für Wendungen. Beim Vorlesen muss man atmen können. Test: laut lesen, wo man stolpert, kürzen.
 
@@ -78,8 +84,10 @@ Bei der Flötenakazie wäre die richtige Lösung: zurück zum Pfeifton aus dem e
 
 ## 6. Länge und Rhythmus
 
-- Geschichte: 900 bis 1.500 Wörter, 6 bis 9 Absätze
+- Geschichte: 800 bis 1.300 Wörter, 5 bis 9 Absätze (gesenkt am 18.09.2026, E18)
 - Absätze: 80 bis 180 Wörter, keiner über 200
+
+Die Absenkung ist keine Sparmaßnahme am Buch, sondern am Fehler. Jeder zusätzliche Satz ist eine zusätzliche Behauptung, die gegen das Research-Doc stimmen muss. Drori liegt bei 700 bis 900 Wörtern. Die alte Untergrenze von 900 hat Texte ins Auffüllen getrieben, und aufgefüllt wird mit dem, was nicht belegt ist.
 - Erster Satz unter 25 Wörtern
 - Letzter Absatz unter 80 Wörtern
 
@@ -90,7 +98,9 @@ Bei der Flötenakazie wäre die richtige Lösung: zurück zum Pfeifton aus dem e
 - Keine erfundenen Zitate, keine erfundenen Anekdoten, keine erfundenen lokalen Namen
 - Lücken bleiben offen und werden nie gefüllt. Zwei Sorten: [[LÜCKE]] für ein unbelegtes Pflichtfeld, ampelrelevant. [[OFFEN]] für das, was das Research-Doc selbst als nicht belegbar ausweist, nicht ampelrelevant
 - Zuspitzung ist Erfindung. Wenn ein Satz stärker klingt als seine Quelle, ist er falsch
-- Einzige Ausnahme vom Nachrecherche-Verbot: die wörtliche Bedeutung lokaler Namen, gesammelt recherchiert und belegt in research/namen-bedeutungen.md
+- **Vorbehaltswörter wandern mit** (E17). Steht im Quellsatz "darunter", "vor allem", "primär", "typischerweise", "meist", "verschiedene" oder "unter anderem", steht im Kapitelsatz auch eins. Das ist die positive Fassung der Zuspitzungsregel: nicht "spitze nicht zu", sondern "nimm das Vorbehaltswort mit". Ein Verbot kann man nicht befolgen, wenn man nicht weiß, welcher Satz zugespitzt ist. Eine Übernahme schon
+- Keine Nachrecherche, keine Ausnahme. Auch nicht für Namensbedeutungen, auch nicht für die Fotografie (E11, E12)
+- Was das Research-Doc nicht hergibt, steht nicht im Kapitel. **Auch kein Marker** (E15). `[[LÜCKE]]` bleibt allein für unbelegte Pflichtfelder
 
 ## 8. Vermeiden
 

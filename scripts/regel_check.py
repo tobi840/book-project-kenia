@@ -20,20 +20,24 @@ from html.parser import HTMLParser
 
 # ---------------------------------------------------------------- Konstanten
 
-NORM_MIN, NORM_MAX = 900, 1500
-GELB_MAX = 1800
-WEICHE_UNTERGRENZE = 700
-HARTE_UNTERGRENZE = 600
+# Laengenzonen, gesenkt am 18.09.2026 (E18). Der Pilot hat gezeigt, dass jede
+# zusaetzliche Behauptung eine zusaetzliche Fehlerquelle ist und dass die alte
+# Untergrenze von 900 Woertern Texte ins Auffuellen treibt. Drori liegt bei
+# 700 bis 900. Wir bleiben knapp darueber.
+NORM_MIN, NORM_MAX = 800, 1300
+GELB_MAX = 1600
+WEICHE_UNTERGRENZE = 650
+HARTE_UNTERGRENZE = 550
 
 ABSATZ_MAX = 200
 ERSTER_SATZ_MAX = 25          # unter 25 Woertern, also 24 ist ok
 LETZTER_ABSATZ_MAX = 80       # unter 80 Woertern
 SATZ_LANG = 40
-ABSAETZE_MIN, ABSAETZE_MAX = 6, 9
+ABSAETZE_MIN, ABSAETZE_MAX = 5, 9
 
 MUK_MIN, MUK_MAX = 150, 250   # Menschen und Kultur
 LINSE_MIN, LINSE_MAX = 100, 200
-LINKS_MIN, LINKS_MAX = 3, 6
+LINKS_MIN, LINKS_MAX = 3, 4
 
 HALBGEVIERT = chr(0x2013)
 GEVIERT = chr(0x2014)
@@ -45,6 +49,22 @@ VERBOTENE_WOERTER = [
     "majestätisch", "faszinierend", "wunderschön", "ikonisch",
     "atemberaubend", "Wunder der Natur",
 ]
+
+# Adjektivketten ab drei Gliedern. Deutsche Substantive sind gross, eine Reihe
+# kleingeschriebener Woerter mit Adjektivendung, durch Komma getrennt, ist
+# darum fast immer eine Adjektivkette. Styleguide Abschnitt 8.
+# Praedikative Adjektive tragen im Deutschen gar keine Endung (flach, rau,
+# dick). Eine Endungsliste filtert darum falsch. Was zaehlt, ist die Form:
+# drei oder mehr kleingeschriebene Woerter, durch Komma und "und" verbunden.
+# Substantive sind gross, also bleibt fast nur die Adjektivkette uebrig.
+ADJ_VERBENDUNG = ("ieren", "ieren.", "eln", "ern")
+ADJ_KETTE_RE = re.compile(
+    r"\b([a-zäöüß]{3,}), ([a-zäöüß]{3,})(?:, ([a-zäöüß]{3,}))? (?:und|oder|sowie) ([a-zäöüß]{3,})\b")
+# Verben und Adverbien, die in Aufzaehlungen stehen und keine Adjektivkette sind.
+ADJ_STOPP = set("""
+oder aber denn sonst dann damit weil wenn dass ohne gegen durch unter ueber
+werden wurden haben hatten sind waren wird kann koennen muss muessen
+""".split())
 
 BRENNWEITEN = ["100 bis 400", "150 bis 600", "45 mm", "26 bis 60"]
 PFLICHT_SEKTIONEN = ["geschichte", "menschen-kultur", "vor-der-linse", "weiterlesen"]
@@ -270,6 +290,19 @@ def pruefe(pfad, research_duenn=False):
     if ausrufe > 2:
         fund("gelb", "ausrufezeichen", str(ausrufe) + " Ausrufezeichen, erlaubt sind hoechstens 2")
 
+    # --- Adjektivketten --------------------------------------------------
+    ketten = []
+    for m in ADJ_KETTE_RE.finditer(volltext):
+        glieder = [g for g in m.groups() if g]
+        if any(g in ADJ_STOPP for g in glieder):
+            continue
+        if any(g.endswith(ADJ_VERBENDUNG) for g in glieder):
+            continue
+        ketten.append(m.group(0))
+    for k in sorted(set(ketten)):
+        fund("gelb", "adjektivkette",
+             "Verdacht auf Dreierkette, Adjektive oder Verben, Styleguide Abschnitt 8", k)
+
     # --- Geschichte ------------------------------------------------------
     mass = {}
     gesch = sektionen.get("geschichte")
@@ -433,7 +466,9 @@ def pruefe(pfad, research_duenn=False):
             fund("gelb", "seitenzahl",
                  "Seitenzahl gehoert in keinen Marker, dort steht (S. XX)", eine)
         else:
-            fund("info", "offen", "Vom Research-Doc als nicht belegbar ausgewiesen: " + eine)
+            fund("gelb", "offen",
+                 "Marker [[OFFEN]] ist seit E15 abgeschafft. Was das Research-Doc nicht "
+                 "hergibt, steht nicht im Kapitel, auch nicht als Marker: " + eine)
 
     # --- Kopfzeile -------------------------------------------------------
     namen_roh = meta.get("lokal", "") + " " + meta.get("swahili", "")

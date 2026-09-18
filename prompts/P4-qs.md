@@ -1,141 +1,131 @@
 # P4: QS pro Kapitel
 
-Lokale Arbeitsfassung des Drive-Prompts "P4_QS pro Kapitel", mit den Entscheidungen vom 18.09.2026 eingebaut.
+Lokale Arbeitsfassung des Drive-Prompts "P4_QS pro Kapitel", Stand 18.09.2026 nach dem Prozessdurchgang.
 
-Ein Durchgang, fünf Prüfungen. Ausgabe ist eine Fundstellenliste, kein stiller Umbau. Tobi entscheidet, was übernommen wird.
+**Ein Durchgang. Ausgabe sind Patches, keine Prosa.** Die Patches wendet ein Skript an, kein Modell. Damit fällt der Korrekturschritt aus der Kette, und mit ihm die Stelle, an der im Pilot jeder Folgefehler entstanden ist (E20).
 
 ## Auftrag
 
-Prüfe das Kapitel `{NR}_{TRIVIALNAME}` gegen sein Research-Doc und den Text-Styleguide V2. **Ändere nichts am Text.**
+Prüfe das Kapitel `{NR}_{TRIVIALNAME}` gegen sein Research-Doc. **Ändere nichts am Text.** Du schreibst dieses Kapitel nicht und hast es nicht geschrieben.
 
-Du schreibst dieses Kapitel nicht und hast es nicht geschrieben. Du prüfst es. Wenn dir eine bessere Formulierung einfällt, notiere sie als Fundstelle, setze sie nicht ein.
+## Zuerst die Skripte laufen lassen
 
-## Prüfung 1: Fakten
+```
+python3 scripts/regel_check.py chapters/{nr}-{slug}.html
+python3 scripts/research_check.py chapters/{nr}-{slug}.html --research research/{nr}-{slug}.txt
+python3 scripts/check_links.py chapters/{nr}-{slug}.html --research research/{nr}-{slug}.txt --offline
+```
 
-Jede Zahl, jedes Datum, jeder Name, jeder lokale Name gegen das Research-Doc.
+Was diese drei melden, prüfst du **nicht noch einmal von Hand**. Du prüfst ihre Verdachtsfälle nach und machst daraus Patches oder verwirfst sie mit einem Halbsatz Begründung.
 
-Kategorien:
+Die Skripte decken ab: Längen, Absätze, Satzlängen, Gedankenstriche, verbotene Wörter, Dreierketten, Links, Marker, Kopfzeilenformat, Zahlen ohne Beleg im Doc, Alltagsvergleiche ohne Beleg, lateinische Namen (erfunden oder aufrecht), URLs, und Aufzählungen, deren Quellsatz ein Vorbehaltswort trägt.
+
+**Deine Zeit gehört dem, was kein Skript kann.** Das ist die Liste unten, und es ist eine kurze Liste.
+
+## Prüfung 1: Fakten gegen das Research-Doc
+
+Das ist die Prüfung, für die es dich gibt. Sie bekommt den Großteil deiner Aufmerksamkeit.
+
+Jede Behauptung des Kapitels gegen das Doc. Kategorien:
+
 - `FALSCH`: steht anders im Research-Doc
 - `UNBELEGT`: steht gar nicht im Research-Doc
 - `STATUSFEHLER`: Überliefertes als gesichert dargestellt oder umgekehrt
 - `VERZERRT`: Zahl stimmt, Kontext verschiebt die Bedeutung
 
-Format je Fundstelle: `Zitatanfang | Kategorie | was im Text steht | was im Research-Doc steht`
+Drei Typen sind im Pilot am häufigsten durchgerutscht:
 
-Drei Fehlertypen sind im Pilot am häufigsten durchgerutscht. Prüfe sie gezielt, sie sehen harmlos aus:
+- **Zuspitzung.** Der Text ist stärker als seine Quelle. "Primär in der Rinde" wurde zu "nicht im Holz, nicht in den Blättern". Ein Tonnageverhältnis wurde zu "auf jeden Baum kamen fünfzehn". Eine Aufzählung mit "darunter" wurde zu einer abgeschlossenen Liste. Das ist `VERZERRT`, bei abgeschlossenen Listen `FALSCH`. 19 von 30 Befunden des Piloten waren von dieser Art. Das Skript findet die Aufzählungen. Die zugespitzten Einzelsätze findest nur du.
+- **Erklärungen von Fachbegriffen.** Jede Umschreibung ist eine Tatsachenbehauptung. "AFLP vergleicht die Länge vervielfältigter Bruchstücke des Erbguts" ist eine, und sie stand in keinem Doc. Ein Kürzel auszuschreiben ist keine Erklärung.
+- **Wörtliche Bedeutungen lokaler Namen.** Nur zulässig aus dem Research-Doc oder aus `research/namen-bedeutungen.md` mit Status `belegt`. Alles Abgeleitete ist `UNBELEGT`, auch wenn es plausibel klingt. Die Datei ist seit dem 18.09.2026 geschlossen (E12).
 
-- **Zuspitzung.** Der Text ist stärker als seine Quelle. "Primär in der Rinde" wurde zu "nicht im Holz, nicht in den Blättern". Ein Tonnageverhältnis wurde zu "auf jeden Baum kamen fünfzehn". Eine Aufzählung mit "darunter" wurde zu einer abgeschlossenen Liste. Ein einschränkender Nebensatz fiel weg. Das ist `VERZERRT`, bei abgeschlossenen Listen `FALSCH`. 14 der 19 Faktenbefunde des Piloten waren von dieser Art.
-- **Körpermaße und Alltagsvergleiche.** Jeder Vergleich ("kleiner als eine Fingerkuppe", "erbsengroß", "eine Armlänge") muss im Research-Doc stehen. Steht er nicht dort, ist er `UNBELEGT`, auch wenn er stimmt. Die Docs führen Alltagsvergleiche als eigenen Punkt und sagen hin, wenn keiner ableitbar ist. Im Pilot liefen drei erfundene Vergleiche durch Erst- und Nachprüfung.
-- **Erklärungen von Fachbegriffen.** Jede Umschreibung ist eine Tatsachenbehauptung und wird wie eine Zahl gegen das Doc geprüft. Ein Kürzel auszuschreiben ist keine Erklärung. "AFLP vergleicht die Länge vervielfältigter Bruchstücke des Erbguts" ist eine, und sie stand in keinem Doc.
-- **Wörtliche Bedeutungen lokaler Namen.** Eine Bedeutung ist nur zulässig, wenn sie im Research-Doc steht oder in `research/namen-bedeutungen.md` mit Status `belegt`. Sonst `UNBELEGT`, auch wenn sie plausibel klingt. Aus Wortstamm, Nachbarsprache oder Präfix abgeleitete Bedeutungen sind immer `UNBELEGT`. Dass ein Präfix eine Nominalklasse markiert, ist keine Bedeutung. Die Datei ist seit dem 18.09.2026 geschlossen und wird nicht mehr erweitert (E12).
+## Prüfung 2: was die Skripte nicht messen können
 
-## Prüfung 2: Stil
+Vier Punkte, mehr nicht:
 
-- Gedankenstriche ("–", "—"): verboten
-- Verbotene Wörter: majestätisch, faszinierend, wunderschön, ikonisch, atemberaubend, Wunder der Natur
-- Adjektivketten (drei oder mehr)
-- Fazit-Sätze, Moral, Appelle
-- Rhetorische Fragen ohne Rätsel-Setup
-- Mehr als zwei Humor-Einwürfe
-- Ende-Check: kehrt der letzte Absatz zum Anfangsbild zurück?
-- Längen: Geschichte 900 bis 1.500 Wörter (gelb bis 1.800, rot darüber; weiche Untergrenze 700, harte 600), kein Absatz über 200 Wörter, erster Satz unter 25, letzter Absatz unter 80. **Nenne die tatsächlichen Werte.**
-- Unerklärte Fachbegriffe. Erklärte Fachbegriffe gehören in Prüfung 1, nicht hierher.
+- **Ende-Check.** Kehrt der letzte Absatz zum Anfangsbild zurück? Kein Fazit, keine Moral, kein Allgemeinplatz.
+- **Tempus.** Präsens für Biologie, Präteritum für Geschichte. Auch bei Inversion: nicht "Aufgedeckt hat das X", sondern "Das deckte X auf".
+- **Wiederholt "Menschen und Kultur" den Block 1**, statt ihn zu ergänzen?
+- **Vorlesbarkeit**, aber nur, wo es wirklich stolpert: Schachtelsätze über drei Ebenen, Zahlenreihen ohne Pause, lateinische Namen mitten im Satzfluss. Zischlaute meldest du nicht. Im Pilot wurde wegen drei sch-Lauten ein Satz über Polizeigewalt umgebaut, und beim Umbauen entstehen Faktenfehler.
 
-## Prüfung 3: Vorlesbarkeit
+Rechtschreibung und Zeichensetzung meldest du nur, wenn du wirklich einen Fehler siehst. Such nicht danach.
 
-- Schachtelsätze über drei Ebenen
-- Zahlenreihen ohne Pause
-- Lateinische Namen mitten im Satzfluss
-- Sätze über 40 Wörter
+## Ausgabe: Patches
 
-Zischlaut-Häufungen meldest du nur, wenn der Satz beim lauten Lesen wirklich stolpert. Im Pilot führte ein solcher Befund dazu, dass ein Satz über Polizeigewalt umgebaut wurde, um drei sch-Laute zu entzerren. Der Nutzen war klein, das Risiko eines neuen Faktenfehlers beim Umbauen ist real.
+Datei `qs/{nr}-{slug}.md`. Drei Teile, in dieser Reihenfolge:
 
-## Prüfung 4: Struktur, Marker und Links
+### 1. Ampel
 
-- Alle fünf Blöcke vorhanden (Kopf, Geschichte, Menschen und Kultur, Vor der Linse, Weiterlesen und Sehen)
-- Kopfzeile: nur lokale Namen im Format `Sprache: „Name"`. Kein Englisch, kein Deutsch. Sprachbezeichnung **Maa**, nicht Maasai.
-- **Lokale Namen im Fließtext: höchstens drei** (E13). Die vollständige Liste gehört in die Namenszeile, der Fließtext wiederholt sie nicht. Mehr als drei ist eine Fundstelle. Aufgenommen gehören nur Namen, an denen etwas hängt: eine belegte Bedeutung, eine Zuordnungsfrage oder ein Gebrauch, der im Kapitel wiederkommt. Dass für eine Sprache kein Name vorliegt, ist **keine Fundstelle und kein Marker**. Die Liste hat keine Sollgröße.
-- Wiederholt "Menschen und Kultur" den Block 1, statt ihn zu ergänzen?
-- Nennt "Vor der Linse" konkreten Ort, Tageszeit und eine Brennweite aus unserem Set?
-- 3 bis 6 Links, jeder mit einem Satz Kontext
-- URLs vollständig und im Research-Doc vorhanden. Konstruierte oder abweichende URLs melden. **Deep Research erfindet gelegentlich URLs, das ist der häufigste Fehlertyp.**
-- **Kein `<p class="querverweis">` im Kapitel.** Querverweise setzt ein eigener Durchlauf, wenn alle Kapitel stehen. Ein Querverweis im Entwurf ist eine Fundstelle.
-- **Marker getrennt auflisten**, das ist ampelrelevant:
-  - `[[LÜCKE: …]]`, Pflichtfeld unbelegt. Jede einzeln, mit Zitat der Umgebung. Färbt gelb.
-  - `[[OFFEN: …]]`, vom Research-Doc selbst als nicht belegbar ausgewiesen. Jede einzeln. Färbt nicht. Eingesammelt wird nichts mehr: es gibt keine Nachrecherche, die die Lücke später füllt (E11, E12). `[[OFFEN]]` ist ein Endzustand.
-  - Prüfe die Zuordnung. Ein `[[OFFEN]]` an einem Pflichtfeld ist falsch einsortiert und gehört als Fundstelle gemeldet.
-  - Eine Seitenzahl gehört in keinen Marker. Dort steht `(S. XX)`.
+- grün: keine Fundstellen in Prüfung 1
+- gelb: `UNBELEGT`, `STATUSFEHLER` oder `VERZERRT` in Prüfung 1
+- rot: mindestens ein `FALSCH` in Prüfung 1
 
-## Prüfung 5: Sprachrichtigkeit
+Dazu eine Zeile: `Erreichbarkeit: gesammelter Lauf steht aus` (E14). Einmal, nicht pro Link.
 
-- Rechtschreibung, Zeichensetzung, Kongruenz
-- Tempus: Präsens für Biologie, Präteritum für Geschichte. Auch bei Inversion am Satzanfang: nicht "Aufgedeckt hat das X", sondern "Das deckte X auf".
-- **Jeder lateinische Artname kursiv**, auch Nebenarten, Wirtspflanzen, Erreger, Bestäuber, Synonyme und Familiennamen. Im Pilot standen sieben fremde Artnamen aufrecht, in drei von fünf Kapiteln, und drei QS-Läufe haben es nicht gemeldet.
+### 2. Der Patch-Block
 
-## Werkzeuge
+Genau ein Codeblock, ausgezeichnet als `patch`. Eine Zeile je Patch, Felder durch **Tabulator** getrennt:
 
-```
-python3 scripts/regel_check.py chapters/{nr}-{slug}.html
+```patch
+STREICHEN	exakter Wortlaut aus dem Kapitel
+ERSETZEN	exakter Wortlaut aus dem Kapitel	neuer Wortlaut
 ```
 
-Liefert die gemessenen Längen, Absatz- und Satzwerte sowie die Markerzahlen. Nimm diese Zahlen, statt selbst zu zählen.
+Vier harte Regeln für jeden Patch:
 
-```
-python3 scripts/check_links.py chapters/{nr}-{slug}.html --research research/{nr}-{slug}.txt --offline
-```
+1. **Der zitierte Wortlaut muss zeichengenau und genau einmal im Kapitel vorkommen.** Kopier ihn, tipp ihn nicht ab. Kommt er zweimal vor, nimm mehr Kontext dazu, bis er eindeutig ist.
+2. **Ein Ersatz darf nur streichen oder wörtlich aus dem Research-Doc übernehmen.** Er darf nicht umformulieren. Das ist die Kernregel: jeder Fehler, der im Pilot nach dem Erstentwurf entstanden ist, entstand beim Umformulieren, keiner beim Streichen.
+3. **Erlaubt sind genau drei Formen von Ersatz:**
+   - der alte Wortlaut ohne einzelne Wörter (Streichung im Satz)
+   - der alte Wortlaut plus ein Vorbehaltswort, das im Quellsatz des Docs steht
+   - eine Wortfolge, die wörtlich im Research-Doc steht
+   Alles andere lehnt das Patch-Skript ab.
+4. **Im Zweifel STREICHEN.** Ein Satz weniger ist ein Kapitel ohne diesen Fehler. Ein umformulierter Satz ist ein Kapitel mit einem neuen, den niemand mehr sucht.
 
-Prüft offline, ob jede URL wörtlich im Research-Spiegel steht. Das ist der Teil, der hier zählt, weil er den Fehler findet, den wir selbst verursachen: eine erfundene oder umgeschriebene Adresse.
+Kursivsetzungen sind der einzige Fall, in dem du HTML in den Ersatz schreibst: `ERSETZEN\tdie Gattung Prunus\tdie Gattung <em>Prunus</em>`.
 
-**Die Erreichbarkeit der Links prüfst du nicht.** Der Egress-Proxy dieser Umgebung sperrt alle allgemeinen Webhosts. Sie ist nachrangig und kein Gate vor dem Satz (E14). Schreib "Erreichbarkeit: gesammelter Lauf steht aus" einmal in die Kopfzeile deiner Ausgabe und nicht noch einmal pro Link. Im Pilot stand derselbe Hinweis 25 mal in den Fundstellenlisten und danach noch einmal in jeder Nachprüfung.
+### 3. Was nicht als Patch geht
 
-## Ausgabe
+Darunter eine kurze Liste. Je Eintrag eine Zeile: Kategorie, Fundstelle, warum kein Patch. Hierher gehört alles, was eine Entscheidung von Tobi braucht, und alles, was nur durch Umschreiben zu beheben wäre.
 
-Datei `qs/{nr}-{slug}.md`:
+Keine Lobsätze. Keine Zusammenfassung des Kapitelinhalts. Keine Vorschläge über die Fundstellen hinaus. **Im Pilot waren drei von fünf QS-Dokumenten länger als das Kapitel, das sie prüfen.** Ein QS-Dokument über 400 Wörtern plus Patch-Block ist zu lang.
 
-1. **Ampel aus Prüfung 1**
-   - grün: keine Fundstellen in Prüfung 1
-   - gelb: `UNBELEGT`, `STATUSFEHLER` oder `VERZERRT` in Prüfung 1
-   - rot: mindestens ein `FALSCH` in Prüfung 1
-2. Fundstellenliste je Prüfung
-3. Die drei wichtigsten Punkte
+## Die Gesamtampel rechnet der Workflow
 
-Keine Lobsätze. Keine Zusammenfassung des Kapitelinhalts. Keine Vorschläge, die über die Fundstellen hinausgehen.
+Du lieferst nur Teilurteile:
 
-Die Ampel aus Prüfung 1 ist nur ein Teil der Gesamtampel. Diese Teilurteile lieferst du, zusammenrechnen tut der Workflow:
+- rot: `FALSCH` in Prüfung 1, erfundene URL, fehlender Block, harte Längenuntergrenze
+- gelb: `UNBELEGT`, `STATUSFEHLER`, `VERZERRT`, offene `[[LÜCKE]]`, gelbe Längenzone, Befunde aus Prüfung 2
+- nicht ampelrelevant: ungeprüfte Erreichbarkeit
 
-- rot aus Prüfung 1 (`FALSCH`), erfundene URL, fehlender Block, harte Längenuntergrenze aus `regel_check.py`
-- gelb aus Prüfung 1 (`UNBELEGT`, `STATUSFEHLER`, `VERZERRT`), offene `[[LÜCKE]]`, gelbe Längenzone, Befunde aus Prüfung 2, 3 und 5
-- nicht ampelrelevant: `[[OFFEN]]`, ungeprüfte Erreichbarkeit
+`[[OFFEN]]` gibt es nicht mehr (E15). Findest du einen im Kapitel, ist das eine Fundstelle mit dem Patch `STREICHEN`.
 
 ## Bei der Nachprüfung
 
-Die Nachprüfung nach einer Korrekturrunde ist **keine Abhakliste**. Sie prüft mit derselben Tiefe wie die Erstprüfung, weil die Korrektur neue Fehler einbauen kann. Im Pilot ist genau das in 2 von 5 Kapiteln passiert, und in einem weiteren ist ein neuer unbelegter Satz entstanden und nicht gefunden worden.
+Die Nachprüfung ist **keine Abhakliste**. Sie prüft Prüfung 1 mit derselben Tiefe wie die Erstprüfung, weil ein Patch etwas verschoben haben kann. Im Pilot sind in 2 von 5 Kapiteln beim Korrigieren neue Fehler entstanden, damals noch durch ein Modell, das umformulieren durfte.
 
-Halte sie trotzdem kurz. Umgesetzte Punkte nur als Liste, ohne Wiederholung des vollen Zitats. Ausführlich wird nur, was neu ist oder offen bleibt. Im Pilot waren drei von fünf QS-Dokumenten länger als das Kapitel, das sie prüfen.
+Halte sie kurz. Umgesetzte Punkte nur als Liste ohne Zitat. Ausführlich wird nur, was neu ist.
 
 ## Was gegenüber Drive geändert ist
 
-- Fünf Prüfungen statt vier, Sprachrichtigkeit ist eigenständig (Entscheidung Tobi).
-- Längenzonen präzisiert (Entscheidung Tobi).
-- Prüfung 4 und die Längenuntergrenze haben jetzt eine Konsequenz für die Gesamtampel, vorher hatte nur Prüfung 1 eine.
-- Marker werden explizit aufgelistet, damit kein löchriges Kapitel grün durchläuft.
+- Fünf Prüfungen wurden zwei. Was sich zählen lässt, zählt ein Skript (E20).
+- Ausgabe sind Patches, kein Fließtext. Der Korrekturschritt entfällt.
 - Prüfer und Schreiber sind verschiedene Modelle mit getrenntem Kontext.
+- Längenzonen gesenkt, Norm 800 bis 1.300 (E18). Links 3 bis 4 (E19).
 
-## Was nach dem Pilot 001 bis 005 dazugekommen ist
+## Entscheidungsstand
 
-Entscheidungen Tobi vom 18.09.2026, Nummern wie im Entscheidungsstapel des Pilotberichts.
-
-- E1: `[[LÜCKE]]` färbt gelb, `[[OFFEN]]` nicht.
-- E2 und E3: Körpermaße und Erklärungen sind Prüfung 1, nicht Prüfung 2.
-- E4: `VERZERRT` färbt gelb. Es war die größte Einzelkategorie und hatte keine Regel.
-- E6 bis E9: Seitenzahl, Kopfzeilenformat, Sprachbezeichnung und Kursivsetzung sind jetzt benannte Prüfpunkte.
-- E10: Erreichbarkeit raus aus der Ampel und raus aus der Fundstellenliste, gesammelter Lauf vor dem Satz.
-- Querverweise: im Kapitel unerwünscht, eigener Durchlauf am Ende (Entscheidung Tobi).
-- Zuspitzung als benannter Fehlertyp in Prüfung 1, aus dem häufigsten Pilotbefund.
-- Nachprüfung mit voller Tiefe, aber kurzer Form.
-
-Entscheidungen Tobi vom 18.09.2026, zweite Runde:
-
-- E11 und E12: keine Nachrecherche mehr, weder Fotografie noch Namensbedeutungen. `[[OFFEN]]` ist ein Endzustand.
+- E1: `[[LÜCKE]]` färbt gelb.
+- E2 und E3: Körpermaße und Erklärungen sind Prüfung 1, nicht Stil.
+- E4: `VERZERRT` färbt gelb.
+- E6 bis E9: Seitenzahl, Kopfzeilenformat, Sprachbezeichnung Maa, Kursivsetzung.
+- E10 und E14: Erreichbarkeit der Links ist nachrangig und kein Gate vor dem Satz.
+- E11 und E12: keine Nachrecherche mehr, weder Fotografie noch Namensbedeutungen.
 - E13: höchstens drei lokale Namen im Fließtext, fehlende Namen sind kein Mangel.
-- E14: Erreichbarkeit der Links nachrangig.
+- E15: `[[OFFEN]]` abgeschafft.
+- E16: kein Alltagsvergleich ohne wörtlichen Beleg.
+- E17: Vorbehaltswörter wandern mit.
+- E18: Norm 800 bis 1.300 Wörter.
+- E19: 3 bis 4 Links.
+- E20: Patches statt Prosa, kein Korrekturmodell.
+- Querverweise: eigener Durchlauf am Ende, im Kapitel unerwünscht.
