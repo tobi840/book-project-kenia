@@ -108,6 +108,8 @@ def main():
     html = open(a.kapitel, encoding="utf-8").read()
     qs = open(a.qs, encoding="utf-8").read()
     doc_norm = norm(open(a.research, encoding="utf-8").read())
+    # Fussnotenziffern kleben im Doc am Wort ("Hundekot4"), ein woertliches Zitat hat sie nicht.
+    doc_ohne_fussnoten = re.sub(r"(?<=[A-Za-zäöüß)])\d{1,3}(?=[\s.,;:\[]|$)", "", doc_norm)
 
     patches = patches_aus(qs)
     if not patches:
@@ -130,6 +132,7 @@ def main():
             erlaubt = (ist_nur_kursiv(alt, neu)
                        or ist_streichung(alt, neu)
                        or ohne_em(neu) in doc_norm
+                       or ohne_em(neu).rstrip(".") in doc_ohne_fussnoten
                        or ist_vorbehalt_ergaenzung(alt, neu))
             if not erlaubt:
                 abgelehnt.append(
