@@ -66,10 +66,10 @@ Skript auf, keiner holt etwas aus Drive.
   allem in einer vorbereiteten Datei, 2 Tool-Uses: 106k. 009 ebenso: 120k.
   **Batch 010 bis 018, drei Kapitel je Prüfer: 46k je Kapitel.**
 - Messwerte Schreiben (Subagent, Opus, eine vorbereitete Datei): 009 einzeln
-  122k. Batch 010 bis 018, ein Kapitel je Schreiber: **120k je Kapitel**.
-  Der Schreiberpreis ist damit bestätigt und dominiert die Rechnung. Er ist
-  der nächste Kandidat für Amortisation, ungetestet.
-- **Ein Kapitel kostet zurzeit rund 166k von der leeren Seite bis grün.**
+  122k. Batch 010 bis 018, ein Kapitel je Schreiber: 120k je Kapitel.
+  **Batch 019 bis 027, drei Kapitel je Schreiber: 62.640 je Kapitel.**
+- **Ein Kapitel kostet seit Batch 019 bis 027 rund 110k von der leeren Seite
+  bis grün**, vorher 166k.
 
 ### Der Bodenpreis eines Subagenten liegt bei 59k
 
@@ -104,6 +104,36 @@ die Ursache. Sie ist es nicht: 6 Tool-Uses auf 2 zu senken sparte 5 Prozent.
 **Damit sind zwei von drei Hypothesen widerlegt.** Die Rundenzahl war es nicht
 (5 Prozent), der Werkzeugkatalog war es auch nicht (0 Prozent). Der Bodenpreis
 von rund 60k je Subagent ist von innen nicht zu senken. Übrig bleibt die
+### Amortisation gilt auch für den Schreiber. Gemessen am 21.09.2026
+
+Batch 019 bis 027, drei Opus-Schreiber statt neun, je drei Kapitel aus einer
+vorbereiteten Datei: **62.640 Tokens je Kapitel gegen 120.474. 48 Prozent
+gespart.** Die Vorhersage lag bei 25 Prozent und war zu vorsichtig. Begründet
+war sie damit, dass der Schreiber ein ganzes Kapitel ausgibt und Ausgabe sich
+nicht teilen lässt. Das stimmt, wiegt aber weniger als gedacht: Anleitung,
+Styleguide und Template werden einmal statt dreimal gelesen, und das ist der
+größere Posten.
+
+Die QS lief unverändert mit drei Kapiteln je Prüfer: 47.815 je Kapitel, gegen
+46.031 im Batch davor. Der Wert ist stabil.
+
+**Zur Qualität, und das ist der eigentliche Befund.** Regel-Check über alle
+neun: 0 rot. Die Wortzahlen der dritten Kapitel jeder Gruppe (021: 986,
+024: 948, 027: 946) liegen im Mittelfeld, nicht am unteren Rand. Ich habe alle
+neun Geschichten selbst gelesen: Die dritten Kapitel sind die stärksten des
+Batches. Die Sorge, ein Schreiber mit drei Aufträgen im Kopf werde zum Schluss
+flach, ist damit zum zweiten Mal nicht bestätigt, nach dem Prüfer nun auch beim
+Schreiber.
+
+Kreuzkontamination zwischen den drei Docs einer Gruppe: keine gefunden. Der
+Batch war der scharfe Fall, alle neun Arten im Rift Valley, sechs Wasservögel.
+Angaben, die nach einem fremden Doc aussahen, standen bei Stichproben im
+eigenen.
+
+Was die QS nicht fand und ich beim Lesen: zwei erfundene Bilder in 027, eine
+Türklinke als Körpermaß und ein Schnabel als Mikrofon. **Das Lesen der Kapitel
+in der Hauptsession bleibt nötig**, unabhängig von der Agentenzahl.
+
 Amortisation: **Ein Agent, der mehr Kapitel bearbeitet, teilt den Boden.** Das
 gilt für den Prüfer und genauso für den Schreiber. Jede weitere Idee zur
 Senkung des Bodenpreises wird erst gemessen und dann geglaubt, nicht umgekehrt.
