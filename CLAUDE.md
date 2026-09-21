@@ -61,9 +61,15 @@ Skript auf, keiner holt etwas aus Drive.
 - Der erste 10er-Batch ist der Test. Danach nennt die Hauptsession Tokens pro
   Kapitel.
 - **Liegt die QS über 60k je Kapitel: anhalten**, nicht weiterlaufen lassen.
-- Messwerte: QS-Runde 3 im Pilot 178k je Kapitel. Kapitel 006 mit Dateisuche und
-  Skriptaufrufen 102k. Kapitel 007 mit fester Dateiliste, 6 Tool-Uses: 111k.
-  Kapitel 008 mit allem in einer vorbereiteten Datei, 2 Tool-Uses: 106k.
+- Messwerte QS: Pilot Runde 3 178k je Kapitel. 006 mit Dateisuche und
+  Skriptaufrufen 102k. 007 mit fester Dateiliste, 6 Tool-Uses: 111k. 008 mit
+  allem in einer vorbereiteten Datei, 2 Tool-Uses: 106k. 009 ebenso: 120k.
+  **Batch 010 bis 018, drei Kapitel je Prüfer: 46k je Kapitel.**
+- Messwerte Schreiben (Subagent, Opus, eine vorbereitete Datei): 009 einzeln
+  122k. Batch 010 bis 018, ein Kapitel je Schreiber: **120k je Kapitel**.
+  Der Schreiberpreis ist damit bestätigt und dominiert die Rechnung. Er ist
+  der nächste Kandidat für Amortisation, ungetestet.
+- **Ein Kapitel kostet zurzeit rund 166k von der leeren Seite bis grün.**
 
 ### Der Bodenpreis eines Subagenten liegt bei 59k
 
@@ -78,10 +84,16 @@ die Ursache. Sie ist es nicht: 6 Tool-Uses auf 2 zu senken sparte 5 Prozent.
 1. **Die 60k-Grenze ist mit einem Subagenten je Kapitel nicht erreichbar.** Der
    Boden liegt schon darüber. Die Nutzlast einer QS (Research-Doc, Kapitel, P4,
    zusammen rund 40 KB) kostet obendrauf nur rund 46k.
-2. **Mehrere Kapitel je Prüfer.** Der Bodenpreis fällt einmal an, die Nutzlast
-   skaliert linear. Bei drei Kapiteln je Prüferlauf rund 45k je Kapitel.
-   Gegenrechnung: Ein Prüfer mit drei Kapiteln im Kopf findet im dritten
-   vermutlich weniger als im ersten. Beim ersten Batch messen.
+2. **Mehrere Kapitel je Prüfer. Gemessen am 21.09.2026 und bestätigt.** Der
+   Bodenpreis fällt einmal an, die Nutzlast skaliert linear. Vorhersage waren
+   rund 45k je Kapitel bei drei Kapiteln je Prüferlauf. Gemessen im Batch 010
+   bis 018: **46.031 je Kapitel**, gegen 119.978 bei einem Kapitel je Prüfer
+   (Kapitel 009). **62 Prozent gespart.** Damit ist die 60k-Grenze erreichbar,
+   aber nur über Amortisation.
+   Die Gegenrechnung, ein Prüfer mit drei Kapiteln im Kopf finde im dritten
+   weniger als im ersten, ist durch diesen Lauf **nicht gestützt**: Beide
+   Befunde des Batches lagen im dritten Kapitel ihrer Gruppe. Ein Lauf ist
+   kein Beweis, aber die Richtung stimmt nicht mit der Sorge überein.
 3. ~~Konnektoren aus.~~ **Getestet und widerlegt.** Tobi hat Slack, Gmail,
    Agicap, Miro, Kalender und BigQuery abgeschaltet, 135 Werkzeuge weniger.
    Die Nullmessung danach: **63.153 Tokens**, also nichts gespart. Der Grund
