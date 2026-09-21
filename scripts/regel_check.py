@@ -402,7 +402,12 @@ def pruefe(pfad, research_duenn=False):
 
         lat_name = meta.get("lateinisch", "")
         if lat_name:
-            n = gesamt.count(lat_name)
+            # Gattungskapitel: Steht im Frontmatter nur die Gattung, dann traegt
+            # jeder Artname der Gattung sie mit. Kapitel 015 (Dorylus) nennt fuenf
+            # verschiedene Arten, jede mit eigenem Beleg, und wurde dafuer gemeldet.
+            # Gezaehlt werden deshalb nur Treffer, auf die KEIN Artepitheton folgt.
+            n = len([m for m in re.finditer(re.escape(lat_name), gesamt)
+                     if not re.match(r"\s+[a-z]{3,}", gesamt[m.end():])])
             mass["lateinisch_im_fliesstext"] = n
             if n > 1:
                 fund("gelb", "lateinisch", "Lateinischer Name steht " + str(n)
