@@ -64,6 +64,12 @@ def ist_vorbehalt_ergaenzung(alt, neu):
         for kandidat in (v + " ", " " + v + " ", ", " + v + " "):
             if n.replace(kandidat, " ", 1).replace("  ", " ").strip() == a:
                 return True
+        # Am Satzanfang traegt das Vorbehaltswort den Grossbuchstaben, das alte erste Wort wird klein.
+        anfang = v.capitalize() + " "
+        if n.startswith(anfang):
+            rest = n[len(anfang):]
+            if rest[:1].upper() + rest[1:] == a:
+                return True
     return False
 
 
