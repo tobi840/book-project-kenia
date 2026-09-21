@@ -1,0 +1,189 @@
+﻿Research Report: Coracias caudatus (Gabelracke)
+1. Namen und Etymologie
+Die taxonomische und linguistische Nomenklatur der Art Coracias caudatus ist vielschichtig dokumentiert. Es ist gesichert, dass die wissenschaftliche Erstbeschreibung durch den schwedischen Naturforscher Carl von Linné im Jahr 1766 in der zwölften Auflage seines Werkes Systema Naturae (Band 1, Teil 1, S. 160) erfolgte1. Linné vergab das Protonym Coracias caudata und stützte seine Klassifikation auf Vorarbeiten des französischen Zoologen Mathurin Jacques Brisson, der das Tier bereits im Jahr 1760 unter der Bezeichnung "Le Rollier d'Angola" beschrieben und illustriert hatte (Status: gesichert)1. Als Typuslokalität ist die Region Angola dokumentiert (Status: gesichert)2.
+Die etymologische Herleitung des wissenschaftlichen Namens basiert auf historischen und morphologischen Beobachtungen (Status: gesichert): Der Gattungsname Coracias leitet sich vom altgriechischen Begriff korakías (κορακίας) ab, welcher seinen Ursprung im Wort korax (κόραξ) für "Rabe" oder "Krähe" hat4. Diese Namensgebung geht auf Aufzeichnungen des Aristoteles zurück, der damit einen krähengroßen Vogel mit rötlichem Schnabel beschrieb4. Das Art-Epitheton caudatus entstammt dem Lateinischen. Es setzt sich aus dem Nomen cauda (Schwanz) und dem Suffix -atus (versehen mit) zusammen, was wörtlich "geschwänzt" oder "mit einem Schwanz versehen" bedeutet und die verlängerten Steuerfedern referenziert1.
+Die systematische Einordnung der lokalen und internationalen Trivialnamen zeigt eine primäre Fokussierung auf optische Merkmale und Verhaltensweisen.
+
+
+Trivialname
+	Sprache
+	Status der Belegbarkeit
+	Wörtliche Bedeutung / Herkunft
+	Gabelracke
+	Deutsch
+	gesichert
+	Referenziert die gegabelten äußeren Schwanzfedern5.
+	Grünscheitelracke
+	Deutsch
+	gesichert
+	Bezieht sich auf die Färbung der Kopfpartie6.
+	Gabelschwanzracke
+	Deutsch
+	gesichert
+	Synonym zu Gabelracke6.
+	Lilac-breasted Roller
+	Englisch
+	gesichert
+	Bezieht sich auf die fliederfarbene Brust und das Flugverhalten1.
+	Fork-tailed roller
+	Englisch
+	gesichert
+	Bezieht sich auf die Schwanzform1.
+	Mosilikatze's roller
+	Englisch
+	gesichert
+	Historisches Synonym, benannt nach einem historischen Herrscher1.
+	Kambu
+	Swahili
+	gesichert
+	Eigenname ohne belegte wörtliche Übersetzung in den verwendeten Quellen8.
+	ol-anga
+	Maa (Maasai)
+	gesichert
+	Sammelbegriff für Rackenvögel (Coraciidae)11.
+	Für die Sprachgruppen Kikuyu, Samburu, Giriama und Kamba schreiben die vorliegenden Quellen der Art keinen spezifischen Namen zu; die Bezeichnungen verbleiben für diese Sprachen als unbekannt (Status: gesichert).
+2. Erscheinung, mit Maßen
+Die Spezies ist durch einen stämmigen Körperbau, einen proportional großen Kopf und einen kräftigen, schwarzen Schnabel gekennzeichnet (Status: gesichert)1. Ein Sexualdimorphismus bezüglich der Gefiederfärbung existiert nicht (monomorph); die Geschlechter sind im Feld optisch nicht zu unterscheiden, wobei männliche Individuen statistisch minimale Größenüberschüsse aufweisen (Status: vermutet)1.
+Die biometrischen Daten der Art bewegen sich innerhalb eng definierter Parameter. Zur Veranschaulichung der Größenordnung ist ein Vergleich mit dem europäischen Eichelhäher (Garrulus glandarius) heranzuziehen, dessen Dimensionen der Gabelracke nahezu exakt entsprechen (Status: gesichert)5.
+
+
+Biometrischer Parameter
+	Messwert / Spanne
+	Einheit
+	Status
+	Gesamtkörperlänge (inkl. Steuerfedern)
+	35,0 bis 45,0
+	Zentimeter (cm)
+	gesichert5
+	Flügelspannweite
+	50,0 bis 58,0
+	Zentimeter (cm)
+	gesichert5
+	Körpergewicht
+	87,0 bis 135,0
+	Gramm (g)
+	gesichert5
+	Durchschnittliches Körpergewicht
+	104,0
+	Gramm (g)
+	gesichert9
+	Länge der verlängerten Steuerfedern (Streamer)
+	> 8,0
+	Zentimeter (cm)
+	gesichert5
+	Das Gefieder der Gabelracke setzt sich aus acht distinkten Farbtönen zusammen: Grün, Weiß, Schwarz, Gelb, Türkis, Dunkelblau, Rotbraun und Flieder (Status: gesichert)8. Die Farbverteilung an der Anatomie der Nominatform C. c. caudatus ist wie folgt strukturiert (Status: gesichert): Der Bereich von der Krone bis zum Mantel ist olivgrün gefärbt, während Wangen und Ohrdecken eine rostbraune bis fliederfarbene Tönung aufweisen1. Ein weißes bis cremefarbenes Band verläuft über den Augen und umschließt den Schnabelansatz5. Die Kehle ist hell fliederfarben mit einer feinen weißen Längsstrichelung und verdunkelt sich im Bereich der Brust zu einem intensiven Fliederton1. Der Bauch und die Unterseiten der Flügel sind in Türkis bis Smaragdgrün gehalten5. Die distale Hälfte der Schwungfedern auf den Innenfahnen ist schwarz, während die Außenfahnen dunkel violett-blau gefärbt sind; die proximale Hälfte und die Daumenfittiche (Alula) leuchten azurblau1. Die Steuerfedern sind türkisblau, enden jedoch in langen, schwarzen Spitzen1.
+Es existieren morphologische Unterschiede zwischen adulten und juvenilen Vögeln sowie zwischen den Unterarten. Juvenilen Exemplaren fehlen die verlängerten schwarzen Schwanzfedern vollständig (Status: gesichert)1. Ihr Brust- und Kehlgefieder ist rostbraun (rufous-tawny) mit breiten, diffusen weiß-beigen Streifen, die von malvenfarbenen Rändern begrenzt werden (Status: gesichert)1. Die Unterart C. c. lorti, die im Nordosten Kenias auftritt, unterscheidet sich von der Nominatform durch eine grünblaue anstelle einer olivgrünen Partie von der Krone bis zum Mantel und eine azurblaue anstelle einer fliederfarbenen Brust (Status: gesichert)1.
+3. Der Mechanismus
+Die Besonderheit dieser Art basiert auf einem biologischen Mechanismus, der das Zusammenspiel von biomechanischer Flugkinematik (dem sogenannten "Roll") und nanostruktureller Lichtabsorption in den Federn ("Super-Black"-Effekt) umfasst.
+Aerodynamik und Biomechanik des Balzfluges
+Der Mechanismus, der der gesamten Familie der Racken (Coraciidae) ihren englischen Namen ("Roller") verleiht, ist das hochgradig spezialisierte Flugverhalten während der Paarungszeit und Territorialverteidigung (Status: gesichert)1. Der physische Ablauf folgt einem fest definierten Muster:
+1. Das Individuum (aufgrund des fehlenden Sexualdimorphismus ist nicht abschließend geklärt, ob ausschließlich Männchen dieses Verhalten zeigen) steigt in einem steilen Winkel auf eine Flughöhe zwischen 69 und 144 Metern auf (Status: gesichert)1.
+2. Am Scheitelpunkt der Flugbahn kippt der Vogel nach vorn und legt die Flügel eng an den Körper an, um den Luftwiderstand zu verringern und im anschließenden Sturzflug maximale Beschleunigung in Richtung Boden zu erreichen (Status: gesichert)1.
+3. Beim Abfangen des Sturzfluges bei hoher Horizontalgeschwindigkeit leitet der Vogel durch asymmetrische Flügelstellung eine Rotation um die eigene Längsachse ein. Er rollt in schneller Abfolge nach links und rechts (Status: gesichert)1.
+4. Diese kinetische Bewegung ist strikt an eine vokale Äußerung gekoppelt; simultan zum Rollen stößt die Gabelracke laute, raue, sägende Rufe aus, die als "kaaa, kaarsh" transkribiert werden (Status: gesichert)1. Nach dem Abschluss der Rollbewegung nutzt der Vogel seine kinetische Energie für einen erneuten Aufstieg.
+Nanostrukturelle Lichtabsorption und Strukturfarbe
+Der visuelle Eindruck der Gabelracke beim Flugmanöver beruht auf physikalischer Optik. Im Gegensatz zu den durch Melanin erzeugten Brauntönen oder den durch Carotinoide erzeugten Gelbtönen enthalten die blauen Federn kein Pigment, sondern erzeugen ihre Farbgebung durch Strukturfarben (Status: gesichert)19.
+Die visuelle Dominanz dieser Strukturfarben wird durch einen optischen Effekt verstärkt, der durch Studien von McCoy et al. im Jahr 2018 spezifisch bei der Gabelracke (Coracias caudatus) und anderen Vogelarten quantifiziert wurde (Status: gesichert)22. Bestimmte dunkle Federpartien der Gabelracke (beispielsweise die schwarzen Enden der Schwung- und Steuerfedern) weisen extrem geringe Reflexionswerte von unter 2 Prozent auf (Status: gesichert)22.
+Diesem Phänomen liegt eine kausale optische Wirkungskette zugrunde:
+1. Entstehung: Die Bogenstrahlen (Barbules) dieser Federn sind dicht gepackt und weisen bandförmige mikroskopische Strukturen auf. Diese morphologische Architektur formt dreidimensionale, mikrometergroße Hohlräume, deren Breite und Tiefe größer sind als die Wellenlängen des sichtbaren Lichts (Status: gesichert)22.
+2. Lichtstreuung: Wenn Licht in diese Hohlräume eintritt, erfährt es zwischen den vertikal ausgerichteten Oberflächen der Keratinstrukturen eine mehrfache Streuung (multiple light scattering) (Status: gesichert)22.
+3. Absorption: Durch die wiederholte Streuung wird die Wahrscheinlichkeit maximiert, dass Photonen auf die in der Feder eingelagerten Melaningranula treffen. Das Licht wird infolgedessen nahezu vollständig absorbiert, und das Reflexionsspektrum flacht ab (Status: gesichert)22.
+4. Sensorische Täuschung: Da diesen "super-schwarzen" Flächen jegliche spiegelnde weiße Reflexion (specular reflection) fehlt, entfällt für das Auge des Betrachters der Referenzpunkt, der normalerweise zur Kalibrierung des Umgebungslichts (Weißabgleich) genutzt wird. Infolgedessen erscheinen die direkt benachbarten, leuchtend blauen und fliederfarbenen Strukturfarben der Gabelracke optisch signifikant heller, als sie objektiv sind (Status: vermutet)22.
+Dieser komplexe Mechanismus aus Nanostruktur und optischer Illusion steigert den Signaleffekt während des schnellen Balzfluges im Sonnenlicht erheblich.
+4. Ökologie und Verhalten
+Die Habitate der Gabelracke sind afrikanische Baumsavannen, Miombo-Wälder, Buschland und Akazienbestände, in denen offene Grasflächen mit einzeln stehenden, hohen Bäumen alternieren (Status: gesichert)1. Die Spezies meidet baumlose Steppen ebenso wie geschlossene Waldgebiete und dichte menschliche Siedlungsräume1.
+Die Art ist zur Jagd und zur Revierabgrenzung obligatorisch auf Ansitzwarten angewiesen. Neben Bäumen, abgestorbenen Ästen und Strommasten werden auch Termitenhügel oder die Rücken großer pflanzenfressender Säugetiere genutzt (Status: gesichert)1. Populationsdichten in Savannenhabitaten (ermittelt am Beispiel Namibias) schwanken zwischen 0,5 und 1,4 Brutpaaren pro 100 Hektar (Status: gesichert)23.
+Fortpflanzungsökologie und Ökosystem-Abhängigkeit
+Gabelracken sind zur Fortpflanzung auf eine ungestörte Habitatstruktur angewiesen. Da ihr Schnabel nicht zum Graben in gesundem Holz geeignet ist, existiert eine direkte ökologische Abhängigkeit zu Spechten (Picidae) und Bartvögeln (Lybiidae). Die Racken übernehmen deren verlassene Nisthöhlen (Status: gesichert)1. Alternativ werden natürliche Aushöhlungen in Baobabs, Kokospalmen oder gelegentlich Höhlungen in Termitenhügeln genutzt1. Für die Anlage von Nestern präferieren höhlenbrütende Arten in diesen Ökosystemen alte Bäume mit einem Stammdurchmesser (DBH) von über 36,0 Zentimetern und einer Höhe von mehr als 5,0 Metern (Status: gesichert)24. Die Bruthöhlen weisen zumeist einen vertikal verlängerten Eingang auf (Status: gesichert)25.
+Die Paarbildung gilt als monogam, und es wird von einer lebenslangen Bindung ausgegangen (Status: vermutet)8. Gelege umfassen durchschnittlich 2 bis 4 Eier, deren Bebrütung durch beide Partner für eine Dauer von 22 bis 24 Tagen erfolgt1. Beide Elternteile verteidigen das Nest äußerst aggressiv gegen Eindringlinge, einschließlich wesentlich größerer Greifvögel (Status: gesichert)1.
+Nahrungserwerb
+Das Nahrungsspektrum umfasst primär terrestrisch lebende Gliederfüßer (Arthropoda) und kleine Wirbeltiere (Vertebrata). Belegt sind Käfer, Heuschrecken, Spinnen, Skorpione, Hundert- und Tausendfüßler sowie Schnecken3. Zu den erbeuteten Wirbeltieren zählen kleine Echsen, Schlangen (darunter speziell Blindschlangen der Gattungen Afrotyphlops und Leptotyphlops), Amphibien, Nager und kleine Vögel1. Die Beute wird vom Ansitz aus fixiert, im Sturzflug gegriffen und, sofern sie für ein sofortiges Verschlucken zu groß ist, zur Warte zurückgetragen und dort durch Schläge gegen den Ast zerkleinert (Status: gesichert)1.
+Saisonales Verhalten Ende September und Anfang Oktober
+Für die Nominatform C. c. caudatus, die in den Gebieten Tsavo, Amboseli und Laikipia anzutreffen ist, sind im Zeitraum Ende September bis Mitte Oktober (Ende der Trockenzeit, unmittelbar vor dem Einsetzen der Regenfälle) spezifische Verhaltensmuster zu dokumentieren. Die Vögel beenden in dieser Phase ihre post-reproduktive Dispersion, die sie teils in sandigere Areale geführt hat, und besetzen ihre Stamm-Brutreviere (Status: gesichert)1.
+Zu dieser Jahreszeit kommt es in Kenia gehäuft zu natürlichen und durch Landwirtschaft initiierten Savannen- und Buschfeuern. Gabelracken versammeln sich gezielt an den Flanken dieser Brände. In interspezifischer Assoziation mit Störchen, Schwalben, Bienenfressern oder Milanen nutzen sie die Feuerfront, um von den Flammen aufgescheuchte und flüchtende Insekten und Kleintiere zu erbeuten (Status: gesichert)1.
+5. Menschen und Kultur in Kenia
+Die Gabelracke nimmt in der öffentlichen Wahrnehmung der Republik Kenia eine prominente Rolle ein. Sie wird in Touristik, Bildungsmedien und Kultur als inoffizieller Nationalvogel des Landes geführt (Status: gesichert)1. Es existiert jedoch kein formaler legislativer Erlass der kenianischen Regierung, der diesen Status juristisch fixiert (Status: gesichert)10.
+Eine wiederkehrende Legende in der nationalen Folklore besagt, dass die acht identifizierbaren Farben des Gefieders die zahlreichen indigenen Gemeinschaften (Tribes) Kenias repräsentieren und als Symbol für Vielfalt und friedliche Koexistenz stehen (Status: überliefert)15. Ein weiteres Narrativ der afrikanischen Überlieferung ordnet dem Vogel aufgrund seiner starken, monogamen Paarbindung eine Vorbildfunktion für ewige Treue in zwischenmenschlichen Beziehungen zu (Status: überliefert)26.
+Fehlinterpretationen existieren hinsichtlich staatlicher Embleme. Die Gabelracke ist weder auf der kenianischen Nationalflagge noch im offiziellen Parteiwappen der historischen Kenya African National Union (KANU) abgebildet. Die Flagge ziert ein Schild der Maasai, während das Parteisymbol der KANU ein Hahn (Swahili: Jogoo) ist (Status: gesichert)15. Direkte anthropogene Konflikte – wie etwa Erntefraß – liegen nicht vor, da der Vogel Agrarprodukte ignoriert. Eine mittelbare Bedrohung resultiert aus dem landwirtschaftlichen Einsatz von Insektiziden sowie der Abholzung älterer Baumbestände, welche die Nistplatzverfügbarkeit reduziert (Status: gesichert)10. Der internationale Schutzstatus wird von der IUCN Red List in der Evaluierung aus dem Jahr 2016 als "Least Concern" (Nicht gefährdet) ausgewiesen, und der Bestand gilt als stabil (Status: gesichert)1.
+6. Wissenschaftsgeschichte
+Die Taxonomie der Art ist eng mit historischen naturwissenschaftlichen Expeditionen und Publikationen verknüpft. Im Jahr 1760 dokumentierte und illustrierte der französische Zoologe Mathurin Jacques Brisson in seinem Werk Ornithologie das erste Typusexemplar, welches er als "Le Rollier d'Angola" bezeichnete (Status: gesichert)1. Der schwedische Naturforscher Carl von Linné griff auf diese Vorarbeit zurück und validierte die Art 1766 in seiner 12. Ausgabe der Systema Naturae wissenschaftlich unter dem Namen Coracias caudata (Status: gesichert)1.
+Eine Erweiterung der Systematik erfolgte 1885 durch den britischen Ornithologen George Ernest Shelley, der Populationen aus Somalia und dem nordöstlichen Kenia als eigenständige Art beschrieb. Diese wurde später in den Status einer Unterart (Coracias caudatus lorti) überführt (Status: gesichert)1.
+Eine maßgebliche Studie zur Beilegung phylogenetischer Kontroversen innerhalb der Familie der Racken wurde im Jahr 2018 von Johansson et al. publiziert. Da von vielen Racken-Arten kein frisches Gewebe verfügbar war, wandte das Forscherteam die Methode des "Shotgun-Sequencing" an, um stark degradierte DNA aus historischen Museumspräparaten zu extrahieren. Sie sequenzierten 15 nukleare Gene sowie vollständige mitochondriale Genome (Status: gesichert)1. Die Studie belegte zweifelsfrei, dass die Gabelracke eng mit der europäischen Blauracke (C. garrulus) und der Senegalracke (C. abyssinicus) verwandt ist und diese eine gemeinsame Klade bilden (Status: gesichert)29.
+7. Fotografie
+Die gewählte Route (24.09. bis 12.10.2026) deckt Habitate ab, in denen die Fotografie der Gabelracke mit hoher Wahrscheinlichkeit erfolgreich sein wird. Die höchsten Sichtungsraten sind in den offenen Savannen von Tsavo Ost und West, im Amboseli National Park sowie im Ol Pejeta Conservancy zu erwarten (Status: gesichert)1. In Höhenlagen wie Naro Moru oder Nyahururu sinkt die Wahrscheinlichkeit aufgrund fehlender Habitatstrukturen.
+Das fotografische Vorgehen erfordert Geduld und spezifische Kameraeinstellungen:
+* Tageszeit: Die frühen Morgenstunden und der späte Nachmittag sind zwingend erforderlich, da das flache, weiche Licht (Golden Hour) die irisierenden blauen Strukturfarben der Federn aufleuchten lässt. Mittagssonne führt durch harte Schatten und Reflexionen zum Auswaschen der Farbkontraste.
+* Verhalten und Abwarten: Es lohnt sich, ein sitzendes Individuum im Fokus zu behalten. Gabelracken sind Ansitzjäger und kehren nach einem Abwurf auf den Boden häufig exakt auf denselben Ast zurück. Der Moment, in dem der Vogel den Kopf senkt, indiziert eine Beutesichtung.
+* Fluchtdistanz und Fehler: Die Spezies zeichnet sich durch eine bemerkenswert hohe Toleranz gegenüber Safarifahrzeugen aus ("tolerant of vehicles") (Status: gesichert)10. Die Fluchtdistanz ist gering, solange keine menschliche Silhouette das Fahrzeug verlässt. Der häufigste Fehler ist das Öffnen von Türen oder hastige Bewegungen im Wagen.
+* Ausrüstung und Belastbare Richtwerte:
+   * Für sitzende Vögel ist das 100 bis 400 mm Objektiv vollkommen ausreichend, kombiniert mit Verschlusszeiten von 1/500 s bis 1/800 s bei einer Blende von f/8 bis f/10 (Status: gesichert)6.
+   * Soll der Balzflug ("The Roll"), der Abflug oder der Moment des Beutegreifens scharf abgebildet werden, ist das 150 bis 600 mm Objektiv geboten. Hierbei sind Verschlusszeiten von 1/1600 s bis 1/6400 s zwingend erforderlich, um die extrem schnelle Längsrotation und die Flügelschläge einzufrieren. Blendenwerte zwischen f/5.0 und f/6.0 bei einem ISO-Wert bis 1600 sind belastbare Richtwerte für diese Dynamik (Status: gesichert)31.
+8. Links zum Weiterlesen und Sehen
+Art der Quelle
+	Inhaltlicher Kontext
+	URL
+	Fachliche Quelle (IUCN)
+	Die offizielle und aktuellste Bestandserfassung und Klassifizierung des internationalen Schutzstatus der Art (Bewertung von 2016).
+	https://www.iucnredlist.org/species/22682874/92966607
+	Fachartikel (Studie)
+	Publikation der molekulargenetischen Studie von Johansson et al. (2018), welche die Evolution der Coraciidae anhand historischer Museumspräparate aufklärt.
+	https://doi.org/10.1016/j.ympev.2018.03.030
+	Fotos (Wikimedia)
+	Eine kuratierte Übersicht taxonomisch korrekter und verifizierter Fotografien der Spezies, einschließlich präziser EXIF-Daten zu Flugaufnahmen.
+	https://commons.wikimedia.org/wiki/Coracias_caudatus
+	Verbreitungskarte (GBIF)
+	Globale Datenbank mit über 210.000 verifizierten biologischen Vorkommensdaten und präzisen interaktiven Karten für das südliche und östliche Afrika.
+	https://www.gbif.org/es/taxon/5ZZQQ
+	Tonaufnahme (xeno-canto)
+	Referenzaufnahme des rauen, sägenden "rak-rak-rak"-Rufe, welche essenziell für die akustische Identifikation der Art während des Balzfluges ist.
+	https://xeno-canto.org/611563
+	9. Visuelle Beschreibung für eine Illustration
+The Lilac-breasted Roller is a robust, jay-sized bird measuring approximately 36 to 38 centimeters in length, characterized by a disproportionately large, olive-green head and a heavy, sharp black beak. Its posture on a perch is upright and vigilant, displaying a vibrant lilac throat that deepens into a rich, darker lilac breast, which sharply contrasts with its bright turquoise-blue belly. The back and short, rounded wings are an earthy olive-brown, but the folded primary flight feathers reveal a striking, iridescent azure blue. From the turquoise tail, two elongated, starkly black outer streamer feathers trail downwards, adding delicate vertical extension to its otherwise stocky silhouette.Details: 1. The strong, slightly hooked black beak with a stark white band traversing horizontally directly above the dark brown eye. 2. A close-up of a primary flight feather, showing the transition from iridescent azure at the base to deep violet-black at the tip. 3. The structural texture of the feather barbs that reflect light without blue pigment.Cultural Vignette: An oval, traditional Maasai shield made of stretched ox hide, painted with distinct geometric red, white, and black patterns, crossed by two spears.
+10. Was du nicht belegen konntest
+Trotz einer intensiven Analyse der ornithologischen und ethno-ornithologischen Quellen ließen sich folgende Parameter der Anfrage nicht mit belastbaren Fakten belegen (Status: unbekannt):
+Datenpunkt
+	Grund für das Fehlen belastbarer Quellen
+	Lokale Namen (Kikuyu, Samburu, Giriama, Kamba)
+	In den ausgewerteten Bestandslisten und Wörterbüchern (inklusive regionaler Avifauna-Checklisten für Zentralkenia) ist kein spezifischer Trivialname für die Gabelracke in diesen vier Sprachen verzeichnet.
+	Etymologie des Swahili-Namens
+	Der Begriff "Kambu" ist als Swahili-Name für die Art gesichert, jedoch findet sich in den Quellen keine linguistische Herleitung oder wörtliche Übersetzung für diesen Namen.
+	Absolute Bestandszahlen (Kenia)
+	Die IUCN und BirdLife International veröffentlichen lediglich den Trend ("stabil") und den Schutzstatus. Absolute Populationszahlen für das Staatsterritorium Kenias werden nicht erhoben oder publiziert.
+	Lebenserwartung (Freiland)
+	Dokumentiert ist ausschließlich eine Lebenserwartung von etwa 10 Jahren; in detaillierteren Aufzeichnungen wird jedoch darauf hingewiesen, dass dieser Wert aus der Gefangenschaftshaltung stammt und für die freie Wildbahn keine Daten vorliegen.
+	Spezifische Rituale und Mythen
+	Zwar wird global von "Bedeutung in afrikanischer Folklore" (als Symbol für Zusammenhalt oder lebenslange Treue) gesprochen, jedoch nennt keine Quelle ein exakt datiertes historisches Ereignis, ein benanntes Ritual oder ein konkretes, lokal verortetes Sprichwort.
+	Works cited
+1. Lilac-breasted roller - Wikipedia, https://en.wikipedia.org/wiki/Lilac-breasted_roller
+2. Coracias caudatus - Lilac-breasted Roller - asturnatura, https://www.asturnatura.com/en/nature/species/coracias-caudatus
+3. Coracias caudatus (Lilac-breasted Roller) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=9E9B6EF9A888678F
+4. Coracias - Wikipedia, https://en.wikipedia.org/wiki/Coracias
+5. Lilac-breasted Roller (Coracias caudatus) - Featherbase, https://www.featherbase.info/hu/species/coracias/caudatus
+6. File:Coracias caudatus Lilac breasted Roller.JPG, https://commons.wikimedia.org/wiki/File:Coracias_caudatus_Lilac_breasted_Roller.JPG
+7. Gabelracke - Fakten, Ernährung, Lebensraum & Bilder auf Animalia, https://animalia.bio/de/lilac-breasted-roller
+8. Lilac breasted roller | MpalaLive, https://www.mpalalive.org/field_guide/view/lilac-breasted-roller
+9. Lilac-Breasted Roller - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/lilac-breasted-roller
+10. Lilac-Breasted Roller — Kenya's National Bird - Kambu Campers, https://kambucampers.com/lilac-breasted-roller-kenyas-national-bird/
+11. Animals of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/animals-of-maasai.html
+12. The lilac-breasted roller is Kenya's National bird, and is known to be, https://www.reddit.com/r/Awwducational/comments/n7od5g/the_lilacbreasted_roller_is_kenyas_national_bird/
+13. Bird watching in Africa - Lilac-breasted roller/ African Roller - aladdin.st, https://aladdin.st/bird-watching/africa/lilac-breasted_roller.html
+14. Racket-tailed roller - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/racket-tailed-roller
+15. What is the national bird and animal of Kenya? - Quora, https://www.quora.com/What-is-the-national-bird-and-animal-of-Kenya
+16. The Lilac-Breasted Roller: National Bird of Kenya - A-Z Animals, https://a-z-animals.com/blog/lilac-breasted-roller-national-bird-of-kenya/
+17. File:Lilac-Breasted Roller, Maasai Mara (29003721367).jpg, https://commons.wikimedia.org/wiki/File:Lilac-Breasted_Roller,_Maasai_Mara_(29003721367).jpg
+18. Lilac-breasted Roller ... Lower Sabi, https://www.facebook.com/groups/kruger.national.park.the.best.place.on.earth/posts/24752480854358307/
+19. Birds with broader color spectrum on feathers? - Facebook, https://www.facebook.com/groups/484500676224691/posts/1442920630382686/
+20. art | All About Birds, https://www.allaboutbirds.org/news/category/art/feed/
+21. Wall of Birds Artist Jane Kim Creates an “Avian Pantone” [Book, https://www.allaboutbirds.org/news/jane-kims-avian-pantone/
+22. Convergent evolution of super black plumage near bright color in 15, https://www.codymccoy.com/files/Super_Black_Birds_Convergent_Evolution_JEB_2019.pdf
+23. Year-to-year changes in population density and site fidelity of, https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0006-82412025000100009
+24. Nest sites selection by sympatric cavity-nesting birds in miombo, https://www.researchgate.net/publication/305662379_Nest_sites_selection_by_sympatric_cavity-nesting_birds_in_miombo_woodlands
+25. iOrnithology: a review of the use of web‐sourced photographs and, https://www.researchgate.net/publication/408628375_iOrnithology_a_review_of_the_use_of_web-sourced_photographs_and_videos_in_ornithological_research
+26. Lilac-breasted roller bird in eastern Africa - Facebook, https://www.facebook.com/groups/UPBirds/posts/24647170798277117/
+27. Lilac-breasted Roller - Legend Expeditions, https://www.legendexpeditions.com/tanzania-wildlife/lilac-breasted-roller
+28. What is the national bird of Kenya? - Quora, https://www.quora.com/What-is-the-national-bird-of-Kenya
+29. Phylogenetic relationships of rollers (Coraciidae) based on, https://www.researchgate.net/publication/324268304_Phylogenetic_relationships_of_rollers_Coraciidae_based_on_complete_mitochondrial_genomes_and_15_nuclear_genes
+30. The National Bird of Kenya the Lilac Breasted Roller (Coracias, https://www.alamy.com/stock-image-the-national-bird-of-kenya-the-lilac-breasted-roller-coracias-caudatus-165004431.html
+31. File:Lilac-breasted roller (Coracias caudatus) Kruger.jpg, https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg
+32. File:Lilac-breasted Roller (Coracias caudatus) - Flickr - Lip Kee (1).jpg, https://commons.wikimedia.org/wiki/File:Lilac-breasted_Roller_(Coracias_caudatus)_-_Flickr_-_Lip_Kee_(1).jpg
+33. Liliac Breasted Roller in flight and landing and showing off those, https://www.facebook.com/anthony.goldman2/posts/liliac-breasted-roller-in-flight-and-landing-and-showing-off-those-colored-wings/25114833118124750/

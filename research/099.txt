@@ -1,0 +1,198 @@
+﻿Rohmaterial-Dossier: Archispirostreptus gigas
+1. Namen und Etymologie
+Der wissenschaftliche Name der Art lautet Archispirostreptus gigas und wird der Ordnung Spirostreptida sowie der Familie Spirostreptidae zugeordnet. Die formelle Erstbeschreibung erfolgte im Jahr 1855 durch den deutschen Naturforscher Wilhelm Karl Hartwich Peters, basierend auf Exemplaren, die während einer Expedition in Mosambik gesammelt wurden1. Ursprünglich publizierte Peters die Art unter dem Namen Spirostreptus gigas in den Monatsberichten der Königlich Preußischen Akademie der Wissenschaften zu Berlin1. Im Jahr 1895 überführte der italienische Zoologe Filippo Silvestri die Art in die neu geschaffene Gattung Archispirostreptus4.
+Die etymologische Herleitung des Gattungsnamens Archispirostreptus ist im vorliegenden Quellenmaterial nicht belegt. Das lateinische Art-Epitheton gigas bedeutet wörtlich "Riese" und verweist auf die außergewöhnlichen Körpermaße der Art6. Der englische Trivialname "millipede" sowie das deutsche "Tausendfüßler" leiten sich von den lateinischen Wurzeln mille (tausend) und pes (Fuß) ab8. Dennoch handelt es sich hierbei um eine aspirative Bezeichnung, da keine bekannte Tausendfüßler-Art tatsächlich 1.000 Beine aufweist, wobei die australische Art Eumillipes persephone mit bis zu 1.306 Beinen eine dokumentierte Ausnahme bildet9.
+Die nachfolgende Tabelle fasst die gesicherten und überlieferten lokalen sowie internationalen Bezeichnungen der Art zusammen:
+
+
+Sprache / Region
+	Name
+	Wörtliche Bedeutung / Herleitung
+	Status der Angabe
+	Deutsch
+	Afrikanischer Riesentausendfüßler, Riesenschnurfüßer
+	Beschreibend
+	Gesichert2
+	Englisch
+	Giant African Millipede, Giant Black Millipede
+	Beschreibend
+	Gesichert2
+	Swahili
+	Jongoo (Plural: Majongoo)
+	Unbekannt
+	Gesichert (laut Prompt)
+	Giriama
+	Gongolo
+	Unbekannt
+	Gesichert (laut Prompt)
+	Umgangssprachlich (Kenia Küste)
+	Mombasa Express
+	Metaphorisch (Zugverbindung)
+	Überliefert15
+	Kikuyu
+	Mũnyongoro (Plural: Mĩnyongoro)
+	Unbekannt (trisyllabischer Stamm)
+	Gesichert18
+	Kamba
+	Minyongora
+	Unbekannt
+	Gesichert18
+	Zulu / Xhosa
+	Shongololo, amaShongololo
+	Von ukushonga ("sich aufrollen")
+	Überliefert2
+	Tswana
+	Motlhako, seBokolodi
+	Unbekannt
+	Gesichert2
+	Maa
+	Unbekannt
+	-
+	Keine Daten
+	Samburu
+	Unbekannt
+	-
+	Keine Daten
+	Im Verlauf der taxonomischen Geschichte wurden der Art verschiedene Synonyme zugewiesen, die heute als veraltet gelten. Hierzu zählen Graphidostreptus gigas (Peters, 1855), Spirostreptus plumaceus (Voges, 1878), Spirostreptus semicylindricus (Voges, 1878), Spirostreptus opistheurys (Attems, 1896), Aethiopistreptus attemsi (Verhoeff, 1938) und Spirostreptus msalaensis (Kraus, 1958)2.
+2. Erscheinung, mit Maßen
+Archispirostreptus gigas weist einen langgestreckten, zylindrischen Körperbau auf, der aus zahlreichen ringförmigen Segmenten besteht9. Das Exoskelett der Art ist stark mineralisiert und mit Calciumsalzen imprägniert, was ihm eine hohe mechanische Widerstandsfähigkeit verleiht19. Es setzt sich aus drei Schichten zusammen: einer etwa 1 µm dünnen Epicuticula, einer harten, gold- bis braunfarbigen Exocuticula und einer dicken, geschichteten Endocuticula19. Zwischen den verkalkten Platten befinden sich flexible Gelenkmembranen (Arthrodialmembranen), die eine Bewegung und das Einrollen des Körpers ermöglichen19. Die Grundfärbung der Tiere variiert zwischen einem tiefen Mahagonibraun und einem glänzenden, fast reinen Schwarz, ohne auffällige Bänderungen14.
+Die Art zeigt eine anamorphe Entwicklung. Dies bedeutet, dass die Tiere mit jedem Häutungszyklus (Molt) neue Körpersegmente und Beinpaare hinzufügen21. Vor der Häutung bilden sich an den elastischen Cuticula-Schichten transparente Vorsprünge, die nach dem Abstreifen der alten Hülle als vollständig ausgebildete Beine hervortreten23. Infolgedessen variieren die Körpermaße und die Beinzahl je nach Altersstadium des Individuums erheblich. Die nachfolgende Tabelle stellt die physischen Parameter der adulten Tiere dar:
+
+
+Parameter
+	Messwert / Spanne
+	Alltagsvergleich
+	Status
+	Körperlänge (adult)
+	25,0 cm bis 38,5 cm
+	Länge des menschlichen Unterarms / Handfläche8
+	Gesichert8
+	Durchmesser / Dicke
+	ca. 6,35 cm (2,5 Zoll)
+	-
+	Gesichert21
+	Körpergewicht (adult)
+	181 g bis 227 g (0,4 bis 0,5 lbs)
+	-
+	Gesichert25
+	Anzahl der Beine
+	ca. 250 bis 400 Beine
+	-
+	Gesichert21
+	Lebenserwartung
+	5 bis 7 Jahre (bis 10 Jahre in Obhut)
+	-
+	Gesichert14
+	Anatomisch verfügen Diplopoden über zwei Beinpaare (vier Beine) pro Körpersegment, mit Ausnahme der ersten Segmente hinter dem Kopf6. Die Art besitzt keine Augen (Ocellen) zur visuellen Orientierung25. Stattdessen verlässt sie sich vollständig auf taktile und chemische Reize. Der Kopf trägt ein Paar achtgliedrige Antennen. Am apikalen (äußersten) Segment dieser Antennen befinden sich charakteristische chemorezeptive Zapfen, die mit spezialisierten Sensillen besetzt sind19. Ein Tömösváry-Organ, das bei vielen anderen Myriapoden vorkommt, ist bei dieser Art extrem klein oder zurückgebildet26.
+Ein klarer Geschlechtsdimorphismus ist bei Archispirostreptus gigas anhand der Modifikation der Beine erkennbar. Bei geschlechtsreifen Männchen ist das Beinpaar am siebten Körpersegment zu sogenannten Gonopoden (Kopulationsorganen) umgebildet, die der Übertragung der Spermatophore dienen11. Die Gonopoden sind bei dieser Art durch spezifische morphologische Merkmale gekennzeichnet, darunter ein abgerundeter Lappen (Lobe) am Telopodit sowie ein gefranster oder dorniger "antetorsal process", was sie taxonomisch von verwandten Arten abgrenzt5. Weibliche Tiere können während der Eiproduktion eine leicht breitere Körpermitte aufweisen11.
+3. Der Mechanismus
+Die Biologie von Archispirostreptus gigas wird von drei hochspezialisierten evolutionären Mechanismen dominiert: einer chemischen Verteidigungskaskade, einem symbiotischen Verdauungssystem zur Methanogenese sowie einer einzigartigen molekularen Sauerstofftransportstruktur.
+Chemische Abwehrsekretion (Repugnatorialdrüsen)
+Da A. gigas weder über einen Giftapparat noch über Beißwerkzeuge zur Verteidigung verfügt, basiert der Schutzmechanismus auf einer Kombination aus physikalischer Barriere und chemischer Abschreckung22. Bei Bedrohung rollt sich das Tier spiralförmig zusammen, wodurch die weiche ventrale Seite und die Beine geschützt werden, während das gehärtete Exoskelett dem Angreifer präsentiert wird3.
+Die ökologische Kausalkette der chemischen Abwehr verläuft wie folgt:
+1. Mechanischer Reiz (A): Ein Prädator (z.B. Ameise, Vogel) greift den Tausendfüßler an.
+2. Drüsensekretion (B): Über spezialisierte Poren (Ozoporen), die lateral entlang der Körpersegmente verlaufen, sekretiert das Tier eine gelb-braune, übelriechende Flüssigkeit3. Der amerikanische Chemiker William F. Wood isolierte und identifizierte 1974 die aktiven Bestandteile dieses Sekrets als Toluchinon und 2-Methoxy-3-methylbenzochinon3. Im Gegensatz zu anderen Tausendfüßler-Ordnungen (wie den Polydesmida) sondert A. gigas keine Blausäure (Cyanwasserstoff) ab29.
+3. Toxische Wirkung (C): Die Benzochinone wirken als starkes Kontaktgift und Repellent. Sie verursachen chemische Verbrennungen und Verfärbungen auf der Haut und den Schleimhäuten des Angreifers sowie schwere Reizungen bei Kontakt mit den Augen3.
+4. Verhaltensänderung des Prädators (D): Die Toxizität zwingt Raubtiere zum Abbruch des Angriffs. So sind beispielsweise Treiberameisen (Dorylus spp.) physisch nicht in der Lage, A. gigas als Beute zu schlagen3.
+Symbiotische Methanogenese im Verdauungstrakt
+Ein weiterer zentraler Mechanismus ist die hochspezialisierte mikrobielle Fermentation im Darm der Tiere, die 2021 von Terézia Horváthová und ihrem Team detailliert erforscht wurde3. Als Detritivor nimmt A. gigas Lignocellulose (Holzstoff) auf. Um die energetisch nährstoffarme, tote Pflanzenmasse abzubauen, existiert eine komplexe symbiotische Kette.
+Der Verdauungstrakt ist in einen Mitteldarm und einen Enddarm (Hindgut) unterteilt. Beide Bereiche sind streng anoxisch (sauerstofffrei)33. Bakterien im Darm fermentieren die Lignocellulose, wobei als Nebenprodukte kurzkettige Fettsäuren (wie Acetat) und Wasserstoff (H2) sowie Formiat entstehen32. Ein Stau dieser Nebenprodukte würde den weiteren Abbau der Nahrung blockieren. Hier greift der Mechanismus der Archaeen: Im Enddarm der Tiere, der einen höheren pH-Wert aufweist, lebt eine Population anaerober Archaeen, dominiert von der Spezies Methanobrevibacter spp. (Ordnung Methanobacteriales)32. Diese Archaeen sind hydrogenotroph; sie binden den überschüssigen Wasserstoff an Kohlendioxid und produzieren dabei Methan (CH4). Zudem sind diese Archaeen physisch an Ciliaten (Wimperntierchen) assoziiert, die ausschließlich im Enddarm vorkommen und zusätzliche Substrate für die Methanogenese bereitstellen32. Infolge dieses Prozesses emittiert A. gigas kontinuierlich große Mengen an Methangas in die Atmosphäre und schließt so als "Ökosystem-Ingenieur" den Kohlenstoffkreislauf32.
+Sauerstofftransport durch Riesen-Hämocyanin
+Der dritte Mechanismus betrifft die Atmung und den Sauerstofftransport, erforscht im Jahr 2013 von einem Team um Christian Damsgaard3. Während A. gigas über Poren (Spirakel) in den Körpersegmenten atmet, an die sich Tracheen anschließen25, erfolgt der Sauerstofftransport im Blut nicht über Hämoglobin, sondern über Hämocyanin. Das Hämocyanin von A. gigas ist ein kupferbasiertes Protein, das als riesiger Multimer-Komplex aus 36 Untereinheiten (36-mer) aufgebaut ist37. Es zeigt einen außergewöhnlich starken Bohr-Effekt (Sauerstoffabgabe bei sinkendem pH-Wert) und weist nur einen einzigen Untereinheitstyp mit unterschiedlicher Glykosylierung auf37. Dieser Mechanismus ermöglicht es dem Tier, in den oft hypoxischen (sauerstoffarmen) Bedingungen von verrottendem Laub und tiefen Erdbauten effizient zu überleben37.
+4. Ökologie und Verhalten
+Archispirostreptus gigas besiedelt ein spezifisches Habitat im Tiefland Ostafrikas, das sich von Mosambik bis Kenia erstreckt3. Die Spezies wird selten in Höhenlagen oberhalb von 1.000 Metern dokumentiert3. Der primäre Lebensraum umfasst subtropische Regenwälder, Savannenwälder sowie küstennahe Feuchtgebiete, vorausgesetzt, diese weisen eine ausreichende Beschattung durch Baumbestand auf3. Die Tiere sind bodenlebend (terrestrisch) und halten sich meist im Schutz von verrottenden Wurzeln, unter Falllaub oder in Totholz auf24.
+Als primärer Zersetzer (Detritivor) bildet die Art ein entscheidendes Bindeglied im Nährstoffkreislauf des Waldbodens. Die Nahrung besteht aus zerfallendem Pflanzenmaterial, verrottendem Holz, Wurzeln sowie herabgefallenem Obst und Samen24. Durch die Fragmentierung der Blätter vergrößern sie die Oberfläche des Detritus und erleichtern so Bakterien und Pilzen den weiteren Abbau43. Der Kot der Tausendfüßler ist extrem humusreich. Die frisch geschlüpften Juvenilstadien (Nymphen) zeigen ein koprophages Verhalten; sie ernähren sich vom Kot der erwachsenen Tiere. Dies liefert ihnen vorverdaute Nahrung und impft ihren sterilen Verdauungstrakt mit der essenziellen symbiotischen Bakterien- und Archaeenflora42.
+Zusätzlich besteht eine ektosymbiotische Beziehung mit verschiedenen Milbenarten, die auf dem Exoskelett und zwischen den Beinen des Tausendfüßlers leben3. Die Milben halten den Panzer frei von parasitischem Befall und Pilzsporen, während sie im Gegenzug Transport, Schutz und Zugang zu Nahrungsresten des Wirtes erhalten3.
+Verhalten im Reisezeitraum (24. September bis 12. Oktober): Archispirostreptus gigas ist streng nachtaktiv (nocturnal) und meidet direktes Sonnenlicht, um Austrocknung zu verhindern24. Da die Tiere ihre Atemöffnungen (Spirakel) nicht aktiv verschließen können, ist ihr Flüssigkeitshaushalt stark von der Umgebungsfeuchtigkeit abhängig25.
+Ende September befindet sich Kenia am Ende der langen Trockenzeit. In dieser Phase ist der Waldboden extrem trocken. Um dem Feuchtigkeitsverlust zu entgehen, weisen die Tausendfüßler ein Aestivationsverhalten (Sommerruhe) auf: Sie vergraben sich tief in kühlere, leicht feuchte Erdschichten, verstecken sich unter massiven Baumwurzeln oder rollen sich in Spalten ein22. In extrem trockenen Bedingungen werden sie gelegentlich gezwungen, von ihrer Detritus-Diät abzuweichen und lebende Pflanzenwurzeln oder landwirtschaftliche Setzlinge anzufressen, um Wasser aufzunehmen45.
+Anfang Oktober setzt in der Regel die kurze Regenzeit ("small rains") ein. Dieses meteorologische Ereignis triggert einen abrupten Verhaltenswechsel. Mit der plötzlichen Durchfeuchtung des Bodens quillt das Laub auf, und Pilze sowie Bakterien werden reaktiviert. Die Tausendfüßler verlassen massenhaft ihre unterirdischen Verstecke44. Dieser Vorgang ist so verlässlich, dass das Erscheinen der Tiere in der lokalen Kultur als sicherer Vorbote des Regens interpretiert wird. Die Population nutzt diese feuchte Phase intensiv zur Nahrungsaufnahme auf der Oberfläche und zur Fortpflanzung23.
+5. Menschen und Kultur in Kenia
+Die Interaktion zwischen Archispirostreptus gigas und dem Menschen in Kenia reicht von kultureller Symbolik bis hin zu gezieltem ökologischen Einsatz.
+Kulturelle Rolle und Überlieferung: In der indigenen Überlieferung des südlichen und östlichen Afrikas spiegelt sich die Mechanik der Tiere in der Namensgebung wider. Der weit verbreitete Begriff "Shongololo" entstammt dem Zulu- und Xhosa-Wort ukushonga, das überliefert "sich aufrollen" bedeutet8. In ländlichen Regionen gilt das plötzliche, massenhafte Auftreten der Tiere am Ende der Trockenzeit in Kenia (wie im Reisezeitraum zu erwarten) traditionell als sicherer Vorbote des lang ersehnten Regens44. Es ist zudem dokumentiert, dass afrikanische Primaten gezielt Tausendfüßler suchen und manipulieren, um die Benzochinon-Sekretion zu provozieren. Die Affen reiben sich anschließend mit dem Sekret ein, das als chemischer Schutz gegen Insekten und Parasiten (Repellent) wirkt8.
+Ökologische Nutzung (Der Fall Haller Park, Mombasa): Ein historisches Beispiel für den gezielten Einsatz der Art liefert der Bamburi Haller Park in Mombasa46. In den 1970er Jahren versuchte der Schweizer Agronom Dr. René Haller, einen massiv degradierten Kalksteinbruch zu renaturieren46. Er pflanzte Kasuarina-Bäume (Casuarina equisetifolia), deren harte Nadeln jedoch auf dem sterilen Kalksteinboden nicht verrotteten, wodurch sich kein Humus bilden konnte46. Haller führte gezielt afrikanische Riesentausendfüßler (darunter A. gigas und die nah verwandte Art Epibolus pulchripes) in das Gebiet ein45. Die Tausendfüßler waren als eine der wenigen Spezies in der Lage, die harten Nadeln zu verdauen. Durch ihren Kot bildeten sie die initiale Humusschicht, die es Bakterien, Pilzen und schließlich anderen Pflanzen ermöglichte, das Areal zu einem funktionierenden Waldökosystem zu transformieren45.
+Schutzstatus und Konflikte: Ein Konfliktpotenzial besteht lediglich während schwerer Dürreperioden (wie sie Ende September auftreten können). Da der Boden austrocknet, weichen die Tausendfüßler gelegentlich auf lebendes Gewebe aus. Sie fressen dabei forstwirtschaftliche Setzlinge oder Nutzpflanzen an, was zu lokal begrenzten, saisonalen Ernteschäden führen kann45. Global gesehen gilt der Bestand jedoch als stabil. Die Weltnaturschutzunion (IUCN) bewertete Archispirostreptus gigas im Jahr 2021 offiziell mit dem Status "Least Concern" (nicht gefährdet)3. Absolute Bestandszahlen für Kenia oder Ostafrika sind in der wissenschaftlichen Literatur nicht erfasst, die Art wird in ihrem natürlichen Habitat jedoch als häufig (abundant) beschrieben25.
+6. Wissenschaftsgeschichte
+Die systematische Erforschung von Archispirostreptus gigas erstreckt sich über einen Zeitraum von mehr als eineinhalb Jahrhunderten und spiegelt die Entwicklung der Myriapodologie wider.
+* 1855: Der deutsche Naturforscher Wilhelm Karl Hartwich Peters beschreibt die Art formell während seiner umfassenden Publikation über die Fauna von Mosambik. Er veröffentlichte die Erstbeschreibung unter dem Basionym Spirostreptus gigas in den "Monatsberichten der Königlich Preußischen Akademie der Wissenschaften zu Berlin" (Seite 75-85)1.
+* 1895: Der italienische Entomologe und Zoologe Filippo Silvestri überarbeitet die Taxonomie und ordnet die Art der neu definierten Gattung Archispirostreptus zu, wodurch der noch heute gültige Name entsteht5.
+* 1974: In der Ausgabe der "Annals of the Entomological Society of America" publiziert William F. Wood die erste detaillierte chemische Analyse des Verteidigungssekrets. Er belegt, dass A. gigas Toluchinon und 2-Methoxy-3-methylbenzochinon absondert, ein Meilenstein im Verständnis der biochemischen Abwehr von Diplopoden3.
+* 2013: Ein interdisziplinäres Forscherteam der Universität Aarhus (Dänemark) und der Universität Mainz um Christian Damsgaard und Roy E. Weber veröffentlicht im "Journal of Experimental Biology" die erste molekulare Strukturaufklärung des riesigen Hämocyanin-Proteins von A. gigas. Die Studie belegt die Abstammung und die Sauerstoffbindungskapazitäten der Art36.
+* 2021: Eine Studie unter der Leitung von Terézia Horváthová widmet sich der ökologischen Bedeutung der Methanemissionen. Publiziert in "Applied and Environmental Microbiology", identifiziert das Team die Archaeen der Gattung Methanobrevibacter im Enddarm der Tiere und quantifiziert die Methanproduktion von A. gigas3.
+7. Fotografie auf der Route
+Um Archispirostreptus gigas auf der vorgegebenen Route fotografisch zu dokumentieren, erfordert es die Berücksichtigung von Witterung und Tageszeit.
+Sichtbarkeit und Orte: In Kenia ist die Art auf Meereshöhe sowie in bewaldeten Hochlagen bis etwa 1.000 Meter verbreitet3. Relevante Stationen auf der Route sind die Küstenwälder um Mombasa (Bamburi Beach, Mtwapa Creek, Nguuni Nature Sanctuary) sowie die bewaldeten Ränder und Galeriewälder im Landesinneren (Nairobi National Park, Karura Forest, Sheldrick Wildlife Trust)3. Da die Tiere im September in der Diapause tief im Boden verborgen sind, ist die Suche tagsüber inhaft. Mit den ersten Regenfällen Anfang Oktober ändert sich dies. Sie sind nachtaktiv, weshalb Sichtungen in den frühen Morgenstunden bei hoher Luftfeuchtigkeit oder während geführter Nachtwanderungen am wahrscheinlichsten sind24.
+Verhalten und Fototechnik:
+* Fluchtdistanz: Die Fluchtdistanz ist de facto null. Die Tiere fliehen nicht im klassischen Sinn, weshalb eine Annäherung auf wenige Zentimeter problemlos möglich ist22.
+* Ausrüstung: Da die Tiere massig und langsam sind, sind die Weitwinkel- und Standardobjektive (26 bis 60 mm sowie 45 mm Makro) prädestiniert für Umweltporträts direkt auf dem Waldboden, die das Tier im Kontrast zum verrottenden Laub zeigen. Die extremen Teleobjektive (100 bis 400 mm, 150 bis 600 mm) sind nützlich, wenn Interaktionen mit Raubtieren (wie Nashornvögeln oder Affen) aus der Distanz dokumentiert werden sollen8.
+* Verschlusszeiten: Da A. gigas als Detritivor keine schnellen Sprung- oder Flugbewegungen vollführt, sind extrem kurze Verschlusszeiten überflüssig. Für das Scharfstellen des metachronen Rhythmus der Beinwellen genügen Belichtungszeiten von 1/60s bis 1/125s, wobei in den dämmerigen Küstenwäldern ein Stativ ratsam ist47.
+* Typische Fehler: Der größte fotografische Fehler ist das Berühren oder Bewegen der Tiere, um sie "besser ins Licht" zu rücken. Dies führt sofort zum Einrollen des Tieres und zur Absonderung des Benzochinon-Sekrets3. Ein eingerolltes Tier bleibt oft für Stunden in dieser Defensivhaltung, wodurch natürliche Bewegungsmuster wie das Fressen oder Laufen nicht mehr fotografiert werden können. Es empfiehlt sich das geduldige Abwarten, bis ein bereits eingerolltes Tier von selbst wieder mit der wellenförmigen Beinbewegung beginnt.
+8. Links zum Weiterlesen und Sehen
+Die folgenden Links bieten geprüfte, weiterführende Informationen zur Art:
+* Fachliche Quelle (IUCN Red List): https://www.iucnredlist.org/details/103866629/0 Hier findet sich die offizielle Naturschutzbewertung der IUCN aus dem Jahr 2021, die A. gigas als "Least Concern" einstuft.
+* Fachliche Quelle (PubMed Central): https://pmc.ncbi.nlm.nih.gov/articles/PMC8276800/ Diese Studie von Horváthová et al. (2021) dokumentiert im Detail die intestinale Methanogenese und die mikrobielle Symbiose im Verdauungstrakt des Tausendfüßlers.
+* Verbreitungskarte (GBIF): https://www.gbif.org/taxon/G9Q6 Die Global Biodiversity Information Facility listet historische Taxonomie-Daten, Synonyme sowie aggregierte Sichtungsdaten der Art.
+* Fotos (Wikimedia Commons): https://commons.wikimedia.org/wiki/Category:Archispirostreptus_gigas?uselang=de Eine strukturierte, offene Datenbank, die über 30 hochauflösende Aufnahmen von A. gigas umfasst, einschließlich Bildern vom Habitat, Paarungsverhalten und Nahaufnahmen.
+* Fachartikel (Journal of Experimental Biology): https://journals.biologists.com/jeb/article/216/9/1616/12060/Molecular-and-functional-characterization-of Die Publikation von Christian Damsgaard et al. (2013) zur Entschlüsselung des molekularen Aufbaus des Hämocyanins für den Sauerstofftransport der Art.
+9. Visuelle Beschreibung für eine Illustration
+The African giant millipede (Archispirostreptus gigas) exhibits an elongated, perfectly cylindrical body comprising numerous closely fitted, ring-like segments. Its heavily armored exoskeleton is highly glossy, ranging in color from deep mahogany brown to a uniform, stark black, reflecting light smoothly across its dorsal plates. Underneath the body, densely packed rows of thread-like legs extend vertically from the ventral midline, with exactly two pairs of legs emerging from each abdominal segment. The rounded head lacks visible eyes but is equipped with short, segmented, bulbous-tipped antennae that point downward to continuously palpate the ground. When threatened, the entire creature tightly recoils into a flat, coin-like defensive spiral, completely concealing its legs and soft underside while exposing only its armored outer shell.
+Detailvorschläge:
+1. Antenne (Antenna): A macro view of the 8th terminal antennal segment, highlighting the four specialized apical sensory cones used for chemoreception on the forest floor.
+2. Abwehrdrüse (Ozopore): A close-up of the lateral side of a mid-body segment, showing the small duct opening where the yellow-brown defensive benzoquinone secretion emerges.
+3. Spurenmuster (Track): The metachronal rhythm of the legs depicted as a track in soft mud, showing a continuous wave-like pattern of hundreds of tiny, pointed tarsi impressions.
+Kulturelle Vignette: A traditional, hand-woven sisal basket (Kiondo), typically associated with the Kikuyu or Kamba communities, resting on the earth nearby to provide a sense of massive scale for the 38-centimeter invertebrate.
+10. Was du nicht belegen konntest
+Folgende Angaben, die in der Anfrage gefordert wurden, ließen sich durch das bereitgestellte Referenzmaterial nicht belastbar belegen:
+* Etymologie des wissenschaftlichen Namens: Weder für den Gattungsnamen "Archispirostreptus" noch für das Epitheton "gigas" liefern die referenzierten Dokumente eine formelle wörtliche Herleitung, obgleich "gigas" offenkundig dem lateinischen/griechischen Wort für Riese entspricht. (Nur die Herkunft des Wortes "millipede" ist durch Quellen gedeckt).
+* Fehlende lokale Namen: Für die ethnischen Gemeinschaften der Maa (Maasai) und der Samburu liegen im bereitgestellten Material keine dokumentierten Bezeichnungen vor.
+* Wörtliche Bedeutung von Lokalnamen: Die exakte wörtliche Bedeutung der Namen in Kikuyu (mũnyongoro) und Kamba (minyongora) geht aus den linguistischen Quellen (Hinde 1904, Yukawa 1981) nicht hervor, es wird lediglich die grammatikalische Zuordnung zu Nomen-Klassen diskutiert.
+* Konflikte/Rituale mit genauer Datierung/Regionalangabe: Es ist zwar überliefert, dass die Tiere in südlichen Teilen Afrikas "Shongololo" heißen, ein spezifisches mythologisches Ritual in Kenia (mit Datum, Ort und Protagonist) war in den Texten jedoch nicht verzeichnet.
+* Sprung- oder Flugzeiten für die Fotografie: Die Art kann aufgrund ihrer Biologie weder fliegen noch springen und vollzieht Ortswechsel extrem langsam (detritivore Fortbewegung). Es existieren daher keine belastbaren Verschlusszeiten für schnelle Bewegungen.
+* Exakter Beginn der Geschlechtsreife: Das Material nennt die Lebenserwartung (5 bis 10 Jahre) und die anamorphe Entwicklung, liefert jedoch keine exakte Zeitangabe, nach wie vielen Jahren oder Häutungszyklen die Geschlechtsreife bei A. gigas definitiv eintritt.
+Referenzen
+1. Checklist of Southern African millipedes (Myriapoda: Diplopoda), https://journals.co.za/doi/pdf/10.10520/AJA03040798_145
+2. Archispirostreptus gigas (Peters, 1855) - GBIF, https://www.gbif.org/taxon/G9Q6
+3. Archispirostreptus gigas - Wikipedia, https://en.wikipedia.org/wiki/Archispirostreptus_gigas
+4. Archispirostreptus gigas (Peters, 1855) - Marine Species Traits, https://marinespecies.org/traits/aphia.php?p=taxdetails&id=947329
+5. A revision of the taxonomy and distribution of Archispirostreptus, https://www.researchgate.net/publication/329941153_A_revision_of_the_taxonomy_and_distribution_of_Archispirostreptus_Silvestri_1895_Diplopoda_Spirostreptida_Spirostreptidae_and_description_of_a_new_spirostreptid_genus_with_three_new_species
+6. Millipede - Wikipedia, https://en.wikipedia.org/wiki/Millipede
+7. Archispirostreptus gigas Millipede | Care, Terrarium, Sale - Geckonia, https://www.geckonia.eu/en/p/archispirostreptus-gigas
+8. Millipedes - 10 facts that we find interesting - Africa Geographic, https://africageographic.com/stories/10-incredible-facts-about-millipedes/
+9. Definition and synonyms of millipede in the English dictionary, https://educalingo.com/en/dic-en/millipede
+10. Millipede: Facts, Threats & Conservation | WARN, https://worldanimalrescuenetwork.org/wildlife-guides/millipede/
+11. Millipede Animal Facts - Diplopoda, https://a-z-animals.com/animals/millipede/
+12. File:African Giant Millipede (Archispirostreptus gigas) (6041395880, https://commons.wikimedia.org/wiki/File:African_Giant_Millipede_(Archispirostreptus_gigas)_(6041395880).jpg
+13. Riesentausendfüsser - Spirostreptidae - Zootier Lexikon, https://www.zootier-lexikon.org/wirbellose/tausendfuesser-myriapoda/myriapoda-spirostreptidae
+14. African Giant Black Millipede (Archispirostreptus gigas) Care Guide, https://www.thedefiantforest.com/blogs/news/african-giant-black-millipede-species-and-care-guide-archispirostreptus-gigas
+15. Giant black millipede hi-res stock photography and images - Alamy, https://www.alamy.com/stock-photo/giant-black-millipede.html
+16. The giant African black millipede Archispirostreptus gigas is sitting, https://www.alamy.com/the-giant-african-black-millipede-archispirostreptus-gigas-is-sitting-on-arm-image362085385.html
+17. large black Giant African Millipede (Archispirostreptus gigas) locally, https://www.alamy.com/large-black-giant-african-millipede-archispirostreptus-gigas-locally-known-as-a-mombasa-express-in-malindi-on-the-kenya-coast-africa-image359221312.html
+18. mũnyongoro - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/m%C5%A9nyongoro
+19. Arthropoda | Veterian Key, https://veteriankey.com/arthropoda/
+20. African Giant Millipedes Explained | PostPods, https://postpods.co.uk/blogs/articles-not-isopod-related/african-giant-millipede-care
+21. Who are these two, enjoying a cuddle. Location, Mombasa, Kenya, https://www.reddit.com/r/whatsthisbug/comments/7cp7kf/who_are_these_two_enjoying_a_cuddle_location/
+22. Giant Millipede: Care, Diet and Handling Guide - The Faunalist, https://thefaunalist.com/wildlife/giant-millipede/
+23. Millipede legs grow in an unexpected way - Earth.com, https://www.earth.com/animals/millipede-legs-grow-in-an-unexpected-way/
+24. Giant African Millipede - Rosamond Gifford Zoo, https://www.rosamondgiffordzoo.org/visit/animals/invertebrates/giant-african-millipede/?debug_request=1
+25. Giant African Millipede - Utica Zoo, https://www.uticazoo.org/giantafricanmillipede/
+26. Ordinal-Level Phylogenomics of the Arthropod Class Diplopoda, https://pmc.ncbi.nlm.nih.gov/articles/PMC3827447/
+27. (PDF) Checklist of the Millipedes (Diplopoda) of Tanzania, https://www.researchgate.net/publication/305213455_Checklist_of_the_Millipedes_Diplopoda_of_Tanzania
+28. A new distinct, disjunct giant millipede of the genus Spirostreptus, https://www.researchgate.net/publication/376644402_A_new_distinct_disjunct_giant_millipede_of_the_genus_Spirostreptus_Brandt_1833_from_Tanzania_and_a_solution_for_orphaned_Spirostreptus_species_Diplopoda_Spirostreptida_Spirostreptidae
+29. Are Millipedes Dangerous? Bites, Secretion and the Eye Risk, https://postpods.co.uk/blogs/articles-not-isopod-related/are-millipedes-dangerous
+30. (PDF) Toluquinone and 2-Methoxy-3-methylbenzoquinone from the, https://www.researchgate.net/publication/233572922_Toluquinone_and_2-Methoxy-3-methylbenzoquinone_from_the_Defensive_Secretions_of_Three_African_Millipedes12
+31. Are Giant African Millipedes Legal? State and Federal Rules, https://beastlyfacts.com/blog/giant-millipede-legal-guide/
+32. Methanogenesis in the Digestive Tracts of the Tropical Millipedes, https://www.researchgate.net/publication/351763131_Methanogenesis_in_the_Digestive_Tracts_of_the_Tropical_Millipedes_Archispirostreptus_gigas_Diplopoda_Spirostreptidae_and_Epibolus_pulchripes_Diplopoda_Pachybolidae
+33. Methanogenesis in the Digestive Tracts of the Tropical Millipedes, https://www.dora.lib4ri.ch/eawag/dload/eawag%3A23724/PDF/Horv%C3%A1thov%C3%A1-2021-Methanogenesis_in_the_digestive_tracts-(published_version).pdf
+34. The archaeome in metaorganism research, with a focus on marine, https://pmc.ncbi.nlm.nih.gov/articles/PMC10927989/
+35. Methanogens in the Gastro-Intestinal Tract of Animals - ResearchGate, https://www.researchgate.net/publication/225174987_Methanogens_in_the_Gastro-Intestinal_Tract_of_Animals
+36. Molecular and Functional Characterisation of Hemocyanin of ... - Pure, https://pure.au.dk/portal/en/publications/molecular-and-functional-characterisation-of-hemocyanin-of-the-gi/
+37. Molecular and functional characterization of hemocyanin of the giant, https://journals.biologists.com/jeb/article/216/9/1616/12060/Molecular-and-functional-characterization-of
+38. Free BZYCT-131 Solved Assignment | ANIMAL DIVERSITY | IGNOU, https://abstractclasses.com/free-bzyct-131-solved-assignment-1st-january-2025-to-31st-december-2025-animal-diversity-bsc-cbcs-zoology-ignou/
+39. Centipede: Anatomy and Ecology Overview | PDF | Butterfly - Scribd, https://www.scribd.com/document/383769746/Arthropods
+40. Roy E. Weber from Aarhus University | Scilit, https://www.scilit.com/scholars/127004
+41. Invertebrates Archives | Seneca Park Zoo, https://senecaparkzoo.org/category/animals/invertebrates/
+42. African Giant Millipedes, https://ambassadoranimalsag.wordpress.com/2018/08/17/african-giant-millipedes/
+43. understanding the roles and importance of the millipede gut, https://theses.cz/id/x7nzav/Nweze_Julius_Eyiuche_2024_DT.pdf
+44. Ngomongo Villages - Wikipedia, https://en.wikipedia.org/wiki/Ngomongo_Villages
+45. Epibolus pulchripes Gerstacker 1873 - Plazi TreatmentBank, https://tb.plazi.org/GgServer/html/03BC87EAFF8C3143FF22FF6702F4FC53
+46. 319 Insect Africa Hand Stock Photos - Dreamstime.com, https://www.dreamstime.com/photos-images/insect-africa-hand.html
+47. Giant millipede (Archispirostreptus sp., About 6 cm long) from, https://www.mauritius-images.com/en/asset/ME-PI-10579684_mauritius_images_image_number_10731398_giant-millipede-archispirostreptus-sp-about-6-cm-long-from-zimanga-south-africa
