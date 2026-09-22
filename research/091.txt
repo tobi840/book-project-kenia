@@ -1,0 +1,193 @@
+﻿Strukturiertes Rohmaterial: Von-der-Decken-Toko (Tockus deckeni)
+1. Namen und Etymologie
+Die Nomenklatur des Von-der-Decken-Tokos (Status: gesichert) setzt sich aus historischen europäischen Widmungen und lokalen afrikanischen Deskriptionen zusammen. Der wissenschaftliche Name Tockus deckeni wurde von dem deutschen Ornithologen Jean Louis Cabanis im Jahr 1868 (in manchen Katalogen auf 1869 datiert) vergeben1. Der Gattungsname Tockus geht auf René Primevère Lesson (1830) zurück und leitet sich von dem onomatopoetischen Begriff „Tock“ ab, den Einheimische im Senegal für diese Vogelgruppe aufgrund ihrer Rufe verwendeten (Status: gesichert)1. Das Artepitheton deckeni ist ein Dedikationsname zu Ehren des deutschen Afrikaforschers Baron Karl Klaus von der Decken, der das Typusexemplar auf seiner letzten Expedition in Ostafrika sammelte1.
+In den regionalen Sprachen Kenias und Ostafrikas reflektieren die Bezeichnungen oft phänotypische Merkmale oder Verhaltensweisen.
+
+
+Sprache
+	Name
+	Wörtliche Bedeutung / Kontext
+	Status
+	Lateinisch
+	Tockus deckeni
+	Tockus (lautmalerisch „Tock“), deckeni (nach K. K. von der Decken).
+	gesichert1
+	Deutsch
+	Von-der-Decken-Toko, Decken-Toko
+	Direkte Ableitung des wissenschaftlichen Namens.
+	gesichert1
+	Englisch
+	Von der Decken's hornbill
+	Direkte Übersetzung des deutschen Namens.
+	gesichert4
+	Swahili
+	Fimbi kahawia, Hondo hondo, Fimbi wa Decken
+	Fimbi und Hondo hondo sind generische Bezeichnungen für kleinere Nashornvögel. Kahawia bedeutet wörtlich „braun“ oder „kaffeefarben“, was vermutlich auf den Lebensraum oder die Gefiederanteile anspielt.
+	gesichert5
+	Giriama
+	Varuvaru
+	Deskriptiver Name. Quellen merken an: „lebt in trockenen Gebieten; Weibchen haben einen schwarzen Schnabel“.
+	gesichert7
+	Kamba
+	ĩkoto
+	Generische Bezeichnung für baumbewohnende Tokos. In der Kamba-Kultur mit bestimmten Verhaltensassoziationen verknüpft.
+	überliefert8
+	Maa, Kikuyu, Samburu
+	Unbekannt
+	Es liegen in der referenzierten Literatur keine isolierten, spezifischen Artnamen für diese Sprachen vor.
+	Lücke
+	2. Erscheinung, mit Maßen
+Der Von-der-Decken-Toko ist ein kleiner Vertreter der Familie der Nashornvögel (Bucerotidae) (Status: gesichert)1. Die Art zeigt einen Geschlechtsdimorphismus, der sich in den Körpermaßen, vor allem aber in der Färbung und Länge des Schnabels manifestiert (Status: gesichert)1. Der Vogel besitzt ein kontrastreiches Gefieder: Der Rücken, die Flügeldecken und die mittleren vier Steuerfedern (Schwanzfedern) sind tiefschwarz1. Die Körperunterseite, der Hals, die Kopfseiten sowie die äußeren Steuerfedern weisen eine weiße Färbung auf1. Im Gegensatz zum nah verwandten Jackson-Toko (Tockus jacksoni) fehlen dem Von-der-Decken-Toko in beiden Geschlechtern jegliche weiße Flecken oder Tropfenmuster auf den schwarzen Flügeldecken (Status: gesichert)4.
+Der Schnabel des Männchens weist einen schmalen First über die gesamte Schnabellänge auf, besitzt jedoch kein massives Horn (Casque), wie es bei größeren Nashornvogelarten üblich ist1. Die vordere Hälfte des Schnabels sowie der Schnabeltip sind gelb bis cremefarben, während die hintere Hälfte karminrot gefärbt ist1. Die Schneidekante (Tomia) ist durchgehend schwarz1. Das Weibchen besitzt einen signifikant kürzeren, vollständig schwarzen Schnabel1. Jungvögel ähneln in der Schnabelfärbung dem Weibchen und können in frühen Entwicklungsstadien noch weiße Tupfen auf den Flügeln aufweisen, die sie später durch die Mauser verlieren (Status: gesichert)2. Der unbefiederte Orbitalring um das dunkelbraune Auge ist schwarz, die nackte Kehlhaut fleischfarben1. Beine und Füße sind schwarz1.
+Morphologische Messwerte
+In der Literatur bestehen Diskrepanzen bezüglich der Gesamtkörperlänge, die mit Werten von bis zu 35 cm1 bis hin zu 47 cm9 angegeben wird (Status: umstritten). Diese Abweichung resultiert aus unterschiedlichen Messmethoden, je nachdem, ob die überstehenden Steuerfedern des Schwanzes vollständig in die Messung einbezogen werden. Eine Länge von 47 cm entspricht exakt der durchschnittlichen Länge eines menschlichen Unterarms inklusive Hand (Status: gesichert, berechnet). Ein Gewicht von 200 g entspricht der Masse von zwei handelsüblichen Tafeln Schokolade (Status: gesichert, berechnet).
+
+
+Merkmal
+	Männchen
+	Weibchen
+	Einheit
+	Status
+	Körperlänge
+	35 bis 47
+	35 bis 47
+	cm
+	umstritten1
+	Gewicht
+	165 bis 212
+	120 bis 155
+	g
+	gesichert1
+	Flügellänge (Maximum Chord)
+	163 bis 191
+	163 bis 191
+	mm
+	gesichert (n=9)12
+	Schwanzlänge
+	22 (Durchschnitt)
+	bis zu 21
+	cm
+	gesichert1
+	Schnabellänge
+	7,6 bis 9,4
+	6,0 bis 7,2
+	cm
+	gesichert1
+	Hand-Wing-Index (HWI)
+	13 bis 21
+	13 bis 21
+	%
+	gesichert (n=9)12
+	Die Flügellänge wird nach der sogenannten „Kleinschmidt-Methode“ (Maximum Chord) gemessen, bei der der Flügel flachgedrückt und gestreckt vom Handwurzelgelenk bis zur Spitze der längsten Handschwinge vermessen wird12. Der Hand-Wing-Index (nach Kipp, 1959), ein Indikator für die Flugeffizienz, beschreibt das Verhältnis der Handlänge zur Gesamtflügellänge und liegt bei dieser Art bei 13 bis 21 %12. Daten für den Primaries-Index liegen für diese Art nicht vor (Status: Lücke)12.
+3. Der Mechanismus: Bruthöhlenverschluss und mikroklimatische Anpassung
+Das entscheidende biologische Prinzip der Gattung Tockus ist die reproduktive Isolation des Weibchens durch das Versiegeln der Bruthöhle. Dieser Mechanismus dient der Feindvermeidung gegenüber baumkletternden Prädatoren (Schlangen, Ginsterkatzen) und reguliert das Mikroklima im Nest (Status: gesichert)1.
+Ökologische Kausalkette der Fortpflanzungsbiologie: A (Der hohe Prädationsdruck auf baumbrütende Vögel in der Savanne) führt zu B (dem Verhalten des Weibchens, sich zum Schutz mit Lehm und Kot in eine Baumhöhle einzumauern, wobei nur ein schmaler Versorgungsschlitz offen bleibt) führt zu C (der Notwendigkeit, aufgrund der räumlichen Enge und der wochenlangen Isolation eine strikte Nesthygiene zu betreiben, bei der das Weibchen und später die Küken ihren Kot präzise durch den Schlitz nach außen schleudern, um Parasiten und Fäulnis zu verhindern) (Status: gesichert)1.
+Funktionsweise und Chronologie
+1. Höhlenwahl und Versiegelung: Da Tokos keine eigenen Höhlen in hartes Holz schlagen können, nutzen sie bestehende Hohlräume in Akazien oder Felsen sowie verlassene Specht- und Bartvogelhöhlen1. Feldstudien von Veiga et al. (2010) mit künstlichen Nistkästen im afrikanischen Ökosystem zeigten, dass Höhlen mit einem Volumen von 3.890 Kubikzentimetern (Eingangsloch 4,3 cm), 7.650 Kubikzentimetern (Eingangsloch 5,4 cm) und 15.340 Kubikzentimetern (rechteckiger Eingang 23 x 8 cm) von Höhlenbrütern angenommen werden14. Das Weibchen inspiziert die Höhle und beginnt, den Eingang von innen mit einem Gemisch aus Schlamm, feuchter Erde, eigenem Kot und zerkleinertem Fruchtbrei zuzumauern, das zu einer harten Masse aushärtet1. Das Männchen assistiert, indem es Nistmaterial von außen anreicht9. Es verbleibt ein vertikaler Spalt, der genau so breit ist, dass das Männchen Insekten und Früchte hindurchgeben kann1.
+2. Inkubation und Mauser: Unmittelbar nach der Versiegelung wirft das Weibchen simultan alle Flug- und Steuerfedern ab (Status: gesichert)6. Während der Brutzeit wächst das Gefieder vollständig nach. Das Weibchen legt zwei bis vier (selten fünf) weiße Eier2. Die Eier schlüpfen asynchron, was bei Ressourcenknappheit zu einer Brutreduktion führt; oft überleben durch Konkurrenz unter den Geschwistern nur zwei Jungvögel bis zum Ausfliegen6.
+3. Physiologische Anpassung der Küken: Um in der teils stark erhitzten Bruthöhle zu überleben, haben die Nestlinge einen Thermoregulationsmechanismus entwickelt. Sie bilden kurz nach dem Schlupf (innerhalb von 24 Stunden) Luftsäcke unter der Rückenhaut (dorsal air sacs) aus13. Diese Säcke vergrößern sich bis zum zehnten Lebenstag und bilden sich ab dem 16. Tag parallel zum Federwachstum allmählich wieder zurück (Status: gesichert)13.
+4. Ausbruch und Wiederverschluss: Wenn die Küken wachsen, wird der Platz in der Höhle zu knapp. Das Weibchen durchbricht mit seinem Schnabel den Lehmverschluss und verlässt die Höhle. Dies geschieht laut unterschiedlichen Quellen entweder nach drei bis vier Wochen9 oder wenn die Küken etwa halbwüchsig sind6. Die flüggen Küken mauern daraufhin den Spalt von innen selbstständig wieder zu. Ab diesem Zeitpunkt füttern beide Elternteile den Nachwuchs von außen durch den Schlitz6.
+Bezüglich der genauen Brut- und Nestlingsdauer weisen die Quellen starke Diskrepanzen auf (Status: umstritten). Eine Publikation beziffert die Inkubationszeit auf 14 bis 15 Tage17, eine weitere auf 30 Tage mit einer anschließenden Nestlingsdauer von 47 bis 50 Tagen2, und eine dritte Quelle nennt eine reine Inkubationszeit von 46 Tagen9. In Gefangenschaft erfordert die Brut einen Hohlraum (z. B. ein Fass oder einen hohlen Baum) mit einem Eingangsloch von 13 cm Höhe und 7,6 cm Breite10.
+4. Ökologie und Verhalten
+Der Von-der-Decken-Toko ist tagaktiv (diurn) und bewohnt semiaride Dornbusch-Savannen, offenes Buschland sowie Wälder, die von Akazien- (Vachellia/Senegalia) und Commiphora-Arten dominiert werden1. Die Vögel sind vornehmlich standorttreu (sedentär), führen jedoch bei andauernder Trockenheit und Dürre nomadische Wanderbewegungen durch9. Das Verbreitungsgebiet konzentriert sich auf den Raum östlich des Großen Afrikanischen Grabenbruchs in Kenia, Tansania, Somalia und Südäthiopien1.
+Ernährung
+Die Art ist omnivor und jagt ihre Beute primär auf dem Boden4. Das Nahrungsspektrum umfasst Insekten (Heuschrecken, Käfer und deren Larven, Termiten, Ameisen), Skorpione, kleine Schlangen, Eidechsen, Baumfrösche, Schnecken, kleine Nager (Mäuse) und Nestlinge anderer Vögel6. Wenn saisonal verfügbar, werden ergänzend Samen, Beeren und Früchte im Geäst aufgenommen6.
+Der Mutualismus mit der Zwergmanguste
+Eine der komplexesten ökologischen Interaktionen des Von-der-Decken-Tokos ist die Symbiose (Protokooperation) mit der Südlichen Zwergmanguste (Helogale parvula). Dieses Verhalten wurde unter anderem 1983 von O. Anne E. Rasa in der Taru-Wüste Kenias (einem Habitat, das an den Tsavo-Nationalpark angrenzt) eingehend erforscht (Status: gesichert)1.
+Die Zwergmangusten bewegen sich in sozialen Gruppen von durchschnittlich zwölf bis hin zu 30 Tieren durch die Savanne und graben nach Insekten1. Bei dieser Tätigkeit scheuchen sie zahlreiche Insekten, insbesondere Heuschrecken, aus der Vegetation auf. Der Von-der-Decken-Toko begleitet diese Trupps auf dem Boden und erbeutet die flüchtenden Insekten1. Die Mangusten profitieren im Gegenzug von der Wachsamkeit der Vögel. Da Zwergmangusten bei der Nahrungssuche den Kopf senken müssen, sind sie anfällig für Angriffe von Greifvögeln (Raptoren), Marabus oder Schlangen20. Der Toko agiert als Wächter: Er sichtet nahende Luftfeinde frühzeitig und stößt spezifische Warnrufe aus, woraufhin die Mangusten in Deckung gehen1.
+Dieses "Eavesdropping" (das Belauschen artfremder Warnrufe) wurde in Studien von Forschern wie Radford, Kern und Morris-Drake detailliert analysiert. Die Mangusten reduzieren ihre eigene Wachtätigkeit (Vigilanz) signifikant, sobald Tokos oder andere kooperierende Vogelarten (wie Trauerdrongos) anwesend sind, um so mehr Energie in die Nahrungsaufnahme investieren zu können20. Die Zwergmangusten warten morgens an ihrem Bau (oft verlassene Termitenhügel) aktiv auf das Eintreffen der Tokos, bevor sie mit der Nahrungssuche beginnen1. Neuere Studien zeigen zudem, dass anthropogener Lärm (z. B. Straßenlärm) diese Kommunikation stört; die Mangusten reagieren bei Lärmbelastung seltener mit sofortiger Flucht auf Warnrufe und erhöhen stattdessen ihre eigene Wachsamkeit, was die Effizienz der Nahrungssuche senkt (Status: gesichert)24.
+Saisonales Muster: Ende September bis Anfang Oktober 2026
+Im Reisezeitraum 24.09. bis 12.10.2026 befindet sich das Ökosystem von Tsavo und Amboseli am Ende der langen Trockenzeit, unmittelbar vor oder zu Beginn der kleinen Regenzeit ("Short Rains"). Da die Fortpflanzung des Von-der-Decken-Tokos stark von Niederschlägen abhängig ist (in Kenia brüten sie oft im April/Mai oder zwischen November und März)6, befindet sich die Art in diesem Zeitfenster höchstwahrscheinlich in der nicht-brütenden Phase (Status: vermutet)9. In der Trockenzeit schließen sich die Vögel zu kleinen Schwärmen zusammen und fokussieren ihre Nahrungssuche vollständig auf den Boden, da das Angebot an Früchten und Beeren minimal ist4. Die Kooperation mit Zwergmangusten erreicht in dieser Dürrephase ihren Höhepunkt, da beide Spezies auf maximale Effizienz bei der Insektenjagd angewiesen sind (Status: vermutet).
+5. Menschen und Kultur in Kenia
+Der Von-der-Decken-Toko ist in Kenia weit verbreitet und tritt regelmäßig in Kontakt mit menschlichen Siedlungen und Kulturen.
+Kulturelle Überlieferungen
+In den Mythen und Sprichwörtern ostafrikanischer Gemeinschaften übernehmen Nashornvögel oft moralische Stellvertreterrollen. Bei den Kamba, deren Siedlungsgebiet sich in der Nähe des Tsavo-Ökosystems befindet, gilt der große Südliche Hornrabe (Ndundu, Bucorvus leadbeateri) als Omen für Unheil27. Für die kleineren, baumbewohnenden Tokos (zusammenfassend als ĩkoto bezeichnet) existiert folgendes Kamba-Sprichwort (Status: überliefert)8:
+„Ĩkoto ĩvũthasya na mũũlũkĩle wayo.“
+(Der Toko entehrt sich selbst durch die Art, wie er fliegt).
+Dieses Sprichwort bezieht sich auf den charakteristischen, stark wellenförmigen und teils ungeschickt wirkenden Flug der Tokos8. Es wird in der Kamba-Kultur verwendet, um Menschen zu tadeln, die sich trotz ihres Alters oder ihres hohen sozialen Status würdelos, unreif oder unkontrolliert verhalten8. Bei den Giriama wird der Vogel als Varuvaru bezeichnet, ein Name, der etymologisch aus der Beobachtung abgeleitet ist, dass die Art in trockenen Gebieten lebt und das Weibchen einen schwarzen Schnabel besitzt7.
+Konflikte und Bestand
+Der Von-der-Decken-Toko wird auf der Roten Liste der IUCN in den letzten Erhebungen von 2016 und 2024 als „Least Concern“ (Nicht gefährdet) eingestuft (Status: gesichert)2. Dennoch gibt es lokale Konflikte durch Habitatverlust. Eine wachsende Bedrohung in Kenia ist das Schlagen von Bäumen für die Holzkohleproduktion (Charcoal burning). Da die Vögel auf große, alte Bäume mit Hohlräumen angewiesen sind, reduziert der Holzeinschlag ihre Nistmöglichkeiten drastisch2. An Safari-Lodges im Tsavo oder Samburu zeigen die Vögel starke Habituation. Sie sind zutraulich, stehlen gelegentlich Brot und Nahrung von den Tischen der Touristen und fallen durch territoriales Verhalten auf, indem sie teils aggressiv gegen Glasscheiben klopfen – eine Reaktion auf ihr eigenes Spiegelbild, das sie für einen Rivalen halten (Status: gesichert)6.
+6. Wissenschaftsgeschichte
+Die Taxonomie der Art ist eng mit der europäischen Erforschung Ostafrikas im 19. Jahrhundert verknüpft. Der Vogel wurde 1868 von dem deutschen Ornithologen Jean Louis Cabanis unter dem Basionym Buceros (Rhynchaceros) Deckeni im Journal für Ornithologie beschrieben (Status: gesichert)1.
+Der Name ehrt Baron Karl Klaus von der Decken (geboren am 8. August 1833 in Kotzen, Brandenburg). Er gab seine militärische Laufbahn auf, um Ostafrika zu erkunden. In den Jahren 1861 und 1862 führte er Expeditionen zum Kilimandscharo durch. In Begleitung des britischen Geologen Richard Thornton (1861) und später des deutschen Chemikers Otto Kersten (1862) erreichte von der Decken am 29. November 1861 eine Höhe von rund 4.280 Metern am Berg29. Obwohl er den Gipfel aufgrund von Schneefall nicht erreichte, bestätigte er die Beobachtungen des Missionars Johannes Rebmann und bewies der europäischen Fachwelt endgültig, dass es in den afrikanischen Tropen vergletscherte Berge gibt29. Im Jahr 1865 unternahm von der Decken eine Expedition nach Somalia, um den Jubba-Fluss mit dem 36 Meter langen Flussdampfer Welf zu befahren. Das Schiff lief in den Stromschnellen hinter Baardheere auf Grund. Am 2. Oktober 1865 wurden von der Decken und drei seiner Begleiter von lokalen Somali ermordet (Status: gesichert)29. Das Typusexemplar des Vogels, das er auf dieser Reise gesammelt hatte, gelangte posthum zu Cabanis1.
+Taxonomisch gab es in der jüngeren Wissenschaftsgeschichte eine signifikante Änderung: Der im Nordwesten Kenias und in Uganda vorkommende Jackson-Toko (Tockus jacksoni) wurde lange Zeit als Unterart (Tockus deckeni jacksoni) klassifiziert1. Basierend auf genetischen und morphologischen Analysen (insbesondere den weißen Tropfenflecken auf den Flügeln des Jackson-Tokos) wird er in aktuellen taxonomischen Verzeichnissen (wie der IOC World Bird List) als eigenständige Art (Species Level) geführt (Status: gesichert)1.
+7. Fotografie
+Für Aufnahmen im Tsavo Ost, Tsavo West und Amboseli im Übergangszeitraum von Ende September auf Anfang Oktober ergeben sich konkrete fotografische Parameter:
+* Tageszeit und Ort: Die höchste Aktivität zeigt die Art in den frühen Morgenstunden sowie am späten Nachmittag. Zu suchen sind sie auf roter Lateriterde in offenen Vachellia-Beständen6.
+* Verhalten und Abwarten: Das Fotografieren des Mutualismus lohnt sich besonders. Sobald eine Gruppe Zwergmangusten am Boden ausgemacht ist, sollte das Fahrzeug gestoppt werden; die Wahrscheinlichkeit, dass Tokos dem Trupp folgen, ist sehr hoch1. Das Fangen von aufgescheuchten Heuschrecken oder die Warnrufe des Tokos mit gerecktem Hals bieten exzellente Motive.
+* Fluchtdistanz und Fehler: Eine exakte metrische Fluchtdistanz ist in der ornithologischen Literatur nicht quantifiziert, in Naturschutzgebieten gelten die Vögel jedoch als an Fahrzeuge habituiert6. Ein typischer Fehler ist der Versuch, sich dem Vogel zu Fuß zu nähern, was die Mangusten sofort in den Bau zwingt und den Toko vertreibt. Ein weiterer Fehler ist eine zu enge Bildauswahl, die den ökologischen Kontext (den Boden, die Mangusten) abschneidet.
+* Objektive:
+   * 150 bis 600 mm: Prädestiniert für formatfüllende Porträts, um die Textur des zwei-farbigen (Männchen) oder schwarzen (Weibchen) Schnabels scharf gegen den defokussierten Hintergrund freizustellen.
+   * 100 bis 400 mm: Die ideale Linse, um das Zusammenspiel von Toko und Zwergmanguste im Kontext der trockenen Savannenlandschaft zu dokumentieren.
+   * 26 bis 60 mm / 45 mm: Für Wildlifefotografie dieser Art ungeeignet, es sei denn, man fotografiert die extrem habituierten, Nahrung stehlenden Exemplare direkt auf den Terrassen der Safari-Lodges28.
+* Verschlusszeiten:
+   * Bodenjagd: Für den hüpfenden Gang am Boden reichen 1/500 bis 1/800 Sekunde.
+   * Flug: Der Flug des Von-der-Decken-Tokos ist stark wellenförmig (schnelle Flügelschläge wechseln mit Gleitphasen ab)8. Um diese Bewegung scharf einzufrieren, sind zwingend Belichtungszeiten von 1/2000 Sekunde, besser 1/3200 Sekunde, notwendig.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quelle:
+Die offizielle Rote Liste-Einstufung (IUCN) des Von-der-Decken-Tokos mit detaillierten Daten zur Bestandsentwicklung und Definition der Habitate.
+https://www.iucnredlist.org/species/22682392/92943252
+Fachliche Quelle (Ökologie):
+Der originale Forschungsartikel von O. Anne E. Rasa (1983) aus der Zeitschrift Behavioral Ecology and Sociobiology über den Mutualismus zwischen Zwergmangusten und Tokos in der Taru-Wüste, Kenia.
+https://www.semanticscholar.org/paper/Dwarf-mongoose-and-hornbill-mutualism-in-the-Taru-Anne-Rasa/e1d8fab720c9765e6db77cdfa8ea436e9ba9a7dc
+Biologische Übersicht:
+Detaillierte englischsprachige Beschreibungen von Verhalten, Inkubationszeit und Morphologie (Oiseaux-Birds).
+https://www.oiseaux-birds.com/card-von-der-decken-s-hornbill.html
+Kultur und Geschichte:
+Ausführlicher deutschsprachiger Artikel über das Leben, die Expeditionen (Kilimandscharo) und den Tod von Baron Karl Klaus von der Decken (Wikipedia).
+https://de.wikipedia.org/wiki/Karl_Klaus_von_der_Decken
+Tonaufnahme des Rufs:
+Eine Audioaufnahme (aufgenommen von Peter Boesman im Tsavo East NP) des markanten Warnrufs, der lautmalerisch als „roh-roh-roh“ oder „wuk-wuk-wuk“ dokumentiert ist (Xeno-canto).
+https://xeno-canto.org/510435
+Fotos und Verbreitung:
+Die Bildkategorie der Wikimedia Commons mit Aufnahmen von anatomischen Details, dem Geschlechtsdimorphismus sowie geografischen Verbreitungskarten.
+https://commons.wikimedia.org/wiki/Category:Tockus_deckeni
+9. Visuelle Beschreibung für eine Illustration
+The Von der Decken's hornbill is a slender, medium-small bird displaying starkly contrasting plumage: its underparts, neck, and head are pure white, while its back, central tail feathers, and unspotted wing coverts are a deep blackish-brown. Its most defining physical trait is the dramatically down-curved, laterally flattened bill which lacks any prominent casque on the upper mandible. In adult males, this oversized bill is split into two bold colors—the posterior half is vivid carmine red, while the anterior half and tip are a pale creamy-yellow, sharply defined by a black cutting edge. The bird is typically seen adopting a somewhat upright, alert posture on the ground, scanning the dry earth with its dark brown eyes surrounded by a bare ring of black orbital skin.
+Three Detail Suggestions:
+1. A close-up of the male’s striking red-and-cream bill, focusing on the heavily textured keratin surface and the sharp, jet-black tomium (cutting edge).
+2. The dried, cracked mud-and-feces cement holding a narrow vertical slit in an aged Acacia (Vachellia) tree trunk, showcasing the unique nesting mechanism.
+3. A primary flight feather, cleanly split into black and white sections, resting on the red, dusty soil alongside the five-toed footprint of a dwarf mongoose.
+Cultural Vignette:
+A finely carved, traditional wooden Kamba container (kĩthũngũ or similar storage vessel), perhaps bearing geometric patterns, positioned next to a discarded piece of charcoal, subtly referencing both the local human presence and the ecological threat of charcoal burning to the bird's nesting trees.
+10. Was du nicht belegen konntest (Lücken)
+Trotz tiefgehender Auswertung der referenzierten Forschungsliteratur, historischer Expeditionsberichte und biologischer Datenbanken konnten für die folgenden spezifisch angefragten Details keine belastbaren Quellen ausfindig gemacht werden:
+* Spezifische Namen in Maa, Kikuyu und Samburu: Zwar existieren in diesen Sprachen generische Bezeichnungen für größere Vögel und andere Hornvogelarten (wie das Samburu-Wort Laingoni Lentapar, das jedoch spezifisch den Südlichen Hornraben beschreibt), aber ein exklusiver, belegter Name für den Von-der-Decken-Toko (Tockus deckeni) fehlt in der vorliegenden linguistischen und ethno-ornithologischen Literatur.
+* Exakte Fluchtdistanz in Metern: In der Fachliteratur wird zwar die Habituation der Vögel (bis hin zum Picken an Glasscheiben und Stehlen von Brot an Lodges) beschrieben, sowie die ökologische Empfehlung, sich bei der Beobachtung des Mutualismus mit der Zwergmanguste ruhig zu verhalten. Eine exakt quantifizierte Fluchtdistanz in Metern (z. B. "Fluchtdistanz bei Annäherung zu Fuß beträgt 12 Meter") ist in den Quellen jedoch nicht definiert.
+* Primaries-Index und Ratio (Maße): In der zitierten Gefiederdatenbank sind die Flügellänge und der Hand-Wing-Index zwar präzise belegt, der Primaries-Index sowie das Verhältnis von Hand-Wing-Index zu Primaries-Index werden dort jedoch explizit als „No data available“ geführt.
+Referenzen
+1. Von-der-Decken-Toko - Wikipedia, https://de.wikipedia.org/wiki/Von-der-Decken-Toko
+2. Von-der-Decken-Toko - Zootier Lexikon, https://www.zootier-lexikon.org/voegel-aves/mausvoegel-bis-spechte/hopfe-und-nashornvoegel/decken-toko-tockus-deckeni
+3. Birds in Africa - Kaj Halberg, https://kajhalberg.dk/en/birds-in-africa/
+4. Von der Decken's hornbill facts found in East Africa - YouTube, https://www.youtube.com/watch?v=w-ZLffkdpKQ
+5. Decken-Toko - Safari Afrika, https://www.safari-afrika.de/tierwelt/voegel/decken-toko/
+6. Von der Decken's Hornbill | MpalaLive, https://www.mpalalive.org/field_guide/view/hornbill
+7. Birds of Dakatcha Woodland IBA - DOF, https://www.dof.dk/images/naturbeskyttelse/international/dokumenter/Birds_of_Dakatcha_IBA_Reduced.pdf
+8. Wild Birds - Cambridge University Press & Assessment, https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EAB8931117FB572575E62071EF0568B2/9781800102682c5_p58-70_CBO.pdf/wild-birds.pdf
+9. Von der Decken's Hornbill - Oiseaux-Birds, https://www.oiseaux-birds.com/card-von-der-decken-s-hornbill.html
+10. Von der Decken's hornbill - Wikipedia, https://en.wikipedia.org/wiki/Von_der_Decken%27s_hornbill
+11. Birds of East Africa: Kenya, Tanzania, Uganda, Rwanda, Burundi, https://dokumen.pub/birds-of-east-africa-kenya-tanzania-uganda-rwanda-burundi-helm-field-guides-2nd-revised-1408157365-9781408157367.html
+12. Von der Decken's Hornbill (Tockus deckeni) - Featherbase, https://www.featherbase.info/da/species/tockus/deckeni
+13. Development and behaviour of a yellow-billed hornbill (Lophoceros, https://www.researchgate.net/publication/47296390_Development_and_behaviour_of_a_yellow-billed_hornbill_Lophoceros_Flavirostris_Leucomelas_chick
+14. Interaction between distant taxa in the use of tree cavities in African, https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/interaction-between-distant-taxa-in-the-use-of-tree-cavities-in-african-ecosystems-a-study-using-nestboxes/7044BF5D12F03FFC49FE40530DD58E58
+15. Interaction between distant taxa in the use of tree cavities in African, https://www.researchgate.net/publication/259433574_Interaction_between_distant_taxa_in_the_use_of_tree_cavities_in_African_ecosystems_A_study_using_nest-boxes
+16. Southern Yellow-Billed Hornbill, aka the Banana Bird | Kambaku, https://www.kambaku.com/en/services-contact/savanna-blog/translate-to-english-gelbschnabeltoko/
+17. Grzimek's Animal Life Encyclopedia, 17 Volumes Set [PDF] - Vdoc.pub, https://vdoc.pub/documents/grzimeks-animal-life-encyclopedia-17-volumes-set-2poamm45vfa0
+18. Dwarf mongoose and hornbill mutualism in the Taru desert, Kenya, https://www.semanticscholar.org/paper/Dwarf-mongoose-and-hornbill-mutualism-in-the-Taru-Anne-Rasa/e1d8fab720c9765e6db77cdfa8ea436e9ba9a7dc
+19. Uganda: Dwarf Mongoose - Enchanted by the Wild, https://thomasbancroft.org/uganda-dwarf-mongoose/
+20. Coordinated Vigilance in Dwarf Mongoose Family Groups, https://www.researchgate.net/publication/238417458_Coordinated_Vigilance_in_Dwarf_Mongoose_Family_Groups_The_'Watchman's_Song'_Hypothesis_and_the_Costs_of_Guarding
+21. Common Dwarf Mongoose - Curious Species, https://www.curiousspecies.com/my-species/blog-post-title-one-yemxk-m29ek-dhngg-w852d-pr2mn-rx3pm-gm2rj-acerw-wca8h-j9yl6-3hf5w-wypyl-8jlcn-8y34a-we9ft-9mgen-9a7hw-yg4t5-4n388-xy7k3-p7ksp-ast43
+22. https://en.wikipedia.org/wiki/Common_dwarf_mongoose
+23. (PDF) The presence of an avian co-forager reduces vigilance in a, https://www.researchgate.net/publication/41404887_The_presence_of_an_avian_co-forager_reduces_vigilance_in_a_cooperative_mammal
+24. Anthropogenic noise alters dwarf mongoose responses to, https://www.researchgate.net/publication/313124873_Anthropogenic_noise_alters_dwarf_mongoose_responses_to_heterospecific_alarm_calls
+25. Mutualism in nature: Fungal friends and finding Nemo, https://searchfor.science.blog/2020/08/21/mutualism-in-nature-fungal-friends-and-finding-nemo/
+26. Von der Decken's hornbill - Facts, Diet, Habitat & Pictures ... - Animalia, https://animalia.bio/von-der-deckens-hornbill
+27. Ethnology of A-Kamba and other East African tribes - Internet Archive, https://archive.org/download/ethnologyofakamb00hobluoft/ethnologyofakamb00hobluoft.pdf
+28. Hornbills of Kenya (Photos) | The Mad Traveler, https://themadtraveler.com/photo-galleries/hornbills-of-kenya-photos/
+29. Karl Klaus von der Decken Facts for Kids, https://kids.kiddle.co/Karl_Klaus_von_der_Decken
+30. Karl Klaus von der Decken - Wikipedia, https://de.wikipedia.org/wiki/Karl_Klaus_von_der_Decken
+31. Karl Klaus von der Decken - Das Mount Kilimanjaro Gipfelbuch, https://kilimanjaro.bplaced.net/wiki/index.php?title=Karl_Klaus_von_der_Decken
+32. Karl Klaus von der Decken - Wikipedia, https://en.wikipedia.org/wiki/Karl_Klaus_von_der_Decken
+33. Hornbill - All Birds Wiki - Miraheze, https://allbirdswiki.miraheze.org/wiki/Hornbill
+34. AFROAVES III: Trogoniformes, Bucerotiformes, and Coraciiformes, http://jboyd.net/Taxo/List10a.html
+35. Band 54 • Heft 3 • August 2016 - Deutsche Ornithologen-Gesellschaft, https://www.do-g.de/fileadmin/Ablage/Veroeffentlichen/Vogelwarte/2016_Band_54/Vowa_Heft_3_2016.pdf

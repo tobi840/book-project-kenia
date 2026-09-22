@@ -1,0 +1,195 @@
+﻿Strukturiertes Rohmaterial: Macrotermes michaelseni
+1. Namen und Etymologie
+Die systematische Einordnung der Art erfolgt innerhalb der Klasse der Insekten (Insecta), der Ordnung der Schaben (Blattodea) und der Teilordnung der Termiten (Isoptera). Innerhalb der Familie der Termitidae gehört sie zur Unterfamilie der pilzzüchtenden Termiten (Macrotermitinae)1. Der taxonomische Status dieser Klassifikation ist in der entomologischen Forschung fest etabliert (Status: gesichert).
+Der schwedische Entomologe Bror Yngve Sjöstedt beschrieb die Art im Jahr 1914 formal unter dem noch heute gültigen Binomen Macrotermes michaelseni1. Der Gattungsname Macrotermes wurde zuvor im Jahr 1909 von Nils Holmgren eingeführt, zu diesem Zeitpunkt jedoch noch als Untergattung der Gattung Termes (Linnaeus, 1758)3.
+Die etymologische Herleitung des Gattungsnamens basiert auf dem griechischen Wort makrós (für groß) und dem lateinischen termes (für Holzwurm oder weiße Ameise). Der Artname michaelseni ist ein Dedikationsname. Eine exakte historische Quelle, welcher Wissenschaftler namens Michaelsen durch Sjöstedt geehrt wurde, liegt in den ausgewerteten Dokumenten nicht vor; in der biologischen Nomenklatur dieser Epoche wurden häufig Sammler oder Expeditionsleiter gewürdigt (Status: vermutet).
+Im Laufe der taxonomischen Geschichte wurden verschiedene Synonyme für diese Art verwendet, die heute als invalid gelten (Status: gesichert). Zu diesen Synonymen zählen Macrotermes bellicosus kunenensis (Fuller, 1922), Macrotermes bellicosus limpopoensis (Fuller, 1922), Macrotermes bellicosus tonga (Fuller, 1927) sowie Termes (Termes) bellicosus mossambica (Hagen, 1858)1.
+In den Verbreitungsgebieten existieren diverse Trivial- und Lokalnamen. Da lokale Bezeichnungen oftmals nicht auf Artebene (Spezies), sondern auf Gattungsebene (Macrotermes) oder spezifische Lebensstadien (z. B. fliegende Geschlechtstiere) angewendet werden, ist die Zuordnung differenziert zu betrachten.
+
+
+Sprache / Region
+	Name
+	Bedeutung / Anwendung
+	Status
+	Deutsch
+	Riesentermite
+	Allgemeine Bezeichnung für die Gattung5.
+	gesichert
+	Englisch
+	Giant Mound Termite
+	Bezieht sich auf die auffälligen, großen Hügelbauten5.
+	gesichert
+	Swahili
+	Mchwa
+	Allgemeiner Begriff für Termiten1.
+	gesichert
+	Swahili
+	Kumbe kumbe / Kumbikumbi
+	Spezifischer Begriff für das fliegende Stadium (Alaten)8.
+	gesichert
+	Kikuyu
+	Nguya
+	Bezeichnung für essbare, fliegende Termiten9.
+	gesichert
+	Luhya (Westkenia)
+	Chiswa / Tsiswa
+	Lokale Bezeichnung für essbare Termiten8.
+	gesichert
+	Luo
+	Ng'wen
+	Lokale Bezeichnung für Termiten9.
+	gesichert
+	Maa (Maasai)
+	unbekannt
+	Keine belegte artspezifische Bezeichnung vorhanden.
+	-
+	Kamba
+	unbekannt
+	Keine belegte artspezifische Bezeichnung vorhanden.
+	-
+	Samburu / Giriama
+	unbekannt
+	Keine belegten Daten in den Quellen verfügbar.
+	-
+	2. Erscheinung, mit Maßen
+Macrotermes michaelseni zeichnet sich durch einen ausgeprägten Polymorphismus aus. Die Kolonie unterteilt sich in eine reproduktive Kaste (Königin, König, Alaten) und in sterile Kasten (Arbeiter und Soldaten), welche wiederum einen Größendimorphismus (Major- und Minor-Stadien) aufweisen.
+Die Dimensionen der primären reproduktiven Tiere verändern sich im Laufe ihres Lebenszyklus. Die Königin entwickelt eine ausgeprägte Physogastrie (Anschwellen des Hinterleibs zur Eiproduktion). Hinsichtlich des Körpergewichts der Königin existieren in der wissenschaftlichen Literatur stark abweichende Messreihen. Eine Studie aus dem Jahr 2004 dokumentiert, dass primäre Königinnen nach zwei Jahren eine durchschnittliche Körpermasse von 7,06 mg (± 2,4 mg) aufweisen und sechs Jahre alte Königinnen 17 bis 18 mg wiegen11. Eine andere Analyse polygyner und monogyner Kolonien belegt hingegen Lebendgewichte von 1,2978 g (± 0,4296 g) für polygyne und 2,3732 g (± 1,0733 g) für monogyne Königinnen12. Die Literatur berichtet zudem von physogastrischen Weibchen der Gattung Macrotermes, die in Einzelfällen Längen von knapp 8 cm bis zu 15 cm erreichen, was der Länge einer erwachsenen Handfläche entspricht, sowie von Maximalgewichten bis zu 20 g12. Der Widerspruch der Gewichtszahlen zwischen den Bereichen von 18 mg und mehreren Gramm erklärt sich biologisch durch das extreme Wachstum der Ovarien während der Reifephase und den Grad der Polygynie (Status: gesichert). Das Gewicht des Königs unterliegt geringeren Schwankungen und wird in der Forschung als unabhängiger Indikator für das Alter einer Kolonie herangezogen12.
+Die sterilen Kasten dominieren die Kolonie quantitativ. Larven machen 42,60 % der Population aus, gefolgt von Arbeitern mit 42,19 % und Soldaten mit 14,16 %; Präsoldaten (0,71 %) und Alaten (0,34 %) stellen die kleinste Fraktion (gemessen an der nahe verwandten Art M. gilvus, was als Richtwert für die Gattung gilt)16. Minor-Arbeiter übertreffen die Anzahl der Major-Arbeiter in einem Verhältnis von 1,4:1 bis 1,5:116. Bei den Soldaten dominieren die Minor-Soldaten gegenüber den Major-Soldaten mit einem Verhältnis von 5,1:116. Ein Soldat (bezogen auf M. falciger) weist ein durchschnittliches Lebendgewicht von 0,15 g auf17. Die Kopfkapseln der Soldaten weisen eine rötlich-braune bis orangefarbene Pigmentierung auf13.
+Die Körperzusammensetzung (Trockenmasse in Relation zur Lebendmasse) variiert zwischen den Kasten:
+
+
+Kaste
+	Anteil der Trockenmasse an Lebendmasse
+	Minor-Soldaten
+	35,3 %18
+	Major-Soldaten
+	20,3 %18
+	Arbeiter (Minor/Major)
+	23,7 %18
+	Nymphen
+	17,1 %18
+	König
+	35,4 %18
+	Königin
+	20,8 %18
+	Die architektonische Struktur, die von den sterilen Kasten errichtet wird, erreicht erhebliche Ausmaße. Der Hügel ist in sich geschlossen und weist keine permanenten externen Öffnungen auf19. Ein ausgewachsener Hügel von M. michaelseni erreicht eine vertikale Ausdehnung von bis zu 4 m und bedeckt an der Basis eine Fläche von bis zu 50 m²1. Die durchschnittliche Höhe unterliegt regionalen Schwankungen: Messungen in bestimmten Regionen (Kenia) ergaben Mittelwerte von 2,9 m (± 1,69 m) gegenüber 0,3 m (± 0,24 m) an anderen Standorten20. Das Material des Hügels umfasst 2 bis 20 Kubikmeter Erde pro Hektar, wobei 65 bis 75 % des Gesamtvolumens oberirdisch verbaut sind21. Die Dichte des Bodengemischs aus Ton und Speichel beträgt 1,2 kg pro Liter22. Ein anatomisches Kernmerkmal der Struktur ist, dass 18 % des Volumens aus einem Netz von Luftkanälen bestehen23. Die markante Spitze des Hügels (Spire) weist in Namibia eine Neigung von etwa 19 Grad in Richtung Norden auf, was exakt dem durchschnittlichen solaren Zenitwinkel der Region entspricht23.
+3. Der Mechanismus
+Das definierende biologische und architektonische Prinzip von Macrotermes michaelseni ist die passive Regulation von Gasaustausch und Temperatur eines vollständig geschlossenen Nestsystems, welches eine Kolonie von über einer Million Individuen und eine stoffwechselaktive Pilzfarm am Leben hält. Das epigeale (oberirdische) Bauwerk fungiert als externes physiologisches Atmungsorgan ("Lunge"), während die Termiten selbst in einer 1,5 bis 2,0 m durchmessenden kugelförmigen Kammer (Hive Chamber) im Untergrund leben23. Der Stoffwechsel der Population erzeugt eine konstante thermische Leistung von 5 bis 100 Watt, abhängig von der Koloniegröße23.
+Das Luftleitungssystem im Hügel besteht aus drei vernetzten Komponenten: Einem zentralen Kamin (Chimney) mit einem Durchmesser von 2 bis 10 cm, der senkrecht durch die Mitte des Baus bis in die geneigte Spitze verläuft23. Dieser ist über laterale Verbindungen (Lateral Connectives) mit einem Netzwerk aus vertikalen Oberflächenkanälen (Surface Conduits) verbunden, die etwa 1 bis 3 cm unter der Außenhaut der Hügeloberfläche liegen25.
+Die wissenschaftliche Erklärung der Funktionsweise dieses Systems hat sich in der Wissenschaftsgeschichte durch drei konsekutive Modelle entwickelt (Status: gesichert, dass sich das Verständnis gewandelt hat).
+Das erste Modell, die Thermosiphon-Zirkulation (oder Metabolismus-induzierte Konvektion), wurde in den 1950er Jahren formuliert. Es postulierte, dass die metabolische Wärme aus dem Nest die Luft aufsteigen lässt. Diese warme Luft strömt durch den zentralen Kamin in die Höhe, wird in die peripheren Kanäle abgelenkt, kühlt sich nahe der Außenhaut ab, verdichtet sich und sinkt in das Nest zurück25. Dieses Modell galt lange als Standardwerk, bis J. Scott Turner um das Jahr 2000 Tracer-Gas-Analysen (mit Propan) durchführte. Turner wies nach, dass die Dichtegradienten der Luft für eine derartige Konvektion nicht ausreichen.
+Turners zweites Modell postulierte eine windgetriebene Ventilation. Trotz der geschlossenen Architektur sei die 1 bis 3 cm dicke Außenhaut ausreichend porös, um die kinetische Energie von Oberflächenwinden zu nutzen. Turbulente Winde (mit Geschwindigkeiten von bis zu 5 m/s) verursachen Druckschwankungen an der Oberfläche. Diese zwingen die Luft in einer tidalen (gezeitenartigen) Strömung durch den sogenannten Grenzschichtbereich (Boundary Layer) in das Kanalnetzwerk hinein und heraus26. Ein Austausch von 95 % des internen Gasvolumens (entsprechend drei Zeitkonstanten) wird so dynamisch erreicht.
+Das aktuellste, dritte Modell der solar angetriebenen Zwangskonvektion wurde von Hunter King und L. Mahadevan in den Jahren 2015 bis 2017 entwickelt und durch direkte Messungen der Luftgeschwindigkeiten in den Kanälen gestützt. Dieses Modell verlagert den Mechanismus von der Windenergie zur Solarenergie. Die ökologische Kausalkette verläuft wie folgt: Die diurnalen (täglichen) Sonnenstände heizen die asymmetrische Außenhülle des Hügels ungleichmäßig auf. Dies führt zu einer lokalen Erwärmung der Luft in den peripheren Oberflächenkanälen. Die warme Luft kann durch die Struktur der Wände nicht ausreichend schnell nach außen diffundieren. Es baut sich eine Zwangskonvektionszelle auf, in der die erwärmte Luft nach unten in das Innere strömt, was im Gegenzug tiefere, kältere Gase (mit hohem CO2-Gehalt) in den zentralen Kamin drängt. Durch die im Tagesverlauf wandernde Sonne kehrt sich diese Strömungsrichtung zweimal täglich um. Das System funktioniert exakt wie eine tidale Lunge, die das Nest einmal am Tag vollständig spült und das Kohlenstoffdioxid aus der Stoffwechselproduktion abführt, ohne dass die relative Luftfeuchtigkeit im Nest (die konstant bei ca. 70 % liegt) einbricht26. Die spezifische Ausrichtung des Hügels mit seiner 19-Grad-Neigung nach Norden maximiert das Auffangen dieser Strahlungsenergie in Relation zum lokalen solaren Zenit23.
+Dieses Prinzip der homöostatischen Regulation fand eine präzise Umsetzung in der biomimetischen Architektur. Der Architekt Mick Pearce entwarf das Eastgate Centre in Harare (Simbabwe), das 1996 eröffnet wurde. Das Gebäude nutzt thermische Massen, Kaminzugeffekte und nächtliche passive Kühlung anstelle von konventionellen Klimaanlagen. Diese Nachahmung der Macrotermes-Architektur führt zu einer Einsparung des Energiebedarfs für Belüftung um 90 % und verzeichnete eine Kostenreduktion von 3,5 Millionen US-Dollar für die Gebäudeinhaber (Status: gesichert)33.
+4. Ökologie und Verhalten
+Macrotermes michaelseni prägt als Landschaftsingenieur (Ecosystem Engineer) die Trocken- und Dornbuschsavannen des subsaharischen Afrikas maßgeblich. Die Art bevorzugt lehmhaltige Böden (Clay) mit hohen Grundwasserspiegeln1. Im Okavango-Delta besiedelt sie Einzugsgebiete, die regelmäßigen Sommerüberschwemmungen ausgesetzt sind. Das Herantragen von Bodenmaterial in einem Radius von 50 Metern konzentriert Nährstoffe und erhöht den Bodenpegel am Ort des Nestes. Die Hügel ragen folglich bei Flut als Inseln aus dem Wasser1. Die Bestandsdichte in Savannenlandschaften variiert je nach Studie zwischen 1 und 6, teilweise auch bis zu 16,7 Hügeln pro Hektar1. Raumanalysen der Hügelverteilung zeigen, dass Nester mit einer Höhe von über 0,7 m in einer regelmäßigen Dispersion zueinander stehen, was einen starken Indikator für intraspezifische Konkurrenz um Nahrungsressourcen darstellt. Die physische Distanz zwischen zwei großen Hügeln determiniert deren maximales Wachstum21.
+Der Tagesrhythmus der Nahrungssuche ist variabel. Arbeiter fouragieren überwiegend in der Nacht, nutzen das unterirdische und oberflächennahe Tunnelsystem aber auch am Tag1. Ein Arbeiter transportiert pro Ausflug durchschnittlich 0,166 mg (± 0,009 mg) Biomasse in das Nest18. Gesammelt werden Laubstreu, Holzfragmente und tote Gräser. In Savannenwäldern stellen die Arten Croton megalocarpus, Philenoptera violacea, Vachellia erioloba und Colophospermum mopane die bevorzugten Rohstoffe dar1.
+Die Kolonien kultivieren auf diesen herangetragenen Pflanzenresten in der sogenannten Hive Chamber den Basidiomyceten Termitomyces schimperi. Diese obligatorische, mutualistische Symbiose existiert stammesgeschichtlich seit über 30 Millionen Jahren1. Die ökologische Kausalkette dieser Fungikultur verläuft wie folgt: Die älteren Arbeiter sammeln die Pflanzenstreu. Jüngere Arbeiter zerkauen die Biomasse im Nest, mischen sie mit asexuellen Pilzsporen aus ihrem Darm und scheiden sie als strukturierte Fäkalpellets aus. Diese Pillen bilden den sogenannten Pilzkamm (Fungus Comb). Der Pilz nutzt Enzyme (etwa Laccase), um das unverdauliche Lignin im Holz abzubauen (Weißfäule-Abbau). Durch diesen biochemischen Prozess wird Zellulose für die Termiten als Nahrung verfügbar gemacht1. Diese Nahrungskette ist hochspezifisch: Die Königin ernährt sich isotopischen Analysen zufolge primär von den proteinreichen Pilzknötchen (Nodules), während Arbeiter und Soldaten sich aus einer Mischung von abgebautem Pflanzenmaterial und älteren Teilen des Pilzkamms versorgen48.
+Für den Reisezeitraum Ende September bis Anfang Oktober (Ende der langen Trockenzeit, unmittelbar vor dem Beginn der kleinen Regenzeit) greifen spezifische saisonale Muster (Status: gesichert). Erstens ändert sich die Nahrungspräferenz: Durch die fortgeschrittene Trockenheit ist Pflanzenstreu in der Savanne fast vollständig abgebaut oder durch Fraß verwertet. In dieser Phase greifen die Arbeiter verstärkt auf Elefantendung zurück, der nun den Großteil des eingetragenen Substrats bildet1. Zweitens bereitet sich die Kolonie auf die Fortpflanzungsphase vor. Geflügelte Geschlechtstiere (Alaten) wurden herangezogen und sammeln sich im Inneren der Hügelstrukturen. Sie fliegen nicht unkoordiniert aus, sondern benötigen einen klimatischen Trigger. Die Alaten warten an speziellen Ausfluglöchern auf den ersten durchdringenden Regen der herannahenden Feuchtsaison (oft dokumentiert bei Niederschlägen ab 12 mm). Nach diesem Ereignis, zumeist am späten Nachmittag oder in der Dämmerung, kommt es zum synchronisierten Massenschwärmen49. Drittens aktiviert der Regen den Symbiosepartner. Termitomyces schimperi entwickelt seine gewaltigen sexuellen Fruchtkörper exakt nach diesen ersten schweren Regenfällen. Am Fuß des Hügels treibt eine bis zu 90 cm lange wurzelartige Struktur (Pseudorhiza) aus den tief liegenden Pilzkammern an die Oberfläche und bildet große weiße Schirme (15 bis 28 cm, teils bis 40 cm Durchmesser) mit dunklen, anhaftenden Schuppen, oft in Gruppen von fünf bis zehn Exemplaren47. Im Reisefenster (Ende September) befinden sich die Fruchtkörper noch im Wartezustand unter der Erde.
+Diese Konzentration von Biomasse zieht weitere Lebewesen an. Die Termitenhügel bieten Lebensraum für Nischenarten wie die Raubameise Carebara vidua. Deren Arbeiter sind nur etwa 2 mm groß und können aufgrund eines neutralen Geruchsprofils unbemerkt in das Termitennest eindringen, um dort als Kleptoparasiten Nahrung zu stehlen (Lestobiose)55. Zu den Wirbeltier-Prädatoren, die den weichen Boden der Hügel im Verlauf der Regenzeit attackieren, gehört das Erdferkel (Orycteropus afer)57.
+5. Menschen und Kultur in Kenia
+Die Nutzung von Termiten, insbesondere der Gattung Macrotermes, hat in Ostafrika eine lange wirtschaftliche und kulturelle Tradition. Der Verzehr der Insekten (Entomophagie) ist ernährungsphysiologisch durch einen hohen Gehalt an verdaulichen Proteinen, Fetten und bioverfügbaren Mikronährstoffen (Kalzium, Zink, Mangan) begründet8.
+In Kenia, vorwiegend dokumentiert in den westlichen Countys (Kakamega, Bungoma, Trans Nzoia) bei den Gemeinschaften der Luhya und Luo, werden Termiten systematisch geerntet. Die primäre Nutzung beschränkt sich auf die Fortpflanzungssaison, wenn die Alaten (fliegenden Geschlechtstiere) ausschwärmen (Status: gesichert). Um die Insekten effizient zu fangen, errichten Anwohner kleine Zelte, die mit Decken abgedeckt werden, direkt über den Schwarmöffnungen der Hügel. Ein Lichtspalt leitet die Termiten in ein speziell gegrabenes Loch, das mit glatten Bananenblättern ausgekleidet ist, auf denen die Insekten abrutschen und gesammelt werden können9. Diese Aktivität findet, korrelierend mit den Regenfällen, häufig in den Nachmittagsstunden zwischen 14 und 16 Uhr statt9.
+Nach der Ernte werden die Alaten häufig ohne zusätzliches Öl geröstet oder gebraten, da ihr eigener Fettgehalt dafür ausreicht8. Teilweise werden sie in wenig Wasser gekocht und anschließend sonnengetrocknet, was ihre Haltbarkeit auf mehrere Monate verlängert9. Die Ernte generiert nicht nur Nahrung zur Eigensicherung, sondern die Insekten werden als Ware auf lokalen Märkten verkauft, was eine Einkommensquelle für ländliche Haushalte darstellt8. Neben den Geschlechtstieren nutzen 35 % der Landwirte in Befragungen in Westkenia die sterilen Kasten (Arbeiter und Soldaten) als hochwirksames und kostengünstiges Futtermittel für Geflügel59.
+Die soziokulturelle Bedeutung spiegelt sich in Sprache, Ritualen und Mythen wider (Status: überliefert). Bei der Ernte wird in diversen afrikanischen Ethnien das Rhythmus-Schlagen auf den Boden oder auf Kalebassen eingesetzt, um das Geräusch prasselnden Regens zu imitieren und den Ausflug der Termiten künstlich zu triggern; Lieder begleiten den Prozess50. In Westkenia (im Sub-Stamm der Banyala) beeinflussen Termiten die Namensgebung: Ein während der Schwarmzeit geborener Junge kann den Namen "Waswa" erhalten, ein Mädchen wird "Naswa" genannt9. Zudem wird der Verzehr der Insekten lokal mit Vitalität und dem Aufbau von Kraft in Verbindung gebracht9. In der traditionellen Medizin wurden Termitenpräparate, beispielsweise bei der Ethnie der Digo (Grenzregion Kenia/Tansania), zur Behandlung von Kindern mit Fieber dokumentiert50.
+Die Nutzung von Makrotermiten hat tiefe historische Wurzeln. Archäologische Analysen von Knochenwerkzeugen aus dem frühen Pleistozän (Ausgrabungsstätten in Südafrika) deuten darauf hin, dass bereits frühe Hominiden (Australopithecus robustus) die nährstoffreichen Insekten aus den Hügeln abbauten, was zur Energieversorgung größerer Gehirne beigetragen haben könnte50.
+Konflikte mit der menschlichen Infrastruktur, wie sie bei subtropischen Holztermiten bekannt sind, werden für M. michaelseni in Kenia kaum berichtet, da sich diese Art primär von Pflanzenstreu in der Savanne ernährt und keine Holzstrukturen von Gebäuden attackiert (Status: vermutet mangels negativer Berichte). Die Spezies ist von der IUCN nicht in der Roten Liste gefährdeter Arten erfasst (Not Evaluated). Die Lebendbiomasse der Insekten erreicht in intakten Savannenökosystemen enorme Werte von 70 bis 110 Kilogramm pro Hektar18.
+6. Wissenschaftsgeschichte
+Die systematische und physiologische Erforschung von Macrotermes michaelseni umfasst mehrere historische Etappen:
+* 1909: Der schwedische Entomologe Nils Holmgren führt Macrotermes als Untergattung in die Nomenklatur ein3.
+* 1914: Der schwedische Zoologe Bror Yngve Sjöstedt beschreibt die Art Macrotermes michaelseni formell anhand von gesammeltem Material1.
+* 1955 und 1961: Der Schweizer Zoologe Martin Lüscher etabliert auf Basis von Forschungen an Macrotermes das Konzept der Thermosiphon-Zirkulation in den Termitenhügeln, welches jahrzehntelang das Standardmodell der Belüftungsmechanik bildete25.
+* 1976 bis 1985: Die britische Forscherin Johanna P. E. C. Darlington verbringt Jahre im Feld in Kenia (Kajiado/Amboseli-Region). Ihre Publikation von 1985 definiert die interne Neststruktur (Hive Chamber), die Biomasse und die Demografie der Kolonien von M. michaelseni mit vorher unerreichter Präzision19.
+* 1996: Der Architekt Mick Pearce entwirft in Kooperation mit der Ingenieurfirma Arup das Eastgate Centre in Harare (Simbabwe), ein Bürogebäude, dessen Klimatechnik explizit als Biomimetik von der Belüftung der Macrotermes-Hügel abgeleitet wurde34.
+* 2000 bis 2001: Der amerikanische Biologe J. Scott Turner veröffentlicht Arbeiten aus Nordnamibia (Farm Namatubis), die Lüschers Modell empirisch durch Tracer-Gas-Messungen widerlegen. Turner postuliert stattdessen, dass kinetische Windenergie an der Grenzschicht (Boundary Layer) des Hügels die Belüftung antreibt25.
+* 2015 bis 2017: Ein interdisziplinäres Team um Hunter King und L. Mahadevan (Harvard University) revolutioniert das Verständnis erneut, indem es durch direkte Luftstrommessungen belegt, dass weder Stoffwechsel noch Wind, sondern die diurnale solare Aufheizung die treibende Kraft für die Zwangskonvektion ist27.
+7. Fotografie
+Für Aufnahmen auf der Route Tsavo Ost/West und im Amboseli-Nationalpark Ende September/Anfang Oktober gelten spezifische technische und verhaltensbiologische Parameter.
+Die stationären Termitenhügel sind tagsüber stets präsent, doch die flachen Sonnenwinkel am frühen Morgen oder späten Nachmittag heben die feinen Poren und die rötliche Textur der Lehmoberfläche hervor. Da sich die markante Spitze (Spire) des Baus bei dieser Art aus klimatischen Gründen um etwa 19 Grad nach Norden neigt25, ergeben sich bei seitlicher Beleuchtung aus dem Osten oder Westen asymmetrische, fotografisch nutzbare Schattenlinien. Das Objektiv mit 26 bis 60 mm Brennweite ist optimal, um den bis zu 4 Meter aufragenden Hügel inklusive des Landschaftskontexts abzubilden. Die Einbeziehung eines Fahrzeugs oder einer Person im Bildhintergrund hilft, die Dimensionen sauber zu verdeutlichen.
+Tierisches Verhalten außerhalb des Hügels tritt fast ausschließlich in den kühleren Dämmerungs- oder Nachtstunden auf. Ende September, am Höhepunkt der Trockenzeit, sammeln die Arbeiter bevorzugt Elefantendung1. Diese Fouragier-Aktivität findet in einem Umkreis von bis zu 50 Metern um den Hügel statt1. Die Insekten weisen eine extrem hohe Empfindlichkeit gegenüber Bodenvibrationen und Kohlendioxid in der Atemluft auf63. Ein nahes Herantreten lässt die Arbeiter umgehend in die unterirdischen Galerien flüchten. Der Einsatz der mitgebrachten Teleobjektive (100 bis 400 mm oder 150 bis 600 mm) ist aus einigen Metern Entfernung zwingend erforderlich, um dieses Verhalten störungsfrei zu dokumentieren. Für die langsamen Marschbewegungen der Arbeiter sind Verschlusszeiten von 1/250 s bis 1/500 s ausreichend.
+Ein fotografisches Ausnahmeereignis bietet sich, falls die kleine Regenzeit früh einsetzt. Kommt es zu Niederschlägen von 12 mm oder mehr, lösen diese am Spätnachmittag (oft zwischen 14 und 16 Uhr) das massenhafte Ausschwärmen der geflügelten Alaten aus speziellen Fluglöchern aus9. Um die schnellen Bewegungen und das Vibrieren der durchscheinenden Flügel der Alaten scharf einzufrieren, müssen zwingend kurze Verschlusszeiten ab 1/1000 s oder 1/2000 s gewählt werden. Ein typischer Fehler bei der Motivsuche ist, die beschatteten Seiten des Hügels zu meiden; oft konzentrieren die Termiten ihre oberflächennahen Bauaktivitäten am Spätnachmittag genau dorthin, da die reduzierte Strahlung die Verdunstungsgefahr der Insekten senkt.
+8. Links zum Weiterlesen und Sehen
+Fachliche Quellen:
+* https://en.wikipedia.org/wiki/Macrotermes_michaelseni Umfassende und aggregierte Übersicht (Wikipedia) zur Taxonomie, zum Habitat im südlichen Afrika und zur Ökologie von Macrotermes michaelseni.1
+* https://journals.biologists.com/jeb/article/220/18/3260/18709/Solar-powered-ventilation-of-African-termite Die zentrale biophysikalische Publikation von King und Mahadevan (2017), welche den Mechanismus der solar getriebenen Hügelbelüftung empirisch belegt.28
+* https://www.cabidigitallibrary.org/doi/full/10.1079/DFB/20232352329 Ausführliche wissenschaftliche Monografie zur Biologie, Taxonomie und Verbreitung des obligatorischen Pilzsymbionten Termitomyces schimperi.46
+Fotos:
+* https://www.inaturalist.org/photos/15128503 Eine verifizierte, offene Naturfotografie (iNaturalist), die Struktur, Textur und das landschaftliche Umfeld eines Hügels von M. michaelseni dokumentiert.6
+Verbreitungskarte:
+* https://www.gbif.org/species/4803134 Datensatz und interaktive Verbreitungskarte von Macrotermes michaelseni der Global Biodiversity Information Facility (GBIF).5
+9. Visuelle Beschreibung für eine Illustration
+The mature epigeal mound of Macrotermes michaelseni rises from the flat, reddish savannah earth as a towering, conical structure of cemented soil, reaching up to 4 meters in height. The broad, deeply fissured base narrows upwards into a distinct, slender spire that leans noticeably toward the north at an angle of roughly 19 degrees. The exterior surface is rugged and porous, colored by the local clay, lacking any visible open entryways or ventilation holes.
+* Detail 1 (Cross-section structure): A vertical cross-section reveals the capacious central chimney (up to 10 cm wide) running straight down into a subterranean, spherical hive chamber (1.5 m in diameter) filled with convoluted, brain-like fungus combs.
+* Detail 2 (Termitomyces schimperi): At the foot of the mound, a massive fungal fruiting body bursts through the soil, featuring a broad white cap (up to 28 cm) textured with flat, dark scales, supported by a thick stipe that transitions into a long, root-like pseudorhiza extending deep into the nest.
+* Detail 3 (Soldier caste): A major soldier stands guard, possessing a highly sclerotized, teardrop-shaped head of striking reddish-orange, equipped with prominent, scythe-like black mandibles that cross at the tips.
+* Cultural Vignette: A woven wicker basket lines a shallow pit covered loosely by overlapping, broad banana leaves, capturing the swarming, black-bodied, translucent-winged alates as they slide down the slick greenery during the early rains.
+10. Was du nicht belegen konntest
+Folgende vom Nutzer geforderte Spezifika konnten durch das wissenschaftliche und ethnografische Rohmaterial nicht belastbar belegt werden:
+* Wörtliche Etymologie des Artnamens: Es ist unbelegt, welche konkrete historische Persönlichkeit mit dem Dedikationsnamen michaelseni durch Sjöstedt (1914) geehrt wurde.
+* Wörtliche Bedeutung der lokalen Namen: Die Quellen benennen die Vokabeln (wie "Chiswa", "Nguya", "Ng'wen"), liefern jedoch keine Herleitung des linguistischen Stamms oder eine wörtliche Erstbedeutung der Begriffe.
+* Zusätzliche Sprachräume: Es liegen keine spezifisch auf die Art Macrotermes michaelseni anwendbaren lokalen Namen in den Sprachen Maa (Maasai), Samburu, Giriama und Kamba vor.
+* Tonaufnahme (Vögel-Kategorie): Der Parameter zur Tonaufnahme greift hier nicht, da es sich um Insekten ohne vogelkundliches Lautrepertoire handelt; Links zu Audio-Bibliotheken wie der Macaulay Library oder xeno-canto waren in den Quellen nicht vorhanden.
+Referenzen
+1. Macrotermes michaelseni - Wikipedia, https://en.wikipedia.org/wiki/Macrotermes_michaelseni
+2. 大白蚁属- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E7%99%BD%E8%9A%81%E5%B1%9E
+3. Macrotermes Holmgren, 1909 - Blattodea Species File, https://cockroach.speciesfile.org/otus/83528
+4. Case 3155 - MACROTERMITINAE Kemner, 1934 (Insecta, Isoptera), https://archive.org/download/biostor-80701/biostor-80701.pdf
+5. Category:Macrotermes - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Macrotermes
+6. File:Macrotermes michaelseni.jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Macrotermes_michaelseni.jpg
+7. Termites | Infonet Biovision Home., https://www.infonet-biovision.org/PlantHealth/MinorPests/termites-12
+8. Cooking FLYING TERMITES (TSISWA) A Kenyan ... - YouTube, https://www.youtube.com/watch?v=12-6Yjtkdq8
+9. Kumbe Kumbe, Other Kenyan Local Names for Termites, Edible, https://www.tuko.co.ke/kenya/counties/478216-kumbe-kumbe-kenyan-local-names-termites-edible-flying-insects/
+10. TERMITES [ KUMBI KUMBI ] AT ITS BEST!!!!! Jinsi ya ... - YouTube, https://www.youtube.com/watch?v=Z-9KByISKyw
+11. Census of Monogyne and Polygyne Laboratory Colonies Illuminates, https://academic.oup.com/aesa/article/97/3/466/70286
+12. Egg-laying in monogynous and polygynous colonies of the termite, https://www.researchgate.net/publication/248023678_Egg-laying_in_monogynous_and_polygynous_colonies_of_the_termite_Macrotermes_michaelseni_Isoptera_Macrotermitidae
+13. The Macrotermes termites - Termite Web, https://www.termiteweb.com/the-macrotermes-termites/
+14. Specimen of the Week: Week 177 | UCL UCL Culture Blog, https://blogs.ucl.ac.uk/museums/2015/03/02/specimen-of-the-week-week-177/
+15. UFZ - Publication Index, https://www.ufz.de/index.php?en=20939&pub_id=6465
+16. Caste Composition and Mound Size of the Subterranean Termite, https://www.researchgate.net/publication/233428119_Caste_Composition_and_Mound_Size_of_the_Subterranean_Termite_Macrotermes_gilvus_Isoptera_Termitidae_Macrotermitinae
+17. Human uses and indigenous knowledge of edible termites in, https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532018000100011
+18. Termitidae) colonies in - University of Pretoria, https://repository.up.ac.za/bitstreams/e7211bcd-0b30-4fe7-9b33-23bd4b6530e8/download
+19. The Structure of Mature Mounds of the Termite macrotermes, https://scispace.com/papers/the-structure-of-mature-mounds-of-the-termite-macrotermes-2n2loopuk9
+20. faunal survey of the termites of the genus macrotermes (isoptera, https://academicjournals.org/journal/JEN/article-full-text/50C40AD59237
+21. DISPERSION AND ACTIVITY PATTERNS OF THREE, https://www.researchgate.net/publication/232695212_DISPERSION_AND_ACTIVITY_PATTERNS_OF_THREE_POPULATIONS_OF_LARGE_TERMITE_MOUNDS_IN_KENYA
+22. Relation between termite numbers and the size of their mounds, https://www.researchgate.net/publication/225884969_Relation_between_termite_numbers_and_the_size_of_their_mounds
+23. How the thermal environment shapes the structure of termite mounds, https://upload.wikimedia.org/wikipedia/commons/4/48/How_the_thermal_environment_shapes_the_structure_of_termite_mounds.pdf
+24. How the thermal environment shapes the structure of termite mounds, https://www.researchgate.net/publication/338599211_How_the_thermal_environment_shapes_the_structure_of_termite_mounds
+25. Architecture and morphogenesis in the mound of Macrotermes, https://www.researchgate.net/publication/228483222_Architecture_and_morphogenesis_in_the_mound_of_Macrotermes_michaelseni_Sjstedt_Isoptera_Termitidae_Macrotermitinae_in_northern_Namibia
+26. On the Mound of Macrotermes michaelseni as an Organ of, https://www.journals.uchicago.edu/doi/10.1086/323990
+27. Solar-powered ventilation of African termite mounds - Soft Math Lab, https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2017-10.pdf
+28. Solar-powered ventilation of African termite mounds, https://journals.biologists.com/jeb/article/220/18/3260/18709/Solar-powered-ventilation-of-African-termite
+29. (PDF) Ventilation of termite mounds: new results require a new model, https://www.researchgate.net/publication/31433117_Ventilation_of_termite_mounds_new_results_require_a_new_model
+30. On the mound of Macrotermes michaelseni as an organ of ... - PubMed, https://pubmed.ncbi.nlm.nih.gov/11731972/
+31. Transient-state mechanisms of wind-induced burrow ventilation, https://journals.biologists.com/jeb/article/218/2/170/14269/Transient-state-mechanisms-of-wind-induced-burrow
+32. Termites know more about ventilation that human architects, https://www.zmescience.com/science/termites-ventilation-8377231/
+33. The internal structure of a Macrotermes michaelseni mound. a, https://www.researchgate.net/figure/The-internal-structure-of-a-Macrotermes-michaelseni-mound-a-Plaster-cast-of-a-portion_fig4_255650482
+34. The Eastgate Centre and a Macrotermes mound. a-b. The exterior of, https://www.researchgate.net/figure/The-Eastgate-Centre-and-a-Macrotermes-mound-a-b-The-exterior-of-the-Eastgate-Centre_fig1_255650482
+35. Case Example: Sustainable building secrets of termites, https://biomimicry.net/the-buzz/resources/case-example-sustainable-building-secrets-termites/
+36. Termites Inspired a Building - Parametric House, https://parametrichouse.com/termites-inspired-a-building-that-can-cool-itself/
+37. This article appeared in a journal published by Elsevier. The, https://ees.kuleuven.be/eng/africa-in-profile/dig-deeper/soil-forming-factors/Mujinya2004(SpatialTermites)_Final.pdf
+38. (PDF) Spatial patterns and life histories of Macrotermes michaelseni, https://www.researchgate.net/publication/361563366_Spatial_patterns_and_life_histories_of_Macrotermes_michaelseni_termite_mounds_reflect_intraspecific_competition_insights_of_a_temporal_comparison_spanning_12_years
+39. Multi-scale pattern analysis of a mound-building termite species, https://www.researchgate.net/publication/225728411_Multi-scale_pattern_analysis_of_a_mound-building_termite_species
+40. The causes of spatial patterning of mounds of a fungus-cultivating, https://www.researchgate.net/publication/225455456_The_causes_of_spatial_patterning_of_mounds_of_a_fungus-cultivating_termite_Results_from_nearest-neighbour_analysis_and_ecological_studies
+41. Need for shared internal mound conditions by fungus-growing, https://pmc.ncbi.nlm.nih.gov/articles/PMC10331903/
+42. (PDF) Comb Establishment of fungus-growing termites species, https://www.researchgate.net/publication/341382071_Comb_Establishment_of_fungus-growing_termites_species_Macrotermitinae_Isoptera_Termitidae_with_Termitomyces_cylindricus_Basidiomycota_Agaricales_basidiospores
+43. The Longevity of Colonies of Fungus-Growing Termites and the, https://edepot.wur.nl/530374
+44. (PDF) The Longevity of Colonies of Fungus-Growing Termites and, https://www.researchgate.net/publication/343647982_The_Longevity_of_Colonies_of_Fungus-Growing_Termites_and_the_Stability_of_the_Symbiosis
+45. Differential role of symbiotic fungi in lignin degradation and food, https://www.researchgate.net/publication/229997622_Differential_role_of_symbiotic_fungi_in_lignin_degradation_and_food_provision_for_fungus-growing_termites_Macrotermitinae_Isoptera
+46. Termitomyces schimperi | Descriptions of Fungi and Bacteria, https://www.cabidigitallibrary.org/doi/full/10.1079/DFB/20232352329
+47. (PDF) Set 235: Termitomyces schimperi No.2329 - ResearchGate, https://www.researchgate.net/publication/394498360_Set_235_Termitomyces_schimperi_No2329
+48. Integration of biological nitrogen fixation and microbial amino acids, https://helda.helsinki.fi/bitstreams/fd26f691-95e0-44ed-b467-37a24a42fd50/download
+49. Macrotermes - Wikipedia, https://en.wikipedia.org/wiki/Macrotermes
+50. Cultural significance of termites in sub-Saharan Africa - ResearchGate, https://www.researchgate.net/publication/312960450_Cultural_significance_of_termites_in_sub-Saharan_Africa
+51. Termitomyces schimperi - Alchetron, The Free Social Encyclopedia, https://alchetron.com/Termitomyces-schimperi
+52. seasonality of Macrotermes flight hole activity and alate dispersal, https://pure.mpg.de/rest/items/item_3556632_1/component/file_3556728/content
+53. Termitomyces schimperi - Zombie Mushrooms, https://zombiemyco.com/pages/termitomyces-schimperi
+54. An Exploration of Reproduction in Termitomyces spp. - WUR eDepot, https://edepot.wur.nl/638171
+55. Edible ants: exploring species and their utilisation in - Brill, https://brill.com/view/journals/jiff/11/3/article-p429_1.xml
+56. WUR eDepot, https://edepot.wur.nl/301504
+57. STABILITY OF TERMITE MOUND POPULATIONS IN A VARIABLE, https://bioone.org/journals/journal-of-east-african-natural-history/volume-94/issue-2/0012-8317_2005_94_343_SOTMPI_2.0.CO_2/STABILITY-OF-TERMITE-MOUND-POPULATIONS-IN-A-VARIABLE-ENVIRONMENT/10.2982/0012-8317(2005)94[343:SOTMPI]2.0.CO;2.short
+58. inclusion of african winged termites (macrotermes nigeriensis, https://academicjournals.org/journal/AJB/article-full-text/A02EA0168686
+59. Indigenous Knowledge on Production and Utilisation of Termite, https://journals.nasspublishing.com/index.php/NJAS/article/view/424/510
+60. Cultural significance of termites in sub-Saharan Africa - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC5270236/
+61. Influence of termites on ecosystem functioning - Horizon IRD, https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers12-05/010052508.pdf
+62. Populations in nests of the termite Macrotermes jeanneli in Kenya, https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/populations-in-nests-of-the-termite-macrotermes-jeanneli-in-kenya/99B5346962F72ADE8E63EA8FCFD321F5
+63. (PDF) Beyond biomimicry: What termites can tell us about realizing, https://www.researchgate.net/publication/255650482_Beyond_biomimicry_What_termites_can_tell_us_about_realizing_the_living_building
