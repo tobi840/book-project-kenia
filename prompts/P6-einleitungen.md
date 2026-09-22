@@ -95,7 +95,26 @@ keine `abschnitt-nr`.
 
 ## Prüfung
 
-`regel_check.py` prüft gegen die Kapitelstruktur und passt hier nicht. Geprüft
-wird von Hand auf: Gedankenstrich, Wortzahl, Absatzlänge, erster und letzter
-Satz, jede Zahl gegen `research/landschaften.txt`. Eine QS-Runde mit Agenten
-findet nicht statt, die Quelle ist eine einzige Datei und liegt vor.
+`regel_check.py` prüft gegen die Kapitelstruktur und passt hier nicht. An seine
+Stelle tritt `einleitung_check.py`: Wortzahl gegen die Zone, Absatzlängen,
+erster Satz, letzter Absatz, Gedankenstriche, verbotene Wörter, lange Sätze,
+Adjektivketten, Kopfzeilenfelder. Lateinische Namen und Zahlen ohne Beleg
+prüft `research_check.py` gegen `research/landschaften.txt`, es nimmt die
+Quelle als Argument und läuft hier unverändert.
+
+    python3 scripts/einleitung_check.py einleitungen/*.html
+    python3 scripts/research_check.py einleitungen/01-nairobi.html \
+        --research research/landschaften.txt
+
+Hier stand bis zum 22.09.2026, eine QS-Runde mit Agenten finde nicht statt,
+weil die Quelle eine einzige Datei sei. Tobi hat am selben Tag anders
+entschieden, und das Argument trug auch nicht: Schreiber und Prüfer waren
+dieselbe Instanz, und genau diese Trennung ist der Kern des Verfahrens.
+
+**Eine QS-Runde, ein Prüfer für alle sechs Dateien, Sonnet.** Er liest genau
+eine vorbereitete Datei, in der Auftrag, Skriptausgaben, P6, die sechs Texte
+und die vollständige Quelle stehen. Es gilt dieselbe Ordnung wie bei P4:
+Ausgabe sind Patches, keine Prosa (E20), die Datei ist das Ergebnis und nicht
+die Rückgabe, und in der Datei steht keine Ampelzeile (E23). Die Patches
+wendet die Hauptsession an, weil `patch_anwenden.py` auf die Kapitelstruktur
+zugeschnitten ist.
