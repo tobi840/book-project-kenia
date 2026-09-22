@@ -5,6 +5,7 @@
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
@@ -27,6 +28,12 @@ def findings(c):
     return {json.dumps(f, sort_keys=True) for f in json.loads(out)["befunde"]}
 
 
+def doubled_sentence(c):
+    text = re.sub(r"<[^>]+>", " ", (b.ROOT / "chapters" / f"{c['stem']}.html").read_text())
+    sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+", " ".join(text.split())) if len(s.split()) >= 8]
+    return next((s for s in sentences if sentences.count(s) > 1), None)
+
+
 def run_group(group):
     label = f"{group[0]['nr']}-{group[-1]['nr']}"
     before = {c["nr"]: findings(c) for c in group}
@@ -35,9 +42,11 @@ def run_group(group):
         path = f"chapters/{c['stem']}.html"
         check = b.rule_check(c)
         new = findings(c) - before[c["nr"]]
-        if check["rot"] > 0 or new:
+        doubled = doubled_sentence(c)
+        if check["rot"] > 0 or new or doubled:
             subprocess.run(["git", "checkout", "--", path], cwd=b.ROOT, check=True)
-            reason = "rot im Regel-Check" if check["rot"] > 0 else "neue Befunde: " + "; ".join(sorted(new))
+            reason = ("rot im Regel-Check" if check["rot"] > 0 else
+                      "Satz doppelt: " + doubled if doubled else "neue Befunde: " + "; ".join(sorted(new)))
             print(f"{c['stem']}: ZURUECKGESETZT, {reason}", flush=True)
         else:
             print(f"{c['stem']}: {check['ampel_regelcheck']} {check['masse']['geschichte_woerter']} Wörter", flush=True)

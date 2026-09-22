@@ -43,8 +43,10 @@ sein Inhalt nicht.
 
 ## Längen
 
-Geschichte 850 bis 1.000 Wörter, "Menschen und Kultur" 150 bis 250 Wörter.
-Führt das Streichen unter 850, wird weniger gestrichen. Nie aufgefüllt.
+Geschichte 800 bis 1.000 Wörter, "Menschen und Kultur" 150 bis 250 Wörter.
+Führt das Streichen unter 800, wird weniger gestrichen. **Nie aufgefüllt, auch
+nicht mit Sätzen aus dem Research-Doc.** Ein kürzeres Kapitel ist das Ziel.
+Kein Satz steht zweimal.
 Keine Gedankenstriche. Keine doppelten Leerzeichen.
 
 ## Test
