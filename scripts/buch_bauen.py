@@ -94,10 +94,12 @@ body {
 .seite { max-width: 40rem; margin: 0 auto; padding: 0 1rem; }
 
 /* Cover */
+.nur-vorlesen { position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap; }
 .cover { min-height: 100vh; display: flex; flex-direction: column;
          align-items: center; justify-content: center; text-align: center;
          padding: 3rem 1rem; }
-.cover img { max-width: min(30rem, 88vw); width: 100%; height: auto;
+.cover img { max-width: min(34rem, 92vw); width: 100%; height: auto;
              border-radius: 2px; box-shadow: 0 2px 30px rgba(0,0,0,.18); }
 .cover h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); margin: 2rem 0 .3rem;
             letter-spacing: .01em; font-weight: 600; }
@@ -193,9 +195,16 @@ def bau():
     cover = pfad("buch", "cover.png")
     teile.append('<div class="cover" id="cover">')
     if os.path.exists(cover):
-        teile.append('<img src="cover.png" alt="Titelbild">')
-    teile.append("<h1>%s</h1>" % html.escape(TITEL))
-    teile.append('<p class="untertitel">%s</p>' % html.escape(UNTERTITEL))
+        # Titel und Untertitel stehen seit dem 22.09.2026 im Bild selbst,
+        # gesetzt von cover_titel.py. Hier stuenden sie sonst doppelt. Die
+        # Ueberschrift bleibt fuer Vorleseprogramme und EPUB erhalten, aber
+        # unsichtbar.
+        teile.append('<img src="cover.png" alt="%s. %s">'
+                     % (html.escape(TITEL), html.escape(UNTERTITEL)))
+        teile.append('<h1 class="nur-vorlesen">%s</h1>' % html.escape(TITEL))
+    else:
+        teile.append("<h1>%s</h1>" % html.escape(TITEL))
+        teile.append('<p class="untertitel">%s</p>' % html.escape(UNTERTITEL))
     teile.append('<p class="reise">Kenia, 24. September bis 12. Oktober 2026</p>')
     teile.append("</div>")
 

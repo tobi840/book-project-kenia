@@ -24,10 +24,12 @@ body {
 .seite { max-width: 40rem; margin: 0 auto; padding: 0 1rem; }
 
 /* Cover */
+.nur-vorlesen { position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); white-space: nowrap; }
 .cover { min-height: 100vh; display: flex; flex-direction: column;
          align-items: center; justify-content: center; text-align: center;
          padding: 3rem 1rem; }
-.cover img { max-width: min(30rem, 88vw); width: 100%; height: auto;
+.cover img { max-width: min(34rem, 92vw); width: 100%; height: auto;
              border-radius: 2px; box-shadow: 0 2px 30px rgba(0,0,0,.18); }
 .cover h1 { font-size: clamp(2.2rem, 7vw, 3.4rem); margin: 2rem 0 .3rem;
             letter-spacing: .01em; font-weight: 600; }
@@ -99,9 +101,8 @@ hr.trenner { border: 0; border-top: 1px solid var(--linie); margin: 3rem 0 0; }
 </head>
 <body>
 <div class="cover" id="cover">
-<img src="cover.png" alt="Titelbild">
-<h1>Kenia, vorgelesen</h1>
-<p class="untertitel">Hundert Arten zwischen Riff und Gipfel</p>
+<img src="cover.png" alt="Kenia, vorgelesen. Hundert Arten zwischen Riff und Gipfel">
+<h1 class="nur-vorlesen">Kenia, vorgelesen</h1>
 <p class="reise">Kenia, 24. September bis 12. Oktober 2026</p>
 </div>
 <div class="seite inhalt" id="inhalt">
@@ -3134,7 +3135,7 @@ hr.trenner { border: 0; border-top: 1px solid var(--linie); margin: 3rem 0 0; }
     <p class="untertitel">Riff, Lagune, Mangrove</p>
   </header>
 
-  <p>An der Küste geht die Uhr anders. Nicht die Trockenzeit gibt den Takt vor, sondern der halbtägliche Gezeitenhub, der bei Springfluten bis zu vier Meter erreicht und weite Teile der Lagune trockenfallen lässt. Zweimal am Tag verschiebt sich die Grenze zwischen Land und Wasser um hunderte Meter, und alles, was hier lebt, lebt von dieser Verschiebung oder mit ihr. Die sechzehn Kapitel dieses Abschnitts folgen dem Wasser vom Außenriff bis in den Schlick.</p>
+  <p>An der Küste geht die Uhr anders. Nicht die Trockenzeit gibt den Takt vor, sondern der halbtägliche Gezeitenhub, der bei Springfluten bis zu vier Meter erreicht und weite Teile der Lagune trockenfallen lässt. Zweimal am Tag verschiebt sich die Grenze zwischen Land und Wasser, und alles, was hier lebt, lebt von dieser Verschiebung oder mit ihr. Die sechzehn Kapitel dieses Abschnitts folgen dem Wasser vom Außenriff bis in den Schlick.</p>
 
   <p>Der Küstensaum entstand durch quartäre Meeresspiegelschwankungen und Hebung, bei denen pleistozäne Riffkalke terrassenförmig über das Meeresniveau gehoben wurden. Die Küstenlinie besteht heute aus fossilen Korallenkalkbänken, und ihnen vorgelagert liegt ein rezentes Saumriff, das die Dünung des Indischen Ozeans bricht und eine seichte Lagune abschirmt. Über dem Ganzen steht das Monsunregime: Der Südost-Monsun Kusi weht von Mai bis Oktober und bringt Wind und unruhige See, der Nordost-Monsun Kaskazi sorgt von November bis März für ruhiges Wasser. Die Böden des Festlandssaums sind verwitterter Korallenkalk, hochgradig durchlässig und arm an Stickstoff. In den Buchten und Mündungsarmen lagern dagegen sauerstofffreie, schwefelwasserstoffreiche Feinsedimente.</p>
 
