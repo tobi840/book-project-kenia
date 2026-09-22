@@ -5,6 +5,9 @@ Das Bild kommt ohne Text aus der Generierung, weil Bildmodelle deutsche
 Schrift unzuverlaessig setzen. Die Typografie kommt hier dazu, in echter
 Schrift und damit scharf, auch fuer EPUB und PDF.
 
+Das Rohbild liegt als buch/cover-roh.png im Repo, damit sich das Cover
+ohne einen neuen Generierungslauf wiederherstellen laesst.
+
     python3 scripts/cover_titel.py <roh.png> buch/cover.png
 """
 
@@ -14,6 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Regular.ttf"
 TITEL = ["KENIA,", "VORGELESEN"]
 UNTERTITEL = ["Hundert Arten zwischen", "Riff und Gipfel"]
+AUTOR = "Tobi Brockmann"
 FARBE = (38, 32, 26)
 SPERRUNG = 0.10          # Anteil der Schriftgroesse als Buchstabenabstand
 RAND = 24                # Sicherheitsabstand zum Motivkranz
@@ -82,7 +86,9 @@ def main():
         fu = ImageFont.truetype(SERIF, klein)
         zeilen = ([(t, ft, gross * SPERRUNG, gross * 1.30) for t in TITEL]
                   + [(None, None, 0, gross * 0.75)]
-                  + [(u, fu, klein * SPERRUNG, klein * 1.45) for u in UNTERTITEL])
+                  + [(u, fu, klein * SPERRUNG, klein * 1.45) for u in UNTERTITEL]
+                  + [("", None, 0, klein * 1.1)]
+                  + [(AUTOR, fu, klein * SPERRUNG, klein * 1.45)])
         hoehe = sum(z[3] for z in zeilen)
         y = mitte_y - hoehe / 2
         passt = y > oben + RAND and y + hoehe < unten - RAND
@@ -100,7 +106,9 @@ def main():
 
     y = mitte_y - hoehe / 2
     for text, font, sp, zh in zeilen:
-        if text is None:
+        if text == "":
+            pass                       # nur Abstand, keine Linie
+        elif text is None:
             linie = gross * 1.1
             mitte_zeile = y + zh / 2
             draw.line([(mitte_x - linie, mitte_zeile), (mitte_x + linie, mitte_zeile)],

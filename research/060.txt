@@ -1,127 +1,237 @@
-Rohmaterial: Dromas ardeola (Reiherläufer) – Kenia-Küste
+Rohmaterial für Kapitel 36: Crematogaster mimosae (Kurzdorn-Akazien-Ameise)
 1. Namen und Etymologie
-Die wissenschaftliche Erstbeschreibung der Art erfolgte im Jahr 1805 durch den schwedischen Naturforscher Gustaf von Paykull unter dem binominalen Namen Dromas ardeola [Status: gesichert]1. Die Publikation der Erstbeschreibung fand in den Abhandlungen der Königlich Schwedischen Akademie der Wissenschaften (Kongl. Vetenskaps Academiens Nya Handlingar) statt, wobei das der Beschreibung zugrunde liegende Typusexemplar aus Indien stammte [Status: gesichert]2.
-Die Etymologie des Gattungsnamens Dromas leitet sich aus dem Altgriechischen ab und bedeutet wörtlich "laufend" oder "der Läufer", was historisch auch im Kontext der Bezeichnung dromas kamelos (das laufende Kamel, Dromedar) referenziert wurde [Status: gesichert]4. Der Artname ardeola entstammt dem Lateinischen und bedeutet wörtlich "kleiner Reiher" [Status: vermutet, da linguistisch eindeutig belegbar, im vorliegenden Forschungsdatenmaterial jedoch nicht historisch hergeleitet].
-Im deutschen Sprachraum ist die Art als Reiherläufer bekannt, während sich im englischen Sprachgebrauch die Bezeichnungen Crab-plover oder Crab Plover etabliert haben [Status: gesichert]2. Entlang der ostafrikanischen Küste wird die Art auf Swahili als Ndoero bezeichnet [Status: gesichert]7. Weitere lokale oder indigene Trivialnamen für die Gemeinschaften der Maa, Kikuyu, Samburu, Giriama oder Kamba lassen sich anhand der verfügbaren Literatur nicht belegen [Status: unbekannt].
+Die systematische Erfassung und Benennung der Art spiegelt sowohl phänotypische Merkmale als auch ökologische Abhängigkeiten wider. Die Nomenklatur ist historisch mit den frühen entomologischen Expeditionen in Ostafrika verknüpft.
+Die Art trägt den wissenschaftlichen Namen Crematogaster mimosae. Der Gattungsname Crematogaster entstammt dem Griechischen und setzt sich aus den Begriffen kremastos (hängend, aufgehängt) und gaster (Magen, Hinterleib) zusammen1. Diese Bezeichnung beschreibt das anatomische und verhaltensbiologische Hauptmerkmal der Gattung: Bei Beunruhigung biegen die Arbeiterinnen ihren herzförmigen Hinterleib (Gaster) über das Mesosoma nach vorne1. Das Artepitheton mimosae verweist auf die obligate Wirtspflanze der Ameise, die historisch zur Familie der Mimosengewächse (Mimosoideae) gezählt wurde. Die Art wurde im Jahr 1914 von dem Schweizer Entomologen Felix Santschi benannt1. [Status: Etymologie und systematische Benennung gesichert].
+In der englischsprachigen Fachliteratur und dem allgemeinen Sprachgebrauch existieren verschiedene Trivialnamen. Die Gattung wird übergreifend als „cocktail ants“ (aufgrund des aufgestellten Hinterleibs), „acrobat ants“ oder „Saint Valentine ant“ (wegen des dorsal herzförmigen Gasters) bezeichnet1. Spezifisch für Crematogaster mimosae hat sich in der wissenschaftlichen Literatur der funktionelle Begriff „acacia ant“ oder „obligate acacia ant“ etabliert4. Ein standardisierter deutscher Trivialname ist in der wissenschaftlichen Literatur nicht belegt; der nutzerspezifische Arbeitstitel „Kurzdorn-Akazien-Ameise“ wird für dieses Projekt übernommen. [Status: Englische Namen gesichert; deutscher Name als Arbeitstitel vermutet].
+Für die Ameise selbst sind in den zur Verfügung stehenden Quellen keine spezifischen Namen in indigenen kenianischen Sprachen (Maa, Kikuyu, Samburu, Giriama, Kamba) oder auf Swahili belegt. Dokumentiert sind jedoch die Bezeichnungen für die spezifische Wirtspflanze Vachellia drepanolobium (früher Acacia drepanolobium), mit der die Ameise untrennbar verbunden ist. In der Sprache Maa wird der Baum als ol-kine lo luai, e-luai, e-merumori oder e-ronkan bezeichnet5. [Status: Indigene Ameisennamen unbekannt; indigene Baumnamen gesichert].
+Nomenklatur-Kategorie
+	Bezeichnung / Herleitung
+	Dokumentiertes Jahr
+
+Wissenschaftlicher Name
+	Crematogaster mimosae
+	1914
+
+Etymologie Gattung
+	Griechisch: kremastos (hängend) + gaster (Bauch)
+	1914 (Santschi)
+
+Etymologie Art
+	Latein: Bezugnahme auf Mimosengewächse (Wirtspflanze)
+	1914 (Santschi)
+
+Englische Trivialnamen
+	Cocktail ant, Acrobat ant, Saint Valentine ant, Acacia ant
+	Unspezifisch
+
+Indigener Name Wirtsbaum
+	Maa: ol-kine lo luai, e-luai, e-merumori, e-ronkan
+	Unspezifisch
+
+Indigener Name Ameise
+	Unbekannt
+	-
 2. Erscheinung, mit Maßen
-Der Reiherläufer ist ein mittelgroßer Watvogel, dessen Körperbau durch eine aufrechte Haltung, einen verlängerten Hals und lange, blaugraue Beine charakterisiert wird [Status: gesichert]4. Die vorderen Zehen sind teilweise mit Schwimmhäuten verbunden, was eine morphologische Besonderheit innerhalb seiner Verwandtschaftsgruppe darstellt [Status: gesichert]4. Das herausragendste physische Merkmal ist der schwere, kräftige und lateral komprimierte schwarze Schnabel, der evolutionär spezifisch an das Aufbrechen harter Krustentierschalen angepasst ist [Status: gesichert]4.
-Das Federkleid adulter Individuen zeigt ein kontrastreiches Elstern-Muster. Der Körper ist überwiegend weiß gefärbt, während der Mantel (Rücken), die inneren Schulterfedern und die primären Schwungfedern der Flügel schwarz sind [Status: gesichert]4. Im Brutkleid ist der Kopf des Vogels vollständig weiß, unterbrochen lediglich durch einen kleinen, markanten schwarzen Fleck im Augenbereich [Status: gesichert]4. Im Schlichtkleid (außerhalb der Brutzeit) weisen der Kopf und der Nacken hingegen graue Strichelungen auf [Status: gesichert]4.
-Juvenile Vögel unterscheiden sich deutlich von adulten Exemplaren. Anstelle des schwarzen Mantels zeigen sie eine blassgraue Rückenfärbung, und der hintere Oberkopf sowie der Nacken sind mit schwärzlichen Strichelungen versehen [Status: gesichert]4. Dieses Gefieder behalten die Jungvögel für ein volles Jahr bei [Status: gesichert]4. Wenn die Küken die Bruthöhle verlassen und ausfliegen, sind ihre Flügel und Federn bereits fast vollständig entwickelt und erreichen 83 % der Flügellänge der Altvögel. Ihre Körpermasse beträgt zu diesem Zeitpunkt jedoch nur etwa 55 % des adulten Gewichts, und die Schnabellänge liegt bei lediglich 60 % der Erwachsenengröße [Status: gesichert]9.
-Hinsichtlich der Gefiederfärbung existiert kein Sexualdimorphismus, jedoch unterscheiden sich die Geschlechter in ihren morphometrischen Maßen [Status: gesichert]4. Männliche Reiherläufer sind signifikant größer, was sich vor allem in den kranialen Parametern (Kopf- und Schnabelgröße) manifestiert [Status: gesichert]11. Eine auf den Mond-Inseln und im Roten Meer durchgeführte Diskriminanzfunktionsanalyse (DFA) ergab, dass Männchen in Bezug auf Kopf- und Schnabelmerkmale zwischen 6,8 % und 11,4 % größer sind als Weibchen [Status: gesichert]11. Durch die isolierte Messung von Schnabeltiefe und Schnabellänge lässt sich das Geschlecht der Vögel mit einer Genauigkeit von 97,4 % statistisch korrekt vorhersagen [Status: gesichert]11.
+Crematogaster mimosae weist sowohl eine ausgeprägte morphologische Anpassung an ihr Habitat als auch eine klare farbliche Zweiteilung (Bikoloration) auf, die sie von sympatrischen Arten unterscheidet.
+Die generelle Erscheinung der Arbeiterinnen ist stumpf beziehungsweise opak, was auf eine dichte, feine Oberflächenstruktur zurückzuführen ist6. Der Kopf, das Mesosoma (Bruststück), der Petiolus und der Postpetiolus sind rötlich bis rotbraun gefärbt, während der Gaster (Hinterleib) in starkem Kontrast dazu tiefschwarz bis schwarzbraun ist2. [Status: Färbung gesichert].
+Die anatomischen Detailmerkmale der Arbeiterinnen umfassen eine vollständig und dicht längsgerunzelte (longitudinal rugulose) Kopfoberfläche6. In der Frontalansicht sind die Fühlergruben von längsgerichteten Rillen (Striolae) umgeben6. Die Antennenschäfte sind verhältnismäßig lang; wenn sie flach angelegt werden, erreichen oder überragen sie den hinteren Kopfrand6. Ein weiteres charakteristisches Merkmal sind die ausgeprägten Propodealdornen. Diese dornenartigen Fortsätze am hinteren Teil des Mesosomas sind spitz, lang und weisen in der Seitenansicht eine Länge auf, die ihre basale Breite deutlich übersteigt6. [Status: Morphologische Details gesichert].
+Die Kolonien weisen einen Polymorphismus auf, was bedeutet, dass sich die Arbeiterinnen in ihrer physischen Größe unterscheiden, was mit einer verhaltensökologischen Arbeitsteilung einhergeht (Soldatinnen versus Brutpflegerinnen)1. Für C. mimosae spezifizieren die Quellen keine exakten Längenmaße der Arbeiterinnen in Millimetern. Die Größenordnung lässt sich jedoch aus dem verwandten Taxon Tapinoma sessile (ca. 3,0 mm Länge) ableiten, was der Größe eines Reiskorns oder Sesamkorns entspricht9. Belastbar dokumentiert sind die Trockengewichte der Ameisen, welche in ernährungsphysiologischen Studien zu Primaten ermittelt wurden. Eine adulte Arbeiterin hat ein durchschnittliches Trockengewicht von 0,00078 g (Spannweite: ± 0,00005 g Standardfehler). Die Brut (Larven und Puppen) ist mit 0,0016 g (Spannweite: ± 0,00040 g Standardfehler) signifikant schwerer10. Um 1 Gramm Biomasse (Trockengewicht) zu akkumulieren, sind folglich 1.282 Arbeiterinnen erforderlich. [Status: Längenmaß Arbeiterinnen vermutet; Trockengewichte gesichert].
+Für die weiblichen Geschlechtstiere (Gynen/Königinnen) liegen exakte biometrische Daten aus der Untersuchung von Typusmaterial vor. Die Königin erreicht eine Gesamtkörperlänge von 4,3 bis 4,4 mm8. Ihr Kopf ist stark transversal geformt und dicht behaart (setose)8. Die Vorderflügel der unbegatteten Gynen messen 3,5 bis 3,8 mm8. In Bezug auf die Antennenlänge der Königin existiert in den Quellen ein Widerspruch: Eine Studie nennt 4,5 mm11, während eine andere Untersuchung desselben Exemplars 2,7 mm angibt8. [Status: Königinnenmaße gesichert; Antennenlänge umstritten]. Alltagsvergleich: Eine ungeflügelte Königin entspricht in ihrer Gesamtlänge exakt dem Durchmesser eines handelsüblichen Streichholzkopfes.
+Kaste
+	Körperlänge
+	Spezifische Merkmale
+	Trockengewicht
 
-Morphologisches Merkmal
-	Wert / Spanne
-	Alltagsvergleich
-	Status
-	Quelle
+Arbeiterin
+	Unbekannt (geschätzt ~3,0 mm)
+	Roter Vorderkörper, schwarzer Gaster, lange Propodealdornen
+	0,00078 g (± 0,00005 g)
 
-Körperlänge
-	35 bis 40 cm
-	Entspricht etwa der Länge eines menschlichen Unterarms von der Ellbogenbeuge bis zu den Fingerspitzen
-	gesichert
-	5
-
-Körpergewicht (Adult)
-	230 bis 325 g
+Larve / Puppe
+	Unbekannt
 	-
-	gesichert
-	5
+	0,0016 g (± 0,00040 g)
 
-Flügelspannweite
-	65 bis 80 cm (Mittelwert: 72 ± 6 cm)
-	-
-	gesichert
-	5
-
-Eimaße
-	64,05 × 44,04 mm
-	-
-	gesichert
-	10
-
-Gelegegröße
-	1 (selten 2) Eier
-	-
-	gesichert
-	4
-3. Der Mechanismus: Solargestützte Höhlenbrut
-Das zentrale biologische und ethologische Prinzip, das Dromas ardeola einzigartig unter allen Watvögeln macht, ist die Nutzung von Erdwärme und Sonnenstrahlung zur passiven Bebrütung der Eier in tiefen, selbst gegrabenen Sandhöhlen [Status: gesichert]2. Dieser Mechanismus der solargestützten Inkubation wurde maßgeblich in den Jahren 2008 bis 2012 durch ein Forscherteam um Giuseppe De Marchi, Giorgio Chiozzi und Mauro Fasola in den Brutgebieten am Persischen Golf und im Roten Meer (Eritrea) quantitativ erforscht [Status: gesichert]4.
-Der Mechanismus basiert auf einer präzisen ökologischen Kausalkette: Schritt A (Klimatische Limitierung): Die Brutgebiete des Reiherläufers auf küstennahen Inseln der Arabischen Halbinsel und Ostafrikas weisen extreme mikroklimatische Bedingungen auf. Die Umgebungstemperaturen an der Sandoberfläche können in der direkten Sonne Werte von 45 °C bis 55,56 °C erreichen [Status: gesichert]9. Derartige Temperaturen sind für die Embryonalentwicklung von Vögeln letal, da anhaltende Exposition bei über 40,5 °C zum Absterben des Embryos führt [Status: gesichert]9.
-Schritt B (Thermische Pufferung durch Architektur): Um diesen Bedingungen zu entgehen, graben die Vögel Tunnelsysteme in flache oder leicht abfallende Sandbänke, die sich ein bis drei Meter über der Hochwassermarke befinden [Status: gesichert]10. Die Ausgrabung beansprucht im Durchschnitt 2,82 ± 0,1 Tage [Status: gesichert]10. Die Höhle erstreckt sich über bis zu zwei Meter in die Tiefe, fällt vom Eingang her ab und vollzieht vor der eigentlichen Brutkammer eine 180-Grad-Wende [Status: gesichert]9. Messungen mit Temperaturloggern ergaben, dass die isolierenden Eigenschaften des Sandes in Kombination mit der indirekten solaren Erwärmung ein extrem stabiles und nahezu optimales Mikroklima erzeugen [Status: gesichert]9. Die Temperatur im Inneren der aktiven Bruthöhlen liegt konstant bei 35,0 ± 0,18 °C bis 35,2 ± 0,2 °C, gepaart mit einer relativen Luftfeuchtigkeit von 60,2 % ± 4,4 % [Status: gesichert]9.
-Schritt C (Minimierung elterlicher Investition): Die thermische Autarkie der Höhle reduziert die Notwendigkeit der klassischen Kontaktinkubation durch die Elterntiere drastisch. Die Elternvögel verbringen lediglich 28,3 % ihrer Zeit in der Höhle und tragen durch ihre Körperwärme nur etwa 0,8 °C zur Eierwärmung bei [Status: gesichert]14. Die Gelege können für Zeiträume von bis zu 58 Stunden am Stück unbewacht gelassen werden, ohne dass die Embryonalentwicklung Schaden nimmt [Status: gesichert]4.
-Schritt D (Maximierung der Nahrungssuche): Die Befreiung vom zeitintensiven Brutgeschäft ermöglicht es den adulten Vögeln, weite Strecken zu ihren Nahrungsgründen zurückzulegen und die zeitlich strikt limitierten Gezeitenzyklen (Ebbe) für eine ausgedehnte Nahrungssuche im Schlickwatt vollumfänglich auszunutzen [Status: gesichert]1.
-Konkurrierend oder ergänzend zur Thermoregulations-Hypothese wird in der Fachliteratur diskutiert, dass die Bruthöhlen primär dem Schutz vor Nesträubern (Prädatoren) dienen [Status: umstritten]9. Feldexperimente in Eritrea ergaben jedoch, dass eingeschleppte Hausratten (Rattus rattus) physisch nicht in der Lage sind, die massiven Schalen der Reiherläufer-Eier zu öffnen, was den Prädationsdruck durch Kleinsäuger relativiert [Status: gesichert]15. Die Nutzung von Erdwärme ist somit das treibende evolutionäre Element dieses Verhaltens, das abseits der Großfußhühner (Megapodiidae) in der Vogelwelt einzigartig ist [Status: gesichert]2.
+Königin (Gyne)
+	4,3 bis 4,4 mm
+	Transversaler Kopf, dicht behaart, Vorderflügel 3,5 bis 3,8 mm
+	Unbekannt
+3. Der Mechanismus
+Die ökologische und evolutionäre Sonderstellung von Crematogaster mimosae basiert auf einer obligaten mutualistischen Symbiose mit der Wirtspflanze Vachellia drepanolobium (Flötenakazie). Dieser Mechanismus sichert beiden Arten das Überleben in einem Umfeld mit hohem Fraßdruck durch Megaherbivoren. Die Symbiose wird durch zwei fundamentale Prinzipien angetrieben: Ein hochentwickeltes Vibrations- und Kommunikationssystem zur Feindabwehr sowie eine tripartite (dreigliedrige) agrarische Symbiose zur Nahrungsabsicherung.
+Der Verteidigungs- und Alarmmechanismus
+Die Ameisen nisten obligat in den hohlen, geschwollenen Dornen (Domatien) des Baumes12. Der Schutzmechanismus wird durch eine präzise Kausalkette ausgelöst, die mechanische und chemische Signale kombiniert.
+Vibrationserkennung (Schritt A): Nähert sich ein großer Herbivor (Elefant, Giraffe) und bricht Äste oder reißt Laub ab, entstehen spezifische Vibrationen im Holz. C. mimosae ist fähig, diese von Säugetieren verursachten Vibrationen exakt von windinduzierten Schwingungen zu unterscheiden14.
+Signalweiterleitung (Schritt B): Die pflanzengebundene Vibration durchläuft das gesamte Stamm- und Astwerk der Akazie und dient als akustisch-mechanisches Langstreckensignal. Selbst auf der dem Angreifer gegenüberliegenden Seite des Baumes registrieren die Ameisen das Signal in den Dornen14.
+Rekrutierung und chemischer Alarm (Schritt C): Die Ameisen evakuieren die Dornen schlagartig und sondern aus ihren Mandibeldrüsen ein flüchtiges Alarmpheromon ab, das eine Massenrekrutierung auslöst. Dieses Pheromon besteht zu 95 % aus zwei chemischen Verbindungen: 3-Octanon und 3-Octanol15. Quantifizierungen zeigen, dass eine Arbeiterin durchschnittlich 88 ng 3-Octanon und 75 ng 3-Octanol speichert15.
+Der physische Gegenangriff (Schritt D): Der Schwarm attackiert den Herbivoren massiv. Die Ameisen beißen sich fest und injizieren laut einer Beobachtung zusätzlich Ameisensäure in die Schleimhäute, Augen und den Rüssel der Elefanten17, obgleich die Gattung grundsätzlich über einen Giftstachel verfügt, mit dem sie bei der Insektenjagd Beute lähmt1. Der Fraßdruck durch Elefanten wird hierdurch um das 5- bis 7-Fache reduziert18. [Status: Mechanismus der Kausalkette und chemische Bestandteile gesichert; Nutzung von Ameisensäure umstritten (im Widerspruch zur typischen Crematogaster-Giftstachel-Anatomie)].
+Die tripartite Symbiose (Schildlauszucht)
+Das System birgt einen innewohnenden evolutionären Konflikt: Der Baum muss signifikante Kohlenstoffressourcen (in Form von extrafloralem Nektar) aufwenden, um die Ameisen zu füttern20. Produziert der Baum nicht genug, droht die Ameisenkolonie zu verhungern oder den Baum zu verlassen. C. mimosae umgeht diesen Engpass durch eine Kausalkette der landwirtschaftlichen Manipulation.
+Die Ansiedlung (Schritt A): Die Ameisen kultivieren heimlich pflanzensaugende Schildläuse der Familie Coccidae (primär Ceroplastes spp. und Hockiana insolitus) tief im Inneren der Domatien sowie an den Stängeln20.
+Die Ernte (Schritt B): Die Schildläuse entziehen dem Baum Phloem-Saft und scheiden kohlenhydratreichen Honigtau aus, welcher von den Ameisen geerntet (gemolken) wird20.
+Die Stabilisierung (Schritt C): In Zeiten, in denen der Baum die Produktion seines extrafloralen Nektars einstellt (etwa während der Trockenzeit), erhöhen die Ameisen die Dichte der Schildläuse und intensivieren die Pflege. Die Schildläuse fungieren als komplementäre Ressource, die den Ameisen das Überleben sichert20.
+Der Netto-Nutzen (Schritt D): Die Zucht der pflanzenschädigenden Schildläuse ist zwar ein metabolischer Kostenfaktor für die Akazie, jedoch überwiegt der Nutzen. Experimente des Forschers Todd M. Palmer (2018) belegen, dass ohne Schildläuse die Ameisenkolonien schrumpfen, das Aktivitätslevel pro Arbeiterin sinkt und die Elefantenschäden in der Folge um das 2,5-Fache ansteigen20. Die Schildlaus stärkt somit indirekt das Überleben des Baumes. [Status: Tripartiter Mechanismus gesichert].
+Der reproduktive Mechanismus
+Um die für die Baumverteidigung notwendige kritische Biomasse an Arbeiterinnen aufrechtzuerhalten, nutzt C. mimosae ein duales System aus sekundärer Polygynie und Polyandrie. In dem streng limitierten Nistraum der Domatien adoptieren etablierte Kolonien nach dem Hochzeitsflug junge, meist eng verwandte Königinnen (sekundäre Polygynie). Gleichzeitig paart sich jede dieser Königinnen mit mehreren Männchen (Polyandrie)12. Dieser Mechanismus führt zwar zu einer verringerten genetischen Verwandtschaft der Nestgenossinnen untereinander, garantiert jedoch eine explosionsartige Steigerung der Eiproduktion. Die resultierenden großen Koloniegrößen verschaffen C. mimosae den entscheidenden Vorteil bei territorialen Kämpfen gegen andere Ameisenarten12. [Status: gesichert].
 4. Ökologie und Verhalten
-Die Habitatwahl von Dromas ardeola fokussiert sich auf sandige Inselgruppen, Dünen, Flussmündungen (Ästuare), felsige und sandige Gezeitenzonen, exponierte Korallenriffe, Schlickwatt und Küstenlagunen [Status: gesichert]5. Der Tagesrhythmus der Art wird nicht primär vom Sonnenstand, sondern vom Gezeitenzyklus gesteuert. Nahrungsaufnahme und Ruhephasen (Roosting) alternieren strikt mit dem Tidenhub [Status: gesichert]21. Die Vögel jagen sowohl am Tag als auch in der Nacht, wobei sie nachts andere Bereiche des Watts nutzen als tagsüber [Status: gesichert]4. Die Ortung der Beute erfolgt vorwiegend visuell, während taktiles Sondieren im Schlamm mit dem Schnabel seltener angewandt wird und geringere Erfolgsquoten aufweist [Status: gesichert]21.
-Das Nahrungsspektrum besteht fast ausschließlich aus marinen Krabben. Bei Analysen in den Überwinterungsgebieten an der kenianischen Küste (Mida Creek) sowie in den Brutgebieten wurden kleine grabende Krabben (wie Macrophthalmus sulcatus und Macrophthalmus dentipes) sowie größere Schwimmkrabben (wie Portunus segnis) als Hauptnahrung identifiziert [Status: gesichert]20. Marine Würmer und kleine Muscheln ergänzen das Spektrum marginal [Status: gesichert]5. Nahrungsökologische Modellierungen zeigen, dass Reiherläufer bei leerem Magen kleinere Krabben bevorzugen, die sie im Ganzen verschlucken können. Mit zunehmender Magenfüllung wechseln sie zu größeren Krabben, die zwar aufwendig mit dem Schnabel zerlegt werden müssen, aber ein besseres Verhältnis von Nährstoffen zu anorganischer Masse (Sand, Schalen) aufweisen [Status: gesichert]22.
-Die Rufe der Vögel weisen eine dominante Frequenz von etwa 1,4 kHz auf [Status: gesichert]23. Akustisch äußert sich die Art in den Kolonien und Winterquartieren sehr lautstark mit rasch wiederholten "ka"-Rufen, die an Pfuhlschnepfen erinnern. Schwärme produzieren zudem ansteigende, wiehernde Laute und in der Brutzeit pfeifende "kew-ki-ki"-Noten [Status: gesichert]4.
-Saisonale Muster und Verhalten Ende September bis Anfang Oktober: In diesem Reisezeitraum haben die Vögel ihre Brutkolonien am Persischen Golf, im Roten Meer und am Horn von Afrika bereits verlassen. Ab August dispergieren sie über den Indischen Ozean und treffen in ihren Überwinterungsquartieren ein, zu denen die Küste Kenias gehört [Status: gesichert]4. Zu dieser Zeit lässt sich an der kenianischen Küste ein für Watvögel einmaliges Verhalten beobachten: die post-migratorische Brutpflege. Dromas ardeola ist die einzige bekannte Wasservogelart, die ihre Jungvögel auch nach Abschluss der wochenlangen Migration im Überwinterungsgebiet weiterhin mit Nahrung versorgt [Status: gesichert]10. Die Jungvögel betteln auf den Schlickflächen lautstark und erhalten von den Altvögeln durchschnittlich 0,1 Beutestücke pro Minute [Status: gesichert]13. Eigene Jagdversuche der Juvenilen sind in dieser Phase wenig effizient; sie nehmen pro Minute weniger als die Hälfte der Nahrungsmasse eines erwachsenen Vogels auf, da sie geringere Fangquoten erzielen und insbesondere bei im Schlamm verborgener Beute scheitern [Status: gesichert]21.
+Die autökologische und synökologische Verflechtung von C. mimosae ist extrem komplex. Die Art ist der absolute Schlussstein (Keystone Species) in ihrem Mikrohabitat.
+Lebensraum und Wirtspflanze: Der Lebensraum beschränkt sich auf die feinkörnigen, lehmigen Vertisole (sogenannte „black cotton soils“) in den Savannen Ostafrikas (Kenia, Tansania). Auf diesen Böden formt die Wirtspflanze Vachellia drepanolobium nahezu monospezifische Bestände, die über 95 % bis 99 % der holzigen Vegetation ausmachen4. Erhebungen aus Laikipia und Umgebung dokumentieren Baumdichten von 505 Bäumen pro Hektar (Mpala Research Centre) bis zu 1.090 Bäumen pro Hektar (Isinya Road)26. Die Kolonien von C. mimosae sind polydom, das heißt, eine einzelne Superkolonie erstreckt sich über die Kronen von 1 bis 5 Bäumen (Durchschnitt 4,5 Bäume), um ausreichend Nistraum in den geschwollenen Dornen zu sichern21. [Status: gesichert].
+Sozialverhalten und die Konkurrenzhierarchie: Ein einzelner Baum wird strikt nur von einer Ameisenart bewohnt. Es herrscht ein ständiger Verdrängungswettbewerb zwischen vier spezialisierten Arten, der durch eine lineare Konkurrenzhierarchie definiert ist: Crematogaster sjostedti > Crematogaster mimosae > Crematogaster nigriceps > Tetraponera penzigi29. Obwohl C. mimosae der dominierenden Art C. sjostedti in direkten Duellen oft unterliegt, ist sie die weitaus nützlichere Symbiontin für den Baum. C. mimosae besetzt etwa 40 % bis 50 % aller Bäume im Habitat21. Sie fördert die Kohlenstofffixierung des Baumes, stimuliert das Wachstum und reduziert die Mortalität der Akazien. Wird ein Baum von der dominanten C. sjostedti übernommen, steigt dessen Sterblichkeitsrate, da diese Art holzbohrende Käfer (Cerambycidae) duldet und den Baum schlechter verteidigt20. [Status: gesichert].
+Nahrung:
+Die Diät von C. mimosae ist omnivor und stark kohlenhydratbasiert. Sie besteht aus:
+Extrafloralem Nektar (EFN): Sekretionen der Blattstieldrüsen (bestehend aus Wasser, Saccharose, Glukose, Fruktose und Aminosäuren)30.
+Honigtau: Ausscheidungen der symbiontischen Schildläuse20.
+Tierischem Protein (Aas/Insekten): C. mimosae jagt in unmittelbarer Umgebung (Radius <1 m) des Wirtsbaumes auf dem Boden35. Die Beutedichte (Streu-Arthropoden) ist in der Nähe von Termitenhügeln (Odontotermes spp.) um das 2,5-Fache erhöht. Bäume, die nahe an solchen Hügeln wachsen, weisen folglich stärkere Ameisenkolonien auf36. [Status: gesichert].
+Fortpflanzung und Tagesrhythmus: Die Reproduktion erfolgt über den Hochzeitsflug (nuptial flight), bei dem begattete Gynen versuchen, Kolonien neu zu gründen oder in bestehende Kolonien (Pleometrose/Adoption) einzuwandern1. Konkurrenzkämpfe unter Gründerköniginnen enden meist tödlich. Der Tagesrhythmus richtet sich primär nach der Temperatur und dem Fraßdruck. Bei extremer Hitzeaussetzung (50° C über 70 Minuten) weist C. mimosae eine bemerkenswerte Überlebensrate von 82,5 % auf, was ihr erlaubt, auch während der heißen Tagesstunden auf den Ästen zu fouragieren38.
+Saisonale Muster: Fokus Ende September bis Anfang Oktober
+Im Reisezeitraum (24.09. bis 12.10.) befindet sich die Savanne am absoluten Ende der langen Trockenzeit. Die Regenfälle der kleinen Regenzeit stehen kurz bevor. Dieses Zeitfenster determiniert das Verhalten von C. mimosae fundamental:
+Wassermangel und Nektardrosselung: Die Akazien leiden unter Wasserstress und reduzieren die physiologisch aufwendige Produktion von extrafloralem Nektar auf ein Minimum20.
+Verlagerung der Nahrungsbeschaffung: Die Ameisen verlagern ihre Aktivitäten. Sie verbringen signifikant mehr Zeit im Inneren der schwarzen Dornen, wo sie die Schildlaus-Gärten intensivieren, melken und beschützen, um den systemischen Kohlenhydratverlust zu puffern20.
+Vorbereitung auf den Schwarmflug: In den Domatien werden in dieser Periode große Mengen an Geschlechtstieren (Männchen und Gynen) aufgezogen und gefüttert. Sobald die Niederschläge im späten Oktober einsetzen, triggert der weichere Boden (der sich für die Nistplatzsuche von ausfallenden Gründerköniginnen eignet) den synchronisierten Hochzeitsflug der Geschlechtstiere1. [Status: Kausalkette der saisonalen Umstellung gesichert; Trigger des Hochzeitsfluges durch Niederschlag vermutet].
+Abhängige Tierarten (Die Trittbrettfahrer):
+Trotz ihrer extremen Aggressivität gegenüber Säugetieren und anderen Ameisen wird C. mimosae von drei Tiergruppen parasitiert oder ausgenutzt:
+Avifauna (Vögel): Singvögel wie der Dreifarbenglanzstar (Lamprotornis superbus), der Graukopf-Sperling (Passer griseus) und der Graukappen-Marmoweber (Pseudonigrita arnaudi) bauen ihre Kugel- oder Napfnester bevorzugt in Akazien, die von C. mimosae oder C. nigriceps besiedelt sind. Von 60 untersuchten Nestern befanden sich 45 in C. mimosae-Bäumen. Die Vögel haben im Laufe der Evolution einen Mechanismus entwickelt, von den Ameisen nicht attackiert zu werden. Die Ameisen wehren im Gegenzug kletternde Prädatoren wie Ginsterkatzen (Genetta genetta), Schlangen und Schlankmangusten (Herpestes sanguineus) ab, was den Bruterfolg der Vögel drastisch erhöht13.
+Lepidoptera (Schmetterlinge): Die Bläulinge Anthene usamba und Anthene hodsoni sind obligate Myrmekophile. Die weiblichen Falter identifizieren den Geruch von C. mimosae und legen ihre Eier ausschließlich auf Bäumen ab, die von dieser Ameise besiedelt sind40. Die schlüpfenden Raupen dringen in die Domatien ein. Isotopenanalysen der Larven ($\delta^{15}$N) belegen, dass die Raupen keine Blätter fressen (aphytophag), sondern sich carnivor von den Eiern und Larven der Ameisen ernähren, oder sich von adulten Arbeiterinnen über Trophallaxis (Mund-zu-Mund) füttern lassen. Im Gegenzug lecken die Ameisen ein zuckerhaltiges Sekret vom dorsalen Nektarorgan der Raupen40.
+Coleoptera (Käfer): Eine Blattkäferart, Hockingia curiosa, lebt ebenfalls myrmekophil im Nestbereich und wurde bereits vor 60 Jahren in Tansania in Verbindung mit C. mimosae dokumentiert42. [Status: gesichert].
 5. Menschen und Kultur in Kenia
-Die Interaktion zwischen Mensch und Reiherläufer in Kenia ist primär durch ökologische Konflikte und Lebensraumüberschneidungen geprägt. Die Art nutzt an der kenianischen Küste stark frequentierte Zonen wie den Sabaki-Fluss, den Mtwapa Creek und den Bamburi Beach [Status: gesichert]24. In formellen Umwelt- und Sozialverträglichkeitsprüfungen (ESIA) für große Infrastrukturprojekte in Kenia – darunter die Errichtung einer KETRACO 220kV-Hochspannungsleitung zwischen Malindi und Kilifi sowie der Bau einer LPG-Gasanlage (Eleven Energy) in Kipevu, Mombasa – wird der Reiherläufer explizit als Teil der betroffenen Avifauna in den Mangroven- und Küstenökosystemen gelistet [Status: gesichert]27. Zu den dokumentierten anthropogenen Bedrohungen an diesen kenianischen Küstenabschnitten zählen die Abholzung von Mangrovenwäldern, Störungen durch touristische Aktivitäten an den Stränden sowie die lokale Fischerei [Status: gesichert]29.
-In den Brutgebieten außerhalb Kenias (Eritrea, Kuwait, Iran) ist die Entnahme der Eier durch lokale Fischer ein historisch verankertes Verhalten und eine dokumentierte Hauptursache für Brutverluste [Status: gesichert]10. Hinsichtlich einer rituellen, medizinischen oder mythologischen Bedeutung des Reiherläufers in den Überlieferungen kenianischer Küstengemeinschaften (wie den Mijikenda oder Swahili) existieren in den gesichteten ethnologischen und ornithologischen Aufzeichnungen keine Belege [Status: unbekannt]. Lediglich der lokale Swahili-Name "Ndoero" belegt die linguistische Verankerung der Art in der Region [Status: gesichert]7.
-Die globale Population der Art wird auf 60.000 bis 80.000 Individuen geschätzt, wobei Langzeitstudien im Oman (Barr Al Hikman) eine stabile Bestandsentwicklung nahelegen [Status: gesichert]13. Die International Union for Conservation of Nature (IUCN) stuft den Reiherläufer in ihrer Roten Liste (Stand 2019) als "Least Concern" (Nicht gefährdet) ein [Status: gesichert]4. Die Art fällt zudem unter den Schutz des Afrikanisch-Eurasischen Wasservogelabkommens (AEWA) [Status: gesichert]4.
+Die Interaktion zwischen C. mimosae und dem Menschen ist subtil, aber aufgrund der ökologischen Dominanz der Ameise von weitreichender wirtschaftlicher und landwirtschaftlicher Relevanz.
+Anthropogene Nutzung und Mythologie: Während der Baum Vachellia drepanolobium bei den lokalen Gemeinschaften wie den Maasai vielfältig genutzt wird (Das Holz dient als Feuerholz, die Zweige für Einzäunungen und das Baumgummi wird verzehrt)5, gibt es in den vorliegenden Daten keine Belege für eine direkte menschliche Nutzung der Ameise (weder als Nahrungsquelle noch in der traditionellen Medizin). Ebenso fehlen Belege für Mythen, Überlieferungen oder Sprichwörter, die sich spezifisch auf C. mimosae beziehen. [Status: Menschliche Nutzung und Folklore nicht belegt].
+Die Ernährung von Primaten (Human-Wildlife-Conflict Kontext): Im peripheren Spannungsfeld der Landnutzung spielen die Ameisen eine zentrale Rolle für Primaten. Husarenaffen (Erythrocebus patas) und Südliche Grünmeerkatzen (Chlorocebus pygerythrus) konsumieren neben dem Baumgummi aktiv große Mengen der Ameisen10. Die Affen brechen die geschwollenen Dornen auf. Ein einzelner Dorn liefert durchschnittlich 0,183 bis 0,253 g Trockenmasse an Ameisen (ca. 188-261 Individuen). C. mimosae weist einen extrem hohen Zinkgehalt von bis zu 150 mg/kg auf, was den Minimalbedarf von Primaten (100 mg/kg) weit übertrifft10. Diese protein- und mineralstoffreiche Nahrung ermöglicht es dem Husarenaffen, trotz seines Gewichts (6,5 bis 12,4 kg) eine Ernährung aufrechtzuerhalten, die evolutionär eigentlich nur kleinen Primatenarten (< 500 g) vorbehalten ist10. [Status: gesichert].
+Historische Ereignisse und Kaskadeneffekte: Die bedeutendste historische und ökologische Entwicklung der jüngeren Zeit ist eine vom Menschen eingeschleppte Invasion, die den Tourismus und die Weidewirtschaft in Laikipia tangiert. Die invasive Großkopfameise (Pheidole megacephala) breitet sich seit etwa dem Jahr 2000 (mit einer Geschwindigkeit von 50 Metern pro Jahr) auf den Ranches in Laikipia (u.a. Ol Pejeta Conservancy, Lewa Conservancy) aus18. Die invasiven Ameisen greifen die Wirtsbäume an, töten die Kolonien von C. mimosae und fressen deren Brut. P. megacephala verteidigt die Bäume im Anschluss jedoch nicht gegen Säugetiere. Dieser Bruch der Symbiose (Mutually Assured Disruption) löst einen massiven Dominoeffekt aus, der 2024 in der Fachzeitschrift Science publiziert wurde17:
+Kaskadenstufe
+	Ökologischer Vorgang (Region Laikipia, ab ca. 2000)
+
+Invasion
+	P. megacephala löscht C. mimosae auf der Akazie vollständig aus.
+
+Pflanzenfraß
+	Ohne Ameisenschutz steigt die Zerstörungsrate der Bäume durch Elefanten um das 5- bis 7-Fache.
+
+Landschaft
+	Die Baumkronen verschwinden, die Savanne wird zu offenem, deckungslosem Grasland.
+
+Prädatoren
+	Löwen verlieren die Tarnung für den Hinterhalt.
+
+Konsequenz
+	Die Jagd auf Zebras fällt von 67 % auf 42 %. Löwen jagen stattdessen Büffel (Anstieg von 0 % auf 42 %).
+[Status: Kaskadeneffekt gesichert durch Palmer et al. 2024].
+Feuerökologie und Landmanagement: Ein weiteres von Menschen gesteuertes Element ist das Legen von Savannenfeuern (Prescribed burns) zur Weidepflege. Das SAFE-Experiment untersuchte die Widerstandsfähigkeit der Ameisen. Es zeigte sich, dass C. mimosae bei der Wahrnehmung von Rauch nur mäßig reagiert. Die unterlegene Art C. nigriceps evakuiert die Dornen bei Rauchentwicklung doppelt so schnell wie C. mimosae (Flucht in Bodenrisse). Auf Flächen, die vor 6 bis 7 Jahren abgebrannt wurden, nahm der Anteil der von C. nigriceps besetzten Bäume um 147 % zu, während C. mimosae durch die Feuermortalität stark dezimiert wurde. Feuer stört somit das Gleichgewicht zugunsten schwächerer Arten47. [Status: gesichert].
+Schutzstatus: Es existiert keine offizielle Einstufung auf der IUCN Red List für C. mimosae. Auf globaler Ebene ist die Art durch ihre Dominanz in Ostafrika nicht bedroht, lokal erleidet sie jedoch durch die Pheidole-Invasion einen signifikanten Bestandseinbruch in Kenia18. [Status: IUCN Status unbekannt; lokaler Rückgang gesichert].
 6. Wissenschaftsgeschichte
-Nach der Erstbeschreibung durch Gustaf von Paykull im Jahr 1805 blieb die phylogenetische Einordnung des Reiherläufers über mehr als zwei Jahrhunderte eines der großen Rätsel der Ornithologie [Status: gesichert]2. Aufgrund seiner einzigartigen Morphologie – dem an einen Reiher erinnernden Schnabel, dem möwenähnlichen Flug und den ploverartigen Beinen – wurde er taxonomisch isoliert in die monotypische Familie der Dromadidae gestellt [Status: gesichert]4. Historisch vermutete man Verwandtschaften zu den Triefaugen (Burhinidae), Säbelschnäblern (Recurvirostridae) oder Alken und Möwen [Status: gesichert]21.
-Die systematische Debatte wurde erst im 21. Jahrhundert durch aufwendige molekulargenetische Studien gelöst. Während die Ordnung der Regenpfeiferartigen (Charadriiformes) in die Unterordnungen Scolopaci, Charadrii, Chioni, Turnici und Lari gegliedert ist, konnten Studien von Paton et al. (2003), Fain und Houde (2007) sowie abschließend Pereira und Baker (2010) den Reiherläufer eindeutig positionieren [Status: gesichert]31. Die DNA-Analysen nuklearer und mitochondrialer Loci belegten, dass Dromas ardeola die Schwestergruppe der Brachschwalbenartigen (Glareolidae) ist und somit zur Unterordnung Lari (Möwenverwandte) gehört [Status: gesichert]4.
-In Bezug auf Kenia ist eine wissenschaftliche Feldstudie von zentraler Bedeutung: Im Jahr 1996 publizierten die Forscher Mauro Fasola, L. Canova und L. Biddau im Colonial Waterbirds Journal ihre Studie "Foraging Habits of Crab Plovers Dromas ardeola Overwintering on the Kenya Coast". Diese Untersuchungen am Mida Creek und Sabaki-Fluss legten den Grundstein für das moderne Verständnis der Gezeitenabhängigkeit und des nächtlichen Beutefangs der Art im ostafrikanischen Winterquartier [Status: gesichert]21.
+Das taxonomische und ökologische Wissen über Crematogaster mimosae formte sich in drei Phasen.
+Die Pionierzeit (1911-1914): Die formale Erstbeschreibung der Art erfolgte im Jahr 1914 durch den Schweizer Arzt und Ameisenforscher Felix Santschi1. Santschi bearbeitete das gesammelte Material der bedeutenden französischen Expedition "Voyage de Ch. Alluaud et R. Jeannel en Afrique Orientale (1911-1912)"3.
+Die Entdeckung der Symbiose (1970er Jahre): Der Entomologe B. Hocking beschrieb 1970 als einer der ersten das System der Ameisen-Akazien-Symbiose auf der Athi-Ebene und legte den Grundstein für das Verständnis der Verflechtungen. Wenig später (1975) identifizierten Wood und Chong die exakten biochemischen Bestandteile (3-Octanon) des Alarmpheromons15.
+Die Ära des Mpala Research Centre (1995-heute): Das tiefe Verständnis der Populationsdynamik, der Konkurrenzhierarchie und der Kaskadeneffekte ist das Resultat der Forschung amerikanischer und kenianischer Wissenschaftler am Mpala Research Centre in Laikipia. Namentlich Truman P. Young, Maureen L. Stanton, Todd M. Palmer und Jacob R. Goheen prägen die Forschung22.
+KLEE-Experiment (Kenya Long-Term Exclosure Experiment): Begonnen 1995. Großflächen wurden eingezäunt, um Wildtiere über 15 kg fernzuhalten. Palmer et al. publizierten 2008 in Science (Breakdown of an Ant-Plant Mutualism), dass die Wirtsbäume ohne Elefanten und Giraffen die Nektarproduktion einstellen, was dazu führt, dass C. mimosae verhungert oder abwandert und die Akazien an nutzlose Parasiten-Ameisen (C. sjostedti) verloren gehen und absterben51.
+SAFE-Experiment (Scale and Fire Ecology): Parzellen von 1 bis 81 Hektar wurden kontrolliert abgebrannt, um die Feuerökologie der Insekten zu erforschen47.
+Die Pheidole-Invasion: Im Januar 2024 veröffentlichten Palmer und Goheen in Science den ultimativen Nachweis, wie das Fehlen von C. mimosae die Jagdstrategie der Löwen verändert17. [Status: Historie und Studienlage gesichert].
 7. Fotografie
-Die kenianische Küste bietet für die Naturfotografie im September und Oktober verlässliche Beobachtungspunkte. Gesicherte Sichtungen konzentrieren sich auf die Gezeitenzonen am Bamburi Beach, den Mtwapa Creek sowie nördlich davon auf die Sabaki-Flussmündung bei Malindi und den Mida Creek [Status: gesichert]24.
-Die Planung fotografischer Exkursionen muss sich zwingend nach den lokalen Gezeitentabellen richten. Die Vögel können nur bei Ebbe auf den exponierten Schlick- und Sandbänken bei der Jagd beobachtet werden. Bei Flut weichen sie auf geschützte Ruheplätze in den Randbereichen der Mangroven aus oder drängen sich an hochgelegenen Sandbänken zusammen, was dynamische Verhaltensaufnahmen erschwert [Status: gesichert]21. Ein typischer Fehler bei der Annäherung ist das direkte Zugehen auf die Vögel im offenen Watt, was die Fluchtdistanz unterschreitet und zum sofortigen Auffliegen der Schwärme führt [Status: gesichert]19.
-Das Abwarten in geduckter Position lohnt sich insbesondere für zwei Verhaltensweisen: Das Aufbrechen von großformatigen Schwimmkrabben mit dem Schnabel sowie die Fütterung der bettelnden Jungvögel durch die Eltern, welche eine der ornithologischen Raritäten dieser Spezies darstellt [Status: gesichert]9. Für die Ausrüstung empfiehlt sich zwingend das Teleobjektiv mit 150 bis 600 mm Brennweite, um das Nahrungsverhalten formatfüllend und störungsfrei zu dokumentieren [Status: gesichert aus fotografischer Praxis]. Das kürzere 100 bis 400 mm Objektiv eignet sich hervorragend für Flugaufnahmen, wenn die Vögel in ihren charakteristischen V-Formationen über das Wasser ziehen [Status: gesichert]4. Um das schnelle Zustoßen in den Schlick oder Flugbewegungen scharf abzubilden, sind sehr kurze Verschlusszeiten erforderlich; dokumentierte, scharfe Aufnahmen der Art an der kenianischen Küste wurden mit Parametern von 1/1000 bis 1/2000 Sekunde bei Blende f/8 oder f/9 und ISO 250 realisiert [Status: gesichert]37.
+Die Umsetzung der Fotografie im Zeitraum Ende September bis Anfang Oktober erfordert Vorbereitung, da sich die Ameisen zum Schutz vor Trockenheit tiefer in den Domatien aufhalten.
+Orte und Tageszeit: Entlang der geplanten Route von Nyahururu über Rumuruti bis Nanyuki, insbesondere auf den Flächen der Ol Pejeta Conservancy und im Umfeld des Mpala Research Centre, ist die Art allgegenwärtig. Vachellia drepanolobium wächst hier flächendeckend auf den schwarzen Tonböden. Die höchste externe Aktivität der Arbeiterinnen ist in den kühleren Morgenstunden und am späten Nachmittag zu erwarten, obwohl C. mimosae Temperaturen bis 50° C toleriert20. [Status: gesichert].
+Verhalten und Abwarten: Das lohnendste Motiv ist die chemische Alarmreaktion (die "Cocktail-Pose"). Ein leichtes Rütteln an einem Akazienast simuliert den Fraß eines Säugetiers. Binnen Sekundenbruchteilen registrieren die Ameisen die Vibration, strömen aus dem Einflugloch des schwarzen Dorns, biegen ihren Gaster nach oben und öffnen die Mandibeln, um Pheromone freizusetzen1. Das Warten an einem Baum mit Vogelnestern (Graukappen-Marmoweber) bietet die Chance, die friedliche Koexistenz von Vögeln und patrouillierenden Ameisen abzulichten13.
+Fluchtdistanz und typische Fehler:
+Es gibt keine Fluchtdistanz. Im Gegenteil: C. mimosae sucht aktiv den Konflikt und lässt sich von Ästen auf Angreifer fallen. Ein typischer Fehler von Fotografen ist das Ablehnen an den Baum oder das unbedachte Abstellen von Fotoausrüstungstaschen im Wurzelbereich; die Ameisen infiltrieren das Material sofort.
+Objektive und Verschlusszeiten:
+Das 45-mm-Objektiv ist (sofern es Makro-Fähigkeiten besitzt) die einzige Wahl, um die 3 bis 4 mm kleinen Arbeiterinnen formatfüllend zu dokumentieren.
+Für die rasante Laufgeschwindigkeit alarmierter Ameisen sind Verschlusszeiten von mindestens 1/1000 s, bei starken Vergrößerungen 1/2000 s erforderlich (oft nur durch den Einsatz von Systemblitzen erreichbar, da Makroaufnahmen geschlossene Blenden für Schärfentiefe bedingen).
+Die Teleobjektive (100–400 mm und 150–600 mm) sind nicht für die Insektenfotografie geeignet, jedoch ideal, um aus sicherer Distanz Dreifarbenglanzstare am Nest im Ameisenbaum oder Elefanten beim vorsichtigen Fressen der Akazie zu fotografieren. [Status: basierend auf fotografischen Standards und verhaltensbiologischen Parametern abgeleitet].
 8. Links zum Weiterlesen und Sehen
-Fachliche Quelle: GBIF (Global Biodiversity Information Facility) – Bietet eine detaillierte taxonomische Datenbank und Synonym-Übersicht zum Reiherläufer. https://www.gbif.org/taxon/37PLT3
-Fachliche Quelle (Morphologie & Taxonomie): Avibase (The World Bird Database) – Listet alle taxonomischen Konzepte, globale Trivialnamen und verweist auf die Erstbeschreibung von Paykull (1805). https://avibase.bsc-eoc.org/species.jsp?avibaseid=C3E33FEBDE75219B2
-Fachartikel (Ökologie): PLOS ONE – Detaillierte wissenschaftliche Untersuchung zum Beutewahlverhalten des Reiherläufers in Abhängigkeit vom Magenfüllstand (Contingency Model vs. Digestive Rate Model). https://journals.plos.org/plosone/article?id=10.1371/journal.pone.019482422
-Fotos: Wikimedia Commons – Hochauflösende Dokumentation eines Reiherläufers im charakteristischen Küstenhabitat Kenias, welche die fotografischen Parameter (1/1000 Sekunde, f/9) illustriert. https://commons.wikimedia.org/wiki/File:Dromas_ardeola_Kenya_1.jpg37
+Fachliche Quelle (Breakdown of Mutualism):
+https://www.science.org/doi/10.1126/science.1151579 Der Science-Fachartikel von Todd M. Palmer et al. (2008), der den Zusammenbruch der Ameisen-Baum-Symbiose nach dem Ausschluss großer Pflanzenfresser (KLEE-Experiment) quantifiziert.51.
+Fachliche Quelle (Scale Insects / Tripartite Symbiose):
+http://www.priorecologylab.com/uploads/2/6/0/3/26035694/prior___palmer_2018.pdf Die detaillierte Publikation von Prior & Palmer (2018), die belegt, dass Schildläuse keinen Parasiten darstellen, sondern die C. mimosae-Kolonie bei Nektarmangel vor dem Verhungern retten.21.
+Fachliche Quelle (Ökologie und Konkurrenzhierarchie):
+https://www.cambridge.org/core/books/antplant-interactions/integrating-ecological-complexity-into-our-understanding-of-antplant-mutualism-antacacia-interactions-in-african-savannas/30FD8E041CB27D8B8BF90236923A3274 Umfassendes Buchkapitel der Cambridge University Press (2017) zur ökologischen Komplexität, den Hierarchien und der Feuerökologie der Akazien-Ameisen in Laikipia.22.
+Fotos und Taxonomie (Wikimedia Species):
+https://species.wikimedia.org/wiki/Crematogaster_mimosae Taxonomisches Verzeichnis mit Verweis auf die Santschi-Erstbeschreibung von 1914 aus der Ostafrika-Expedition.3.
+Fotos und Ökologie des Wirtsbaumes (Wikipedia):
+https://en.wikipedia.org/wiki/Vachellia_drepanolobium Übersichtliche Beschreibung der Wirtspflanze mit Fotos der markanten schwarzen Dornen, auf denen sich die Ameisen aufhalten, sowie Erläuterungen zu den chemischen Alarmstoffen.54.
 9. Visuelle Beschreibung für eine Illustration
-The Crab-plover is a medium-sized, strikingly pied wading bird characterized by a very upright posture, a long, extended neck, and exceptionally long, bluish-grey legs ending in partially webbed toes. The body plumage is predominantly pure white, contrasting sharply with a solid black mantle (back) and black primary flight feathers. Its most unmistakable feature is a massive, laterally compressed, heavy black bill that is exceptionally stout for a wader, explicitly evolved for crushing crab shells. In non-breeding plumage (as typically seen in Kenya during October), the otherwise white head and nape are heavily streaked with pale grey.
+The worker ant exhibits a striking bicolored appearance, characterized by a smooth, deep reddish-brown head and thorax that contrast sharply with a jet-black, distinctively heart-shaped abdomen (gaster). The head surface is completely covered with dense, fine longitudinal ridges (rugulose texture), and two long, acutely pointed spines project upward and backward from the rear of the thorax (propodeum). When in its signature defensive posture, the ant fiercely raises its dark gaster upwards and forwards over its thorax, mandibles wide open to release alarm pheromones.
 Detailvorschläge:
-Adult bill profile in macro, highlighting the robust, heavy structure clamping down on a fragmented crab carapace.
-A single juvenile contour feather from the mantle, showing the pale, ashy-grey coloration that distinguishes it from the adult's stark black mantle.
-The footprint in tidal mud, emphasizing the partially webbed structure between the front toes, an anomaly among similar shorebirds.
-Kulturelle Vignette: A traditional Swahili lema (hexagonal woven wooden crab trap) resting in the shallow intertidal waters of Mtwapa Creek, structurally mirroring the bird's own dietary focus on local crab populations.
+Rindenstruktur & Domatium: A macro close-up of the smooth, pale gray bark transitioning into a swollen, bulbous black stipular thorn, punctured by a single tiny, circular entrance hole chewed by the ants.
+Schildlaus-Garten: A detailed cross-section of the hollow thorn's interior, revealing a cluster of small, waxy scale insects (Ceroplastes sp.) clinging to the inner wall, delicately tended by an ant harvesting a droplet of honeydew.
+Flugbild der Gyne: A highly detailed depiction of a winged queen ant, showcasing her broad, transversal head and the delicate, transparent 3.8 mm forewings reflecting the harsh savanna light just before her nuptial flight.
+Kulturelle Vignette:
+A traditional, hand-carved Maasai wooden walking stick (rungu) resting on the cracked, dry black cotton soil near the base of an Acacia tree, symbolizing the shared, parched landscape of Laikipia at the end of the dry season.
 10. Was du nicht belegen konntest
-Lokale Trivialnamen in Kenia: Außerhalb der dokumentierten Swahili-Bezeichnung (Ndoero) konnten im bereitgestellten Material keine Namen für die Sprachen Maa, Kikuyu, Samburu, Giriama oder Kamba verifiziert werden.
-Mythen, Rituale und Sprichwörter: Es fanden sich in den Daten keinerlei historische oder zeitgenössische Belege dafür, ob der Reiherläufer in den Überlieferungen kenianischer Küstengemeinschaften (z. B. der Mijikenda oder Swahili) eine mythologische oder rituelle Rolle spielt.
-Audio- und Karten-URLs (Direktlinks): Spezifische, aufgerufene URL-Strings zu Tonaufnahmen bei xeno-canto, der Macaulay Library oder interaktiven eBird-Verbreitungskarten fehlten im Rohmaterial und wurden daher zur strikten Vermeidung konstruierter Adressen weggelassen.
-Spezifische Orte im Großraum Mombasa: Während der Bamburi Beach und der Mtwapa Creek klar als Beobachtungsorte für Watvögel belegt sind, ließen sich Sichtungen exakt für das Nguuni Nature Sanctuary und den Mombasa Marine National Park aus den bereitgestellten Quellen nicht isoliert für diese Art bestätigen.
-Lokale Bestandszahlen Kenia: Präzise, mit Jahreszahlen versehene Zensus-Daten für die rein kenianische Überwinterungspopulation waren nicht ableitbar; es lagen lediglich globale Bestandsschätzungen sowie Zählungen aus Brutgebieten vor.
-Works cited
-Crab Plover Dromas ardeola Paykull, 1805 (Aves: Charadriiformes, https://www.threatenedtaxa.org/index.php/JoTT/article/view/8680
-Dromas ardeola (Crab-plover) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=C3E33FEBDE75219B
-Dromas ardeola Paykull, 1805 - GBIF, https://www.gbif.org/taxon/37PLT
-Crab-plover - Wikipedia, https://en.wikipedia.org/wiki/Crab-plover
-Birds of India | Bird World: Crab-plover, https://indianbirds.thedynamicnature.com/2017/06/crab-plover-dromas-ardeola.html
-Reiherläufer - Safari Afrika, https://www.safari-afrika.de/tierwelt/voegel/reiherlaeufer/
-crab plover - English-Swahili dictionary - Glosbe, https://glosbe.com/en/sw/crab%20plover
-List of birds of Kenya - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Kenya
-Sex differences and breeding ecology of a burrow ... - ResearchGate, https://www.researchgate.net/publication/283573514_Sex_differences_and_breeding_ecology_of_a_burrow-breeding_shorebird_the_Crab_Plover_Dromas_ardeola
-Breeding Biology of the Crab Plover (Dromas ardeola) on the Mond, https://bioone.org/journals/waterbirds/volume-36/issue-4/063.036.0402/Breeding-Biology-of-the-Crab-Plover-Dromas-ardeola-on-the/10.1675/063.036.0402.full
-(PDF) Sex discrimination of crab plovers (Dromas ardeola) by, https://www.researchgate.net/publication/232768974_Sex_discrimination_of_crab_plovers_Dromas_ardeola_by_discriminant_function_analysis_of_morphometric_traits
-Category:Dromas ardeola - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Dromas_ardeola
-Post‐migratory care of young by Crab Plovers Dromas ardeola, https://www.researchgate.net/publication/230163796_Post-migratory_care_of_young_by_Crab_Plovers_Dromas_ardeola
-Solar incubation cuts down parental care in a burrow nesting, https://agris.fao.org/search/en/providers/122535/records/65df59e9b766d82b18016782
-Nesting, overwintering, and conservation of the Crab Plover Dromas, https://www.researchgate.net/publication/229926426_Nesting_overwintering_and_conservation_of_the_Crab_Plover_Dromas_ardeola_in_central_Eritrea
-High atmospheric temperatures and 'ambient incubation' drive, https://royalsocietypublishing.org/rsos/article/3/2/150371/36487/High-atmospheric-temperatures-and-ambient
-Migration of Crab Plovers Dromas ardeola Wintering at Barr Al, https://www.vliz.be/imisdocs/publications/ocrd/61/418961.pdf
-More than a simple egg: Underlying mechanisms of cold tolerance, https://www.sciopen.com/article/10.1016/j.avrs.2023.100104
-the breeding biology of the crab plovers (dromas ardeola ) in eritrea, https://www.researchgate.net/publication/262818362_THE_BREEDING_BIOLOGY_OF_THE_CRAB_PLOVERS_DROMAS_ARDEOLA_IN_ERITREA
-Counts and breeding biology of Crab Plovers Dromas ardeola on, https://www.researchgate.net/publication/286446632_Counts_and_breeding_biology_of_Crab_Plovers_Dromas_ardeola_on_Bubiyan_Islands_Kuwait_in_2012-2014
-Foraging Habits of Crab Plovers Dromas ardeola Overwintering on, https://www.researchgate.net/publication/272588994_Foraging_Habits_of_Crab_Plovers_Dromas_ardeola_Overwintering_on_the_Kenya_Coast
-Stomach fullness shapes prey choice decisions in crab plovers, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194824
-I drew and colored the species of crane-like dove that is ecologically, https://www.facebook.com/groups/313857163038767/posts/1267788687645605/
-Report on the Conservation Status of Migratory Waterbirds in the, https://www.unep-aewa.org/sites/default/files/publication/ts1_conservation_status_report_wi_0.pdf
-Waders on the Coast of Kenya: January 1979 - Digital Commons, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1390&context=wsg_bulletin
-Common Ostrich – Struthio camelus massaicus: - camacdonald.com, https://www.camacdonald.com/birding/africakenyaRheindttripreport.htm
-Environmental Social Impact Assessment (ESIA) Study Report. For, https://nema.go.ke/wp-content/uploads/2025/03/ESIA-2049-Report-Eleven-Energy-LTD-32000MT-LPG-pLANT-Kipevu-Mombasa.pdf
-ESIA report for proposed Malindi-Weru-Kilifi 220 kV Transmission line, https://www.ketraco.co.ke/sites/default/files/reports/ESIA_Malindi_Kilifi_220kV_TL.pdf
-Malindi-Kilifi ESIA Report Summary | PDF - Scribd, https://www.scribd.com/document/937278631/ESIA-1915-Malindi-to-Kilifi-KESIP-Sub-Station-SR-2463-min
-Crab-Plover family Dromadidae - Creagrus @ Monterey Bay, http://creagrus.home.montereybay.com/crabplover.html
-Phylogeny of Charadriiformes. Optimal maximum likelihood, https://www.researchgate.net/figure/Phylogeny-of-Charadriiformes-Optimal-maximum-likelihood-phylogenetic-reconstruction-of_fig3_6461255
-Charadriiformes (shorebirds) - bird-phylogeny, https://www.bird-phylogeny.de/superorders/cursorimorphae/charadriiformes/
-TiF Checklist: GRUAE II: Charadriiformes - John H. Boyd III, http://jboyd.net/Taxo/List9a.html
-TiF Checklist: GRUAE II: Charadriiformes, http://john-boyd.com/Taxo/List7a.html
-Grey Plover - Facebook, https://www.facebook.com/groups/269756666197256/posts/879514121888171/
-Crane Beach Sony a7iii MMB Photography - Facebook, https://www.facebook.com/groups/myveryownclicks/posts/1967788430011220/
-File:Dromas ardeola Kenya 1.jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Dromas_ardeola_Kenya_1.jpg
-Where to spot Crab Plover in Inhambane and Tofo? - Facebook, https://www.facebook.com/groups/aacem/posts/1484776754954913/
+Die Auswertung der Quellenlage ergab zu folgenden Anforderungen des Prompts keine belastbaren Daten:
+Indigene Namen der Ameise: Das Material beinhaltet ausschließlich die Maa-Namen für den Wirtsbaum (ol-kine lo luai, e-luai, e-merumori, e-ronkan). Es existieren keine verifizierbaren Bezeichnungen auf Maa, Kikuyu, Samburu, Giriama oder Kamba für das Insekt Crematogaster mimosae selbst.
+Mythen, Überlieferungen und menschliche Nutzung: Die Quellen sind rein akademisch und ökologisch fokussiert. Es liegen keine Daten zu mythologischen Rollen, Sprichwörtern, Ritualen oder zur direkten Nutzung der Ameise (als Medizin oder Nahrung) durch die indigene Bevölkerung vor.
+Millimeter-Maße der Arbeiterinnen: Während das Trockengewicht der Arbeiterinnen (0,00078 g) akkurat publiziert ist, fehlen exakte Längenangaben für diese Kaste in den taxonomischen Snippets. Millimeter-Maße liegen nur für die Königin (4,3 - 4,4 mm) vor.
+Wörtliche Etymologie von "mimosae": Obwohl sich das Suffix logisch auf die Wirtspflanze (damals Mimosen-Unterfamilie) bezieht, bricht das entsprechende Snippet zur Etymologie vor einer definitiven Bestätigung der Intention Santschis von 1914 ab.
+Audioaufnahmen (xeno-canto): Wie gefordert, wurde nach Links für Vögel gesucht, bei Insekten existieren in den Datenbanken jedoch keine zugänglichen akustischen Repositorien für die pflanzengebundenen Vibrationsgeräusche der Ameisen.
+Kategorie
+	Fehlende Daten
+	Begründung laut Quellenlage
+
+Lokale Namen
+	Ameisen-Bezeichnungen
+	Ausschließlich botanische Maa-Namen (Baum) dokumentiert.
+
+Kultur
+	Rituale, Sprichwörter, Nutzung
+	Rein entomologisch/ökologischer Fokus der Literatur.
+
+Biometrie
+	mm-Länge der Arbeiterinnen
+	Nur Gewichtsdaten und Königinnen-Maße vorhanden.
+
+Etymologie
+	Wörtliche Definition "mimosae"
+	Beleg bricht ab; Deduktion weist auf Wirtspflanze hin.
+Referenzen
+Crematogaster - Wikipedia, https://en.wikipedia.org/wiki/Crematogaster
+(PDF) Crematogaster dhofarensis, a new ant species (Hymenoptera, https://www.researchgate.net/publication/391233452_Crematogaster_dhofarensis_a_new_ant_species_Hymenoptera_Formicidae_from_Oman
+Crematogaster mimosae - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Crematogaster_mimosae
+obligate acacia ants provide different levels of protection against, https://www.researchgate.net/publication/230529786_Not_all_ants_are_equal_Obligate_acacia_ants_provide_different_levels_of_protection_against_mega-herbivores
+Plants of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/plants-of-maasai.html
+(PDF) Review of the Arabian Crematogaster Lund (Hymenoptera, https://www.researchgate.net/publication/337873371_Review_of_the_Arabian_Crematogaster_Lund_Hymenoptera_Formicidae_synoptic_list_distribution_and_description_of_two_new_species_from_Oman_and_Saudi_Arabia
+Ants on swollen-thorn acacias: Species coexistence in a simple, https://www.researchgate.net/publication/202001864_Ants_on_swollen-thorn_acacias_Species_coexistence_in_a_simple_system
+Journal of Hymenoptera research, https://archive.org/download/biostor-357/biostor-357.pdf
+Arthropods 4 - WAYNE'S WORD, https://www.waynesword.net/redmite8a.htm
+(PDF) Nutritional benefits ofcrematogaster mimosaeants andacacia, https://www.researchgate.net/publication/234031714_Nutritional_benefits_ofcrematogaster_mimosaeants_andacacia_drepanolobiumgum_for_patas_monkeys_and_vervets_in_laikipia_Kenya
+Revision of the non-Afrotropical species of Trigastrotheca Cameron, https://www.researchgate.net/publication/314352977_Revision_of_the_non-Afrotropical_species_of_Trigastrotheca_Cameron_Hymenoptera_Braconidae_Braconinae_with_descriptions_of_four_new_species
+Polygyny in the nest-site limited acacia-ant Crematogaster mimosae, https://www.researchgate.net/publication/257320066_Polygyny_in_the_nest-site_limited_acacia-ant_Crematogaster_mimosae
+Ants help protect bird nests in musical African acacia trees, https://kids.mongabay.com/ants-help-protect-bird-nests-in-musical-african-acacia-trees/
+Acacia Ants Respond to Plant-Borne Vibrations Caused by, https://www.researchgate.net/publication/331107806_Acacia_Ants_Respond_to_Plant-Borne_Vibrations_Caused_by_Mammalian_Browsers
+Alarm Pheromones from East African Acacia Ants - ResearchGate, https://www.researchgate.net/publication/264120160_3-Octanone_and_3-Octanol_Alarm_Pheromones_from_East_African_Acacia_Ants
+Volatile compounds from the mandibular glands of the three species, https://www.researchgate.net/figure/olatile-compounds-from-the-mandibular-glands-of-the-three-species-of-Crematogaster-ants_tbl1_238597131
+The ants that defeated the lions | Science - EL PAÍS English, https://english.elpais.com/science-tech/2024-02-03/the-ants-that-defeated-the-lions.html
+(PDF) Disruption of a protective ant-plant mutualism by an invasive, https://www.researchgate.net/publication/267287626_Disruption_of_a_protective_ant-plant_mutualism_by_an_invasive_ant_increases_elephant_damage_to_savanna_trees
+Mutually-Assured Disruption | ACSH, https://www.acsh.org/news/2024/01/30/mutually-assured-disruption-17608
+(PDF) Economy of scale: Third partner strengthens a keystone ant, https://www.researchgate.net/publication/322448332_Economy_of_scale_Third_partner_strengthens_a_keystone_ant-plant_mutualism
+third partner strengthens a keystone ant-plant mutualism, http://www.priorecologylab.com/uploads/2/6/0/3/26035694/prior___palmer_2018.pdf
+Integrating Ecological Complexity into Our Understanding of Ant, https://www.researchgate.net/publication/311064961_Integrating_Ecological_Complexity_into_Our_Understanding_of_Ant-_Plant_Mutualism_Ant-_Acacia_Interactions_in_African_Savannas
+lujan_et_al | PDF | Ant | Trees - Scribd, https://www.scribd.com/document/1065074653/lujan-et-al
+(PDF) Mutualism disruption by an invasive ant reduces carbon, https://www.researchgate.net/publication/348632414_Mutualism_disruption_by_an_invasive_ant_reduces_carbon_fixation_for_a_foundational_East_African_ant-plant
+Influence of Myrmecophytic Acacia drepanolobium on the ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC12103942/
+Population Genomics and Demographic Sampling of the Ant-Plant, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2019.00206/full
+Population genomics and demographic sampling of the ant-plant, https://www.biorxiv.org/content/10.1101/475392v1.full.pdf
+Population Genomics and Demographic Sampling of the Ant-Plant, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2019.00206/pdf
+Polygyny does not explain the superior competitive ability of ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5792509/
+Ant-Plant Protection Systems under Variable Habitat Conditions, https://www.cambridge.org/core/books/antplant-interactions/antplant-protection-systems-under-variable-habitat-conditions/D44CB177FF18AAED784BDC6720BDFDA3
+(PDF) Relaxation of induced indirect defenses of acacias following, https://www.researchgate.net/publication/228770781_Relaxation_of_induced_indirect_defenses_of_acacias_following_removal_of_mammalian_herbivores
+10 - Integrating Ecological Complexity into Our Understanding of Ant, https://www.cambridge.org/core/books/antplant-interactions/integrating-ecological-complexity-into-our-understanding-of-antplant-mutualism-antacacia-interactions-in-african-savannas/30FD8E041CB27D8B8BF90236923A3274
+Symbiotic ant traits produce differential host‐plant carbon and water, https://par.nsf.gov/servlets/purl/10478508
+(PDF) Nectar Theft and Floral Ant-Repellence - ResearchGate, https://www.researchgate.net/publication/230805346_Nectar_Theft_and_Floral_Ant-Repellence_A_Link_between_Nectar_Volume_and_Ant-Repellent_Traits
+Symbiotic acacia ants drive nesting behavior by birds in an African, http://www.wyobiodiversity.org/application/files/8617/0207/6258/lujan_et_al.pdf
+SPATIAL HABITAT HETEROGENEITY INFLUENCES ... - DOI, http://dx.doi.org/10.1890/02-0528
+Ecological barriers to early colony establishment in three coexisting, https://www.researchgate.net/publication/226552354_Ecological_barriers_to_early_colony_establishment_in_three_coexisting_acacia-ant_species_in_Kenya
+Survival of Crematogaster mimosae (Cm) and Tetraponera penzigi, https://www.researchgate.net/figure/Survival-of-Crematogaster-mimosae-Cm-and-Tetraponera-penzigi-Tp-workers-at-50C-over_fig1_319530127
+afrotropical butterflies - Metamorphosis, https://www.metamorphosis.org.za/articlesPDF/1281/801%20BIBLIOGRAPHY%20OF%20AFROTROPICAL%20PUBLICATIONS.pdf
+Multi-species Interactions in African Ant-Acacias - ProQuest, https://search.proquest.com/openview/de5734f95ac8b8e508f6c037f021e2ac/1?pq-origsite=gscholar&cbl=18750
+Association between the African lycaenid, Anthene usamba, and an, https://www.researchgate.net/publication/259396635_Association_between_the_African_lycaenid_Anthene_usamba_and_an_obligate_acacia_ant_Crematogaster_mimosae
+Behavior and adult morphology of the myrmecophilous leaf beetle, https://www.researchgate.net/publication/394387388_Ant-kissing_leaf_beetles_Behavior_and_adult_morphology_of_the_myrmecophilous_leaf_beetle_Hockingia_curiosa_Coleoptera_Chrysomelidae_Camptosomata
+Nutritional benefits of crematogaster mimosae ants ... - Lynne A. Isbell, https://laisbell.faculty.ucdavis.edu/wp-content/uploads/sites/741/2022/04/isbell_et_al_2013_ajpa.pdf
+Known chemical compositions of ant species, based on fresh, https://www.researchgate.net/figure/Known-chemical-compositions-of-ant-species-based-on-fresh-weights-unless-noted_tbl2_234031714
+Mutualism disruption by an invasive ant reduces carbon fixation for a, https://www.authorea.com/doi/10.22541/au.161114354.48819363
+Density dependence and the spread of invasive big-headed ants, https://www.researchgate.net/publication/348825392_Density_dependence_and_the_spread_of_invasive_big-headed_ants_Pheidole_megacephala_in_an_East_African_savanna
+Fire disturbance disrupts an acacia ant–plant mutualism in favor of a, https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=4130&context=wild_facpub
+Fire disturbance disrupts an acacia ant-plant mutualism in favor of a, https://www.researchgate.net/publication/314401240_Fire_disturbance_disrupts_an_acacia_ant-plant_mutualism_in_favor_of_a_subordinate_ant_species
+The SAFE (scale and fire ecology) experimental design in which, https://www.researchgate.net/figure/The-SAFE-scale-and-fire-ecology-experimental-design-in-which-burns-varied-in-their_fig1_314401240
+(PDF) The Ants of Kenya (Hymenoptera: Formicidae)—Faunal, https://www.researchgate.net/publication/262915649_The_Ants_of_Kenya_Hymenoptera_Formicidae-Faunal_Overview_First_Species_Checklist_Bibliography_Accounts_for_All_Genera_and_Discussion_on_Taxonomy_and_Zoogeography
+Partner abundance controls mutualism stability and the pace ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC5393197/
+Breakdown of an ant-plant mutualism follows the loss of ... - PubMed, https://pubmed.ncbi.nlm.nih.gov/18187652/
+(PDF) Breakdown of an Ant-Plant Mutualism Follows the Loss of, https://www.researchgate.net/publication/5662445_Breakdown_of_an_Ant-Plant_Mutualism_Follows_the_Loss_of_Large_Herbivores_from_an_African_Savanna
+Vachellia drepanolobium - Wikipedia, https://en.wikipedia.org/wiki/Vachellia_drepanolobium

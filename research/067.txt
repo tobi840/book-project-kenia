@@ -1,198 +1,286 @@
-Forschungsbericht: Hyphaene compressa (Dum-Palme) im Tsavo- und Amboseli-Ökosystem
+Rohmaterial: Catharanthus roseus (Madagaskar-Immergrün)
 1. Namen und Etymologie
-Die taxonomische Einordnung und Nomenklatur der Art Hyphaene compressa ist das Resultat einer komplexen und historisch revisionsreichen wissenschaftlichen Einordnung1. Der Status der aktuellen botanischen Nomenklatur gilt als gesichert, wenngleich die innerartliche Variabilität in der Vergangenheit zu einer Vielzahl von Synonymen führte.
-Der wissenschaftliche Name setzt sich aus dem Gattungsnamen Hyphaene und dem Art-Epitheton compressa zusammen. Die Gattung Hyphaene wurde im Jahr 1788 von dem deutschen Arzt und Botaniker Joseph Gaertner in seiner Publikation De Fructibus et Seminibus Plantarum etabliert2. Der Gattungsname leitet sich aus dem altgriechischen Verb ὑφαίνω (hyphaino) ab, was wörtlich übersetzt „weben“ oder „flechten“ bedeutet. Diese Namensgebung ist eine vermutete Referenz auf die stark verwobene Faserstruktur, die das Mesokarp (Fruchtfleisch) der Palmenfrüchte durchzieht4.
-Das Art-Epitheton compressa wurde im Jahr 1878 von dem deutschen Botaniker und Palmenexperten Hermann Wendland in der Botanischen Zeitung (Berlin) 36: 116 vergeben1. Der Begriff stammt von dem lateinischen Adjektiv compressus, a, um ab, dessen wörtliche Bedeutung „zusammengedrückt“ oder „komprimiert“ lautet. Die Benennung referenziert die Form der Früchte dieser Art, welche im Vergleich zu anderen Vertretern der Gattung seitlich abgeflacht sind (Status: gesichert)4.
-Aufgrund der hohen morphologischen Variabilität der Früchte und Blätter existieren in den botanischen Datenbanken 33 anerkannte Synonyme für Hyphaene compressa2. Die meisten dieser Synonyme gehen auf den italienischen Botaniker Odoardo Beccari zurück, der 1924 die Art H. multiformis aufstellte und diese in zahlreiche Unterarten und Varietäten gliederte (darunter ambigua, deformis, diminuta, gibbosa, intermedia, kilvaensis, macrocarpa, mahengensis, manca, morogorensis, moshiensis, nasuta, obconica, obesa, odorata, panganensis, plagiosperma, rovumensis, semiplaena, stenosperma, subglobosa, tangatensis, trigibba und lindiensis)1. Weitere Synonyme umfassen Chamaeriphes compressa (H.Wendl.) Kuntze, Hyphaene benadirensis Becc., Hyphaene incoje Furtado, Hyphaene kilvaensis (Becc.) Furtado, Hyphaene mangoides Becc., Hyphaene megacarpa Furtado und Hyphaene semiplaena (Becc.) Furtado5.
-In den Verbreitungsgebieten in Kenia und den angrenzenden Regionen sind zahlreiche Trivialnamen in verschiedenen Sprachen belegt. Die wörtliche Bedeutung dieser lokalen Bezeichnungen ist in den verfügbaren ethnobotanischen Quellen nicht dokumentiert (Status: unbekannt).
+Die taxonomische Klassifikation ordnet die Art Catharanthus roseus (L.) G.Don dem Pflanzenreich (Plantae) und der Abteilung der Gefäßpflanzen (Tracheophyta) zu [gesichert]1. Innerhalb der Klasse der Zweikeimblättrigen (Magnoliopsida) gehört sie zur Ordnung der Enzianartigen (Gentianales) und zur Familie der Hundsgiftgewächse (Apocynaceae) [gesichert]1. Auf einer tieferen taxonomischen Ebene wird die Art der Unterfamilie Rauvolfioideae, dem Tribus Vinceae und dem Subtribus Catharanthinae zugeordnet [gesichert]3. Die formelle Nomenklatur durchlief historische Änderungen. Zunächst wurde die Pflanze von Carl von Linné im Jahr 1759 unter dem Namen Vinca rosea in das binominale System aufgenommen [gesichert]6. Im Jahr 1837 ordnete der schottische Botaniker George Don die Pflanze der Gattung Catharanthus zu und etablierte den heute gültigen wissenschaftlichen Namen Catharanthus roseus (L.) G.Don [gesichert]4. Weitere historische Synonyme umfassen Lochnera rosea (L.) Rchb. ex Endl., Ammocallis rosea (L.) Small, Pervinca rosea (L.) Gaterau und Vinca gulielmi-waldemarii Klotzsch [gesichert]1.
+Die Etymologie des Gattungsnamens Catharanthus leitet sich aus dem Griechischen ab, wobei „katharos“ wörtlich „rein“ und „anthos“ wörtlich „Blüte“ bedeutet [gesichert]8. Das lateinische Artepitheton roseus lässt sich wörtlich mit „rot“, „rosa“ oder „rosig“ übersetzen [gesichert]9.
+Für die Trivialnamen existieren je nach Region unterschiedliche Bezeichnungen. Der deutsche Trivialname lautet Madagaskar-Immergrün [gesichert]10. Spezifische lokale Bezeichnungen für die kenianischen Sprachgruppen Maa, Kikuyu, Samburu, Giriama und Kamba sind in der vorliegenden Datenbasis unbekannt [gesichert]11.
 
-Sprache / Ethnie
-	Lokaler Name
-	Status der Nennung
-	Wörtliche Bedeutung
-
-Deutsch
-	Dumpalme, Ostafrikanische Dumpalme
-	gesichert7
-	unbekannt
+Sprache / Region
+	Trivialname
+	Wörtliche Bedeutung (sofern belegt)
+	Status
 
 Englisch
-	East African doum palm, Gingerbread palm
-	gesichert4
-	Lebkuchen-Palme (Bezug auf den Geschmack)
-
-Swahili
-	Mkoma, Mlala, Mkoche, Koma
-	gesichert4
+	Madagascar periwinkle, Rose periwinkle, Old maid, Bright eyes, Graveyard plant
 	unbekannt
+	[gesichert]1
 
-Samburu
-	Iparwa, Lparwai, Malala, Nkujit ae nkeok
-	gesichert4
+Swahili (Kenia/Ostafrika)
+	Olubinu
 	unbekannt
+	[überliefert]11
 
-Giriama
-	Mlala, Mkoma
-	gesichert4
-	unbekannt
+Kenia (generisch)
+	Maua
+	„Blumen“ (generischer Begriff)
+	[überliefert]9
 
-Kamba
-	Mukoma
-	gesichert9
-	unbekannt
+Indien
+	Sadabahar
+	„immer blühend“
+	[gesichert]9
 
-Turkana
-	Eeng'ol, Eng'oli
-	gesichert4
+Malaysia / Indonesien
+	Kembang Tapak Dara
 	unbekannt
+	[gesichert]1
 
-Pokot
-	Tangayiween, Takayua, Takuyua
-	gesichert4
+Brasilien
+	Boa-noite
 	unbekannt
+	[gesichert]9
 
-Maa (Ilchamus-Dialekt)
-	Lparrua
-	gesichert4
+Peru
+	Chavelita
 	unbekannt
-
-Gabra / Borana
-	Meetti, Koone, Meeti, Qoone
-	gesichert4
-	unbekannt
-
-Rendille
-	Baar, Gey-i-khooona
-	gesichert4
-	unbekannt
-
-Boni / Bajuni
-	Medi / Marara
-	gesichert4
-	unbekannt
+	[gesichert]9
 2. Erscheinung, mit Maßen
-Hyphaene compressa ist ein diözischer (zweihäusiger), verholzender Baum, der sich durch langsames Wachstum und ein hohes potenzielles Lebensalter auszeichnet10. Unter ungestörten Bedingungen kann die Art ein Alter von über 100 Jahren erreichen, wobei menschliche Eingriffe die durchschnittliche Lebensdauer in vielen Populationen auf etwa 30 Jahre reduzieren (Status: beobachtet)5.
-Hinsichtlich der Gesamthöhe existieren in den Quellen widersprüchliche Angaben. Taxonomische Beschreibungen verzeichnen primär eine Wuchshöhe von 4 bis 12 Metern, in Ausnahmefällen bis zu 15 Metern1. Ökologische Felddaten aus Ostafrika dokumentieren hingegen Höhen von 10 bis 20 Metern1. Legt man die Maximalhöhe von 20 Metern zugrunde, entspricht dies rechnerisch in etwa der Höhe eines sechs- bis siebengeschossigen Wohnhauses (Status: berechnet). Der solitäre Hauptstamm erreicht einen Brusthöhendurchmesser von 20 bis 30 cm, maximal bis zu 40 cm1. Die Rinde ist grau gefärbt und weist eine stark vertikal zerfurchte (rissige) Struktur auf4. In seltenen Fällen teilt sich der Stamm bereits unterhalb der Erdoberfläche und bringt 2 bis 4 Stämme gleicher Höhe hervor1.
-Die Blattkronen bestehen aus jeweils 10 bis 15 spiralig angeordneten Blättern1. Die Blätter weisen eine intensiv grüne, bläulich-grüne oder olivgrüne Färbung auf1. Es handelt sich um costapalmata (fächerförmige) Blätter, bei denen sich die Mittelrippe (Costa) stark in die Blattspreite hineinbiegt1. Die basale Blattscheide misst 30 bis 40 cm in der Länge1. Der Blattstiel (Petiole) erreicht Längen zwischen 0,7 und 1,4 Metern. An seiner Basis ist der Stiel etwa 7 cm breit, verjüngt sich zur Spitze hin auf 2,5 bis 3 cm und zeigt eine grünlich-gelbe Färbung1. Die Ränder des Blattstiels sind mit robusten, schwarzbraunen, nach oben gebogenen Dornen bewehrt, die jeweils etwa 1 cm lang sind und in einem Abstand von 4 bis 5 cm zueinander stehen1.
-Die Blattspreite wird von einer 45 bis 55 cm langen, stark zurückgebogenen Mittelrippe durchzogen und teilt sich in 35 bis 40 (andere Zählungen nennen 50 bis 53) linealisch-lanzettliche Einzelsegmente auf, die in einer spitzen Form enden1. Die Segmente sind an ihrer Basis für weniger als die Hälfte ihrer Gesamtlänge miteinander verwachsen. Die Längen der Segmente variieren je nach Position am Blatt: Basale Segmente messen 53 bis 66 cm, mittlere Segmente 85 bis 114 cm und apikale Segmente 54 bis 62 cm1. Abgestorbene Blattbasen verbleiben über einen langen Zeitraum am Stamm und bilden eine charakteristische Hülle1.
-Die Fortpflanzungsorgane (Infloreszenzen) wachsen interfoliar (zwischen den Blättern) und erreichen Längen von 1 bis 1,5 Metern, wobei männliche und weibliche Blüten an separaten Bäumen (Diözie) auftreten4. Männliche Blütenstände treten in einer Anzahl von bis zu 5 pro Krone auf. Der sichtbare Teil des Blütenstandstiels misst 30 cm, gefolgt von einer 45 bis 50 cm langen Rachis, die 6 bis 8 Seitenäste (Rachillae) trägt1. Die männlichen Blüten sind gelb gefärbt, dreizählig, mit 6 Staubblättern ausgestattet und öffnen sich sukzessive1. Weibliche Blütenstände sind robuster gebaut. Sie bestehen aus einem 20 cm langen sichtbaren Stielteil und tragen typischerweise 4 seitliche, bis zu 25 cm lange Rachillae sowie eine apikale Rachilla1. Die weiblichen Blüten sind grünlich, stehen solitär auf kurzen, behaarten Stielen und weisen ein dreiblättriges Gynoeceum auf1.
-Aus den weiblichen Blüten entwickeln sich nach der Bestäubung die Früchte. Diese sind als Steinfrüchte (Drupen) klassifiziert und weisen eine extreme Polymorphie auf. Die Formen variieren von länglich bis birnenförmig1. Die Früchte erreichen Längen von 6 bis 12 cm und Breiten von 4 bis 9 cm1. Bei der Reife nehmen sie eine dunkelorange bis hellbraune Färbung an1. Ein einziger ausgewachsener Baum ist in der Lage, mehrere Tausend dieser Früchte pro Jahr zu produzieren5. Im Inneren der Frucht befindet sich unter einem faserigen Fruchtfleisch ein einzelner, eiförmiger (ovoider) Same, der etwa 3,5 cm lang ist und einen Durchmesser von 3 cm aufweist. Dieser Same ist von einem extrem harten Endosperm (pflanzliches Elfenbein) umgeben4.
+Catharanthus roseus wächst als immergrüner, mehrjähriger Halbstrauch (Suffrutex) oder als krautige Pflanze [gesichert]2. Die Pflanze entwickelt schlanke, fleischige Stängel, die einer holzigen Basis entspringen und einen aufrechten oder anliegenden Wuchs aufweisen [gesichert]9. Das gesamte Pflanzengewebe führt einen weißen Milchsaft (Latex) [gesichert]9. Wird die Pflanze oberflächlich zurückgeschnitten oder steigt die Umgebungstemperatur nach einer Kälteperiode, erfolgt ein Neuaustrieb hauptsächlich aus basalen Achselknospen oder direkt aus dem Wurzelsystem [gesichert]16.
+Die Laubblätter sind gegenständig in Paaren am Stängel angeordnet [gesichert]16. Sie weisen eine ovale bis längliche Form auf, sind unbehaart und besitzen eine glänzende, grüne Oberfläche [gesichert]16. Ein charakteristisches Merkmal ist die deutlich sichtbare, helle Mittelrippe (Midrib) [gesichert]18.
+Die radiärsymmetrischen Blüten sitzen endständig oder in den Blattachseln [gesichert]15. Sie bestehen aus einem kurzen Kelch (Calyx), einem lang behaarten Fruchtknoten, einer fünfeckigen Narbe (Stigma) und einer Krone (Corolla) mit fünf kronblattartigen Lappen [gesichert]15. Die Farbpalette der Blüten reicht von reinem Weiß über verschiedene Rosa- und Violetttöne bis hin zu dunklem Pink [gesichert]9. Das Zentrum der Blüte, auch „Auge“ genannt, weist häufig eine dunklere, rote Färbung auf [gesichert]9. Die rosa Pigmentierung wird durch das Anthocyanidin-Pigment Rosinidin verursacht [gesichert]20.
+Nach der Befruchtung bildet die Pflanze als Frucht ein Paar von Balgfrüchten (Follikeln) aus [gesichert]5. Die darin enthaltenen Samen sind nackt, gerippt, komprimiert und besitzen keinen Haarschopf (Coma) [gesichert]4. Bei den Maßen der Frucht gibt es in den Quellen widersprüchliche Angaben, die im Folgenden tabellarisch dargestellt werden. Spezifische Größen- oder Farbunterschiede zwischen Geschlechtern existieren nicht, da die Blüten zwittrig (bisexuell) sind [gesichert]4.
+
+Körperteil
+	Metrisches Maß
+	Alltagsvergleich (errechnet/belegt)
+	Status
+
+Wuchshöhe
+	0,7 m bis 1,0 m
+	Entspricht der Höhe einer typischen Türklinke
+	[gesichert]16
+
+Wuchsbreite
+	0,7 m bis 1,0 m
+	Entspricht einem großen Regenschirm
+	[gesichert]16
+
+Blattlänge
+	2,5 cm bis 9,5 cm
+	Länge eines menschlichen Daumens bis zur Handflächenbreite
+	[gesichert]18
+
+Blattbreite
+	1,0 cm bis 3,5 cm
+	Breite eines bis zwei Fingern
+	[gesichert]18
+
+Blattstiel (Petiole)
+	1,0 cm bis 1,8 cm
+	unbekannt
+	[gesichert]18
+
+Blüte: Basale Röhre
+	2,5 cm bis 3,0 cm
+	unbekannt
+	[gesichert]19
+
+Blüte: Kronendurchmesser
+	2,0 cm bis 5,0 cm
+	Durchmesser einer 2-Euro-Münze bis zum Boden einer Kaffeetasse
+	[gesichert]19
+
+Fruchtlänge (Angabe A)
+	2,0 cm bis 4,0 cm
+	Länge einer Streichholzschachtel
+	[gesichert]20
+
+Fruchtlänge (Angabe B)
+	15,0 cm bis 25,0 cm
+	Länge eines Unterarms (Widerspruch zu Angabe A)
+	[umstritten]19
+
+Fruchtbreite
+	3,0 mm
+	unbekannt
+	[gesichert]20
 3. Der Mechanismus
-Die Art Hyphaene compressa wird durch zwei distinkte biologische Prinzipien determiniert: die echte dichotome Verzweigung des Hauptstamms und die durch Endozoochorie (Tierausbreitung) regulierte Aufhebung der physischen Samendormanz. Beide Mechanismen sind essenziell für das Überleben und die strukturelle Eigenheit der Art.
-Die dichotome Verzweigung
-Die überwiegende Mehrheit der Vertreter innerhalb der Familie der Palmengewächse (Arecaceae) wächst strikt monopodial und unverzweigt. Hyphaene compressa hingegen weist eine echte dichotome Verzweigung (Gabelung) der oberirdischen Stämme auf (Status: gesichert)10. Dieser Wachstumstyp, bei dem sich das apikale Meristem (das primäre Wachstumsgewebe an der Sprossspitze) in zwei exakt gleichwertige, unabhängige Vegetationspunkte teilt, ist bei Samenpflanzen äußerst selten und tritt natürlich nur bei wenigen Palmengattungen (wie Dypsis, Korthalsia und Laccosperma) auf10.
-Die erste Gabelung des Stammes erfolgt typischerweise in einer Höhe von 4 bis 5 Metern über dem Erdboden, was einem Baumalter von 15 bis 30 Jahren entspricht1. Im weiteren Verlauf des Wachstums wiederholt sich dieser Teilungsprozess. Bis zur vollständigen Ausreifung kann sich der Stamm bis zu 5- oder 6-mal teilen (Dichotomie 5. oder 6. Ordnung). Aus dieser exponentiellen Verzweigung resultiert mathematisch eine maximale Anzahl von 64 separaten Kronen pro Baum ()1.
-Phylogenetische Studien und anatomische Forschungen (unter anderem von Fisher und Tomlinson) belegen, dass diese Form der Luftverzweigung innerhalb der Gattung Hyphaene evolutionär nur ein einziges Mal entstanden ist12. Ökologisch führt die Verzweigung zu einer massiven Vergrößerung der photosynthetisch aktiven Fläche und einer Multiplikation der Blütenstände, ohne den hydrodynamischen Widerstand der Pflanze in den windigen Ebenen überproportional zu belasten (Status: vermutet/abgeleitet aus der Morphologie)5.
-Aufhebung der physischen Dormanz (Elefanten-Passage)
-Die Fortpflanzungsbiologie der Dum-Palme wird durch eine stark ausgeprägte "physische Dormanz" der Samen eingeschränkt. Die Samenkeimung in der freien Natur nimmt unter rein abiotischen Bedingungen drei bis zehn Monate in Anspruch oder schlägt gänzlich fehl10. Die anatomische Ursache hierfür ist das dicke, stark faserige Mesokarp (Fruchtfleisch) kombiniert mit dem extrem verholzten Endokarp (der Schale, die das pflanzliche Elfenbein umschließt). Diese Schichten bilden eine nahezu wasserundurchlässige Barriere. Wasser ist jedoch der zwingende biochemische Auslöser für den Keimungsprozess16.
-Die Behauptung, der Same keime ausschließlich nach der Passage durch einen Elefantenmagen, ist wissenschaftlich nicht vollumfänglich korrekt. Labortests belegen, dass auch mechanische und chemische Behandlungen ohne tierische Beteiligung zum Erfolg führen (Status: gesichert). Dennoch stellen Elefanten (Loxodonta africana) in der freien Natur den quantitativ wichtigsten Mechanismus (major mechanism) für die Ausbreitung und Keimungsbeschleunigung dar10.
-Die ökologische Kausalkette der Elefanten-Passage stellt sich wie folgt dar:
-Ingestion (Aufnahme): Elefanten konsumieren die mit bis zu 12 cm sehr großen, kohlenhydratreichen Früchte als Ganzes, oft direkt vom Boden10.
-De-Husking und Skarifizierung (Chemisch-mechanische Bearbeitung): Im Verdauungstrakt des Elefanten wird das faserige Mesokarp durch die starken Magensäuren und die mechanische Reibung im Darmtrakt vollständig entfernt (De-Husking). Gleichzeitig wird das harte Endokarp angeraut, was als Skarifizierung bezeichnet wird. Die Wasserundurchlässigkeit der Hülle wird gebrochen.
-Egestion (Ausscheidung): Der Same selbst übersteht die Passage intakt. Er wird mit dem Kot ausgeschieden. Das mikroklimatische Milieu im Elefantendung bietet ideale Feuchtigkeits- und Nährstoffbedingungen4.
-Keimung: Infolge der aufgebrochenen Barriere dringt Wasser in das Endosperm ein, was die Keimung auslöst.
-Diese Kausalkette ist durch agrarwissenschaftliche Laborversuche an Hyphaene-Samen indirekt belegt: Wurden Samen für 30 Minuten mechanisch skarifiziert und anschließend für 24 Stunden in Wasser eingeweicht, stieg die Keimrate auf 93 %. Eine 10-minütige Behandlung mit hochkonzentrierter Schwefelsäure, gefolgt von einer 12-stündigen Wässerung, die den Magen-Darm-Trakt chemisch simuliert, führte zu Keimraten zwischen 49 % und 71,7 %, während unbehandelte Kontrollgruppen im selben Zeitraum teilweise eine Keimrate von 0 % aufwiesen16.
-Als konkurrierende Erklärung für die Keimung ohne Herbivoren gilt der Zerfall des Mesokarps durch mikrobielle Verrottung in feuchten Mikroklimata, insbesondere bei periodischen Überschwemmungen an Flussufern, was jedoch signifikant längere Zeiträume erfordert15.
+Das primäre biologische Prinzip, das Catharanthus roseus auszeichnet, ist die komplexe Biosynthese von über 130 verschiedenen Terpenoid-Indol-Alkaloiden (TIAs) [gesichert]9. Die medizinisch bedeutendsten Endprodukte dieser Synthese sind die dimeren Bisindol-Alkaloide Vinblastin und Vincristin, die durch die Dimerisierung (Kopplung) der beiden monomeren Alkaloide Catharanthin und Vindolin entstehen [gesichert]22.
+Die ökologische Kausalkette für die Produktion dieser Alkaloide dient der chemischen Verteidigung der Pflanze gegen Fraßfeinde, wie beispielsweise die Raupe des Tabakschwärmers (Manduca sexta) [gesichert]24. Tritt ein Fraßschaden auf, wird ein Transkriptionsfaktor namens HIVE (Herbivore-Induced Vindoline-gene Expression) aktiviert [gesichert]24. Dieser Transkriptionsfaktor stimuliert die Produktion der dimeren Alkaloide [gesichert]24. Während die Monomere Vindolin und Catharanthin für Insekten isoliert kaum toxisch sind, ist ihr kondensiertes Endprodukt (z. B. Anhydrovinblastin) hochtoxisch [gesichert]24. Umgekehrt führt Kältestress zu einer Unterdrückung dieser Alkaloid-Biosynthese [gesichert]24.
+Die biochemische Kausalkette der TIA-Biosynthese erfordert eine strikte räumliche Trennung und umfasst annähernd 30 enzymatische Schritte, die sich über fünf subzelluläre Kompartimente in vier verschiedenen Zelltypen des Blattes erstrecken [gesichert]23. Der Prozess beginnt mit der Synthese von Strictosidin aus den Vorstufen Tryptophan (Indol-Monomer) und Geranylpyrophosphat (Monoterpenoid-Monomer) [gesichert]23. Strictosidin dient als Basis für alle weiteren TIAs [gesichert]23. In der Folge werden die beiden entscheidenden Monomere räumlich getrennt produziert: Das Alkaloid Catharanthin wird in den Epidermiszellen der Blätter gebildet und durch einen spezifischen ATP-Binding-Cassette G (ABCG)-Transporter, identifiziert als CrTPT2, auf die Blattoberfläche transportiert, wo es fast ausschließlich in den Wachsausscheidungen der Cuticula akkumuliert [gesichert]22. Parallel dazu wird das Alkaloid Vindolin im Blattinneren synthetisiert. Diese Produktion findet in hochspezialisierten Mesophyllzellen, den sogenannten Idioblasten, sowie in den nicht verlängerten Milchröhren (Laticiferen) statt [gesichert]22.
+Um die räumliche Trennung zu überwinden und die Kopplung einzuleiten, müssen beide Monomere in die Vakuolen der Mesophyllzellen transportiert werden [gesichert]22. Dieser Transport erfolgt über ein spezifisches Protonen-Antiport-System, das durch einen pH-Gradienten über den Tonoplasten angetrieben wird, welcher durch die Enzyme V-H+-ATPase und V-H+-PPase aufrechterhalten wird [gesichert]22. In der Vakuole findet die eigentliche Dimerisierung statt. Ein Enzym der Klasse III Peroxidasen, identifiziert als CrPrx1, nutzt das im Blattgewebe natürlich vorkommende Wasserstoffperoxid (H2O2) als Elektronenakzeptor, um Catharanthin zu aktivieren [gesichert]23. Das aktivierte Catharanthin reagiert daraufhin mit Vindolin und bildet eine Iminium-Zwischenverbindung [gesichert]23. Eine Reduktase, bei der es sich vermutlich um die Tetrahydroalstonin-Synthase (THAS) handelt, reduziert diese Zwischenverbindung zu alpha-3',4'-Anhydrovinblastin (AHVB) [gesichert]23. Aus AHVB entstehen in finalen Schritten die Krebsmedikamente Vinblastin und Vincristin [gesichert]23.
+Die Ausbeute dieser Stoffe in der natürlichen Pflanze ist extrem gering, was die Erforschung und Extraktion erschwert und verteuert. Die prozentualen Erträge variieren je nach Extraktionsmethode und Studie:
+
+Extrakt / Alkaloid
+	Prozentualer Ertrag
+	Status
+
+Gesamtalkaloidgehalt der Pflanze
+	ca. 2,56 %
+	[gesichert]27
+
+Roher Methanolextrakt (aus 50 g Blattpulver)
+	12,8 %
+	[gesichert]18
+
+Roher Petrolether-Extrakt
+	2,56 %
+	[gesichert]18
+
+Vinblastin (aus trockenen Blättern)
+	0,0003 % bis 0,038 % (w/w)
+	[gesichert]21
+
+Vincristin (Angabe A)
+	0,60 % bis 0,65 %
+	[umstritten]21
+
+Vincristin (Angabe B, HPLC-Messung)
+	bis zu 148 µg/g (entspricht ca. 0,0148 %)
+	[umstritten]28
+Die Identifizierung von CrPrx1 und dessen Subzellulärlokalisation wurde zwischen 2003 und 2008 maßgeblich von Forschergruppen unter der Leitung von Mariana Sottomayor und Ros Barceló vorangetrieben [gesichert]23.
 4. Ökologie und Verhalten
-Hyphaene compressa weist eine hohe Spezialisierung auf extreme abiotische Faktoren auf und nimmt eine zentrale Rolle im Ökosystem ein.
-Lebensraum und Standortansprüche
-Die Palme gedeiht primär in den ariden und semi-ariden Ländereien (ASALs) Ostafrikas24. Sie bildet dichte Bestände in Küstenebenen, in offenen Grassavannen sowie an den Rändern von Seen, Flussufern (wie dem Tana River) und saisonalen Sumpfgebieten4. Die vertikale Verbreitung erstreckt sich vom Meeresspiegel bis auf 1.400 Meter Höhe1.
-Die klimatischen Optimalbedingungen liegen im tropischen bis subtropischen Bereich bei Tageshöchsttemperaturen zwischen 36 und 38 °C (Toleranzbereich 15 bis 35 °C im Jahresmittel)5. Die Art ist hochgradig an Dürrebedingungen angepasst und überlebt bei extrem geringen Jahresniederschlägen von 150 bis 600 mm5. Diese Unabhängigkeit von Oberflächenwasser wird durch ihre Eigenschaft als Phreatophyt ermöglicht: Die Palme entwickelt ein tiefes Pfahlwurzelsystem, mit dem sie unterirdische Grundwasserleiter (Aquifere) anzapft5.
-Bodenchemisch zeigt H. compressa eine außergewöhnliche Toleranzschwelle. Sie wächst auf nährstoffarmen, extrem salzigen, stark kalkhaltigen sowie hochalkalischen Böden mit einem pH-Wert von bis zu 95. Überdies verfügt die Pflanze über unterirdische Knollen (Bulbs), die es ihr ermöglichen, nach dem oberflächlichen Abbrennen durch Savannenfeuer erneut auszutreiben. Sie gilt daher als feuerresistent5.
-Saisonale Muster (Reisezeitraum Ende September bis Anfang Oktober)
-Der Zeitraum von Ende September bis Anfang Oktober markiert in den Ökosystemen Tsavo und Amboseli das Ende der langen Trockenzeit und den unmittelbaren Übergang zu den „Short Rains“ (der kleinen Regenzeit). In dieser Phase maximaler hydrologischer Belastung des Ökosystems zeigt H. compressa ihre ökologische Schlüsselfunktion: Während flachwurzelnde Gräser und Akazien weitgehend verdorrt sind, hält die Palme über ihr Pfahlwurzelsystem die Wasserversorgung aufrecht. Sie behält ihr bläulich-grünes Blätterdach und fungiert als einer der wenigen primären Schattenspender in der offenen Savanne. Da die Früchte unabhängig von spezifischen Jahreszeiten fast das ganze Jahr über heranreifen, stehen sie am Ende der Trockenzeit als energiereiche Nahrungsquelle zur Verfügung, wenn andere Ressourcen erschöpft sind5.
-Interaktionen mit der Fauna
-Verschiedene Säugetier- und Vogelarten sind zwingend oder fakultativ auf H. compressa angewiesen:
-Herbivoren: Afrikanische Elefanten und verschiedene Pavianarten (Papio spp.) verzehren die reifen Früchte. Auch stark bedrohte Primatenarten wie der Tana-River-Stummelaffe nutzen die Früchte als Nahrung4.
-Bestäuber: Die gelben und grünlichen Blüten werden von Bienen besucht, die den Pollen transferieren20.
-Symbiose mit dem Afrikanischen Palmensegler (Cypsiurus parvus): Es besteht eine hochspezifische ökologische Nischennutzung durch diesen 16 cm langen, aerodynamischen Vogel aus der Familie der Segler (Apodidae)26. Der Palmensegler landet niemals freiwillig auf dem Boden. Er jagt Insekten im Flug und trinkt im Flug. Zur Fortpflanzung nutzt er ausschließlich die Blätter von Palmen, präferiert dabei Arten wie H. compressa. Der Vogel fängt im Flug umherwirbelnde Federn, Pflanzensamen oder trockenes Gras. Mit einem stark klebenden, speziellen Speichel klebt er dieses Nistmaterial an die Unterseite eines vertikal herabhängenden Palmblattes. Das resultierende Nest ist ein kleines, flaches Polster. Da das Blatt im Wind stark schwankt und fast senkrecht hängt, klebt der Vogel auch die ein bis zwei gelegten Eier mit seinem Speichel in der Nistmulde fest, um ein Herabfallen zu verhindern. Die Jungvögel klammern sich nach dem Schlüpfen an das Nest, bis sie flügge sind26.
-5. Menschen und Kultur in Kenia
-Die Dum-Palme ist in den ländlichen und ariden Gemeinschaften Kenias (wie den Turkana, Samburu, Pokot und Tharaka Nithi) eine essenzielle sozioökonomische Lebensgrundlage10. Fast jeder Teil der Pflanze wird genutzt.
-Nutzungsmuster (Nahrung, Material, Medizin, Handel)
-Material und Konstruktion: Die unreifen ("immature"), noch geschlossenen Blattwedel werden geerntet, gespalten und als Fasern für das Flechten von Körben, Matten, Hüten und Besen verwendet10. Reife, grüne Blätter werden getrocknet und zur Dachabdeckung (Thatching) von traditionellen Hütten, aber auch von permanenten Siedlungen, Touristen-Camps und Flüchtlingslagern eingesetzt10. Die Blattfasern werden durch Schlagen gelöst und zu Hängematten verarbeitet. In der Turkana-Region organisieren sich Frauen in Kooperativen, um diese Flechtwaren auf lokalen und internationalen Märkten zu verkaufen, was die wirtschaftliche Unabhängigkeit stärkt10.
-Holz: Die massiven Stämme unterhalb der ersten Gabelung liefern ein hochdichtes, extrem robustes und vor allem termitenresistentes Bauholz. Es wird für Stützpfeiler, Zäune und Latrinen verwendet und übertrifft in der Festigkeit das Holz der Kokospalme10.
-Nahrung und Getränke: In Hunger- und Dürreperioden dient die Frucht als Grundnahrungsmittel. Das weiche Mesokarp der jungen Früchte wird zu einem süßen, alkoholfreien Saft gepresst, der besonders bei Kindern beliebt ist. Der harte innere Kern wird zerschlagen, zu Pulver zermahlen und als Aroma für andere Speisen verwendet. Ein spezifisches Gericht der Turkana auf Basis der Palme wird "Lokot" genannt10.
-Palmwein: Durch das Anschneiden des apikalen Meristems (Tapping) der Stämme wird Pflanzensaft gewonnen, der spontan zu einem Palmwein mit einem Alkoholgehalt von ca. 3,6 % Vol. fermentiert. Da dieser Wein nach 24 Stunden verfällt und es an Infrastruktur zur Konservierung mangelt, bleibt die wirtschaftliche Bedeutung lokal begrenzt. Ein fehlerhaftes, zu tiefes Einschneiden beim Zapfen führt irreversibel zum Absterben des Baumes10.
-Ethnobotanik: Wurzeln und Blätter werden medizinisch zur Prävention von Bodenerosion eingesetzt, finden aber auch Anwendung als traditionelle Medizin (etwa gegen Kopfschmerzen oder Parasitenbefall) (Status: überliefert)24. Haustiere (Kamele, Esel, Ziegen) erhalten in extremen Dürrezeiten junge Blätter als Futterersatz33.
-Konflikte, Schutzstatus und genetische Diversität
-Weltweit wird die Art von der IUCN auf der Roten Liste mit dem Status „Least Concern“ (Nicht gefährdet, Assessment 2017) geführt, da sie in Ostafrika weit verbreitet ist1. Innerhalb Kenias wird die Lage jedoch kritischer bewertet. In den ASAL-Gebieten Kenias gilt die Art national als gefährdet (threatened) und wird als "National Priority Species" eingestuft (Kigomo, 2001)24. Exakte Bestandszahlen für Kenia mit Jahresangabe liegen in den Quellen nicht vor, jedoch sind die Konfliktlinien klar dokumentiert.
-Der Hauptkonflikt resultiert aus der Sedentarization (Sesshaftwerdung) nomadischer Hirtenvölker. Die Konzentration von Vieh und Menschen an fixen Standorten entlang von Flussläufen führt zu starker Überweidung und Bodendegradation. Die intensive Ernte der unreifen "Schwertblätter" (sword leaves) stört das Wachstum und führt bei den Palmen zu Zwergwuchs (Dwarfing). Destruktives Palmweinzapfen, unkontrolliertes Abbrennen und Abholzung dezimieren die adulten Bestände (Status: gesichert)24.
-Dies hat Auswirkungen auf die Genetik der Populationen: Moderne Analysen von 96 Individuen (durch Omire et al. 2020a, 2022) aus dem Turkana-Gebiet (Norden) und der Tana-Fluss-Region (Küste/Osten) belegen eine signifikante Heterogenität. Es wurden zwei Hauptcluster identifiziert. Entlang des Tana-Flusses fungiert das Wasser als Samen-Disperser, was zu einem asymmetrischen Genfluss und höherer genetischer Vielfalt in der Küstenregion führt, während isoliertere Populationen durch die Übernutzung genetische Erosion (Verlust von Genotypen) erleiden. Die genetische Differenzierung () liegt bei moderaten 0,07424.
+Catharanthus roseus ist ursprünglich an den trockenen Küstenregionen im Osten und Süden Madagaskars heimisch [gesichert]16. Durch menschliche Einführung ist die Art heute pantropisch verbreitet und hat sich in den Subtropen und Tropen weltweit eingebürgert, darunter in Kenia, Australien, Bangladesch, Indien, Malaysia, Pakistan und den südlichen USA [gesichert]9.
+Die Pflanze zeichnet sich durch eine hohe Toleranz gegenüber diversen Bodenbedingungen aus. Sie wächst auf leichten (sandigen), mittleren (lehmigen) und schweren (tonigen) Böden, sowie auf nährstoffarmen Felsböden und Sanddünen [gesichert]16. Hinsichtlich der Bodenchemie erträgt sie ein breites pH-Spektrum, das von stark sauer bis stark alkalisch reicht, und besitzt eine ausgeprägte Toleranz für Bodensalz (Salinität) [gesichert]15. Klimatisch bevorzugt sie Jahresniederschläge zwischen 1.000 mm und 1.200 mm, toleriert jedoch Spannen von 800 mm bis 1.400 mm [gesichert]16. Die optimalen Wachstumstemperaturen liegen zwischen 20 °C und 30 °C, die Toleranzgrenzen reichen von 10 °C bis 34 °C [gesichert]16. Fällt die Temperatur unter 5 °C bis 7 °C, führt dies zum Absterben von Ästen oder der gesamten Pflanze [gesichert]16. Einmal etabliert, gilt die Pflanze als äußerst dürretolerant [gesichert]16.
+In tropischen Äquatorbedingungen, wie an der kenianischen Küste, zeigt die Pflanze keine saisonale Ruhephase, sondern blüht und fruchtet kontinuierlich das ganze Jahr über [gesichert]20. Die Fortpflanzung erfolgt sexuell; obwohl die Pflanze selbstfertil (selbstbefruchtend) ist, wird sie häufig von Schmetterlingen und Bienen bestäubt [gesichert]16. Die Ausbreitung der produzierten Samen erfolgt lokal durch Ameisen, Wind und Wasser, jedoch besitzt die Art keine morphologischen Anpassungen für eine Langstreckenausbreitung über 100 Meter durch Wind oder Tiere [gesichert]29. Die globale Ausbreitung ist primär auf den Menschen zurückzuführen, beispielsweise durch kontaminierten Boden oder Gartenabfälle [gesichert]29.
+Catharanthus roseus steht in einer starken Abhängigkeit zu mikrobiologischen Endophyten. Die Pflanze beherbergt in ihrem Gewebe verschiedene Arten von endophytischen Pilzen, wie Nigrospora zimmermanii und Arten der Gattung Curvularia [gesichert]32. Diese Pilze infizieren die Pflanze, ohne Krankheitssymptome auszulösen, und regulieren strukturelle Gene hoch [gesichert]33. Speziell die Expression des Gens für die Klasse III Peroxidase (PRX1) wird durch diese Pilze verstärkt, was die Produktion von Vindolin und Vincristin steigert [gesichert]33. Ein in-vitro-Versuch zeigte, dass der isolierte Pilz Nigrospora zimmermanii selbstständig Vincristin produzieren kann, mit einer Ausbeute von 5,344 µg/mL in der ersten Generation [gesichert]32. Eine weitere Abhängigkeit, jedoch parasitärer Natur, besteht zu Phytoplasmen. Die Pflanze ist hochgradig anfällig für diese Bakterien, was sich in drastischen Symptomen wie einer Phyllodie (Rückbildung der Blüten zu blattähnlichen Strukturen) und einer deutlichen Reduzierung der Blattgröße äußert [gesichert]20.
+Konkretes Verhalten im Reisezeitraum (24.09. bis 12.10.): In der Küstenregion Kenias markiert dieser Zeitraum das Ende der langen Trockenzeit und den Beginn der kleinen Regenzeit. Die Pflanze hat die Trockenzeit aufgrund ihrer ausgeprägten Dürretoleranz als immergrüner Strauch überdauert [vermutet]16. Physiologische Studien zeigen, dass Catharanthus roseus unter simuliertem Dürrestress (durch Zusatz von bis zu 12 % PEG4000) vermehrt Terpenoide in ihren Laticiferen und Idioblasten anreichert, während die Konzentrationen von Vinblastin und Vincristin konstant bleiben [gesichert]27. Mit den ersten Niederschlägen im Oktober wird die Pflanze aus ihren basalen Achselknospen neue vegetative Triebe bilden und gleichzeitig ihre ganzjährige Blüten- und Samenproduktion fortsetzen [vermutet]16.
+5. Menschen und Kultur in Kenia und weltweit
+Die Verbreitung und Nutzung von Catharanthus roseus in Kenia und global ist tief in der Ethnobotanik verwurzelt. Historischen Überlieferungen zufolge wurde die Pflanze während der Blütezeit des Swahili-Handelsnetzwerks (ca. 800 bis 1450 n. Chr.) von Seeleuten im Indischen Ozean durch Stecklinge verbreitet [überliefert]6. Malagassische Fischer und Seeleute kauten die Blätter, um Hungergefühle zu unterdrücken und Erschöpfung bei langen Überfahrten zu lindern [überliefert]6.
+In Kenia und Ostafrika wurden verschiedene traditionelle Nutzungen dokumentiert. Im Jahr 1962 berichteten Watt und Breyer-Brandwijk, dass traditionelle Heiler in Ost- und Südafrika die Pflanze zur Behandlung nicht näher spezifizierter Geschlechtskrankheiten verwendeten [gesichert]35. Zudem wird aus den Blättern und Wurzeln ein Dekokt gekocht, das oral eingenommen wird, um Malaria, Rheuma, Asthma und Menstruationsbeschwerden zu behandeln [überliefert]12. Äußerlich wird ein frischer Blattsaft auf die Haut aufgetragen, um Blutungen zu stoppen, Wespengift zu neutralisieren oder Hautentzündungen (Dermatitis) zu lindern [gesichert]13.
+Auf globaler Ebene wird die Pflanze in nahezu allen traditionellen Heilsystemen der Tropen und Subtropen eingesetzt.
+
+Region / Land
+	Verwendeter Pflanzenteil
+	Zubereitung
+	Indikation (Traditionelle Nutzung)
+	Status
+
+Jamaika, Karibik
+	Ganze Pflanze / Blätter
+	Dekokt / Tee
+	Diabetes, Augenkrankheiten
+	[gesichert]6
+
+Indien
+	Blätter
+	Saft / Paste
+	Wespenstiche, Krebs, Diabetes (Ayurveda)
+	[gesichert]19
+
+Südafrika
+	Wurzel
+	Getrocknet und als Dekokt
+	Urogenitale Infektionen
+	[gesichert]19
+
+China
+	Oberirdische Teile
+	Dekokt
+	Menstruationsregulierung
+	[gesichert]19
+
+Australien
+	Blätter / Wurzelrinde
+	Dekokt
+	Menorrhagie, Diabetes, Fiebermittel
+	[gesichert]19
+
+Hawaii
+	Blätter
+	Gekochter Umschlag
+	Stillung von Blutungen
+	[gesichert]21
+In Europa rankten sich in der Vergangenheit Volksglauben und Mythen um die Pflanze. Aufgrund ihrer angeblichen magischen Eigenschaften nahmen die Europäer an, sie könne böse Geister abwehren, und in Frankreich wurde sie historisch als „Veilchen der Zauberer“ ("violet of the sorcerers") bezeichnet [überliefert]39.
+Die Beziehung zwischen Menschen und dieser Pflanze beinhaltet jedoch auch ein enormes Konfliktpotenzial, das als eines der bekanntesten Beispiele für "Biopiraterie" in die Geschichte einging. In den 1950er Jahren wurde das US-Pharmaunternehmen Eli Lilly auf die Pflanze aufmerksam, nachdem das Unternehmen Berichte über die Anwendung als Antidiabetikum durch malagassische und jamaikanische Heiler untersucht hatte [gesichert]34. Wissenschaftler des Unternehmens isolierten die Verbindungen Vinblastin und Vincristin, patentierten diese im Jahr 1958 – zwei Jahre vor der Unabhängigkeit Madagaskars von Frankreich – und entwickelten daraus die Krebsmedikamente Oncovin und Velban [gesichert]34. Durch Vincristin stieg die Überlebensrate bei kindlicher Leukämie von unter 10 % im Jahr 1960 auf heute über 90 % [gesichert]13. Kommerziell erwirtschaftete Eli Lilly in den 1980er Jahren mit diesen Medikamenten jährliche Gewinne zwischen 90 und 400 Millionen US-Dollar [gesichert]34. Die indigene Bevölkerung Madagaskars, deren traditionelles Wissen den Anstoß zur Erforschung gegeben hatte, erhielt nie eine finanzielle Entschädigung (Benefit-Sharing) [gesichert]34. Eli Lilly verteidigte dies mit dem Argument, dass die malagassische Bevölkerung die Pflanze zur Behandlung von Diabetes einsetzte, das Unternehmen jedoch Medikamente gegen Krebs entwickelt habe, weshalb keine Biopiraterie vorliege [gesichert]34.
+Gleichzeitig ist der Umgang mit der Pflanze von toxikologischen Gefahren geprägt. Die Pflanze ist stark giftig; der Verzehr oder das Einatmen des Rauchs ist für Menschen gefährlich [gesichert]29. Fressen Weidetiere größere Mengen der Pflanze, kommt es zu Neurotoxizität, Hypotonie, Anfällen, Anämie und zum Tod [gesichert]15. In Australien (Westaustralien, Queensland) wird Catharanthus roseus aufgrund der unkontrollierten Ausbreitung als invasives Umweltunkraut (Noxious weed) gesetzlich bekämpft [gesichert]20.
+Bezüglich des globalen Schutzstatus existieren widersprüchliche Angaben. Einige Quellen geben an, dass die Pflanze von der IUCN noch nicht offiziell bewertet wurde (Data Deficient / Not Assessed) [umstritten]16. Anderen Berichten zufolge wird sie global als "Least Concern" (Nicht gefährdet) eingestuft, da sie weltweit kultiviert wird [umstritten]31. Auf Madagaskar, ihrem Ursprungsort, ist die Wildpopulation jedoch gefährdet. Offiziellen Zolldaten zufolge exportierte Madagaskar zwischen 2018 und 2023 insgesamt 35.800 Tonnen medizinischer Pflanzen, was einem jährlichen Handelswert von 68 Millionen USD entspricht [gesichert]44. Die lokalen Erntearbeiter, die die Pflanzen oft zwischen 5 Uhr morgens und Mittag sammeln, verdienen dabei nur 2 bis 2,5 USD pro Tag, was unter dem Existenzminimum liegt [gesichert]44. Weniger als 45 % dieses Handels mit madagassischen Medizinalpflanzen verlaufen legal [gesichert]44.
 6. Wissenschaftsgeschichte
-Die systematische Einordnung von Hyphaene compressa spiegelt die historischen Paradigmenwechsel der Botanik wider.
-1788 (Joseph Gaertner): Der deutsche Arzt und Botaniker Joseph Gaertner beschrieb in seinem epochalen Werk De Fructibus et Seminibus Plantarum erstmals die Gattung Hyphaene, wobei er H. coriacea als erstes Taxon festlegte2.
-1878 (Hermann Wendland): Der deutsche Botaniker und Gärtner Hermann Wendland, ein renommierter Palmenexperte, beschrieb die spezifische Art H. compressa auf Basis morphologischer Merkmale und publizierte dies in der Botanischen Zeitung1.
-1924 (Die Kontroverse um Odoardo Beccari): Der italienische Floristik-Experte Odoardo Beccari publizierte eine monografische Abhandlung der Gattung in seinem Werk Palme Borass.. Beccari sah die Dum-Palmen nie in ihrem natürlichen Habitat in Afrika. Er arbeitete fast ausschließlich mit getrocknetem Herbarium-Material und den gesammelten, stark polymorphen Früchten. Dies führte zu einer massiven taxonomischen Überklassifizierung: Beccari schuf die Art H. multiformis und teilte diese in Dutzende Unterarten und Varietäten auf. Er verursachte damit eine Konfusion, die die Palmensystematik fast ein Jahrhundert lang prägte1.
-1986 (John Dransfield): Der britische Botaniker John Dransfield publizierte eine umfassende Revision der ostafrikanischen Hyphaene-Arten. Er erkannte, dass Beccaris unzählige Unterarten lediglich phänotypische Variationen derselben Spezies darstellten, und reduzierte die meisten Namen auf Synonyme von H. compressa1.
-Ab 2014 (Moderne Phylogenetik und das "Hyphaene Project"): Ein multidisziplinäres Forscherteam des Konservatoriums und Botanischen Gartens in Genf (u.a. Fred Stauffer, Camille Christe, Yamama Naciri, Mathieu Perret) startete das "Hyphaene Project". Sie nutzen Next-Generation-Sequencing (NGS), um die molekulare Phylogenie der Gattung aufzuklären. Ein markantes Ergebnis war der Nachweis, dass die seltene indische Art H. dichotoma genetisch nicht von der afrikanischen H. compressa abzugrenzen ist, was auf eine historische Ausbreitung durch portugiesische Seefahrer hindeuten könnte. Parallel dazu lieferten kenianische Wissenschaftler (Agnes Omire, Johnstone Neondo, Nancy Budambula) in den Jahren 2020 bis 2022 grundlegende Daten zur morphologischen und genetischen Diversität der Art in den ASAL-Gebieten Kenias3.
+Die formelle wissenschaftliche Dokumentation von Catharanthus roseus erstreckt sich über mehrere Jahrhunderte. Der erste schriftliche Nachweis durch einen Europäer stammt aus dem Jahr 1658 von Etienne de Flacourt, dem damaligen Gouverneur einer Kolonie der französischen Ostindien-Kompanie in Madagaskar [gesichert]6. In der Mitte des 18. Jahrhunderts gelangten Samen der Pflanze aus dem Garten des französischen Königs Ludwig XV. in Trianon, Paris, nach London. Der Empfänger, Philip Miller, Chefgärtner im Chelsea Physic Garden, kultivierte die Pflanze erfolgreich und beschrieb sie unter dem sperrigen Namen Vinca foliis oblongo-ovatis integerrimis, tubo floris longissimo, caule ramoso fructicoso [gesichert]6. Die erste gedruckte Illustration der Pflanze wurde von Richard Lancake angefertigt [gesichert]6. Auf Basis von Millers Notizen und Lancakes Zeichnung wendete Carl von Linné 1759 sein binominales System an und taufte die Pflanze Vinca rosea [gesichert]6. Im Jahr 1837 gliederte der schottische Botaniker George Don die Art in die Gattung Catharanthus ein [gesichert]4.
+In den 1920er Jahren begannen zwei nordamerikanische Forschergruppen, angeregt durch ethnobotanische Berichte, die angebliche antidiabetische Wirkung der Pflanze klinisch zu prüfen [gesichert]6. Der entscheidende medizinische Durchbruch ereignete sich 1949 durch einen Zufall im Labor von Robert und Clark Noble. Halina Czajkowski Robinson, eine polnische Einwanderin und Labortechnikerin, stellte bei Tierversuchen mit Pflanzenextrakten fest, dass der Blutzuckerspiegel zwar unverändert blieb, die Anzahl der weißen Blutkörperchen jedoch drastisch absank [gesichert]6. Diese Beobachtung leitete die Krebsforschung ein. In den 1950er Jahren isolierte Dr. Gordon Svoboda für das Unternehmen Eli Lilly die Alkaloide Vinblastin und Vincristin, was die Basis für moderne Chemotherapien bildete [gesichert]13.
 7. Fotografie
-Für den Reisezeitraum im späten September / frühen Oktober bieten der Tsavo Ost, Tsavo West sowie der Amboseli Nationalpark verlässliche Sichtungschancen, insbesondere an saisonalen Flussläufen und Sumpfrändern7.
-Beobachtungspraxis und Tageszeit:
-Die Palme verweilt statisch; das fotografische Abwarten fokussiert sich auf die interagierende Tierwelt.
-Elefanten: Gegen die Mittagszeit und am frühen Nachmittag suchen Elefanten den Schatten der Palmenkronen und klauben gefallene Früchte vom Boden10. Fluchtdistanzen bei Habituation in Nationalparks sind gering, dennoch erfordert das Verhalten der Tiere eine respektvolle räumliche Distanz.
-Afrikanischer Palmensegler: Die Vögel zeigen die höchste Aktivität in der späten Nachmittagssonne und beginnenden Dämmerung, wenn sie in dichten Schwärmen Insekten jagen und anschließend rasant unter die Palmblätter einfliegen27.
-Objektivwahl und Richtwerte:
-26–60 mm / 45 mm (Landschaft & Silhouette): Geeignet, um die spektakuläre dichotome Verzweigung der Kronen vor dem weiten Himmel freizustellen. Ein typischer Fehler ist hier die Überbelichtung (Ausbrennen) des Himmels; die Belichtung sollte auf den hellen Hintergrund gemessen werden, um den Stamm als scharfen Scherenschnitt abzubilden.
-100–400 mm (Säugetier-Interaktion): Ideal für Elefanten oder Paviane am Fuß der Palme. Verschlusszeiten zwischen 1/500 s und 1/1000 s frieren Rüsselbewegungen beim Greifen der Früchte zuverlässig ein.
-150–600 mm (Avifauna / Palmensegler): Die Fotografie des Afrikanischen Palmenseglers im Flug erfordert das obere Ende der Brennweite (600 mm). Da diese Vögel Fluggeschwindigkeiten von bis zu 110 km/h (über 30 m/s) erreichen und extreme Richtungswechsel vollziehen, sind extrem kurze Verschlusszeiten von 1/2500 s bis 1/4000 s zwingend erforderlich, um Bewegungsunschärfe zu eliminieren. In der abendlichen Dämmerung bedingt dies zwangsläufig eine offene Blende und hohe ISO-Werte26.
+Für Naturfotografen auf der geplanten Route bietet die Küste von Mombasa (Bamburi Beach, Nguuni Nature Sanctuary, Mombasa Marine National Park, Mtwapa Creek) hervorragende Möglichkeiten, Catharanthus roseus zu dokumentieren. Die Pflanze wächst dort sowohl kultiviert als auch verwildert an Wegrändern, offenen Feldern, Klippen und auf sandigen Böden nahe menschlicher Siedlungen [gesichert]20.
+Die beste Tageszeit für die Fotografie sind die frühen Morgenstunden oder der späte Nachmittag. Da die Laubblätter eine dicke, wachsartige Cuticula besitzen, führt die harte Mittagssonne am Äquator zu extremen Reflexionen, Kontrastverlust und überbelichteten Spitzlichtern [vermutet]. Die Pflanze selbst ist statisch, ihr ökologisches Verhalten zieht jedoch Insekten wie Bienen und Schmetterlinge an, die die Bestäubung übernehmen [gesichert]16. Da Insekten eine Fluchtdistanz von etwa ein bis zwei Metern aufweisen, lohnt es sich, sich in Position zu begeben und das Eintreffen der Bestäuber abzuwarten.
+Objektive und Einstellungen:
+Das 26 bis 60 mm Objektiv eignet sich für Habitat-Aufnahmen, um die Pflanze in ihrer harschen, trockenen Umgebung (z.B. an den Felsen des Mtwapa Creek) zu zeigen. Eine Blende von f/8 bis f/11 sorgt für ausreichende Schärfentiefe.
+Das 45 mm Objektiv ist nützlich für Pflanzenporträts.
+Die Teleobjektive (100 bis 400 mm und 150 bis 600 mm) sind optimal, um Bestäuber auf der Blüte zu isolieren, ohne deren Fluchtdistanz zu unterschreiten.
+Verschlusszeiten: Für Bienen oder Schmetterlinge im Anflug oder während der unruhigen Nahrungsaufnahme sind Verschlusszeiten von 1/1000 bis 1/2000 Sekunde erforderlich, um die Bewegung der Flügel einzufrieren [vermutet]. Für statische Aufnahmen der Blüte aus der Hand reichen bei aktivierter Stabilisierung 1/200 bis 1/250 Sekunde [vermutet].
+Typische Fehler:
+Ein häufiger Fehler bei der Makrofotografie dieser Blüten ist eine zu geringe Schärfentiefe (z. B. f/2.8). Wenn der Fokus exakt auf das röhrenförmige Zentrum (das „Auge“) gelegt wird, verschwinden die äußeren Ränder der fünf Kronblätter in der Unschärfe, was die wissenschaftliche Dokumentation der Blüte einschränkt. Ein Abblenden auf f/5.6 oder f/8 bei nahen Distanzen ist empfehlenswert [vermutet].
 8. Links zum Weiterlesen und Sehen
 Fachliche Quellen:
-POWO (Plants of the World Online, Kew): https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667490-1Der taxonomische Standard der Royal Botanic Gardens Kew, der die vollständige Liste der 33 historischen Synonyme für H. compressa dokumentiert.
-The Hyphaene Project (Genf): https://www.hyphaene.org/index.php/species-and-synonyms/hyphaene-compressaEine wissenschaftliche Datenbank des Konservatoriums Genf mit detaillierten metrischen Vermessungen der Blätter und Infloreszenzen sowie Notizen zur Systematik.
-Genetische Studie (NCBI PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC8854861/Ein detaillierter Fachartikel von Omire et al. zur genetischen Diversität und Bedrohung der Dum-Palme in den kenianischen ASAL-Regionen.
-Monaco Nature Encyclopedia: https://www.monaconatureencyclopedia.com/hyphaene-compressa/?lang=enUmfassende botanische und ethnobotanische Aufarbeitung der Spezies mit exakten Maßangaben und Erklärungen zur historischen Etymologie.
-Kultur und Fotografie:
-Wikipedia (Kultur und Nutzung): https://en.wikipedia.org/wiki/Hyphaene_compressaEnthält einen guten Überblick über die wirtschaftliche Nutzung der Palme durch Frauen-Kooperativen im Turkana-Tal sowie Public Domain Fotos.
-BirdWeather (Afrikanischer Palmensegler): https://app.birdweather.com/species/african-palm-swiftAggregierte ornithologische Sichtungsdaten zum Afrikanischen Palmensegler, der für seine Brut symbiotisch auf die Blätter der Palmen angewiesen ist.
+POWO (Plants of the World Online) – Übersicht über Taxonomie, Synonyme und globale Verbreitung der Kew Gardens: https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77880-115
+PFAF (Plants For A Future) – Sehr detailliertes Profil zu essbaren und medizinischen Eigenschaften, ökologischen Ansprüchen und Zuchtbedingungen: https://pfaf.org/user/Plant.aspx?LatinName=Catharanthus%20roseus16
+USDA Plants Database – Datenblatt des US-Landwirtschaftsministeriums mit taxonomischer Hierarchie und invasivem Status: https://plants.sc.egov.usda.gov/plant-profile/CARO142
+Fotos:
+Wikimedia Commons – Exzellent belichtetes Foto der dunkelpinken ("roten") Farbvariante unter CC BY-SA 4.0 Lizenz: https://commons.wikimedia.org/wiki/File:Catharanthus_roseus-Red_flowers_of_Madagascar_Periwinkle_2.JPG46
+Wikimedia Commons – Detaillierte Nahaufnahme von Laubblättern und Blüte unter CC BY-SA 3.0 Lizenz: https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_(Flowers).jpg47
+Verbreitungskarte:
+GBIF (Global Biodiversity Information Facility) – Weltweite Dokumentation von Vorkommen, Geodaten und Referenzsammlungen: https://www.gbif.org/species/316983048
+Kultur oder Geschichte:
+Chelsea Physic Garden – Ein ausführlicher Blogartikel, der die globale Geschichte, die Einführung in Europa durch Philip Miller und die Biopiraterie rund um Eli Lilly beleuchtet: https://www.chelseaphysicgarden.co.uk/the-many-lives-of-a-medicinal-superstar-delving-into-the-global-story-of-catharanthus-roseus/6
 9. Visuelle Beschreibung für eine Illustration
-The Hyphaene compressa rises as a solitary, robust pillar from the arid ground before bifurcating into a highly geometric, strictly dichotomous branching pattern. At approximately four to five meters high, the grey, deeply vertically fissured trunk splits symmetrically in a Y-shape, a process that repeats up to five or six times, creating a sprawling canopy of up to 64 distinct spherical crowns. Each terminal head is an explosive rosette of costapalmate leaves, presenting a stark olive-to-bluish-green contrast, while old, withered leaf sheaths stubbornly cling to the upper sections of the branches, giving the lower canopy an untidy, thatched appearance.
-Detail 1 (Fruit): A mature fruit (drupe), irregular and pear-shaped, measuring up to 12 cm, bearing a tough, fibrous dark-orange to pale-brown outer skin.
-Detail 2 (Leaf Petiole): The thick, yellowish-green base of the leaf stalk, armed aggressively with sharp, upward-curving blackish-brown thorns spaced exactly 4 to 5 cm apart along its margins.
-Detail 3 (Nest): A close-up of a single Cypsiurus parvus (African Palm Swift) nest glued seamlessly to the downward-hanging vertical underside of a palm segment, constructed entirely of small grey feathers and hardened saliva, holding two small eggs.
-Cultural Vignette (Basket): A woven Turkana basket featuring intricate geometries, displaying the fibrous strength of immature, split palm leaves dyed in local earth tones.
+The evergreen subshrub features a sturdy, woody base from which slender, fleshy stems ascend, maintaining either an erect or trailing posture up to one meter in height. The dark-green, glossy leaves are arranged in perfect opposite pairs along the stem, presenting a glabrous, oval-to-oblong shape defined by a prominently pale, distinct midrib. Solitary, symmetrical flowers bloom at the leaf axils or terminals, unfolding into five flat, petal-like corolla lobes that range in color from pure white to vivid pink, converging sharply into a contrasting dark-red tubular center, known as the "eye".
+Detailvorschläge:
+Frucht: Ein sich längs öffnendes Paar zylindrischer Balgfrüchte (Follikel), aus denen kleine, gerippte, komprimierte Samen ohne Haarschopf herausfallen.
+Blatt (Querschnitt/Mikroskopisch): Eine vergrößerte Darstellung des Zellgewebes, die die Wachsschicht (Cuticula) der Epidermis zeigt, in der die kristallisierten Alkaloide lagern.
+Wurzelsystem: Ein angeschnittener Wurzelbereich, der neue, sprießende Achselknospen zeigt, die typisch für den Neuaustrieb nach Trockenheit oder Rückschnitt sind.
+Kulturelle Vignette:
+Ein traditioneller, aus Holz geschnitzter madagassischer Mörser mit Stößel (oder ein bauchiges Tongefäß zum Kochen von Dekokten), flankiert von einer Handvoll ovaler Blätter und Blüten, was auf die jahrhundertealte Zubereitung als Mittel gegen Hunger und Diabetes verweist.
 10. Was du nicht belegen konntest
-Die folgenden, in der Anfrage explizit geforderten Datenpunkte konnten anhand des vorliegenden Materials nicht belegt werden:
-Kikuyu-Name: In den ethnobotanischen Quellen fand sich kein belegter Name der Kikuyu für Hyphaene compressa.
-Maa-Name spezifisch für H. compressa: Der Begriff "ol-piro" wurde in den Quellen für die Gattung allgemein bzw. für die Art H. coriacea notiert. Für H. compressa wird lediglich der Name des verwandten Ilchamus-Dialekts (lparrua) erwähnt. Ein spezifischer Name der Maasai (Maa) lag nicht vor.
-Alltagsvergleiche für Größenordnungen: Explizite Alltagsvergleiche (z. B. "Handfläche", "Türhöhe") sind in den wissenschaftlichen Originaltexten nicht vorhanden. Da Erfindungen untersagt waren, wurden nur die reinen metrischen Werte übernommen, mit Ausnahme der berechenbaren Haushöhe für den 20-Meter-Stamm.
-Absolute Bestandszahlen in Kenia: Es existieren keine Daten zu absoluten Baum-Individuen in den ASAL-Gebieten Kenias. Es liegen lediglich Verteilungsraten aus spezifischen Studienpopulationen vor.
-Fluchtdistanz in Metern: Spezifische Fluchtdistanzen in Metern für Elefanten oder Paviane an der Palme wurden in den ökologischen Texten nicht beziffert, lediglich die physischen Fluggeschwindigkeiten der Vögel.
+Folgende der angefragten Informationen waren in der Datenlage nicht auffindbar oder widersprüchlich:
+Lokale Namen für kenianische Gemeinschaften: Es wurde explizit nach den Namen bei Maa, Kikuyu, Samburu, Giriama und Kamba gefragt. Obwohl die ethnobotanische Nutzung in Ostafrika erwähnt wird, ist der spezifische Begriff für Catharanthus roseus in diesen fünf Sprachen unbekannt. Das Wort "Olubinu" wird genannt, ist aber keinem dieser Stämme eindeutig linguistisch zuzuordnen. Das in Kenia genutzte Wort "Maua" bedeutet generisch "Blumen" und ist kein spezifischer Pflanzenname.
+Genaues Fruchtmaß: Es liegt ein eklatanter Widerspruch in den Quellen vor. Eine Quelle nennt 2,0 bis 4,0 cm Länge, während eine andere Quelle 15,0 bis 25,0 cm angibt. Der Fehler konnte mangels einer dritten, entscheidenden Quelle nicht aufgelöst werden.
+Saisonales Verhalten exakt im September/Oktober: Die Aussagen zum Verhalten beim Übergang von der langen Trockenzeit zur kleinen Regenzeit an der kenianischen Küste sind abgeleitet und als vermutet gekennzeichnet. Die Quellen belegen zwar die ganzjährige Blüte und Dürretoleranz, nennen aber die Monate September und Oktober nicht explizit in Kombination mit dem Wuchsverhalten in Kenia.
+Dies dient nur zu Informationszwecken. Für medizinische Beratung oder Diagnosen konsultieren Sie bitte medizinisches Fachpersonal.
 Works cited
-Hyphaene compressa, https://www.hyphaene.org/index.php/species-and-synonyms/hyphaene-compressa
-Systematics and classification - Hyphaene, https://www.hyphaene.org/index.php/about-hyphaene/systematics-classification
-(PDF) A multidisciplinary study of the doum palms (Hyphaene Gaertn.), https://www.researchgate.net/publication/326147011_A_multidisciplinary_study_of_the_doum_palms_Hyphaene_Gaertn_origin_of_the_project_current_advances_and_future_perspectives
-Hyphaene compressa - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/hyphaene-compressa/?lang=en
-Hyphaene compressa: A comprehensive Growing Guide for, https://www.viriar.com/blogs/palms-tree-encyklopedia/hyphaene-compressa
-https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:667490-1
-Hyphaene compressa - Safari Afrika, https://www.safari-afrika.de/pflanzenwelt/palmen/hyphaene-compressa/
-Nordosten tropisches Afrika: Arten - Pl@ntNet identify - Plantnet, https://identify.plantnet.org/de-at/k-northeast-tropical-africa/species?family=Arecaceae
-Hyphaene compressa | Interactive Suitable Tree Species Selection, https://apps.worldagroforestry.org/suitable-tree/content/hyphaene-compressa-1
-Hyphaene compressa - Wikipedia, https://en.wikipedia.org/wiki/Hyphaene_compressa
-Dichotomous branching: the plant form and integrity upon the apical, https://pmc.ncbi.nlm.nih.gov/articles/PMC4047680/
-Species delimitation and diversification of the doum palms (Hyphaene, https://academic.oup.com/botlinnean/advance-article/doi/10.1093/botlinnean/boag077/8770589
-(PDF) BeyondGenera Palmarum: progress and prospects in palm, https://www.researchgate.net/publication/303935353_BeyondGenera_Palmarum_progress_and_prospects_in_palm_systematics
-The Structural Biology of Palms - ResearchGate, https://www.researchgate.net/publication/375247505_The_Structural_Biology_of_Palms
-Hyphaene compressa: A comprehensive Growing Guide for, https://www.viriar.com/es/blogs/palms-tree-encyklopedia/hyphaene-compressa
-Variation in Hyphaene thebaica Mart. fruit - BEC-UAC, https://www.bec.uac.bj/uploads/publication/b746ecedbb2c2a818cf7f0210f58cf24.pdf
-Hyphaene petersiana dormancy and germination - Academia.edu, https://www.academia.edu/96459897/Hyphaene_petersiana_dormancy_and_germination
-Effect of drying and soaking fruits and seeds on germination of, https://pdfs.semanticscholar.org/ec69/cc37e378c09e159dcd5812540a0ea6827dcf.pdf
-Hyphaene compressa (H. coriacea) Palmae, https://apps.worldagroforestry.org/usefultrees/pdflib/Hyphaene_compressa_TZA.pdf
-Distribution and ecology - Hyphaene, https://www.hyphaene.org/index.php/about-hyphaene/distribution-and-ecology
-Seed Scarification Requirement in Doum (Hyphaene thebaica Mart.), https://www.researchgate.net/publication/239615738_Seed_Scarification_Requirement_in_Doum_Hyphaene_thebaica_Mart
-Methods for Improving the Germination of Rhodotypos scandens, https://www.mdpi.com/2223-7747/13/5/648
-(PDF) Variation in Hyphaene thebaica mart. Fruit - ResearchGate, https://www.researchgate.net/publication/280009396_Variation_in_Hyphaene_thebaica_mart_Fruit_Physical_characteristics_and_factors_affecting_seed_germination_and_seedling_growth_in_Benin_West_Africa
-Genetic Diversity and Population Structure of Doum Palm ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8854861/
-Hyphaene compressa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Hyphaene+compressa
-New World palm swift | bird - Britannica, https://www.britannica.com/animal/New-World-palm-swift
-African palm swift - Wikipedia, https://en.wikipedia.org/wiki/African_palm_swift
-African palm swift - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/african-palm-swift
-African Palm Swift (Cypsiurus parvus) identification - Birda.org, https://app.birda.org/species-guide/39891/African_Palm_Swift
-African palm swift's unique nest and breeding habits - Facebook, https://www.facebook.com/groups/2020503754915509/posts/2643503675948844/
-African Palm Swift - Whole Earth Education, https://wholeeartheducation.com/african-palm-swift/
-African palm swift Facts for Kids, https://kids.kiddle.co/African_palm_swift
-(PDF) Hyphaene compressa, an important palm in the arid and semi, https://www.researchgate.net/publication/342084840_Hyphaene_compressa_an_important_palm_in_the_arid_and_semi-arid_regions_of_Kenya
-Living palm collections in Florida (USA). A. Hyphaene coriacea, https://www.researchgate.net/figure/Living-palm-collections-in-Florida-USA-A-Hyphaene-coriacea-originally-collected-in_fig4_326147011
-Hyphaene compressa - Wikidata, https://www.wikidata.org/wiki/Q5958852
-Species delimitation and diversification of the doum palms (Hyphaene, https://academic.oup.com/botlinnean/advance-article-pdf/doi/10.1093/botlinnean/boag077/70786392/boag077.pdf
-Hyphaene – A multidisciplinary study, https://www.hyphaene.org/
-Main complexities hindering taxonomic studies in certain palm groups., https://www.researchgate.net/figure/Main-complexities-hindering-taxonomic-studies-in-certain-palm-groups_fig1_326147011
+Catharanthus roseus (L.) G.Don | Apocynaceae - MyBIS, https://www.mybis.gov.my/sp/33491
+Catharanthus roseus (L.) G. Don - USDA Plants Database, https://plants.sc.egov.usda.gov/plant-profile/CARO14
+Revision of Catharanthus G. Don Series of Revisions ... - WUR eDepot, https://edepot.wur.nl/282984
+Floristic Account of Apocynaceae (Gentianales) in Tunisia - MDPI, https://www.mdpi.com/2223-7747/14/3/318
+Floristic Account of Apocynaceae (Gentianales) in Tunisia - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC11821063/
+The many lives of a medicinal superstar: delving into the global story, https://www.chelseaphysicgarden.co.uk/the-many-lives-of-a-medicinal-superstar-delving-into-the-global-story-of-catharanthus-roseus/
+ITIS - Report: Catharanthus roseus, https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=30168
+Catharanthus | International Plant Names Index, https://www.ipni.org/n/2251-1
+An Updated Review on Catharanthus Roseus: Its Traditional and, https://www.derpharmachemica.com/pharma-chemica/an-updated-review-on-catharanthus-roseus-its-traditional-and-modern-use-for-humankind-91066.html
+Immergruen —Vinca major - Silberkraft, https://silberkraft.com/pages/l/vinca-major
+(PDF) Antimalarial Plants Used Across Kenyan Communities, https://www.researchgate.net/publication/341793298_Antimalarial_Plants_Used_Across_Kenyan_Communities
+Antimalarial Plants Used across Kenyan Communities - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC7306085/
+Catharanthus roseus, commonly known as Madagascar periwinkle, https://www.facebook.com/olunikeadetunji.bello/posts/catharanthus-roseus-commonly-known-as-madagascar-periwinkle-is-a-beautiful-flowe/2098978180691309/
+Catharanthus roseus - OneKP - CNGBdb, https://db.cngb.org/onekp/species/Catharanthus%20roseus
+Catharanthus roseus (L.) G.Don - UAE Flora, https://www.uaeflora.ae/plant/359
+Catharanthus roseus Madagascar Periwinkle, Jasmine ... - PFAF.org, https://pfaf.org/user/Plant.aspx?LatinName=Catharanthus%20roseus
+Catharanthusroseus Extraction and Phytochemical Screening - Scribd, https://www.scribd.com/document/998142292/Catharanthusroseus-Extraction-and-Phytochemical-Screening-copy
+Validated high performance thin layer chromatographic analysis of, https://ijpp.org.in/archive/volume/8/issue/4/article/23370
+Catharanthus roseus: A Comprehensive Review of Its, https://cellnatsci.com/2958-695X/article/10-61474-ncs-2024-00044
+Catharanthus roseus - Wikipedia, https://en.wikipedia.org/wiki/Catharanthus_roseus
+Phytochemical analysis of leaf extracts of Catharanthus roseus (L, https://www.botanyjournals.com/assets/archives/2021/vol6issue4/6-3-183-403.pdf
+Indole Alkaloids from Catharanthus roseus: Bioproduction and Their, https://pmc.ncbi.nlm.nih.gov/articles/PMC6272713/
+Dimerization of catharanthine and vindoline - Wikipedia, https://en.wikipedia.org/wiki/Dimerization_of_catharanthine_and_vindoline
+Peroxidase from Catharanthus roseus (L.) G. Don and the, https://www.researchgate.net/publication/9077791_Peroxidase_from_Catharanthus_roseus_L_G_Don_and_the_biosynthesis_of_a-3'4'-anhydrovinblastine_A_specific_role_for_a_multifunctional_enzyme
+The leaf idioblastome of the medicinal plant Catharanthus roseus is, https://academic.oup.com/jxb/article-pdf/75/1/274/54732029/erad374.pdf
+Molecular Cloning and Characterization of a Vacuolar Class III, https://search.proquest.com/openview/2ca12860e803d81b31fc125b9d036efa/1?pq-origsite=gscholar&cbl=40931
+(PDF) Vinblastine and Vincristine Production on Madagascar, https://www.researchgate.net/publication/305857781_Vinblastine_and_Vincristine_Production_on_Madagascar_Periwinkle_Catharanthus_roseus_L_G_Don_Callus_Culture_Treated_with_Polethylene_Glycol
+Research Journal of Pharmaceutical, Biological and Chemical, https://www.rjpbcs.com/pdf/2016_7(4)/[244].pdf
+Catharanthus roseus Risk - California Invasive Plant Council, https://www.cal-ipc.org/plants/risk/catharanthus-roseus-risk/
+Catharanthus roseus - Biodiversity at FLAME University, https://biodiversityatflame.wordpress.com/2020/03/03/catharanthus-roseus/
+Once in a blue moon, a plant stops you in your tracks ... - Facebook, https://www.facebook.com/tropicaljungle/posts/once-in-a-blue-moon-a-plant-stops-you-in-your-tracks-and-immediately-goes-onto-t/1492275802935872/
+Report on Vincristine-Producing Endophytic Fungus Nigrospora, https://pmc.ncbi.nlm.nih.gov/articles/PMC9697034/
+Fungal endophytes of Catharanthus roseus enhance vindoline, https://pmc.ncbi.nlm.nih.gov/articles/PMC4879578/
+Piracy of the Periwinkle: Extraction of Madagascar's Traditional, https://criticaldebateshsgj.scholasticahq.com/post/3401-piracy-of-the-periwinkle-extraction-of-madagascar-s-traditional-indigenous-knowledge-by-babiha-bakshi
+Catharanthus roseus (L.) G. Don.: Extraordinary Bapedi medicinal, https://academicjournals.org/journal/JMPR/article-full-text-pdf/AD7A70F24670
+Madagascar periwinkle and Pacific yew - SlideServe, https://www.slideserve.com/quilla/madagascar-periwinkle-and-pacific-yew
+Phytochemical Analysis of Catharanthus Roseus L. (G.) DON, https://www.academia.edu/39270466/Phytochemical_Analysis_of_Catharanthus_Roseus_L_G_DON
+5 1-pharmacognostical profile of selected medicinal plants | PDF, https://www.slideshare.net/slideshow/5-1pharmacognostical-profile-of-selected-medicinal-plants/248333591
+(PDF) AN UPDATED REVIEW ON CATHARANTHUS ROSEUS, https://www.researchgate.net/publication/305299573_AN_UPDATED_REVIEW_ON_CATHARANTHUS_ROSEUS_PHYTOCHEMICAL_AND_PHARMACOLOGICAL_ANALYSIS
+Catharanthus roseus (L.) G. Don: A review of its ethnobotany, https://pubmed.ncbi.nlm.nih.gov/34562562/
+Sharing Stories, Sharing Collections - Museum Wales, https://museum.wales/blog/2018-02-27/Sharing-Stories-Sharing-Collections/
+Authorship Collaborative - Rosy Periwinkle, https://case.edu/affil/sce/authorship-spring2004/rosy.html
+The search for unknown biodiversity - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC3156167/
+Global demand for Madagascar's unique plants fuels unsustainable, https://www.traffic.org/news/global-demand-for-madagascars-unique-plants-fuels-unsustainable-harvesting/
+Botanical Name / Catharanthus roseus (L.) G.Don - Flora of Sri Lanka, https://www.floraofsrilanka.com/species/1311
+File:Catharanthus roseus-Red flowers of Madagascar Periwinkle 2, https://commons.wikimedia.org/wiki/File:Catharanthus_roseus-Red_flowers_of_Madagascar_Periwinkle_2.JPG
+File:Catharanthus roseus (Flowers).jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Catharanthus_roseus_(Flowers).jpg
+Catharanthus roseus (L.) G.Don, Periwinkle (World flora) - Pl@ntNet, https://identify.plantnet.org/martinique/species/Catharanthus%20roseus%20(L.)%20G.Don/data
+Catharanthus roseus (L.) G. Don - Plant Identifier - Plantnet, https://identify.plantnet.org/fr/aft/species/Catharanthus%20roseus%20(L.)%20G.%20Don/data
+Catharanthus roseus - Planted, https://planted-app.com/plants/catharanthus-roseus

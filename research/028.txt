@@ -1,283 +1,182 @@
-Forschungsbericht: Burhinus vermiculatus (Wassertriel) – Strukturiertes Rohmaterial und Datenkompendium für das kenianische Rift Valley
-Die vorliegende Untersuchung liefert ein hochgradig detailliertes, strukturiertes Daten- und Faktenkompendium zur Art Burhinus vermiculatus (Wassertriel). Das Material ist gezielt auf die geografischen, ökologischen und klimatischen Parameter des kenianischen Rift Valleys für den Reisezeitraum vom 24. September bis 12. Oktober 2026 zugeschnitten. Das Dokument ist als objektive, bewertungsfreie Datenbasis konzipiert, die als Fundament für erzählende Naturpublikationen dient.
-Wissenschaftsgeschichte und Taxonomie
-Die formelle wissenschaftliche Klassifikation des Wassertriels ist tief in der europäischen Erforschungsgeschichte Ostafrikas während des 19. Jahrhunderts verwurzelt. Die Spezies wurde im Jahr 1868 von dem deutschen Ornithologen Jean Louis Cabanis unter dem Protonym Oedicnemus vermiculatus erstmals wissenschaftlich beschrieben1. Diese Erstbeschreibung erfolgte im „Journal für Ornithologie“ (Band 16, Nr. 96, Seite 413)1. Das für die Beschreibung verwendete Typusexemplar stammte aus der Region des Lake Jipe, in der Nähe von Taita im heutigen Kenia1. Die Namensgebung und Katalogisierung erfolgte in der Ära der großen afrikanischen Expeditionen, wobei insbesondere die ornithologischen Sammlungen des deutschen Forschers Baron Karl Klaus von der Decken (1833–1865) maßgeblich zur Erfassung der ostafrikanischen Avifauna beitrugen6.
-Im Zuge phylogenetischer Revisionen wurde die Art später in die bereits 1811 von dem deutschen Zoologen Johann Karl Wilhelm Illiger etablierte Gattung Burhinus überführt2. Die übergeordnete Familie der Burhinidae wurde im Jahr 1912 von dem australischen Ornithologen Gregory Mathews offiziell eingeführt2. Morphologische Analysen von Skelettstrukturen, Hautmerkmalen und unbefiederten Bereichen bestätigten die systematische Eingliederung des Wassertriels in die Unterfamilie Burhininae, welche die sogenannten „kleineren Triele“ zusammenfasst, in Abgrenzung zu den größeren Vertretern der Gattung Esacus7. Historische Typusexemplare der Art, insbesondere solche, die von frühen Kuratoren beschrieben wurden, werden heute in internationalen Sammlungen wie dem Naturalis Biodiversity Center in Leiden (Niederlande) unter Katalognummern wie RMNH.AVES.87560 archiviert9.
+Strukturiertes Forschungsmaterial: Buntgoldschnepfe (Rostratula benghalensis) im Kenianischen Rift Valley
+1. Nomenklatur und Etymologie
+Die systematische Einordnung und die Namensgebung der Buntgoldschnepfe reflektieren sowohl die frühe europäische Taxonomiegeschichte als auch die indigene Wahrnehmung der Art in Ostafrika.
+Innerhalb der wissenschaftlichen Taxonomie gehört die Art zur Ordnung der Regenpfeiferartigen (Charadriiformes) und bildet zusammen mit der südamerikanischen Weißfleckschnepfe (Nycticryphes semicollaris) und der australischen Schmuckschnepfe (Rostratula australis) die Familie der Goldschnepfen (Rostratulidae)1. Die australische Schmuckschnepfe wurde historisch lange als Unterart (Rostratula benghalensis australis) geführt, wird jedoch in der modernen Systematik aufgrund morphologischer Divergenzen, wie signifikant längerer Flügel, als eigenständige Art anerkannt1. Die systematische Klassifikation stellt sich wie folgt dar:
 
-Taxonomische Rangstufe
-	Wissenschaftlicher Name
-	Anmerkung
-
-Klasse
-	Aves
-	Vögel5
+Rang
+	Taxon
+	Wissenschaftlicher Autor
 
 Ordnung
-	Charadriiformes
-	Regenpfeiferartige (Wadvögel)5
+	Charadriiformes (Regenpfeiferartige)
+	Huxley, 18677
 
 Familie
-	Burhinidae
-	Triele (weltweit 10 rezente Arten)8
+	Rostratulidae (Goldschnepfen)
+	Mathews, 19131
 
 Gattung
-	Burhinus
-	Illiger, 1811 (Typusart: Burhinus grallarius)2
+	Rostratula
+	Vieillot, 18161
 
 Art
-	Burhinus vermiculatus
-	Wassertriel (Cabanis, 1868)5
-Innerhalb der Art werden aktuell zwei geografisch und morphologisch getrennte Unterarten (Subspezies) wissenschaftlich anerkannt, deren Verbreitungsgebiete sich im afrikanischen Kontinentalkontext aufteilen:
-Burhinus vermiculatus vermiculatus (Cabanis, 1868): Die Nominatform. Ihr Verbreitungsgebiet erstreckt sich von der Demokratischen Republik Kongo ostwärts bis nach Somalia und südwärts durch ganz Ost- und Südafrika bis zur Südspitze des Kontinents1. Diese Form zeichnet sich durch ein etwas blasseres und graueres Obergefieder aus und ist die in Kenia präsente Unterart12.
-Burhinus vermiculatus buettikoferi (Reichenow, 1898): Diese Form wurde von Anton Reichenow beschrieben. Ihr Areal reicht in Westafrika von Liberia bis Gabun und Nigeria1. Morphologisch unterscheidet sich diese Unterart durch ein breites, blassgraues Feld auf dem geschlossenen Flügel, das an der Oberseite von einer schmalen, dunklen Linie begrenzt wird13.
-Nomenklatur und Etymologie
-Die Benennung des Wassertriels in den verschiedenen Wissenschafts- und Umgangssprachen reflektiert primär seine morphologischen Auffälligkeiten, seine Habitatpräferenz sowie sein akustisches Repertoire. Der Gattungsname Burhinus entstammt dem Altgriechischen und setzt sich aus den Wörtern bous (Ochse) und rhis beziehungsweise rhinos (Nase oder Schnabel) zusammen, was eine direkte anatomische Anspielung auf den auffällig massiven, kräftigen und stierartigen Schnabel der Vögel ist7. Der spezifische Artname vermiculatus ist lateinischen Ursprungs und leitet sich von vermiculus (kleiner Wurm) ab. Dies bedeutet übersetzt „wurmförmig“ oder „gewurmt“ und referenziert die feine, wellige und wurmartige Zeichnung (Vermikulation) auf dem Rückengefieder der Art, die maßgeblich zur optischen Tarnung in der Umgebung beiträgt5.
-Die englische Bezeichnung „Thick-knee“ (Dickknie) lässt sich bis in das Jahr 1776 zurückverfolgen und bezieht sich auf die markant verdickten Gelenke der langen, grüngelben Beine der Vögel8. Aus anatomischer und biomechanischer Sicht ist diese umgangssprachliche Bezeichnung jedoch irreführend, da es sich bei dem prominent nach hinten abknickenden Gelenk in der Mitte des Beins nicht um das Knie, sondern um das Intertarsalgelenk (die Ferse beziehungsweise das Sprunggelenk) handelt. Das tatsächliche Knie des Vogels liegt anatomisch wesentlich weiter oben und bleibt meist unter dem Bauchgefieder verborgen8. Der alternative, in Südafrika weit verbreitete englische Begriff „Dikkop“ stammt aus dem Afrikaans und bedeutet wörtlich „Dickkopf“. Diese Bezeichnung beschreibt die für die gesamte Familie der Burhinidae charakteristische große, gewölbte Kopfform und den proportional massiven Schädel7.
+	Rostratula benghalensis
+	(Linnaeus, 1758)8
+Die Etymologie des wissenschaftlichen Gattungsnamens Rostratula leitet sich vom lateinischen Begriff rostrum ab, was "Schnabel" bedeutet12. Diese Namensgebung referenziert die anatomische Ausprägung des langen, an der Spitze leicht abwärts gebogenen Schnabels, der für die Nahrungsbeschaffung im weichen Schlamm essenziell ist4. Das Artepitheton benghalensis verweist auf die Region Bengalen. Diese geografische Zuordnung geht auf Aufzeichnungen des französischen Ornithologen Mathurin-Jacques Brisson aus dem Jahr 1760 zurück, der den Vogel als "Bengali of Brisson" bezeichnete, woraufhin Carl von Linné diese Typuslokalität 1758 in die binominale Nomenklatur übernahm, auch wenn das Verbreitungsgebiet der Art weit über den indischen Subkontinent hinaus nach Afrika reicht10.
+In der ostafrikanischen Nomenklatur existieren spezifische lokale Bezeichnungen, die tief in der Ethno-Ornithologie der Region verwurzelt sind. In der überregionalen Verkehrssprache Swahili wird der Vogel Sululu uzuri genannt17. Der Begriff Sululu ist ein generisches Wort für Schnepfen oder Vögel mit langen Schnäbeln, während uzuri mit "Schönheit" oder "Pracht" übersetzt wird. Diese Namensgebung dokumentiert die genaue lokale Beobachtung des auffälligen, farbenprächtigen Gefieders, das die Art von den kryptischer gefärbten, echten Schnepfen (Scolopacidae) abhebt. In der Sprache der Kikuyu, einer ethnischen Gruppe, die historisch die Hochlande und die Ränder des Rift Valleys bis nach Naivasha besiedelt, wird die Art als Gathonjo ka weru-ini bezeichnet18. Dieser Deskriptor wurde traditionell für verschiedene kleine Feuchtgebietsvögel und Schnepfen verwendet, wobei "weru-ini" auf offene Savannen- und Feuchtgebietslandschaften verweist18.
+2. Erscheinung und biometrische Maße
+Die Buntgoldschnepfe ist ein mittelgroßer, gedrungener Watvogel, dessen äußeres Erscheinungsbild durch einen außergewöhnlich stark ausgeprägten umgekehrten Sexualdimorphismus definiert wird3. In direkter Umkehrung der bei den meisten Vogelarten üblichen Verhältnisse ist das Weibchen nicht nur größer und schwerer, sondern verfügt auch über ein ungleich prächtigeres und kontrastreicheres Gefieder als das Männchen4. Die Körperform ist insgesamt rundlich, charakterisiert durch eine steil ansteigende Stirn, relativ kurze, kräftige Beine und breite, abgerundete Flügel3.
+Die biometrischen Daten variieren leicht innerhalb der globalen Population, wobei die nachfolgende Tabelle die gesicherten Messbereiche für adulte Individuen zusammenfasst:
 
-Sprache
-	Trivialname
-	Bedeutung / Etymologische Ableitung
+Biometrisches Merkmal
+	Messbereich / Durchschnittswert
 
-Deutsch
-	Wassertriel
-	Ableitung vom Lebensraum am Wasser und der Vogelfamilie3.
+Körperlänge
+	23,0 – 28,0 cm4
 
-Englisch
-	Water Thick-knee / Water Dikkop
-	Referenz auf Lebensraum, Gelenkanatomie und Kopfform7.
+Spannweite
+	50,0 – 55,0 cm (Durchschnitt: 52,5 cm)4
 
-Swahili
-	Chekeamwezi
-	„Der über den Mond lacht“ (referenziert den nächtlichen Ruf)17.
+Körpergewicht (Adult)
+	90,0 – 200,0 g (Durchschnitt: 152,0 g)4
 
-Spanisch
-	Alcaraván acuático
-	Spanische Entsprechung für Triele in Gewässernähe5.
+Schlupfgewicht
+	ca. 12,4 g8
+Das weibliche Gefieder ist evolutionär auf visuelle Dominanz, territoriale Verteidigung und das Werben um Fortpflanzungspartner ausgelegt. Kopf, Hals und die obere Brust des Weibchens werden von einer satten, dunklen Kastanien- bis Mahagonifärbung dominiert4. Ein hochgradig kontrastierender, reinweißer Augenring, der sich keilförmig als Streifen bis hinter das Auge zieht, formt eine markante "Brillen"-Zeichnung4. Auf dem schwärzlichen Scheitel verläuft ein heller, cremefarbener Medianstreifen. Die Körperoberseite, bestehend aus Rücken und Flügeln, schimmert dunkel bronzegrün und ist von feinen schwarzen Querlinien durchzogen4. Zwischen den Schultern formt das Mantelgefieder ein helles, auffälliges "V". Ein breites, schwärzliches Brustband separiert die kastanienrote Kehle von der reinweißen Bauchunterseite, während ein weiteres leuchtend weißes Band den Flügelbug und die Schulterpartie umrahmt4.
+Das Männchen hingegen weist ein kryptisches Gefieder auf, dessen evolutionärer Zweck in der maximalen optischen Verschmelzung mit der Umgebung während der alleinigen Bodenbrut liegt3. Die Oberseite ist durch eine komplexe, auflösende Musterung (Disruptivfärbung) aus Goldbeige, Brauntönen und Schwarz gekennzeichnet4. Die großen Flügeldecken zeigen charakteristische beigefarbene, ocellenartige Flecken4. Der Kopf und der Hals sind überwiegend graubraun gefärbt, wobei der Nacken aschgrau überhaucht ist und die Kehle eine braun-weiße Strichelung aufweist4. Im Gegensatz zum harten Weiß des Weibchens sind der Augenring und der Überaugenstreif beim Männchen in einem blassen Goldton gehalten4. Auch das "V"-förmige Abzeichen auf dem Mantel ist golden anstatt weiß4.
+Juvenile Vögel weisen eine starke Ähnlichkeit zum kryptischen Gefieder des adulten Männchens auf, lassen sich jedoch durch graubraunere Flügeldecken mit kleineren blass-beigen Flecken unterscheiden4. Der weiße Trennstreifen zwischen der dunklen oberen Brust und dem weißen Bauch fehlt bei Jungvögeln zunächst oder ist nur diffus angedeutet4. Unabhängig von Alter und Geschlecht verfügen alle Individuen über einen langen, an der Basis blassgelben und zur Spitze hin hornfarbenen Schnabel, dessen Ende leicht abwärts gebogen ist4. Die Beine und die langen, ungeschwimmhäuteten Zehen variieren in der Färbung von grünlich-gelb bis olivfarben, während die Iris dunkelbraun ist2.
+3. Der Mechanismus der Geschlechtsrollenumkehr
+Die vollständige Geschlechtsrollenumkehr (Sex-Role Reversal), bei der Männchen die alleinige elterliche Fürsorge übernehmen und Weibchen um Paarungspartner konkurrieren, ist ein extremes evolutionäres Phänomen, das bei weniger als ein bis zwei Prozent aller bekannten Vogelarten auftritt25. Bei der Buntgoldschnepfe wird dieses System durch ein komplexes Zusammenspiel aus ökologischen Treibern, genetischen Anpassungen und anatomischen Spezialisierungen aufrechterhalten.
+Ökologische und soziale Treiber
+Die evolutionäre Entstehung der Geschlechtsrollenumkehr wird maßgeblich durch die sogenannte Adult Sex Ratio (ASR), also das Geschlechterverhältnis adulter Tiere innerhalb einer Population, bestimmt26. Theoretische und phylogenetische Modelle zeigen, dass ein starker Überschuss an Männchen (male-biased ASR) in einer Population den primären Auslöser für diesen Systemwechsel darstellt26. Wenn deutlich mehr Männchen als Weibchen um Fortpflanzungsmöglichkeiten konkurrieren, sinkt für das einzelne Männchen die Wahrscheinlichkeit, nach einer erfolgten Kopulation eine weitere, ungebundene Partnerin zu finden, drastisch26. Unter diesem massiven Konkurrenzdruck verschiebt sich die optimale evolutionäre Strategie des Männchens: Anstatt das Weibchen zu verlassen und in eine aussichtslose Suche nach weiteren Partnerinnen zu investieren, maximiert das Männchen seine genetische Fitness, indem es am Nest verbleibt und die alleinige Inkubation sowie die Aufzucht der Nachkommen übernimmt26. Die Weibchen werden durch diese Übernahme der Brutpflege von energetisch kostenintensiven elterlichen Pflichten befreit. Das limitierende Geschlecht sind nun die verfügbaren, brütenden Männchen, was einen starken sexuellen Selektionsdruck auf die Weibchen auslöst. Dies führt zur Entwicklung von territorialem Verhalten, Polyandrie und auffälligen morphologischen Signalen wie dem Prachtgefieder26.
+Genetische Basis und Chromosomale Evolution
+Diese intensive sexuelle Selektion, die auf die Weibchen wirkt, hinterlässt tiefe Spuren im Genom der Art, was in der Forschung als "Fast-Z"-Effekt beschrieben wird29. Vögel besitzen ein ZW-Geschlechtschromosomensystem, bei dem das Weibchen das heterogametische Geschlecht (ZW) und das Männchen das homogametische Geschlecht (ZZ) darstellt30. Unter dem System der rollenumgekehrten Polyandrie, in dem wenige Weibchen die Reproduktion mit vielen Männchen monopolisieren, konvergiert die effektive Populationsgröße des Z-Chromosoms (NeZ) mit der der Autosomen (NeA)30. Da das Weibchen nur ein einziges Z-Chromosom besitzt, werden rezessive Allele, die sich auf diesem Chromosom befinden, nicht durch ein zweites Allel maskiert, sondern phänotypisch direkt exprimiert29. Wenn durch zufällige Mutationen vorteilhafte rezessive Allele entstehen – beispielsweise solche, die ein prachtvolleres Gefieder oder eine erhöhte Körpergröße codieren –, greift die extreme sexuelle Selektion durch die Partnerwahl der Männchen sofort29. Diese Allele werden im Gegensatz zu Populationen mit klassischer Rollenverteilung ungewöhnlich schnell in der Population fixiert, was die rasante morphologische Divergenz des Weibchens auf genetischer Ebene erklärt29.
+Anatomische Vokalisation-Spezialisierungen
+Um im intensiven Wettbewerb um die Männchen bestehen zu können, haben die Weibchen hochspezialisierte anatomische Merkmale entwickelt, die der akustischen Kommunikation und der territorialen Dominanz dienen. Die akustische Illusion von Größe wird durch zwei bemerkenswerte Anpassungen des Vokaltrakts erreicht: Erstens verfügt das Weibchen über eine stark verlängerte Luftröhre (Trachea). Diese ist nicht geradlinig, sondern bildet ausgeprägte Schleifen und Windungen (Konvolutionen) innerhalb des Brustkorbs (Thorax und Sternum)31. Diese anatomische Anomalie, die bereits 1931 von Percy R. Lowe detailliert seziert und publiziert wurde, verlängert den Resonanzraum drastisch und ermöglicht die Produktion von Lautfrequenzen, die physikalisch normalerweise nur von wesentlich größeren Vögeln erzeugt werden könnten2. Zweitens verfügt das Weibchen über eine extreme Modifikation des ösophagealen Kropfes. Im Gegensatz zu allen anderen Charadriiformes-Arten dient dieser Kropfteil der Speiseröhre bei der weiblichen Buntgoldschnepfe nicht der Vorverdauung oder Speicherung von Nahrung2. Stattdessen ist das Gewebe stark dehnbar und fungiert ausschließlich als Resonanzkammer2. Das Weibchen praktiziert eine sogenannte "Closed-mouth vocalization". Durch das Schließen des Schnabels und den Verschluss der Nares (Nasenlöcher) wird die von der Syrinx erzeugte Atemluft nicht in die Umwelt entlassen, sondern gezielt in den Kropf gepresst33. Diese aufblasbare Kammer filtert hochfrequente Töne heraus und strahlt tiefe, weittragende Resonanzen in Form von hupenden oder hohlen Lauten (koht-koht-koht) ab, die den Männchen Dominanz und Qualität signalisieren4.
+4. Ökologie und Verhalten im Kenianischen Rift Valley
+Das Verhalten der Buntgoldschnepfe ist eng an die Hydrologie und die saisonalen Zyklen tropischer und subtropischer Feuchtgebiete gebunden. Die Art meidet trockene Regionen strikt und ist zwingend auf Süßwasserhabitate angewiesen2.
+Habitatpräferenzen entlang der Route
+Die geplante Reiseroute entlang des kenianischen Rift Valleys bietet verschiedene ökologische Nischen für die Art. Bevorzugte Habitate sind flache, schlammige Uferzonen, Röhrichte, Sumpfgebiete und Areale mit dichter, schwimmender oder hochstehender Grasvegetation2.
+Lake Nakuru: Obwohl primär als alkalischer Sodasee bekannt, speisen Süßwasserzuflüsse an den Rändern wichtige Feuchtbiotope. Der Lake Nakuru wird in Beobachtungsdatenwerken explizit als eines der verbleibenden wichtigen Brut- und Rastgebiete für die Buntgoldschnepfe in Kenia hervorgehoben36.
+Lake Baringo und Lake Naivasha: Beide Seen sind Süßwassersysteme. Lake Naivasha ist von ausgedehnten Papyrusgürteln gesäumt, während Lake Baringo schlammige Einbuchtungen aufweist. An beiden Standorten ist die Art in den Übergangszonen zwischen offener Wasserfläche und dichter Vegetation dokumentiert, wobei am Lake Baringo Beobachtungen fast über das gesamte Jahr hinweg (März bis Dezember) vorliegen39.
+Hell's Gate National Park: Dieser Park zeichnet sich durch vulkanische Felsklippen und trockene Schluchten aus41. Die Buntgoldschnepfe findet hier keine geeigneten Primärhabitate. Beobachtungen sind hier allenfalls als marginal zu betrachten oder auf direkte hydrologische Überschneidungsgebiete mit dem benachbarten Lake Naivasha beschränkt.
+Reisesaisonale Dynamik (Ende September bis Mitte Oktober)
+Der Reisezeitraum (24.09. bis 12.10.2026) fällt in Kenia exakt in die Übergangsphase zwischen dem Ende der langen Trockenzeit und dem Beginn der kurzen Regenfälle ("Short Rains"). Diese Phase ist für die Lebensweise der Art von kritischer Bedeutung. Am Ende der Trockenzeit ziehen sich die Wasserlinien der Rift-Valley-Seen zurück, wodurch ausgedehnte, nahrungsreiche Schlammflächen freigelegt werden, an denen sich Watvögel konzentrieren3. Sobald die ersten heftigen Niederschläge der kleinen Regenzeit einsetzen, werden diese zuvor trockenen Randbereiche schnell überflutet4. Dies führt zu einer explosionsartigen Vermehrung von Wirbellosen. Da die Buntgoldschnepfe keinem starren photoperiodischen Brutkalender folgt, sondern opportunistisch auf Niederschläge reagiert, ist dieser plötzliche Anstieg des Nahrungsangebots der primäre Auslöser für den Beginn der Brutsaison3.
+Nahrungsökologie
+Die Art ist omnivor und sucht ihre Nahrung vorwiegend in der Dämmerung (crepuscular) oder in mondhellen Nächten3. Die tierische Nahrungskomponente besteht aus aquatischen und terrestrischen Insekten (z. B. Heuschrecken und Grillen), Wasserschnecken, Regenwürmern und kleinen Krebstieren3. Die pflanzliche Komponente umfasst Gräsersamen sowie wilden Reis und Hirse3. Die Nahrungssuche erfolgt schleichend und unauffällig. Der Vogel stochert mit dem langen Schnabel tief in weiche Schlammböden (Probing) oder wendet eine Technik an, bei der der Schnabel im seichten Wasser in einer halbkreisförmigen Mähbewegung (Scything) hin- und hergeschwenkt wird, um Mikroorganismen und Samen aus der Schwebe zu filtern4.
+Paarungsverhalten und Sukzessive Polyandrie
+Die Brutsaison ist geprägt durch die sukzessive Polyandrie, bei der sich ein dominantes Weibchen sequenziell mit mehreren Männchen paart, die Eiablage durchführt und das Männchen anschließend verlässt3. Das Balzverhalten wird aktiv vom Weibchen initiiert. Zur territorialen Behauptung und zur visuellen Stimulation des Männchens nutzt das Weibchen das "Spread-wing display". Bei dieser hochritualisierten Imponierhaltung werden einer oder beide Flügel weit nach vorne gestreckt und gewölbt, der Schwanz aufgefächert und der Schnabel nach unten gerichtet4. Durch diese Haltung präsentiert das Weibchen dem Männchen das leuchtend weiße "V" auf ihrem Rücken sowie die kräftigen Kontraste ihres Brustbandes4. Dem eigentlichen Akt geht oft eine Phase des "Allopreening" (gegenseitige Gefiederpflege) voraus, bei der das Weibchen das Männchen putzt und unter der Abgabe ihrer tiefen Resonanzrufe umkreist4.
+Nestbau, Eiablage und Inkubationsrhythmen
+Das Nest ist eine sehr rudimentäre Struktur. Es besteht aus einer flachen Mulde, die am Boden im Schutz dichter Vegetation, auf kleinen Schlammhügeln oder auf dichten Matten aus Schwimmpflanzen angelegt und spärlich mit Grashalmen, Blättern oder Pflanzenstängeln ausgekleidet wird3. Das Gelege umfasst in der Regel zwei bis fünf Eier, wobei vier Eier den quantitativen Standard darstellen3. Die Eier weisen eine blass beige-gelbe Grundfärbung auf, die dicht mit dunklen Flecken gesprenkelt ist, um eine optimale Tarnung am Boden zu gewährleisten4.
+Der genaue Ablauf der Separation der Partner wurde in detaillierten Feldstudien quantifiziert. Vor der Eiablage konsortiert das Paar intensiv; Weibchen und Männchen verbringen über 90 % der Zeit in einem Radius von weniger als fünf Metern zueinander42. Am ersten und zweiten Tag der Eiablage besuchen beide Partner das Nest wiederholt42. Ab dem dritten Tag fällt die Zeit, die das Paar gemeinsam verbringt, auf unter 58,5 %, und das Männchen beginnt, die nächtliche Bebrütung zu übernehmen42. Nach der Ablage des letzten Eies besucht das Weibchen das Nest nicht mehr. Die Bindung erlischt, und das Weibchen sucht ein neues Revier auf, um den Prozess mit einem neuen Partner zu wiederholen42. Ein erfolgreiches Weibchen kann auf diese Weise bis zu vier Männchen pro Saison begatten und vier unabhängige Bruten initiieren3.
+Aufzucht der Jungvögel
+Die alleinige Inkubationsdauer durch das Männchen beträgt zwischen 15 und 21 Tagen, im Durchschnitt 18 bis 19 Tage3. Um einer Entdeckung durch Prädatoren zu entgehen, verlässt sich das Männchen vollständig auf seine kryptische Färbung und verharrt bei Annäherung von Feinden absolut regungslos (Freezing)3. Nur bei unmittelbarer, lebensbedrohlicher Gefahr flieht es oder stößt explosive, grollende Warnrufe aus3. Die schlüpfenden Küken sind hochgradig nestflüchtend (präkocial)3. Sie besitzen ein hell- bis graubraunes Dunenkleid, das von markanten dunklen Längsstreifen durchzogen ist3. Diese spezifische Streifung des Dunenkleides ist einzigartig innerhalb der Charadriiformes und erinnert morphologisch an die Küken der Blatthühnchen (Jacanidae), was auf konvergente Evolution im Feuchtgebietshabitat hinweist2. Das Männchen hudert die Küken in den ersten Tagen, um ihre Thermoregulation zu unterstützen, und führt sie zu Nahrungsquellen, füttert sie jedoch nicht aktiv4. Nach etwa drei bis vier Wochen sind die Jungvögel voll befiedert und erreichen die Selbstständigkeit3. Die sexuelle Reife tritt bei Männchen nach einem Jahr, bei Weibchen erst nach zwei Jahren ein3.
+5. Menschen und Kultur in Kenia
+Die Integration der Buntgoldschnepfe in das kulturelle Bewusstsein Kenias beleuchtet die oft übersehene Komplexität der ostafrikanischen Ethno-Ornithologie. Historisch war die europäische Erfassung des avifaunistischen Wissens stark utilitaristisch oder trophäenorientiert geprägt, wobei indigene Nomenklaturen und ökologische Beobachtungen weitgehend aus den Aufzeichnungen kolonialer Museen ausgeschlossen wurden44. Lokale Gemeinschaften besaßen jedoch ein differenziertes Vokabular für Arten, die keine direkten ökonomischen Auswirkungen hatten.
+In den Feuchtgebieten um den Lake Naivasha und in den Randgebieten der Aberdares, die traditionell von den Kikuyu besiedelt sind, wurden Vögel der Marschlandschaften genau klassifiziert18. Die Kikuyu verwendeten den Begriff Gathonjo ka weru-ini für kleine Rallen, Schnepfen und Wasserläufer18. Der Namenszusatz "weru-ini" bedeutet wörtlich "auf der offenen Ebene" oder "im Feuchtgebiet" und deutet darauf hin, dass diese Vögel fest mit der hydrologischen Unversehrtheit offener Landschaften assoziiert wurden, bevor großflächige landwirtschaftliche Trockenlegungen stattfanden18.
+Darüber hinaus zeugt der Swahili-Name Sululu uzuri von einer tiefen ästhetischen Differenzierung17. Während Sululu für jede Form von lang-schnäbligen Watvögeln steht, wird durch das Attribut uzuri (Schönheit/Pracht) die Buntgoldschnepfe aufgrund des auffälligen weiblichen Prachtgefieders sprachlich direkt von den optisch unauffälligen Arten der Gattung Gallinago (echte Schnepfen) abgegrenzt17. Obwohl indigene Völker in der Region vereinzelt Feuchtgebietsvögel in Fallen (Entrapment) fingen, genossen diese Arten nicht denselben mythologischen oder venerierten Status wie Greifvögel, Eulen oder große Schreitvögel19. Die Entfremdung der modernen, urbanisierten Bevölkerung Kenias von der Avifauna ohne direkten ökonomischen Nutzen hat dazu geführt, dass ein Großteil dieses spezifischen ethno-ornithologischen Wissens zunehmend aus dem kulturellen Gedächtnis schwindet44.
+6. Wissenschaftsgeschichte
+Die Buntgoldschnepfe nimmt in der Historie der Evolutionsbiologie und der Verhaltensforschung eine herausragende Position ein und war Gegenstand dreier fundamentaler wissenschaftlicher Meilensteine.
+Der erste Meilenstein wurde 1871 von Charles Darwin in seinem epochalen Werk The Descent of Man, and Selection in Relation to Sex gesetzt28. Darwin sah sich mit dem Problem konfrontiert, dass seine Theorie der sexuellen Selektion oft kritisiert wurde, weil sie scheinbar nur das auffällige Aussehen von Männchen erklärte28. Er nutzte Rostratula benghalensis (neben Wassertretern und Mormonen) als entscheidendes Beweisstück, um das Stereotyp des stets passiven Weibchens zu widerlegen22. Darwin argumentierte, dass die Tatsache, dass bei dieser Spezies die Weibchen "nicht nur größer, sondern auch viel reicher gefärbt sind als die Männchen", belegt, dass Prachtgefieder und Bewaffnung nicht inhärent an das männliche Geschlecht gebunden sind, sondern stets das universelle Resultat des evolutionären Wettbewerbs um limitierende Fortpflanzungspartner darstellen22.
+Der zweite Durchbruch betraf die Anatomie. Percy R. Lowe sezierte die Art im Jahr 1931 und veröffentlichte im Journal Ibis die Entdeckung der konvolutierten Trachea im weiblichen Sternum2. Er bewies als Erster, dass die Größendifferenz zwischen den Geschlechtern nicht nur äußerlich ist, sondern dass das Weibchen durch den Umbau des Verdauungskropfes zu einer akustischen Resonanzkammer auf zellulärer Ebene an die lautstarke, territoriale Balz angepasst ist2.
+Der dritte Meilenstein war die exakte Quantifizierung des Verhaltens durch den japanischen Ornithologen Shigemoto Komeda, der 1983 im Journal The Auk die Studie "Nest Attendance of Parent Birds in the Painted Snipe" publizierte42. Bis zu diesem Zeitpunkt war Polyandrie bei der Art zwar postuliert, aber die genaue Übergabe der Brutpflichten war unzureichend dokumentiert. Komeda führte systematische 24-Stunden-Feldbeobachtungen (inklusive Nachtbeobachtungen mit Taschenlampen) an 15 Paaren durch42. Er lieferte den harten empirischen Beweis, dass der Übergang der Verantwortung sukzessiv verläuft, exakt ab dem Tag der Ablage des dritten Eies messbar umschlägt und mit der finalen Aufgabe des Nestes durch das Weibchen am vierten Tag kulminiert42.
+7. Fotografie und Verhaltensbeobachtung
+Die Dokumentation der Buntgoldschnepfe erfordert spezifische fototechnische Ansätze, die das ungewöhnliche Verhalten der Art berücksichtigen.
+Trotz der farblichen Auffälligkeit des Weibchens ist die Art extrem schwer zu detektieren. Dies liegt an der strikt crepuscularen (dämmerungsaktiven) Lebensweise. Die Tiere ruhen tagsüber tief im dichten Schilf oder in Sumpfgräsern und treten erst bei sehr schwachem Licht (Morgengrauen oder späte Abenddämmerung) auf die offenen Schlammbänke heraus3. Fotografen im Rift Valley (z. B. am Lake Baringo) müssen daher auf den Einsatz von Ausrüstung mit extremer Lichtstärke bei hohen ISO-Werten vorbereitet sein.
+Verhaltenstechnisch verlangt die Art nach Geduld. Im Gegensatz zu vielen Limikolen, die bei Störung sofort auffliegen, ist der primäre Fluchtinstinkt der Buntgoldschnepfe das Erstarren (Freezing)3. Der Vogel drückt sich flach auf den Boden und bewegt sich über Minuten nicht. Ein Fotograf, der eine rasche Flugaufnahme erwartet, wird meist enttäuscht; vielmehr bietet das Erstarren die Möglichkeit für sorgfältig komponierte, statische Teleaufnahmen. Wenn die Vögel doch gezwungen sind aufzufliegen, wirken sie schwerfällig, schlagen langsam mit den runden Flügeln und lassen die langen, grünlichen Beine charakteristisch nach unten baumeln, was eine kurze, vorhersehbare Flugbahn für den Autofokus bietet4. Der visuelle Kern einer jeden Reportage sollte jedoch die Darstellung des Kontrastes sein: Das prachtvolle, aggressive Auftreten des Weibchens beim "Spread-wing display" im harten Gegensatz zum kryptisch gefärbten Männchen, das nahezu unsichtbar mit dem Schlamm des Nestes verschmilzt.
+8. Links zum Weiterlesen und Sehen
+Die folgenden kuratierten wissenschaftlichen und multimedialen Datenbanken bieten essenzielles visuelles, akustisches und statistisches Rohmaterial für weitere Recherchen:
 
-Französisch
-	Œdicnème vermiculé
-	Kombination aus Oedicnemus (geschwollenes Bein) und Gefiedermuster5.
+Ressource / Plattform
+	Relevanz für die Recherche
+	URL / Pfad
 
-Kikuyu
-	Chekeamwezi (Lehnwort)
-	Übernahme des regionalen Swahili-Begriffs in Ostafrika19.
-Morphologie und biologische Mechanismen
-Physische Parameter und biometrische Daten
-Der Wassertriel ist ein mittelgroßer Bodenbrüter mit einer kompakten, im Stehen leicht buckligen und gedrungenen Haltung. Im direkten feldornithologischen Vergleich mit dem ebenfalls in Kenia sympatrisch vorkommenden Kaptriel (Burhinus capensis) ist der Wassertriel geringfügig kleiner und insgesamt dunkler sowie grauer gefärbt14. Ein ausgeprägter Sexualdimorphismus existiert nicht; Männchen und Weibchen weisen identische Gefiederzeichnungen auf, wobei Weibchen in Populationen tendenziell marginal kleiner ausfallen können7.
+Xeno-Canto
+	Die weltweit umfangreichste Datenbank für Vogelstimmen. Hier können die von der weiblichen Resonanzkammer erzeugten tiefen, hupenden Balzrufe (koht-koht-koht) detailliert abgehört und als Spektrogramm visualisiert werden3.
+	https://xeno-canto.org/species/Rostratula-benghalensis
 
-Biometrischer Parameter
-	Messwertbereich
+Birds of the World
+	Betrieben vom Cornell Lab of Ornithology. Bietet die tiefgreifendste ornithologische Monografie zur Art, inklusive detaillierter Mauserzyklen, genauer morphologischer Beschreibungen und historischer Taxonomie4.
+	https://birdsoftheworld.org/
 
-Körperlänge (Gesamt)
-	38 bis 41 cm (ca. 15–16 Zoll)11
+eBird
+	Citizen-Science-Plattform. Essentiell, um kurz vor Reiseantritt (September 2026) aktuelle Sichtungsmeldungen und Hotspots (z. B. genaue GPS-Daten am Lake Nakuru oder Naivasha) in Echtzeit zu prüfen3.
+	https://ebird.org/species/grpsni1
 
-Körpergewicht
-	280 bis 430 g (Durchschnittliche Populationen: 293–320 g)11
-
-Flügelspannweite
-	50 bis 57 cm24
-
-Flügellänge (geschlossen)
-	ca. 22 cm (teilweise bis 39–43 cm je nach Messmethode der Schwingen)24
-
-Schnabellänge (Culmen)
-	ca. 3 cm24
-
-Tarsuslänge
-	ca. 7 cm24
-
-Schwanzlänge
-	ca. 9 cm24
-Gefieder und visuelle Tarnmechanismen
-Das Gefieder (Plumage) ist hochgradig kryptisch ausgebildet und dient der perfekten optischen Verschmelzung mit sandigen oder kiesigen Untergründen, Schlammflächen sowie vertrocknetem Holz. Die Grundfärbung der Oberseite ist ein mattes Sandbraun bis Graubraun, das intensiv von feinen schwarzen und dunkelbraunen Strichen sowie der namengebenden wurmartigen (vermikulierten) Zeichnung durchsetzt ist14. Das Bauchgefieder ist deutlich heller und weißlich.
-Zur optischen Artbestimmung im Feld lässt sich der Wassertriel von ähnlichen afrikanischen Trielen durch eine hochspezifische Zeichnung auf dem geschlossenen Flügel unterscheiden: Der Wassertriel weist hier ein markantes, horizontales schwarz-weißes Band auf. Im Kontrast dazu zeigt der Senegaltriel (Burhinus senegalensis) lediglich eine einfache schwarze Linie, und der teilweise in Afrika überwinternde Europäische Triel (Burhinus oedicnemus) besitzt eine auffällige schwarz-weiß-schwarze Linienkombination23. Im Flug verliert der Wassertriel seine kryptische Wirkung schlagartig: Die Vögel entfalten breite, eher stumpfe Flügel, die stark kontrastierende schwarze Handschwingen mit großflächigen, asymmetrischen weißen Fleckenmustern offenbaren7.
-Anatomie der Sinnesorgane und Fortbewegung
-Als primär dämmerungs- und nachtaktiver Jäger verfügt der Wassertriel über starke evolutionäre Spezialisierungen des optischen Apparates. Die Augen sind im Verhältnis zur Schädelgröße überproportional massiv und von einer leuchtend grüngelben Farbe. Ihnen fehlt die bei anderen verwandten Arten oft vorhandene dunkle Maskierung, was den sogenannten „goggle-eyed“ (glotzäugigen) oder reptilienartigen Eindruck verstärkt8. Die Retina weist eine extrem hohe Dichte an Stäbchenzellen (Rod-Cells) auf. Dieser biologische Mechanismus maximiert die skotopische (Nacht-) Sicht und befähigt den Vogel, bei minimalem Restlicht, das lediglich durch Mond- oder Sternenbeleuchtung generiert wird, kleinste Bewegungsmuster von Wirbellosen auf dem Bodensubstrat auszumachen23.
-Der kräftige Schnabel ist überwiegend schwarz pigmentiert, wobei die Basis und der Bereich von den Nasenlöchern (Nares) bis zum Kopf eine blassgelbe bis hellgrüne Färbung aufweisen11. Die Beine sind verhältnismäßig lang und von einer fahlen, grünlich-gelben Farbe8.
-Bioakustische Mechanismen
-Das vokale Repertoire des Wassertriels bildet ein essenzielles Kernelement seiner biologischen Identität und ökologischen Präsenz in der afrikanischen Landschaft. Die Rufe sind extrem laut, wehklagend und werden fast ausschließlich in der vollkommenen Dunkelheit oder während der nautischen Dämmerung ausgestoßen. Der typische Ruf wird in der ornithologischen Literatur phonetisch oft als ein durchdringendes „ti-ti-ti-i ti, twee twee twee“ oder als wimmerndes Pfeifen beschrieben, das über enorme Distanzen über offene Wasserflächen trägt17.
-Bioakustische Monitorings und passive akustische Überwachungssysteme (PAM) haben gezeigt, dass die Vokalisationen der Art in Frequenzbändern zwischen 250 Hz und 10.000 Hz detektiert werden. Diese Frequenzspektren werden in wissenschaftlichen Studien meist mit einer Abtastrate von 44.000 Hz (16-Bit-Modus) aufgezeichnet30. Die physikalischen Eigenschaften dieser Frequenzen machen die Rufe ideal für die Durchdringung der dichteren, kühleren und feuchteren Nachtluft in unmittelbarer Gewässernähe, wodurch Territorien abgesteckt und Partnerkontakte über weite Strecken aufrechterhalten werden.
-Ökologie und Verhalten
-Habitatpräferenzen und geografische Grenzen
-Obwohl die übergeordnete Ordnung der Charadriiformes (Regenpfeiferartige) eine grundsätzliche Affinität zu aquatischen Lebensräumen aufweist, sind viele Arten innerhalb der Familie der Triele stark an arides, trockenes Terrain angepasst7. Der Wassertriel stellt innerhalb dieser Familie eine bemerkenswerte Ausnahme dar, da er die stärkste evolutionäre Bindung an das Element Wasser besitzt23. Die Art bevorzugt Ränder von Süß- und Brackwasserseen, Flussufer, Ästuare, von Mangroven gesäumte Küstenabschnitte und geschützte Feuchtgebiete11.
-Der Vogel ist topografisch von der Meereshöhe bis in Höhenlagen von 1.800 Metern über dem Meeresspiegel anzutreffen11. Trotz der Nähe zum Wasser agiert die Spezies ausschließlich als terrestrischer Jäger; sie schwimmt nicht. Die Nahrungssuche findet meist in einem engen Umkreis von maximal einem Kilometer um das Gewässer statt11. Ein essenzieller Habitatparameter ist das Vorhandensein von überhängender Ufervegetation, Sträuchern, Wurzelwerk oder Treibholz. Diese Strukturen werden tagsüber zwingend benötigt, um vor der äquatorialen Sonneneinstrahlung und vor tagaktiven Prädatoren geschützt zu ruhen11.
-Jagdverhalten und Nahrungsspektrum
-Das Foragieren (die Nahrungssuche) erfolgt primär nachts, entweder solitär, in Paaren oder seltener in sehr losen Gruppen11. Die Fortbewegung während der Jagd ist charakterisiert durch ein langsames, methodisches und nahezu lautloses Schreiten, das immer wieder von abruptem Erstarren oder kurzen, schnellen Sprints unterbrochen wird29. Das Nahrungsspektrum ist carnivor und besteht aus einer Vielzahl von Wirbellosen wie Insekten, Krebstieren, Spinnentieren und Weichtieren. Zusätzlich werden kleine Wirbeltiere, insbesondere Frösche und kleine Reptilien, erbeutet11.
-Parasitologie und ökologische Netzwerke
-Als Konsument von Krustentieren und Weichtieren am Wasser ist der Wassertriel in spezifische parasitäre Zyklen eingebunden. Wissenschaftliche Untersuchungen zur Endoparasitenfauna der Art weisen nach, dass der Wassertriel als Wirt für verschiedene Bandwurmarten (Cestoda) fungiert. Namentlich dokumentiert sind hierbei die Spezies Burhinotaenia coronata und Sacciuterina arquata33. Die Lebenszyklen dieser Parasiten korrelieren oft mit den im Schlamm lebenden Zwischenwirten, die vom Triel gefressen werden.
-Fortpflanzungsbiologie
-Wassertriele leben in strenger Monogamie und binden sich in der Regel für das gesamte Leben an einen Partner. Ein neuer Partner wird von einem Individuum erst nach dem Tod des bisherigen Gefährten gesucht11. Die Brutzeit ist nicht an starre Kalendermonate gebunden, sondern korreliert stark mit dem regionalen Niederschlagsklima. Sie fällt in Ostafrika typischerweise in die späte Trockenzeit oder exakt auf den Beginn der ersten Regenfälle11.
-Die Art investiert keine Energie in den Bau komplexer Nester. Stattdessen wird lediglich eine extrem flache Mulde (Scrape) in sandigen, erdigen oder kiesigen Untergrund gekratzt. Diese Nester werden oft strategisch neben markanten Landmarken wie Treibholz, vertrockneten Büschen oder sogar Elefanten- und Flusspferddung platziert, was die Silhouette des brütenden Vogels aufbricht und der Tarnung dient11.
-
-Fortpflanzungsparameter
-	Spezifikation
-
-Gelegegröße
-	Zumeist exakt 2 Eier (selten 1 oder 3)11.
-
-Eimorphologie
-	Sandgelb, stark braun gefleckt. Unfruchtbare Eier wurden mit Dimensionen von ca. 19 x 13,5 mm vermessen11.
-
-Inkubationszeit
-	22 bis 25 Tage11.
-
-Brutpflege
-	Biparental. Beide Geschlechter bebrüten die Eier und verteidigen das Nest11.
-
-Nestlingsentwicklung
-	Präkorial (Nestflüchter). Küken schlüpfen mit dichtem Daunenkleid und können den Eltern kurz nach dem Schlupf folgen22.
-
-Feindvermeidung (Küken)
-	Akinese (Totstellreflex). Die Küken drücken sich flach auf den Boden und frieren ein37.
-Symbiose und Prädationsvermeidung am Nest
-Der Krokodil-Mutualismus
-Eine der außergewöhnlichsten und in der Verhaltensökologie intensiv diskutierten biologischen Interaktionen des Wassertriels ist der mutualistische (oder kommensale) Brutverband mit dem Nilkrokodil (Crocodylus niloticus)11. Die Triele positionieren ihre Nester auffällig oft in unmittelbarer Nähe oder sogar direkt auf die von weiblichen Krokodilen aufgeworfenen Nisthügel am Gewässerufer11.
-Dieser interspezifische Mechanismus fungiert als ein hocheffizientes, wechselseitiges Alarmsystem: Die Vögel profitieren massiv von der physischen Präsenz des aquatischen Spitzenprädators, dessen Nähe große Säugetiere und viele Raubtiere instinktiv auf Abstand hält. Das Krokodil wiederum profitiert von der extrem hohen akustischen und visuellen Wachsamkeit der Triele, da Krokodile an Land über eine eingeschränkte Sensorik für sich schnell nähernde, kleine Eierdiebe verfügen.
-Aktive Verteidigungsmechanismen
-Nähert sich eine Bedrohung den Gelegen – insbesondere Warane (Varanus), Schlangen, Mungos oder Greifvögel – reagieren die Triele mit eskalierenden Verteidigungsstrategien:
-Aggressionsdisplay: Die Vögel breiten ihre Flügel abrupt aus, um ihre visuelle Silhouette zu maximieren, hacken auf den Eindringling ein und stoßen schrille Warnrufe aus11.
-Alarmierung des Symbiosepartners: Diese intensiven akustischen Signale und das Flattern alarmieren das oft im angrenzenden Flachwasser ruhende Mutterkrokodil. Das Reptil eilt daraufhin an Land, um die Störquelle zu eliminieren und schützt somit simultan das eigene und das aviare Gelege11.
-Verleiten (Distraction Display): Bei Raubtieren, die nicht durch Aggression vertrieben werden können, nutzt der Wassertriel eine Täuschungstaktik. Der Altvogel simuliert einen gebrochenen Flügel oder ein gebrochenes Bein, flattert scheinbar hilflos und asymmetrisch über den Boden und lockt so den Prädator aktiv vom Nest oder den versteckten Küken weg, um im letzten Moment intakt aufzufliegen20.
-Landschaftskontext: Das Rift Valley (24.09. – 12.10.2026)
-Der definierte Reisezeitraum von Ende September bis Mitte Oktober 2026 fällt im kenianischen Rift Valley exakt in eine kritische ökologische und meteorologische Übergangsphase. Dieser Zeitraum markiert das Ende der langen Trockenzeit, die in der Region üblicherweise im Juni beginnt, und den unmittelbaren Vorabend der sogenannten „kleinen Regenzeit“ (Short Rains), die typischerweise im späten Oktober bis November einsetzt23.
-Saisonale hydrologische und ökologische Dynamik
-Am Ende der monatelangen Trockenperiode haben die Wasserstände der in sich geschlossenen Beckenseen im Grabenbruch ihren zyklischen Tiefststand erreicht. Durch die anhaltende Evaporation werden weite, schlammige und sandige Uferzonen freigelegt11. Für terrestrische Ufervögel wie den Wassertriel stellen diese ausgedehnten Ufersäume ein absolutes Optimum an Habitatverfügbarkeit dar, da Beutetiere wie Insektenlarven, Mollusken und Krebstiere im flachen Schlick leicht zugänglich und konzentriert sind. Zudem triggert die ansteigende Luftfeuchtigkeit in den Tagen vor den ersten Niederschlägen oft massive Schwärmflüge von Insekten. Der Wassertriel nutzt genau dieses Zeitfenster evolutionär für die Brut: Die Nester auf den freigelegten Sandbänken sind vor Überschwemmungen sicher, und die schlüpfenden Küken profitieren mit dem Einsetzen des ersten Regens von einem explosionsartigen Nahrungsüberfluss durch Insektenwachstum11.
-Die spezifischen Habitate der Route
-Die Route durch das Great Rift Valley umfasst hydrologisch stark kontrastierende Gewässer, welche die lokale Verteilung der Spezies determinieren:
-
-Ort / Habitat
-	Ökologische Relevanz für Burhinus vermiculatus
-
-Lake Naivasha
-	Ein Süßwassersee auf 1.884 Metern Höhe, der höchste im kenianischen Grabenbruch. Die dichten Papyrusgürtel und Wälder aus Gelbrindenakazien (Yellow Fever Trees) an den Rändern bieten ideale Tagesverstecke44. Da der Triel bis ca. 1.800 Meter vorkommt, markiert Naivasha eine obere, marginale topografische Verbreitungsgrenze, bietet jedoch perfekten Lebensraum11.
-
-Lake Nakuru
-	Ein flacher Natronsee, der stark alkalisch ist und weltberühmt für Flamingo-Populationen (Phoeniconaias minor)19. Obwohl der Wassertriel primär Süßwasser bevorzugt, toleriert er die Uferzonen solcher Sodaseen, beschränkt sich dort jedoch meist auf einmündende Süßwasserbäche und ufernahes Buschwerk11.
-
-Lake Baringo
-	Ein Süßwassersee in einer extrem heißen, semi-ariden Umgebung. Mit über 470 nachgewiesenen Vogelarten ein Biodiversitäts-Hotspot43. Die ausgedehnten Schlammränder, Lavafelsen und Totholzstrukturen bieten perfekte Tarn- und Brutbedingungen11. Die hohe Krokodildichte begünstigt hier die Nest-Symbiose.
-
-Hell's Gate National Park
-	Südlich des Lake Naivasha gelegen, dominiert durch tiefe, geothermisch aktive Schluchten und Savannen. Da der Wassertriel eine strenge Gewässerbindung (max. 1 km Distanz) aufweist, fehlt er in den trockenen Gorges, ist jedoch in den Randzonen zum Lake Naivasha präsent11.
-Kulturelle Bedeutung und Folklore
-Chekeamwezi: Die akustische Folklore
-In der lokalen Swahili-Kultur und Küstensprache Ostafrikas trägt der Wassertriel den lyrischen Namen Chekeamwezi, was wörtlich übersetzt „(der Vogel,) der über den Mond lacht“ bedeutet17. Diese Namensgebung ist tief mit der Phänologie und Verhaltensökologie der Art verwoben: Die lauten, wehklagenden Rufe erschallen fast ausschließlich in der Dunkelheit und scheinen bei hellem Mondschein an Intensität und Häufigkeit zuzunehmen17.
-In ländlichen Gebieten trägt der klagende Ruf weite Distanzen durch die absolute Stille der afrikanischen Nacht. Da der Vogel selbst im Dunkeln aufgrund seiner exzellenten Tarnung und seiner Schreckhaftigkeit praktisch unsichtbar bleibt, haben die desorientierenden, unheimlichen Laute Eingang in lokale Geistermärchen und Abergläubisches gefunden. Der Ruf wird in animistischen Erzähltraditionen oft als die akustische Manifestation von Ahnengeistern oder als Vorbote von Unheil in der Dunkelheit interpretiert50.
-Antike Mythen: Der Krokodilwächter von Herodot
-Die Interaktion zwischen Krokodil und Vogel hat nicht nur in Kenia, sondern in der gesamten afrikanisch-mediterranen Wissenschafts- und Kulturgeschichte tiefe Spuren hinterlassen. Bereits im 5. Jahrhundert vor Christus beschrieb der griechische Historiker Herodot in seinen Aufzeichnungen den sogenannten Trochilus, einen ägyptischen Vogel, der unbeschadet in das weit geöffnete Maul des Nilkrokodils spaziert. Laut Herodot pickt der Vogel dort Blutegel und Fleischreste von den Zähnen des Reptils, während das Krokodil den Vogel als Gegenleistung für diese zahnmedizinische Dienstleistung verschont38. Ein neu publizierter demotischer Papyrus aus dem alten Ägypten (P. Vienna D 6104) belegt zudem, dass dieses Trope bereits in der altägyptischen Kultur vor Herodot existierte38.
-Obwohl diese zahnreinigende Symbiose historisch oft dem Krokodilwächter (Pluvianus aegyptius) zugeschrieben wurde, weisen ethologische Forschungen (wie die Publikationen von Hugh B. Cott aus dem Jahr 1961 in den „Transactions of the Zoological Society of London“) darauf hin, dass der Wassertriel (Burhinus vermiculatus) der tatsächliche, primäre mutualistische Partner am Krokodilnest ist38. Die antike Beschreibung vermengte höchstwahrscheinlich die mythologische Vorstellung der Zahnreinigung mit der real existierenden, aber falsch interpretierten Wächter-Symbiose der Triele am Nistplatz38.
-Fotografie: Technische und praktische Parameter
-Die fotografische Dokumentation des Wassertriels ist aufgrund seiner Lebensweise anspruchsvoll und erfordert spezifisches technisches Equipment sowie detailliertes Wissen über die Habitatsnutzung.
-Ökologische Herausforderungen:
-Visuelle Tarnung: Das Gefieder imitiert perfekt Totholz und getrockneten Schlamm. Der Vogel verharrt bei Gefahr in absoluter Bewegungslosigkeit (wie eine steinerne Statue)51.
-Lichtverhältnisse: Als primär nachtaktives Tier ist er in den fotografisch günstigsten Zeiten (Blaue Stunde, frühe Dämmerung) aktiv, verbringt den Tag aber tief im harten Schatten von Büschen verborgen, was hohe Kontrastumfänge erzeugt11.
-Technische Empfehlungen (abgeleitet aus Exif-Daten erfolgreicher Dokumentationen): Da man sich den Vögeln oft nicht auf kurze Distanz nähern kann – und dies in Krokodilhabitaten wie am Lake Baringo lebensgefährlich sein kann –, sind extreme Teleobjektive zwingend erforderlich. Ein Beispiel für eine erfolgreiche Aufnahme in der frühen Dämmerung nutzte eine Brennweite von 533 mm bei einer Offenblende von f/5.6 und ISO 800 (1/800s)52. Eine Aufnahme aus dem Maasai Mara in den sehr späten Abendstunden erforderte bei 560 mm Brennweite und Blende f/6.3 bereits ISO 2000, um Bewegungsunschärfe bei 1/800s zu vermeiden16.
-
-Technischer Parameter
-	Empfehlung für Burhinus vermiculatus
-
-Brennweite (Focal Length)
-	Mindestens 500 mm, idealerweise 600 mm, um natürliche Fluchtdistanzen nicht zu unterschreiten16.
-
-Belichtungszeit (Shutter Speed)
-	1/800s bis 1/1000s, um plötzliche Sprints oder Abflugbewegungen einzufrieren16.
-
-ISO-Wert
-	Flexibel hoch (800 – 3200+), da Begegnungen primär in Randlichtzeiten stattfinden16.
-
-Perspektive
-	Tiefe Kameraposition (Eye-level) von einem Boot oder liegend am flachen Ufer, um die markanten gelben Augen vor dem Hintergrund weich zu isolieren.
-Visual Description in English
-As requested for the integration of visual descriptions into English-language accompanying material or captions:
-"The Water Thick-knee (Burhinus vermiculatus) is a medium-sized, cryptically colored wading bird that appears remarkably like a piece of sun-bleached driftwood or dry earth. Its plumage is predominantly a mix of sandy-browns and pale greys, heavily streaked and covered with fine, worm-like vermiculations across the upperparts to ensure maximum camouflage. The bird possesses a notably large, somewhat domed head, dominated by striking, oversized, and unmasked greenish-yellow eyes—an evolutionary hallmark of its nocturnal and crepuscular lifestyle. Its robust, heavy bill is mostly black, accented with a pale yellow or light green patch stretching from the nostrils to the base.
-The bird stands on relatively long, pale greenish-yellow legs that feature prominently swollen tibiotarsal joints, giving the species its common name 'thick-knee'. When standing still, its posture is somewhat hunched and completely motionless. On the folded wing, a distinct horizontal line consisting of a black upper band bordered closely by white is clearly visible, differentiating it from similar species. When it occasionally takes flight, the broad and blunt wings reveal a highly contrasting pattern of black primary feathers marked with bold white patches."
-Liste unbelegter Dinge (Unverified Claims)
-In der historischen Literatur, Folklore und teilweise auch in der populärwissenschaftlichen Berichterstattung rund um den Wassertriel existieren Behauptungen, die einer strengen empirischen Belegbarkeit entbehren oder Gegenstand aktueller wissenschaftlicher Debatten sind. Die folgende Tabelle fasst diese zusammen:
-
-Behauptung / Mythos
-	Wissenschaftlicher Kontext und Status
-
-Zahnreinigung beim Krokodil
-	Die antike These von Herodot, dass Vögel die Zähne von Krokodilen reinigen, wurde nie mit modernen, verifizierbaren fotografischen oder filmischen Beweisen in der Wildnis zweifelsfrei dokumentiert38. Die Wissenschaft geht davon aus, dass Herodot die Symbiose am Nest (Warnrufe) beobachtete und dies mythologisch mit der Zahnreinigung ausschmückte38.
-
-Obligater Mutualismus
-	Während die Nähe von Wassertriel-Nestern zu Krokodilnestern hervorragend dokumentiert ist11, bleibt in der Verhaltensökologie umstritten, ob der Vogel aktiv und intentional die Nähe des Raubtiers sucht. Alternativ könnten beide Spezies schlicht dieselben mikroklimatischen Bedingungen für die Inkubation bevorzugen, wodurch die Verteidigung lediglich ein Nebenprodukt wäre (Kommensalismus).
-
-Assoziation mit Geistern
-	Die narrative Interpretation der nächtlichen Rufe (Chekeamwezi) als "Lachen" oder Wehklagen von Geistern in der Swahili-Kultur ist ein rein folkloristisches Phänomen17. Es gibt keine Belege für andere soziologische Absichten gegenüber dem Menschen.
-
-Anatomie des Namens "Thick-knee"
-	Der englische Name referenziert ein geschwollenes Knie. Biologisch ist diese Benennung falsch, da es sich bei dem markanten Gelenk in der Mitte des Beins um das Intertarsalgelenk (Sprunggelenk/Ferse) handelt; das tatsächliche Knie des Vogels liegt weiter oben am Körper8.
-Digitale Erfassung und Bestandsmonitoring (Links & Ressourcen)
-Für die Verifizierung globaler Bestände, Bioakustik und Taxonomie werden die Rohdaten zu Burhinus vermiculatus in zentralen wissenschaftlichen Netzwerken und globalen Datenbanken aggregiert. Die folgende Übersicht dient der tieferen Datenbeschaffung:
-
-Plattform / Organisation
-	Funktion und spezifischer Zugriff
-
-IUCN Red List of Threatened Species
-	Dokumentiert den globalen Erhaltungszustand (Least Concern / Nicht gefährdet) und demografische Trends. Geführt von BirdLife International. (Zugriff über: https://www.iucnredlist.org/species/22693584/93413917)11.
-
-eBird (Cornell Lab of Ornithology)
-	Aggregiert weltweite ornithologische Sichtungen, Checklisten und Verbreitungskarten, inklusive exakter Nachweise für Rift-Valley-Seen wie Naivasha und Baringo2.
-
-iNaturalist
-	Kuratiert fotografische und geolokalisierte Nachweise des Vogels, seiner Nester und Tarnmuster in freier Wildbahn unter der Taxon-ID 4926. (Zugriff über: https://inaturalist.org/taxa/4926-Burhinus-vermiculatus)16.
-
-xeno-canto
-	Konserviert und analysiert das umfassende bioakustische Repertoire des Wassertriels, inklusive der wehklagenden Rufe (Chekeamwezi), unter der spezifischen Katalognummer XC650842. (Zugriff über: https://xeno-canto.org/650842)14.
+IUCN Red List
+	Offizielle Daten zur globalen Bestandsentwicklung. Die Art wird derzeit als "Least Concern" (nicht gefährdet) eingestuft, jedoch weist der Populationstrend eine abnehmende Tendenz durch den globalen Verlust von Feuchtgebieten auf (Globale Population: ca. 33.300 - 153.000 Individuen)56.
+	https://www.iucnredlist.org/
+9. Visuelle Beschreibung für eine Illustration
+Die folgende Szenerie ist für die exakte Anleitung eines wissenschaftlichen Illustrators konzipiert, um das Konzept der Geschlechtsrollenumkehr anatomisch und atmosphärisch präzise einzufangen:
+Atmosphäre und Setting:
+Die Szene spielt in der abendlichen Dämmerung in der Flachwasserzone am Rand des Lake Naivasha. Die Lichtverhältnisse sind golden bis kupferfarben. Der Hintergrund zeigt dichte Papyrusstauden und schwere, dunkle Wolken, die den Beginn der kleinen Regenzeit ankündigen. Der Boden ist eine Mischung aus feuchtem Schlamm und flachen Pfützen.
+Vordergrund (Die Dominanz des Weibchens):
+Auf einem leicht erhöhten Schlammhügel steht ein adultes Weibchen in territorialer, aufrechter Pose. Die Färbung ihres Kopfes und Halses ist ein tiefes, sattes Mahagonirot. Ein extrem markanter, reinweißer, tropfenförmiger Fleck umschließt ihr Auge und zieht sich als scharfer Kontraststreifen nach hinten. Ein blasser Cremestreifen teilt die dunkle Kopfkrone. Ein leuchtend weißer Streifen verläuft über die Schulter und trennt das dunkle, schwärzliche Brustband hart vom reinweißen Bauch ab. Ihr Rücken glänzt in einem bronzenen Olivgrün mit feinen schwarzen Querlinien, und exakt zwischen den Schultern zeichnet sich ein cremeweißes "V" ab. Sie hat den langen, an der Basis gelblichen Schnabel leicht geöffnet. Ihr Hals wirkt im Profil verdickt, was die mit Luft gefüllte, kropfbasierte Resonanzkammer andeutet, aus der sie gerade ihre tiefen Balzrufe ausstößt.
+Mittel- / Hintergrund (Die Subordination des Männchens):
+Etwa zwei Meter entfernt, im Halbschatten von herabhängenden, trockenen Schilfgräsern, sitzt das Männchen auf seinem Bodennest. Es ist physisch deutlich kleiner. Sein Gefieder besteht aus einer hochkomplexen Tarnmusterung aus erdigen Brauntönen, Blassgold, Beige und Schwarz. Auf den Flügeldecken befinden sich helle, ovale Flecken. Die weiße Gesichtsmaske des Weibchens ist bei ihm lediglich ein verwaschenes Goldbeige. Er verschmilzt optisch nahezu vollständig mit den trockenen Grashalmen und dem Schlamm. Das Nest ist eine sehr flache Mulde aus zerdrückten Pflanzenresten. Das Männchen drückt sich tief auf den Boden (Freezing-Verhalten). Unter seinen grünlich-gelben Beinen ist eventuell der Rand eines blassgelben, stark dunkel gefleckten Eies zu erahnen. Sein Schnabel ist geschlossen, der Ausdruck wachsam, gerichtet auf die Sicherheit des Geleges, während das Weibchen die Szene optisch dominiert.
+10. Was nicht belegt werden konnte
+Trotz der umfangreichen Synthese des vorliegenden Forschungsmaterials ließen sich einige hochspezifische, auf die Reiseroute und das Datum fokussierte Details nicht abschließend klären. Diese bedürfen entweder einer Vor-Ort-Recherche oder müssen als literarische Leerstelle belassen werden:
+Spezifische Maa-Nomenklatur: Während die lokalen Namen der Kikuyu (Gathonjo ka weru-ini) und der Swahili (Sululu uzuri) in der ethno-ornithologischen Literatur gut dokumentiert sind, fehlt jeglicher Beleg für den spezifischen Namen der Buntgoldschnepfe in Maa, der Sprache der Maasai17. Da die Maasai als pastorale Gesellschaft weite Teile des Rift Valleys dominieren, existiert mit hoher Wahrscheinlichkeit ein Begriff, der jedoch in den bereitgestellten musealen und ethno-ornithologischen Aufzeichnungen nicht erfasst wurde.
+Mythen und Legenden des Rift Valleys: Das Material bestätigt die historische Marginalisierung indigenen Vogelwissens durch koloniale Strukturen in Kenia44. Es liefert jedoch keine konkreten, überlieferten oralen Geschichten, Märchen oder Sagen der lokalen Stämme (wie Kamba oder Maasai), die sich explizit mit der auffälligen Verhaltensanomalie der Rollenumkehr dieses speziellen Vogels befassen.
+Lokale Populationsdaten für 2026: Das Datenmaterial verweist auf globale Bestandsschätzungen der IUCN (33.300 bis 153.000 Vögel weltweit) und benennt die kenianischen Seen als wichtige Habitate36. Es existieren jedoch keine isolierten, exakten Populationszählungen (Census-Daten) der Buntgoldschnepfe spezifisch für die Seen Naivasha, Nakuru oder Baringo, aus denen sich die exakte Dichte der Vögel für den Reisezeitraum im Herbst 2026 ableiten ließe.
+Akustische Spezifikationen des Männchens in Kenia: Während der durch den Kropf modulierte Ruf des Weibchens exzessiv studiert und anatomisch erklärt wurde, bleiben die Vokalisationen des Männchens vage ("explosives Grollen" oder "kurzes Quieken")2. Es fehlen präzise spektrografische Analysen oder Aufzeichnungen, die spezifische Alarmrufe von Männchen der ostafrikanischen Population während der Brutverteidigung am Nest im Detail charakterisieren.
 Works cited
-Burhinus vermiculatus (Water Thick-knee) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=96CCAFEE83A0F557
-ITIS - Report: Burhinus vermiculatus vermiculatus, https://itis.gov/servlet/SingleRpt/SingleRpt;jsessionid=1567D3869F4BD8B3705547FEE857F38E?search_topic=TSN&search_value=824463
-Wo man Wassertriel (Burhinus vermiculatus) sehen kann, https://birdguides.io/de/species/burhinus-vermiculatus
-Wassertriel - Wikipedia, https://de.wikipedia.org/wiki/Wassertriel
-Burhinus vermiculatus - Water Thick-knee - asturnatura, https://www.asturnatura.com/en/nature/species/burhinus-vermiculatus
+(PDF) Checklist of the Birds of New Zealand. Fifth Edition, https://www.researchgate.net/publication/361824003_Checklist_of_the_Birds_of_New_Zealand_Fifth_Edition
+223_Painted Snipe - New Zealand Birds Online, https://www.nzbirdsonline.org.nz/assets/95597/1691912137-223_painted-20snipe.pdf
+Goldschnepfe - Wikipedia, https://de.wikipedia.org/wiki/Goldschnepfe
+Greater Painted-snipe - Oiseaux-Birds, https://www.oiseaux-birds.com/card-greater-painted-snipe.html
+EOÜ - Names of the birds of the World, https://eoy.ee/EN/birdnames
+Approved Conservation Advice for Rostratula australis, https://haveyoursay.townsville.qld.gov.au/88390/widgets/415886/documents/269546
+Rostratula benghalensis - Fatos, dieta, habitat e fotos em Animalia.bio, https://animalia.bio/pt/greater-painted-snipe
+Category:Rostratula benghalensis - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Rostratula_benghalensis
+Этимология названий птиц Палеарктики: Etymology of the names, https://dokumen.pub/etymology-of-the-names-of-palearctic-birds-9785604011768.html
+Type species in bird genus classification - Facebook, https://www.facebook.com/groups/221754145895510/posts/1278605633543684/
+Full text of "Vertebrates" - Internet Archive, https://archive.org/stream/dli.zoological.sfs.062/index_djvu.txt
 Birds in Africa - Kaj Halberg, https://kajhalberg.dk/en/birds-in-africa/
-Burhinus - Wikipedia, https://en.wikipedia.org/wiki/Burhinus
-Stone-curlew - Wikipedia, https://en.wikipedia.org/wiki/Stone-curlew
-Type-specimens of non-passerines in Naturalis Biodiversity Center, https://www.researchgate.net/publication/365868037_Type-specimens_of_non-passerines_in_Naturalis_Biodiversity_Center
-(PDF) Type specimens of non-passerines in Naturalis Biodiversity, https://www.researchgate.net/publication/369506686_Type_specimens_of_non-passerines_in_Naturalis_Biodiversity_Center_Animalia_Aves
-Water thick-knee - Wikipedia, https://en.wikipedia.org/wiki/Water_thick-knee
-Helm Field Guides - Birds of Wesern Africa 9781472905680, https://dokumen.pub/helm-field-guides-birds-of-wesern-africa-9781472905680-9781408188804.html
-Field Guide to Birds of Senegal and The Gambia ... - dokumen.pub, https://dokumen.pub/field-guide-to-birds-of-senegal-and-the-gambia-helm-field-guides-2nbsped-139940220x-9781399402200.html
-Wassertriel - Fakten, Ernährung, Lebensraum & Bilder auf Animalia, https://animalia.bio/de/water-thick-knee
-Burhinidae – Thick-knees & Stone Curlews - Fat Birder, https://fatbirder.com/ornithology/burhinidae-thick-knees-and-stone-curlews/
-Water Thick-knee or Dikkop. Dikkop is Afrikaans for thick head. Not, https://www.facebook.com/groups/tanzaniasafaris/posts/3791587224499429/
-Uncategorized Archives - One Ocean Zanzibar, https://zanzibaroneocean.com/category/uncategorized/
-Water Thick-knee - Wikidata, https://www.wikidata.org/wiki/Q263426
+Helm Dictionary of Scientific Bird Names, https://avesdecostarica.weebly.com/uploads/7/0/1/0/70104897/scientific-bird-names.pdf
+Full text of "Journal of the Bombay Natural History Society", https://archive.org/stream/journalofbomba1012004bomb/journalofbomba1012004bomb_djvu.txt
+TiF Checklist: GRUAE II: Charadriiformes - John H. Boyd III, http://jboyd.net/Taxo/List9a.html
+Full text of "Bulletin of the British Ornithologists' Club" - Internet Archive, https://archive.org/stream/bulletinofbritis8990brit/bulletinofbritis8990brit_djvu.txt
 List of birds of Kenya - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Kenya
-News | Page 11 of 80 - BDI, https://thebdi.org/news/page/11/
-# Eurasian Curlew # STR, WB, INDIA.. Sep- 17 The ... - Facebook, https://www.facebook.com/groups/448922215285900/posts/846847762160008/
-Water thick-knee - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/water-thick-knee
-Water Thick-knee (Burhinus vermiculatus) | Wildlife Vagabond, https://wildlifevagabond.com/wildlife/birds/waders-and-shorebirds/thick-knees/water-thick-knee/
-The Senegal thick-knee (Burhinus senegalensis) is a medium-large, https://www.facebook.com/groups/1516866705199576/posts/4537949616424588/
-WoRMS source details, http://www.marinespecies.org/aphia.php?p=sourcedetails&id=6169
-Birds of East Africa: Kenya, Tanzania, Uganda, Rwanda, Burundi [2, https://dokumen.pub/birds-of-east-africa-kenya-tanzania-uganda-rwanda-burundi-2nbsped-1408157365-9781408157367.html
-Eurasian stone-curlew - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/eurasian-stone-curlew
-Afrikanokeryx leakeyi, a genus of Giraffid from the okapiinae sub, https://www.facebook.com/groups/1456655311080224/posts/3331360740276329/
-Great stone-curlew with her chick - Facebook, https://www.facebook.com/groups/1788148671422069/posts/4183004411936471/
-(PDF) Passive acoustic monitoring detects new records of globally, https://www.researchgate.net/publication/376882390_Passive_acoustic_monitoring_detects_new_records_of_globally_threatened_birds_in_a_high-elevation_wetland_Free_State_South_Africa
-Burhinus vermiculatus Also known as Water Dikkop - Facebook, https://www.facebook.com/groups/119937038128339/posts/4646117398843591/
-Water Thick-knee - wildlife of kenya by Nicolas Urlacher, https://www.wildlifeofkenya.com/categories/wading-and-water-birds/thick-knee-water/
-A Review of Avian Cestodes (Platyhelminthes: Cestoda) from Africa, https://www.mdpi.com/1424-2818/15/5/634
-Honeyguide | Birdlife Zimbabwe, https://www.birdlifezimbabwe.org/wp/wp-content/uploads/2023/11/Honeyguide-691.pdf
-Birds of Botswana 9781400874170 - DOKUMEN.PUB, https://dokumen.pub/birds-of-botswana-9781400874170.html
-Burchell's courser bird species information - Facebook, https://www.facebook.com/groups/4671153639658270/posts/7572661829507422/
-Welgevonden Bird Guide: 380+ Species with Facts, https://www.sekala.com/about-us/wildlife/bird-watching-in-welgevonden/
-(PDF) The Ancient Egyptian Origin of a Transcultural Trope, across, https://www.researchgate.net/publication/371060256_The_Ancient_Egyptian_Origin_of_a_Transcultural_Trope_across_Classical_Islamic_and_Jewish_Traditions_The_First_Attestation_of_the_Crocodile_Bird_in_Egyptian_or_Why_Herodotus_Is_Not_a_Liar_with_the_Firs
-Birds of Kruger National Park 9781400880683 - DOKUMEN.PUB, https://dokumen.pub/birds-of-kruger-national-park-9781400880683.html
-Water Thick -knee defending its nest from the lizard ... - Facebook, https://www.facebook.com/100048446391871/posts/water-thick-knee-defending-its-nest-from-the-lizard-birds-cruiselife-safari-wild/1745223797102483/
-Did you know? A Spotted thick-knee will pretend to have an injury to, https://www.facebook.com/Kalahari.Game.Lodge.Namibia/posts/did-you-know-a-spotted-thick-knee-will-pretend-to-have-an-injury-to-lure-predato/657631343035039/
-Avifauna of Ishaqbini Community Conservancy in Ijara District, NE, https://www.ajol.info/index.php/scopus/article/download/112441/102195
-Over 350 species of birds exist in Lake Mburo National Park and, https://www.facebook.com/habitatsafar/posts/over-350-species-of-birds-exist-in-lake-mburo-national-park-and-they-survive-in-/1554815959978750/
-Wednesday 29/09/2021. Ornithologists in the making,It pays to be, https://www.facebook.com/kijabeenvironmentvolunteers/posts/wednesday-29092021-ornithologists-in-the-makingit-pays-to-be-one-dont-miss-the-n/1479550362408991/
-Kenya: Birding in Africa's Top Safari Destination - Squarespace, https://static1.squarespace.com/static/5af0c14d3e2d09ad6587fab0/t/64a9557269510210347a01b9/1688819065150/Kenya+Birding+in+Africa%27s+Top+Safari+Destination.pdf
-Dickens Ally - Facebook, https://www.facebook.com/dickens.ally/posts/from-naivasha-to-watamu-and-back-this-five-day-journey-was-more-than-just-a-fiel/4585353558456454/
-Report on the Conservation Status of Migratory Waterbirds in the, https://www.unep-aewa.org/sites/default/files/publication/ts1_conservation_status_report_wi_0.pdf
-Birding in Chobe region: three-banded courser and swamp nightjar, https://www.facebook.com/groups/birdlifesouthafrica/posts/10162459392178415/
-Kamusi ya Kiswahili–Kiingereza, https://hist.hse.ru/data/2021/06/13/1440903528/Kamusi%20ya%20Kiswahili%20-%20Kiingereza.pdf
-Meet the Peruvian Thick-knee — South America's nighttime singer, https://www.facebook.com/avitrolcorp/posts/-meet-the-peruvian-thick-knee-south-americas-nighttime-singerthis-elusive-bird-i/1352299760230956/
-Bird and Memory of the Week – Bush Thick-Knee - blairbirding, https://blairbirding.com/2016/02/09/bird-and-memory-of-the-week-bush-thicknee/
-The Spotted Beauty!** The Spotted Thick-knee (Burhinus capensis, https://www.facebook.com/groups/wildpedia/posts/1147672342255937/
-Wader Quest the newsletter, https://waderquest.net/wp-content/uploads/2026/03/WCWW6-SpecialR.pdf
-nocturnal habits. Kruger NP, South Africa - Facebook, https://www.facebook.com/groups/beautyofnatureofafrica/posts/7388559044561091/
-https://xeno-canto.org/650842
+Etnoornithologia Book | PDF | Ornithology | Columbidae - Scribd, https://www.scribd.com/document/207554377/Etnoornithologia-Book
+Ethno-Ornithology and Biological Conserv PDF - Scribd, https://www.scribd.com/document/471838682/Ethno-ornithology-and-Biological-Conserv-pdf
+Birds of Afghanistan: A Comprehensive Study | PDF - Scribd, https://www.scribd.com/document/339453662/The-Birds-of-Afghanistan-pdf
+Greater painted snipe #birdphotography #naturelovers ... - Facebook, https://www.facebook.com/groups/beautifulbirdsandnature/posts/2234489526927942/
+Sexual Conflict, Ecology, and Breeding Systems in Shorebirds, https://academic.oup.com/bioscience/article/56/10/801/253821
+Greater Painted-snipe - Birds of Singapore, https://singaporebirds.com/species/greater-painted-snipe
+Birds of Sri Lanka - 2000 | PDF | Birdwatching - Scribd, https://www.scribd.com/document/480479782/Birds-of-Sri-Lanka-2000
+Sex Role Reversal and High Frequency of Social Polyandry in the, https://www.researchgate.net/publication/355886054_Sex_Role_Reversal_and_High_Frequency_of_Social_Polyandry_in_the_Pheasant-Tailed_Jacana_Hydrophasianus_chirurgus
+(PDF) The evolution of sex roles in birds is related to adult sex ratio, https://www.researchgate.net/publication/236037758_The_evolution_of_sex_roles_in_birds_is_related_to_adult_sex_ratio
+The evolution of sex roles: The importance of ecology and social, https://pmc.ncbi.nlm.nih.gov/articles/PMC11145285/
+Darwin and the impact of sex-role reversal on sexual selection, https://www.researchgate.net/publication/354140331_The_150th_anniversary_ofThe_Descent_of_Man_Darwin_and_the_impact_of_sex-role_reversal_on_sexual_selection_research
+Role-reversed polyandry is associated with faster fast-Z in shorebirds, https://royalsocietypublishing.org/rspb/article/291/2024/20240397/104479/Role-reversed-polyandry-is-associated-with-faster
+Role-reversed polyandry is associated with faster fast-Z in shorebirds, https://royalsocietypublishing.org/rspb/article-pdf/doi/10.1098/rspb.2024.0397/1438452/rspb.2024.0397.pdf
+Acoustic exaggeration of size in birds via tracheal elongation, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/16EDD9F44E094E0538301F009C5D9680/S095283699900504Xa.pdf/div-class-title-acoustic-exaggeration-of-size-in-birds-via-tracheal-elongation-comparative-and-theoretical-analyses-div.pdf
+Animal Dispersion In Relation To Social Behaviour - DOKUMEN.PUB, https://dokumen.pub/animal-dispersion-in-relation-to-social-behaviour.html
+The evolution of closed‐mouth vocal behavior in birds, https://academic.oup.com/evolut/article/70/8/1734/6851892
+The evolution of closed-mouth vocal behavior in birds - Julia Clarke, http://juliaclarke-paleolab.com/s/coos-booms-and-hoots.pdf
+Greater Painted-snipe 彩鷸 - Avifauna HK, https://avifauna.hkbws.org.hk/species/0090/011300
+Parched Nguuni water pans yield 43 bird species - Facebook, https://www.facebook.com/groups/KenyaBirdMAP/posts/1831390790374847/
+SandgrouseVOLUME 42(1) 2020, https://osme.org/wp-content/uploads/2020/03/Sandgrouse42-1-7.pdf
+(PDF) ). Kenya's Important Bird Areas Status and Trends 2004, https://www.researchgate.net/publication/397670815_Kenya's_Important_Bird_Areas_Status_and_Trends_2004
+Full text of "Scopus" - Internet Archive, https://archive.org/stream/scopus131419891992east/scopus131419891992east_djvu.txt
+APPENDIX - JICA, https://www.jica.go.jp/english/our_work/social_environmental/id/africa/kenya/c8h0vm0000fhihet-att/gh13tc000000tbpo.pdf
+Birds of Kenya's Rift Valley [Course Book ed.] 9781400851379, https://dokumen.pub/birds-of-kenyas-rift-valley-course-booknbsped-9781400851379.html
+Nest Attendance of Parent Birds in the Painted Snipe (rostratula, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=20961&context=auk
+(PDF) Nest-site Selection of the Greater Painted Snipe (Rostratula, https://www.researchgate.net/publication/264650185_Nest-site_Selection_of_the_Greater_Painted_Snipe_Rostratula_benghalensis_benghalensis_in_Fallow_Fields_of_I-Lan_Taiwan
+Indigenous knowledge of birds - International Ornithologists' Union, https://www.internationalornithology.org/PROCEEDINGS_Durban/Symposium/S23/S23.5.htm
+Full text of "Journal of the East Africa Natural History Society and, https://archive.org/stream/journalof758219851993east/journalof758219851993east_djvu.txt
+Sexual Conflict and the Evolution of Breeding Systems in Shorebirds, https://johnreynoldsdotorg.files.wordpress.com/2012/07/thomas_et_al_2007.pdf
+How Birds Evolve: What Science Reveals about Their Origin, Lives, https://dokumen.pub/how-birds-evolve-what-science-reveals-about-their-origin-lives-and-diversity-9780691227269.html
+Sexual Conflict, Ecology, and Breeding Systems in Shorebirds, https://bioone.org/journals/bioscience/volume-56/issue-10/0006-3568_2006_56_801_SCEABS_2.0.CO_2/Sexual-Conflict-Ecology-and-Breeding-Systems-in-Shorebirds/10.1641/0006-3568(2006)56[801:SCEABS]2.0.CO;2.full
+Volume 100, Issue 1, January 1983 - Oxford Academic, https://academic.oup.com/auk/issue/100/1
+Observations of breeding of Greater Painted-snipe Rostratula, https://indianbirds.in/pdfs/IB8.1_Vishnudas_Krishnan_GreaterPaintedsnipe.pdf
+Greater painted-snipe - Wikipedia, https://en.wikipedia.org/wiki/Greater_painted-snipe
+The Songs of Female Birds | Bug Woman – Adventures in London, https://bugwomanlondon.com/2026/07/25/the-songs-of-female-birds/
+Identifying Indian birds by size, color, behavior, and habitat - Facebook, https://www.facebook.com/groups/AskidsofIndianBirds/posts/2569104906561533/
+PAINTBRUSH SWIFT Baoris oceia Hewitson 1868 Hesperiidae, https://www.facebook.com/groups/488909304537513/posts/5451518954943165/
+Barred rail and greater painted snipe in Bulacan - Facebook, https://www.facebook.com/groups/philippinebirdphotographyforum/posts/2105086506271862/
+Copy of THE TIGERS' FOREST 25 APRIL - Drawing for the Planet, https://drawingfortheplanet.org/pages/copy-of-the-tigers-forest-25-april
+Genomic exploration of the endangered oriental stork, Ciconia, https://pmc.ncbi.nlm.nih.gov/articles/PMC11494145/
+A Review of the Conservation Status of Shorebirds in Mongolia - MDPI, https://www.mdpi.com/2076-2615/14/12/1752
+Rostratula australis, Australian Painted-snipe - AWS, https://iucnredlist-doi-pdfs.s3.eu-west-1.amazonaws.com/IUCN.UK.2016-3.RLTS.T22735692A95117342.en.1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZPI5ES4BLNTON5OK%2F20260913%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260913T203100Z&X-Amz-Expires=7200&X-Amz-SignedHeaders=host&X-Amz-Signature=812ff3c7da5774aaffb293a313207fbda40bebc7bd8aa8359e1d30e49f9c0173

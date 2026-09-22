@@ -1,198 +1,195 @@
-﻿Rohmaterial-Dossier: Archispirostreptus gigas
+﻿Strukturiertes Rohmaterial: Macrotermes michaelseni
 1. Namen und Etymologie
-Der wissenschaftliche Name der Art lautet Archispirostreptus gigas und wird der Ordnung Spirostreptida sowie der Familie Spirostreptidae zugeordnet. Die formelle Erstbeschreibung erfolgte im Jahr 1855 durch den deutschen Naturforscher Wilhelm Karl Hartwich Peters, basierend auf Exemplaren, die während einer Expedition in Mosambik gesammelt wurden1. Ursprünglich publizierte Peters die Art unter dem Namen Spirostreptus gigas in den Monatsberichten der Königlich Preußischen Akademie der Wissenschaften zu Berlin1. Im Jahr 1895 überführte der italienische Zoologe Filippo Silvestri die Art in die neu geschaffene Gattung Archispirostreptus4.
-Die etymologische Herleitung des Gattungsnamens Archispirostreptus ist im vorliegenden Quellenmaterial nicht belegt. Das lateinische Art-Epitheton gigas bedeutet wörtlich "Riese" und verweist auf die außergewöhnlichen Körpermaße der Art6. Der englische Trivialname "millipede" sowie das deutsche "Tausendfüßler" leiten sich von den lateinischen Wurzeln mille (tausend) und pes (Fuß) ab8. Dennoch handelt es sich hierbei um eine aspirative Bezeichnung, da keine bekannte Tausendfüßler-Art tatsächlich 1.000 Beine aufweist, wobei die australische Art Eumillipes persephone mit bis zu 1.306 Beinen eine dokumentierte Ausnahme bildet9.
-Die nachfolgende Tabelle fasst die gesicherten und überlieferten lokalen sowie internationalen Bezeichnungen der Art zusammen:
+Die systematische Einordnung der Art erfolgt innerhalb der Klasse der Insekten (Insecta), der Ordnung der Schaben (Blattodea) und der Teilordnung der Termiten (Isoptera). Innerhalb der Familie der Termitidae gehört sie zur Unterfamilie der pilzzüchtenden Termiten (Macrotermitinae)1. Der taxonomische Status dieser Klassifikation ist in der entomologischen Forschung fest etabliert (Status: gesichert).
+Der schwedische Entomologe Bror Yngve Sjöstedt beschrieb die Art im Jahr 1914 formal unter dem noch heute gültigen Binomen Macrotermes michaelseni1. Der Gattungsname Macrotermes wurde zuvor im Jahr 1909 von Nils Holmgren eingeführt, zu diesem Zeitpunkt jedoch noch als Untergattung der Gattung Termes (Linnaeus, 1758)3.
+Die etymologische Herleitung des Gattungsnamens basiert auf dem griechischen Wort makrós (für groß) und dem lateinischen termes (für Holzwurm oder weiße Ameise). Der Artname michaelseni ist ein Dedikationsname. Eine exakte historische Quelle, welcher Wissenschaftler namens Michaelsen durch Sjöstedt geehrt wurde, liegt in den ausgewerteten Dokumenten nicht vor; in der biologischen Nomenklatur dieser Epoche wurden häufig Sammler oder Expeditionsleiter gewürdigt (Status: vermutet).
+Im Laufe der taxonomischen Geschichte wurden verschiedene Synonyme für diese Art verwendet, die heute als invalid gelten (Status: gesichert). Zu diesen Synonymen zählen Macrotermes bellicosus kunenensis (Fuller, 1922), Macrotermes bellicosus limpopoensis (Fuller, 1922), Macrotermes bellicosus tonga (Fuller, 1927) sowie Termes (Termes) bellicosus mossambica (Hagen, 1858)1.
+In den Verbreitungsgebieten existieren diverse Trivial- und Lokalnamen. Da lokale Bezeichnungen oftmals nicht auf Artebene (Spezies), sondern auf Gattungsebene (Macrotermes) oder spezifische Lebensstadien (z. B. fliegende Geschlechtstiere) angewendet werden, ist die Zuordnung differenziert zu betrachten.
 
 
 Sprache / Region
 	Name
-	Wörtliche Bedeutung / Herleitung
-	Status der Angabe
-	Deutsch
-	Afrikanischer Riesentausendfüßler, Riesenschnurfüßer
-	Beschreibend
-	Gesichert2
-	Englisch
-	Giant African Millipede, Giant Black Millipede
-	Beschreibend
-	Gesichert2
-	Swahili
-	Jongoo (Plural: Majongoo)
-	Unbekannt
-	Gesichert (laut Prompt)
-	Giriama
-	Gongolo
-	Unbekannt
-	Gesichert (laut Prompt)
-	Umgangssprachlich (Kenia Küste)
-	Mombasa Express
-	Metaphorisch (Zugverbindung)
-	Überliefert15
-	Kikuyu
-	Mũnyongoro (Plural: Mĩnyongoro)
-	Unbekannt (trisyllabischer Stamm)
-	Gesichert18
-	Kamba
-	Minyongora
-	Unbekannt
-	Gesichert18
-	Zulu / Xhosa
-	Shongololo, amaShongololo
-	Von ukushonga ("sich aufrollen")
-	Überliefert2
-	Tswana
-	Motlhako, seBokolodi
-	Unbekannt
-	Gesichert2
-	Maa
-	Unbekannt
-	-
-	Keine Daten
-	Samburu
-	Unbekannt
-	-
-	Keine Daten
-	Im Verlauf der taxonomischen Geschichte wurden der Art verschiedene Synonyme zugewiesen, die heute als veraltet gelten. Hierzu zählen Graphidostreptus gigas (Peters, 1855), Spirostreptus plumaceus (Voges, 1878), Spirostreptus semicylindricus (Voges, 1878), Spirostreptus opistheurys (Attems, 1896), Aethiopistreptus attemsi (Verhoeff, 1938) und Spirostreptus msalaensis (Kraus, 1958)2.
-2. Erscheinung, mit Maßen
-Archispirostreptus gigas weist einen langgestreckten, zylindrischen Körperbau auf, der aus zahlreichen ringförmigen Segmenten besteht9. Das Exoskelett der Art ist stark mineralisiert und mit Calciumsalzen imprägniert, was ihm eine hohe mechanische Widerstandsfähigkeit verleiht19. Es setzt sich aus drei Schichten zusammen: einer etwa 1 µm dünnen Epicuticula, einer harten, gold- bis braunfarbigen Exocuticula und einer dicken, geschichteten Endocuticula19. Zwischen den verkalkten Platten befinden sich flexible Gelenkmembranen (Arthrodialmembranen), die eine Bewegung und das Einrollen des Körpers ermöglichen19. Die Grundfärbung der Tiere variiert zwischen einem tiefen Mahagonibraun und einem glänzenden, fast reinen Schwarz, ohne auffällige Bänderungen14.
-Die Art zeigt eine anamorphe Entwicklung. Dies bedeutet, dass die Tiere mit jedem Häutungszyklus (Molt) neue Körpersegmente und Beinpaare hinzufügen21. Vor der Häutung bilden sich an den elastischen Cuticula-Schichten transparente Vorsprünge, die nach dem Abstreifen der alten Hülle als vollständig ausgebildete Beine hervortreten23. Infolgedessen variieren die Körpermaße und die Beinzahl je nach Altersstadium des Individuums erheblich. Die nachfolgende Tabelle stellt die physischen Parameter der adulten Tiere dar:
-
-
-Parameter
-	Messwert / Spanne
-	Alltagsvergleich
+	Bedeutung / Anwendung
 	Status
-	Körperlänge (adult)
-	25,0 cm bis 38,5 cm
-	Länge des menschlichen Unterarms / Handfläche8
-	Gesichert8
-	Durchmesser / Dicke
-	ca. 6,35 cm (2,5 Zoll)
+	Deutsch
+	Riesentermite
+	Allgemeine Bezeichnung für die Gattung5.
+	gesichert
+	Englisch
+	Giant Mound Termite
+	Bezieht sich auf die auffälligen, großen Hügelbauten5.
+	gesichert
+	Swahili
+	Mchwa
+	Allgemeiner Begriff für Termiten1.
+	gesichert
+	Swahili
+	Kumbe kumbe / Kumbikumbi
+	Spezifischer Begriff für das fliegende Stadium (Alaten)8.
+	gesichert
+	Kikuyu
+	Nguya
+	Bezeichnung für essbare, fliegende Termiten9.
+	gesichert
+	Luhya (Westkenia)
+	Chiswa / Tsiswa
+	Lokale Bezeichnung für essbare Termiten8.
+	gesichert
+	Luo
+	Ng'wen
+	Lokale Bezeichnung für Termiten9.
+	gesichert
+	Maa (Maasai)
+	unbekannt
+	Keine belegte artspezifische Bezeichnung vorhanden.
 	-
-	Gesichert21
-	Körpergewicht (adult)
-	181 g bis 227 g (0,4 bis 0,5 lbs)
+	Kamba
+	unbekannt
+	Keine belegte artspezifische Bezeichnung vorhanden.
 	-
-	Gesichert25
-	Anzahl der Beine
-	ca. 250 bis 400 Beine
+	Samburu / Giriama
+	unbekannt
+	Keine belegten Daten in den Quellen verfügbar.
 	-
-	Gesichert21
-	Lebenserwartung
-	5 bis 7 Jahre (bis 10 Jahre in Obhut)
-	-
-	Gesichert14
-	Anatomisch verfügen Diplopoden über zwei Beinpaare (vier Beine) pro Körpersegment, mit Ausnahme der ersten Segmente hinter dem Kopf6. Die Art besitzt keine Augen (Ocellen) zur visuellen Orientierung25. Stattdessen verlässt sie sich vollständig auf taktile und chemische Reize. Der Kopf trägt ein Paar achtgliedrige Antennen. Am apikalen (äußersten) Segment dieser Antennen befinden sich charakteristische chemorezeptive Zapfen, die mit spezialisierten Sensillen besetzt sind19. Ein Tömösváry-Organ, das bei vielen anderen Myriapoden vorkommt, ist bei dieser Art extrem klein oder zurückgebildet26.
-Ein klarer Geschlechtsdimorphismus ist bei Archispirostreptus gigas anhand der Modifikation der Beine erkennbar. Bei geschlechtsreifen Männchen ist das Beinpaar am siebten Körpersegment zu sogenannten Gonopoden (Kopulationsorganen) umgebildet, die der Übertragung der Spermatophore dienen11. Die Gonopoden sind bei dieser Art durch spezifische morphologische Merkmale gekennzeichnet, darunter ein abgerundeter Lappen (Lobe) am Telopodit sowie ein gefranster oder dorniger "antetorsal process", was sie taxonomisch von verwandten Arten abgrenzt5. Weibliche Tiere können während der Eiproduktion eine leicht breitere Körpermitte aufweisen11.
+	2. Erscheinung, mit Maßen
+Macrotermes michaelseni zeichnet sich durch einen ausgeprägten Polymorphismus aus. Die Kolonie unterteilt sich in eine reproduktive Kaste (Königin, König, Alaten) und in sterile Kasten (Arbeiter und Soldaten), welche wiederum einen Größendimorphismus (Major- und Minor-Stadien) aufweisen.
+Die Dimensionen der primären reproduktiven Tiere verändern sich im Laufe ihres Lebenszyklus. Die Königin entwickelt eine ausgeprägte Physogastrie (Anschwellen des Hinterleibs zur Eiproduktion). Hinsichtlich des Körpergewichts der Königin existieren in der wissenschaftlichen Literatur stark abweichende Messreihen. Eine Studie aus dem Jahr 2004 dokumentiert, dass primäre Königinnen nach zwei Jahren eine durchschnittliche Körpermasse von 7,06 mg (± 2,4 mg) aufweisen und sechs Jahre alte Königinnen 17 bis 18 mg wiegen11. Eine andere Analyse polygyner und monogyner Kolonien belegt hingegen Lebendgewichte von 1,2978 g (± 0,4296 g) für polygyne und 2,3732 g (± 1,0733 g) für monogyne Königinnen12. Die Literatur berichtet zudem von physogastrischen Weibchen der Gattung Macrotermes, die in Einzelfällen Längen von knapp 8 cm bis zu 15 cm erreichen, was der Länge einer erwachsenen Handfläche entspricht, sowie von Maximalgewichten bis zu 20 g12. Der Widerspruch der Gewichtszahlen zwischen den Bereichen von 18 mg und mehreren Gramm erklärt sich biologisch durch das extreme Wachstum der Ovarien während der Reifephase und den Grad der Polygynie (Status: gesichert). Das Gewicht des Königs unterliegt geringeren Schwankungen und wird in der Forschung als unabhängiger Indikator für das Alter einer Kolonie herangezogen12.
+Die sterilen Kasten dominieren die Kolonie quantitativ. Larven machen 42,60 % der Population aus, gefolgt von Arbeitern mit 42,19 % und Soldaten mit 14,16 %; Präsoldaten (0,71 %) und Alaten (0,34 %) stellen die kleinste Fraktion (gemessen an der nahe verwandten Art M. gilvus, was als Richtwert für die Gattung gilt)16. Minor-Arbeiter übertreffen die Anzahl der Major-Arbeiter in einem Verhältnis von 1,4:1 bis 1,5:116. Bei den Soldaten dominieren die Minor-Soldaten gegenüber den Major-Soldaten mit einem Verhältnis von 5,1:116. Ein Soldat (bezogen auf M. falciger) weist ein durchschnittliches Lebendgewicht von 0,15 g auf17. Die Kopfkapseln der Soldaten weisen eine rötlich-braune bis orangefarbene Pigmentierung auf13.
+Die Körperzusammensetzung (Trockenmasse in Relation zur Lebendmasse) variiert zwischen den Kasten:
+
+
+Kaste
+	Anteil der Trockenmasse an Lebendmasse
+	Minor-Soldaten
+	35,3 %18
+	Major-Soldaten
+	20,3 %18
+	Arbeiter (Minor/Major)
+	23,7 %18
+	Nymphen
+	17,1 %18
+	König
+	35,4 %18
+	Königin
+	20,8 %18
+	Die architektonische Struktur, die von den sterilen Kasten errichtet wird, erreicht erhebliche Ausmaße. Der Hügel ist in sich geschlossen und weist keine permanenten externen Öffnungen auf19. Ein ausgewachsener Hügel von M. michaelseni erreicht eine vertikale Ausdehnung von bis zu 4 m und bedeckt an der Basis eine Fläche von bis zu 50 m²1. Die durchschnittliche Höhe unterliegt regionalen Schwankungen: Messungen in bestimmten Regionen (Kenia) ergaben Mittelwerte von 2,9 m (± 1,69 m) gegenüber 0,3 m (± 0,24 m) an anderen Standorten20. Das Material des Hügels umfasst 2 bis 20 Kubikmeter Erde pro Hektar, wobei 65 bis 75 % des Gesamtvolumens oberirdisch verbaut sind21. Die Dichte des Bodengemischs aus Ton und Speichel beträgt 1,2 kg pro Liter22. Ein anatomisches Kernmerkmal der Struktur ist, dass 18 % des Volumens aus einem Netz von Luftkanälen bestehen23. Die markante Spitze des Hügels (Spire) weist in Namibia eine Neigung von etwa 19 Grad in Richtung Norden auf, was exakt dem durchschnittlichen solaren Zenitwinkel der Region entspricht23.
 3. Der Mechanismus
-Die Biologie von Archispirostreptus gigas wird von drei hochspezialisierten evolutionären Mechanismen dominiert: einer chemischen Verteidigungskaskade, einem symbiotischen Verdauungssystem zur Methanogenese sowie einer einzigartigen molekularen Sauerstofftransportstruktur.
-Chemische Abwehrsekretion (Repugnatorialdrüsen)
-Da A. gigas weder über einen Giftapparat noch über Beißwerkzeuge zur Verteidigung verfügt, basiert der Schutzmechanismus auf einer Kombination aus physikalischer Barriere und chemischer Abschreckung22. Bei Bedrohung rollt sich das Tier spiralförmig zusammen, wodurch die weiche ventrale Seite und die Beine geschützt werden, während das gehärtete Exoskelett dem Angreifer präsentiert wird3.
-Die ökologische Kausalkette der chemischen Abwehr verläuft wie folgt:
-1. Mechanischer Reiz (A): Ein Prädator (z.B. Ameise, Vogel) greift den Tausendfüßler an.
-2. Drüsensekretion (B): Über spezialisierte Poren (Ozoporen), die lateral entlang der Körpersegmente verlaufen, sekretiert das Tier eine gelb-braune, übelriechende Flüssigkeit3. Der amerikanische Chemiker William F. Wood isolierte und identifizierte 1974 die aktiven Bestandteile dieses Sekrets als Toluchinon und 2-Methoxy-3-methylbenzochinon3. Im Gegensatz zu anderen Tausendfüßler-Ordnungen (wie den Polydesmida) sondert A. gigas keine Blausäure (Cyanwasserstoff) ab29.
-3. Toxische Wirkung (C): Die Benzochinone wirken als starkes Kontaktgift und Repellent. Sie verursachen chemische Verbrennungen und Verfärbungen auf der Haut und den Schleimhäuten des Angreifers sowie schwere Reizungen bei Kontakt mit den Augen3.
-4. Verhaltensänderung des Prädators (D): Die Toxizität zwingt Raubtiere zum Abbruch des Angriffs. So sind beispielsweise Treiberameisen (Dorylus spp.) physisch nicht in der Lage, A. gigas als Beute zu schlagen3.
-Symbiotische Methanogenese im Verdauungstrakt
-Ein weiterer zentraler Mechanismus ist die hochspezialisierte mikrobielle Fermentation im Darm der Tiere, die 2021 von Terézia Horváthová und ihrem Team detailliert erforscht wurde3. Als Detritivor nimmt A. gigas Lignocellulose (Holzstoff) auf. Um die energetisch nährstoffarme, tote Pflanzenmasse abzubauen, existiert eine komplexe symbiotische Kette.
-Der Verdauungstrakt ist in einen Mitteldarm und einen Enddarm (Hindgut) unterteilt. Beide Bereiche sind streng anoxisch (sauerstofffrei)33. Bakterien im Darm fermentieren die Lignocellulose, wobei als Nebenprodukte kurzkettige Fettsäuren (wie Acetat) und Wasserstoff (H2) sowie Formiat entstehen32. Ein Stau dieser Nebenprodukte würde den weiteren Abbau der Nahrung blockieren. Hier greift der Mechanismus der Archaeen: Im Enddarm der Tiere, der einen höheren pH-Wert aufweist, lebt eine Population anaerober Archaeen, dominiert von der Spezies Methanobrevibacter spp. (Ordnung Methanobacteriales)32. Diese Archaeen sind hydrogenotroph; sie binden den überschüssigen Wasserstoff an Kohlendioxid und produzieren dabei Methan (CH4). Zudem sind diese Archaeen physisch an Ciliaten (Wimperntierchen) assoziiert, die ausschließlich im Enddarm vorkommen und zusätzliche Substrate für die Methanogenese bereitstellen32. Infolge dieses Prozesses emittiert A. gigas kontinuierlich große Mengen an Methangas in die Atmosphäre und schließt so als "Ökosystem-Ingenieur" den Kohlenstoffkreislauf32.
-Sauerstofftransport durch Riesen-Hämocyanin
-Der dritte Mechanismus betrifft die Atmung und den Sauerstofftransport, erforscht im Jahr 2013 von einem Team um Christian Damsgaard3. Während A. gigas über Poren (Spirakel) in den Körpersegmenten atmet, an die sich Tracheen anschließen25, erfolgt der Sauerstofftransport im Blut nicht über Hämoglobin, sondern über Hämocyanin. Das Hämocyanin von A. gigas ist ein kupferbasiertes Protein, das als riesiger Multimer-Komplex aus 36 Untereinheiten (36-mer) aufgebaut ist37. Es zeigt einen außergewöhnlich starken Bohr-Effekt (Sauerstoffabgabe bei sinkendem pH-Wert) und weist nur einen einzigen Untereinheitstyp mit unterschiedlicher Glykosylierung auf37. Dieser Mechanismus ermöglicht es dem Tier, in den oft hypoxischen (sauerstoffarmen) Bedingungen von verrottendem Laub und tiefen Erdbauten effizient zu überleben37.
+Das definierende biologische und architektonische Prinzip von Macrotermes michaelseni ist die passive Regulation von Gasaustausch und Temperatur eines vollständig geschlossenen Nestsystems, welches eine Kolonie von über einer Million Individuen und eine stoffwechselaktive Pilzfarm am Leben hält. Das epigeale (oberirdische) Bauwerk fungiert als externes physiologisches Atmungsorgan ("Lunge"), während die Termiten selbst in einer 1,5 bis 2,0 m durchmessenden kugelförmigen Kammer (Hive Chamber) im Untergrund leben23. Der Stoffwechsel der Population erzeugt eine konstante thermische Leistung von 5 bis 100 Watt, abhängig von der Koloniegröße23.
+Das Luftleitungssystem im Hügel besteht aus drei vernetzten Komponenten: Einem zentralen Kamin (Chimney) mit einem Durchmesser von 2 bis 10 cm, der senkrecht durch die Mitte des Baus bis in die geneigte Spitze verläuft23. Dieser ist über laterale Verbindungen (Lateral Connectives) mit einem Netzwerk aus vertikalen Oberflächenkanälen (Surface Conduits) verbunden, die etwa 1 bis 3 cm unter der Außenhaut der Hügeloberfläche liegen25.
+Die wissenschaftliche Erklärung der Funktionsweise dieses Systems hat sich in der Wissenschaftsgeschichte durch drei konsekutive Modelle entwickelt (Status: gesichert, dass sich das Verständnis gewandelt hat).
+Das erste Modell, die Thermosiphon-Zirkulation (oder Metabolismus-induzierte Konvektion), wurde in den 1950er Jahren formuliert. Es postulierte, dass die metabolische Wärme aus dem Nest die Luft aufsteigen lässt. Diese warme Luft strömt durch den zentralen Kamin in die Höhe, wird in die peripheren Kanäle abgelenkt, kühlt sich nahe der Außenhaut ab, verdichtet sich und sinkt in das Nest zurück25. Dieses Modell galt lange als Standardwerk, bis J. Scott Turner um das Jahr 2000 Tracer-Gas-Analysen (mit Propan) durchführte. Turner wies nach, dass die Dichtegradienten der Luft für eine derartige Konvektion nicht ausreichen.
+Turners zweites Modell postulierte eine windgetriebene Ventilation. Trotz der geschlossenen Architektur sei die 1 bis 3 cm dicke Außenhaut ausreichend porös, um die kinetische Energie von Oberflächenwinden zu nutzen. Turbulente Winde (mit Geschwindigkeiten von bis zu 5 m/s) verursachen Druckschwankungen an der Oberfläche. Diese zwingen die Luft in einer tidalen (gezeitenartigen) Strömung durch den sogenannten Grenzschichtbereich (Boundary Layer) in das Kanalnetzwerk hinein und heraus26. Ein Austausch von 95 % des internen Gasvolumens (entsprechend drei Zeitkonstanten) wird so dynamisch erreicht.
+Das aktuellste, dritte Modell der solar angetriebenen Zwangskonvektion wurde von Hunter King und L. Mahadevan in den Jahren 2015 bis 2017 entwickelt und durch direkte Messungen der Luftgeschwindigkeiten in den Kanälen gestützt. Dieses Modell verlagert den Mechanismus von der Windenergie zur Solarenergie. Die ökologische Kausalkette verläuft wie folgt: Die diurnalen (täglichen) Sonnenstände heizen die asymmetrische Außenhülle des Hügels ungleichmäßig auf. Dies führt zu einer lokalen Erwärmung der Luft in den peripheren Oberflächenkanälen. Die warme Luft kann durch die Struktur der Wände nicht ausreichend schnell nach außen diffundieren. Es baut sich eine Zwangskonvektionszelle auf, in der die erwärmte Luft nach unten in das Innere strömt, was im Gegenzug tiefere, kältere Gase (mit hohem CO2-Gehalt) in den zentralen Kamin drängt. Durch die im Tagesverlauf wandernde Sonne kehrt sich diese Strömungsrichtung zweimal täglich um. Das System funktioniert exakt wie eine tidale Lunge, die das Nest einmal am Tag vollständig spült und das Kohlenstoffdioxid aus der Stoffwechselproduktion abführt, ohne dass die relative Luftfeuchtigkeit im Nest (die konstant bei ca. 70 % liegt) einbricht26. Die spezifische Ausrichtung des Hügels mit seiner 19-Grad-Neigung nach Norden maximiert das Auffangen dieser Strahlungsenergie in Relation zum lokalen solaren Zenit23.
+Dieses Prinzip der homöostatischen Regulation fand eine präzise Umsetzung in der biomimetischen Architektur. Der Architekt Mick Pearce entwarf das Eastgate Centre in Harare (Simbabwe), das 1996 eröffnet wurde. Das Gebäude nutzt thermische Massen, Kaminzugeffekte und nächtliche passive Kühlung anstelle von konventionellen Klimaanlagen. Diese Nachahmung der Macrotermes-Architektur führt zu einer Einsparung des Energiebedarfs für Belüftung um 90 % und verzeichnete eine Kostenreduktion von 3,5 Millionen US-Dollar für die Gebäudeinhaber (Status: gesichert)33.
 4. Ökologie und Verhalten
-Archispirostreptus gigas besiedelt ein spezifisches Habitat im Tiefland Ostafrikas, das sich von Mosambik bis Kenia erstreckt3. Die Spezies wird selten in Höhenlagen oberhalb von 1.000 Metern dokumentiert3. Der primäre Lebensraum umfasst subtropische Regenwälder, Savannenwälder sowie küstennahe Feuchtgebiete, vorausgesetzt, diese weisen eine ausreichende Beschattung durch Baumbestand auf3. Die Tiere sind bodenlebend (terrestrisch) und halten sich meist im Schutz von verrottenden Wurzeln, unter Falllaub oder in Totholz auf24.
-Als primärer Zersetzer (Detritivor) bildet die Art ein entscheidendes Bindeglied im Nährstoffkreislauf des Waldbodens. Die Nahrung besteht aus zerfallendem Pflanzenmaterial, verrottendem Holz, Wurzeln sowie herabgefallenem Obst und Samen24. Durch die Fragmentierung der Blätter vergrößern sie die Oberfläche des Detritus und erleichtern so Bakterien und Pilzen den weiteren Abbau43. Der Kot der Tausendfüßler ist extrem humusreich. Die frisch geschlüpften Juvenilstadien (Nymphen) zeigen ein koprophages Verhalten; sie ernähren sich vom Kot der erwachsenen Tiere. Dies liefert ihnen vorverdaute Nahrung und impft ihren sterilen Verdauungstrakt mit der essenziellen symbiotischen Bakterien- und Archaeenflora42.
-Zusätzlich besteht eine ektosymbiotische Beziehung mit verschiedenen Milbenarten, die auf dem Exoskelett und zwischen den Beinen des Tausendfüßlers leben3. Die Milben halten den Panzer frei von parasitischem Befall und Pilzsporen, während sie im Gegenzug Transport, Schutz und Zugang zu Nahrungsresten des Wirtes erhalten3.
-Verhalten im Reisezeitraum (24. September bis 12. Oktober): Archispirostreptus gigas ist streng nachtaktiv (nocturnal) und meidet direktes Sonnenlicht, um Austrocknung zu verhindern24. Da die Tiere ihre Atemöffnungen (Spirakel) nicht aktiv verschließen können, ist ihr Flüssigkeitshaushalt stark von der Umgebungsfeuchtigkeit abhängig25.
-Ende September befindet sich Kenia am Ende der langen Trockenzeit. In dieser Phase ist der Waldboden extrem trocken. Um dem Feuchtigkeitsverlust zu entgehen, weisen die Tausendfüßler ein Aestivationsverhalten (Sommerruhe) auf: Sie vergraben sich tief in kühlere, leicht feuchte Erdschichten, verstecken sich unter massiven Baumwurzeln oder rollen sich in Spalten ein22. In extrem trockenen Bedingungen werden sie gelegentlich gezwungen, von ihrer Detritus-Diät abzuweichen und lebende Pflanzenwurzeln oder landwirtschaftliche Setzlinge anzufressen, um Wasser aufzunehmen45.
-Anfang Oktober setzt in der Regel die kurze Regenzeit ("small rains") ein. Dieses meteorologische Ereignis triggert einen abrupten Verhaltenswechsel. Mit der plötzlichen Durchfeuchtung des Bodens quillt das Laub auf, und Pilze sowie Bakterien werden reaktiviert. Die Tausendfüßler verlassen massenhaft ihre unterirdischen Verstecke44. Dieser Vorgang ist so verlässlich, dass das Erscheinen der Tiere in der lokalen Kultur als sicherer Vorbote des Regens interpretiert wird. Die Population nutzt diese feuchte Phase intensiv zur Nahrungsaufnahme auf der Oberfläche und zur Fortpflanzung23.
+Macrotermes michaelseni prägt als Landschaftsingenieur (Ecosystem Engineer) die Trocken- und Dornbuschsavannen des subsaharischen Afrikas maßgeblich. Die Art bevorzugt lehmhaltige Böden (Clay) mit hohen Grundwasserspiegeln1. Im Okavango-Delta besiedelt sie Einzugsgebiete, die regelmäßigen Sommerüberschwemmungen ausgesetzt sind. Das Herantragen von Bodenmaterial in einem Radius von 50 Metern konzentriert Nährstoffe und erhöht den Bodenpegel am Ort des Nestes. Die Hügel ragen folglich bei Flut als Inseln aus dem Wasser1. Die Bestandsdichte in Savannenlandschaften variiert je nach Studie zwischen 1 und 6, teilweise auch bis zu 16,7 Hügeln pro Hektar1. Raumanalysen der Hügelverteilung zeigen, dass Nester mit einer Höhe von über 0,7 m in einer regelmäßigen Dispersion zueinander stehen, was einen starken Indikator für intraspezifische Konkurrenz um Nahrungsressourcen darstellt. Die physische Distanz zwischen zwei großen Hügeln determiniert deren maximales Wachstum21.
+Der Tagesrhythmus der Nahrungssuche ist variabel. Arbeiter fouragieren überwiegend in der Nacht, nutzen das unterirdische und oberflächennahe Tunnelsystem aber auch am Tag1. Ein Arbeiter transportiert pro Ausflug durchschnittlich 0,166 mg (± 0,009 mg) Biomasse in das Nest18. Gesammelt werden Laubstreu, Holzfragmente und tote Gräser. In Savannenwäldern stellen die Arten Croton megalocarpus, Philenoptera violacea, Vachellia erioloba und Colophospermum mopane die bevorzugten Rohstoffe dar1.
+Die Kolonien kultivieren auf diesen herangetragenen Pflanzenresten in der sogenannten Hive Chamber den Basidiomyceten Termitomyces schimperi. Diese obligatorische, mutualistische Symbiose existiert stammesgeschichtlich seit über 30 Millionen Jahren1. Die ökologische Kausalkette dieser Fungikultur verläuft wie folgt: Die älteren Arbeiter sammeln die Pflanzenstreu. Jüngere Arbeiter zerkauen die Biomasse im Nest, mischen sie mit asexuellen Pilzsporen aus ihrem Darm und scheiden sie als strukturierte Fäkalpellets aus. Diese Pillen bilden den sogenannten Pilzkamm (Fungus Comb). Der Pilz nutzt Enzyme (etwa Laccase), um das unverdauliche Lignin im Holz abzubauen (Weißfäule-Abbau). Durch diesen biochemischen Prozess wird Zellulose für die Termiten als Nahrung verfügbar gemacht1. Diese Nahrungskette ist hochspezifisch: Die Königin ernährt sich isotopischen Analysen zufolge primär von den proteinreichen Pilzknötchen (Nodules), während Arbeiter und Soldaten sich aus einer Mischung von abgebautem Pflanzenmaterial und älteren Teilen des Pilzkamms versorgen48.
+Für den Reisezeitraum Ende September bis Anfang Oktober (Ende der langen Trockenzeit, unmittelbar vor dem Beginn der kleinen Regenzeit) greifen spezifische saisonale Muster (Status: gesichert). Erstens ändert sich die Nahrungspräferenz: Durch die fortgeschrittene Trockenheit ist Pflanzenstreu in der Savanne fast vollständig abgebaut oder durch Fraß verwertet. In dieser Phase greifen die Arbeiter verstärkt auf Elefantendung zurück, der nun den Großteil des eingetragenen Substrats bildet1. Zweitens bereitet sich die Kolonie auf die Fortpflanzungsphase vor. Geflügelte Geschlechtstiere (Alaten) wurden herangezogen und sammeln sich im Inneren der Hügelstrukturen. Sie fliegen nicht unkoordiniert aus, sondern benötigen einen klimatischen Trigger. Die Alaten warten an speziellen Ausfluglöchern auf den ersten durchdringenden Regen der herannahenden Feuchtsaison (oft dokumentiert bei Niederschlägen ab 12 mm). Nach diesem Ereignis, zumeist am späten Nachmittag oder in der Dämmerung, kommt es zum synchronisierten Massenschwärmen49. Drittens aktiviert der Regen den Symbiosepartner. Termitomyces schimperi entwickelt seine gewaltigen sexuellen Fruchtkörper exakt nach diesen ersten schweren Regenfällen. Am Fuß des Hügels treibt eine bis zu 90 cm lange wurzelartige Struktur (Pseudorhiza) aus den tief liegenden Pilzkammern an die Oberfläche und bildet große weiße Schirme (15 bis 28 cm, teils bis 40 cm Durchmesser) mit dunklen, anhaftenden Schuppen, oft in Gruppen von fünf bis zehn Exemplaren47. Im Reisefenster (Ende September) befinden sich die Fruchtkörper noch im Wartezustand unter der Erde.
+Diese Konzentration von Biomasse zieht weitere Lebewesen an. Die Termitenhügel bieten Lebensraum für Nischenarten wie die Raubameise Carebara vidua. Deren Arbeiter sind nur etwa 2 mm groß und können aufgrund eines neutralen Geruchsprofils unbemerkt in das Termitennest eindringen, um dort als Kleptoparasiten Nahrung zu stehlen (Lestobiose)55. Zu den Wirbeltier-Prädatoren, die den weichen Boden der Hügel im Verlauf der Regenzeit attackieren, gehört das Erdferkel (Orycteropus afer)57.
 5. Menschen und Kultur in Kenia
-Die Interaktion zwischen Archispirostreptus gigas und dem Menschen in Kenia reicht von kultureller Symbolik bis hin zu gezieltem ökologischen Einsatz.
-Kulturelle Rolle und Überlieferung: In der indigenen Überlieferung des südlichen und östlichen Afrikas spiegelt sich die Mechanik der Tiere in der Namensgebung wider. Der weit verbreitete Begriff "Shongololo" entstammt dem Zulu- und Xhosa-Wort ukushonga, das überliefert "sich aufrollen" bedeutet8. In ländlichen Regionen gilt das plötzliche, massenhafte Auftreten der Tiere am Ende der Trockenzeit in Kenia (wie im Reisezeitraum zu erwarten) traditionell als sicherer Vorbote des lang ersehnten Regens44. Es ist zudem dokumentiert, dass afrikanische Primaten gezielt Tausendfüßler suchen und manipulieren, um die Benzochinon-Sekretion zu provozieren. Die Affen reiben sich anschließend mit dem Sekret ein, das als chemischer Schutz gegen Insekten und Parasiten (Repellent) wirkt8.
-Ökologische Nutzung (Der Fall Haller Park, Mombasa): Ein historisches Beispiel für den gezielten Einsatz der Art liefert der Bamburi Haller Park in Mombasa46. In den 1970er Jahren versuchte der Schweizer Agronom Dr. René Haller, einen massiv degradierten Kalksteinbruch zu renaturieren46. Er pflanzte Kasuarina-Bäume (Casuarina equisetifolia), deren harte Nadeln jedoch auf dem sterilen Kalksteinboden nicht verrotteten, wodurch sich kein Humus bilden konnte46. Haller führte gezielt afrikanische Riesentausendfüßler (darunter A. gigas und die nah verwandte Art Epibolus pulchripes) in das Gebiet ein45. Die Tausendfüßler waren als eine der wenigen Spezies in der Lage, die harten Nadeln zu verdauen. Durch ihren Kot bildeten sie die initiale Humusschicht, die es Bakterien, Pilzen und schließlich anderen Pflanzen ermöglichte, das Areal zu einem funktionierenden Waldökosystem zu transformieren45.
-Schutzstatus und Konflikte: Ein Konfliktpotenzial besteht lediglich während schwerer Dürreperioden (wie sie Ende September auftreten können). Da der Boden austrocknet, weichen die Tausendfüßler gelegentlich auf lebendes Gewebe aus. Sie fressen dabei forstwirtschaftliche Setzlinge oder Nutzpflanzen an, was zu lokal begrenzten, saisonalen Ernteschäden führen kann45. Global gesehen gilt der Bestand jedoch als stabil. Die Weltnaturschutzunion (IUCN) bewertete Archispirostreptus gigas im Jahr 2021 offiziell mit dem Status "Least Concern" (nicht gefährdet)3. Absolute Bestandszahlen für Kenia oder Ostafrika sind in der wissenschaftlichen Literatur nicht erfasst, die Art wird in ihrem natürlichen Habitat jedoch als häufig (abundant) beschrieben25.
+Die Nutzung von Termiten, insbesondere der Gattung Macrotermes, hat in Ostafrika eine lange wirtschaftliche und kulturelle Tradition. Der Verzehr der Insekten (Entomophagie) ist ernährungsphysiologisch durch einen hohen Gehalt an verdaulichen Proteinen, Fetten und bioverfügbaren Mikronährstoffen (Kalzium, Zink, Mangan) begründet8.
+In Kenia, vorwiegend dokumentiert in den westlichen Countys (Kakamega, Bungoma, Trans Nzoia) bei den Gemeinschaften der Luhya und Luo, werden Termiten systematisch geerntet. Die primäre Nutzung beschränkt sich auf die Fortpflanzungssaison, wenn die Alaten (fliegenden Geschlechtstiere) ausschwärmen (Status: gesichert). Um die Insekten effizient zu fangen, errichten Anwohner kleine Zelte, die mit Decken abgedeckt werden, direkt über den Schwarmöffnungen der Hügel. Ein Lichtspalt leitet die Termiten in ein speziell gegrabenes Loch, das mit glatten Bananenblättern ausgekleidet ist, auf denen die Insekten abrutschen und gesammelt werden können9. Diese Aktivität findet, korrelierend mit den Regenfällen, häufig in den Nachmittagsstunden zwischen 14 und 16 Uhr statt9.
+Nach der Ernte werden die Alaten häufig ohne zusätzliches Öl geröstet oder gebraten, da ihr eigener Fettgehalt dafür ausreicht8. Teilweise werden sie in wenig Wasser gekocht und anschließend sonnengetrocknet, was ihre Haltbarkeit auf mehrere Monate verlängert9. Die Ernte generiert nicht nur Nahrung zur Eigensicherung, sondern die Insekten werden als Ware auf lokalen Märkten verkauft, was eine Einkommensquelle für ländliche Haushalte darstellt8. Neben den Geschlechtstieren nutzen 35 % der Landwirte in Befragungen in Westkenia die sterilen Kasten (Arbeiter und Soldaten) als hochwirksames und kostengünstiges Futtermittel für Geflügel59.
+Die soziokulturelle Bedeutung spiegelt sich in Sprache, Ritualen und Mythen wider (Status: überliefert). Bei der Ernte wird in diversen afrikanischen Ethnien das Rhythmus-Schlagen auf den Boden oder auf Kalebassen eingesetzt, um das Geräusch prasselnden Regens zu imitieren und den Ausflug der Termiten künstlich zu triggern; Lieder begleiten den Prozess50. In Westkenia (im Sub-Stamm der Banyala) beeinflussen Termiten die Namensgebung: Ein während der Schwarmzeit geborener Junge kann den Namen "Waswa" erhalten, ein Mädchen wird "Naswa" genannt9. Zudem wird der Verzehr der Insekten lokal mit Vitalität und dem Aufbau von Kraft in Verbindung gebracht9. In der traditionellen Medizin wurden Termitenpräparate, beispielsweise bei der Ethnie der Digo (Grenzregion Kenia/Tansania), zur Behandlung von Kindern mit Fieber dokumentiert50.
+Die Nutzung von Makrotermiten hat tiefe historische Wurzeln. Archäologische Analysen von Knochenwerkzeugen aus dem frühen Pleistozän (Ausgrabungsstätten in Südafrika) deuten darauf hin, dass bereits frühe Hominiden (Australopithecus robustus) die nährstoffreichen Insekten aus den Hügeln abbauten, was zur Energieversorgung größerer Gehirne beigetragen haben könnte50.
+Konflikte mit der menschlichen Infrastruktur, wie sie bei subtropischen Holztermiten bekannt sind, werden für M. michaelseni in Kenia kaum berichtet, da sich diese Art primär von Pflanzenstreu in der Savanne ernährt und keine Holzstrukturen von Gebäuden attackiert (Status: vermutet mangels negativer Berichte). Die Spezies ist von der IUCN nicht in der Roten Liste gefährdeter Arten erfasst (Not Evaluated). Die Lebendbiomasse der Insekten erreicht in intakten Savannenökosystemen enorme Werte von 70 bis 110 Kilogramm pro Hektar18.
 6. Wissenschaftsgeschichte
-Die systematische Erforschung von Archispirostreptus gigas erstreckt sich über einen Zeitraum von mehr als eineinhalb Jahrhunderten und spiegelt die Entwicklung der Myriapodologie wider.
-* 1855: Der deutsche Naturforscher Wilhelm Karl Hartwich Peters beschreibt die Art formell während seiner umfassenden Publikation über die Fauna von Mosambik. Er veröffentlichte die Erstbeschreibung unter dem Basionym Spirostreptus gigas in den "Monatsberichten der Königlich Preußischen Akademie der Wissenschaften zu Berlin" (Seite 75-85)1.
-* 1895: Der italienische Entomologe und Zoologe Filippo Silvestri überarbeitet die Taxonomie und ordnet die Art der neu definierten Gattung Archispirostreptus zu, wodurch der noch heute gültige Name entsteht5.
-* 1974: In der Ausgabe der "Annals of the Entomological Society of America" publiziert William F. Wood die erste detaillierte chemische Analyse des Verteidigungssekrets. Er belegt, dass A. gigas Toluchinon und 2-Methoxy-3-methylbenzochinon absondert, ein Meilenstein im Verständnis der biochemischen Abwehr von Diplopoden3.
-* 2013: Ein interdisziplinäres Forscherteam der Universität Aarhus (Dänemark) und der Universität Mainz um Christian Damsgaard und Roy E. Weber veröffentlicht im "Journal of Experimental Biology" die erste molekulare Strukturaufklärung des riesigen Hämocyanin-Proteins von A. gigas. Die Studie belegt die Abstammung und die Sauerstoffbindungskapazitäten der Art36.
-* 2021: Eine Studie unter der Leitung von Terézia Horváthová widmet sich der ökologischen Bedeutung der Methanemissionen. Publiziert in "Applied and Environmental Microbiology", identifiziert das Team die Archaeen der Gattung Methanobrevibacter im Enddarm der Tiere und quantifiziert die Methanproduktion von A. gigas3.
-7. Fotografie auf der Route
-Um Archispirostreptus gigas auf der vorgegebenen Route fotografisch zu dokumentieren, erfordert es die Berücksichtigung von Witterung und Tageszeit.
-Sichtbarkeit und Orte: In Kenia ist die Art auf Meereshöhe sowie in bewaldeten Hochlagen bis etwa 1.000 Meter verbreitet3. Relevante Stationen auf der Route sind die Küstenwälder um Mombasa (Bamburi Beach, Mtwapa Creek, Nguuni Nature Sanctuary) sowie die bewaldeten Ränder und Galeriewälder im Landesinneren (Nairobi National Park, Karura Forest, Sheldrick Wildlife Trust)3. Da die Tiere im September in der Diapause tief im Boden verborgen sind, ist die Suche tagsüber inhaft. Mit den ersten Regenfällen Anfang Oktober ändert sich dies. Sie sind nachtaktiv, weshalb Sichtungen in den frühen Morgenstunden bei hoher Luftfeuchtigkeit oder während geführter Nachtwanderungen am wahrscheinlichsten sind24.
-Verhalten und Fototechnik:
-* Fluchtdistanz: Die Fluchtdistanz ist de facto null. Die Tiere fliehen nicht im klassischen Sinn, weshalb eine Annäherung auf wenige Zentimeter problemlos möglich ist22.
-* Ausrüstung: Da die Tiere massig und langsam sind, sind die Weitwinkel- und Standardobjektive (26 bis 60 mm sowie 45 mm Makro) prädestiniert für Umweltporträts direkt auf dem Waldboden, die das Tier im Kontrast zum verrottenden Laub zeigen. Die extremen Teleobjektive (100 bis 400 mm, 150 bis 600 mm) sind nützlich, wenn Interaktionen mit Raubtieren (wie Nashornvögeln oder Affen) aus der Distanz dokumentiert werden sollen8.
-* Verschlusszeiten: Da A. gigas als Detritivor keine schnellen Sprung- oder Flugbewegungen vollführt, sind extrem kurze Verschlusszeiten überflüssig. Für das Scharfstellen des metachronen Rhythmus der Beinwellen genügen Belichtungszeiten von 1/60s bis 1/125s, wobei in den dämmerigen Küstenwäldern ein Stativ ratsam ist47.
-* Typische Fehler: Der größte fotografische Fehler ist das Berühren oder Bewegen der Tiere, um sie "besser ins Licht" zu rücken. Dies führt sofort zum Einrollen des Tieres und zur Absonderung des Benzochinon-Sekrets3. Ein eingerolltes Tier bleibt oft für Stunden in dieser Defensivhaltung, wodurch natürliche Bewegungsmuster wie das Fressen oder Laufen nicht mehr fotografiert werden können. Es empfiehlt sich das geduldige Abwarten, bis ein bereits eingerolltes Tier von selbst wieder mit der wellenförmigen Beinbewegung beginnt.
+Die systematische und physiologische Erforschung von Macrotermes michaelseni umfasst mehrere historische Etappen:
+* 1909: Der schwedische Entomologe Nils Holmgren führt Macrotermes als Untergattung in die Nomenklatur ein3.
+* 1914: Der schwedische Zoologe Bror Yngve Sjöstedt beschreibt die Art Macrotermes michaelseni formell anhand von gesammeltem Material1.
+* 1955 und 1961: Der Schweizer Zoologe Martin Lüscher etabliert auf Basis von Forschungen an Macrotermes das Konzept der Thermosiphon-Zirkulation in den Termitenhügeln, welches jahrzehntelang das Standardmodell der Belüftungsmechanik bildete25.
+* 1976 bis 1985: Die britische Forscherin Johanna P. E. C. Darlington verbringt Jahre im Feld in Kenia (Kajiado/Amboseli-Region). Ihre Publikation von 1985 definiert die interne Neststruktur (Hive Chamber), die Biomasse und die Demografie der Kolonien von M. michaelseni mit vorher unerreichter Präzision19.
+* 1996: Der Architekt Mick Pearce entwirft in Kooperation mit der Ingenieurfirma Arup das Eastgate Centre in Harare (Simbabwe), ein Bürogebäude, dessen Klimatechnik explizit als Biomimetik von der Belüftung der Macrotermes-Hügel abgeleitet wurde34.
+* 2000 bis 2001: Der amerikanische Biologe J. Scott Turner veröffentlicht Arbeiten aus Nordnamibia (Farm Namatubis), die Lüschers Modell empirisch durch Tracer-Gas-Messungen widerlegen. Turner postuliert stattdessen, dass kinetische Windenergie an der Grenzschicht (Boundary Layer) des Hügels die Belüftung antreibt25.
+* 2015 bis 2017: Ein interdisziplinäres Team um Hunter King und L. Mahadevan (Harvard University) revolutioniert das Verständnis erneut, indem es durch direkte Luftstrommessungen belegt, dass weder Stoffwechsel noch Wind, sondern die diurnale solare Aufheizung die treibende Kraft für die Zwangskonvektion ist27.
+7. Fotografie
+Für Aufnahmen auf der Route Tsavo Ost/West und im Amboseli-Nationalpark Ende September/Anfang Oktober gelten spezifische technische und verhaltensbiologische Parameter.
+Die stationären Termitenhügel sind tagsüber stets präsent, doch die flachen Sonnenwinkel am frühen Morgen oder späten Nachmittag heben die feinen Poren und die rötliche Textur der Lehmoberfläche hervor. Da sich die markante Spitze (Spire) des Baus bei dieser Art aus klimatischen Gründen um etwa 19 Grad nach Norden neigt25, ergeben sich bei seitlicher Beleuchtung aus dem Osten oder Westen asymmetrische, fotografisch nutzbare Schattenlinien. Das Objektiv mit 26 bis 60 mm Brennweite ist optimal, um den bis zu 4 Meter aufragenden Hügel inklusive des Landschaftskontexts abzubilden. Die Einbeziehung eines Fahrzeugs oder einer Person im Bildhintergrund hilft, die Dimensionen sauber zu verdeutlichen.
+Tierisches Verhalten außerhalb des Hügels tritt fast ausschließlich in den kühleren Dämmerungs- oder Nachtstunden auf. Ende September, am Höhepunkt der Trockenzeit, sammeln die Arbeiter bevorzugt Elefantendung1. Diese Fouragier-Aktivität findet in einem Umkreis von bis zu 50 Metern um den Hügel statt1. Die Insekten weisen eine extrem hohe Empfindlichkeit gegenüber Bodenvibrationen und Kohlendioxid in der Atemluft auf63. Ein nahes Herantreten lässt die Arbeiter umgehend in die unterirdischen Galerien flüchten. Der Einsatz der mitgebrachten Teleobjektive (100 bis 400 mm oder 150 bis 600 mm) ist aus einigen Metern Entfernung zwingend erforderlich, um dieses Verhalten störungsfrei zu dokumentieren. Für die langsamen Marschbewegungen der Arbeiter sind Verschlusszeiten von 1/250 s bis 1/500 s ausreichend.
+Ein fotografisches Ausnahmeereignis bietet sich, falls die kleine Regenzeit früh einsetzt. Kommt es zu Niederschlägen von 12 mm oder mehr, lösen diese am Spätnachmittag (oft zwischen 14 und 16 Uhr) das massenhafte Ausschwärmen der geflügelten Alaten aus speziellen Fluglöchern aus9. Um die schnellen Bewegungen und das Vibrieren der durchscheinenden Flügel der Alaten scharf einzufrieren, müssen zwingend kurze Verschlusszeiten ab 1/1000 s oder 1/2000 s gewählt werden. Ein typischer Fehler bei der Motivsuche ist, die beschatteten Seiten des Hügels zu meiden; oft konzentrieren die Termiten ihre oberflächennahen Bauaktivitäten am Spätnachmittag genau dorthin, da die reduzierte Strahlung die Verdunstungsgefahr der Insekten senkt.
 8. Links zum Weiterlesen und Sehen
-Die folgenden Links bieten geprüfte, weiterführende Informationen zur Art:
-* Fachliche Quelle (IUCN Red List): https://www.iucnredlist.org/details/103866629/0 Hier findet sich die offizielle Naturschutzbewertung der IUCN aus dem Jahr 2021, die A. gigas als "Least Concern" einstuft.
-* Fachliche Quelle (PubMed Central): https://pmc.ncbi.nlm.nih.gov/articles/PMC8276800/ Diese Studie von Horváthová et al. (2021) dokumentiert im Detail die intestinale Methanogenese und die mikrobielle Symbiose im Verdauungstrakt des Tausendfüßlers.
-* Verbreitungskarte (GBIF): https://www.gbif.org/taxon/G9Q6 Die Global Biodiversity Information Facility listet historische Taxonomie-Daten, Synonyme sowie aggregierte Sichtungsdaten der Art.
-* Fotos (Wikimedia Commons): https://commons.wikimedia.org/wiki/Category:Archispirostreptus_gigas?uselang=de Eine strukturierte, offene Datenbank, die über 30 hochauflösende Aufnahmen von A. gigas umfasst, einschließlich Bildern vom Habitat, Paarungsverhalten und Nahaufnahmen.
-* Fachartikel (Journal of Experimental Biology): https://journals.biologists.com/jeb/article/216/9/1616/12060/Molecular-and-functional-characterization-of Die Publikation von Christian Damsgaard et al. (2013) zur Entschlüsselung des molekularen Aufbaus des Hämocyanins für den Sauerstofftransport der Art.
+Fachliche Quellen:
+* https://en.wikipedia.org/wiki/Macrotermes_michaelseni Umfassende und aggregierte Übersicht (Wikipedia) zur Taxonomie, zum Habitat im südlichen Afrika und zur Ökologie von Macrotermes michaelseni.1
+* https://journals.biologists.com/jeb/article/220/18/3260/18709/Solar-powered-ventilation-of-African-termite Die zentrale biophysikalische Publikation von King und Mahadevan (2017), welche den Mechanismus der solar getriebenen Hügelbelüftung empirisch belegt.28
+* https://www.cabidigitallibrary.org/doi/full/10.1079/DFB/20232352329 Ausführliche wissenschaftliche Monografie zur Biologie, Taxonomie und Verbreitung des obligatorischen Pilzsymbionten Termitomyces schimperi.46
+Fotos:
+* https://www.inaturalist.org/photos/15128503 Eine verifizierte, offene Naturfotografie (iNaturalist), die Struktur, Textur und das landschaftliche Umfeld eines Hügels von M. michaelseni dokumentiert.6
+Verbreitungskarte:
+* https://www.gbif.org/species/4803134 Datensatz und interaktive Verbreitungskarte von Macrotermes michaelseni der Global Biodiversity Information Facility (GBIF).5
 9. Visuelle Beschreibung für eine Illustration
-The African giant millipede (Archispirostreptus gigas) exhibits an elongated, perfectly cylindrical body comprising numerous closely fitted, ring-like segments. Its heavily armored exoskeleton is highly glossy, ranging in color from deep mahogany brown to a uniform, stark black, reflecting light smoothly across its dorsal plates. Underneath the body, densely packed rows of thread-like legs extend vertically from the ventral midline, with exactly two pairs of legs emerging from each abdominal segment. The rounded head lacks visible eyes but is equipped with short, segmented, bulbous-tipped antennae that point downward to continuously palpate the ground. When threatened, the entire creature tightly recoils into a flat, coin-like defensive spiral, completely concealing its legs and soft underside while exposing only its armored outer shell.
-Detailvorschläge:
-1. Antenne (Antenna): A macro view of the 8th terminal antennal segment, highlighting the four specialized apical sensory cones used for chemoreception on the forest floor.
-2. Abwehrdrüse (Ozopore): A close-up of the lateral side of a mid-body segment, showing the small duct opening where the yellow-brown defensive benzoquinone secretion emerges.
-3. Spurenmuster (Track): The metachronal rhythm of the legs depicted as a track in soft mud, showing a continuous wave-like pattern of hundreds of tiny, pointed tarsi impressions.
-Kulturelle Vignette: A traditional, hand-woven sisal basket (Kiondo), typically associated with the Kikuyu or Kamba communities, resting on the earth nearby to provide a sense of massive scale for the 38-centimeter invertebrate.
+The mature epigeal mound of Macrotermes michaelseni rises from the flat, reddish savannah earth as a towering, conical structure of cemented soil, reaching up to 4 meters in height. The broad, deeply fissured base narrows upwards into a distinct, slender spire that leans noticeably toward the north at an angle of roughly 19 degrees. The exterior surface is rugged and porous, colored by the local clay, lacking any visible open entryways or ventilation holes.
+* Detail 1 (Cross-section structure): A vertical cross-section reveals the capacious central chimney (up to 10 cm wide) running straight down into a subterranean, spherical hive chamber (1.5 m in diameter) filled with convoluted, brain-like fungus combs.
+* Detail 2 (Termitomyces schimperi): At the foot of the mound, a massive fungal fruiting body bursts through the soil, featuring a broad white cap (up to 28 cm) textured with flat, dark scales, supported by a thick stipe that transitions into a long, root-like pseudorhiza extending deep into the nest.
+* Detail 3 (Soldier caste): A major soldier stands guard, possessing a highly sclerotized, teardrop-shaped head of striking reddish-orange, equipped with prominent, scythe-like black mandibles that cross at the tips.
+* Cultural Vignette: A woven wicker basket lines a shallow pit covered loosely by overlapping, broad banana leaves, capturing the swarming, black-bodied, translucent-winged alates as they slide down the slick greenery during the early rains.
 10. Was du nicht belegen konntest
-Folgende Angaben, die in der Anfrage gefordert wurden, ließen sich durch das bereitgestellte Referenzmaterial nicht belastbar belegen:
-* Etymologie des wissenschaftlichen Namens: Weder für den Gattungsnamen "Archispirostreptus" noch für das Epitheton "gigas" liefern die referenzierten Dokumente eine formelle wörtliche Herleitung, obgleich "gigas" offenkundig dem lateinischen/griechischen Wort für Riese entspricht. (Nur die Herkunft des Wortes "millipede" ist durch Quellen gedeckt).
-* Fehlende lokale Namen: Für die ethnischen Gemeinschaften der Maa (Maasai) und der Samburu liegen im bereitgestellten Material keine dokumentierten Bezeichnungen vor.
-* Wörtliche Bedeutung von Lokalnamen: Die exakte wörtliche Bedeutung der Namen in Kikuyu (mũnyongoro) und Kamba (minyongora) geht aus den linguistischen Quellen (Hinde 1904, Yukawa 1981) nicht hervor, es wird lediglich die grammatikalische Zuordnung zu Nomen-Klassen diskutiert.
-* Konflikte/Rituale mit genauer Datierung/Regionalangabe: Es ist zwar überliefert, dass die Tiere in südlichen Teilen Afrikas "Shongololo" heißen, ein spezifisches mythologisches Ritual in Kenia (mit Datum, Ort und Protagonist) war in den Texten jedoch nicht verzeichnet.
-* Sprung- oder Flugzeiten für die Fotografie: Die Art kann aufgrund ihrer Biologie weder fliegen noch springen und vollzieht Ortswechsel extrem langsam (detritivore Fortbewegung). Es existieren daher keine belastbaren Verschlusszeiten für schnelle Bewegungen.
-* Exakter Beginn der Geschlechtsreife: Das Material nennt die Lebenserwartung (5 bis 10 Jahre) und die anamorphe Entwicklung, liefert jedoch keine exakte Zeitangabe, nach wie vielen Jahren oder Häutungszyklen die Geschlechtsreife bei A. gigas definitiv eintritt.
+Folgende vom Nutzer geforderte Spezifika konnten durch das wissenschaftliche und ethnografische Rohmaterial nicht belastbar belegt werden:
+* Wörtliche Etymologie des Artnamens: Es ist unbelegt, welche konkrete historische Persönlichkeit mit dem Dedikationsnamen michaelseni durch Sjöstedt (1914) geehrt wurde.
+* Wörtliche Bedeutung der lokalen Namen: Die Quellen benennen die Vokabeln (wie "Chiswa", "Nguya", "Ng'wen"), liefern jedoch keine Herleitung des linguistischen Stamms oder eine wörtliche Erstbedeutung der Begriffe.
+* Zusätzliche Sprachräume: Es liegen keine spezifisch auf die Art Macrotermes michaelseni anwendbaren lokalen Namen in den Sprachen Maa (Maasai), Samburu, Giriama und Kamba vor.
+* Tonaufnahme (Vögel-Kategorie): Der Parameter zur Tonaufnahme greift hier nicht, da es sich um Insekten ohne vogelkundliches Lautrepertoire handelt; Links zu Audio-Bibliotheken wie der Macaulay Library oder xeno-canto waren in den Quellen nicht vorhanden.
 Referenzen
-1. Checklist of Southern African millipedes (Myriapoda: Diplopoda), https://journals.co.za/doi/pdf/10.10520/AJA03040798_145
-2. Archispirostreptus gigas (Peters, 1855) - GBIF, https://www.gbif.org/taxon/G9Q6
-3. Archispirostreptus gigas - Wikipedia, https://en.wikipedia.org/wiki/Archispirostreptus_gigas
-4. Archispirostreptus gigas (Peters, 1855) - Marine Species Traits, https://marinespecies.org/traits/aphia.php?p=taxdetails&id=947329
-5. A revision of the taxonomy and distribution of Archispirostreptus, https://www.researchgate.net/publication/329941153_A_revision_of_the_taxonomy_and_distribution_of_Archispirostreptus_Silvestri_1895_Diplopoda_Spirostreptida_Spirostreptidae_and_description_of_a_new_spirostreptid_genus_with_three_new_species
-6. Millipede - Wikipedia, https://en.wikipedia.org/wiki/Millipede
-7. Archispirostreptus gigas Millipede | Care, Terrarium, Sale - Geckonia, https://www.geckonia.eu/en/p/archispirostreptus-gigas
-8. Millipedes - 10 facts that we find interesting - Africa Geographic, https://africageographic.com/stories/10-incredible-facts-about-millipedes/
-9. Definition and synonyms of millipede in the English dictionary, https://educalingo.com/en/dic-en/millipede
-10. Millipede: Facts, Threats & Conservation | WARN, https://worldanimalrescuenetwork.org/wildlife-guides/millipede/
-11. Millipede Animal Facts - Diplopoda, https://a-z-animals.com/animals/millipede/
-12. File:African Giant Millipede (Archispirostreptus gigas) (6041395880, https://commons.wikimedia.org/wiki/File:African_Giant_Millipede_(Archispirostreptus_gigas)_(6041395880).jpg
-13. Riesentausendfüsser - Spirostreptidae - Zootier Lexikon, https://www.zootier-lexikon.org/wirbellose/tausendfuesser-myriapoda/myriapoda-spirostreptidae
-14. African Giant Black Millipede (Archispirostreptus gigas) Care Guide, https://www.thedefiantforest.com/blogs/news/african-giant-black-millipede-species-and-care-guide-archispirostreptus-gigas
-15. Giant black millipede hi-res stock photography and images - Alamy, https://www.alamy.com/stock-photo/giant-black-millipede.html
-16. The giant African black millipede Archispirostreptus gigas is sitting, https://www.alamy.com/the-giant-african-black-millipede-archispirostreptus-gigas-is-sitting-on-arm-image362085385.html
-17. large black Giant African Millipede (Archispirostreptus gigas) locally, https://www.alamy.com/large-black-giant-african-millipede-archispirostreptus-gigas-locally-known-as-a-mombasa-express-in-malindi-on-the-kenya-coast-africa-image359221312.html
-18. mũnyongoro - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/m%C5%A9nyongoro
-19. Arthropoda | Veterian Key, https://veteriankey.com/arthropoda/
-20. African Giant Millipedes Explained | PostPods, https://postpods.co.uk/blogs/articles-not-isopod-related/african-giant-millipede-care
-21. Who are these two, enjoying a cuddle. Location, Mombasa, Kenya, https://www.reddit.com/r/whatsthisbug/comments/7cp7kf/who_are_these_two_enjoying_a_cuddle_location/
-22. Giant Millipede: Care, Diet and Handling Guide - The Faunalist, https://thefaunalist.com/wildlife/giant-millipede/
-23. Millipede legs grow in an unexpected way - Earth.com, https://www.earth.com/animals/millipede-legs-grow-in-an-unexpected-way/
-24. Giant African Millipede - Rosamond Gifford Zoo, https://www.rosamondgiffordzoo.org/visit/animals/invertebrates/giant-african-millipede/?debug_request=1
-25. Giant African Millipede - Utica Zoo, https://www.uticazoo.org/giantafricanmillipede/
-26. Ordinal-Level Phylogenomics of the Arthropod Class Diplopoda, https://pmc.ncbi.nlm.nih.gov/articles/PMC3827447/
-27. (PDF) Checklist of the Millipedes (Diplopoda) of Tanzania, https://www.researchgate.net/publication/305213455_Checklist_of_the_Millipedes_Diplopoda_of_Tanzania
-28. A new distinct, disjunct giant millipede of the genus Spirostreptus, https://www.researchgate.net/publication/376644402_A_new_distinct_disjunct_giant_millipede_of_the_genus_Spirostreptus_Brandt_1833_from_Tanzania_and_a_solution_for_orphaned_Spirostreptus_species_Diplopoda_Spirostreptida_Spirostreptidae
-29. Are Millipedes Dangerous? Bites, Secretion and the Eye Risk, https://postpods.co.uk/blogs/articles-not-isopod-related/are-millipedes-dangerous
-30. (PDF) Toluquinone and 2-Methoxy-3-methylbenzoquinone from the, https://www.researchgate.net/publication/233572922_Toluquinone_and_2-Methoxy-3-methylbenzoquinone_from_the_Defensive_Secretions_of_Three_African_Millipedes12
-31. Are Giant African Millipedes Legal? State and Federal Rules, https://beastlyfacts.com/blog/giant-millipede-legal-guide/
-32. Methanogenesis in the Digestive Tracts of the Tropical Millipedes, https://www.researchgate.net/publication/351763131_Methanogenesis_in_the_Digestive_Tracts_of_the_Tropical_Millipedes_Archispirostreptus_gigas_Diplopoda_Spirostreptidae_and_Epibolus_pulchripes_Diplopoda_Pachybolidae
-33. Methanogenesis in the Digestive Tracts of the Tropical Millipedes, https://www.dora.lib4ri.ch/eawag/dload/eawag%3A23724/PDF/Horv%C3%A1thov%C3%A1-2021-Methanogenesis_in_the_digestive_tracts-(published_version).pdf
-34. The archaeome in metaorganism research, with a focus on marine, https://pmc.ncbi.nlm.nih.gov/articles/PMC10927989/
-35. Methanogens in the Gastro-Intestinal Tract of Animals - ResearchGate, https://www.researchgate.net/publication/225174987_Methanogens_in_the_Gastro-Intestinal_Tract_of_Animals
-36. Molecular and Functional Characterisation of Hemocyanin of ... - Pure, https://pure.au.dk/portal/en/publications/molecular-and-functional-characterisation-of-hemocyanin-of-the-gi/
-37. Molecular and functional characterization of hemocyanin of the giant, https://journals.biologists.com/jeb/article/216/9/1616/12060/Molecular-and-functional-characterization-of
-38. Free BZYCT-131 Solved Assignment | ANIMAL DIVERSITY | IGNOU, https://abstractclasses.com/free-bzyct-131-solved-assignment-1st-january-2025-to-31st-december-2025-animal-diversity-bsc-cbcs-zoology-ignou/
-39. Centipede: Anatomy and Ecology Overview | PDF | Butterfly - Scribd, https://www.scribd.com/document/383769746/Arthropods
-40. Roy E. Weber from Aarhus University | Scilit, https://www.scilit.com/scholars/127004
-41. Invertebrates Archives | Seneca Park Zoo, https://senecaparkzoo.org/category/animals/invertebrates/
-42. African Giant Millipedes, https://ambassadoranimalsag.wordpress.com/2018/08/17/african-giant-millipedes/
-43. understanding the roles and importance of the millipede gut, https://theses.cz/id/x7nzav/Nweze_Julius_Eyiuche_2024_DT.pdf
-44. Ngomongo Villages - Wikipedia, https://en.wikipedia.org/wiki/Ngomongo_Villages
-45. Epibolus pulchripes Gerstacker 1873 - Plazi TreatmentBank, https://tb.plazi.org/GgServer/html/03BC87EAFF8C3143FF22FF6702F4FC53
-46. 319 Insect Africa Hand Stock Photos - Dreamstime.com, https://www.dreamstime.com/photos-images/insect-africa-hand.html
-47. Giant millipede (Archispirostreptus sp., About 6 cm long) from, https://www.mauritius-images.com/en/asset/ME-PI-10579684_mauritius_images_image_number_10731398_giant-millipede-archispirostreptus-sp-about-6-cm-long-from-zimanga-south-africa
+1. Macrotermes michaelseni - Wikipedia, https://en.wikipedia.org/wiki/Macrotermes_michaelseni
+2. 大白蚁属- 维基百科，自由的百科全书, https://zh.wikipedia.org/zh-cn/%E5%A4%A7%E7%99%BD%E8%9A%81%E5%B1%9E
+3. Macrotermes Holmgren, 1909 - Blattodea Species File, https://cockroach.speciesfile.org/otus/83528
+4. Case 3155 - MACROTERMITINAE Kemner, 1934 (Insecta, Isoptera), https://archive.org/download/biostor-80701/biostor-80701.pdf
+5. Category:Macrotermes - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Macrotermes
+6. File:Macrotermes michaelseni.jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Macrotermes_michaelseni.jpg
+7. Termites | Infonet Biovision Home., https://www.infonet-biovision.org/PlantHealth/MinorPests/termites-12
+8. Cooking FLYING TERMITES (TSISWA) A Kenyan ... - YouTube, https://www.youtube.com/watch?v=12-6Yjtkdq8
+9. Kumbe Kumbe, Other Kenyan Local Names for Termites, Edible, https://www.tuko.co.ke/kenya/counties/478216-kumbe-kumbe-kenyan-local-names-termites-edible-flying-insects/
+10. TERMITES [ KUMBI KUMBI ] AT ITS BEST!!!!! Jinsi ya ... - YouTube, https://www.youtube.com/watch?v=Z-9KByISKyw
+11. Census of Monogyne and Polygyne Laboratory Colonies Illuminates, https://academic.oup.com/aesa/article/97/3/466/70286
+12. Egg-laying in monogynous and polygynous colonies of the termite, https://www.researchgate.net/publication/248023678_Egg-laying_in_monogynous_and_polygynous_colonies_of_the_termite_Macrotermes_michaelseni_Isoptera_Macrotermitidae
+13. The Macrotermes termites - Termite Web, https://www.termiteweb.com/the-macrotermes-termites/
+14. Specimen of the Week: Week 177 | UCL UCL Culture Blog, https://blogs.ucl.ac.uk/museums/2015/03/02/specimen-of-the-week-week-177/
+15. UFZ - Publication Index, https://www.ufz.de/index.php?en=20939&pub_id=6465
+16. Caste Composition and Mound Size of the Subterranean Termite, https://www.researchgate.net/publication/233428119_Caste_Composition_and_Mound_Size_of_the_Subterranean_Termite_Macrotermes_gilvus_Isoptera_Termitidae_Macrotermitinae
+17. Human uses and indigenous knowledge of edible termites in, https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0038-23532018000100011
+18. Termitidae) colonies in - University of Pretoria, https://repository.up.ac.za/bitstreams/e7211bcd-0b30-4fe7-9b33-23bd4b6530e8/download
+19. The Structure of Mature Mounds of the Termite macrotermes, https://scispace.com/papers/the-structure-of-mature-mounds-of-the-termite-macrotermes-2n2loopuk9
+20. faunal survey of the termites of the genus macrotermes (isoptera, https://academicjournals.org/journal/JEN/article-full-text/50C40AD59237
+21. DISPERSION AND ACTIVITY PATTERNS OF THREE, https://www.researchgate.net/publication/232695212_DISPERSION_AND_ACTIVITY_PATTERNS_OF_THREE_POPULATIONS_OF_LARGE_TERMITE_MOUNDS_IN_KENYA
+22. Relation between termite numbers and the size of their mounds, https://www.researchgate.net/publication/225884969_Relation_between_termite_numbers_and_the_size_of_their_mounds
+23. How the thermal environment shapes the structure of termite mounds, https://upload.wikimedia.org/wikipedia/commons/4/48/How_the_thermal_environment_shapes_the_structure_of_termite_mounds.pdf
+24. How the thermal environment shapes the structure of termite mounds, https://www.researchgate.net/publication/338599211_How_the_thermal_environment_shapes_the_structure_of_termite_mounds
+25. Architecture and morphogenesis in the mound of Macrotermes, https://www.researchgate.net/publication/228483222_Architecture_and_morphogenesis_in_the_mound_of_Macrotermes_michaelseni_Sjstedt_Isoptera_Termitidae_Macrotermitinae_in_northern_Namibia
+26. On the Mound of Macrotermes michaelseni as an Organ of, https://www.journals.uchicago.edu/doi/10.1086/323990
+27. Solar-powered ventilation of African termite mounds - Soft Math Lab, https://softmath.seas.harvard.edu/wp-content/uploads/2019/10/2017-10.pdf
+28. Solar-powered ventilation of African termite mounds, https://journals.biologists.com/jeb/article/220/18/3260/18709/Solar-powered-ventilation-of-African-termite
+29. (PDF) Ventilation of termite mounds: new results require a new model, https://www.researchgate.net/publication/31433117_Ventilation_of_termite_mounds_new_results_require_a_new_model
+30. On the mound of Macrotermes michaelseni as an organ of ... - PubMed, https://pubmed.ncbi.nlm.nih.gov/11731972/
+31. Transient-state mechanisms of wind-induced burrow ventilation, https://journals.biologists.com/jeb/article/218/2/170/14269/Transient-state-mechanisms-of-wind-induced-burrow
+32. Termites know more about ventilation that human architects, https://www.zmescience.com/science/termites-ventilation-8377231/
+33. The internal structure of a Macrotermes michaelseni mound. a, https://www.researchgate.net/figure/The-internal-structure-of-a-Macrotermes-michaelseni-mound-a-Plaster-cast-of-a-portion_fig4_255650482
+34. The Eastgate Centre and a Macrotermes mound. a-b. The exterior of, https://www.researchgate.net/figure/The-Eastgate-Centre-and-a-Macrotermes-mound-a-b-The-exterior-of-the-Eastgate-Centre_fig1_255650482
+35. Case Example: Sustainable building secrets of termites, https://biomimicry.net/the-buzz/resources/case-example-sustainable-building-secrets-termites/
+36. Termites Inspired a Building - Parametric House, https://parametrichouse.com/termites-inspired-a-building-that-can-cool-itself/
+37. This article appeared in a journal published by Elsevier. The, https://ees.kuleuven.be/eng/africa-in-profile/dig-deeper/soil-forming-factors/Mujinya2004(SpatialTermites)_Final.pdf
+38. (PDF) Spatial patterns and life histories of Macrotermes michaelseni, https://www.researchgate.net/publication/361563366_Spatial_patterns_and_life_histories_of_Macrotermes_michaelseni_termite_mounds_reflect_intraspecific_competition_insights_of_a_temporal_comparison_spanning_12_years
+39. Multi-scale pattern analysis of a mound-building termite species, https://www.researchgate.net/publication/225728411_Multi-scale_pattern_analysis_of_a_mound-building_termite_species
+40. The causes of spatial patterning of mounds of a fungus-cultivating, https://www.researchgate.net/publication/225455456_The_causes_of_spatial_patterning_of_mounds_of_a_fungus-cultivating_termite_Results_from_nearest-neighbour_analysis_and_ecological_studies
+41. Need for shared internal mound conditions by fungus-growing, https://pmc.ncbi.nlm.nih.gov/articles/PMC10331903/
+42. (PDF) Comb Establishment of fungus-growing termites species, https://www.researchgate.net/publication/341382071_Comb_Establishment_of_fungus-growing_termites_species_Macrotermitinae_Isoptera_Termitidae_with_Termitomyces_cylindricus_Basidiomycota_Agaricales_basidiospores
+43. The Longevity of Colonies of Fungus-Growing Termites and the, https://edepot.wur.nl/530374
+44. (PDF) The Longevity of Colonies of Fungus-Growing Termites and, https://www.researchgate.net/publication/343647982_The_Longevity_of_Colonies_of_Fungus-Growing_Termites_and_the_Stability_of_the_Symbiosis
+45. Differential role of symbiotic fungi in lignin degradation and food, https://www.researchgate.net/publication/229997622_Differential_role_of_symbiotic_fungi_in_lignin_degradation_and_food_provision_for_fungus-growing_termites_Macrotermitinae_Isoptera
+46. Termitomyces schimperi | Descriptions of Fungi and Bacteria, https://www.cabidigitallibrary.org/doi/full/10.1079/DFB/20232352329
+47. (PDF) Set 235: Termitomyces schimperi No.2329 - ResearchGate, https://www.researchgate.net/publication/394498360_Set_235_Termitomyces_schimperi_No2329
+48. Integration of biological nitrogen fixation and microbial amino acids, https://helda.helsinki.fi/bitstreams/fd26f691-95e0-44ed-b467-37a24a42fd50/download
+49. Macrotermes - Wikipedia, https://en.wikipedia.org/wiki/Macrotermes
+50. Cultural significance of termites in sub-Saharan Africa - ResearchGate, https://www.researchgate.net/publication/312960450_Cultural_significance_of_termites_in_sub-Saharan_Africa
+51. Termitomyces schimperi - Alchetron, The Free Social Encyclopedia, https://alchetron.com/Termitomyces-schimperi
+52. seasonality of Macrotermes flight hole activity and alate dispersal, https://pure.mpg.de/rest/items/item_3556632_1/component/file_3556728/content
+53. Termitomyces schimperi - Zombie Mushrooms, https://zombiemyco.com/pages/termitomyces-schimperi
+54. An Exploration of Reproduction in Termitomyces spp. - WUR eDepot, https://edepot.wur.nl/638171
+55. Edible ants: exploring species and their utilisation in - Brill, https://brill.com/view/journals/jiff/11/3/article-p429_1.xml
+56. WUR eDepot, https://edepot.wur.nl/301504
+57. STABILITY OF TERMITE MOUND POPULATIONS IN A VARIABLE, https://bioone.org/journals/journal-of-east-african-natural-history/volume-94/issue-2/0012-8317_2005_94_343_SOTMPI_2.0.CO_2/STABILITY-OF-TERMITE-MOUND-POPULATIONS-IN-A-VARIABLE-ENVIRONMENT/10.2982/0012-8317(2005)94[343:SOTMPI]2.0.CO;2.short
+58. inclusion of african winged termites (macrotermes nigeriensis, https://academicjournals.org/journal/AJB/article-full-text/A02EA0168686
+59. Indigenous Knowledge on Production and Utilisation of Termite, https://journals.nasspublishing.com/index.php/NJAS/article/view/424/510
+60. Cultural significance of termites in sub-Saharan Africa - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC5270236/
+61. Influence of termites on ecosystem functioning - Horizon IRD, https://horizon.documentation.ird.fr/exl-doc/pleins_textes/divers12-05/010052508.pdf
+62. Populations in nests of the termite Macrotermes jeanneli in Kenya, https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/populations-in-nests-of-the-termite-macrotermes-jeanneli-in-kenya/99B5346962F72ADE8E63EA8FCFD321F5
+63. (PDF) Beyond biomimicry: What termites can tell us about realizing, https://www.researchgate.net/publication/255650482_Beyond_biomimicry_What_termites_can_tell_us_about_realizing_the_living_building

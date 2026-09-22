@@ -1,179 +1,168 @@
-Strukturiertes Rohmaterial: Corvus splendens an der Küste Kenias
+Forschungsbericht: Trioceros schubotzi (Mount-Kenya-Seitenstreifenchamäleon)
 1. Namen und Etymologie
-Der wissenschaftliche Name der Glanzkrähe lautet Corvus splendens1. Die Art wurde im Jahr 1817 von dem französischen Ornithologen Louis Jean Pierre Vieillot auf der Basis eines in Bengalen gesammelten Exemplars formal beschrieben1. Das spezifische Epitheton splendens entstammt dem Lateinischen (Genitiv: splendentis) und bedeutet wörtlich „glänzend“, „strahlend“ oder „glitzernd“1. Die wörtliche etymologische Herleitung des Gattungsnamens Corvus ist in den vorliegenden Quellen unbekannt. [Status: gesichert]
-Im deutschen Sprachraum ist die Art unter dem Trivialnamen Glanzkrähe bekannt [Status: gesichert]. Die englischsprachige Nomenklatur umfasst primär den Begriff House Crow, historisch und regional bedingt existieren jedoch die belegten Synonyme Indian house crow, Ceylon crow, Colombo crow, greynecked crow und town crow3.
-In der ostafrikanischen Verkehrssprache Swahili lautet der etablierte Name Kunguru Bara-Hindi5. In informellen Kontexten und lokalen Medien, insbesondere auf dem Sansibar-Archipel, wird zudem die Bezeichnung Kunguru wa Zanzibar (Sansibar-Krähe) verwendet7. In der Sprache der Giriama (einer Gruppe der Mijikenda an der Küste) wird das aus dem Swahili entlehnte Wort kunguru genutzt8. Für kleinere Vögel ist in dieser Sprache zudem die Diminutivform kakuluwiri belegt8. [Status: gesichert]
-Namen für die Gemeinschaften der Maa, Kikuyu, Samburu und Kamba sind in der zugrunde liegenden Literatur unbekannt.
+Die taxonomische und linguistische Erfassung dieser Art spiegelt historische Expeditionen sowie die lokalen Sprachen der angrenzenden Regionen wider.
+Es ist gesichert, dass der aktuell gültige wissenschaftliche Name Trioceros schubotzi lautet, vergeben durch den Herpetologen Richard Sternfeld im Jahr 19121. Die Gattung Trioceros leitet sich etymologisch aus dem Griechischen ab, wobei tri- "drei" und ceros "Horn" bedeutet2. Es ist gesichert, dass diese Bezeichnung auf den Typus der Gattung verweist, auch wenn T. schubotzi selbst keine echten Stirnhörner besitzt2. Das spezifische Epitheton schubotzi wurde zu Ehren des deutschen Zoologen Dr. Johann G. Schubotz vergeben1.
+Trivialnamen und lokale Bezeichnungen:
+
+Sprache / Kultur
+	Name / Bezeichnung
+	Wörtliche Bedeutung
+	Status
+
+Deutsch
+	Mount-Kenya-Seitenstreifenchamäleon
+	Beschreibend (Herkunft und Flankenzeichnung)
+	Gesichert
+
+Englisch
+	Mount Kenya side-striped chameleon, Mount Kenya montane dwarf chameleon, Schubotz's chameleon
+	Beschreibend / Eponym
+	Gesichert1
+
+Swahili
+	Kinyonga
+	Allgemeiner Begriff für Chamäleons
+	Gesichert4
+
+Kikuyu
+	kĩĩmbu
+	Allgemeiner Begriff für Chamäleons
+	Gesichert4
+
+Kikuyu
+	mũriyũ
+	Spezifisch für Dreihornchamäleons, teils übergreifend genutzt
+	Gesichert4
+
+Maa
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Samburu
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Giriama
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
+
+Kamba
+	Unbekannt
+	Keine spezifischen Daten belegt
+	Lücke
 2. Erscheinung, mit Maßen
-Die Glanzkrähe weist den für Rabenvögel typischen Habitus auf, ist jedoch durch eine spezifische Farbverteilung und schlankere Proportionen gekennzeichnet. Die Stirn, der Scheitel, die Kehle und die obere Brust sowie der Rücken, die Flügel, der Schwanz und die Beine sind in einem tiefen, intensiv glänzenden Schwarz gefärbt3. Ein charakteristisches Merkmal ist der rauchgraue bis hell graubraune Kragen, der sich vom Hinterkopf über den Nacken und den Mantel bis zur Brust erstreckt3. Die Augenfarbe der adulten Vögel ist schwarz-braun4.
-Ein Sexualdimorphismus ist in der Gefiederfärbung nicht vorhanden; beide Geschlechter sehen identisch aus, wobei männliche Individuen messbar, jedoch visuell kaum unterscheidbar, geringfügig größer sind4. Altersstufen unterscheiden sich insoweit, als juvenile Vögel ein matteres Gefieder ohne den ausgeprägten Glanz der adulten Tiere aufweisen4. [Status: gesichert]
-Die morphometrischen Daten der Art weisen in der wissenschaftlichen Literatur eine Spanne auf, die auf unterschiedliche Messmethoden (beispielsweise am Schnabel) und regionale Variationen der Unterarten zurückzuführen ist. Ein Alltagsvergleich zur Größenordnung: Die Körperlänge der Glanzkrähe ordnet sich exakt zwischen der einer Dohle (Corvus monedula) und einer Rabenkrähe (Corvus corone) ein, was der Länge eines durchschnittlichen menschlichen Unterarms von der Armbeuge bis zu den Fingerspitzen entspricht3. [Status: gesichert]
-
-Morphometrisches Merkmal
-	Messwert / Spanne
-	Quelle / Beleg
-
-Kopf-Rumpf-Länge
-	40,0 bis 43,0 cm
-	3
-
-Gewicht (Adult)
-	245,0 bis 371,0 g
-	4
-
-Flügellänge
-	27,5 cm
-	11
-
-Schwanzlänge
-	12,6 cm
-	11
-
-Tarsuslänge (Laufbein)
-	22,3 mm / 26,0 bis 35,0 mm
-	12
-
-Schnabellänge
-	13,6 mm / 18,0 bis 19,0 mm / 34,2 mm
-	11
-[Status: Widerspruch benannt]. Die Diskrepanz bei den Messungen von Schnabel- und Tarsuslänge resultiert aus unterschiedlichen Messansätzen der Autoren. Während der Wert von 13,6 mm ausdrücklich nur bis zum Ansatz der Befiederung gemessen wurde13, repräsentiert der Wert von 34,2 mm die vollständige Schädellänge inklusive Schnabelbasis11.
-Die Art wird in fünf Unterarten unterteilt, die sich graduell in der Schattierung des grauen Nackenbandes unterscheiden: Die Nominatform C. s. splendens besitzt einen grauen Kragen. C. s. zugmayeri weist einen sehr hellen Kragen auf, während C. s. protegatus und C. s. maledivicus dunkler grau gefärbt sind. Die dunkelste Form, C. s. insolens, besitzt keinen sichtbaren grauen Kragen mehr1. [Status: gesichert]
+Das morphologische Erscheinungsbild von Trioceros schubotzi weist spezifische Merkmale auf, die auf das afroalpine Habitat abgestimmt sind. Es ist gesichert, dass die Art einen ausgeprägten Sexualdimorphismus bezüglich der Körpergröße aufweist3.
+Größe und Maße: Es existiert ein dokumentierter Widerspruch in den Literaturquellen bezüglich der Maximallänge der Männchen. Eine Quelle beziffert die Kopf-Rumpf-Länge (SVL - Snout-Vent Length) eines großen Männchens auf 130 mm6. Andere Quellen deklarieren 130 mm bis 150 mm als Gesamtlänge (Kopf-Rumpf-Länge inklusive Schwanz)3. Ausgehend von der Morphologie verwandter Zwergchamäleons wird vermutet, dass 130 mm die Gesamtlänge darstellt und der SVL-Wert in Quelle6 fehlerhaft als Synonym für die Gesamtlänge verwendet wurde.
+Männchen: Gesamtlänge bis zu 130 mm (gesichert)3.
+Weibchen: Kopf-Rumpf-Länge (SVL) ca. 49 mm (gesichert)3. Die Gesamtlänge adulter Weibchen wird auf ca. 100 mm vermutet, ausgehend von typischen Proportionen der Gattung.
+Gewicht: Unbekannt. In den verfügbaren herpetologischen Datensätzen sind keine spezifischen Gewichtsangaben in Gramm dokumentiert.
+Alltagsvergleich (ausgerechnet): Eine Gesamtlänge von 130 mm (13 cm) entspricht gesichert der durchschnittlichen Länge der Handfläche eines erwachsenen Menschen (von der Handwurzel bis zum Ansatz des Mittelfingers).
+Farben und Merkmale: Es ist gesichert, dass die Art von granularen Schuppen bedeckt ist, welche von gekielten Tuberkeln (Hauterhebungen) durchsetzt sind3. Auf dem Hinterkopf befindet sich ein erhöhter Parietalkamm, der einen dreieckigen "Helm" (Casque) formt3. Zudem sind Rücken- und Kehlkämme (Dorsal- und Gularkamm) vorhanden3. Es ist gesichert, dass erwachsene Männchen leuchtend türkisblaue und gelbe Töne in Form von Seitenstreifen aufweisen3. Die weiblichen Tiere sind schlichter gefärbt. Altersstufen unterscheiden sich deutlich: Es ist gesichert, dass Jungtiere kleiner sind, eine weniger ausgeprägte Musterung aufweisen und die charakteristischen Seitenstreifen sowie adulten Färbungen erst mit der Geschlechtsreife entwickeln3.
 3. Der Mechanismus
-Das fundamentale biologische Prinzip, das die Ökologie der Glanzkrähe dominiert und ihre globale Ausbreitung bedingt, ist die obligate Synanthropie gekoppelt mit einem ausgeprägten Nahrungs-Opportunismus. Es existieren weltweit keine bekannten Populationen dieser Art, die unabhängig von menschlichen Siedlungen oder anthropogenen Ressourcen überlebensfähig sind1. [Status: gesichert]
-Dieser Mechanismus funktioniert über eine spezifische ökologische Kausalkette, die maßgeblich von Biologen wie Dr. Colin Ryall in den 1990er und 2000er Jahren erforscht wurde14. Die Kausalkette der Invasion verläuft in folgenden Schritten:
-Ressourcen-Akkumulation: Die unzureichende Abfallwirtschaft in expandierenden urbanen Räumen (offene Mülldeponien, Schlachthöfe, Fischmärkte) sowie Landwirtschaft bieten ein kontinuierliches, unlimitiertes Nahrungsangebot9.
-Hyperproliferation: Da natürliche Prädatoren (Schlangen, Greifvögel, Makaken), die den Bestand im asiatischen Ursprungsgebiet regulieren, im eingeführten Verbreitungsgebiet (wie Ostafrika) die Krähen nicht effektiv bejagen, vermehrt sich die Art exponentiell. In urbanen Zentren (dokumentiert für Singapur im Jahr 2001) werden Populationsdichten von bis zu 190 Individuen pro Quadratkilometer erreicht1.
-Schiffgestützte Ausbreitung (Ship-assisted passage): Der entstehende Konkurrenzdruck in Hafenstädten oder Störungen an den Schlafplätzen führen dazu, dass Glanzkrähen auf ankernden Fracht- und Containerschiffen landen. Sie nutzen diese als Rastplätze und ernähren sich von Abfällen an Bord. Wenn die Schiffe neue Küsten erreichen, verlassen die Vögel, gestört durch den Entladevorgang, das Schiff und besiedeln den neuen Hafen20.
-Ökologische Verdrängung: Im neuen Habitat setzen die Vögel ihre Gruppenintelligenz und Aggressivität ein, um die Nahrungsquellen zu monopolisieren. Dies führt direkt zur Verdrängung heimischer Rabenvögel (wie der Schildrabe, Corvus albus) und zur massiven Prädation an Eiern und Küken einheimischer Arten7.
-Ein zweiter biochemischer Mechanismus, der im direkten Zusammenhang mit dieser Art im Untersuchungsgebiet steht, ist der Wirkmechanismus des Avizids DRC-1339 (Starlicide), das zur Kontrolle der Population eingesetzt wird. Starlicide (3-Chlor-p-toluidinhydrochlorid) ist ein orales Gift. Nimmt der Vogel den Köder auf, führt die Substanz innerhalb einer Latenzzeit von 3 bis 80 Stunden zu einer irreversiblen Nierenschädigung und einem anschließenden Herzversagen18. Der entscheidende Mechanismus ist die vollständige Metabolisierung des Toxins im Körper der Krähe vor Eintritt des Todes. Dies schließt eine sekundäre Vergiftung (Sekundärtoxizität) für aasfressende Säugetiere oder heimische Greifvögel, die den Kadaver fressen, nahezu vollständig aus, was die ökologische Verträglichkeit der Maßnahme begründet18. [Status: gesichert]
+Das definierende biologische Prinzip von Trioceros schubotzi ist die Thermoregulation in Frostnächten und die anschließende solare Aufwärmphase. Dieses Prinzip basiert auf der Fähigkeit zur Heterothermie (Kältestarre) in Kombination mit einem physiologischen Farbwechsel zur Infrarotabsorption. Erforscht wurden diese Mechanismen primär durch Stephen M. Reilly (1982) bezüglich der Ökologie8 sowie durch B. Michael Walton und Albert F. Bennett (1993) bezüglich des temperaturabhängigen Farbwechsels kenianischer Chamäleons10.
+Es ist gesichert, dass Chamäleons nicht erfrieren, solange das Körperwasser nicht kristallisiert. Der Körper der Tiere besteht zu über 90 % aus Wasser, welches einen Salzgehalt von ca. 0,9 % aufweist12. Dieser Salzgehalt senkt den Gefrierpunkt der Gewebeflüssigkeit auf -2 °C bis -4 °C ab (gesichert)12. Fällt die Gewebetemperatur unter diesen Wert, bilden sich scharfe Eiskristalle, die die Zellmembranen durchtrennen. Beim Auftauen kommt es zur Autolyse (Zellzerstörung) und zum Tod, da Chamäleons keine Antifreeze-Proteine besitzen (gesichert)12.
+Um die gefährliche Phase der Unterkühlung bei Sonnenaufgang schnellstmöglich zu beenden, nutzt das Tier folgenden physiologischen Kausalmechanismus (gesichert):
+A führt zu B: Die Umgebungstemperatur nahe dem Gefrierpunkt gepaart mit den ersten Lichtreizen des Morgens stimulieren das zentrale Nervensystem13. Das Nervensystem induziert eine passive Verteilung von Melanin (schwarzes Pigment) in den Ausläufern der oberflächennahen Chromatophoren, was die anderen Farbzellen überdeckt und zu einer tiefschwarzen Körperfärbung führt13.
+B führt zu C: Die schwarz gefärbte Haut reflektiert nur noch minimale Anteile des Lichts und erhöht stattdessen die Absorptionsrate drastisch. Dies betrifft nicht nur das sichtbare Licht (400–700 nm), sondern vor allem das nahe Infrarotspektrum (NIR, 700–2600 nm), welches über 50 % der solaren Energie enthält10. Die absorbierte Strahlungsenergie wird direkt in Körperwärme umgesetzt.
+C führt zu D: Der rapid ansteigende innere Temperaturwert beendet die Kältestarre in einem Bruchteil der Zeit, die ein hell gefärbtes Tier benötigen würde. Es ist nachgewiesen, dass bei 5 °C Körpertemperatur bereits Zungenschüsse zur Nahrungsaufnahme möglich sind12. Sobald die optimale Betriebstemperatur erreicht ist, zieht sich das Melanin zurück und das Tier nimmt wieder seine reguläre Krypsis-Färbung (Tarnung) an.
+Konkurrierende Erklärungen für den Farbwechsel (wie reine soziale Kommunikation oder Tarnung) greifen hier ineinander. Es ist gesichert, dass der Farbwechsel bei Chamäleons primär der sozialen Kommunikation dient15. Im spezifischen Fall der frühmorgendlichen Schwarzfärbung bei Hochlandarten ist die thermoregulatorische Funktion jedoch biophysikalisch nachgewiesen und überlagert in diesem Zeitfenster die Kommunikationsfunktion10.
 4. Ökologie und Verhalten
-Lebensraum und Raumverteilung
-Der Lebensraum der Glanzkrähe korreliert exakt mit der Infrastruktur des Menschen. Sie besiedelt Küstensiedlungen, Häfen, kommerzielle Zonen, städtische Parks, Hotelanlagen und landwirtschaftliche Nutzflächen4. Auf der dokumentierten Reiseroute an der Küste Mombasas konzentrieren sich die Tiere auf die Gebiete um den Bamburi Beach, das Nguuni Nature Sanctuary, den Mombasa Marine National Park und den Mtwapa Creek24. Sie zeigen eine hohe ökologische Plastizität und können Temperaturschwankungen bis zu -8 °C (dokumentiert in den Niederlanden) sowie Höhenlagen bis zu 2.100 Metern in ihrem nativen Verbreitungsgebiet tolerieren9. [Status: gesichert]
-Tagesrhythmus und Sozialverhalten
-Die Tiere weisen eine ausgeprägte Tagaktivität und Sozialstruktur auf. Glanzkrähen sind hochgradig gregär und verbleiben meist ihr gesamtes Leben in einem bestimmten städtischen Gebiet. Adulte Vögel fliegen täglich bis zu 20 Kilometer von ihren Schlafplätzen zu bekannten Futterplätzen (Mülldeponien, Schlachthöfe, Felder)9. Gegen Abend sammeln sie sich zu großen, lauten Schwärmen (sogenannten communal roosts) in hohen Bäumen. Sie verhalten sich territorial und kooperativ bei der Abwehr von Raubtieren oder Konkurrenten.
-Fortpflanzung und Verhalten im Reisezeitraum (Ende September bis Anfang Oktober 2026)
-In Ostafrika (Kenia, Tansania) weicht der Brutzyklus von dem des asiatischen Ursprungsgebietes ab. Die Hauptbrutzeit erstreckt sich hier von September bis Januar9. Der Reisezeitraum (24.09. bis 12.10.2026), welcher den Übergang von der Trocken- in die kleine Regenzeit markiert, fällt exakt in die Hochphase der Fortpflanzung. In dieser Zeit sind die Tiere intensiv mit der Territoriumsverteidigung, dem Nestbau und der Eiproduktion beschäftigt. Das Verhalten ändert sich: Weibchen benötigen zur Eiproduktion vermehrt tierisches Protein, was zu einer intensivierten Jagd auf kleine Wirbeltiere und die Nester anderer Vögel führt18. Die Vögel sammeln aktiv Nistmaterial.
-
-Brutbiologische Parameter
-	Durchschnittswert / Spanne
-	Quelle / Beleg
-
-Nesthöhe
-	11,8 m (Spanne ab 4,0 m)
-	9
-
-Nestgewicht
-	1,4 kg
-	25
-
-Nestdurchmesser (außen)
-	39,0 bis 42,3 cm
-	25
-
-Gelegegröße (Clutch size)
-	3 bis 5 Eier (max. 6)
-	4
-
-Eimaße
-	Länge: 38,6 mm, Breite: 26,0 mm
-	25
-
-Eigewicht
-	12,3 g
-	25
-Die Eier sind blass blau-grün gefärbt und mit braunen Sprenkeln und Streifen versehen4. Beide Geschlechter beteiligen sich an der Inkubation und der Fütterung der Küken. Zwei Bruten pro Jahr sind möglich4. [Status: gesichert]
-Abhängigkeiten, Interaktionen und Pathogene
-Andere Arten sind negativ von der Glanzkrähe abhängig. Zu den dokumentierten Interaktionen zählen:
-Prädation an Küstengebieten: Glanzkrähen rauben systematisch die Gelege von Meeresschildkröten (z.B. der Suppenschildkröte, Chelonia mydas) und attackieren frisch geschlüpfte Schildkröten auf dem Weg zum Wasser12.
-Prädation an Avifauna: Sie plündern die Nester kleiner Passeriformes, Webervögel und fressen adulte Singvögel. Es gibt dokumentierte Vorfälle, bei denen sie Gabelracken (Coracias caudatus) töteten18. Heimische Greifvögel (z.B. Steppenadler) werden durch aggressives Mobbing verdrängt und ihrer Beute beraubt15.
-Brutparasitismus (im Ursprungsgebiet): In Asien wird die Glanzkrähe vom Indischen Koel (Eudynamys scolopaceus), einem Kuckucksvogel, als primärer Wirt für dessen Eier genutzt9. Dieser Druck fehlt in Kenia.
-Vektor für Krankheiten: Als obligater Aas- und Abfallfresser fungiert die Art als epidemiologisches Reservoir. Die Tiere übertragen mindestens acht humanpathogene Keime. Studien belegen unter anderem eine Prävalenz von 65 % für Salmonella spp. Zudem wurden Shigella (3 %), enteropathogene E. coli (4 %), Plesiomonas (8 %), Campylobacter und Aeromonas hydrophila nachgewiesen9. Durch die Nahrungssuche an Krankenhausabfällen verbreiten die Vögel auch antibiotikaresistente ESBL/AmpC-produzierende Bakterien30. [Status: gesichert]
+Lebensraum: Es ist gesichert, dass Trioceros schubotzi ausschließlich im Mount Kenya Nationalpark vorkommt3. Das Habitat beschränkt sich strikt auf die afroalpine Moorland- und Ericaceous-Zone in Höhenlagen zwischen 3.000 und 4.200 m über dem Meeresspiegel3. Die Vegetation besteht aus subtropischem/tropischem Hochland-Strauchwerk, dominiert von niedrigen Büschen und Baumheide (Erica spp.)3. Das Klima ("Sommer am Tag, Winter in der Nacht") ist durch Frostnächte und starke UV-Strahlung am Tag geprägt16.
+Nahrung und Abhängigkeiten: Die Art ernährt sich gesichert als insektivorer Lauerjäger (Sit-and-Wait-Predator)3. Zur Nahrung zählen Gliederfüßer sowie weiche Wirbellose wie Regenwürmer und Nacktschnecken3. Pflanzliche Nahrung ist nicht dokumentiert3. Es wird vermutet, dass Populationen von Gliederfüßern in dieser Höhenlage direkt vom Prädationsdruck des Chamäleons beeinflusst werden18. Umgekehrt hängt das Überleben der Art von der Dichte der Insekten ab. Als Beutetiere (Prädation) dienen Chamäleons generell Vögeln und Schlangen18. In der afroalpinen Zone des Mount Kenya kommen prädativ beispielsweise Greifvögel und die endemische Mount-Kenya-Buschviper (Atheris desaixi) in Betracht, die das Habitat teilen17.
+Fortpflanzung und Sozialverhalten: Es ist gesichert, dass T. schubotzi ovovivipar (lebendgebärend) ist1. Dies ist eine zwingende evolutionäre Anpassung an die Höhe, da abgelegte Eier im Boden gefrieren würden2. Das Weibchen behält die Eier im Körper, fungiert durch das Sonnenbaden als mobiler Inkubator und bringt schließlich voll entwickelte Jungtiere zur Welt2. Die Art lebt gesichert solitär und zeigt Territorialverhalten, welches durch visuelle Displays (Körperabflachung, Farbwechsel) kommuniziert wird18.
+Tagesrhythmus und saisonale Muster (Fokus Ende September / Anfang Oktober): Die Tiere sind strikt tagaktiv3. Das Verhaltensmuster im Reisezeitraum (24.09. bis 12.10.) fällt auf das Ende der langen Trockenzeit und den Beginn der kleinen Regenzeit ("Short Rains"). Es ist gesichert, dass die Nahrungsverfügbarkeit (Insekten) in feuchteren Perioden ansteigt3. In diesem Zeitraum kommt es in den Vormittagsstunden vermehrt zu rascher Wolkenbildung und Niederschlägen. Es wird abgeleitet, dass T. schubotzi Ende September und Anfang Oktober die verbleibenden klaren Morgenstunden nach den Frostnächten maximal für das schwarze Sonnenbaden nutzen muss. Sobald kalter Nebel oder Regen einsetzt, verringert das Tier die Jagdaktivität drastisch und sucht Deckung im Strauchwerk, da die Körpertemperatur ohne direkte Infrarotstrahlung schnell absinkt3.
 5. Menschen und Kultur in Kenia
-Historische Ereignisse und Bestandszahlen
-Die Geschichte der Glanzkrähe in Ostafrika begann in den 1890er Jahren, als sie auf dem Sansibar-Archipel eingeführt wurde. Dies geschah entweder als unbeabsichtigter Transport auf asiatischen Handelsschiffen oder als gezielte Maßnahme der britischen Verwaltung zur Beseitigung von städtischem Abfall1. Im Jahr 1947 breitete sich die Art erstmals auf das kenianische Festland aus und wurde in Mombasa registriert31.
-Die Population wuchs stetig. Um das Jahr 2024 wurde der Bestand auf der gesamten Küstenlinie Kenias (von Lamu bis Diani) auf etwa 1,5 Millionen Vögel geschätzt, wobei rund 600.000 Tiere allein dem urbanen Raum Mombasa zugerechnet wurden21. [Status: gesichert] In jüngster Zeit nutzt die Art die Transportkorridore (Mombasa Road und die Bahnlinie SGR), um bis in das Landesinnere (z.B. Tsavo, Makindu, Nairobi) vorzudringen15.
-Konflikte, Schutzstatus und Ausrottungskampagnen
-Die massive Präsenz der Vögel führt zu gravierenden wirtschaftlichen und gesundheitlichen Konflikten. In Hotels und Restaurants an der Küste stehlen die Vögel Nahrung von den Tischen und verunreinigen Anlagen mit korrosivem Kot, was den Tourismussektor gefährdet21. Auf landwirtschaftlichen Betrieben (z.B. um Gongoni, Madunguni und Sabaki) attackieren sie Geflügelfarmen und fressen Ernten (Mais, Sorghum)9.
-Auf globaler Ebene wird die Art in der Roten Liste der IUCN als "Least Concern" (nicht gefährdet) eingestuft10. In Europa wurde sie 2016 auf die Liste der invasiven gebietsfremden Arten von unionsweiter Bedeutung gesetzt1. In Kenia erklärte der Kenya Wildlife Service (KWS) den Vogel offiziell zum Schädling ("invasive non-native bird" / "pest") ohne jeglichen Schutzstatus17.
-Die Eradikationskampagnen:
-1999 bis 2005: Die Naturschutzorganisation A Rocha Kenya führte in Watamu und Malindi eine erste Kontrolle mit Starlicide durch, welche die Bestände lokal auf 30 bis 40 Vögel reduzierte. Im Jahr 2005 verhängte die kenianische Regierung jedoch ein Importverbot für das Gift, woraufhin die Population innerhalb weniger Jahre wieder auf mehrere Tausend Tiere anwuchs15.
-2024 bis 2026: Der KWS hob das Verbot auf und startete das "National House Crow Eradication Programme" mit dem Ziel, mindestens eine Million Krähen bis Ende 2024 zu töten17.
-Ein Halbjahresbericht von A Rocha Kenya (Januar bis Juni 2026) belegt die enorme Dimension dieser Maßnahme: In diesem Zeitraum wurden durch strukturierte Giftköder-Aktionen (koordiniert mit Hotels, Freiwilligen und Kommunen) exakt 154.399 Glanzkrähen entlang der kenianischen Küste getötet, was einem Durchschnitt von über 850 Vögeln pro Tag entspricht. In einigen Gebieten, wie Vipingo, ist die Art fast verschwunden24. In Diani sammelte eine lokale Taskforce nach einer koordinierten Aktion im Juni 2026 allein 718 Kadaver ein24. [Status: gesichert]
-Nutzung und Rolle im Mythos
-Eine Nutzung der Glanzkrähe als Nahrung, Medizin oder Baumaterial durch lokale kenianische Gemeinschaften existiert nicht. Aufgrund der Pathogenbelastung und des Status als Abfallfresser wird die Art strikt gemieden [Status: gesichert].
-Es gibt keine traditionell verankerten Rituale oder antike afrikanische Legenden, die diese Art umfassen, da sie ein rezenter Neobiota (Neueinwanderer) ist. In der modernen, urbanen Wahrnehmung der Küstenbewohner existieren jedoch stark emotionalisierte, anekdotische Überlieferungen. Sie werden als "swooping black devils" (herabstoßende schwarze Teufel) bezeichnet, die gezielt Flughafenhallen durchqueren oder durch die Flure von Krankenhäusern in Mombasa navigieren, um Lebensmittel von Rollbetten zu stehlen21. [Status: überliefert]
+Mythos und Überlieferung (Kikuyu): In der Mythologie der Kikuyu, die traditionell in der Region um den Mount Kenya leben, hat das Chamäleon eine zentrale, überlieferte Rolle bei der Entstehung des Todes. Die Legende besagt, dass der Schöpfergott Ngai das Chamäleon (kĩĩmbu) als ersten Boten zu den Menschen sandte22. Es sollte die Botschaft überbringen, dass die Menschen nach dem Tod wieder auferstehen würden22. Das Chamäleon ging jedoch seiner Natur entsprechend sehr langsam und hielt an, um Insekten zu fressen. Daraufhin sandte Ngai einen zweiten Boten – in einigen Versionen einen Webervogel, in anderen eine Eidechse (Gecko / intulo) – mit der Botschaft, dass die Menschen endgültig sterben sollen22. Der zweite Bote war schneller, erreichte die Menschen zuerst und verkündete den Tod. Als das Chamäleon schließlich eintraf und das ewige Leben verkünden wollte, antworteten die Menschen, dass sie das Wort des ersten Boten bereits akzeptiert hätten23. (Status: überliefert) Aufgrund dieser Überlieferung werden Chamäleons in Kenia oft als Unglücksbringer angesehen und in Konfliktsituationen von der lokalen Bevölkerung gemieden oder getötet24.
+Nutzung:
+Es gibt keine belegten Daten für die Nutzung von T. schubotzi als Nahrung oder Medizin in Kenia.
+Schutzstatus und Konflikte:
+
+Parameter
+	Datenlage
+	Status
+
+IUCN Red List
+	Near Threatened (Potenziell gefährdet). Assessment 2013, publiziert 20143.
+	Gesichert
+
+CITES
+	Anhang II (Regulierung des internationalen Handels)3.
+	Gesichert
+
+Bestandszahlen
+	Exakte absolute Zahlen sind unbekannt3. Das Vorkommensgebiet (Extent of Occurrence) beträgt ca. 130 km²3.
+	Gesichert
+Historische und aktuelle Konflikte mit dem Menschen manifestieren sich primär durch Habitatverlust. Es ist gesichert, dass anthropogen verursachte Brände (Wildfires) während Trockenperioden große Flächen der Heidevegetation (Moorland) auf dem Mount Kenya zerstören3. Da das Chamäleon auf diese Sträucher angewiesen ist, bedrohen die Feuer den Bestand existenziell. Zudem zwingt der Klimawandel die an Kälte angepasste Art, weiter den Berg hinaufzuwandern, was den ohnehin winzigen Lebensraum komprimiert3.
 6. Wissenschaftsgeschichte
-Die systematische Erfassung der Art begann im Jahr 1817, als der französische Ornithologe Louis Jean Pierre Vieillot die Nominatform Corvus splendens anhand eines in Bengalen (Indien) gesammelten Typusexemplars beschrieb1. Im Jahr 1874 erweiterte der britische Ornithologe Allan Octavian Hume die Taxonomie um die dunkelste Unterart Corvus splendens insolens, basierend auf einem in Myanmar von W. Davison gesammelten Exemplar2.
-In Bezug auf Ostafrika ist die Art untrennbar mit dem britischen Biologen Dr. Colin Ryall verbunden. Ryall veröffentlichte zwischen 1990 und 2016 ein umfassendes Werk zur Ökologie dieser Spezies. Seine im Scopus (1990, 1992) und im Bulletin of the British Ornithologists' Club (1994, 2010, 2016) publizierten Studien dokumentierten detailliert den Nestbau in Mombasa, die Prädation heimischer Vogelarten und kartierten den Mechanismus der schiffgestützten Invasion entlang des Indischen Ozeans15. [Status: gesichert]
-Eine jüngere Kontroverse der Wissenschaftsgeschichte rankte sich um die Eradikationsmethodik. In den Jahren nach dem Importverbot für das Gift Starlicide (2005) entbrannte in Kenia eine Debatte zwischen Naturschutzorganisationen, Landwirten und dem Kenya Wildlife Service. Tierschutzbedenken richteten sich primär gegen eine mögliche Sekundärvergiftung heimischer Adler und Geier. Toxikologische Feldversuche im Jahr 2022, geleitet von Cecilia Ruto (Little Kenya Gardens) mit 2.000 Vögeln in Kwale und Mombasa, demonstrierten wissenschaftlich, dass DRC-1339 aufgrund seiner vollständigen Metabolisierung im Wirtskörper (Nierenversagen ohne Resttoxizität im Fleisch) ökologisch selektiv wirkt. Diese Studienergebnisse führten zur historischen Wiederaufnahme der Ausrottungskampagne im Jahr 202418. [Status: gesichert]
-7. Fotografie
-Die Glanzkrähe ist auf der geplanten Route aufgrund ihrer Synanthropie permanent präsent. Die größte Dichte findet sich im Umfeld menschlicher Aktivitäten, insbesondere an Abfallstellen von Hotels, auf den Terrassen entlang des Bamburi Beach und am Rand von Reservaten wie dem Nguuni Nature Sanctuary oder den Fischerbooten am Mtwapa Creek24.
-Tageszeit und Verhalten: Die beste Tageszeit für die Fotografie ist der frühe Morgen während der aktiven Nahrungssuche oder der späte Nachmittag, wenn sich die Schwärme an den Schlafbäumen sammeln18. Im Reisezeitraum (Ende September/Anfang Oktober) ist das Sammeln von Nistmaterial ein wiederkehrendes, dokumentarisch wertvolles Motiv. Ein abwartendes Verhalten lohnt sich in der Nähe offener Buffets oder an Pools, wo die Tiere trinken oder blitzschnell unbewachtes Essen stehlen4. Ein weiteres dynamisches Verhalten ist das aggressive "Mobbing" (Hassen), bei dem Krähen gemeinsam im Flug herabstoßen, um Greifvögel zu vertreiben21.
-Fluchtdistanz und Fehler: In Habitaten wie Hotelanlagen sind die Vögel zutraulich ("confiding") und dulden eine Annäherung auf wenige Meter, sofern sich der Fotograf vorhersehbar bewegt14. Typische Fehler: Ein aktives Anlocken mit Nahrung ist auf der Küstenroute strikt zu vermeiden, da dies den laufenden Giftkampagnen (Baiting-Programmen) zuwiderläuft und zu Konflikten mit dem Personal führt. Ein direkter, ununterbrochener Augenkontakt durch eine große Kameralinse wird von den hochintelligenten Corvidäen oft als Fixierung durch einen Prädator (oder Jäger) gewertet und löst Alarmrufe aus. [Status: vermutet / technische Logik]
-Ausrüstung und Belichtung:
-Das Teleobjektiv 100 bis 400 mm ist das optimale Werkzeug. Da die Tiere dem Menschen sehr nahe kommen, überschreitet das 150-600 mm Objektiv oftmals die Naheinstellgrenze und das Sichtfeld für Umweltporträts.
-Für kontextuelle Aufnahmen (Vogel auf einer Müllhalde oder am Hotelpool) sind die Brennweiten 45 mm und 26 bis 60 mm essenziell.
-Verschlusszeiten: Für das schnelle Herabstoßen auf Nahrung oder Mobbing im Flug sind kurze Belichtungszeiten von mindestens 1/1600 s bis 1/2500 s angeraten. Für hüpfende Bewegungen am Boden oder das Aufheben von Nistmaterial sind 1/800 s bis 1/1000 s ausreichend. Bei dem stark glänzenden schwarzen Gefieder unter dem harten afrikanischen Sonnenlicht ist eine leichte Unterbelichtung (-0,3 bis -0,7 EV) von Vorteil, um ausgefressene Lichter im Glanz zu vermeiden und Zeichnung in den Schatten zu behalten. [Status: vermutet / fotografische Erfahrungswerte]
+Die Taxonomie von Trioceros schubotzi ist geprägt von historischen Expeditionen und nomenklatorischen Revisionen:
+1907-1908: Während der "Deutschen Zentral-Afrika Expedition" unter Führung von Adolf Friedrich, Herzog zu Mecklenburg, wurden die ersten Typusexemplare auf 4.000 m Höhe am Mount Kenya gesammelt1.
+1912: Der deutsche Herpetologe Richard Sternfeld beschrieb die Art erstmals wissenschaftlich unter dem Namen Chamaeleon schubotzi, benannt nach dem Expeditionsteilnehmer Johann G. Schubotz1. (Status: gesichert)
+1963: Der Herpetologe A. S. Rand veröffentlichte Notizen zum Chamaeleo bitaeniatus-Komplex und ordnete einen Lectotypus für schubotzi zu1.
+1982: Stephen M. Reilly publizierte die Studie "Ecological notes on Chamaeleo schubotzi from Mount Kenya", welche die erste fundierte Erforschung der afroalpinen Ökologie dieser spezifischen Art darstellte8. (Status: gesichert)
+2009: Colin R. Tilbury und Krystal A. Tolley publizierten eine umfassende genetische Neuklassifizierung der afrikanischen Chamäleons. Basierend auf molekularen Daten erhoben sie die Untergattung Trioceros zur vollen Gattung, womit die Art ihren heutigen Namen erhielt1. (Status: gesichert)
+2020 (Kontroverse): Der Taxonom Charles J. J. Klaver deckte auf, dass die Bestimmung des Lectotypus durch Rand im Jahr 1963 nach den Richtlinien des International Code of Zoological Nomenclature (ICZN, Art. 74.1.1) formell ungültig war1. Klaver korrigierte dies und bestätigte das Exemplar ZMB 15409 des Museums für Naturkunde Berlin als rechtmäßigen Lectotypus1. (Status: gesichert)
+7. Fotografie (Route, Tageszeit und Technik)
+Logistik auf der Route: Die geplante Reiseroute (Nyahururu, Rumuruti, Naro Moru, Ol Pejeta, Nanyuki, Mpala) verläuft durchgehend auf Höhenlagen zwischen 1.700 und 2.500 m. Es ist gesichert, dass Trioceros schubotzi jedoch ausschließlich oberhalb von 3.000 m vorkommt3. Um die Art zu fotografieren, ist ein Abstecher in den Mount Kenya Nationalpark zwingend erforderlich. Von den Orten der Route bieten sich zwei Zugänge an:
+Von Naro Moru aus über die Naro Moru Route (Fahrt bis zur Met Station auf ca. 3.000 m, danach Fußmarsch in die Moorland-Zone).
+Von Nanyuki aus über die Sirimon Route (Fahrt zum Old Moses Camp auf ca. 3.300 m, direkt im Habitat der Erica-Sträucher)16.
+Tageszeit und Verhalten: Die beste Zeit zur Beobachtung ist der frühe Morgen (ca. 06:15 bis 08:30 Uhr). Zu diesem Zeitpunkt sitzen die Tiere offen im Geäst und färben sich schwarz, um Infrarotlicht zu absorbieren13. Das Abwarten lohnt sich, bis die Tiere auf Betriebstemperatur sind und der erste Zungenschuss nach Insekten erfolgt12.
+Fluchtdistanz und typische Fehler: Chamäleons haben eine sehr geringe Fluchtdistanz, da ihre primäre Verteidigung die Tarnung (Krypsis) ist. Wenn sie sich bedroht fühlen, fliehen sie nicht schnell, sondern rotieren den Körper extrem langsam auf die dem Beobachter abgewandte Seite des Astes18. Der größte handwerkliche Fehler des Fotografen wäre es, bei der Annäherung seinen eigenen Schatten auf das Chamäleon fallen zu lassen. Das Blockieren der direkten Infrarotstrahlung unterbricht die lebenswichtige Aufwärmphase des Tieres sofort10.
+Kameraausrüstung und Verschlusszeiten:
+150-600 mm: Das optimale Objektiv. Es ermöglicht eine Distanz von 2 bis 3 Metern, wodurch das Chamäleon den Fotografen nicht als Bedrohung wahrnimmt und nicht hinter den Ast rotiert. Zudem verdichtet die Brennweite das oft unruhige Buschwerk zu einem homogenen Hintergrund (Bokeh).
+100-400 mm: Ebenfalls exzellent geeignet, insbesondere an der Naheinstellgrenze, um die nur 13 cm kleinen Tiere formatfüllend abzulichten.
+26-60 mm / 45 mm: Nur für Dokumentationen des gesamten Habitats (z. B. Busch im Vordergrund, Gletscher im Hintergrund) sinnvoll.
+Verschlusszeiten: Für ein sitzendes Tier reichen 1/250 s. Um den ballistischen Zungenschuss gestochen scharf "einzufrieren", sind zwingend 1/2000 s bis 1/4000 s erforderlich26. (Status: gesichert).
 8. Links zum Weiterlesen und Sehen
-Fachliche Quelle: https://www.iucngisd.org/gisd/species.php?sc=1199 Die "Global Invasive Species Database" der IUCN liefert ein detailliertes Profil der Art, inklusive morphologischer Kennzahlen, Ausbreitungsgeschichte und der global dokumentierten ökologischen und ökonomischen Schäden9.
-Fachliche Quelle (Krankheitsübertragung): https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.15463 Das CABI Compendium bietet umfassende Forschungsergebnisse zur Physiologie, klimatischen Toleranz sowie eine Liste der von der Glanzkrähe getragenen Humanpathogene37.
-Geschichte / Kultur (Aktuelle Eradikation): https://www.malindikenya.net/en/articles/news/last-news/in-six-months-more-than-154000-crows-have-been-culled-on-the-kenyan-coast.html Ein journalistischer Bericht vom August 2026, der die Methodik und den massiven Erfolg der "Crows No More"-Kampagne von A Rocha Kenya schildert, bei der in sechs Monaten 154.399 Vögel vernichtet wurden24.
-Fachartikel (Invasionsmechanismus): https://boc-online.org/bulletins/downloads/BBOC1361-Ryall.pdf Die ausführliche Publikation des Forschers Colin Ryall (2016) aus dem Bulletin of the British Ornithologists' Club, welche die Ausbreitungsrouten, schiffgestützte Passagen und den Bestandsaufbau in Küstenstädten wissenschaftlich aufarbeitet15.
-Verbreitungskarte: https://www.gbif.org/taxon/2482498 Die Plattform der Global Biodiversity Information Facility verzeichnet alle weltweit gemeldeten Vorkommen, Taxonomie-Hierarchien und historischen Typusexemplare der Art und ihrer Unterarten2.
+Fachliche Quellen:
+IUCN Red List (Assessment 2014): Umfassende Daten zum Schutzstatus, zur Verbreitungsfläche und zu Bedrohungen. https://www.iucnredlist.org/species/172539/13447243
+The Reptile Database: Vollständige taxonomische Historie, Synonyme und Verweise auf Originalpublikationen für Trioceros schubotzi. https://reptile-database.reptarium.cz/Trioceros/schubotzi?search_param=%28%291
+Fotos: 3. Wikimedia Commons: Sammlung von Aufnahmen der Gattung Trioceros, einschließlich Hochlandarten in ihrem natürlichen Habitat. https://commons.wikimedia.org/wiki/Category:Trioceros27
+Verbreitungskarte: 4. GBIF (Global Biodiversity Information Facility): Interaktive Karten und geografische Occurrence-Datensätze für Kenia. https://www.gbif.org/dataset/7233a2ba-b5ef-44e2-b13c-983f504447bc19
+Kultur / Geschichte / Ökologie: 5. IUCN World Heritage Outlook (Mount Kenya): Detailbericht zur Afroalpinen Vegetation, Höhenzonierung und den verheerenden Feuer-Bedrohungen. https://worldheritageoutlook.iucn.org/node/1082/pdf?year=202516 6. Evolution and Biogeography of Chameleons: Wissenschaftliches Fachkapitel über die Anpassung und Phylogenetik in afrikanischen Hochgebirgshabitaten (Tolley & Menegon). https://www.researchgate.net/publication/259285040_Evolution_and_biogeography_of_chameleons28
 9. Visuelle Beschreibung für eine Illustration
-The House Crow (Corvus splendens) is a slender, opportunistic corvid, measuring roughly 40 centimeters, notable for its long, thick neck and heavy, distinctly arched black bill. Its plumage boasts an intense, iridescent glossy black across the head, wings, back, and tail, which stands in sharp contrast to a flat, smoky-grey to pale grey collar that seamlessly wraps from the nape down through the mantle and across the upper breast. The bird maintains a characteristically upright, alert, and often dominant posture, balanced on robust, entirely black legs.
-Detailvorschläge für wissenschaftliche Genauigkeit:
-A close-up of the substantial, sharply hooked black beak, slightly open to reveal its capacity for grasping diverse anthropogenic refuse.
-A single, isolated primary wing feather, rendered to show the reflective, metallic blue-black structural coloration against the light.
-An egg from their clutch: pale blue-green, heavily speckled and streaked with irregular brownish markings.
-Kulturelle Vignette:
-A traditional coastal Kenyan woven palm-frond basket (kikapu), overflowing with a mix of colorful tropical fruit peels and discarded modern plastic wrappers, symbolizing the unchecked anthropogenic waste that fueled the species' explosive coastal invasion.
-10. Was nicht belegt werden konnte
-Folgende im Ausgangsbriefing spezifizierte Fragestellungen konnten anhand des vorliegenden Rohmaterials nicht belastbar beantwortet werden:
-Weitere lokale Namen (Maa, Kikuyu, Samburu, Kamba): Begriffe aus diesen Sprachen sind in den Quellen nicht belegt. Da die Glanzkrähe historisch auf die Küste beschränkt war und das Binnenland erst kürzlich erreicht hat, existieren in diesen Kulturen möglicherweise noch keine indigenen Termini.
-Wörtliche Bedeutung des lateinischen Corvus: Die exakte sprachwissenschaftliche Wurzel des antiken lateinischen Begriffs wird im Material nicht erörtert.
-Wörtliche Bedeutung des Swahili-Wortes Kunguru: Ob es sich um einen onomatopoetischen (lautmalerischen) Ursprung handelt oder eine andere Wurzel vorliegt, bleibt unbelegt.
-Rolle in Sprichworten oder Ritualen: Es gibt keine Belege für Rituale, afrikanische Sprichwörter oder antike Legenden, die diese Art umfassen. Es liegen ausschließlich moderne anekdotische Beobachtungen vor.
-Fluchtdistanz in Metern: Präzise, in Metern gemessene Fluchtdistanzen bei Annäherung durch Menschen fehlen im Quellenmaterial.
-Lebenserwartung: Daten zum maximalen Alter in freier Wildbahn oder Gefangenschaft sind nicht verzeichnet.
-URLs für Audio/Foto (xeno-canto, Wikimedia, Flickr): Das zur Verfügung gestellte Referenzmaterial enthielt keine direkten und validierten Links zu diesen spezifischen Medien-Datenbanken.
-Works cited
-House crow - Wikipedia, https://en.wikipedia.org/wiki/House_crow
-Corvus splendens Vieillot, 1817 - GBIF, https://www.gbif.org/taxon/YNJJ
-House crow (Corvus splendens) - Thai National Parks, https://www.thainationalparks.com/species/house-crow
-House crow - SANBI, https://www.sanbi.org/animal-of-the-week/house-crow/
-Animal names Swahili - English - My Little Word Land, https://mylittlewordland.com/course/452507/animal-names-swahili-english
-kunguru - Swahili-english dictionary, https://swahili_english.en-academic.com/6605/kunguru
-Hidden threat of 'Indian' crows to sustainable birdwatching tourism, https://dailynews.co.tz/hidden-threat-of-indian-crows-to-sustainable-birdwatching-tourism/
-Giryama Bird Names: An Etymological Dictionary (draft) - Scribd, https://www.scribd.com/document/14849374/Giryama-Bird-Names-An-Etymological-Dictionary-draft
-Corvus splendens - Global Invasive Species Database, https://www.iucngisd.org/gisd/species.php?sc=1199
-House Crow - Birds of Singapore, https://singaporebirds.com/species/house-crow
-Taxonomic updates—2023 Sand Lark Oriental Cuckoo - Indian Birds, https://indianbirds.in/pdfs/IB_18_5_Final_Highres.pdf
-Invasive Birds: Global Trends and Impacts 1789242061, https://dokumen.pub/invasive-birds-global-trends-and-impacts-1789242061-9781789242065.html
-Phenotypic variation and systematics of Mongolian Gull, https://www.dutchbirding.nl/journal/pdf/DB_2001_23_2.pdf
-Ryall, Colin. 2002. "Further Records of Range Extension in ... - Zenodo, https://zenodo.org/records/16002451/files/bhlpart151167.pdf?download=1
-Further records and updates of range expansion in House Crow, https://boc-online.org/bulletins/downloads/BBOC1361-Ryall.pdf
-HOUSE CROW (Glanzkrähe) – Corvus splendens, Vieillot, http://www.corvids.de/Downloads/Asien/Corvus%20splendens.pdf
-Crows on the coast, government says OK for elimination, https://www.malindikenya.net/en/articles/news/last-news/crows-on-the-coast-government-says-ok-for-elimination.html
-Kenya revives poisoning campaign to curb invasive Indian house, https://news.mongabay.com/2025/02/kenya-revives-poisoning-campaign-to-curb-invasive-indian-house-crows/
-Corvus splendens - GISD, https://www.iucngisd.org/gisd/speciesname/Corvus+splendens
-The management of Indian house crow (Corvus splendens), https://circabc.europa.eu/rest/download/017feba7-e4aa-4348-a48b-4f7ed08c7776?ticket=
-The Indian House Crow eradication program has started in earnest, https://www.facebook.com/groups/228531647320531/posts/2241047149402294/
-The birds were all killed by a neurotoxin called Avitrol. Whoever put, https://www.facebook.com/theoregonian/posts/the-birds-were-all-killed-by-a-neurotoxin-called-avitrol-whoever-put-out-the-poi/10155635515366973/
-A Cautionary Tale: Diclofenac and Its Profound Impact on Vultures, https://wildlife.cornell.edu/sites/default/files/2018-09/03346.pdf
-In six months, more than 154000 crows have been culled on the, https://www.malindikenya.net/en/articles/news/last-news/in-six-months-more-than-154000-crows-have-been-culled-on-the-kenyan-coast.html
-Breeding biology of House Crows (Corvus splendens) in Durban, https://www.researchgate.net/publication/233435161_Breeding_biology_of_House_Crows_Corvus_splendens_in_Durban_South_Africa
-Full text of "Bulletin of the African Bird Club" - Internet Archive, https://archive.org/stream/bulletinofafrica1622afri/bulletinofafrica1622afri_djvu.txt
-Steppe eagle - Wikipedia, https://en.wikipedia.org/wiki/Steppe_eagle
-No evidence of host-specific egg mimicry in Asian koels - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8270166/
-Multidrug-resistant non-typhoidal Salmonella of public health ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC10226424/
-Plasmid-Borne and Chromosomal ESBL/AmpC Genes in ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC7886708/
-Bird News: Invasive Crows Hit Nairobi They've been called one of, https://www.facebook.com/NTVKenya/posts/bird-news-invasive-crows-hit-nairobitheyve-been-called-one-of-the-most-destructi/1657881899324351/
-(PDF) Further records of range extension in the House Crow Corvus, https://www.researchgate.net/publication/265478691_Further_records_of_range_extension_in_the_House_Crow_Corvus_splendens
-Researchers have confirmed the presence of invasive Indian house, https://www.facebook.com/biznake/posts/researchers-have-confirmed-the-presence-of-invasive-indian-house-crows-in-nairob/1467689225390664/
-Too many house crows in Kenya, a project to eradicate, https://www.malindikenya.net/en/articles/social/environment/too-many-house-crows-in-kenya-a-project-to-eradicate.html
-Corvus insolens Hume, 1874 - GBIF, https://www.gbif.org/taxon/MR9SZ
-Colin Ryall - BioStor, https://biostor.org/?q=Colin+Ryall
-Corvus splendens (house crow) | CABI Compendium, https://www.cabidigitallibrary.org/doi/abs/10.1079/cabicompendium.15463
-Corvus splendens (house crow) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.15463
-Global Register of Introduced and Invasive Species - Belgium - GBIF, https://www.gbif.org/dataset/6d9e952f-948c-4483-9807-575348147c7e/taxon/https%3A%2F%2Fwww.gbif.org%2Fspecies%2F2482499
+The Trioceros schubotzi perches delicately on a frost-touched branch, its small, laterally compressed body measuring just under 15 cm in total length. The head is defined by a prominent triangular casque pointing upward at the rear, completely lacking the three forward-facing horns seen in related species. In its morning state, the granular, heavily textured skin is suffused with a deep, matte charcoal-black hue designed to absorb heat, while faint traces of a turquoise and yellow lateral stripe hint at its underlying adult coloration. The zygodactyl feet, shaped like mittens with two toes pointing outward and three inward, tightly grip the stem.
+Details for illustration:
+Blatt: The thick, needle-like foliage of a Giant Heather (Erica spp.) branch upon which the chameleon rests.
+Auge: The large, conical eye turret independently swiveling backwards, contrasting with the dark skin through a slightly lighter, scaly rim.
+Rindenstruktur: A deeply fissured, slightly charred lower stem of the Erica bush, indicating survival through a recent moorland fire.
+Kulturelle Vignette: A traditional, intricately woven Kikuyu basket (Kiondo) resting far below among the lower bushes, establishing the cultural connection to the mountain's human neighbors.
+10. Was nicht belegt werden konnte (Lücken)
+Trotz umfangreicher Sichtung des verfügbaren Datenmaterials konnten die folgenden, spezifisch angefragten Parameter nicht belegt werden:
+Lokale Namen bei Maa, Samburu, Giriama und Kamba: Während die Kikuyu/Swahili-Namen gesichert sind, fehlen linguistische Belege für den Namen speziell dieser Hochland-Art bei den anderen genannten Bevölkerungsgruppen.
+Wörtliche Bedeutung von "kĩĩmbu": Die linguistische Wurzel oder wörtliche Übersetzung des Kikuyu-Wortes für Chamäleon konnte aus den Quellen nicht abgeleitet werden.
+Genaue Tragzeit / Wurfgröße: Obwohl die Ovoviviparie gesichert ist, fehlen quantitative Daten zur Gestationsdauer und Wurfgröße. Diese sind in der Fachliteratur explizit als unzureichend erforscht gekennzeichnet.
+Gewicht in Gramm: In den herpetologischen Datensätzen sind keine Messreihen zum Gewicht der Art dokumentiert, weshalb eine Schätzung unterbleibt.
+Exakte Größenspanne weiblicher Gesamtlängen: Während die Kopf-Rumpf-Länge mit 49 mm gemessen wurde, fehlen statistisch belastbare Spannen für die gesamte Länge erwachsener Weibchen in den Quellen.
+Alltagsvergleiche in der Quelle: Die Alltagsvergleiche (Handfläche) wurden aufgrund der metrischen Daten (130 mm) berechnet, stehen jedoch nicht als wortwörtliche Zitate in den wissenschaftlichen Studien.
+Referenzen
+Trioceros schubotzi (STERNFELD, 1912) - The Reptile Database, https://reptile-database.reptarium.cz/Trioceros/schubotzi?search_param=%28%29
+Trioceros - Wikipedia, https://en.wikipedia.org/wiki/Trioceros
+Trioceros schubotzi - Grokipedia, https://grokipedia.com/page/trioceros_schubotzi
+chameleon - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/chameleon
+a Case Study of Kisagalla Losing Its Words to Kiswahili, https://erepository.uonbi.ac.ke/server/api/core/bitstreams/d01b0dc5-eea6-4670-8f3f-a8fcb4cfece0/content
+Exploring the highlands of Kenya in search of chameleons, https://www.agchamaeleons.de/wp-content/uploads/2022/07/Chamaeleo_0045-Jan-Stipala-Exploring-the-highlands-of-Kenya-in-search-of-chameleons.pdf
+A Photographic Guide To Snakes, Other Reptiles and Amphibians of, https://www.scribd.com/document/622641044/A-Photographic-Guide-to-Snakes-other-Reptiles-and-Amphibians-of-East-Africa-PDFDrive
+Patterns of reptile and amphibian species richness along elevational, https://pmc.ncbi.nlm.nih.gov/articles/PMC4771954/
+ECOLOGICAL NOTES ON CHAMAELEO SCHUBOTZI FROM, https://www.tandfonline.com/doi/abs/10.1080/04416651.1982.9650103
+Temperature-Dependent Color Change in Kenyan Chameleons, https://www.journals.uchicago.edu/doi/abs/10.1086/physzool.66.2.30163690
+Colour change on different body regions provides thermal and, https://royalsocietypublishing.org/rspb/article/283/1832/20160626/78091/Colour-change-on-different-body-regions-provides
+Myth 69: “Chameleons Will Die When Temperatures Drop to the 40s, https://www.chameleons.info/l/xmyth-69-chameleons-will-die-when-temperatures-drop-to-the-40s-of/
+AG Chamäleons, https://www.agchamaeleons.de/wp-content/uploads/2019/10/Chamaeleo_45-nomemberlist.pdf
+Der physiologische Farbwechsel bei Chamäleons, https://www.agchamaeleons.de/wp-content/uploads/2022/07/Chamaeleo_0045-Tobias-Machts-Der-physiologische-Farbwechsel-bei-Chamaeleons.pdf
+Flap-necked chameleons change colour to match their background, https://eprints.bournemouth.ac.uk/41522/1/major-et-al-2025-flap-necked-chameleons-change-colour-to-match-their-background.pdf
+Mount Kenya National Park/Natural Forest - View PDF, https://worldheritageoutlook.iucn.org/node/1082/pdf?year=2025
+Mount Kenya National Park/Natural Forest | World Heritage Outlook, https://worldheritageoutlook.iucn.org/explore-sites/mount-kenya-national-parknatural-forest
+Chameleon - Chamaeleonidae - A-Z Animals, https://a-z-animals.com/animals/chameleon/
+Amphibian and reptile species occurrences in the Tana River Basin, https://www.gbif.org/dataset/7233a2ba-b5ef-44e2-b13c-983f504447bc
+Chameleons of Southern Africa | Request PDF - ResearchGate, https://www.researchgate.net/publication/259285144_Chameleons_of_Southern_Africa
+Chameleons At Night: Why Total Darkness, Drought And Stable, https://www.chameleons.info/l/chameleons-at-night-why-total-darkness-drought-and-stable-temperatures-are-a-mistake/
+Oral Narratives: Themes and Analysis | PDF - Scribd, https://www.scribd.com/document/881304312/54-New-Oral-Narratives-Term-2-Pamphlet
+Why did Unkulunkulu send the lizard after the chameleon?, https://mythology.stackexchange.com/questions/1375/why-did-unkulunkulu-send-the-lizard-after-the-chameleon
+The East Africa Protectorate - Internet Archive, https://archive.org/download/eastafricaprotec00eliouoft/eastafricaprotec00eliouoft.pdf
+(PDF) A Re-Appraisal Of The Systematics Of The African Genus, https://www.researchgate.net/publication/228960635_A_Re-Appraisal_Of_The_Systematics_Of_The_African_Genus_Chamaeleo_Reptilia_Chamaeleonidae
+Ballistic tongue projection in chameleons maintains high ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC2851764/
+Category:Trioceros - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Trioceros
+(PDF) Evolution and biogeography of chameleons - ResearchGate, https://www.researchgate.net/publication/259285040_Evolution_and_biogeography_of_chameleons

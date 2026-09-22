@@ -1,255 +1,212 @@
-Recherchereport: Blaustirn-Blatthühnchen (Actophilornis africanus)
+Strukturiertes Rohmaterial: Zwergflamingo (Phoeniconaias minor) im kenianischen Rift Valley
 1. Namen und Etymologie
-Der wissenschaftliche und volksmundliche Namensbestand dieser Art ist durch historische europäische Beschreibungen sowie regionale afrikanische Sprachgruppen dokumentiert. Der Status der Herleitung ist für die belegten Namen gesichert.
+Die systematische Erfassung, Nomenklatur und Taxonomie der Art basieren auf einer komplexen wissenschaftlichen Historie. Der aktuell in der Mehrheit der Datenbanken validierte lateinische Name lautet Phoeniconaias minor1.
+Taxonomie und Erstbeschreibung (Gesichert): Die Art wurde im Jahr 1798 von dem französischen Naturforscher Étienne Geoffroy Saint-Hilaire beschrieben1. Die Originalpublikation erfolgte unter dem Basionym Phoenicopterus minor. Als Typlokalität wird in der Regel "Senegal" angegeben, wenngleich in der Erstbeschreibung keine spezifische Typlokalität explizit ausgewiesen wurde3. Im Jahr 1869 führte der britische Zoologe George Robert Gray die monotypische Gattung Phoeniconaias ein, in welche die Art aufgrund ihrer spezifischen Schnabelmorphologie transferiert wurde1.
+Etymologie (Gesichert):
+Der Gattungsname Phoeniconaias ist ein Kompositum aus den griechischen Wörtern phoinix (bedeutet karmesinrot oder purpurrot) und naias (bedeutet Wassernymphe oder Najade)1. Wörtlich übersetzt bedeutet der Gattungsname "karmesinrote Wassernymphe"9.
+Das Artepitheton minor entstammt der lateinischen Sprache und bedeutet "kleiner"1. Dies bezieht sich auf die im Vergleich zu anderen Vertretern der Familie Phoenicopteridae geringeren Körpermaße1.
+Synonyme (Gesichert): In der historischen Literatur treten folgende Synonyme auf: Phoenicopterus minor, Phcenicopterus parvus, Phcenicopterus rubidus und Phoenicopterus blythi6.
+Trivialnamen (Gesichert):
+Deutscher Name: Zwergflamingo1.
+Englischer Name: Lesser flamingo1.
+Swahili: Heroe mdogo sowie Heroe mwekundu3.
+Weitere lokale Namen (Maa, Kikuyu, Samburu, Giriama, Kamba): Unbekannt. In den untersuchten Quellen sind keine spezifischen Nomenklaturen oder Vokabeln aus diesen Sprachen für die Art belegt.
+Taxonomische Kontroverse (Umstritten): Im Jahr 2014 publizierten Torres et al. eine phylogenetische Studie, in der sie vorschlugen, die Gattung Phoeniconaias als jüngeres Synonym der Gattung Phoenicoparrus aufzufassen. Begründet wurde dies mit genetischen Daten und der geteilten Morphologie (reduzierter Hallux, "deep-keeled bill"). Unter dieser Nomenklatur wird die Art als Phoenicoparrus minor geführt14. Beide Gattungsbezeichnungen werden gegenwärtig parallel in der Fachliteratur verwendet11.
+2. Erscheinung und Maße
+Der Zwergflamingo ist der physisch kleinste Vertreter der Ordnung der Phoenicopteriformes1. Ein direkter Größenvergleich der Länge von 80 cm entspricht annähernd der Normbreite einer Standard-Zimmertür (86 cm), während die maximale Höhe in aufgerichteter Position (ca. 100 bis 105 cm) exakt der standardisierten Montagehöhe eines Türdrückers entspricht. Das Körpergewicht entspricht der Masse von 1,2 bis 2,7 Litern Wasser.
+Es liegt ein dokumentierter Geschlechtsdimorphismus vor, bei dem männliche Individuen tendenziell größer und schwerer als weibliche Individuen ausfallen4.
 
-Sprache / Kategorie
-	Name
-	Etymologie / Wörtliche Bedeutung
-	Quelle
-	Status
-
-Lateinisch
-	Actophilornis africanus
-	Griechisch aktē (Flussufer, Küste), philos (liebend), ornis (Vogel). Lateinisch africanus (afrikanisch, aus Afrika stammend). Wörtlich: "Der afrikanische flussuferliebende Vogel".
-	1
-	gesichert
-
-Lateinisches Synonym
-	Parra africana
-	Historisches Protonym aus der Erstbeschreibung.
-	1
-	gesichert
-
-Deutsch
-	Blaustirn-Blatthühnchen, Zwergblatthühnchen
-	Bezieht sich morphologisch auf das blaue Stirnschild und ökologisch auf den Lebensraum (Schwimmblattvegetation).
-	4
-	gesichert
-
-Englisch
-	African Jacana, African Lily-trotter, Jesus bird
-	"Lily-trotter" beschreibt das Laufen über Seerosen. "Jesus bird" ist ein lokaler Spitzname aufgrund der Illusion, der Vogel laufe auf dem Wasser.
-	4
-	gesichert
-
-Swahili
-	Sile-maua
-	Wörtliche Bedeutung in den vorliegenden Quellen nicht aufgeschlüsselt.
-	8
-	gesichert
-
-Afrikaans
-	Grootlangtoon
-	Wörtlich übersetzt: "Groß-Langzehe". Bezieht sich auf die auffällige Fußanatomie.
-	4
-	gesichert
-
-Maa
-	unbekannt
-	Keine belastbaren Belege vorhanden.
-	-
-	unzureichende Datenlage
-
-Kikuyu
-	unbekannt
-	Keine belastbaren Belege vorhanden.
-	-
-	unzureichende Datenlage
-
-Samburu
-	unbekannt
-	Keine belastbaren Belege vorhanden.
-	-
-	unzureichende Datenlage
-
-Giriama
-	unbekannt
-	Keine belastbaren Belege vorhanden.
-	-
-	unzureichende Datenlage
-
-Kamba
-	unbekannt
-	Keine belastbaren Belege vorhanden.
-	-
-	unzureichende Datenlage
-Das Epitheton africana wurde der Art im Jahr 1789 durch den deutschen Naturforscher Johann Friedrich Gmelin vergeben, der die Art zunächst in der Gattung Parra einordnete1. Die von Gmelin extrem weit gefasste Typuslokalität "Africa" wurde im Jahr 1915 durch den britischen Ornithologen Claude Grant in der Fachzeitschrift Ibis formell auf das Land "Äthiopien" eingeschränkt1. Der Status dieser taxonomischen Historie gilt als gesichert.
-2. Erscheinung, mit Maßen
-Das Blaustirn-Blatthühnchen weist einen ausgeprägten, reversen Geschlechtsdimorphismus auf. Weibchen sind in allen morphologischen Belangen signifikant größer und schwerer als Männchen1. Der Status dieser physischen Daten ist durch Feldmessungen gesichert.
-Körpermaße und Gewicht
 Merkmal
-	Männchen
-	Weibchen
+	Maß / Spezifikation
+	Status der Angabe
 
-Körperlänge (Gesamt)
-	23 bis 31 cm (keine geschlechtsspezifische Trennung belegt)
-	23 bis 31 cm
+Körperlänge (ohne Beine)
+	80 bis 90 cm1
+	Gesichert
 
-Körpermasse
-	115 bis 224 g (Durchschnitt: 137 g)
-	167 bis 290 g (Durchschnitt: 261 g)
+Gesamtlänge (inkl. Beine/Hals)
+	90 bis 105 cm7
+	Gesichert
+
+Höhe (stehend)
+	95 bis 110 cm1
+	Gesichert
 
 Flügelspannweite
-	bis zu 50 cm, abweichende Quelle nennt 64 bis 68 cm
-	bis zu 50 cm, abweichende Quelle nennt 64 bis 68 cm
+	95 bis 120 cm1
+	Gesichert
 
-Tarsuslänge
-	9,7 bis 12,4 cm
-	9,7 bis 12,4 cm
+Körpergewicht
+	1,1 bis 2,7 kg7
+	Gesichert
 
-Flügellänge (Maximales Sehnenmaß)
-	14,4 bis 16,8 cm
-	14,4 bis 16,8 cm
-Quellen:1
-Alltagsvergleich für die Größenordnung (gesichert): Mit einer Körperlänge von 23 bis 31 Zentimetern entspricht die Längsausdehnung des Vogels exakt der eines standardisierten 30-Zentimeter-Bürolineals1.
-Detailmaße des Gefieders und der Eier (gesichert):
-Längste Handschwinge (Primärfeder): 13,4 cm12.
-Längste Armschwinge (Sekundärfeder): 10,6 cm12.
-Längste Steuerfeder (Rectrix): 5,05 cm12.
-Hand-Flügel-Index (HWI): 28 bis 31 %12.
-Eimaße: Länge durchschnittlich 38,2 mm, Breite durchschnittlich 31,5 mm. Gewicht des Eis: 17,5 g13.
-Das Masseverhältnis von Weibchen zu Männchen liegt bei Actophilornis africanus im Durchschnitt bei 1,68:1. Damit gehört die Art, neben dem verwandten Madagaskar-Blatthühnchen (Actophilornis albinucha), zu den schwersten Vertretern der Familie der Jacanidae1.
-Charakteristische Färbung und Anatomie (gesichert)
-Adulte Vögel: Brust, Bauch und die gesamte Oberseite sind in einem satten Kastanienbraun gefärbt. Die Flügelspitzen, der Hinterhals und ein durchgehender Augenstreif sind tiefschwarz. Der Vorderhals und die Kehle heben sich in einem reinen Weiß ab1.
-Kopfpartie und Schnabel: Das markanteste Merkmal ist ein blaues, fleischiges Stirnschild (Frontalschild), das sich vom kurzen, blauen Schnabel bis über die Stirn zieht. Hinter dem Schnabel und dem Schild liegt ein kleiner Bereich mit violetten Federn1.
-Beine und Füße: Diese sind grau gefärbt. Die Zehen sind unverhältnismäßig stark verlängert (bis zu 7 cm)2. Die Hinterzehe (Hallux) weist eine extrem gerade und verlängerte Kralle auf, die im Durchschnitt 21 mm misst16.
-Flügelbewaffnung: Am Karpalgelenk (Flügelbug) sitzen Keratinsporne, die kontinuierlich wachsen und durch Abrieb (insbesondere bei territorialen Kämpfen) abgenutzt werden10. Weibchen weisen tendenziell eine stärkere Ausprägung dieser Sporne auf, was mit ihrer dominanteren Rolle bei der Revierverteidigung korreliert1.
-Juvenile Vögel: Jungtiere unterscheiden sich deutlich durch eine weiße Unterseite, die lediglich von einem kastanienbraunen Bauchfleck unterbrochen wird. Das blaue Stirnschild ist in diesem Stadium noch nicht voll ausgeprägt1.
-3. Der Mechanismus
-Die biologische und ökologische Funktion des Blaustirn-Blatthühnchens stützt sich auf zwei untrennbar miteinander verwobene Prinzipien: ein biomechanisches Prinzip der Fortbewegung und ein ethologisches Prinzip der Fortpflanzung (Geschlechterrollenumkehr). Status aller hier genannten Prinzipien und Kausalketten: gesichert.
-Das biomechanische Prinzip: Lastenverteilung auf Schwimmblättern
-Der physikalische Druck () ist definiert als der Quotient aus der wirkenden Gewichtskraft () und der Kontaktfläche (). Das Blaustirn-Blatthühnchen reduziert den punktuellen Druck auf die Wasseroberfläche, indem es die Kontaktfläche () maximiert. Erreicht wird dies durch Zehen, die bis zu 7 cm lang werden, kombiniert mit einer geraden, bis zu 21 mm langen Hinterkralle15. Diese anatomische Anpassung verteilt das Körpergewicht von 137 g (Männchen) bis 261 g (Weibchen) über einen extrem breiten Radius. Der resultierende, stark verringerte Druck verhindert das Durchbrechen der Oberflächenspannung und ermöglicht das Laufen auf flutender Vegetation wie Seerosen (Nymphaea) oder Wasserhyazinthen (Eichhornia crassipes), ohne deren statischen Auftrieb zu überwinden7.
-Das ethologische Prinzip: Sequenzielle Polyandrie und Geschlechterrollenumkehr
-Das Fortpflanzungssystem von Actophilornis africanus zeichnet sich durch klassische (sequenzielle) Polyandrie (Vielmännerei) und eine vollständige Umkehrung der elterlichen Rollen aus1. Dieses System wurde maßgeblich von W.R. Tarboton (1995) an der afrikanischen Art sowie vergleichend von Emlen und Wrege (2004) an amerikanischen Blatthühnchen erforscht10.
-Die ökologische Kausalkette () dieses Mechanismus ist vollständig dokumentiert:
-Ökologische Ausgangslage (A): Die flachen Süßwasserseen in den Tropen und Subtropen bieten ein konstantes, extrem hohes Angebot an wirbellosen Beutetieren in der Schwimmvegetation1.
-Energetische Entlastung der Eiproduktion (B): Durch dieses Überangebot an leicht verfügbarer energiereicher Nahrung ist der relative energetische Aufwand, den ein Weibchen für die Produktion eines 17,5 g schweren Eies aufbringen muss, minimal1. Ein Weibchen kann in rascher Folge mehrere Gelege produzieren.
-Austauschbarkeit der Inkubation (C): Bei Vögeln sind die Embryonen nicht an den Körper der Mutter gebunden. Eier können gleichermaßen von Elterntieren beiderlei Geschlechts durch Körperwärme bebrütet werden1.
-Der limitierende Faktor (D): Weil die Eiproduktion keine zeitliche Hürde mehr darstellt, verschiebt sich der reproduktive Flaschenhals. Die Reproduktionsrate der Population wird nun exklusiv durch die Verfügbarkeit von Brutpflegern limitiert, die Zeit für die 22- bis 28-tägige Inkubation und die nachfolgende 40- bis 70-tägige Kükenaufzucht aufwenden können1.
-Intrasexuelle Selektion und Harem-Bildung (E): Um die eigene Reproduktionsrate zu maximieren, übernehmen die Weibchen die territorial aggressive Rolle. Sie konkurrieren physisch miteinander um die knappe Ressource "brutbereite Männchen". Ein adultes Weibchen besetzt ein großes Territorium und etabliert darin einen Harem aus durchschnittlich 2,4 Männchen, für die sie nacheinander Eier legt7. Diese Konkurrenz führt zu einem evolutionären Selektionsdruck auf Körpergröße und Waffen (Keratinsporne an den Flügeln), weshalb Weibchen (mit durchschnittlich 261 g) massiger sind als Männchen (137 g)10.
-Paternale Brutpflege (F): Das Männchen baut das schwimmende Nest allein, inkubiert das Gelege aus vier Eiern (Inkubationskonstanz von durchschnittlich 53 % bis 70,9 % der Tageszeit) und übernimmt die alleinige Führung und Verteidigung der Nestflüchter-Küken1.
-Adaption der Männchen (gesichert): Um die Küken bei Gefahr vor Prädatoren (z. B. Krokodile, Greifvögel) oder steigendem Wasserstand zu retten, praktizieren die Männchen einen spezifischen Rettungsgriff. Sie klemmen sich die Küken unter die Flügel und tragen diese davon. Dabei sind von außen oft nur noch die langen Beine der Küken sichtbar, die aus dem Brustgefieder des Vaters herabhängen1.
-Konkurrierende Erklärungsansätze für das revierverteidigende Verhalten (umstritten/diskutiert):
-Innerhalb der Ornithologie gibt es Debatten über das genaue Ziel der weiblichen Aggression.
-Hypothese 1 (Klassische Territorialität): Weibchen verteidigen ihr Territorium und ihre Männchen primär gegen Prädatoren und alle generellen Eindringlinge, um den Fortpflanzungserfolg des Harems zu sichern22.
-Hypothese 2 (Anti-Infantizid-Strategie): Neuere Beobachtungen zeigen, dass die Aggression der residenten Weibchen hochspezifisch gegen umherstreifende andere Weibchen gerichtet ist. Fremde Weibchen versuchen, Reviere zu übernehmen und bestehende Gelege oder Küken zu töten (Infantizid), um die Männchen für eigene Eier freizumachen7. Gleichzeitig üben bei verwandten Jacana-Arten auch Männchen Infantizid aus, indem sie die ersten Eier eines Geleges zerstören, wenn die Vaterschaft unsicher ist (da Spermien im Weibchen 4 bis 5 Tage lebensfähig bleiben und Paarungsintervalle zwischen 1 und 10 Tagen variieren)23. Die revierhaltenden Weibchen müssen also ein komplexes Gleichgewicht aus intrasexueller Verteidigung und Paarungsmanagement leisten.
+Beinlänge
+	60 cm1
+	Gesichert
+
+Ei (Dimension)
+	50 x 83 mm (bzw. 38 x 87 mm)7
+	Gesichert
+
+Küken (Schlupfgewicht)
+	73 bis 98 Gramm19
+	Gesichert
+Gefieder und Färbung nach Altersstufen (Gesichert):
+Adulte Tiere: Die Grundfärbung des ovalen, kahnförmigen Körpers variiert von Weiß mit leichtem Rosastich bis hin zu tiefem Dunkelrosa4. Männchen weisen oftmals karmesinrote Federpartien an der Brust und den oberen Flügeldecken auf1. Die Hand- und Armschwingen sind vollständig schwarz und bilden im Flug ein deutliches Kontrastband1.
+Farbursprung: Die rosa Färbung ist nicht genetisch determiniert, sondern resultiert aus der alimentären Aufnahme der Carotinoide Canthaxanthin, Phoenicoxanthin und Astaxanthin. Ohne diese Nahrungsbestandteile verblasst das Gefieder zu Weiß1.
+Jungtiere (Küken): Frisch geschlüpfte Küken tragen dichte, hellgraue Daunen, die nach etwa zwei Wochen durch dunklere graue Daunen ersetzt werden5. Der Schnabel ist anfänglich gerade und rosa, die Beine sind dick, geschwollen und rosa, verfärben sich jedoch innerhalb der ersten Woche schwarz7.
+Juvenile Tiere (bis 3 oder 4 Jahre): In dieser Phase ist das Gefieder überwiegend grau gefärbt, braun-rosa gescheckt und dunkel gestrichelt4. Rötliche Pigmentierungen fehlen, Schnabel und Beine sind dunkelgrau4.
+Immatur (Übergangsphase): Das Gefieder erscheint sehr blass und fast weißlich19.
+Anatomische Charakteristika (Gesichert):
+Schnabel: Der dunkelrote bis violette Schnabel mit schwarzer Spitze ist verhältnismäßig lang und weist auf halber Länge einen scharfen 90-Grad-Knick nach unten auf1. Der Oberschnabel ist schmaler als der Unterschnabel und bettet sich bündig in diesen ein ("deep-keeled bill")26.
+Augen: Die Iris ist gelb, orange oder rot gefärbt und wird von einem purpurroten oder braunen, nackten Hautring umschlossen. Dieser Hautbereich verleiht dem Gesichtsausdruck eine oft als "wütend" beschriebene Charakteristik1.
+Extremitäten: Die sehr schlanken, feuerroten Beine enden in Füßen mit drei nach vorn weisenden, durch Schwimmhäute verbundenen Zehen sowie einer rudimentär angelegten Hinterzehe (Hallux)1.
+3. Der Mechanismus: pH-Toleranz und Filterapparat
+Die Fähigkeit des Zwergflamingos, in den extrem alkalischen Gewässern des Rift Valleys zu überleben und exklusiv Biomasse zu extrahieren, beruht auf einem hochspezialisierten biologischen Prinzip, das anatomische Resistenz mit hydrodynamischer Filtration kombiniert.
+Physikochemische Resistenz (Gesichert): Die Sodaseen (wie Lake Bogoria oder Lake Natron) weisen Wassertemperaturen von bis zu 70 °C und einen pH-Wert von bis zu 10,5 auf4. Diese Alkalinität ist stark ätzend. Die Art widersteht diesen Bedingungen durch zwei Mechanismen:
+Die Beine sind mit einer dichten Schicht widerstandsfähiger Hornschuppen überzogen, die das darunterliegende Gewebe vor der Lauge isolieren4.
+In den Nasenhöhlen befinden sich spezialisierte Salzdrüsen (Nasal glands). Da der Flamingo bei der Nahrungsaufnahme große Mengen Natriumkarbonat und Natriumchlorid aufnimmt, filtern diese Drüsen das überschüssige Salz aus dem Blut und scheiden es aus, wodurch der osmotische Druck im Körper reguliert wird10.
+Ökologische Kausalkette (Gesichert): Das System funktioniert als lineare Kausalkette: Vulkanische Asche und Auswaschungen reichern abflusslose Senken (Rift Valley) mit Natriumkarbonat an  hohe Sonneneinstrahlung und Verdunstung konzentrieren die Salze zu hochalkalischem Wasser  diese extremen Parameter schließen fast alle Lebewesen aus, bieten aber dem Cyanobakterium Arthrospira fusiformis ideale Bedingungen für eine Massenvermehrung (Blüte)  der Zwergflamingo besetzt diese nahrungsreiche, aber feindliche Nische ohne Nahrungskonkurrenz, da sein Schnabel als einziger Filterapparat auf diese Partikelgröße kalibriert ist  die aus den Bakterien extrahierten Carotinoide färben abschließend das Gefieder rosa4.
+Der Filtermechanismus: Die Funktionsweise wurde 1957 von der britischen Forscherin Penelope M. Jenkin (P.M. Jenkin) im Detail erforscht und quantifiziert26. Der Zwergflamingo frisst als "Verkehrtschnäbler", indem er den Kopf invertiert unter die Wasseroberfläche senkt1. Unter der dorsalen Oberfläche des Oberschnabels befinden sich Herbst-Körperchen (Herbst corpuscles), die als taktile Sinnesorgane dienen26.
+Der Filterprozess arbeitet über zwei Stufen von Lamellen (hornhaltigen Verdickungen)4:
+Exkluder (Äußere Lamellen): Bei einer Schnabelöffnung von 4 bis 6 mm bilden die äußeren Plättchen ein grobes Gitter. Die Abstände betragen hier exakt 1,0 x 0,4 mm. Partikel, die größer sind, werden am Eindringen gehindert24.
+Feinfilter (Innere Lamellen): Die Innenseiten des Schnabels sind mit dicht stehenden, diagonal angeordneten Plättchen besetzt, deren Fasern sich zu einer Franse aufspalten, was eine samtartige Struktur (velvety pile) erzeugt. Dieses feine Netz weist Abstände von 0,01 x 0,05 mm auf (10 bis 50 Mikrometer). Dies korreliert mit der Größe von Arthrospira fusiformis (40 bis 200 Mikrometer), die in diesem Filter hängen bleiben4.
+Die Zungenpumpe (Umstritten): Die große, fleischige Zunge fungiert als hydraulischer Kolben in der engen zentralen Schnabelrinne. Durch das Zurückziehen entsteht ein Unterdruck, der Wasser ansaugt. Beim Vorschieben wird das Wasser durch die Lamellen nach außen gepresst. Die Fransen richten sich dabei auf und fangen die Nahrung ein, die beim nächsten Zurückziehen der Zunge in den Schlund gestreift wird1. Bezüglich der Arbeitsgeschwindigkeit der Zunge (Pumpfrequenz) existieren widersprüchliche Angaben in der Literatur:
+Wert A: Die Untersuchung von Jenkin (1957) beziffert die Rate auf 4 Pumpvorgänge pro Sekunde ("four strokes per second")26.
+Wert B: Neuere, generelle Beschreibungen beziffern die Frequenz auf 17 Pumpvorgänge pro Sekunde4. Der Widerspruch ist nicht aufgelöst; die Diskrepanz zwischen 4 und 17 Hüben pro Sekunde bleibt bestehen.
+Zusätzlich generiert der Flamingo beim Durchschreiten des Wassers mit den Füßen hydrodynamische Wirbel (foot-stomping vortices), die größere Beutetiere (1 bis 10 mm) aufwirbeln und für den Schnabel zugänglich machen22.
 4. Ökologie und Verhalten
-Lebensraum und abiotische Faktoren
-Das Habitat des Blaustirn-Blatthühnchens (Status: gesichert) umfasst permanente und saisonale flache Süßwasser-Ökosysteme wie Sümpfe, Überschwemmungsebenen, flache Seen und langsam fließende Flüsse in Subsahara-Afrika2. Die Nestbau-Standorte erfordern extrem spezifische topografische und vegetative Parameter. Untersuchungen am äthiopischen Lake Hawassa belegen, dass die Vögel Mikrohabitate mit einer Neigung von exakt 0 Grad (flaches Terrain) bevorzugen, da dies die Stabilität der fragilen Schwimmnester garantiert und das Abrollen der Eier verhindert20. Die Verbreitung reicht von Gebieten auf Meeresspiegelniveau bis in Höhenlagen von 2.000 m. In Kenia wurden Vögel an künstlichen, kleinen Stauseen (0,065 bis 0,249 Quadratkilometer Wasserfläche) im Rift Valley in Höhen von bis zu 2.640 m dokumentiert20. Die Art ist nicht migrierend (Standvogel), vollzieht jedoch nomadische Ausweichbewegungen, wenn Wasserstellen temporär austrocknen2.
-Tagesrhythmus und Nahrung
-Die Vögel sind streng tagaktiv (Status: gesichert)2. Die Nahrungssuche erfolgt überwiegend visuell durch langsames Gehen und Picken auf der Vegetationsoberfläche. Die Ernährung ist carnivor und inkludiert Insekten (Käfer, Fliegen, Libellen), aquatische Würmer, Spinnen, Krustentiere und Mollusken (Schnecken)2. Selten fressen sie auch geringe Mengen von Samen7.
-Abhängigkeit anderer Arten (beobachtet): Es wurde dokumentiert, dass Blaustirn-Blatthühnchen gelegentlich auf den Rücken von im Wasser stehenden Flusspferden (Hippopotamus amphibius) oder Kaffernbüffeln (Syncerus caffer) landen, um Insekten, Parasiten und Wirbellose von deren Haut abzusammeln, was eine lockere, reinigende Symbiose darstellt7.
-Fortpflanzung und Nestverhalten
-Nachdem das Weibchen die vier braunen, schwarz gefleckten Eier gelegt hat, zieht es sich aus der direkten Fürsorge zurück1. Das Männchen bebrütet die Eier, schützt sie an heißen Tagen jedoch oft eher durch das Spenden von Schatten, als sie mit Körperwärme zu wärmen7. Die Inkubationszeit ist stark von den Außentemperaturen abhängig. An kalten Tagen (Durchschnitt 22,9 °C) sitzt das Männchen zu 70,9 % der Zeit auf dem Nest und verlässt dieses im Schnitt 35 Mal pro Tag in sehr kurzen Intervallen von 8,4 Minuten (Status: gesichert durch Telemetriestudien)18. Nach dem Schlüpfen (Tag 22 bis 28) entfernt das Männchen sofort die Eierschalen aus dem Nest7. Die Küken sind Nestflüchter, können kurz nach dem Schlupf schwimmen und tauchen, bleiben jedoch 40 bis 70 Tage lang abhängig von der Führung und dem Schutz des Vaters, bis sie die Flugfähigkeit erreichen2.
-Verhalten Ende September / Anfang Oktober in Kenia
-Der Reisezeitraum vom 24.09. bis 12.10. liegt am Ende der langen Trockenzeit und am Beginn der kleinen Regenzeit im Rift Valley.
-Die dokumentierte Hauptbrutzeit des Blaustirn-Blatthühnchens dauert in Ostafrika von Juni bis Oktober, getriggert durch vorausgehende Niederschläge, die das Wachstum der Schwimmvegetation fördern6.
-Status: vermutet (basierend auf phänologischen Daten). Zu diesem exakten Zeitpunkt befindet sich die lokale Population in der späten Phase des Fortpflanzungszyklus. Beobachter werden mit hoher Wahrscheinlichkeit Männchen antreffen, die bereits halbwüchsige oder junge Küken aus den Monaten Juli und August führen.
-Paarungs- und Revierkämpfe der Weibchen finden in dieser Spätphase seltener statt als zu Beginn der Regenzeit, können jedoch bei Neuanlagen von Zweit- oder Drittbruten auftreten26.
+Lebensraum und Nahrung (Gesichert): Die Art ist obligat an offene, mesohaline bis hypersaline alkalische Flachwasserzonen (Sodaseen) gebunden5. Die Nahrung besteht fast ausschließlich aus dem Cyanobakterium Arthrospira fusiformis (historisch als Spirulina platensis bezeichnet), benthischen Kieselalgen (Diatomeen) sowie opportunistisch aus kleinen Insektenlarven, Rädertierchen (Rotifera) und Ruderfußkrebsen (Copepoda)4. Eine Kolonie am Lake Nakuru filtert bis zu 36 Tonnen Cyanobakterien pro Tag4.
+Sozialverhalten und Rhythmus (Gesichert): Zwergflamingos sind extrem gregär und bilden Schwärme, die über eine Million Individuen umfassen können5. Die Kommunikation erfolgt visuell durch das Abspreizen der Rücken- und Flügelfedern sowie akustisch über Rufe (ein hohes "kwirrik" im Flug und ein leises Murmeln "murrrh-murrrh-errh" bei der Nahrungssuche)18. Die Tiere sind sowohl tag- als auch nachtaktiv18. Nahrungssuche findet häufig am Tag statt, während weitreichende Migrationen (bis zu 500 km in einer Nacht, Fluggeschwindigkeit ca. 60 km/h) präferiert nachts in V-Formationen absolviert werden18.
+Fortpflanzung (Gesichert): Die Vögel führen eine monogame Saisonehe37. Die Balz erfolgt in Gruppen und umfasst ritualisierte, balletartige Tänze mit synchronisiertem Kopfschwenken und Marschieren4. Es wird ein einzelnes Ei in ein bis zu 30 cm hohes Schlammnest gelegt. Die Inkubation dauert 28 Tage und wird von beiden Elternteilen in 24-Stunden-Schichten übernommen7. Die Küken werden initial mit einer aus dem Kropf sezernierten Nährflüssigkeit ("crop milk") gefüttert, bevor sie im Alter von wenigen Tagen zu riesigen Kindergärten (Crèches) von bis zu 100.000 Jungtieren zusammengefasst werden. Diese Crèches legen teilweise Fußmärsche von bis zu 32 km zu Frischwasserquellen zurück15. Der bedeutendste, reguläre Brutplatz in Ostafrika ist der Lake Natron in Tansania15.
+Saisonale Muster (Konkret für Zeitraum 24.09. bis 12.10.2026 im Rift Valley) (Gesichert): Der Zwergflamingo ist ein Nomade, dessen Bewegungsmuster direkt an die Wasserpegel der Sodaseen gekoppelt ist19.
+Ende September (Ende der langen Trockenzeit): Die Seen weisen durch hohe Verdunstung maximale Alkalinität auf. Die Bedingungen für Arthrospira fusiformis sind optimal. Die Vögel konzentrieren sich in massiven, statischen Fressgemeinschaften ("boom" phase) an gut funktionierenden Seen38.
+Anfang Oktober (Beginn der kleinen Regenzeit): Mit einsetzendem Niederschlag steigt der Wasserpegel. Dies führt zu einer chemischen Verdünnung der Seen, was die Cyanobakterienblüte innerhalb von Tagen oder Wochen zusammenbrechen lässt ("bust" phase)38. Resultierendes Verhalten: Die Flamingos reagieren auf diese Verdünnung mit sofortigen, teils sprunghaften Abflügen in andere Teile des Seensystems. In dieser Phase des Umbruchs ist auf der Reiseroute (Nakuru, Bogoria, Naivasha/Oloidien) mit starken Fluktuationen, plötzlichen Abzügen großer Schwärme und einer Dispersionsphase zu rechnen38.
+Abhängigkeiten (Gesichert): Zwergflamingos fungieren als entscheidende Biomasse-Konverter. Arten wie der Marabu (Leptoptilos crumeniferus), verschiedene Geier, Schreiseeadler, Schakale, Karakale/Wildkatzen, Hyänen, Geparden, Löwen und Paviane hängen von ihnen als primäre Fleischquelle am alkalischen Seeufer ab4. Es besteht trotz räumlicher Nähe keine Nahrungskonkurrenz zum Rosaflamingo (Phoenicopterus roseus), da letzterer Schlamm nach größeren Organismen durchsucht4.
 5. Menschen und Kultur in Kenia
-Konflikte mit Menschen und Lebensraumveränderungen
-Das Überleben der Art hängt vollständig von der Qualität flacher Feuchtgebiete ab. In Kenia, insbesondere an den für die Reiseroute relevanten Seen im Rift Valley, ist diese Abhängigkeit durch menschliche Eingriffe massiv belastet (Status: gesichert).
-Lake Naivasha: Der See unterliegt einer extremen anthropogenen Nutzung, vornehmlich durch die dort angesiedelte Schnittblumen-Industrie (Blumenfarmen). Der massive Einsatz von Pestiziden und Düngemitteln, der in den See ausgewaschen wird, führt zu chemischer Verschmutzung und tangiert die aquatischen Nahrungsketten, auf die das Blatthühnchen angewiesen ist6. Gleichzeitig wurde die Biodiversität des Sees durch eingeführte Arten (Allodiversität) gravierend verändert. Der Rote Amerikanische Sumpfkrebs (Procambarus clarkii) und die aus Südamerika stammende Wasserhyazinthe (Eichhornia crassipes) wurden im 20. Jahrhundert eingeschleppt29. Die Wasserhyazinthe bildet dichte, geschlossene Teppiche, die native Pflanzen verdrängen. Bemerkenswerterweise hat sich das Blaustirn-Blatthühnchen an diese invasive Pflanze angepasst und nutzt die dichten Matten der Wasserhyazinthe als neues Lauf- und Nistsubstrat, was eine erzwungene ökologische Abhängigkeit von einem Neophyten darstellt29.
-Lake Nakuru: Als alkalischer See (Sodasee) bietet er im Hauptbecken keine geeignete Schwimmvegetation für das Blatthühnchen. Die Art weicht hier auf die Süßwasserzuflüsse und sogar auf menschliche Abwasseranlagen aus. Zählungen belegen das Vorkommen von Actophilornis africanus an den Nakuru Town Sewage Works (Kläranlagen) und den Njoro Sewage Ponds, wo das nährstoffreiche Wasser ein dichtes Pflanzen- und Insektenwachstum fördert14. Dies demonstriert eine hohe Adaptionsfähigkeit der Art an künstliche anthropogene Feuchtgebiete.
-Schutzstatus und Bestandszahlen
-Trotz der lokalen Habitatveränderungen gilt der globale Bestand als nicht gefährdet.
-Klassifizierung: Die IUCN Red List of Threatened Species stufte Actophilornis africanus bei der letzten Evaluierung im Jahr 2016 als "Least Concern" (nicht gefährdet) ein1.
-Bestand (2016): Die globale Populationsgröße wird auf rund 1.000.000 Individuen geschätzt. Der Populationstrend wird als stabil bewertet2.
-Nutzung, Mythos und Kultur
-Die wirtschaftliche Nutzung der Art (als Nahrung, für Medizin oder Handel) durch den Menschen findet nicht statt und ist aufgrund der geringen Körpergröße und der extremen Spezialisierung des Vogels als Subsistenzquelle in Ostafrika irrelevant35.
-Kulturelle Wahrnehmung (gesichert): Umgangssprachlich wird die Art im englischsprachigen Raum Afrikas oft als "Jesus bird" bezeichnet. Dieser Name resultiert aus der optischen Illusion, die entsteht, wenn der Vogel über untergetauchte Blätter läuft – es wirkt, als wandle er auf dem Wasser6. Darüber hinaus wird die Art in der modernen Ökologie als wertvolle Indikatorart (indicator species) betrachtet. Ihre bloße Anwesenheit signalisiert der lokalen Bevölkerung und Wissenschaftlern ein intaktes, gesundes Feuchtgebiet mit guter Wasserqualität und funktionierenden Insektenpopulationen6.
-Spezifische indigene Legenden, Riten oder Sprichwörter kenianischer Ethnien (Maa, Kikuyu etc.) sind in den zur Verfügung stehenden Quellen nicht dokumentiert (siehe Abschnitt 10).
+Bestandszahlen und Schutzstatus (Gesichert):
+Bestand: Die globale Population wurde im Jahr 2018 von der IUCN auf 2.220.000 bis 3.240.000 Individuen geschätzt18. Der Trend der Population ist abnehmend (decreasing)25.
+Status: Der Zwergflamingo wird auf der Roten Liste der IUCN (Assessment 2018) als potenziell gefährdet (Near Threatened, NT) eingestuft3.
+Konflikte mit Menschen und historische Ereignisse (Gesichert):
+Die Spezies ist in hohem Maße anfällig für anthropogene Eingriffe, da das Netzwerk an Sodaseen fragil ist.
+Massensterben (Mass die-offs): Historisch sind wiederholte, rapide Sterbewellen dokumentiert. Im späten Jahr 1973 verendeten hunderte Vögel am Lake Nakuru an einer Kombination aus Nahrungsknappheit und aviärer Tuberkulose. Ende 1993, Ende 1995 und Ende 1999 kam es an den kenianischen Seen Nakuru und Bogoria erneut zum Verenden von Zehntausenden Individuen1.
+Hydrologische Krisen (2010 bis 2022): Durch Landnutzungsänderungen (Abholzung im Einzugsgebiet) und erhöhte Niederschläge stiegen die Wasserpegel der Rift-Valley-Seen (Baringo, Nakuru, Naivasha) in den Jahren 2010 bis 2022 drastisch an38. Diese Fluten vertrieben Tausende Menschen, verstopften sublakustrine Abflüsse durch Sedimentation (Verschmutzung durch Bodenerosion) und verdünnten die Sodaseen. Der resultierende Rückgang des Chlorophyll-a ließ die Nahrungsgrundlage der Flamingos an traditionellen Standorten einbrechen38.
+Verschmutzung: Industrieabwässer, Pestizide und Schwermetalle (z.B. Blei, Kupfer, Zink) reichern sich in den abflusslosen Seen an. Dies kann zu toxischen Veränderungen der Cyanobakterien führen und gefährdet die Gesundheit der Filtrierer19.
+Rolle in Mythos, Sprichwort oder Ritual (Überliefert):
+Antike/Ägypten: In der Kultur des alten Ägyptens stellte die Silhouette eines Flamingos die Hieroglyphe für das Wort "rot" dar und galt zudem als Reinkarnation des Sonnengottes Ra18.
+Griechische Mythologie: Die etymologische Wurzel Phoinix manifestiert die historische Verbindung der Art zum Mythos des Feuervogels Phönix9.
+Kenia (Maa, Kikuyu, Samburu, Giriama, Kamba): Unbekannt. Zwar existieren in Kenia sogenannte Cultural Safaris zu den am Seeufer lebenden Maa- und Kikuyu-Gemeinschaften, jedoch liegen in der wissenschaftlichen oder ethnologischen Quellenbasis keine dokumentierten Mythen, Legenden, Rituale oder spezifischen Nutzungen (Fleisch, Medizin, Federn) durch diese kenianischen Ethnien vor45.
 6. Wissenschaftsgeschichte
-Die formelle Erfassung und Erforschung der Art vollzog sich in mehreren historischen Schritten, die von der reinen Klassifikation bis zur detaillierten Verhaltensforschung reichten (Status: gesichert).
-1785 (John Latham): Der englische Ornithologe beschreibt und illustriert die Art erstmals detailliert in seinem umfangreichen Werk A General Synopsis of Birds unter der groben Herkunftsangabe "Africa"1.
-1789 (Johann Friedrich Gmelin): Der deutsche Naturforscher und Botaniker liefert die erste formelle binominale wissenschaftliche Beschreibung. In seiner revidierten und stark erweiterten 13. Auflage von Carl von Linnés Systema Naturae ordnet er den Vogel in die Gattung Parra ein und prägt den Namen Parra africana1.
-1915 (Claude Grant): Der britische Ornithologe und Afrika-Experte schränkt die von Gmelin extrem weit gefasste Typuslokalität formell in einem Beitrag der Fachzeitschrift Ibis auf das geografische Gebiet "Äthiopien" ein, was taxonomisch bis heute Bestand hat1.
-1925 (Harry C. Oberholser): Der amerikanische Ornithologe führt die neue Gattung Actophilornis ein, in der das Blaustirn-Blatthühnchen und sein madagassischer Verwandter seither exklusiv geführt werden1.
-Kontroverse und moderne Studien zur Polyandrie:
-Das evolutionäre Rätsel der Geschlechterrollenumkehr bei den Jacanidae war Ende des 20. Jahrhunderts Gegenstand intensiver Forschung.
-1995: W.R. Tarboton veröffentlicht im ornithologischen Journal Ostrich die wegweisende Studie Polyandry in the African Jacana: The roles of male and female in the mating system. Er dokumentiert erstmals umfassend, dass die Weibchen der afrikanischen Art 1,68-mal schwerer sind als die Männchen und die aggressive Revierverteidigung übernehmen, während die Männchen brüten18.
-2004: Stephen T. Emlen und Peter H. Wrege erweitern dieses Verständnis durch ihre Arbeiten am südamerikanischen Gelbstirn-Blatthühnchen (Jacana jacana), in denen sie den intrasexuellen Wettbewerb zwischen Weibchen um die Männchen empirisch mit Körpermasse und Waffenlänge (Keratinsporne) korrelieren10. Diese Studien festigten das heutige biologische Standardwissen über die Familie.
-7. Fotografie
-Für Naturfotografen auf der Route durch das Rift Valley bietet das Blaustirn-Blatthühnchen exzellente, wenngleich technisch anspruchsvolle Motive.
-Standorte und Tageszeit (gesichert):
-Lake Baringo und Lake Naivasha: Dies sind die vielversprechendsten Kernhabitate. Die Vögel halten sich auf den dichten Teppichen aus Wasserhyazinthen und Seerosen auf36.
-Lake Nakuru: Hier sollte man die Ränder und Süßwassereinläufe (z. B. Mündung des Njoro River) absuchen, nicht die offenen, alkalischen Wasserflächen34.
-Hell's Gate National Park: Extrem geringe Wahrscheinlichkeit. Die Art kommt nur am Rand vor, wo der Nationalpark fast nahtlos in die Feuchtgebiete des Lake Naivasha übergeht. Tiefe Schluchten sind kein Habitat25.
-Tageszeit: Da die Art strikt tagaktiv ist, empfiehlt sich fotografisch das frühe Morgenlicht oder der späte Nachmittag, um die harten Reflexionen auf der feuchten Blattvegetation und dem Wasser zu minimieren2.
-Lohnendes Verhalten zum Abwarten:
-Gleaning (Futtersuche): Das langsame, fast bedächtige Absuchen der Blattoberflächen.
-Der Transportgriff: Da Ende September/Anfang Oktober späte Bruten geführt werden, lohnt das Warten auf Männchen, die sich bei Gefahr (z.B. Schatten von Greifvögeln) die Küken unter die Flügel klemmen. Sichtbar sind dann nur die überdimensionierten Füße der Küken im Brustgefieder2.
-Territoriale Drohgebärden: Weibchen, die mit aufgestellten, nach vorn gereckten Flügeln ihre Karplalsporne präsentieren10.
-Fluchtdistanz und Fehler: Eine exakte Fluchtdistanz in Metern ist in der Literatur nicht spezifiziert. Die Tiere tolerieren eine langsame, geräuschlose Annäherung vom Wasser aus in Kanus. Der häufigste Fehler (Status: gesichert) ist die direkte Annäherung mit Motorbooten; die Vögel reagieren darauf mit lauten, kreischenden Alarmrufen und raschem Auffliegen oder abruptem Abtauchen unter die Vegetation2.
-Objektivwahl und Richtwerte für Verschlusszeiten:
-Das 150 bis 600 mm Teleobjektiv ist das primäre Werkzeug der Wahl. Da der Vogel mit ca. 30 cm klein ist und flach auf dem Wasser agiert, ist maximale Brennweite nötig, um frame-füllende Aufnahmen ohne Störung des Tiers zu erzielen.
-Das 100 bis 400 mm Objektiv eignet sich hervorragend für "Bird-in-Habitat"-Aufnahmen, um die überproportionalen Füße im Kontext der massiven Seerosenblätter oder Wasserhyazinthen zu zeigen.
-Die kurzen Brennweiten (45 mm / 26 bis 60 mm) sind für die Art selbst ungeeignet, dienen aber der Dokumentation des Lake Naivasha Habitats (Weitwinkel der Wasserhyazinthen-Teppiche).
-Verschlusszeiten: Für die statische Futtersuche reicht ein Richtwert von 1/500 s. Bei Revierkämpfen, kurzen Sprints über das Wasser oder beim Flug (Fluggeschwindigkeit wird bei Jacanidae auf ca. 60 km/h bzw. 37 mph geschätzt) müssen zwingend 1/1250 s bis 1/2000 s vorgewählt werden, um die schnellen, wirbelnden Flügelschläge und die aufspritzenden Wassertropfen scharf einzufrieren35.
+Die Erforschung des Zwergflamingos ist geprägt von anatomischen Entdeckungen und rezenten phylogenetischen Debatten.
+
+Jahr
+	Forscher / Akteur
+	Wissenschaftliches Ereignis (Gesichert)
+
+1798
+	Étienne Geoffroy Saint-Hilaire
+	Erstbeschreibung der Art unter dem Basionym Phoenicopterus minor1.
+
+1869
+	George Robert Gray
+	Beschreibung der einzigartigen Schnabelmerkmale und Transfer der Art in die neu aufgestellte, monotypische Gattung Phoeniconaias1.
+
+1929 / 1932
+	Rich
+	Erste dokumentierte Beprobung von Algenpopulationen in Kenia, die das Wechselspiel von Anabaenopsis und Arthrospira erfasste48.
+
+1950er bis 1970er
+	Leslie H. Brown
+	Der schottisch-kenianische Ornithologe leistete Pionierarbeit. Er publizierte 1959 "The Mystery of the Flamingos", erforschte populationsdynamische Daten am Lake Nakuru und Bogoria und entdeckte (zusammen mit Root 1971) die zuvor unbekannten großen Brutgebiete (Lake Natron)4.
+
+1957
+	Penelope M. Jenkin (P.M. Jenkin)
+	Publikation der grundlegenden morphologischen Studie zur Funktionsweise des hochspezialisierten Filterapparates und Ausmessung der inneren und äußeren Lamellen (in Mikrometern)24.
+
+2014
+	Christopher R. Torres et al.
+	Publikation einer Kontroverse: Eine phylogenomische Studie zur Diversifikation (mtDNA und nDNA) datierte den Ursprung der Kronengruppe auf die Miozän-Pliozän-Grenze (ca. 3 bis 6 Mio. Jahre) und den Split der Flamingos und Lappentaucher in die Klade der "Metaves/Mirandornithes". Torres et al. forderten die Abschaffung der Gattung Phoeniconaias zugunsten von Phoenicoparrus14.
+7. Fotografie (Hinweise für die Route im Rift Valley)
+Die Verhaltensbiologie der Art und die Hydrologie der Seen diktieren die fotografischen Möglichkeiten auf der Route.
+Orte und Tageszeiten (Gesichert):
+Orte: Lake Nakuru, Lake Baringo und Lake Naivasha (Hell's Gate liegt am Naivasha-See). Ein entscheidender Ort ist Lake Oloidien, eine ehemalige, heute abgetrennte Bucht des Lake Naivasha. Durch Salinitätssteigerung (3 bis 6 ppt) zwischen 2006 und 2013 etablierte sich hier eine massive Arthrospira-Blüte, die Oloidien zu einem Mikroseesystem machte, das zeitweise bis zu 250.000 Zwergflamingos als Ausweich-Nahrungsraum diente34. Bei verdünnten Pegeln im Nakuru-See ist Oloidien der fotografische Ersatzort.
+Tageszeit: Sonnenaufgang und Sonnenuntergang (Golden Hour). Zu diesen Zeiten verstärkt das weiche Licht die rosa Pigmentierung des Gefieders und bietet ausreichend Kontrast zur Wasseroberfläche45.
+Verhalten und Objektiveinsatz (Gesichert):
+Lohnendes Verhalten: Das Abwarten auf synchronisierte Balzformationen, bei denen die Vögel aufgereiht marschieren, die Flügeldecken abspreizen und den Kopf schnell hin und her schwenken ("head-flagging"). Des Weiteren die Fütterung der Jungtiere und Formationsflüge (V-Formationen)19.
+Fluchtdistanz und Fehler: Zwergflamingos reagieren extrem empfindlich auf menschliche Störung (human disturbance) und laute Geräusche. Das Aufscheuchen durch schnelle Annäherung ist ein typischer Fehler19. Dieses sogenannte "Flushing" kostet die Vögel dringend benötigte metabolische Energie, die ihnen bei der Nahrungsbeschaffung fehlt38.
+Ausrüstung: Um die Fluchtdistanz nicht zu unterschreiten, sind die mitgeführten Teleobjektive 100 bis 400 mm sowie 150 bis 600 mm zwingend erforderlich, um Porträts und Verhaltensdetails wie den geknickten Schnabel im Wasser aufzunehmen45. Die kürzeren Brennweiten (45 mm sowie 26 bis 60 mm) sollten ausschließlich statisch vom Stativ eingesetzt werden, um landschaftliche Totale (z. B. das rosafarbene Uferband am Lake Oloidien) zu erfassen32.
+Verschlusszeiten: Die Vögel erreichen Fluggeschwindigkeiten von bis zu 60 km/h, was extrem kurze Verschlusszeiten erfordert, um Bewegungsunschärfe beim Abflug ("take-off") zu vermeiden19. Konkrete numerische Richtwerte (z.B. 1/2000s) sind in den vorliegenden wissenschaftlichen Quellen jedoch nicht spezifiziert (siehe Abschnitt 10).
 8. Links zum Weiterlesen und Sehen
-Fachliche Quellen
-https://www.iucnredlist.org/species/22693528/93410506 Offizieller Eintrag der Roten Liste der Weltnaturschutzunion mit detaillierten Daten zur globalen Populationsgröße, den Bestandsverläufen und den aktuellen ökologischen Gefährdungsursachen.2
-https://avibase.bsc-eoc.org/species.jsp?avibaseid=D16D486D Umfassende taxonomische Übersicht der Organisation Avibase, die alle historischen Synonyme (u.a. Parra africana), globale Checklisten-Revisionen und volksmundliche Namen strukturiert bündelt.4
-Fotos und Verbreitung
-https://commons.wikimedia.org/wiki/Actophilornis_africanus Sammlung frei nutzbarer Medien und Fotografien auf Wikimedia Commons, die verschiedene Altersstufen, das blaue Stirnschild und das Habitat (u.a. Lake Baringo) exzellent illustrieren.40
-https://www.gbif.org/taxon/9V63 Datenbank der Global Biodiversity Information Facility (GBIF), die eine interaktive Verbreitungskarte basierend auf gesicherten, georeferenzierten Sichtungen bietet.41
-Audio
-https://xeno-canto.org/651037 Globales Tonarchiv für Vogelrufe mit verifizierten Audioaufnahmen des Blaustirn-Blatthühnchens, die zur akustischen Vorbereitung und Identifikation (kreischende Alarmrufe) im Feld genutzt werden können.2
-https://www.birdphotos.com/cgi-bin/birdsounds.cgi?species=African%20Jacana Ergänzende Datenbank mit Spektrogrammen und Audio-Aufnahmen der charakteristischen Triumph- und Kommunikationsrufe der Art.42
+Fachliche Quelle (IUCN Red List): Die offizielle Einstufung des weltweiten Erhaltungszustands, der Populationsgröße und der Bedrohungen des Zwergflamingos durch die Weltnaturschutzunion. https://www.iucnredlist.org/details/22697369/018
+Fachliche Quelle (Forschungsartikel Jenkin, 1957): Die historische und anatomisch detaillierteste Primärquelle zur exakten Ausmessung des Schnabels und dem Filtermechanismus ("The filter-feeding and food of flamingoes"). https://royalsocietypublishing.org/rstb/article/240/674/401/112953/The-filter-feeding-and-food-of-flamingoes27
+Fachliche Quelle (Forschungsartikel Lake Oloidien, 2013): Studie zur ökologischen Transformation des Lake Oloidien (Naivasha) und seiner neuen Rolle als kritischer Futterplatz für bis zu 250.000 Zwergflamingos in Kenia. https://www.researchgate.net/publication/259288585_Mass_developments_of_a_small_sized_ecotype_of_Arthrospira_fusiformis_in_Lake_Oloidien_Kenya_a_new_feeding_ground_for_Lesser_Flamingos_in_East_Africa34
+Fotos (Wikimedia Commons): Eine kuratierte Sammlung offener Mediendateien, die das Erscheinungsbild, die Gefiederfärbung und das Schwarmverhalten in verschiedenen Habitaten visualisiert. https://commons.wikimedia.org/wiki/Category:Phoeniconaias52
+Tonaufnahme (xeno-canto): Eine Audiodatenbank mit konkreten, qualitätsgeprüften Feldaufnahmen der artspezifischen Rufe ("kwirrik" und "murrrh-murrrh-errh") des Zwergflamingos. https://xeno-canto.org/42949918
 9. Visuelle Beschreibung für eine Illustration
-The African Jacana presents a teardrop-shaped body roughly the size of a pigeon, positioned horizontally and balanced atop absurdly elongated, thin grey legs and toes that radiate outward over the water's surface like wire spokes. Its upper plumage is a rich, polished chestnut across the wings and torso, sharply contrasted by a stark white front neck and a distinct black stripe extending from the crown down the back of the neck and through the eye. The forehead is dominated by a flat, waxy, brilliant pale-blue frontal shield that seamlessly merges into a short, pointed blue beak, giving the bird a somewhat prehistoric, armored appearance.
-Detail Suggestions:
-An extreme close-up of the grey, scaled foot pressing onto a lily pad, emphasizing the hallux (hind claw) that extends backward in a rigidly straight line, averaging exactly 21 mm in length.
-The pale-blue frontal shield viewed from a three-quarter angle, highlighting the smooth, cartilaginous transition from the upper mandible to the crown, bordered posteriorly by a subtle, dark purple feather patch.
-A tiny, precocial chick rendered as a striped, buoyant ball of downy fluff with disproportionately enormous feet, peering out cautiously from beneath the father’s chestnut wing feathers.
-Cultural Vignette:
-A narrow, weathered wooden fishing pirogue (canoe) typical of the Lake Naivasha fisheries, resting motionless among dense, choking clusters of floating green water hyacinth and native water lilies, visually linking human economic presence to the jacana's increasingly fragile and altered wetland habitat.
-10. Was du nicht belegen konntest
-Folgende Parameter aus der ursprünglichen Aufgabenstellung ließen sich anhand der verfügbaren wissenschaftlichen, biologischen und lexikalischen Quellen nicht belastbar belegen und wurden zur Vermeidung von Spekulationen ausgelassen:
-Spezifische regionale Bezeichnungen: Es liegen in der Fachliteratur keine Belege für volksmundliche Namen in den Sprachen der Maa, Kikuyu, Samburu, Giriama oder Kamba vor. Die Belege beschränken sich auf Englisch, Deutsch, Swahili (Sile-maua) und Afrikaans (Grootlangtoon).
-Kulturelle Rituale und Überlieferungen: Abgesehen von dem Spitznamen "Jesus bird" (aufgrund des Laufens über Wasser) existieren keine dokumentierten Mythen, Sprichwörter, Legenden oder rituellen/medizinischen Nutzungen durch kenianische Bevölkerungsgruppen.
-Literarische Größenvergleiche: Die Quellen vergleichen die Größe des Vogels (bis 31 cm) nicht mit Objekten wie "Unterarm" oder "Fußballfeld". Der Vergleich mit einem handelsüblichen 30-Zentimeter-Lineal ist der einzige, der sich aus den Maßangaben präzise und sauber ableiten ließ.
-Exakte Fluchtdistanz: Ornithologische Felddaten beschreiben die Störempfindlichkeit gegenüber Booten nur qualitativ (Auffliegen, lautes Rufen, Abtauchen). Ein exakter empirischer Wert in Metern (z. B. "Fluchtdistanz 15 Meter") ist für diese Art nicht verzeichnet.
+The Lesser Flamingo presents a slender, boat-shaped torso elevated on absurdly long, hyper-delicate crimson legs that end in fully webbed, three-toed feet. Its sinuous, elongated neck arcs gracefully downward, supporting a specialized, dark maroon to blackish bill that features a distinct 90-degree downward bend halfway along its length. The plumage is a continuous wash of pale, chalky pinkish-white, which acts as a canvas for highly saturated, vibrant carmine patches concentrated along the upper wing coverts, contrasting sharply against the hidden, solid black primary flight feathers.
+Auge: The small, intense eye features a piercing yellow-orange iris, completely encircled by a bare, dark purplish-brown ring of facial skin that gives the bird a permanent, scowling expression.
+Schnabelstruktur (Inneres Detail): A microscopic view of the opened bill reveals the deep, triangular keel of the upper jaw lined tightly with fine, velvety platelets whose fringed edges cross the gape like a dense comb.
+Spur: A crisp footprint set into cracked, white alkaline mud, clearly delineating three forward-pointing toes connected by webbing, alongside a nearly imperceptible indentation from the vestigial hind toe (hallux).
+Kulturelle Vignette: A traditional, elongated wooden milk gourd (calabash) typically used by the Maasai, its surface burnished with red ochre and leather straps, resting on a stark white crust of sodium carbonate at the water's edge, visually echoing the bird’s crimson legs.
+10. Was nicht belegt werden konnte
+Um eine saubere Trennung zwischen Fakten und Annahmen zu gewährleisten, folgt die Auflistung der in der Abfrage verlangten Parameter, die auf Basis der vorliegenden Quellen nicht belastbar beantwortet werden konnten:
+Spezifische lokale Namen (Maa, Kikuyu, Samburu, Giriama, Kamba): Es konnten keine Namen, etymologischen Herleitungen oder sprachlichen Zuordnungen in den geforderten indigenen Sprachen verifiziert werden. Es ist lediglich der allgemeine Swahili-Name belegt.
+Kulturelle Rolle in Kenia (Nutzung, Mythos, Sprichwort, Ritual): Es existieren in den Quellen keine Belege dafür, dass lokale kenianische Gemeinschaften den Zwergflamingo als Material, Medizin, Nahrung oder in einem spezifischen traditionellen Ritual oder Sprichwort nutzen. Verweise auf Mythen beschränken sich ausschließlich auf das antike Ägypten und Griechenland.
+Fotografische Verschlusszeiten in absoluten Zahlen: Obwohl die schnelle Fluggeschwindigkeit (60 km/h) und das sprunghafte Abflugverhalten zwingend kurze Verschlusszeiten erfordern, nennt das zugrunde liegende wissenschaftliche und touristische Textmaterial keine exakten Kamerawerte (z. B. "1/2000 Sekunde").
+Lösungsansatz zur Zungenfrequenz: Der direkte Widerspruch in der Literatur zwischen 4 Pumpvorgängen pro Sekunde (nach Jenkin 1957) und 17 Pumpvorgängen pro Sekunde (spätere Quellen) konnte durch die Quellen nicht harmonisiert oder durch eine Primärstudie aufgeklärt werden.
+URLs für Verbreitungskarten und iNaturalist: Die explizit in den Snippets generierten Links für iNaturalist (https://www.inaturalist.org/taxa/4252-Phoeniconaias-minor) und GBIF (https://www.gbif.org/species/2481289) gaben in der Abfrage Fehlermeldungen (inaccessible) zurück und wurden daher zur Wahrung der geforderten Datenintegrität nicht in Abschnitt 8 aufgenommen.
 Referenzen
-African jacana - Wikipedia, https://en.wikipedia.org/wiki/African_jacana
-African Jacana - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/african-jacana
-Actophilornis africanus - African Jacana - asturnatura, https://www.asturnatura.com/en/nature/species/actophilornis-africanus
-Actophilornis africanus (African Jacana) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=D16D486D
-African jacana | bird - Britannica, https://www.britannica.com/animal/African-jacana
-African Jacana - Turkana Wildlife Safaris, https://turkanawildlifesafaris.com/african-jacana/
-African Jacana | Appearance, Diet, Habitat, Behavior, https://www.theanimalfacts.com/birds/african-jacana/
+Phoeniconaias minor - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/phoeniconaias-minor/?lang=en
+Phoeniconaias minor - Lesser Flamingo - asturnatura, https://www.asturnatura.com/en/nature/species/phoeniconaias-minor
+Lesser Flamingo- Phoeniconaias minor - Avibase, https://avibase.bsc-eoc.org/species.jsp?lang=EN&avibaseid=B06A9079584A8D53
+Zwergflamingo - Wikipedia, https://de.wikipedia.org/wiki/Zwergflamingo
+Phoenicopteriformes (Flamingos) - Encyclopedia.com, https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/phoenicopteriformes-flamingos
+Biology:Phoenicopteridae - HandWiki, https://handwiki.org/wiki/Biology:Phoenicopteridae
+Zwergflamingo - Zootier Lexikon, https://www.zootier-lexikon.org/voegel-aves/strausse-bis-flamingos/flamingos/zwergflamingo-phoeniconaias-minor
+the evolution of the flamingo's bill: integrating molecular and - UNCW, https://dl.uncw.edu/etd/2014-1/r1/torresc/christophertorres.pdf
+Flamingo - DOKUMEN.PUB, https://dokumen.pub/flamingo.html
+CASPPZT: Flamingo Chapter by TyThom1999 on DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT%3A-Flamingo-Chapter-1168679455
+Flamingos - Wikipedia, https://de.wikipedia.org/wiki/Flamingos
+Beyond the Big Five: Why East Africa's Flamingo Wetlands Matter, https://empoweredvoices.live/beyond-the-big-five-why-east-africas-flamingo-wetlands-matter-more-than-ever/
 List of birds of Kenya - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Kenya
-Lelieloper - Feiten, Dieet, Leefomgeving & Foto's op Animalia.bio, https://animalia.bio/nl/african-jacana
-SIZE DIMORPHISM, INTRASEXUAL COMPETITION, AND SEXUAL, https://bioone.org/journals/the-auk/volume-121/issue-2/0004-8038_2004_121_0391_SDICAS_2.0.CO_2/SIZE-DIMORPHISM-INTRASEXUAL-COMPETITION-AND-SEXUAL-SELECTION-IN-WATTLED-JACANA/10.1642/0004-8038%282004%29121%5B0391:SDICAS%5D2.0.CO%3B2.short
-CASPPZT: Wading Birds Chapter by TyThom1999 on DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT%3A-Wading-Birds-Chapter-1287556017
-https://www.featherbase.info/zh/species/actophilornis/africanus
-Honeyguide | Birdlife Zimbabwe, https://www.birdlifezimbabwe.org/wp/wp-content/uploads/2024/12/Honeyguide-702.pdf
-Ecology, conservation, and phylogenetic position of the Madagascar, https://www.tandfonline.com/doi/pdf/10.2989/00306525.2019.1662508
-African Jacana facts - Needles Lodge, https://www.needleslodge.com/blog/post/african-jacana-the-elegant-lily-trotter-of-the-low/
-LONGCLAW WHITE MILKWOOD - Greenheart, https://greenheart.co.za/wp-content/uploads/2021/10/AW_72.pdf
-African Jacana Animal Facts - Actophilornis africanus, https://a-z-animals.com/animals/african-jacana/
-(PDF) Incubation behaviour of the African jacana - ResearchGate, https://www.researchgate.net/publication/290893246_Incubation_behaviour_of_the_African_jacana
-Division of labour in parental care behaviour of a sex-role-reversed, https://www.researchgate.net/publication/222400371_Division_of_labour_in_parental_care_behaviour_of_a_sex-role-reversed_shorebird_the_wattled_jacana
-https://www.mdpi.com/2673-4133/7/2/54
-Sex Role Reversal and High Frequency of Social Polyandry in the, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.742588/full
-Defense of Eggs and Chicks in the Polyandrous Pheasant-Tailed, https://bioone.org/journalArticle/Download?urlId=10.1675%2F063.044.0311
-Male pheasant-tailed jacanas commit infanticides to avoid cuckoldry, https://www.researchgate.net/publication/263302391_Male_pheasant-tailed_jacanas_commit_infanticides_to_avoid_cuckoldry_when_paternity_of_eggs_is_doubtful
-Birds in Africa - Kaj Halberg, https://kajhalberg.dk/en/birds-in-africa/
-(PDF) The influence of geographic and morphometric factors on the, https://www.researchgate.net/publication/286933657_The_influence_of_geographic_and_morphometric_factors_on_the_distribution_of_water_bird_species_in_small_high_altitude_tropical_man_made_reservoirs_Central_Rift_Valley_Kenya
-Brood success of sex-role-reversed pheasant-tailed jacanas - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11061921/
-(PDF) Brood success of sex-role-reversed pheasant-tailed jacanas, https://www.researchgate.net/publication/380238327_Brood_success_of_sex-role-reversed_pheasant-tailed_jacanas_the_effects_of_social_polyandry_seasonality_and_male_mating_order
-Lake Naivasha, Kenya: Ecology, Society and Future - ResearchGate, https://www.researchgate.net/publication/232693916_Lake_Naivasha_Kenya_Ecology_Society_and_Future
-Lake Naivasha, Kenya: Ecology, Society and ... - BioOne Complete, https://bioone.org/journalArticle/Download?fullDOI=10.1608%2FFRJ-4.2.149
-Ecological impacts of biological invasions on native birds in Africa., https://open.uct.ac.za/bitstreams/e5a7dd14-c826-4639-a4bf-faeaf22d0e76/download
-A review of allodiversity in Lake Naivasha, Kenya - ResearchGate, https://www.researchgate.net/publication/224852502_A_review_of_allodiversity_in_Lake_Naivasha_Kenya_Developing_conservation_actions_to_protect_East_African_lakes_from_the_negative_impacts_of_alien_species
-Response of the waterbird community to floating pennywort, https://www.researchgate.net/publication/318198819_Response_of_the_waterbird_community_to_floating_pennywort_Hydrocotyle_ranunculoides_cover_at_Ngamo_dam_Antelope_Park_Zimbabwe
-Full text of "Wetlands (5th Edition) by William J. Mitsch, James G, https://archive.org/stream/Wetlands_5th_Edition_by_William_J._Mitsch_James_G._Gosselink/Wetlands_5th_Edition_by_William_J._Mitsch_James_G._Gosselink_djvu.txt
-July 2006 and January 2007 waterfowl census - ResearchGate, https://www.researchgate.net/publication/392738633_Waterbird_Monitoring_Programme_in_Kenya_July_2006_and_January_2007_waterfowl_census
-Jacana Animal Facts - Jacanidae, https://a-z-animals.com/animals/jacana/
-African Jacana (Actophilornis africanus) - Birdingplaces, https://www.birdingplaces.eu/nl/birds/3016
-Aves.no, https://aves.no/reiser_ornitologi/kenya03_specieslist.html
-Kenya - Avibase bird checklist, https://avibase.bsc-eoc.org/checklist.jsp?region=KE&list=howardmoore
-Bronze-winged Jacana - Metopidius indicus - A-Z Animals, https://a-z-animals.com/animals/bronze-winged-jacana/
-Actophilornis africanus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Actophilornis_africanus
-Actophilornis africanus - GBIF, https://www.gbif.org/taxon/9V63
-BirdPhotos.com Bird Calls, https://www.birdphotos.com/cgi-bin/birdsounds.cgi?species=African%20Jacana
+A multi-locus inference of the evolutionary diversification of extant, https://www.researchgate.net/publication/260442930_A_multi-locus_inference_of_the_evolutionary_diversification_of_extant_flamingos_Phoenicopteridae
+Lesser Flamingo - Bird watching in Mumbai, India - aladdin.st, https://www.aladdin.st/bird-watching/saarc/lesser-flamingo.html
+Environment | PDF | N Ox | Biofuel - Scribd, https://www.scribd.com/document/619167171/Environment-1
+(PDF) Flamingos: Behavior, Biology, and Relationship with Humans, https://www.researchgate.net/publication/321751540_Flamingos_Behavior_Biology_and_Relationship_with_Humans
+Zwergflamingo - Fakten, Ernährung, Lebensraum & Bilder ... - Animalia, https://animalia.bio/de/lesser-flamingo
+Lesser Flamingo - Oiseaux-Birds, https://www.oiseaux-birds.com/card-lesser-flamingo.html
+Lesser Flamingo Kenya - Turkana Wildlife Safaris, https://turkanawildlifesafaris.com/lesser-flamingo-kenya/
+Flamingos in Tanzania - Kenya safari, https://www.wildlifekenyasafari.com/flamingos-in-tanzania/
+Birding Portugal Flamingo Bird Watching Holiday, https://birdwatchingalentejo.com/flamingo-greater-flamingo-flamingo-comum-flamenco-comun/
+Flamingos: Facts and Information - Avian Report, https://avianreport.com/flamingos/
+Flamingo Husbandry Guidelines - ZooCentral, http://www.zoocentral.dk/uploads/4/9/7/5/49755431/flamingo_-_aza___eaza.pdf
+Lesser Flamingo - BirdLife South Africa, https://www.birdlife.org.za/red-data-book/red-list/lesser-flamingo/
+THE FILTER-FEEDING AND FOOD OF FL.,AMINGOES, https://people.ohio.edu/witmerl/Downloads/1957_Jenkin_flamingo_filter-feeding.pdf
+The filter-feeding and food of flamingoes (Phoenicopteri), https://royalsocietypublishing.org/rstb/article/240/674/401/112953/The-filter-feeding-and-food-of-flamingoes
+IDENTIFY LESSER FLAMINGO - WWT SLIMBRIDGE, http://www.slim-bridge.co.uk/lesser%20flamingo.html
+Lesser Flamingos: Descendants of Phoenix 3662581620, 978, https://dokumen.pub/lesser-flamingos-descendants-of-phoenix-3662581620-978-3662581629.html
+Handbook of Wild and Zoo Animals | PDF | Food Web - Scribd, https://www.scribd.com/document/306591654/Handbook-of-Wild-and-Zoo-Animals
+Mass developments of a small sized ecotype of Arthrospira, https://repository.embuni.ac.ke/bitstreams/7c1aa8a5-bb5e-4a52-a499-0ffdc4f8ba3a/download
+birding | A Bushsnob in Africa, https://bushsnob.com/tag/birding/
+Lake Nakuru's flamingo connection cycles of feast and famine in, https://www.saltworkconsultants.com/lake-nakuru-flamingo-connection-cycles-of-feast-and-famine-in-schizohaline-waters/
+(PDF) Mass developments of a small sized ecotype of Arthrospira, https://www.researchgate.net/publication/259288585_Mass_developments_of_a_small_sized_ecotype_of_Arthrospira_fusiformis_in_Lake_Oloidien_Kenya_a_new_feeding_ground_for_Lesser_Flamingos_in_East_Africa
+(PDF) Bill morphology of South American flamingos - ResearchGate, https://www.researchgate.net/publication/232673092_Bill_morphology_of_South_American_flamingos
+Flamingos use their L-shaped beak and morphing feet to induce, https://www.pankajrohilla.com/Publications/flamingo_paper.pdf
+The Greater Flamingo (Poyser Monographs) [1 ed.] 0713665629, https://ebin.pub/the-greater-flamingo-poyser-monographs-1nbsped-0713665629-9780713665628.html
+Pink on the Move: Mapping the Flamingo Lakes of East Africa, https://lakenakuru.org/pink-on-the-move-mapping-the-flamingo-lakes-of-east-africa/
+Lesser Flamingo | KuwaitBirds.org, https://www.kuwaitbirds.org/birds/lesser-flamingo
+Nairobi National Park Birds, https://nairobipark.org/nairobi-national-park-birds/
+Der Zwergflamingo und seine Verwandten - ResearchGate, https://www.researchgate.net/publication/325612241_Der_Zwergflamingo_und_seine_Verwandten
+Aquatic biodiversity and saline lakes: Lake Bogoria National, http://kenya-rift-lakes.org/downloads/Aquaticbiodiversity.pdf
+Linkages between land cover change, lake shrinkage, and, https://www.researchgate.net/publication/337849929_Linkages_between_land_cover_change_lake_shrinkage_and_sublacustrine_influence_determined_from_remote_sensing_of_select_Rift_Valley_Lakes_in_Kenya
+Vanishing Lakes and Threats to Lacustrine Biodiversity (Chapter 6), https://www.cambridge.org/core/books/freshwater-biodiversity/vanishing-lakes-and-threats-to-lacustrine-biodiversity/C7A2B4EB664038CDB35CFEDE6EB87D27
+Lake Elementaita Flamingos - Turkana Wildlife Safaris, https://turkanawildlifesafaris.com/lake-elementaita-flamingos/
+What is the Famous Flamingo Migration? - Kaara Adventures, https://kaaraadventures.com/kenya-safaris/what-is-the-famous-flamingo-migration/
+Lake Nakuru National Park – Msangai Adventure Safari, https://msangaiadventure.com/destinations/kenya/lake-nakuru-national-park/
+Mass developments of the cyanobacteria Anabaenopsis and, https://repository.embuni.ac.ke/server/api/core/bitstreams/5529a488-c086-400a-a6b0-2c79fb59cd2e/content
+Vielfalt und Evolution der Vögel Teil 5: Mirandornithes ... - Darwinator, https://internet-evoluzzer.de/vielfalt-und-evolution-der-voegel-teil-5-mirandornithes-und-otidimorphae/
+Food algae for Lesser Flamingos: a stocktaking, https://www.lakeriver.at/P/2016_Krienitz_et_al_Teubner-ESM_1_Sampling%20Sites.pdf
+Red-throated bee-eater (Merops bulocki) - Featherbase, https://www.featherbase.info/en/species/Merops/bulocki
+Category:Phoeniconaias - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Phoeniconaias
+Zwergflamingo - Fakten, Ernährung, Lebensraum & Bilder ... - Animalia, https://animalia.bio/de/lesser-flamingo?property=36
+https://xeno-canto.org/429499

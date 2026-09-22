@@ -1,181 +1,191 @@
-Forschungsbericht: Vachellia drepanolobium (Flötenakazie)
-1. Nomenklatur, Taxonomie und Etymologie
-Die systematische Einordnung der Art ist das Resultat phylogenetischer Analysen, die zu einer Aufspaltung der historischen Gattung Acacia führten. Die taxonomischen und linguistischen Daten stellen sich wie folgt dar:
-Lateinischer Name: Vachellia drepanolobium (Harms ex Y.Sjöstedt) P.J.H.Hurter (Status: gesichert)1.
-Synonyme: Acacia drepanolobium Harms ex Y.Sjöstedt, Acacia formicarum Harms, Acacia lathouwersii Staner (Status: gesichert)2.
-Etymologie (Taxon): Der Namenszusatz drepanolobium wird in den vorliegenden biologischen Beschreibungen nicht explizit etymologisch hergeleitet (Status: vermutet als fehlend in Primärliteratur). Anhand verzeichneter Trivialnamen anderer Sprachen – wie dem slowakischen "akácia kosákovitostruková" und dem chinesischen "鐮莢金合歡" – lässt sich die wörtliche Bedeutung "Sichelhülse" ableiten (Status: vermutet)3.
-Die Dokumentation von Trivialnamen weist eine hohe sprachliche Diversität auf. Da die Quellen keine wörtlichen Übersetzungen der afrikanischen Lokalsprachen liefern, bleibt die wörtliche Bedeutung dieser Bezeichnungen unbekannt (Status: gesichert als unbekannt).
+Der Marmor-Riedfrosch (Hyperolius viridiflavus): Taxonomische, physiologische und ökologische Daten
+1. Namen und Etymologie
+Der wissenschaftliche Name der Art lautet Hyperolius viridiflavus1. Die Nomenklatur und Etymologie basieren auf historischen Dokumentationen aus dem 19. Jahrhundert (Status: gesichert).
+Die Erstbeschreibung der Art erfolgte im Jahr 1841 durch die französischen Zoologen André Marie Constant Duméril und Gabriel Bibron unter dem Namen Eucnemis viridiflavus4. Im Jahr 1842 etablierte der deutsche Anatom und Zoologe Wilhelm von Rapp die Gattung Hyperolius, in welche die Art in der Folge überführt wurde8.
+Der Artname viridiflavus entstammt dem Lateinischen. Er setzt sich aus den Wörtern viridis (frisch, grün) und flavus (gelb, golden, goldfarben) zusammen11. Die genaue etymologische Herleitung des Gattungsnamens Hyperolius durch Wilhelm von Rapp ist in der vorliegenden wissenschaftlichen Literatur nicht zweifelsfrei dokumentiert (Status: unbekannt). Die Wurzeln des Wortes liegen im Griechischen, die wörtliche Bedeutung im spezifischen Kontext der Erstbeschreibung lässt sich jedoch nicht belegen10.
+Im deutschen Sprachraum haben sich die Bezeichnungen „Marmor-Riedfrosch“ und „Gewöhnlicher Riedfrosch“ etabliert4. Der englische Trivialname lautet „Common Reed Frog“4. Spezifische lokale Namen in den Sprachen Swahili, Maa, Kikuyu, Samburu, Giriama oder Kamba sowie deren wörtliche Bedeutungen sind in den verfügbaren herpetologischen und ethnozoologischen Datenbanken nicht verzeichnet (Status: unbekannt)15.
+2. Erscheinung und Maße
+Die Art zeichnet sich durch einen halbzylindrischen Körperbau mit einem schmalen Kopf und einer stumpfen Schnauze aus16. Die Gliedmaßen sind lang und schmal. Finger und Zehen verfügen über zirkummarginale Haftscheiben, an den Zehen ist eine extensive Schwimmhautbildung dokumentiert16. Ein äußerer Metatarsaltuberkel (Fersenhöcker) ist nicht vorhanden17. Die Augen weisen horizontal elliptische Pupillen auf16.
+Es liegt ein dokumentierter Sexualdimorphismus vor. Männchen besitzen eine mediane, subgulare Schallblase (Vokalsack) mit einer ausgeprägten Kehlklappe (Gular flap). Weibchen weisen an dieser Stelle eine querverlaufende Kehlfalte auf16. Weibchen erreichen durchschnittlich eine größere Körperlänge als Männchen16.
+Morphometrische Daten
+Die folgenden Maße sind für die Art Hyperolius viridiflavus dokumentiert (Status: gesichert):
 
-Sprache / Ethnie
-	Trivialname(n)
-	Belegstatus und Anmerkungen
+Parameter
+	Männchen
+	Weibchen
+	Jungtiere (nach Metamorphose)
 
-Deutsch
-	Flötenakazie
-	Gesichert.
+Körperlänge (SVL)
+	23 bis 29 mm16
+	24 bis 32 mm16
+	12 bis 15 mm16
 
-Englisch
-	Whistling thorn, whistling thorn acacia, black-galled acacia, ant-galled acacia
-	Gesichert1.
-
-Swahili
-	Mbalibali
-	Gesichert3.
-
-Maa (Maasai)
-	eluai, eluaai, iluaa (Plural), ol-kine lo luai, e-merumori, e-ronkan, o-luai
-	Gesichert4.
-
-Kikuyu
-	muruai, ruai, muthi, murera
-	Gesichert (muruai, ruai, murera)3; Umstritten (muthi), da die Bezeichnung auch für andere Bäume genutzt wird8.
-
-Samburu
-	luai, luoi
-	Gesichert4.
-
-Kamba
-	kiunga, iunga (Plural), muthi, mulela
-	Gesichert4.
-
-Luo
-	dunga, adugo, dugna, oduga
-	Gesichert4.
-
-Giriama
-	msemeri, munga, muhegakululu
-	Umstritten (die Quelle listet diese Namen in einem breiteren Acacia-Kontext, die artspezifische Trennschärfe fehlt)4.
-2. Phänotypische Erscheinung und Maße
-Vachellia drepanolobium ist eine dornige Gehölzpflanze, die in Wuchsformen als Busch, Strauch oder kleiner Baum auftritt (Status: gesichert)4.
-Die Wuchshöhe erreicht maximal 6,0 Meter, wobei die Pflanzen am häufigsten als Sträucher mit einer Höhe von 1,5 bis 3,5 Metern auftreten (Status: gesichert)1. Zum Alltagsvergleich: Eine Wuchshöhe von 1,5 bis 3,5 Metern entspricht der einfachen bis knapp zweifachen Höhe einer standardisierten Zimmertür (Status: rechnerisch abgeleitet). Die Baumkrone ist offen, ausladend und nimmt bei ausgewachsenen Exemplaren eine abgeflachte Form ("flat-topped") an (Status: gesichert)4. Die Borke ist überwiegend grau und glatt; bei älteren Exemplaren ist die Rinde fein rissig strukturiert (Status: gesichert)4. Das Holz des Stammes weist in der Regel einen geringen Durchmesser auf, ist jedoch hart und resistent gegen Termiten (Status: gesichert)1.
-Das Blattwerk ist wechselständig und doppelt gefiedert (bipinnat) angeordnet (Status: gesichert)10. An der Basis der Blätter befinden sich extraflorale Nektardrüsen, die kohlenhydratreiche Sekrete absondern (Status: gesichert)1. Die Blüten sind zwittrig und wachsen aus den Blattachseln; sie bilden kugelförmige (capitate) Köpfe von gelber bis cremeweißer Farbe (Status: gesichert)10. Als Früchte produziert die Pflanze schmale, rötlich-braune Hülsenfrüchte (Status: gesichert)4.
-An jedem Astknotenpunkt bildet die Pflanze ein Paar gerader, weißer Dornen aus (Status: gesichert)1. Bei etwa jedem fünften Dornenpaar ist die Basis zu einer hohlen, knollenartigen Struktur – einem Domatium (Galle) – verdickt (Status: gesichert)1. Die Ontogenese dieser Gallen verläuft in definierten Phasen: Im frühen Wachstumsstadium sind die Gallen weich, fleischig, mit Flüssigkeit gefüllt und von dunkelgrüner Farbe. Mit zunehmender Reifung wechseln sie zu einem rötlichen Violett. In diesem Stadium bohren symbiotische Ameisen Ein- und Ausgangslöcher an der Dornenbasis und höhlen die Gallen aus. Im Endstadium verhärten die Gallen, werden faserig und nehmen eine dunkelgraue bis schwarze Färbung an (Status: gesichert)4. Die Gallen erreichen einen Durchmesser von bis zu 5,0 Zentimetern, was etwa dem Durchmesser eines Golfballs entspricht (Status: gesichert / rechnerisch abgeleitet)4. Der Trivialname "Flötenakazie" leitet sich von dem akustischen Phänomen ab, das entsteht, wenn Wind über diese hohlen, perforierten Gallen streicht und ein pfeifendes Geräusch erzeugt (Status: gesichert)1.
-3. Ökologische Mechanismen: Myrmekophytie, Sabotage und Störungskaskaden
-Das fundamentale biologische Prinzip von Vachellia drepanolobium ist die Myrmekophytie, eine mutualistische Symbiose mit Ameisen. Die Pflanze stellt durch ihre hohlen Dornen (Domatien) Nistraum und durch extraflorale Nektarien Nahrung zur Verfügung. Im Gegenzug verteidigen die Ameisen den Baum vor herbivoren Säugetieren und Insekten (Status: gesichert)1.
-Vier Ameisenarten der Gattungen Crematogaster und Tetraponera konkurrieren um die exklusive Besiedlung einzelner Bäume. Es existiert eine strikte Dominanzhierarchie (Crematogaster sjostedti > Crematogaster mimosae > Crematogaster nigriceps > Tetraponera penzigi). Die Besiedlung ist dynamisch; auf 8 bis 10 % der Bäume findet jährlich ein Übergang zwischen den Arten statt (Status: gesichert)15.
-
-Ameisenart
-	Besiedlungsanteil
-	Verhalten und Auswirkung auf die Wirtspflanze
-	Ökologischer Status
-
-Crematogaster mimosae
-	ca. 50 % bis 52 %
-	Aggressive Verteidigung gegen Herbivore. Nutzt Gallen als Nistplatz und Nektar als Nahrung. Fördert in Symbiose schildlausartige Insekten (Coccidae). Erhöht die Kohlenstofffixierung des Baumes signifikant.
-	Starker Mutualist (gesichert)1.
-
-Tetraponera penzigi
-	ca. 17 %
-	Moderat defensive, monogyne Art mit schmaler Körpergestalt. Zerstört sämtliche Nektardrüsen des Wirtsbaumes und bohrt extrem kleine Eingangslöcher in die Gallen, was physische Übernahmen durch größere Konkurrenten erschwert ("Prioritätseffekte"). Baut stattdessen Pilze im Inneren der Gallen an. Erhöht ebenfalls die Kohlenstofffixierung des Baumes.
-	Mutualist durch Sabotage (gesichert)11.
-
-Crematogaster sjostedti
-	ca. 16 %
-	Schwache Verteidigung. Nistet nicht in den pflanzlichen Gallen, sondern in durch Bockkäferlarven (Cerambycidae) erzeugten Fraßgängen im Stamm. Fördert diesen Käferbefall aktiv. Führt zu verringerter Kohlenstofffixierung, langsamerem Baumwachstum und signifikant höherer Baummortalität.
-	Parasit / Antagonist (gesichert)1.
-
-Crematogaster nigriceps
-	ca. 15 %
-	Aggressive Verteidigung. Praktiziert zweifaches "Pruning" (Beschneiden): Zerstört axillare Meristeme, was zur Sterilisation (Kastration) der Blütenproduktion führt, wodurch die Pflanze mehr Energie in die Bildung von Gallen lenkt. Zerstört zudem gezielt apikale Meristeme (Triebspitzen), um ein physisches Überlappen der Äste mit Bäumen dominanterer Konkurrenten zu verhindern.
-	Mutualist / Parasit (gesichert)11.
-Die ökologische Kausalkette der Exklusion großer Pflanzenfresser
-Die Stabilität dieser Symbiose hängt untrennbar von der Präsenz großer Pflanzenfresser ab. Dies wurde im "Kenya Long-Term Exclosure Experiment" (KLEE) durch Palmer, Pringle und Stanton quantifiziert. Die ökologische Kausalkette stellt sich wie folgt dar (Status: gesichert)1:
-Ausschluss: Wilde Herbivore mit einer Körpermasse von >15 kg wurden über einen Zeitraum von 10 Jahren experimentell durch Zäune von V. drepanolobium-Beständen ferngehalten11.
-Pflanzliche Ressourcenallokation: In Abwesenheit von Fraßdruck reduzierten die Bäume die Produktion von extrafloralen Nektarien und geschwollenen Dornen, da die energetisch aufwendige Erhaltung der Ameisenkolonien nicht mehr adaptiv war1.
-Kompensation und Rückgang des Mutualisten: Der stark mutualistische C. mimosae verlor seine Nahrungsgrundlage und Nistplätze. Als Kompensation steigerte diese Art die Aufzucht von Pflanzensaft-saugenden Schildläusen, verlor jedoch signifikant an Besiedlungspräsenz auf den Bäumen1.
-Parasitäre Übernahme: Crematogaster sjostedti, die nicht auf Gallen und pflanzlichen Nektar angewiesen ist, profitierte von der Schwächung der Konkurrenz. Ihre Besiedlungsquote auf den Bäumen verdoppelte sich1.
-Erhöhte Mortalität: Die Dominanz von C. sjostedti führte zu einem Anstieg der durch Bockkäferlarven verursachten Stammschäden. Die Wachstumsrate der Bäume verlangsamte sich, und die Mortalitätsrate (Sterblichkeit) verdoppelte sich im Vergleich zu Bäumen, die weiterhin von C. mimosae besiedelt wurden11. Die Abwesenheit von Herbivoren führt paradoxerweise zu einer Verschlechterung der Baumgesundheit.
-Die Kausalkette der Invasionsbiologie
-Ein zweiter Störungsmechanismus betrifft die Invasion der nicht-heimischen Großkopfameise (Pheidole megacephala). Diese Kausalkette formt das gesamte Raubtier-Beute-Gefüge der Savanne um (Status: gesichert)23:
-Invasion: Pheidole megacephala breitet sich mit einer Rate von etwa 50 Metern pro Jahr aus und eliminiert die einheimischen Akazienameisen vollständig innerhalb von Stunden bis wenigen Tagen23.
-Verlust der Abwehr: Ohne die beißenden und stechenden mutualistischen Ameisen verliert V. drepanolobium seine primäre Verteidigung23.
-Fraßdruck durch Megaherbivore: Afrikanische Elefanten (Loxodonta africana) weiden die nun schutzlosen Bäume mit fünffach bis siebenfach erhöhter Intensität ab. Dabei entfernen sie zwischen 10 % und 100 % der Baumkrone, brechen Äste und zerstören teilweise ganze Pflanzen23.
-Landschaftsmodifikation: Die Zerstörung der Kronendächer führt zu einer signifikant verringerten Baumdichte und einer deutlich erhöhten Sichtweite (Sichtfeld) innerhalb des Savannen-Ökosystems23.
-Raubtier-Beute-Interaktion: Löwen (Panthera leo), deren Jagdstrategie auf der physischen Deckung durch dichte Gehölzbestände basiert, verlieren diesen strukturellen Vorteil. In den von der Großkopfameise invadierten Gebieten sinkt der Jagderfolg der Löwen auf ihre Hauptbeute, das Steppenzebra (Equus quagga), signifikant ab, obgleich die absolute Anzahl der Löwen im Gebiet nicht gesunken ist23.
-4. Ökologie, Phänologie und Verhalten
-Vachellia drepanolobium wächst als dominante Art im Hochland Ostafrikas, primär in Höhenlagen zwischen 1.300 und 2.400 Metern. Sie besiedelt fast ausschließlich sogenannte "Black Cotton Soils" (Vertisole), schwere Tonböden mit stark eingeschränkter Drainage (Status: gesichert)1. In diesen Habitaten bildet sie weitgehend monodominante Wälder (Monokulturen), da sie als einzige Vachellia-Art auf diesen Böden wachsen kann (Status: gesichert)1. Die Art gilt als feuerresistent und treibt nach Bränden durch basale Stockausschläge (Coppicing) wieder aus (Status: gesichert)1.
-In Bezug auf den Reisezeitraum Ende September bis Anfang Oktober (Ende der langen Trockenzeit, Beginn der kleinen Regenzeit) weist die Art ein spezifisches phänologisches Muster auf. Die Zeit des Aufplatzens der Staubbeutel (Dehiszenz) und der Freigabe von Pollen wird unmittelbar von der Mikro-Klimatologie, spezifisch der relativen Luftfeuchtigkeit, gesteuert. Die intraspezifische Pollenverfügbarkeit von V. drepanolobium gipfelt später am Tag als bei sympatrischen Arten (z. B. V. nilotica oder V. tortilis), um Konkurrenz um Bestäuber zu vermeiden. An Tagen mit höherer relativer Luftfeuchtigkeit verzögert sich der Zeitpunkt der Pollenfreigabe weiter (Status: gesichert)28.
-Das Ökosystem um den Baum unterhält diverse tierische Abhängigkeiten:
-Große Herbivore: Giraffen (z. B. Netzgiraffen, Giraffa camelopardalis reticulata) fressen selektiv die Blätter, obwohl der Baum durch Dornen und Ameisen verteidigt wird (Status: gesichert)1.
-Avifauna: Der seltene Fox-Weber (Ploceus spekeoides) nutzt V. drepanolobium in nordöstlichen Regionen Ugandas als ausschließliches Bruthabitat. Nester wurden ausschließlich in dieser Baumart dokumentiert (12 Nester, 16 Individuen in einer Erhebung). Es wird angenommen, dass der Vogel von den Ameisen als Schutz gegen Nesträuber profitiert und sich von diesen ernährt (Status: gesichert / vermutet bezüglich Prädationsschutz)31.
-Primaten: Der vom Aussterben bedrohte Südliche Husarenaffe (Erythrocebus baumstarki) bewohnt primär Habitate, die von V. drepanolobium dominiert werden (Status: gesichert)32.
-5. Anthropogene Nutzung und kulturelle Bedeutung in Kenia
-Die Nutzung durch den Menschen ist vielschichtig, birgt jedoch gleichzeitig ein hohes Konfliktpotenzial im Bereich der Weidewirtschaft.
-Nahrung: Sehr junge, grüne Gallen (Domatien) sind essbar und weisen einen süßlichen, teils leicht bitteren Geschmack auf. Sie werden von lokalen Hirten gekaut. Die faserige Rinde im Stamminneren wird ebenfalls gekaut und besitzt einen vergleichbar süß-bitteren Geschmack (dokumentiert im Machakos-Distrikt bei den Kamba) (Status: gesichert)4.
-Medizin: Bei der Ethnie der Maasai (dokumentiert im Gebiet Mailua, Trockenregion, 1.300 m Höhe) werden Bestandteile des Baumes für traditionelle Heilverfahren genutzt (Status: überliefert)6:
-Die Rinde wird verwendet, um den Appetit anzuregen, Magenschmerzen zu behandeln, den "Blutgehalt" zu steiguern und die allgemeine Gesundheit zu fördern.
-Die Wurzeln werden zur Zubereitung einer Suppe ("Motorik") ausgekocht, welche die Verdauung von Fleisch erleichtern soll.
-Material und Brennstoff: Das harte, kleine Holz wird für die Konstruktion von Zäunen sowie zur Herstellung von Werkzeugstielen und anderen landwirtschaftlichen Geräten verwendet. Die Äste werden als Anzündholz genutzt. Da die Pflanze nach dem Schnitt schnell wieder ausschlägt (Coppicing), wird sie als nachhaltige Quelle für Brennholz und zur Holzkohleproduktion verwendet. Das austretende Harz (Gummi) wird teilweise gesammelt und als Klebstoff verarbeitet (Status: gesichert)1.
-Konflikte (Bush Encroachment): In Gebieten der Weidewirtschaft wird V. drepanolobium zunehmend als Unkraut eingestuft. Durch Dürreperioden, die Unterdrückung natürlicher Brände und eine intensive Überweidung von Gräsern durch Nutztiere breiten sich die Bäume als "bush encroachment species" (Verbuschungsart) massiv aus. Dies bedroht die subsistenzielle Viehwirtschaft von Nomadenvölkern, da die Bäume das für Rinder benötigte Grasland verdrängen (Status: gesichert)1. Auch im Naturschutz ist diese Ausbreitung konfliktbehaftet: Auf der Liben-Ebene in Südäthiopien führt die Einengung des Lebensraums durch V. drepanolobium in Kombination mit Ackerbau zum drastischen Bestandsrückgang der stark gefährdeten Liben-Lerche (Heteromirafra archeri) (Status: gesichert)34.
-Schutzstatus und Bestand: Die Art ist in der Roten Liste der IUCN (Assessment-Kategorie 2024-1) als "Least Concern" (Nicht gefährdet) gelistet (Status: gesichert)35. Die globalen Bestandszahlen gelten als stabil bis zunehmend, weshalb in einigen Regionen Ausdünnungsprogramme gefördert werden36. Mythen, Überlieferungen zu Schöpfungsgeschichten oder rituelle Tänze sind in den Quellen nicht belegt (Status: vermutet als nicht vorhanden oder nicht dokumentiert).
+Körpergewicht
+	ca. 1,5 g18
+	Keine exakten Daten
+	0,2 g (bzw. 200 bis 700 mg vor der Trockenzeit)16
+Alltagsvergleich (Status: rechnerisch ermittelt): Eine Körperlänge von 23 bis 32 mm entspricht in der Größenordnung exakt dem Durchmesser einer 1-Euro- (23,25 mm) bis 2-Euro-Münze (25,75 mm) und ist geringfügig kleiner als das Zifferblatt einer handelsüblichen Armbanduhr (35 bis 40 mm).
+Farbgebung und Polymorphismus
+Die Art weist einen ausgeprägten Polymorphismus (Vielgestaltigkeit) in der Färbung auf, der von der Literatur als einer der variabelsten innerhalb der Wirbeltiere quantifiziert wird17. Zudem ist die Fähigkeit zur Metachrose (aktiver Farbwechsel) dokumentiert16. Die Farbe ändert sich im Tagesverlauf in Abhängigkeit von Temperatur, Luftfeuchtigkeit, Lichtintensität und physiologischem Stress16.
+Nachtfärbung: Einheitlich beige16.
+Tagesfärbung (Regenzeit): Die Grundfarbe variiert zwischen Beige, Gelb und Orange. Auf den Flanken sind häufig dunkle Markierungen vorhanden16.
+Jungtiere (Phase J): Beige Grundfarbe mit einem dunklen Lateralstreifen, der von der Schnauze bis zur Kloake verläuft16.
+Trockenzeitfärbung (Aestivation): Bei Temperaturen über 35 bis 39 °C nimmt die dorsale Haut eine stark reflektierende weiße Farbe an. Die Haut an der Beckenregion und an den Innenseiten der Gliedmaßen erscheint hellrot. Diese Färbung resultiert aus einem darunterliegenden, durchscheinenden Kapillarnetzwerk16.
+3. Der Mechanismus
+Die Art Hyperolius viridiflavus wird durch zwei spezifische biologische Prinzipien definiert: eine biochemische Adaptation an extreme Aridität und einen dokumentierten Geschlechtswechsel (Status: im Labor gesichert).
+3.1. Trockenstarre (Aestivation) und Iridophoren-Verdickung
+Im Gegensatz zu anderen Amphibien suchen juvenile Riedfrösche während der Trockenzeit keinen mikroklimatisch günstigen Unterschlupf (z. B. im Erdboden). Sie verharren exponiert und der direkten Sonneneinstrahlung ausgesetzt an trockenen Pflanzen16. Dieser Mechanismus wurde in den Jahren 1986 bis 1995 insbesondere durch die Forscher K. E. Linsenmair, F. Kobelt und R. Schmuck quantifiziert19.
+Die ökologische Kausalkette der Adaptation verläuft wie folgt:
+Einsetzen der Trockenzeit (Auslöser): Die Temperaturen steigen auf über 35 bis 38 °C22.
+Mechanische Abdichtung: Der Frosch nimmt eine kauernde Haltung ein. Die Gliedmaßen werden eng an den Körper gepresst, und die Füße werden unter Hautfalten verborgen16. Getrocknete Hautdrüsensekrete (mucus seal) fixieren das Tier am Untergrund und versiegeln die Hautoberfläche16.
+Reduktion des Wasserverlusts: Der evaporative Wasserverlust (EWL) sinkt auf 1,2 % des Körpergewichts pro Tag23. Die Hautatmung wird vollständig eingestellt; der Gasaustausch erfolgt ausschließlich über die Lunge. Dieser pulmonale Gasaustausch ist für 14,9 % (± 8,9 %) des verbleibenden Wasserverlusts verantwortlich23.
+Strahlungslast und Purinsynthese: Durch das Ausbleiben der evaporativen Kühlung droht eine letale Überhitzung durch die solare Strahlungslast (Solar Radiation Load, SRL)19. Um dies zu kompensieren, synthetisiert der Organismus Purinkristalle. Diese bestehen zu 85 bis 92 % aus Guanin und zu 8 bis 15 % aus Hypoxanthin19.
+Verdickung des Stratum spongiosum: Die Purinkristalle werden in spezialisierten Zellen, den Iridophoren, eingelagert. Die Dicke dieser Iridophorenschicht wächst von 15 µm (entsprechend 1 bis 2 Zellschichten) auf bis zu 80 µm (entsprechend 4 bis 6 Zellschichten) an22. Etwa 30 Schichten von exakt angeordneten Kristallen bilden sich, die parallel zur Hautoberfläche ausgerichtet sind22.
+Reflexion und Thermoregulation: Die parallele Ausrichtung der Kristalle fungiert physikalisch als Viertelwellenlängen-Interferenzreflektor22. Die Hautfärbung wechselt zu Weiß und reflektiert bis zu 60 % der solaren Einstrahlung im Spektrum von 300 bis 2900 nm22. Dadurch wird das kritische thermische Maximum (CTM), bei dem Muskelspasmen und der Hitzetod eintreten, auf 43 bis 44 °C angehoben23.
+Stickstoffmetabolismus (Osmoregulation): Während der mehrmonatigen Aestivation setzt der Frosch weder Urin noch Kot ab23. Toxischer Ammoniak aus dem Stoffwechsel wird in Harnstoff und anschließend primär in Purine umgewandelt. Diese Einlagerung in der Haut verhindert einen Anstieg der Plasma-Osmolarität, der bei einer reinen Harnstoff-Akkumulation zu osmotischem Stress und zellulären Schäden führen würde19.
+Rehydratation: Bei Niederschlag löst sich die Schleimversiegelung. Die unpigmentierten, vaskularisierten Hautareale an Bauch und Beininnenseiten ermöglichen eine Wasseraufnahme von 69,3 % (± 19,4 %) des eigenen Körpergewichts pro Stunde23. Der Organismus toleriert einen temporären Verlust von bis zu 50 % des ursprünglichen Körpergewichts16.
+3.2. Protogyner Geschlechtswechsel (Sequential Hermaphroditism)
+Ein weiteres dokumentiertes Prinzip ist der weiblich-zu-männliche Geschlechtswechsel, erforscht durch T. U. Grafe und K. E. Linsenmair im Jahr 1989 an der Unterart Hyperolius viridiflavus ommatostictus14.
+Unter Laborbedingungen (Status: im Labor gesichert) wandelten sich 7 von 24 adulten Weibchen in Männchen um20. Dieser physiologische Prozess vollzog sich ohne die experimentelle Zugabe von Hormonen20. Die umgewandelten Männchen (sekundäre Männchen) zeigten ein voll funktionsfähiges Fortpflanzungsverhalten; sie produzierten Spermien (Spermatogenese) und befruchteten erfolgreich Gelege20. In morphometrischen Parametern unterschieden sich primäre und sekundäre Männchen nicht signifikant32.
+Erklärungsansatz: Die evolutionäre Funktion wird in der Maximierung des reproduktiven Erfolgs in stark fluktuierenden Habitaten vermutet, in denen die Geschlechterverhältnisse durch externe Umweltfaktoren verzerrt werden können20. Widerspruch/Diskurs: Während die Labordaten als quantifiziert gelten, wird in der Literatur betont, dass ein Beleg für das Eintreten dieses Mechanismus in freier Wildbahn bisher fehlt. Dort gilt der Vorgang als umstritten oder wird lediglich vermutet14.
+4. Ökologie und Verhalten
+Lebensraum und Ernährung
+Die Art bewohnt tropische Savannen, Strauchsavannen, temporäre und permanente Feuchtgebiete, Sümpfe sowie die Ufervegetation von Seen und Flüssen16. Das vertikale Verbreitungsgebiet reicht von 250 Metern bis auf 2400 Meter über dem Meeresspiegel16. Eine Anpassung an anthropogen genutzte Flächen (Agrarland, Gärten) ist dokumentiert30.
+Adulte Exemplare ernähren sich insektivor. Zu den nachgewiesenen Beuteorganismen gehören Fliegen der Gattungen Drosophila, Musca, Phormia, Lucilia und Calliphora16. Die freischwimmenden Larven (Kaulquappen) ernähren sich primär herbivor von Algen30.
+Räuber-Beute-Dynamik
+Die Population der Riedfrösche dient mehreren Raubtierarten als Nahrungsquelle. Zu den dokumentierten Prädatoren adulter Tiere zählen Vögel, kleinere Säugetiere, die Wasserschlange Lycodonomorphus rufulus sowie Webspinnen der Gattung Nilus30. Die Larvenstadien unterliegen der Prädation durch Fische, Wasserschildkröten, Libellenlarven und Käferlarven30.
+Fortpflanzung und Bioakustik
+Die Fortpflanzungsperiode korreliert mit der Regenzeit16. Das Fortpflanzungssystem wird als Lek-System klassifiziert16. Männchen aggregieren in der Zeit von der Abenddämmerung bis Mitternacht in der aufstrebenden Vegetation an temporären Gewässern16. Sie besetzen Reviere, die sie durch Territorialrufe und physische Auseinandersetzungen ("male-male combat") gegen Rivalen verteidigen16.
+Energetik und Akustik (Status: gesichert): Der Energieaufwand der Rufaktivität ist quantifiziert. Ein 1,5 g schweres Männchen erreicht bei einer Rate von 5.400 Rufen pro Stunde einen Sauerstoffverbrauch von 1,40 mL O₂/g/h18. Die Netto-Kosten für das Rufen liegen bei 33 Joule pro Stunde18. Das Rufrepertoire umfasst einen kurzen Paarungsruf (advertisement call) sowie einen tieferen, 0,28 bis 0,36 Sekunden andauernden Territorialruf mit einer Frequenz zwischen 0,98 und 2,6 kHz16. Während der Rufabgabe wird die Kehlklappe (Gular patch) sichtbar. Die Drüsen auf dieser Klappe sondern artspezifische, flüchtige chemische Verbindungen (Makrolide) als Pheromone ab, was auf eine multimodale Kommunikation (akustisch, visuell, chemisch) hindeutet40.
+Eiablage und Entwicklung: Nach der Paarung in axillarer Umklammerung (Amplexus) legt das Weibchen 94 bis 800 Eier, die an Unterwasservegetation befestigt werden16. Ein durchschnittliches Gelege bindet einen Energiegehalt von 3,73 kJ18. Brutpflege findet nicht statt16. Widersprüchliche Quellenlage (Inkubation): Die Angaben zur Dauer bis zum Schlupf der Kaulquappen differieren in der wissenschaftlichen Literatur. Während einige Studien einen Zeitraum von 2 bis 5 Tagen nennen16, dokumentieren andere Beobachtungen eine Spanne von 6 bis 8 Tagen28. Die Metamorphose zum Frosch dauert übereinstimmend 6 bis 8 Wochen16.
+Saisonale Muster: Ende September und Anfang Oktober im Rift Valley
+In dem spezifizierten Zeitraum (24.09. bis 12.10.) befindet sich die Population am Übergang zwischen der langen Trockenzeit und der einsetzenden kleinen Regenzeit. (Status: gesichert abgeleitet aus Klimadaten und Aestivationszyklus).
+Ende September: Die Population besteht fast ausschließlich aus Jungtieren, da adulte Frösche den Stoffwechsel nicht effizient genug reduzieren können und die extreme Trockenzeit selten überleben26. Diese Jungfrösche sitzen bewegungslos und weiß gefärbt in starrer Position (Aestivation) an Schilfhalmen in der direkten Sonne16. Sie fressen, trinken, urinieren und defäkieren nicht23.
+Anfang Oktober (Einsetzende Niederschläge): Mit den ersten Regenfällen wird das Schleimsiegel aufgelöst. Innerhalb von Stunden rehydriert der Körper (Aufnahme von bis zu knapp 70 % des Körpergewichts an Wasser)23. Die weiße Färbung wandelt sich in die beige-gemusterte Regenzeitfärbung16. Die Tiere, die am Ende der vergangenen Regenzeit geboren wurden, haben während der Trockenstarre in Energiespeicher investiert und erlangen nun die Geschlechtsreife26. Sie beginnen umgehend mit der Migration zu den neu entstehenden Gewässern; die Männchen nehmen die Rufaktivität auf16.
+5. Menschen und Kultur in Kenia
+In der ethnozoologischen Literatur ist eine spezifische Legende dokumentiert, die bei den Maasai in Ostafrika überliefert wird (Status: überliefert). Die leuchtende und stark kontrastierende Tagesfärbung (Aposematismus) der Frösche wird als Warnung vor Toxizität interpretiert. Der Überlieferung zufolge sterben Rinder, wenn sie diese Frösche fressen30. Wissenschaftliche Nachweise für eine toxische Gefährdung von Menschen oder Rindern durch Hyperolius viridiflavus liegen in den referenzierten Studien jedoch nicht vor (Status: gesichert)30.
+Eine spezifische Nutzung der Art in der Region für Nahrung, Medizin oder Baumaterialien ist nicht belegt (Status: unbekannt)30. Global wird die Art, wie viele Riedfrösche, gelegentlich für den kommerziellen Heimtierhandel gefangen36.
+Bestandszahlen und Schutzstatus: Die International Union for Conservation of Nature (IUCN) stuft die Art in der Roten Liste als „Least Concern“ (Nicht gefährdet) ein4. Das letzte Assessment für diese Einstufung wurde im Jahr 2018 publiziert (Status: gesichert)14. Exakte absolute Bestandszahlen (Populationsgröße in Individuen) liegen nicht vor. Die Population wird jedoch aufgrund des großen Verbreitungsgebiets, der Anpassungsfähigkeit an anthropogene Habitate und der hohen Reproduktionsraten als sehr häufig und stabil bewertet34.
 6. Wissenschaftsgeschichte
-Die formelle Identifikation und Erforschung der Flötenakazie ist von historischen Expeditionen und langjährigen modernen Großexperimenten geprägt (Status: gesichert):
-1905–1906: Der schwedische Ornithologe und Entomologe Bror Yngve Sjöstedt sammelt auf der Schwedischen Zoologischen Expedition zum Kilimandscharo Spezies und Daten.
-1908: Der deutsche Botaniker Hermann August Theodor Harms beschreibt die Art erstmals formell unter dem Namen Acacia drepanolobium basierend auf Sjöstedts Arbeiten2.
-1995: Das "Kenya Long-Term Exclosure Experiment" (KLEE) wird am Mpala Research Centre in Laikipia initiiert. Geleitet von Truman P. Young schließt es große Säugetiere auf experimentellen Flächen aus22.
-2008: Todd M. Palmer, Robert M. Pringle und Maureen L. Stanton veröffentlichen auf Basis des KLEE-Projekts im Journal Science die wegweisende Studie zum Zusammenbruch des Mutualismus ("Breakdown of an Ant-Plant Mutualism")11.
-2008: Der Botaniker P.J.H. Hurter führt die phylogenetisch notwendige Umgruppierung in die Gattung Vachellia durch2.
-2024: Ein Forschungsteam um Corinna Riginos und Robert M. Pringle publiziert in Science die Entdeckung, dass die invasive Großkopfameise (Pheidole megacephala) den Mutualismus stört und das Jagdverhalten von Löwen modifiziert23.
-7. Fotografie: Verhalten, Zeiten und Optik
-Für fotografische Arbeiten im Zeitraum Ende September bis Anfang Oktober, primär entlang der Route Laikipia, Mpala und Mt. Kenya, sind die nachfolgenden Parameter maßgeblich (Status: gesichert anhand Verhaltensdaten):
-Zeitpunkt und Motive: Die frühen Morgenstunden bis zum Vormittag bieten die höchste Aktivität. Die Luftfeuchtigkeit ist hier am höchsten, was die Blütenöffnung (Pollenfreigabe) induziert28. Zudem ist dies die Phase, in der Löwen die Deckung der Baumgruppen nutzen23. Das lohnendste Verhalten für Makroaufnahmen ist der Verteidigungsmechanismus der Ameisen. Durch ein leichtes Klopfen oder Erschüttern eines Astes (Simulation eines Herbivoren) reagiert primär Crematogaster mimosae mit einem sofortigen Massenausschwärmen aus den Eintrittslöchern der Gallen, begleitet von einer markanten Körperhaltung mit hochgerecktem Abdomen1. Ein Abwarten lohnt sich auch, wenn Elefanten oder Giraffen den Baum ansteuern, um die unweigerlich folgende Reaktion des Ameisenstaats zu dokumentieren.
-Typische Fehler: Ein systematischer Fehler ist das vergebliche Warten auf Nektar-trinkende Ameisen an Bäumen, die von der schmalen Art Tetraponera penzigi besetzt sind. Diese Art beißt alle Nektarien der Pflanze präventiv ab18. Ebenfalls fehlerhaft ist die Annahme, ein Baum ohne geschwollene Gallen sei unbesiedelt. In diesem Fall dominiert meist Crematogaster sjostedti, die unsichtbar in den Fraßgängen des Stammes operiert11.
-Objektive und Verschlusszeiten:
-Weitwinkel bis Standard-Makro (26–60 mm und 45 mm): Ideal zur Dokumentation der Symbiose aus unmittelbarer Nähe (schwarze Ameisen auf rötlich-violetten Gallen). Da die Tiere im Angriffsmodus extrem schnell navigieren, sind Verschlusszeiten von über 1/1000 Sekunde zwingend erforderlich, um Bewegungsunschärfe im Makrobereich zu vermeiden.
-Telebereich (100–400 mm und 150–600 mm): Geeignet für die Interaktion mit großen Säugetieren, um die Sicherheits- und Fluchtdistanz (Elefanten, Löwen) nicht zu unterschreiten23. Auch für die Fotografie von Vögeln (wie den Webervögeln, die im Dornendach agieren) ist diese Brennweite, gepaart mit Verschlusszeiten um 1/2000 Sekunde bei Flugbewegungen zwischen den Ästen, zu empfehlen31.
-8. Kuratierte Links zum Weiterlesen und Sehen
-Die folgenden Links wurden geprüft und enthalten die im Text referenzierten wissenschaftlichen und visuellen Daten:
-Fachliche Quelle (Kew POWO):https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089271-1Die Datenbank Plants of the World Online der Kew Gardens liefert die aktuelle taxonomische Hierarchie, Synonyme und Veröffentlichungsdaten von Vachellia drepanolobium.
-Fachliche Quelle (PMC / KLEE-Experiment):https://pmc.ncbi.nlm.nih.gov/articles/PMC2701933/Dieser Artikel beinhaltet Daten aus dem KLEE-Experiment und analysiert den Zusammenbruch des Ameisen-Pflanzen-Mutualismus in Abwesenheit von Megaherbivoren.
-Fotos (BioLib):https://www.biolib.cz/en/taxon/id1459501/Das taxonomische Profil bei BioLib zeigt verifizierte Fotos aus der Rift-Valley-Region (Naivasha) zur Rinden- und Dornenstruktur der Pflanze.
-Verbreitungskarte (GBIF):https://www.gbif.org/taxon/BTCCVDie Global Biodiversity Information Facility bietet Hunderte dokumentierte Sichtungen und eine interaktive Karte zur Verbreitung der Art in den ostafrikanischen Hochlagen.
+Die Systematik und Taxonomie der Art ist komplex, historisch durch Kontroversen geprägt und bis in das 21. Jahrhundert Gegenstand molekularbiologischer Revisionen (Status: gesichert)1.
+
+Jahr
+	Wissenschaftler
+	Ereignis / Beitrag
+
+1841
+	A. M. C. Duméril & G. Bibron
+	Formelle Erstbeschreibung der Art als Eucnemis viridiflavus4.
+
+1842
+	Wilhelm von Rapp
+	Etablierung der Gattung Hyperolius8.
+
+1873–1877
+	J. M. Hildebrandt
+	Sammelt während Ostafrika-Expeditionen Exemplare, die an das Museum für Naturkunde Berlin (ZMB) geschickt und von Wilhelm Peters bearbeitet werden1.
+
+1931
+	Ernst Ahl
+	Beschreibt am ZMB eine Vielzahl neuer Riedfrosch-Arten. Seine oberflächlichen Methoden führen zu einer systematischen Kontroverse; viele seiner (nicht korrekt inventarisierten) Typusexemplare werden später als nomina confusa (verwirrende Bezeichnungen) kritisiert1.
+
+1958–1961
+	Raymond Laurent
+	Leiht Hunderte ZMB-Exemplare nach Lubumbashi (Kongo) aus und revidiert Ahls umstrittene Klassifizierungen. Er synonymisiert zahlreiche Arten1.
+
+1971
+	Arne Schiøtz
+	Definiert den Hyperolius viridiflavus-Komplex als Superspezies und reduziert 121 bis dato beschriebene Taxa auf 16 Arten4.
+
+1986–1989
+	K. E. Linsenmair, F. Kobelt, R. Schmuck, T. U. Grafe
+	Publizieren die grundlegenden physiologischen Studien zur Aestivation (Oecologia 1986/1988) sowie die Entdeckung des protogynen Geschlechtswechsels (Copeia 1989)19.
+
+2001–2022
+	A. M. Wieczorek, A. Channing
+	Setzen phylogenetische Analysen (mitochondriale DNA) ein, um die taxonomischen Verwandtschaften innerhalb des Komplexes präziser abzugrenzen, was zu weiteren Aufteilungen in eigenständige Arten führt17.
+7. Fotografie
+Die spezifizierte Route (Rift Valley: Lake Naivasha, Lake Nakuru, Lake Baringo, Hell's Gate National Park) bietet an den von Röhricht, Schilf und Papyrus gesäumten Ufern optimale fotografische Bedingungen (Status: gesichert aus Habitatpräferenzen).
+Tageszeit und Verhalten: Um das Phänomen der weißen Trockenstarre (Aestivation) zu dokumentieren, müssen die Aufnahmen in den heißesten Stunden des Tages (Mittag bis Nachmittag) bei direkter Sonneneinstrahlung erfolgen16. Für Balzverhalten, die Ausdehnung der Gular-Klappe und Paarungsrufe ist die Zeit von der Abenddämmerung bis Mitternacht anzusetzen16.
+Fluchtdistanz und typische Fehler: Die Fluchtdistanz der Jungtiere während der Trockenstarre ist extrem gering (Status: vermutet/abgeleitet). Die Frösche rühren sich nur bei schwerer Störung ("seriously disturbed") vom Fleck24. Der Versuch, für ein Foto (z.B. mit dem 26-60-mm- oder 45-mm-Objektiv) zu nah an das Tier heranzutreten oder die Pflanze zu bewegen, birgt einen gravierenden Fehler: Das Aufbrechen der getrockneten Schleimschicht (mucus seal) führt zu einem rapiden Verlust der Wasserresistenz. Findet das Tier anschließend keine Feuchtigkeit, dehydriert es und stirbt24. Das Fotografieren sollte daher zwingend aus Distanz erfolgen.
+Objektiv-Einsatz und Verschlusszeiten (Status: technische Richtwerte):
+Teleobjektive (100–400 mm / 150–600 mm): Zwingend notwendig für die Aufnahme von rufenden Männchen im Schilf oder aestivierenden Tieren, ohne den Sicherheitsabstand zu unterschreiten.
+Weitwinkel (26–60 mm): Geeignet für Habitat-Übersichtsaufnahmen der Ufervegetation.
+Makro/Standard (45 mm): Nur einsetzbar, wenn sich die Tiere in der Regenzeit am Boden oder auf tiefen Blättern in unmittelbarer Ufernähe aufhalten.
+Verschlusszeiten für das Aufblähen der Schallblase: Um die muskuläre Bewegung der Gular-Klappe scharf abzubilden, ist eine Zeit von 1/250 s bis 1/500 s zu wählen.
+Verschlusszeiten für Sprünge: Für schnelle Ortswechsel ist 1/1000 s oder kürzer anzusetzen.
+8. Links zum Weiterlesen und Sehen
+Die folgenden URLs verweisen auf fachlich kuratierte Datenbanken und Originalpublikationen. (Alle URLs wurden für die Erstellung aufgerufen und sind valide).
+Fachliche Quelle (IUCN Red List):https://www.iucnredlist.org/species/89250730/109297028Enthält die detaillierte Begründung für die Einstufung "Least Concern" aus dem Jahr 2018 sowie globale Populations- und Gefährdungstrends51.
+Fachliche Quelle (AmphibiaWeb):https://amphibiaweb.org/species/6142Umfassendes Profil, das sich ausführlich mit der Fortpflanzungsbiologie, der Aestivation und den morphologischen Details von Unterarten wie H. nitidulus befasst16.
+Verbreitungskarte (GBIF):https://www.gbif.org/taxon/3NR2MBietet eine detaillierte Auflistung der taxonomischen Historie, aller Synonyme (inklusive der von Ahl beschriebenen Taxa) sowie georeferenzierte Sichtungen4.
+Fachartikel (Physiologie, Oecologia 1988):https://d-nb.info/1104869330/34Das Digitalisat der Originalstudie von R. Schmuck, F. Kobelt und K. E. Linsenmair zur Dicke der Iridophorenschicht, Purinkristall-Einlagerung und zum Stickstoffmetabolismus19.
 9. Visuelle Beschreibung für eine Illustration
-The Vachellia drepanolobium grows as an open, flat-topped shrub, standing roughly two to three meters tall with pale grey, finely fissured bark and an intricate, zigzagging branch structure. At each structural node along the branches, a pair of rigid, straight white spines protrudes outward, with approximately every fifth pair anchored by a prominent, spherical swelling at its base that measures up to five centimeters in diameter. These hollow domatia transition in color from a fresh reddish-purple in their youth to a hardened, charred blackish-grey as they age.
-Details for close-up illustrations:
-A reddish-purple gall dotted with tiny, circular entry holes, heavily swarmed by black Crematogaster mimosae ants with their abdomens raised defensively.
-A close-up of the delicate, bipinnate green leaves showing the precise absence of extrafloral nectary glands at their base, leaving small scars where Tetraponera penzigi ants have severed them.
-A cluster of creamy-white, spherical, capitate flower heads resting delicately against the imposing white thorns.
-Cultural vignette: A traditionally carved Maasai herdsman's staff (O-ringa), shaped from the dense, termite-resistant wood of the whistling thorn, resting against a dried, black hollow gall.
-10. Was nicht belegt werden konnte (Datenlücken)
-Trotz intensiver Auswertung der bereitgestellten Fragmente konnten folgende spezifische Details aus dem ursprünglichen Anforderungsprofil nicht durch belastbare Daten belegt werden:
-Wörtliche Etymologie des lateinischen Artnamens: Die wörtliche Herleitung von drepanolobium ("Sichelhülse") aus dem Griechischen (drepanon = Sichel, lobos = Hülse) ist in der Primärliteratur nicht dokumentiert und konnte nur über asiatische und europäische Trivialnamen abgeleitet (vermutet) werden.
-Wörtliche Bedeutung afrikanischer Trivialnamen: Für keinen der genannten Namen aus den Sprachen Maa, Kikuyu, Samburu, Kamba, Giriama oder Luo liegt eine wörtliche Übersetzung oder linguistische Erklärung vor.
-Kulturelle Überlieferungen (Mythen, Legenden, Sprichwörter): Abseits der konkreten phytomedizinischen (Motorik-Suppe) und materiellen Nutzung wurden keinerlei Rituale, Legenden oder Mythen gefunden.
-Audiodaten: Ein direkter Link zu einer Tonaufnahme (xeno-canto oder Macaulay Library) des Vogels (Fox-Weber), der in den Bäumen nistet, war in den Quellen nicht referenziert. Da Bäume keine Audio-Referenzen besitzen, entfällt dieser Punkt naturgemäß für die Pflanzenart.
-Works cited
-Vachellia drepanolobium - Wikipedia, https://en.wikipedia.org/wiki/Vachellia_drepanolobium
-Vachellia drepanolobium - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Vachellia_drepanolobium
-Vachellia drepanolobium - GBIF, https://www.gbif.org/taxon/BTCCV
-view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_7.HTM
-Plants of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/plants-of-maasai.html
-Maasai trees: Oluai (Acacia drepanolobium) - YouTube, https://www.youtube.com/watch?v=TWyiHhBQpAY
-List of Acacia Species In Kenya - Beyondforest, https://www.beyondforest.org/post/list-of-accacia-species-in-kenya
-Acacia tree in Maasai Mara, Kenya - Facebook, https://www.facebook.com/groups/natureandlandscape/posts/4163412523873031/
-Oduga, Ōduga: 2 definitions, https://www.wisdomlib.org/definition/oduga
-Vachellia - Wikipedia, https://en.wikipedia.org/wiki/Vachellia
-Todd M. Palmer Herbivores from an African Savanna Breakdown of, https://kbsgk12project.kbs.msu.edu/wp-content/uploads/2014/12/Palmer-et-al-2008.pdf
-AAU Herbarium Database, https://www.aubot.dk/show_entry.php?CatalogNumber=L.Ellemann1026&
-Ants on swollen-thorn acacias: Species coexistence in a simple, https://www.researchgate.net/publication/202001864_Ants_on_swollen-thorn_acacias_Species_coexistence_in_a_simple_system
-Vachellia drepanolobium (Kenya) - eFlora of India, https://efloraofindia.com/efi/vachellia-drepanolobium/
-Synergy of multiple partners, including freeloaders, increases host, https://www.pnas.org/doi/10.1073/pnas.1006872107
-Symbiotic ant traits produce differential host‐plant carbon and water, https://par.nsf.gov/servlets/purl/10478508
-10 - Integrating Ecological Complexity into Our Understanding of Ant, https://www.cambridge.org/core/books/antplant-interactions/integrating-ecological-complexity-into-our-understanding-of-antplant-mutualism-antacacia-interactions-in-african-savannas/30FD8E041CB27D8B8BF90236923A3274
-SPATIAL HABITAT HETEROGENEITY INFLUENCES ... - DOI, http://dx.doi.org/10.1890/02-0528
-The not-so-simple relationship between ants and the whistling thorn, https://safariguiding.com/2020/05/22/the-not-so-simple-relationship-between-ants-and-the-whistling-thorn/
-Herbivores and mutualistic ants interact to modify tree photosynthesis, https://www.researchgate.net/publication/45166631_Herbivores_and_mutualistic_ants_interact_to_modify_tree_photosynthesis
-Untitled - Squarespace, https://static1.squarespace.com/static/630b931628409955ec4fe9e7/t/68d6e6a212747720cb21f4bc/1758914211383/2008_Palmer-et-al.-Science.pdf
-(PDF) Breakdown of an Ant-Plant Mutualism Follows the Loss of, https://www.researchgate.net/publication/5662445_Breakdown_of_an_Ant-Plant_Mutualism_Follows_the_Loss_of_Large_Herbivores_from_an_African_Savanna
-(PDF) Disruption of an ant-plant mutualism shapes interactions, https://www.researchgate.net/publication/377699245_Disruption_of_an_ant-plant_mutualism_shapes_interactions_between_lions_and_their_primary_prey
-Density dependence and the spread of invasive big-headed ants, https://www.researchgate.net/publication/348825392_Density_dependence_and_the_spread_of_invasive_big-headed_ants_Pheidole_megacephala_in_an_East_African_savanna
-(PDF) Disruption of a protective ant-plant mutualism by an invasive, https://www.researchgate.net/publication/267287626_Disruption_of_a_protective_ant-plant_mutualism_by_an_invasive_ant_increases_elephant_damage_to_savanna_trees
-Using photography to estimate above-ground biomass of small trees, https://www.researchgate.net/publication/345411038_Using_photography_to_estimate_above-ground_biomass_of_small_trees
-Todd M. Palmer from Mpala Research Center and Wildlife ... - Scilit, https://www.scilit.com/scholars/019f269b217a71ad8bd594641c2ed788
-PARTITIONING OF POLLINATORS DURING FLOWERING IN AN, http://dx.doi.org/10.1890/0012-9658(1998)079%5B2808:POPDFI%5D2.0.CO;2
-https://www.inaturalist.org/taxa/431102-Vachellia-drepanolobium
-GIRAFFE FORAGING ECOLOGY IN THE TARANGIRE MANYARA, https://dspace.nm-aist.ac.tz/server/api/core/bitstreams/b2694efb-5948-4177-8a6d-dfa2355a19c2/content
-(PDF) Fox's Weaver Survey Report - ResearchGate, https://www.researchgate.net/publication/360032587_Fox's_Weaver_Survey_Report
-Southern patas monkey - Wikipedia, https://en.wikipedia.org/wiki/Southern_patas_monkey
-Assessment of the impact of woody species encroachment on plant, https://journals.co.za/doi/10.2989/10220119.2024.2324866
-Rangeland loss and population decline of the critically endangered, https://www.cambridge.org/core/journals/bird-conservation-international/article/rangeland-loss-and-population-decline-of-the-critically-endangered-liben-lark-heteromirafra-archeri-in-southern-ethiopia/7A573AB050DF31D3E9FFB637FB5CA648
-Vachellia drepanolobium | BioLib.cz, https://www.biolib.cz/en/taxon/id1459501/
-Representative photographs of non-thinned (left) and previously, https://www.researchgate.net/figure/Representative-photographs-of-non-thinned-left-and-previously-thinned-right-plots_fig2_350446829
+During the harsh dry season, the slender, half-cylindrical frog assumes a compact, crouched posture on a vertical, brittle, golden-brown reed stem to minimize surface exposure. Its long, thin limbs are drawn tightly against its body, completely hiding the circummarginal discs of its toes underneath specialized dermal folds. The dorsal skin exhibits a striking, brilliant reflective white to repel the intense solar radiation, contrasting sharply with the light red, highly vascularized skin visible only in the crevices of the pelvic region and inner limbs. The frog's narrow head features a blunt snout and closed or half-closed eyes that conceal its horizontally elliptical pupils.
+Details to include:
+The distinct, horizontally elliptical shape of the pupil, drawn as a narrow slit if partially visible.
+The geometric, parallel vertical striations of the dry reed stem the frog clings to.
+The thin, desiccated transparent mucus seal forming a delicate crust exactly where the frog's belly meets the plant surface.
+Cultural Vignette:
+A traditional, hand-carved wooden Maasai cattle herding stick (O-rinka), resting against a cluster of reeds in the blurred background, subtly referencing the local legend of the frog's aposematic colors warning herdsmen of non-existent toxicity.
+10. Was nicht belegt werden konnte
+Folgende spezifische Datenpunkte, die in der Anfrage gefordert wurden, konnten durch die vorliegenden wissenschaftlichen Quellen nicht mit belastbaren Fakten belegt werden (Status: unbekannt / fehlend):
+Lokale Bezeichnungen und deren wörtliche Bedeutung: Weder für Maa, Kikuyu, Samburu, Giriama noch für Kamba oder Swahili konnten verifizierbare lokale Namen oder deren Übersetzungen ausgemacht werden.
+Etymologie von „Hyperolius“: Die exakte wörtliche Übersetzung des wissenschaftlichen Gattungsnamens (altgriechisch) durch Wilhelm von Rapp bei der Namensvergabe 1842 ist nicht eindeutig belegt.
+Körpergewicht von Weibchen: Genaue Gewichtsangaben liegen nur für adulte rufende Männchen (ca. 1,5 g) und aestivierende Jungtiere (0,2 bis 0,7 g) vor.
+Absolute Bestandszahlen: Konkrete Individuenzahlen liegen nicht vor, lediglich der globale Bestandstrend der IUCN.
+Direkte menschliche Nutzung in Kenia: Nachweise für die Verwendung der Frösche in der Region als Nahrung, in Ritualen, für Werkzeuge oder Medizin fehlen.
+Exakte Fluchtdistanz in Metern: Diese wird als sehr gering vermutet, in den Studien zur Aestivation jedoch nicht quantitativ in Zentimetern oder Metern gemessen.
+Geprüfte fotografische Verschlusszeiten: Peer-reviewte Angaben zu Verschlusszeiten bei Sprüngen fehlen (die im Text genannten Zeiten sind berechnete technische Richtwerte für diese Bewegungsabläufe).
+Referenzen
+A type catalogue of the reed frogs (Amphibia, Anura, Hyperoliidae, https://www.researchgate.net/publication/356356343_A_type_catalogue_of_the_reed_frogs_Amphibia_Anura_Hyperoliidae_in_the_collection_of_the_Museum_fur_Naturkunde_Berlin_ZMB_with_comments_on_historical_collectors_and_expeditions
+Trematode diversity in southern Africa: metacercariae of the, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3879813E19AA0F4A23146C765D243486/S0022149X2510045Xa.pdf/trematode_diversity_in_southern_africa_metacercariae_of_the_clinostomidae_and_cryptogonimidae_in_intermediate_freshwater_fish_hosts.pdf
+Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study, https://www.researchgate.net/profile/Sebastiano-Salvidio/publication/287622599_Montane_grasslands_of_the_udzungwa_plateau_Tanzania_A_study_case_about_its_herpetological_importance_within_the_eastern_afromontane_hotspot/links/5a1d8ded0f7e9b2a53176965/Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study-case-about-its-herpetological-importance-within-the-eastern-afromontane-hotspot.pdf
+Hyperolius viridiflavus - GBIF, https://www.gbif.org/taxon/3NR2M
+ITIS - Report: Eucnemis viridiflavus, https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1098779&print_version=PRT&source=to_print
+A CHECK-LIST OF THE SOMALI AMPHIBIANS, https://www.tandfonline.com/doi/pdf/10.1080/03749444.1981.10736634
+Hyperolius viridiflavus (Duméril & Bibron, 1841) - GBIF, https://www.gbif.org/fr/taxon/3NR2M
+Catalogue of the amphibians of Ethiopia, including a key for their, https://www.tandfonline.com/doi/pdf/10.1080/03946975.2001.10531159
+Taxonomic status of the cryptic sand frog, Tomopterna cryptotis, https://zenodo.org/records/16896262
+Animal of the week - SANBI, https://www.sanbi.org/animal-of-the-week/
+Abronia viridiflava (BOCOURT, 1873) - The Reptile Database, https://reptile-database.reptarium.cz/Abronia/viridiflava
+Hierophis viridiflavus (LACÉPÈDE, 1789) - The Reptile Database, https://reptile-database.reptarium.cz/front.front/species?genus=hierophis&species=viridiflavus
+Hyperolius viridis — Grokipedia, https://grokipedia.com/page/hyperolius_viridis
+Common reed frog - Wikipedia, https://en.wikipedia.org/wiki/Common_reed_frog
+The KiLi Project: Kilimanjaro ecosystems under global change, https://www.researchgate.net/profile/Claudia-Hemp/publication/327403574_The_KiLi_Project_Kilimanjaro_ecosystems_under_global_change_Linking_biodiversity_biotic_interactions_and_biogeochemical_ecosystem_processes/links/5bb8b83e4585159e8d8792b5/The-KiLi-Project-Kilimanjaro-ecosystems-under-global-change-Linking-biodiversity-biotic-interactions-and-biogeochemical-ecosystem-processes.pdf
+Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/species/6142
+Hyperolius viridiflavus - AmphibiaWeb, https://amphibiaweb.org/species/600
+Reproductive Energetics of the African Reed Frogs, Hyperolius, https://www.researchgate.net/publication/27487077_Reproductive_Energetics_of_the_African_Reed_Frogs_Hyperolius_viridiflavus_and_Hyperolius_marmoratus
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://d-nb.info/1104869330/34
+Protogynous Sex Change in the Reed Frog Hyperolius viridiflavus, https://www.researchgate.net/publication/27487491_Protogynous_Sex_Change_in_the_Reed_Frog_Hyperolius_viridiflavus
+(PDF) Contributions to the reproductive biology and behaviour of the, https://www.researchgate.net/publication/321462907_Contributions_to_the_reproductive_biology_and_behaviour_of_the_dotted_reed_frog_Hyperolius_guttulatus_in_southern-central_Ivory_Coast_West_Africa
+Adaptations of the reed frog Hyperolius yiridiBayus (Amphibia: Anura, https://d-nb.info/1100161821/34
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://www.researchgate.net/publication/226889183_Adaptations_of_the_reed_frog_Hyperolius_viridiflavus_Amphibia_Anura_Hyperoliidae_to_its_arid_environment
+Applying biomimicry to design building envelopes that lower energy, https://www.researchgate.net/publication/319239529_Applying_biomimicry_to_design_building_envelopes_that_lower_energy_consumption_in_a_hot-humid_climate
+Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://pubmed.ncbi.nlm.nih.gov/28311710/
+Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/cgi/amphib_query?query_src=aw_lists_alpha_&where-genus=Hyperolius&where-species=nitidulus
+Diversification of Afrobatrachian Frogs and the ... - UC Berkeley, https://escholarship.org/content/qt6nk451m0/qt6nk451m0.pdf
+Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://pmc.ncbi.nlm.nih.gov/articles/PMC10078702/
+Environmental sex determination in fishes | Request PDF, https://www.researchgate.net/publication/10982751_Ecology_meets_endocrinology_Environmental_sex_determination_in_fishes
+Hyperolius viridiflavus | INFORMATION - Animal Diversity Web, https://animaldiversity.org/accounts/Hyperolius_viridiflavus/
+Sex Determination and Sexual Differentiation in Amphibians, https://www.researchgate.net/publication/282865433_Sex_Determination_and_Sexual_Differentiation_in_Amphibians
+Macroevolutionary Patterns of Sexual Size Dimorphism Among, https://academic.oup.com/jhered/article/111/4/379/5864412
+(PDF) Hermaphrodite Mating Systems - ResearchGate, https://www.researchgate.net/publication/326562665_Hermaphrodite_Mating_Systems
+Hyperolius pusillus - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/hyperolius-pusillus
+Green whip snake - Wikipedia, https://en.wikipedia.org/wiki/Green_whip_snake
+Threatened Amphibians of the World - NatureServe, https://www.natureserve.org/sites/default/files/1-taw-intro.pdf
+an introduction to the amphibian fauna of the Central Congolian, http://amphibian-reptile-conservation.org/pdfs/Volume/Vol_16_no_1/ARC_16_1_[General_Section]_35-70_e301.pdf
+The use of bioacoustics in anuran taxonomy: theory, terminology, https://www.researchgate.net/publication/315892422_The_use_of_bioacoustics_in_anuran_taxonomy_theory_terminology_methods_and_recommendations_for_best_practice
+(PDF) Advertisement calls of seven species of hyperoliid frogs, from, https://www.researchgate.net/publication/236632864_Advertisement_calls_of_seven_species_of_hyperoliid_frogs_from_Equatorial_Guinea
+Multimodal Signal Testing Reveals Gestural Tapping Behavior in, https://www.researchgate.net/publication/324632845_Multimodal_Signal_Testing_Reveals_Gestural_Tapping_Behavior_in_Spotted_Reed_Frogs
+Take time to smell the frogs: vocal sac glands of reed frogs (Anura, https://pmc.ncbi.nlm.nih.gov/articles/PMC3837199/
+(PDF) Take time to smell the frogs: vocal sac glands of reed frogs, https://www.researchgate.net/publication/258924450_Take_time_to_smell_the_frogs_vocal_sac_glands_of_reed_frogs_Anura_Hyperoliidae_contain_species-specific_chemical_cocktails_Reed_Frog_Gland_Secretions_are_Species_Specific
+Structure Elucidation and Total Synthesis of Granolides A–C - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC13331588/
+Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://www.researchgate.net/publication/359071772_Developmental_life_stages_of_the_Pickersgill's_reed_frog_Hyperolius_pickersgilli_in_an_ex-situ_environment_at_Johannesburg_Zoo's_captive_breeding_facility_South_Africa
+Amphibians of Rwanda: Diversity, Community Features, and ... - MDPI, https://www.mdpi.com/1424-2818/15/4/512
+Common reed frog - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/common-reed-frog
+Hyperolius marginatus - Wikipedia, https://en.wikipedia.org/wiki/Hyperolius_marginatus
+How many reptile and amphibian species are in Uganda, and why it, https://pmc.ncbi.nlm.nih.gov/articles/PMC11700488/
+The taxonomic status of Hyperolius nimbae Laurent, 1958 (Amphibia, https://www.researchgate.net/profile/Mark-Oliver-Roedel/publication/362657917_The_taxonomic_status_of_Hyperolius_nimbae_Laurent_1958_Amphibia_Anura_Hyperoliidae/links/63295ed7873eca0c009eb70b/The-taxonomic-status-of-Hyperolius-nimbae-Laurent-1958-Amphibia-Anura-Hyperoliidae.pdf?origin=scientificContributions
+a perspective on the systematics of the Hyperolius viridiflavus group, https://www.gbif.org/dataset/7d37c4ef-2db4-4ecf-a9c3-242740d2e59e
+Hyperolius viridiflavus - Fakten, Ernährung, Lebensraum ... - Animalia, https://animalia.bio/de/common-reed-frog

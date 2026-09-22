@@ -1,192 +1,298 @@
-Strukturiertes Rohmaterial: Adansonia digitata im Tsavo- und Amboseli-Ökosystem
+Research Report: Milicia excelsa (Iroko / Mvule)
 1. Namen und Etymologie
-Die Nomenklatur der Art Adansonia digitata reflektiert sowohl die europäische Wissenschaftsgeschichte als auch die linguistische Diversität des afrikanischen Kontinents. Der wissenschaftliche Name ist botanisch gesichert und international anerkannt. Die Einordnung der Gattung erfolgt traditionell in die Familie der Wollbaumgewächse (Bombacaceae), wird jedoch nach neueren phylogenetischen Systematiken (APG) der Unterfamilie Bombacoideae innerhalb der Malvengewächse (Malvaceae) zugeordnet1.
-Die formelle Vergabe des lateinischen Namens Adansonia digitata erfolgte im Jahr 1759 durch den schwedischen Naturforscher Carl von Linné (Linnaeus)4. Der Gattungsname Adansonia wurde zu Ehren des französischen Botanikers Michel Adanson gewählt (gesichert). Adanson hatte den Baum um das Jahr 1750 während einer Expedition im Senegal dokumentiert5. Das Artepitheton digitata entstammt der lateinischen Sprache und bedeutet wörtlich übersetzt "gefingert" (gesichert). Diese Bezeichnung beschreibt die spezifische morphologische Eigenschaft der handförmig zusammengesetzten Blätter der adulten Bäume8.
-Im deutschen Sprachraum lautet der Trivialname Affenbrotbaum (gesichert). In der englischen Sprache sind mehrere Bezeichnungen dokumentiert, darunter African baobab, monkey-bread tree, upside-down tree und cream of tartar tree (gesichert)1. Die regionale ostafrikanische Verkehrssprache Swahili führt die Bezeichnungen Mbuyu, Muuyu sowie im Plural Mabuyu (gesichert)6.
-Die sprachliche Diversität in Kenia bringt weitere lokale Namen hervor. Die nachfolgende Tabelle dokumentiert die belegten Namen bei verschiedenen Gemeinschaften. Sofern die Herleitung unklar ist, wird die wörtliche Bedeutung entsprechend den Vorgaben als "unbekannt" ausgewiesen.
+Die taxonomische Einordnung und Namensgebung der Art Milicia excelsa durchlief in der botanischen Wissenschaftsgeschichte mehrere Revisionen (Status: gesichert). Das Epitheton excelsa stammt aus dem Lateinischen und bedeutet wörtlich "hoch", "erhaben" oder "aufragend" (Status: gesichert)1. Der Gattungsname Milicia ehrt Milici, einen Administrator im damaligen Portugiesisch-Ostafrika (heute Mosambik) während des 19. und frühen 20. Jahrhunderts, der die Arbeit des Botanikers Thomas Robertson Sim unterstützte (Status: gesichert)2.
+Die Pflanze ist in der Klasse der Magnoliopsida (zweikeimblättrige Pflanzen) verortet (Status: gesichert)5.
+
+Taxonomische Ebene
+	Name
+	Erstbeschreibung / Autor
+
+Ordnung
+	Rosales (Rosenartige)
+	(Status: gesichert)7
+
+Familie
+	Moraceae (Maulbeergewächse)
+	(Status: gesichert)5
+
+Tribus
+	Moreae
+	(Status: gesichert)7
+
+Gattung
+	Milicia
+	Sim (1909) (Status: gesichert)4
+
+Art (Basionym)
+	Morus excelsa
+	Welw. (1869) (Status: gesichert)1
+
+Art (Gültiger Name)
+	Milicia excelsa
+	(Welw.) C.C.Berg (1982) (Status: gesichert)5
+Zusätzlich zu den heute gültigen Namen verzeichnet die Nomenklaturgeschichte diverse homotypische und heterotypische Synonyme, darunter Maclura excelsa ((Welw.) Bureau, 1873), Chlorophora excelsa ((Welw.) Benth. & Hook.f., 1880), Chlorophora tenuifolia (Engl., 1894), Milicia africana (Sim, 1909) und Chlorophora alba (A.Chev., 1912) (Status: gesichert)1. Der Holzhandel unterscheidet oftmals nicht zwischen Milicia excelsa und der eng verwandten westafrikanischen Art Milicia regia, beide werden unter denselben Trivialnamen gehandelt (Status: gesichert)16.
 
 Sprache / Gemeinschaft
-	Lokaler Name (Status: gesichert)
+	Trivialname
 	Wörtliche Bedeutung
-	Quellen
+	Status der Beleglage
 
-Maa (Maasai)
-	Olrnesera, Olmesera
-	unbekannt
-	6
+Deutsch
+	Iroko, Afrikanisches Teakholz
+	unbekannt / deskriptiv
+	(Status: gesichert)9
 
-Samburu
-	Lamai
-	unbekannt
-	6
+Englisch
+	African teak, Iroko, Rock-elm
+	deskriptiv
+	(Status: gesichert)9
 
-Giriama
-	Muuyu (Baum), Mauyu (Frucht)
+Swahili
+	Mvule, Mvuli, Mfunda mweupe
 	unbekannt
-	6
+	(Status: gesichert)13
+
+Giriama (Mijikenda)
+	Mvure
+	unbekannt
+	(Status: gesichert)20
+
+Digo (Mijikenda)
+	Mvure
+	unbekannt
+	(Status: gesichert)20
 
 Kamba
-	Muamba, Mwaamba, Namba (Frucht)
+	Kitangure
 	unbekannt
-	6
+	(Status: gesichert)20
 
 Kikuyu
+	Kagethi
+	unbekannt
+	(Status: vermutet)23
+
+Samburu
 	unbekannt
 	unbekannt
-	
+	(Status: unbestätigt)
+
+Maa
+	unbekannt
+	unbekannt
+	(Status: unbestätigt)
 2. Erscheinung, mit Maßen
-Die Art Adansonia digitata manifestiert sich als laubabwerfender, pachycauler (dickstämmiger) Baum, dessen Morphologie vollständig auf die Speicherung von Wasser in ariden und semi-ariden Habitaten ausgerichtet ist2. Die physischen Ausmaße variieren in Abhängigkeit von den mikroklimatischen Bedingungen, dem Alter und dem aktuellen Wassergehalt des Stammes.
-Die durchschnittliche Wuchshöhe adulter Exemplare liegt zwischen 5 und 25 m, wobei unter optimalen Bedingungen vereinzelt größere Höhen erreicht werden (gesichert)2. Der Stammumfang kann bei sehr alten Individuen bis zu 28 m betragen, was einem Stammdurchmesser von 10 bis 14 m entspricht (gesichert)5. Ein Alltagsvergleich zur Einordnung der Größenordnung: Ein Stamm mit 14 Metern Durchmesser entspricht annähernd der Länge eines Standard-Linienbusses im öffentlichen Nahverkehr. Der Stamm formt oftmals eine breite, geriffelte oder zylindrische Struktur mit einer ausladenden, von Stützwurzeln geprägten Basis5. Ein Gesamtgewicht der Bäume ist in der Literatur nicht als absoluter Wert quantifiziert, da das Holz einen variablen Wassergehalt von bis zu 79 % des Volumens aufweist15. Die Holzdichte ist mit Werten von 0,09 bis 0,17 g/cm³ extrem niedrig und ähnelt in ihrer Beschaffenheit eher einem Schwamm als klassischem Hartholz (gesichert)15. Ein durchschnittlicher Baum kann bis zu 7.570 Liter Wasser (2.000 Gallonen) in seinem parenchymatischen Gewebe speichern14. Dieser Wert entspricht in etwa dem Volumen eines kleineren Tanklastwagens (gesichert).
-Die Rinde ist weich, faserig und variiert farblich zwischen rötlich-braun, gräulich-braun und violett-grau (gesichert)12. Ein charakteristisches Merkmal ist die äußere wachsartige, graue Korkschicht (Phellem), unter der eine grüne, photosynthetisch aktive Schicht liegt (gesichert). Diese Schicht ermöglicht es dem Baum, auch in den blattlosen Monaten (bis zu acht Monate im Jahr) eine Basisversorgung durch Photosynthese aufrechtzuerhalten5.
-Hinsichtlich des Dimorphismus zwischen den Altersstufen existiert ein dokumentierter Unterschied in der Blattmorphologie. Keimlinge und junge Triebe weisen einfache, ungeteilte Blätter auf. Mit zunehmendem Alter vollzieht sich ein gradueller morphologischer Übergang zu handförmig zusammengesetzten Blättern (gesichert)5. An erwachsenen Bäumen bestehen diese Blätter aus 5 bis 7, in seltenen Fällen bis zu 9 Fiederblättchen, die sitzend (sessil) oder an kurzen Stielen befestigt sind2. Die einzelnen Blättchen erreichen eine Länge von 5 bis 15 cm und eine Breite von 3 bis 7 cm, was einer Fläche entspricht, die vergleichbar mit der Handfläche eines erwachsenen Menschen ist (gesichert)8.
-Die Blütenmerkmale von A. digitata weisen eine für die Gattung einzigartige Eigenschaft auf: Sie hängen an langen Stielen (15 bis 90 cm) nach unten (gesichert)5. Die rundlichen, konisch zulaufenden Knospen öffnen sich zu großen, weißen Blüten mit einem Durchmesser und einer Länge von jeweils bis zu 8 cm5. Der Kelch (Calyx) besteht aus fünf grünen, dreieckigen Lappen, deren Innenseite cremefarben und behaart ist. Das Androeceum (Staubblattapparat) ist weiß und bildet eine 3 bis 6 cm lange Röhre, die von 3 bis 5 cm langen freien Filamenten umgeben ist5. Die Anzahl der Staubblätter liegt bei 720 bis 1.600 pro Blüte (gesichert), wobei historische Zählungen bis zu 2.000 Stück vermerken (überliefert)5. Der kugelige Pollen weist an seiner Oberfläche Spikes auf und misst im Durchmesser rund 50 Mikrometer, nach anderen Analysen bis zu 63 Mikrometer (gesichert)5.
-Die Frucht ist eine holzige, geschlossene (indehiszente) Kapsel von runder bis zylindrischer Form. Sie erreicht eine Länge von bis zu 25 cm, was exakt der Dimension eines American Footballs entspricht (gesichert)5. Die holzige Außenschale ist 6 bis 10 mm stark5. Im Inneren der Kapsel umschließt ein hellbeiges Fruchtfleisch, das beim Trocknen zu einem krümeligen Pulver zerfällt, die nierenförmigen, harten Samen2. Die Samen verfügen über eine 0,06 mm dicke Samenschale (Testa), deren physikalische Beschaffenheit für den Keimungsprozess relevant ist5.
-Ein Altersdimorphismus zeigt sich zudem im Stammaufbau: Viele der massiven Exemplare weisen eine Hohlraumstruktur auf. Während Hohlräume bei anderen Baumarten zumeist das Resultat von Pilzbefall und Holzzersetzung im Kern sind, entsteht die Höhlung bei großen Baobabs häufig dadurch, dass drei bis acht separate Stämme aus einem gemeinsamen Wurzelsystem im Kreis wachsen und miteinander verschmelzen (gesichert)5. Eine Geschlechtsdifferenzierung existiert nicht, da A. digitata zwittrige (hermaphroditische) Blüten ausbildet.
+Milicia excelsa ist ein laubabwerfender Baum, der der obersten Kronenschicht (Emergent) angehört und über ein weitreichendes Wurzelsystem verfügt (Status: gesichert)7. Die Art zeichnet sich durch einen Diözie (Zweihäusigkeit) aus, wodurch männliche und weibliche Exemplare phänotypische Unterschiede in ihrer Wuchsform aufweisen (Status: gesichert)9.
+
+Merkmal
+	Dimension / Spezifikation
+	Alltagsvergleich (berechnet/Quelle)
+	Status
+
+Baumhöhe
+	Bis zu 50 m
+	Entspricht einem 16- bis 17-stöckigen Gebäude (bei 3 m pro Stockwerk).
+	(Status: gesichert)5
+
+Stammdurchmesser
+	1,5 bis 3 m (teils bis 10 m Umfang)
+	Durchmesser entspricht der Länge eines durchschnittlichen PKWs.
+	(Status: gesichert)7
+
+Astfreier Stamm
+	20 bis 25 m
+	Entspricht der Höhe eines 7-stöckigen Gebäudes.
+	(Status: gesichert)9
+
+Rindendicke
+	"Dick", 5 bis 7,5 cm Splintholz darunter
+	unbekannt
+	(Status: gesichert)9
+
+Holzdichte
+	550 bis 750 kg/m³ (bei 12 % Feuchte)
+	unbekannt
+	(Status: gesichert)16
+
+Samengewicht
+	403.778 Samen pro Kilogramm
+	ca. 0,0025 Gramm pro Samen.
+	(Status: gesichert)17
+Wuchsform und Geschlechtsdimorphismus Der Stamm verläuft zylindrisch, wobei echte Brettwurzeln fehlen. Stattdessen bilden sich an der Basis älterer Bäume kurze Wurzelsporne, während Sämlinge eine ausgeprägte, orangefarbene Pfahlwurzel entwickeln, die bei einem dreijährigen Exemplar einen Durchmesser von 2,5 cm in 23 cm Bodentiefe aufweist (Status: gesichert)7. Männliche Bäume weisen einen schlankeren, oft längeren Stamm auf. Ihre Krone ist schmaler, das Laub heller, und die feinen Äste biegen sich nach oben (Status: gesichert)9. Weibliche Bäume hingegen neigen eher zur Stammgabelung, besitzen eine ausladendere, schirmförmige Krone und weisen nach unten hängende Zweige auf (Status: gesichert)9.
+Rinde, Holz und Läsionen Die Borke ist aschgrau bis dunkelbraun, bei jüngeren Bäumen glatt, im Alter schuppig und blättert in quadratischen Stücken ab (Status: gesichert)1. Bei Verletzungen von Rinde oder Holz sondert der Baum einen reichlichen, weißen, klebrigen Latex ab (Status: gesichert)9. Das Splintholz ist gelblich-weiß, während das Kernholz eine gelbe bis goldbraune Farbe aufweist, die unter Lichteinfluss zu schokoladenbraun oder grünlich-braun nachdunkelt (Status: gesichert)5. Das Holz von Bäumen in Savannengebieten oder nach Bränden weist häufig exzentrisches Wachstum und Ablagerungen von Calciumcarbonat auf, die als "Iroko-Steine" bezeichnet werden (Status: gesichert)16.
+Blätter Die wechselständigen Blätter zeigen eine ausgeprägte Heterophyllie zwischen Altersstufen. Juvenile Blätter (an jüngeren Bäumen) sind weich, länglich-lanzettlich, bis zu 4 cm lang, haben einen gezähnten Rand, eine gelblich-grüne Farbe und eine raue, sandpapierartige Oberfläche (Status: gesichert)13. Reife Blätter hingegen sind breit-elliptisch oder eiförmig, 5 bis 10 cm lang (teilweise 9 bis 20 cm) und 5 bis 10 cm breit. Die Oberseite ist dunkelgrün und glatt, die Unterseite leicht flaumig mit einem stark hervortretenden, rechteckigen Netz aus Blattadern (Status: gesichert)1. Vor dem Laubabwurf verfärben sich ältere Blätter gelb (Status: gesichert)9.
+Blüten und Früchte Die Blüten sind diözisch und axillär. Männliche Blütenstände bilden pendelnde (hängende), weiße Kätzchen mit einer Länge von 15 bis 20 cm. Weibliche Blütenstände sind aufrechte, grüne Ähren mit einer Länge von 5 bis 6 cm und einer Dicke von 2 cm, die auffällige Griffel aufweisen (Status: gesichert)9. Die fleischige Sammelfrucht hat die Form einer dicken, grünen Raupe oder einer großen Maulbeere. Sie misst 5 bis 7,5 cm in der Länge und 2 bis 2,5 cm im Durchmesser (Status: gesichert)13. Die Fruchtoberfläche ist faltig. Bei Reife ändert sich die grüne Farbe nicht, lediglich das Fruchtfleisch wird weicher. Im Inneren liegen durchschnittlich 73 kleine, harte Samen (Achänen) eingebettet (Status: gesichert)13.
 3. Der Mechanismus
-Das definierende biologische Prinzip von A. digitata ist die Koppelung extremer anatomischer Wasserspeicherkapazität (Sukkulenz) an spezifische biomechanische und hydrologische Kontrollmechanismen, um Dürreperioden zu überstehen.
-Das Xylem, das holzige Gewebe des Baumes, unterscheidet sich fundamental von dem anderer Laubbaumarten. Es besteht zu 69 bis 88 % aus lebenden Parenchymzellen, die eine Speichermatrix für Wasser bilden (gesichert)16. Der Elastizitätsmodul (Young-Modul), der die Steifigkeit eines Materials beschreibt, nähert sich bei diesem Holz dem Wert von einfachem Parenchymgewebe an und ist direkt vom Wassergehalt abhängig16. Wenn der Baum signifikante Mengen Wasser verliert, verringert sich seine mechanische Stabilität, was in Extremfällen zum Kollaps des Stammes führen kann16.
-Forschungsarbeiten, insbesondere jene von Chapotin, Razanameharizaka und Holbrook (2006), haben die hydraulische Architektur der Bäume detailliert analysiert. Die Forschung zeigte, dass das gespeicherte Stammwasser nicht primär zur Abpufferung des täglichen Transpirationsverlustes während der Trockenzeit genutzt wird (gesichert)15. Stattdessen folgt der Baum einer strikten Strategie der Embolie-Vermeidung. Die wasserleitenden Gefäße in den distalen Zweigen sind relativ anfällig für Kavitation (Luftblasenbildung, die den Wassertransport blockiert). Der Kavitationspunkt (P50), bei dem 50 % der Leitfähigkeit verloren gehen, wird bereits bei einem hydraulischen Unterdruck von 1,1 bis 1,7 Megapascal (MPa) erreicht15.
-Ökologische Kausalkette der Dürre-Adaption:
-Der Niederschlag bleibt aus, und der volumetrische Wassergehalt im Boden sinkt (beispielsweise auf unter 32 %).
-Der Baum registriert den abfallenden Wasserdruck und schließt seine Stomata (Spaltöffnungen) fast vollständig, um den Wasserverlust durch Transpiration sofort zu stoppen.
-Durch die stomatäre Kontrolle wird das Wasserpotential im Stamm nahe an einem Wert von -1,0 MPa stabilisiert, um den kritischen Kavitationspunkt zu vermeiden15.
-Um den Wasserbedarf weiter zu senken, wirft der Baum sein Laub ab und reduziert seinen Metabolismus auf die Photosynthese der Rindenschicht5.
-Das im Stamm verbliebene Wasserreservoir (mit einer inneren Kapazität von bis zu 1,43 MPa⁻¹) wird für Monate konserviert15.
-Am Ende der Trockenzeit, unmittelbar vor dem Einsetzen der ersten Regenfälle, mobilisiert der Baum dieses isolierte Stammwasser, um die energie- und wasserintensive Bildung neuer Blattknospen und Blüten (Flushing) zu finanzieren, noch bevor neues Bodenwasser verfügbar ist15.
-Ein zweiter, eng verbundener Mechanismus ist die Feuerresistenz, die in den Savannenökosystemen evolutionär notwendig ist.
-Ökologische Kausalkette der Feuerökologie:
-Ein Savannenfeuer trifft auf den Stamm des Baumes.
-Die dicke, schwammartige und wasserreiche Rinde (Rhytidom) wirkt als thermischer Isolator. Die Hitze erreicht die inneren, lebenden Gewebe nicht in einem tödlichen Ausmaß14.
-Selbst wenn die Rinde durch starkes Feuer oberflächlich verbrennt, wird durch ein subepidermales Phellogen (Korkkambium) Narbengewebe gebildet.
-Die Regeneration nach dem Feuer führt zu einer asymmetrischen, verdickten Rindenschicht (ähnlich einer Elefantenhaut). Diese Verdickung erhöht den physischen Isolationswert gegen zukünftige Hitzeeinwirkungen drastisch14.
-Konkurrierende Erklärungen für die Schalendicke der Samen existieren ebenfalls im Kontext von Feuer: Es wird argumentiert, dass die extrem harte, 6 bis 10 mm dicke Fruchthülle und die 0,06 mm dicke Cuticula der Samen eine evolutionäre Anpassung an hohe Feuertemperaturen darstellen. Das Feuer (oder alternativ der Säureangriff im Verdauungstrakt von Megafauna) ist erforderlich, um die harte Schale aufzubrechen (Skarifikation) und Wasser eindringen zu lassen, was die Voraussetzung für die Keimung der Samen ist5.
+Die Existenz von Milicia excelsa wird in der Forschung primär durch zwei stark ausgeprägte biologische Mechanismen definiert: den biogeochemischen Kohlenstoffkreislauf (Oxalat-Carbonat-Pfad) und die phytopathologische Reaktion auf Insektenbefall (Gallbildung).
+3.1 Der Oxalat-Carbonat-Pfad (OCP) als Kohlenstoffsenke
+Dieses Prinzip befähigt das Milicia excelsa-Ökosystem, als langfristige Kohlenstoffsenke zu agieren und Calciumcarbonat (Kalkstein) in tropischen Oxisol-Böden auszufällen. Theoretisch weisen diese Böden ein saures Milieu auf, in dem Carbonate nicht akkumulieren dürften. Erforscht wurde der Mechanismus maßgeblich zwischen 2004 und 2011 von den Wissenschaftlern Guillaume Cailleau, Olivier Braissant und Eric Verrecchia, unter anderem durch Isotopenanalysen (δ13C-Signaturen) (Status: gesichert)25.
+Ökologische Kausalkette des OCP:
+Oxalogenese (Biomineralisation im Baum): Der Baum absorbiert atmosphärisches Kohlendioxid (CO₂) durch Photosynthese. Als metabolisches Nebenprodukt synthetisiert er große Mengen an organischen Calciumoxalat-Kristallen (Whewellit), die im Gewebe von Holz und Blättern gespeichert werden (Status: gesichert)25. Das benötigte Calcium wird aus carbonatfreien Quellen (Silikate im Grundgestein oder atmosphärischer Staub) über die Wurzeln aufgenommen (Status: gesichert)25.
+Litterfall und biotischer Abbau: Durch Laubabwurf und Totholz gelangen die Calciumoxalat-Kristalle in die oberen Bodenschichten. Dort zersetzen holzabbauende Organismen – vorwiegend Termiten und saprophytische Pilze – das pflanzliche Material und setzen die Kristalle frei. Einige Pilzarten fügen dem System zusätzlich selbst produziertes Oxalat hinzu (Status: gesichert)26.
+Oxalotrophie: Eine spezifische Gemeinschaft von Bodenbakterien (oxalotrophe Bakterien) nutzt die freigesetzten Oxalatkristalle als exklusive Kohlenstoff- und Energiequelle. Sie oxidieren das Oxalat (Status: gesichert)25.
+Alkalinisierung und Ausfällung: Der bakterielle Abbau des Oxalats führt zu einem lokalen Anstieg des pH-Wertes im Boden und reichert die Bodenlösung mit Carbonat-Ionen an. Die mit Carbonat und Calcium gesättigte Bodenlösung wird durch den Transpirationssog der Baumwurzeln angezogen (Status: gesichert)25.
+Pedogene und stammnahe Biomineralisation: Die veränderten chemischen Bedingungen führen zur Ausfällung von neuem Calciumcarbonat (Calcit). Dies äußert sich in der Bildung von Kalkkrusten im Boden rings um das Wurzelsystem sowie als extrem harte Konkretionen ("Iroko-Steine") an der Stammbasis und in Wundspalten des Holzes (Status: gesichert)16.
+Solange das Calcium aus silikatischen Quellen stammt, verbleibt der ehemals atmosphärische Kohlenstoff dauerhaft in anorganischer Form im Boden. Dieses System wird als "carbon trapping ecosystem" definiert (Status: gesichert)25.
+3.2 Die toxikogene Gallbildung durch Phytolyma lata
+Der zweite maßgebliche Mechanismus ist die hochspezialisierte Interaktion zwischen Milicia excelsa und dem blattsaugenden Insekt Phytolyma lata (Hemiptera: Psyllidae), dem sogenannten Iroko-Gallenfloh. Diese Interaktion limitiert die natürliche Verjüngung und macht die Anlage von Monokultur-Plantagen in Afrika nahezu unmöglich (Status: gesichert)29. Die Erforschung dieses Mechanismus erstreckt sich über Jahrzehnte, mit zentralen Studien von J.R. Cobbinah, M.R. Wagner und D.A. Ofori (ca. 1991 bis 2009) (Status: gesichert)29.
+Ökologische Kausalkette der Gallbildung:
+Eiablage und Induktion: Weibliche Phytolyma-Psylliden legen ihre Eier in großen Mengen auf jungen Blättern, Knospen und Stängeln von Sämlingen ab. Nach acht Tagen schlüpfen die Nymphen im ersten Larvenstadium. Sie durchstechen die Epidermis der Pflanze und injizieren Speichel (Status: gesichert)31.
+Toxikogener Effekt: Der Speichel der Nymphe enthält Substanzen, die keine virale oder pilzliche Infektion auslösen, sondern toxikogen wirken. Sie induzieren eine unkontrollierte Zellteilung des Pflanzengewebes, welches rasch anschwillt und die Nymphe vollständig umschließt. Einmal initiiert, wächst die Galle autonom weiter, selbst wenn die Nymphe durch systemische Insektizide abgetötet wird (Status: gesichert)31.
+Ruptur: Das Insekt durchläuft innerhalb der schützenden Galle seine Entwicklung. Nach 3 bis 4 Wochen platzt die Galle auf und entlässt das adulte Insekt (Status: gesichert)31.
+Sekundärinfektion und Mikrohabitat: Das aufgerissene, nekrotische Pflanzengewebe der verlassenen Gallen bildet ein spezifisches Mikrohabitat. Opportunistische, saprophytische Pilze, die in gesundem Blattgewebe nicht vorkommen (z.B. Fusarium solani, Fusarium oxysporum, Aspergillus niger), besiedeln diese Läsionen (Status: gesichert)30.
+Dieback (Triebsterben): Die Ausbreitung der Pilze führt zum Absterben der apikalen Meristeme (Triebsterben). Der Sämling reagiert mit der Bildung von Adventivknospen, die wiederum befallen werden, was zu einer Hexenbesen-artigen Deformation führt (Status: gesichert)31. Bei jungen Pflanzen führt dies zu Wachstumsstauchungen und Sterblichkeitsraten von über 40 %. Ältere Bäume entwickeln dickere Blätter, die dem Befall standhalten (Status: gesichert)29.
+Konkurrierende bzw. ergänzende Erklärungen zur Resistenz: Untersuchungen von Cobbinah zeigten, dass die Resistenz einiger weniger Sämlinge nicht durch einen erhöhten Gehalt an Phenolen bedingt ist. Stattdessen korreliert ein doppelt so hoher Wert an Polyphenoloxidase-Aktivität (PPO) in resistenten Linien mit einer geringeren Anfälligkeit für die Gallbildung (Status: gesichert)32. Ein alternativer Schutzmechanismus ergibt sich durch die Beschattung in Mischkultur-Plantagen (z. B. mit Terminalia superba), was den Befallsdruck signifikant senkt (Status: gesichert)29.
 4. Ökologie und Verhalten
-Adansonia digitata ist eine charakteristische Schlüsselart (Keystone Species) der afrikanischen Halbwüsten und Dornstrauchsavannen. Der Lebensraum erstreckt sich von Meereshöhe bis in etwa 1.500 m Höhe (gesichert)2. Der Baum bevorzugt gut entwässerte, sandige oder lehmige Böden. Staunässe, tiefer weicher Sand (mangelnde Verankerung) und Frosttage limitieren die Verbreitung strikt2.
-Saisonale Muster und Verhalten im Reisezeitraum (24.09. bis 12.10.): In den Regionen Tsavo und Amboseli fällt dieser Zeitraum exakt auf das Ende der langen Trockenzeit und den unmittelbaren Beginn der "kleinen Regenzeit" (Novemberschauer). Zu Beginn der Reisegruppe (Ende September) stehen die Bäume größtenteils kahl in der Landschaft. Der physiologische Tagesrhythmus ist auf Minimalverbrauch reduziert. Anfang Oktober initiiert die Art jedoch den oben beschriebenen Mechanismus: Unabhängig vom ersten Regenfall nutzt der Baum seine Stammspeicher, um neue Blätter und Blütenknospen zu produzieren. Für die lokale Fauna und die menschlichen Beobachter signalisiert dieses Verhalten den unmittelbar bevorstehenden Wechsel der Jahreszeiten (gesichert)10.
-Die Blüten öffnen sich im späten Nachmittag oder in der Abenddämmerung. Sie verströmen in der ersten Nacht einen starken, süßlichen Duft, um Bestäuber anzulocken. Nach etwa 24 Stunden, also im Laufe des Folgetages, oxidieren die Blüten, werden braun und emittieren einen Geruch, der an Aas erinnert (gesichert)5.
-Abhängige Arten und Ökosystem-Interaktionen:
-Das Überleben der Art ist an ein komplexes zoochores und chiropterophiles Netzwerk gebunden.
-Bestäubung: Die primären Bestäuber in Ostafrika sind Flughunde, namentlich der Palmenflughund (Eidolon helvum), der Wahlberg-Epaulettenflughund (Epomophorus wahlbergi) sowie Rousettus aegyptiacus. Diese Tiere sind auf den üppigen Nektar der großformatigen Blüten angewiesen (gesichert)7. Zudem agieren nachtaktive Primaten (Galagos/Buschbabys) als Bestäuber7.
-Samenverbreitung: Die harte Samenschale erfordert das Aufbrechen durch Megafauna. Afrikanische Elefanten (Loxodonta africana) und Steppenpaviane konsumieren die herabfallenden Früchte, verdauen das Fruchtfleisch und scheiden die Samen aus. Die Magensäure verdünnt die Samenschale, was die Keimruhe bricht (gesichert)5.
-Wasserversorgung für Fauna: In Dürrephasen wird der Baum von Elefanten massiv angegriffen. Durch "Bark-Stripping" (Rindenschälen) reißen die Elefanten mit ihren Stoßzähnen Streifen der Rinde ab, um das feuchte innere Parenchymgewebe zu kauen (gesichert)12. Studien in Reservaten (z.B. Gonarezhou und Pendjari) belegen, dass bis zu 99 % der Baobabs entsprechende Rindenschäden aufweisen und 22 % durch Stoßzähne ausgehöhlt werden28. In topografisch steilem Gelände (Slope) sinkt die Schadensintensität durch Elefanten signifikant29. Um alte Bäume vor dem Kollaps durch Elefanten zu bewahren, wurden in einigen afrikanischen Parks (z. B. Mapungubwe) erfolgreich engmaschige Drahtnetze bis in drei Meter Höhe um die Stämme gewickelt, deren haptische Eigenschaften die Elefanten abschrecken30.
-Der Lebensraum in Amboseli ist durch eine hydrologische Besonderheit geprägt. Obwohl der Niederschlag gering ist, wird der Grundwasserspiegel durch Schmelz- und Regenwasser gespeist, das durch poröse Vulkangesteine vom Kilimandscharo herabfließt und in Amboseli in Sümpfen austritt. Dies garantiert den Baobabs in Parknähe einen konstanten, unterirdischen Wasserzugang31.
+Lebensraum und abiotische Faktoren Milicia excelsa ist eine pionierartige Baumart, die bevorzugt in feuchten Savannen, Regenwäldern, Galeriewäldern (entlang von Fließgewässern) und in immergrünen Wäldern niederer Höhenlagen von Meereshöhe bis 1.200 m (teils 1.600 m) wächst (Status: gesichert)9. Als Pionierbaum verlangt die Art hohe Lichtintensität und kann in tiefem Schatten oder dichter Konkurrenz durch Kletterpflanzen nicht bestehen (Status: gesichert)14. Der Baum toleriert eine jährliche Niederschlagsspanne von 1.150 bis 1.900 mm. Er übersteht Dürreperioden von bis zu sechs Monaten und jährliche Niederschlagsmengen von lediglich 700 mm, sofern die Wurzeln Zugang zu Grundwasserleitern oder perennierenden Bächen haben. Die Art ist intolerant gegenüber Staunässe (Waterlogging) und reagiert sensibel auf geringe Kalium- und Phosphorwerte im Boden (Status: gesichert)9.
+Fortpflanzung und Nahrungsnetz Die Bestäubung der zweihäusigen Blüten erfolgt durch den Wind (Anemophilie), was häufig in der blattlosen Phase während der Trockenzeit geschieht (Status: gesichert)17. Fünf bis sechs Wochen nach der Befruchtung reifen die Früchte heran. Die Ausbreitung der Samen (Zoochorie) ist obligatorisch auf Tiere angewiesen. Zu den Hauptkonsumenten der Früchte gehören Eichhörnchen, verschiedene Vogelarten und fruchtfressende Fledermäuse (Status: gesichert)9. Der Strohfarbene Palmenflughund (Eidolon helvum) gilt als der kritischste Vektor für die Verbreitung der Art. Das Migrationsverhalten dieser Fledermäuse definiert die genetische Ausbreitung und den Erhalt von Milicia excelsa über weite Entfernungen, da die Flughunde die winzigen Samen unbeschadet ausscheiden (Status: gesichert)36.
+Saisonale Muster und Verhalten vom 24.09. bis 12.10. an der kenianischen Küste
+Im Zeitraum Ende September bis Anfang Oktober endet an der kenianischen Küste (Mombasa, Bamburi) die sechsmonatige Trockenzeit und die kleine Regenzeit setzt ein [Vorgabe User].
+Phänologischer Zustand: Die Blütezeit an der kenianischen Küste liegt zwischen Januar und März. Die Fruchtreife erfolgt folglich im März oder April (Status: gesichert)13. Ende September trägt der Baum daher keine Blüten und keine Früchte. Er befindet sich am Ende der Trockenstress-Phase. Das Laub ist zu diesem Zeitpunkt entweder vollständig abgeworfen, oder die Krone trägt altes, sich gelb verfärbendes Laub (Status: gesichert)9.
+Sozialverhalten im Habitat: Obwohl keine Früchte zur Nahrungsaufnahme zur Verfügung stehen, erfüllen die hoch aufragenden, kargen oder altbelaubten Bäume in diesem Zeitraum eine lebenswichtige architektonische Funktion. Die horizontalen Äste der emergenten Baumkronen dienen als Schlafbäume (Roosts) für riesige Kolonien des Palmenflughundes (Eidolon helvum) (Status: gesichert)41. Zehntausende Individuen hängen tagsüber dicht gedrängt an den Ästen, um sich vor Bodenfeinden zu schützen, und fliegen bei Einbruch der Dunkelheit aus. Zusätzlich bieten die Bäume Nistplätze für Krähen, Spechtvögel und Unterschlupf für Insektenfresser (Status: gesichert)42.
 5. Menschen und Kultur in Kenia
-Die Nutzungsgeschichte des Affenbrotbaums ist vielschichtig und umfasst den gesamten Baum.
-Nutzung:
-Nahrung: Das Fruchtfleisch ist extrem nährstoffreich, enthält signifikante Mengen an Vitamin C, Kalzium, Kalium und Ballaststoffen. Es wird in Wasser aufgelöst und häufig mit Kokosmilch zu einem erfrischenden Getränk gerührt (gesichert)2. In den kenianischen Küstenstädten werden die Samen mitsamt dem Fruchtfleisch mit farbigem Zucker überzogen und als traditionelle Süßigkeit (Mabuyu) verkauft10. Die jungen Blätter dienen, ähnlich wie Spinat, als Gemüse und werden teils mit Maniokblättern gekocht2. In historischen Hungerzeiten (Famines) kochen Menschen die weichen, knollenartigen Wurzelspitzen als Notration10.
-Material: Die Fasern aus der inneren Rinde des unteren Stammes werden abgeschält. Die Ernte zerstört den Baum nicht, da sich die Rinde regeneriert7. Die Fasern werden gekaut, um sie geschmeidig zu machen, und anschließend geflochten. In Kenia gelten sie als das hochwertigste Material für die Herstellung von Seilen, Bogensehnen, Fischernetzen und den traditionellen "Kiondo"-Körben (gesichert)10.
-Medizin: In der traditionellen Medizin wird ein Dekokt aus der Rinde verwendet, um Säuglinge mit hohem Fieber einem Dampfbad zu unterziehen. Der Saft des Fruchtfleisches wird ebenfalls gegen Fieber verabreicht10.
-Mythos, Legende und Ritual (überliefert):
-Schöpfungsmythos: Eine panafrikanisch verbreitete Legende (oft den San/Bushmen zugeschrieben) erzählt, dass die Gottheit "Thora" den Baum aus Wut über dessen Erscheinung oder Verhalten aus dem Garten riss und kopfüber auf die Erde warf. Daher wachsen die Wurzeln scheinbar in den Himmel7.
-Rituale in Kenia: In der Region Meru existiert der Glaube, dass eine Person ihr biologisches Geschlecht wechselt, wenn sie in Begleitung einer Ziege im Kreis um einen Baobab läuft10.
-Der Baum gilt als heilig. Überlieferungen warnen, dass ein tiefer Einschnitt in das Holz den Baum wie einen Menschen bluten lässt10.
-Ein lokales Tabu untersagt es, große Bäume kurz vor der Regenzeit zu entrinden oder junge Triebe zu fällen, aus Furcht, dies würde das Eintreffen des rettenden Regens verhindern10.
-Konflikte und historische Ereignisse (gesichert):
-Die Kilifi-Export-Kontroverse (2022–2023): Ein rezenter Konflikt ereignete sich im kenianischen County Kilifi. Ein georgischer Beschaffer (im Auftrag des georgischen Ex-Premierministers Bidzina Iwanischwili) ließ acht massive, jahrhundertealte Baobabs für den Export in den "Shekvetili Dendrological Park" in Georgien entwurzeln34. Lokale und internationale Naturschützer beklagten Biopiraterie. Die kenianische Regierung setzte den Export im November 2022 vorübergehend aus. Im März 2023 wurde das Verbot aufgehoben und die Bäume verschifft. Medienberichten zufolge sind die exportierten Exemplare am Zielort in Georgien später verdorrt (gesichert)34.
-Der vermutete Erzählkern "Gefängnis und Bar":
-Die vom Nutzer angenommene Nutzung von Baobabs als Gefängnis oder Bar in Kenia (Tsavo/Amboseli) ist historisch nicht belegt. Dieser Narrativstrang beruht auf einer geografischen Fehlverortung berühmter Einzelbäume (Widerspruch).
-Die Bar: Der "Sunland Baobab", in dessen Hohlraum ab 1933 eine Kneipe (Pub) für bis zu 15 Personen betrieben wurde, stand in Südafrika nahe Modjadjiskloof. Dieser Baum brach in den Jahren 2016 und 2017 teilweise zusammen; die Bar wurde 2019 geschlossen9. Ein Ort namens "Baobab Holiday Resort" existiert in Mombasa, Kenia, ist jedoch ein konventionelles Hotelgebäude und kein Baum39.
-Das Gefängnis: Der berühmte "Boab Prison Tree" (Art: Adansonia gregorii) befindet sich südlich von Derby in Western Australia. Zwar wurde behauptet, er habe in den 1890er Jahren als Gefängnis gedient, australische Historiker widerlegten dies jedoch als Mythos, der 1948 durch ein Gemälde von Vlase Zanalis entstand40. Ein weiterer als Gefängnis bekannter Baum (Mowana) steht in Kasane, Botswana; koloniale Administratoren nutzten dessen Hohlraum temporär als Zelle43.
-Bestandszahlen und Schutzstatus:
-Auf der Roten Liste der IUCN (Ausgabe 2014) wird die Art als "Least Concern" (Nicht gefährdet) geführt (gesichert)8.
-Trotz des sicheren Status publizierten Forscher 2018, dass seit dem Jahr 2005 9 der 13 ältesten und 5 der 6 größten afrikanischen Baobabs (überwiegend im südlichen Afrika) abgestorben oder kollabiert sind. Als Ursache werden veränderte Klimabedingungen und Dürren vermutet9. Konkrete Populationszahlen für ganz Kenia liegen nicht vor.
+In Kenia, insbesondere an der Küste, manifestiert sich das Verhältnis der Menschen zu Milicia excelsa in einem Spektrum von tiefer spiritueller Verehrung bis hin zur kommerziellen Verwertung, die den Bestand der Art gefährdet.
+Rolle in Mythos, Ritual und Naturschutz (Der Erzählkern) Entlang eines 200 Kilometer langen Küstenstreifens in Kenia befinden sich die Kaya-Wälder, die ab dem 16. Jahrhundert von den Mijikenda-Völkern (u.a. Giriama, Kauma, Digo, Rabai) als befestigte Dörfer angelegt und bis in die 1940er Jahre bewohnt wurden. Heute sind diese Waldinseln (2008 von der UNESCO als Weltkulturerbe anerkannt) spirituelle Zufluchtsorte (Status: gesichert)43. In den kulturellen Glaubenssystemen der Mijikenda und benachbarter Küstengemeinschaften gelten große Exemplare von Milicia excelsa (Mvule) als Residenz von Ahnengeistern (Spirits) (Status: überliefert)43. Das unautorisierte Fällen dieser Bäume ist durch ein strenges Tabu belegt, dessen Einhaltung von Räten der Ältesten (Kaya Elders) überwacht wird (Status: gesichert)43. Bevor ein solcher Baum für essenzielle gemeinschaftliche Zwecke gefällt werden darf, müssen die Ältesten komplexe Rituale abhalten, Opfer darbringen und Gebete sprechen, um die Geister zu besänftigen und katastrophales Unheil oder rituelles Verfluchen abzuwenden (Status: überliefert) [Vorgabe Erzählkern, cite: 60, 70]. Diese auf Geisterfurcht basierenden Traditionen wirkten jahrhundertelang als äußerst robuster Mechanismus des indigenen Naturschutzes und bewahrten die Mvule-Bäume in und um die Kaya-Wälder vor der Abholzung (Status: gesichert)43. Die Ahnen der Kauma-Clans wurden traditionell in Form von Kigango-Pfählen (Gedenkpfosten) aus beständigem Hartholz geschnitzt und in diesen Hainen aufgestellt (Status: gesichert)43.
+Nutzung in Handwerk, Handel und Landwirtschaft
+Material: Das Holz des Mvule-Baumes ist eines der nachgefragtesten Harthölzer Ostafrikas. Es verdunkelt sich unter Lichteinfluss und ist von Natur aus resistent gegen Pilzbefall und Termiten (Status: gesichert)13. Berichte über die Beständigkeit gegen marine Bohrorganismen sind widersprüchlich (einige Quellen bejahen die Resistenz, andere verneinen sie) (Status: umstritten)16. Es wird für den Bau von Booten, Eisenbahnschwellen, Schleusentoren, Böden, Treppen und Musikinstrumenten (z. B. traditionelle Djembe-Trommeln) verwendet (Status: gesichert)3.
+Historischer Export: Der internationale Druck auf die Bestände war massiv. In den 1960er Jahren exportierte beispielsweise die Elfenbeinküste jährlich 55.000 Kubikmeter Iroko-Rundholz und 6.000 Kubikmeter Schnittholz, während Ghana 28.000 Kubikmeter Schnittholz ausführte. 1973 stieg der Export der Elfenbeinküste auf 136.500 Kubikmeter Rundholz (Status: gesichert)16.
+Agroforstwirtschaft: In Kenia wird der Baum auf Feldern zur Schattenbildung belassen oder zur Begrenzung von Parzellen angepflanzt (im Abstand von 5 x 5 Metern). Die abfallenden Blätter verbessern als Mulch den Boden (Status: gesichert)13.
+Medizinische Nutzung
+Das medizinische Wissen wird vorrangig mündlich tradiert und von Gemeinschaften in West- bis Ostafrika angewendet. Die Inhaltsstoffe finden in der traditionellen Herbalmedizin vielfältigen Einsatz:
+
+Verwendeter Teil
+	Dokumentierte Anwendung
+	Region/Gemeinschaft (soweit belegt)
+	Status der Wirksamkeit
+
+Latex
+	Als Anti-Tumor-Mittel, zur Lösung von Magen-/Halsblockaden, bei Verbrennungen, Wunden und Hautekzemen.
+	Tropisches Afrika / Digo (Kenia)
+	(Status: überliefert)9
+
+Rinde
+	Gemahlen bei Husten, Herzbeschwerden. Als Sud bei Asthma, Hexenschuss, Milzschmerzen, Rheuma und Erschöpfung. Extern bei Krätze und Haarausfall.
+	Tropisches Afrika
+	(Status: überliefert)9
+
+Wurzeln
+	Sud gegen weibliche Unfruchtbarkeit. Kombination von Wurzel- und Stammrinde als Aphrodisiakum.
+	Tropisches Afrika
+	(Status: überliefert)16
+
+Blätter
+	Behandlung von "Wahnsinn", Sud gegen Gallensteine, Mazeration zur Förderung des Milchflusses (Galaktagogum), Augentropfen bei Filariose.
+	Tropisches Afrika
+	(Status: überliefert)16
+Schutzstatus und Konflikte Die Kombination aus exzessivem Holzeinschlag und Habitatverlust durch agrarische Expansion führte zu einem drastischen Bestandsrückgang. Im Jahr 1998 stufte die International Union for Conservation of Nature (IUCN) Milicia excelsa auf der Roten Liste als "Near Threatened" (potenziell gefährdet) ein (Status: gesichert)5. Die Wiederaufforstung auf Plantagen wird durch den extremen Schädlingsdruck des Insekts Phytolyma lata nahezu vereitelt, was den Druck auf Wildbestände aufrechterhält (Status: gesichert)29. In den Kaya-Wäldern selbst entstanden seit dem späten 19. Jahrhundert sozioökonomische Konflikte, da die Gemeinschaften ihre Mittelsmann-Rolle im Handel verloren und der Druck stieg, Land für Landwirtschaft und Siedlungsbau zu roden (Status: gesichert)45.
 6. Wissenschaftsgeschichte
-Die botanische Dokumentation der Art ist eng mit zwei Persönlichkeiten des 18. Jahrhunderts verknüpft. Die erste wissenschaftliche Auseinandersetzung fand durch den französischen Botaniker Michel Adanson statt. Er verbrachte ab 1749 mehrere Jahre im Senegal, studierte die Baumart und fertigte um 1750 detaillierte Zeichnungen und Beschreibungen an5. Basierend auf diesen Aufzeichnungen veröffentlichte der schwedische Taxonom Carl von Linné (Linnaeus) im Jahr 1759 die offizielle Erstbeschreibung und benannte die Gattung nach Adanson4.
-Die Adansonia kilima-Kontroverse (gesichert): In den Jahren 2012 bis 2016 entbrannte ein taxonomischer Streit um die kenianischen und tansanischen Baobabs. Im Jahr 2012 veröffentlichte eine Forschergruppe um Jack Pettigrew eine Studie, die postulierte, dass es auf dem afrikanischen Festland eine zweite, bisher unentdeckte Baobab-Art gebe: Adansonia kilima. Die Argumentation basierte auf morphologischen und zytologischen Analysen aus dem kenianischen Hochland. Laut Pettigrew kam A. kilima vornehmlich in Höhenlagen zwischen 650 und 1.500 m vor, während A. digitata Lagen unter 800 m bevorzugte. Zudem sei A. kilima diploid (zwei Chromosomensätze), während A. digitata bekanntermaßen tetraploid ist. Morphologisch unterschied sich der vermeintlich neue Baum durch signifikant kleinere Spaltöffnungen (Stomata), kleinere Pollendurchmesser (44 Mikrometer gegenüber 63 Mikrometer) sowie Blütenblätter, die sich nicht vollständig nach hinten bogen3.
-Diese These wurde 2016 von Forschern um Cron und Baum widerlegt. Sie nutzten Durchflusszytometrie (Flow Cytometry) an Proben aus dem gesamten afrikanischen Verbreitungsgebiet, inklusive des Typusexemplars von A. kilima. Das Ergebnis zeigte, dass alle untersuchten Festland-Baobabs den gleichen tetraploiden DNA-Gehalt aufwiesen. Die beobachteten Unterschiede in der Größe der Stomata und Blüten wurden als phänotypische Plastizität (umweltbedingte Anpassung) an die unterschiedlichen Höhenlagen und nicht als genetische Artgrenze entlarvt47. Adansonia kilima verlor daraufhin ihren Status als eigenständige Art und wird in offiziellen Datenbanken (z. B. Kew) heute als Synonym von A. digitata geführt44.
-7. Fotografie (Praxis-Guide Tsavo und Amboseli)
-Lokationen und Tageszeiten auf der Route:
-Tsavo Ost: Der visuell markanteste Ort ist der Mudanda Rock. Es handelt sich um ein 1,6 km langes, präkambrisches Felsmassiv (Inselberg) nahe dem Manyani Gate49. Der Fels fungiert als natürliches Wassereinzugsgebiet und speist einen Damm. Die Baobabs in dieser Region sind oft Zeuge enormer Tierversammlungen. Die beste Tageszeit ist der späte Nachmittag, wenn Herden der "roten Elefanten" – eingefärbt durch das Einpudern mit laterithaltiger roter Erde – zum Trinken an den Damm kommen49. Ein weiteres lohnendes Motiv bieten die Ufer des Galana River52.
-Amboseli: Die Ränder der Sumpfgebiete (gespeist durch das unterirdische Schmelzwasser des Kilimandscharo). Hier ermöglicht das flache Terrain das Fotografieren eines Baobabs im Vordergrund mit Elefantenherden und dem Berg im Hintergrund31.
-Verhalten und Wartezeiten:
-Blütenöffnung: Lohnt das Abwarten am späten Nachmittag bis zur frühen Abenddämmerung. Die Knospen entfalten sich visuell rasant.
-Bestäubung durch Fledertiere: Findet bei absoluter Dunkelheit statt. Die Ankunft des Palmenflughunds (Eidolon helvum) an den weißen Blüten ist das Zielmotiv23.
-Rindenschälen (Bark-Stripping): Es lohnt sich, an massiv beschädigten Bäumen abzuwarten, da Elefanten in der Trockenzeit (Oktober) gezielt Baobabs aufsuchen, um Feuchtigkeit aus der Rinde zu kratzen28.
-Linseneinsatz und Verschlusszeiten:
-26 bis 60 mm: Obligatorisch für den Gesamt-Habitus. Nur mit extremem Weitwinkel (26 mm) lässt sich ein Stamm mit 14 Metern Durchmesser aus geringer Distanz vollständig mit der Krone abbilden, insbesondere in Amboseli für die Berg-Perspektive.
-100 bis 400 mm & 150 bis 600 mm: Zwingend erforderlich für Verhaltensaufnahmen der Elefanten (Interaktion am Baum, Rindenschälen). Die Elefanten in Tsavo können, geprägt durch historische Wilderei und Auseinandersetzungen, eine hohe Reaktivität und unvorhersehbare Fluchtdistanzen aufweisen. (Hintergrund: Der Sheldrick Wildlife Trust betreibt in Tsavo Waisenhäuser für Elefantenkälber wie "Baraka" oder "Sattao", die teils durch Wilderei-Schlingen am Rüssel verletzt oder deren Mütter durch Pfeile getötet wurden54). Es müssen sichere Distanzen gewahrt bleiben.
-Verschlusszeiten: Für den Anflug von Flughunden oder das Aufschrecken von Vögeln aus der Baumkrone sind sehr kurze Verschlusszeiten erforderlich. Belastbare Richtwerte liegen bei 1/1000s bis 1/2000s, was in der Dämmerung extrem hohe ISO-Werte (oder externe Lichtquellen) erfordert. Für das Rindenschälen der Elefanten genügt eine Basis-Verschlusszeit von 1/250s bis 1/500s.
+Die wissenschaftliche Dokumentation der Art vollzog sich in mehreren Etappen durch europäische Botaniker:
+1869: Der österreichische Botaniker und Afrikaforscher Friedrich Welwitsch beschrieb die Art nach einer Expedition (die Typuslokalität liegt in Angola) erstmals und ordnete sie unter dem Namen Morus excelsa in die Gattung der Maulbeerbäume ein (Status: gesichert)1.
+1909: Der schottische Botaniker Thomas Robertson Sim, der die Flora im südlichen Afrika erforschte, veröffentlichte das Werk Forest Flora and Forest Resources of Portuguese East Africa. Darin stellte er die neue Gattung Milicia auf (benannt nach dem Unterstützer Milici) (Status: gesichert)3.
+1982: Der niederländische Botaniker Cornelis Christiaan Berg publizierte im Bulletin du Jardin Botanique National de Belgique eine Revision, welche die Art aus der Gattung Chlorophora in die Gattung Milicia überführte, wodurch der bis heute gültige Artname Milicia excelsa etabliert wurde (Status: gesichert)5.
+Kontroverse und Forschung: Die Pleistozän-Refugium-Theorie Um das Jahr 2010 rückte Milicia excelsa in das Zentrum genetischer Forschungen, welche die Theorie der pleistozänen Waldrefugien überprüften. Während der Klimaoszillationen des Pleistozäns (vor 2,5 Millionen bis 11.000 Jahren) wechselten humide und aride Phasen ab, wodurch der westafrikanische Regenwald in kleine, voneinander isolierte Refugien zersplitterte. Wissenschaftler um K. Dainou (2010) analysierten nukleare Mikrosatelliten (nSSRs) und chloroplastische DNA (cpDNA) von Milicia-Populationen aus verschiedenen Ländern Afrikas. Obwohl der Baum windbestäubt ist und seine Samen durch mobile Flughunde (Eidolon helvum) verbreitet werden, zeigte die Studie eine drastische genetische Trennung zwischen den westafrikanischen und den zentral-/ostafrikanischen Populationen. Diese genetische Divergenz, aufrechterhalten durch den "Dahomey Gap" (einen trockenen Savannenkorridor), bewies, dass die Waldfragmente über mehrere eiszeitliche Zyklen hinweg isoliert blieben und kein genetischer Austausch stattfand. Diese Studie nutzte Milicia excelsa, um zu belegen, dass die Klimaveränderungen des Pleistozäns dauerhafte genetische Barrieren in der afrikanischen Flora hinterließen (Status: gesichert)36.
+7. Fotografie
+Die fotografische Erschließung der Art erfordert auf der Route um Mombasa spezifische Herangehensweisen, insbesondere da im späten September / frühen Oktober keine Fruchtstände vorhanden sind und der Baum kahl sein kann (Status: gesichert).
+Route / Ort
+	Motiv und Verhalten
+	Linseneinsatz
+	Verschlusszeiten
+	Typische Fehler / Fluchtdistanz
+
+Bamburi Beach / Haller Park, Nguuni Nature Sanctuary
+	Schlafende Flughunde (Eidolon helvum): Tagsüber (10:00–16:00) hängen die Flughunde in Trauben an den horizontalen Ästen des Kronendachs. In der Dämmerung (17:30–18:30) fliegen sie in Schwärmen aus.
+	150–600 mm: Für formatfüllende Porträts schlafender Flughunde im Schatten der Krone.
+
+100–400 mm: Für das Verfolgen des Schwarms im abendlichen Flug.
+	Ruhend: 1/250s bis 1/500s.
+
+Abflug/Flug: 1/1600s bis 1/2000s, um Flügelschlag einzufrieren.
+	Fehler: Erwarten, dass Fledermäuse Früchte fressen (keine Fruchtzeit). Fluchtdistanz: Solange man auf Wegen bleibt, ignorieren die Tiere in 30 m Höhe die Fotografen. Ein Betreten des Unterholzes direkt unter dem Baum verursacht Panik.
+
+Nguuni Sanctuary, Mtwapa Creek
+	Gallen von Phytolyma lata: Suchen nach jungen Sämlingen (unter 3 m) am Waldrand, die knollenartige, oft aufgeplatzte Deformationen an Knospen und Blättern zeigen.
+	45 mm: Für extreme Nahaufnahmen (Makro) der Risse, aus denen Insekten geschlüpft sind, und der nekrotischen Pilzinfektionen an der Galle.
+	1/100s (statisches Motiv auf Stativ, bei wenig Wind).
+	Fehler: Insektenspray verwenden oder Äste biegen. Die Sämlinge sind zerbrechlich, die Gallen verändern sich nicht durch Abwarten.
+
+Kaya-Waldfragmente in der Region
+	Habitat und Rindenstruktur: Der aschgraue, in quadratischen Schuppen abblätternde, gigantische Stamm. Sichtbare Schnittwunden mit getrocknetem weißem Latex oder weißen Calciumcarbonat-Einschlüssen ("Iroko-Steinen").
+	26–60 mm: Um den massiven Umfang (bis zu 3 m Durchmesser) und die 20 m astfreie Säule im Kontext des umgebenden Waldes darzustellen.
+	1/60s bis 1/125s (Im dichten Schatten des Unterholzes, Stativ angeraten).
+	Fehler: Fehlendes Größenverhältnis im Bild; immer eine Person oder ein Objekt als Maßstab integrieren. Das Ignorieren lokaler Tabus (keine Äste abbrechen).
 8. Links zum Weiterlesen und Sehen
-Fachliche Quelle:
-https://treeoflife.kew.org/tree-of-life/search-name/?order=Malvales&family=Malvaceae&genus=AdansoniaDie taxonomische Datenbank der Royal Botanic Gardens, Kew, listet die offizielle Einordnung, Phylogenie und verzeichnet Adansonia kilima als Synonym.
-https://redlist.sanbi.org/species.php?species=215-1Das South African National Biodiversity Institute (SANBI) bietet das detaillierte Rote-Liste-Profil der Art mit Ökologie-Daten und dem Bestätigungsstatus "Least Concern" aus dem Jahr 2014.
-https://www.sheldrickwildlifetrust.org/news/updates/terrible-tangleEinsatzberichte des Sheldrick Wildlife Trust dokumentieren die akuten Herausforderungen und Wilderei-Verletzungen (z. B. durch Schlingen) bei Elefanten im Tsavo-Ökosystem.
-Verbreitungskarte:
-https://www.gbif.org/species/3152213Die interaktive Karte der Global Biodiversity Information Facility verzeichnet über 14.000 global gesammelte, exakte GPS-Vorkommen für A. digitata, inklusive Ostafrika.
-Fotos:
-https://www.alamy.com/stock-photo-baobab-tree-adansonia-digitata-which-has-been-by-elephants-gouging-125830116.htmlEine Sammlung dokumentarischer Stockfotos, die das zerstörerische Verhalten von Elefanten beim Auswringen ("Gouging") der Baobab-Stämme visualisieren.
-Kultur / Geschichte:
-https://news.mongabay.com/2023/06/kenyan-baobab-trees-uprooted-for-export-to-georgia-critics-call-it-biopiracy/Ein investigativer Bericht über die Biopiraterie-Kontroverse um den Export kenianischer Baobabs aus Kilifi nach Georgien in den Jahren 2022 und 2023.
+Fachliche Quellen
+PROTA4U - Milicia excelsa – Detaillierte Datenbank der "Plant Resources of Tropical Africa" mit umfassenden Informationen zu Holzeigenschaften, medizinischer Nutzung und ökologischen Parametern. (Status: gesichert)16
+Plants of the World Online (Kew) - Milicia excelsa – Das offizielle taxonomische Profil der Royal Botanic Gardens Kew, inklusive der vollständigen Synonymie und Publikationsdaten. (Status: gesichert)6
+IUCN Red List - Milicia excelsa (Alternativer DOI-Link via GBIF: https://doi.org/10.2305/IUCN.UK.1998.RLTS.T33903A9817388.en) – Das Assessment der Weltnaturschutzunion aus dem Jahr 1998, das den Status "Near Threatened" begründet. (Status: gesichert)53
+Verbreitungskarte
+GBIF - Milicia excelsa (Welw.) C.C.Berg – Interaktive Karte der Global Biodiversity Information Facility mit Herbardatenbanken und weltweiten Sichtungen. (Status: gesichert)53
+(Hinweis: iNaturalist-Links zur Art führten in der systematischen Prüfung zu nicht abrufbaren Seiten55. Vögel sind nicht der Fokus, daher entfallen Audio-Links zu Vogelstimmen-Datenbanken).
 9. Visuelle Beschreibung für eine Illustration
-The African baobab stands as a colossal, pachycaul monolith, its trunk forming a swollen, irregular cylinder of purplish-grey, heavily scarred bark that flares abruptly at the base into robust, buttressed roots. During the harsh dry season, the canopy is entirely barren, thrusting thick, gnarled, and rapidly tapering branches into the sky like an upended root system. When the tree flushes, it bears palmately compound foliage, and from long, drooping peduncles hang massive, pendulous white flowers with deeply reflexed, crumpled petals that expose a prominent, spherical brush of hundreds of delicate white stamens.
-Detailvorschläge:
-Samenkapsel (Frucht): A woody, pale brown, ovoid capsule (up to 25 cm long), covered in a fine, velvety yellowish-green fuzz, hanging rigidly from a thick, fibrous stalk.
-Rindenstruktur: A tight close-up of the fibrous, waxy grey bark, deeply gouged by an elephant's tusk, revealing splintered parenchymatous wood and a thin subepidermal layer of photosynthetic green tissue.
-Blatt: A single, palmately compound leaf consisting of five to seven dark green, obovate leaflets radiating symmetrically from the apex of a long petiole.
-Kulturelle Vignette:
-A traditional Kenyan kiondo basket, meticulously handwoven from the tough, chewed, and tightly spun bast fibers extracted from the inner bark of a young baobab tree, adorned with subtle, earth-toned geometric patterns.
+The Milicia excelsa is a towering, deciduous emergent tree reaching up to 50 meters, distinguished by a massive, perfectly straight, cylindrical bole that remains devoid of branches for the first 20 to 25 meters. Its crown is broad and distinctly umbrella-shaped, composed of thick, horizontal primary limbs that support dark green, broadly elliptical leaves with a slightly downy texture on the underside. The bark exhibits an ashen-gray to dark brown hue, covered in a highly textured pattern of thick scales that flake off in distinct squarish sections. Rather than forming classical thin buttresses, the base of the trunk swells into short, robust root spurs that plunge into the soil, occasionally exposing orange surface roots with yellow lenticels.
+Fruit detail: A fleshy, aggregate syncarp measuring 7.5 centimeters long, resembling a fat, wrinkled, bright green caterpillar embedded with tiny, hard achenes.
+Leaf and Gall detail: A young, soft, yellowish-green juvenile leaf marred by several swollen, bulbous galls induced by the Phytolyma lata psyllid, with one gall ruptured at the apex revealing necrotic, blackened tissue from a secondary fungal infection.
+Bark and Stone detail: A close-up of a deep fissure in the gray, squarish bark exuding thick, milky-white latex, with hard, chalky-white deposits of calcium carbonate ("Iroko stones") calcified within the wood grain.
+Cultural vignette: A weathered, ancestral Kigango memorial post of the Mijikenda people, intricately carved with geometric patterns from the dense, golden-brown heartwood of the tree, standing vigil on a forest floor carpeted with dry yellow leaves.
 10. Was du nicht belegen konntest
-Folgende der im Prompt angefragten Parameter konnten durch die vorliegende Fachliteratur und das Quellenmaterial nicht gesichert belegt werden:
-Wörtliche Bedeutung der lokalen Namen: Zwar sind die Bezeichnungen in den Sprachen der Maa, Samburu, Giriama und Kamba belegt, ihre genaue linguistische Herleitung und wörtliche Übersetzung ist in der Literatur jedoch nicht dokumentiert.
-Kikuyu-Name: Es wurde kein spezifischer Beleg für den Namen des Baumes in der Kikuyu-Sprache gefunden.
-Nutzung als Gefängnis und Bar in Kenia: Die Annahme des Nutzers erwies sich als geografische Fehlverortung. Historisch belegte Baobab-Gefängnisse stehen in Australien (Derby) und Botswana (Kasane). Eine Baobab-Bar gab es ausschließlich in Südafrika (Sunland). Für Tsavo oder Amboseli gibt es hierfür keinerlei historische oder bauliche Nachweise.
-Exaktes Gesamtgewicht: Die extreme Schwankungsbreite des Wassergehalts (bis zu 79 % des Volumens) sowie die Dichtevarianz des weichen Parenchymholzes machen die Angabe eines seriösen Gesamtgewichts in metrischen Tonnen für adulte Exemplare wissenschaftlich unmöglich.
-Konkrete Fluchtdistanzen in Metern: Die exakte Fluchtdistanz der Elefanten und Paviane in den Tsavo-Parks lässt sich nicht in präzisen metrischen Abständen verallgemeinern, da sie individuell und situativ stark variiert (insbesondere durch das Trauma historischer Wilderei).
-(This is for informational purposes only. For medical advice or diagnosis, consult a professional.)
-Referenzen
-Adansonia digitata - the green institute, https://greeninstitute.ng/plants/adansonia-digitata
-Adansonia digitata - NMPPDB, https://nmppdb.com.ng/species-details?specy=adansonia-digitata
-Morphology, ploidy and molecular phylogenetics reveal a new, https://www.researchgate.net/publication/236031412_Morphology_ploidy_and_molecular_phylogenetics_reveal_a_new_diploid_species_from_Africa_in_the_baobab_genus_Adansonia_Malvaceae_Bombacoideae
-Adansonia digitata L. (baobab): a review of traditional information, https://www.researchgate.net/publication/281672806_Adansonia_digitata_L_baobab_a_review_of_traditional_information_and_taxonomic_description
-Adansonia digitata - Wikipedia, https://en.wikipedia.org/wiki/Adansonia_digitata
-The Baobab Tree: Africa's Iconic Symbol of Life - Beyondforest, https://www.beyondforest.org/post/the-baobab-tree-africa-s-iconic-tree-of-life
-Baobab Tree - Adansonia digitata - Kruger National Park, https://www.krugerpark.co.za/africa_baobab.html
-Species information: Adansonia digitata - Flora of Zambia, https://www.zambiaflora.com/speciesdata/species.php?species_id=139770
-A Prehistoric Wonder: Adansonia digitata - Google Arts & Culture, https://artsandculture.google.com/story/a-prehistoric-wonder-adansonia-digitata-botanical-research-institute-of-texas-library/2gUB-ZSfXro6Og?hl=en
-Adansonia digitata - Baobab, Muyu (Chonyu), Mbuyu (Swahili, Digo, http://regenerag.org/blog/2018/4/12/adansonia-digitata-baobab-muyu-chonyu-mbuyu-swahili-digo-muramba-embu
-Bambacaceae, https://apps.worldagroforestry.org/usefultrees/pdflib/Adansonia_digitata_KEN.pdf
-Adansonia digitata Bombacaceae L., https://apps.worldagroforestry.org/treedb/AFTPDFS/Adansonia_digitata.PDF
-Some Moisture Dependent Physical Properties of Baobab Seeds, https://www.ijoardjournal.org/index.php/ijoardjournal/article/download/142/94/
-Adansonia digitata - Agroforestree Species profile, https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=143
-Water relations of baobab trees (Adansonia spp. L.) during the rainy, https://www.researchgate.net/publication/6715697_Water_relations_of_baobab_trees_Adansonia_spp_L_during_the_rainy_season_Does_stem_water_buffer_daily_water_deficits
-A biomechanical perspective on the role of large stem volume and, https://pubmed.ncbi.nlm.nih.gov/21642189/
-(PDF) Bark anatomy ofAdansonia digitataL. (Malvaceae), https://www.researchgate.net/publication/318044030_Bark_anatomy_ofAdansonia_digitataL_Malvaceae
-Adansonia digitata - LE JARDIN NATUREL, https://www.baobabs.com/en/9/Adansonia%20digitata
-Morphology, ploidy and molecular phylogenetics reveal ... - SciSpace, https://scispace.com/pdf/morphology-ploidy-and-molecular-phylogenetics-reveal-a-new-4jn5nzxdaj.pdf
-BAOBAB, ADANSONIA DIGITATA L. VEDANATOMI OG FYSIOLOGI, https://dendron.dk/aarsskrift/docs/172.pdf
-Adansonia digitata and Adansonia gregorii fruit shells serve as a, https://pmc.ncbi.nlm.nih.gov/articles/PMC5816730/
-(PDF) Adansonia digitata and Adansonia gregorii fruit shells serve, https://www.researchgate.net/publication/323244459_Adansonia_digitata_and_Adansonia_gregorii_fruit_shells_serve_as_a_protection_against_high_temperatures_experienced_during_wildfires
-Baobabs and bats – new publication on the influence ... - Kingston Lab, https://kingstonlab.org/2022/04/14/baobabs-and-bats-new-publication-on-the-influence-of-the-landscape-and-plant-traits-on-fruiting-success/
-Why bats? - Kenya Bats Conservation Network (KenBAT), https://kenbats.wordpress.com/why-bats/
-The nighttime pollinators of Africa's baobab trees, https://www.fao.org/pollination/resources/knowledge/knowledge-product-detail/the-nighttime-guardians-of-africa-s-baobab-trees/en
-Pollination of the baobab (Adansonia digitata L.) by the fruit bat, https://scispace.com/papers/pollination-of-the-baobab-adansonia-digitata-l-by-the-fruit-cjvc5taqcd
-Pinpointing baobab (Adansonia digitata [Linn. 1759]) population, https://media.rufford.org/media/project_reports/African%20Journal%20Of%20Ecology%2C%202019.%2000.%201-13.pdf
-Elephants Threaten Baobab Trees in Gonarezhou National Park, https://science.uct.ac.za/seec/articles/2024-07-19-elephants-threaten-baobab-trees-gonarezhou-national-park
-(PDF) Limited elephant impacts on baobabs despite increasing, https://www.researchgate.net/publication/405481130_Limited_elephant_impacts_on_baobabs_despite_increasing_elephant_densities_in_a_newly_established_protected_area
-Rescuing Mapungubwe 's Baobabs from elephant damage, https://baobabfoundation.co.za/rescuing-mapungubwe-s-baobabs-from-elephant-damage/
-The Unique ecosystem of Amboseli National Park – But for how long?, https://beyonder.travel/africa/kenya/unique-ecosystem-amboseli-national-park-for-how-long/
-Amboseli National Park - Kenya - Africa Geographic, https://africageographic.com/stories/amboseli-national-park/
-The Baobab (Adansonia digitata L.) in Southern Kenya–A Study on, https://pmc.ncbi.nlm.nih.gov/articles/PMC8172389/
-All Eight Baobab Trees Imported by Ivanishvili from Kenya to, https://sakartvelosambebi.ge/en/news/all-eight-baobab-trees-imported-by-ivanishvili-from-kenya-to-georgia-have-withered
-Ivanishvili-linked dendrological park blasts opposition over death of, https://oc-media.org/ivanishvili-linked-dendrological-park-blasts-opposition-over-death-of-kenyan-baobab-trees/
-Kenyan baobab trees uprooted for export to Georgia; critics call it, https://news.mongabay.com/2023/06/kenyan-baobab-trees-uprooted-for-export-to-georgia-critics-call-it-biopiracy/
-Ivanishvili and the export of baobabs to Georgia - JAMnews, https://jam-news.net/export-of-baobabs-to-georgia/
-Big Baobab bar South African Toursim | Inhabitat - Inhabitat, https://inhabitat.com/grab-a-drink-inside-a-6000-year-old-baobab-tree-at-south-africas-sunland-bar/big-baobab-bar-south-african-toursim3/
-Baobab Holiday Resort, https://baobabholidayresort.com/
-Boab Prison Tree, Derby - Wikipedia, https://en.wikipedia.org/wiki/Boab_Prison_Tree,_Derby
-Contest #983 – Derby boab prison tree - Where On Google Earth?, http://whereongoogleearth.net/2026/09/04/contest-983-derby-boab-prison-tree/
-Derby Boab 'Prison Tree' - Atlas Obscura, https://www.atlasobscura.com/places/derby-boab-prison-tree
-Sefofane Magazine August Edition (Old) - Air Botswana, https://sefofane.airbotswana.co.bw/view/818737524/42/
-Adansonia digitata L. - Red List of South African Plants - SANBI, https://redlist.sanbi.org/species.php?species=215-1
-Verifying the presence of the newly discovered African baobab, https://www.researchgate.net/publication/279070721_Verifying_the_presence_of_the_newly_discovered_African_baobab_Adansonia_kilima_in_Zimbabwe_through_morphological_analysis
-Verifying the presence of the newly discovered African baobab, https://www.researchgate.net/publication/279070721_Verifying_the_presence_of_the_newly_discovered_African_baobab_Adansonia_kilima_in_Zimbabwe_through_morphological_analysis/fulltext/55c0453308ae092e9666abe2/Verifying-the-presence-of-the-newly-discovered-African-baobab-Adansonia-kilima-in-Zimbabwe-through-morphological-analysis.pdf
-(PDF) One African baobab species or two? A re-evaluation of, https://www.researchgate.net/publication/299387009_One_African_baobab_species_or_two_A_re-evaluation_of_Adansonia_kilima
-Adansonia digitata - GBIF, https://www.gbif.org/taxon/9X63
-Tsavo East National Park Safari Guide | Ryder Signature, https://rydersignature.com/africa-safari-destinations/tsavo-east-national-park-kenyas-red-soil-wilderness-and-the-land-of-the-man-eaters/
-Mudanda Rock in Tsavo National Park, https://www.tsavonationalparkkenya.com/mudanda-rock-in-tsavo-national-park/
-Mudanda Rock Tsavo East National Park - Annest Kenya Safaris, https://annestkenyasafaris.com/mudanda-rock-tsavo-east-national-park/
-Tsavo East National Park - Top Africa Safaris, https://www.topafricasafaris.com/tsavo-east-national-park
-Tsavo East National Park – where the lions and elephants roam, https://africasafaritrips.com/national-parks/tsavo-east/
-Baraka - Sheldrick Wildlife Trust, https://www.sheldrickwildlifetrust.org/orphans/baraka
-Sattao - Sheldrick Wildlife Trust, https://www.sheldrickwildlifetrust.org/orphans/sattao
-Saving an Elephant From a Terrible Tangle - Sheldrick Wildlife Trust, https://www.sheldrickwildlifetrust.org/news/updates/terrible-tangle
+Trotz systematischer Analyse des zur Verfügung gestellten Rohmaterials konnten folgende angefragte Spezifikationen nicht durch belastbare Quellen belegt werden:
+Lokale Namen für Maa und Samburu: Die Recherche lieferte Belege für die Sprachen Swahili, Giriama, Digo, Kamba, Luo, Luhya, Meru, Bukusu und Teso. Für die pastoralen Gemeinschaften der Maasai (Maa) und Samburu fehlen jegliche Belege zur Nomenklatur, was ökologisch plausibel ist, da der Baum vorwiegend in küstennahen und feuchten Wäldern wächst, die nicht zum klassischen Weidegebiet dieser Gemeinschaften gehören.
+Wörtliche Bedeutungen der lokalen Namen: Zwar sind Bezeichnungen wie "Mvure", "Murumba" oder "Kitangure" gesichert, jedoch boten die ethno-linguistischen Quellen keine Herleitung der wörtlichen Bedeutung dieser Begriffe an.
+Bestätigung des Kikuyu-Namens: Der Kikuyu-Name "Kagethi" wird in der Quelle23 selbst als unbestätigt eingestuft ("We are yet to establish the local name (some say it is called Kagethi)"). Eine Übernahme als gesicherter Fakt ist nicht zulässig.
+Historische Ereignisse (Tagesgenau): Abgesehen von der systematischen Etablierung der Kaya-Wälder (16. Jh.) und deren Aufgabe (1940er) sowie den Export-Spitzenjahren in Westafrika (1960er, 1973) sind keine tages- oder jahresgenauen historischen Einzelereignisse (wie ein spezifischer Krieg, eine Naturkatastrophe oder die Gründung eines Tempels) direkt an ein einzelnes Milicia excelsa-Exemplar in Kenia gebunden dokumentiert.
+Fotografie (Audio-Links und iNaturalist): Da Milicia excelsa keine Lautäußerungen tätigt, entfällt der Link zu xeno-canto. Der abgefragte Link zum Taxon auf iNaturalist55 meldete einen Systemfehler und wurde gemäß Regel (keine konstruierten URLs) weggelassen.
+Works cited
+Species information: Milicia excelsa, https://www.drcongoflora.com/speciesdata/species.php?species_id=120150
+Iroko (Chorophora excelsa), https://www.pohuiwood.com/products_details/Iroko.html
+Biology:Iroko - HandWiki, https://www.handwiki.org/wiki/Biology:Iroko
+Iroko - Wikipedia, https://en.wikipedia.org/wiki/Iroko
+Iroko - Sambuc Éditeur, https://www.sambuc.fr/articles/nature-et-biologie/ob1498-iroko.html
+Milicia excelsa (African teak) - PubChem, https://pubchem.ncbi.nlm.nih.gov/taxonomy/58664
+Milicia excelsa - Wikipedia, https://de.wikipedia.org/wiki/Milicia_excelsa
+ITIS - Report: Milicia excelsa, https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=823752
+Milicia excelsa - Wikipedia, https://en.wikipedia.org/wiki/Milicia_excelsa
+Morphological Evolution in the Mulberry Family (Moraceae), https://geo.cbs.umn.edu/Clement&Weiblen2009.pdf
+Persistence of Gondwanan woods in Myanmar through the ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC13274995/
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:910900-1
+Milicia excelsa Moraceae (Welw.) C. Berg, https://apps.worldagroforestry.org/treedb2/AFTPDFS/Milicia_excelsa.PDF
+Milicia excelsa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Milicia+excelsa
+Milicia excelsa (Introduced) - eFlora of India, https://efloraofindia.com/efi/milicia-excelsa/
+Milicia excelsa - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Milicia+excelsa
+Milicia excelsa (African teak) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.34158
+Milicia regia - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Milicia+regia
+Iroko | Material-Archiv, https://materialarchiv.ch/de/ma:material_1267?id=14&Itemid=0&type=all&n=Grundlagen
+Mvule / Iroko - Trees - Infonet-biovision.org, https://infonet-biovision.org/trees/mvule-iroko
+Craibia brownii is one of Kenya's least known indigenous trees, but, https://www.facebook.com/africanplantresearchcentre/posts/craibia-brownii-is-one-of-kenyas-least-known-indigenous-trees-but-it-has-long-be/1343602584616807/
+Common Tree Names in Kenya | PDF - Scribd, https://www.scribd.com/document/708981466/Kenya-Local-Names
+These indigenous trees are not only threatened in the wild but also, https://www.facebook.com/africanplantresearchcentre/posts/these-indigenous-trees-are-not-only-threatened-in-the-wild-but-also-highly-valua/1148290037481397/
+Milicia excelsa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Milicia+excelsa&redir=Chlorophora+excelsa
+the oxalate-carbonate pathway in a tropical tree ecosystem - BG, https://bg.copernicus.org/articles/8/1755/2011/bg-8-1755-2011.pdf
+Discuss the process and flow of matter or information associated, https://www.researchgate.net/publication/349929569_Discuss_the_process_and_flow_of_matter_or_information_associated_with_the_tree_in_an_ecosystem
+Detection of active oxalate–carbonate pathway ecosystems in the, http://geoprodig.cnrs.fr/items/show/46573
+Functional Diversity of the Litter-Associated Fungi from an Oxalate, https://www.mdpi.com/2076-2607/9/5/985
+Integrated approach for conservation and management of genetic, https://www.researchgate.net/publication/248428269_Integrated_approach_for_conservation_and_management_of_genetic_resources_of_Milicia_species_in_West_Africa
+Fungal assemblages associated with gall formation by Phytolyma, https://www.researchgate.net/publication/400680863_Fungal_assemblages_associated_with_gall_formation_by_Phytolyma_fusca_on_Milicia_excelsa_in_Nigeria
+Psyllidae) On Seedling Growth Of Milicia excelsa - ResearchGate, https://www.researchgate.net/publication/264890943_Influence_Of_Phytolyma_lata_Homoptera_Psyllidae_On_Seedling_Growth_Of_Milicia_excelsa
+Survival, growth and gall formation by Phytolyma lata on Milicia, https://www.researchgate.net/publication/230365857_Survival_growth_and_gall_formation_by_Phytolyma_lata_on_Milicia_excelsa_established_in_mixed-species_tropical_plantations_in_Ghana
+seedling ecology of aucoumea klaineana pierre,the most - ORBi, https://orbi.uliege.be/bitstream/2268/321293/1/Seedling%20ecology%20of%20Aucoumea%20klaineana%20Pierre.pdf
+Insect Pest in Tropical Forests | PDF - Scribd, https://www.scribd.com/document/423396708/insect-pest-in-tropical-forests
+Survival and growth of mixed plantations of Milicia excelsa and, https://www.researchgate.net/publication/223646675_Survival_and_growth_of_mixed_plantations_of_Milicia_excelsa_and_Terminalia_superba_9_years_after_planting_in_Ghana
+Milicia excelsa sampling locations (populations), estimates of genetic, https://www.researchgate.net/figure/Milicia-excelsa-sampling-locations-populations-estimates-of-genetic-diversity-at-nSSRs_tbl1_46379997
+Ngezi –Vumawimbi Forest Reserves, http://coastalforests.tfcg.org/pubs/Ngezi-Biodiversity.pdf
+Another bat from my local area (Ruiru, Kenya). I have this one down, https://www.facebook.com/groups/3909546555818971/posts/4026158190824473/
+Exotic Guavas are Foci of Forest Regeneration in Kenyan Farmland, https://www.researchgate.net/publication/229991922_Exotic_Guavas_are_Foci_of_Forest_Regeneration_in_Kenyan_Farmland
+Forest refugia revisited: nSSRs and cpDNA sequences support, https://pubmed.ncbi.nlm.nih.gov/20854478/
+African straw-colored bat facts and conservation - Facebook, https://www.facebook.com/groups/450631048384884/posts/7321664461281474/
+Urban Green Spaces: A Sustainable Approach - POLICY BRIEF, https://cdn.prod.website-files.com/6473831a6fc6bf5f6fcfe22a/69b20080e2b3ea4a8a1c3adf_Policy%20Brief%20.pdf
+Let's discover the Sacred Mijikenda Kaya Forests in Kenya , East, https://www.facebook.com/africanworldheritagefund/posts/-lets-discover-the-sacred-mijikenda-kaya-forests-in-kenya-east-africa-%EF%B8%8Flocated-o/826632252836444/
+Traditionally protected forests and sacred forests of Zigua ... - Helda, https://helda.helsinki.fi/bitstreams/cadd1175-873d-46f0-816d-bcfe36c4fe5d/download
+The Case of the Rabai Kaya Forests in Coastal Kenya - ResearchGate, https://www.researchgate.net/publication/237379464_Cultural_and_Biological_Heritage_at_RiskThe_Case_of_the_Rabai_Kaya_Forests_in_Coastal_Kenya
+Sacred Groves and the Supernatural - The Role of Indigenous, https://carijournals.org/journals/JCP/article/download/3612/4249/10002
+The Case of the Rabai Kaya Forests in Coastal Kenya, http://krepublishers.com/02-Journals/JHE/JHE-24-0-000-000-2008-Web/JHE-24-4-000-000-2008-Abst-PDF/JHE-24-4-287-08-1626-Kibet-S/JHE-24-4-287-08-1626-Kibet-S-Tt.pdf
+African traditional plant knowledge today: An ethnobotanical study of, https://www.academia.edu/94228504/African_traditional_plant_knowledge_today_An_ethnobotanical_study_of_the_Digo_at_the_Kenya_Coast
+Olea welwitschii, commonly known as Elgon teak and ... - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/olea-welwitschii-commonly-known-as-elgon-teak-and-called-mucarage-in-kikuyu-is-o/1280585280918538/
+Milicia excelsa African Teak PFAF Plant Database, https://pfaf.org/user/Plant.aspx?LatinName=Milicia%20excelsa
+WILDLIFE DOCUMENTARIES™: The Giant Forest Tree Called IROKO, http://naijasafari.blogspot.com/2015/08/the-giant-forest-tree-called-iroko.html
+(PDF) Capability map for growing high value tree species in the, https://www.researchgate.net/publication/320258377_Capability_map_for_growing_high_value_tree_species_in_the_Coast_region_of_Kenya_CAPABILITY_MAP_FOR_GROWING_HIGH_VALUE_TREE_SPECIES_IN_THE_COAST_REGION_OF_KENYA_A_Guide_for_Farmers_Forest_Managers_Exte
+The IUCN Red List of Threatened Species - GBIF, https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/33903
+Pleistocene refugia and genetic diversity patterns in West Africa, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170511
+https://www.inaturalist.org/taxa/135246-Milicia-excelsa

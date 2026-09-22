@@ -1,298 +1,176 @@
-Research Report: Milicia excelsa (Iroko / Mvule)
+Forschungsbericht: Der Östliche Bongo (Tragelaphus eurycerus isaaci) in Kenia
 1. Namen und Etymologie
-Die taxonomische Einordnung und Namensgebung der Art Milicia excelsa durchlief in der botanischen Wissenschaftsgeschichte mehrere Revisionen (Status: gesichert). Das Epitheton excelsa stammt aus dem Lateinischen und bedeutet wörtlich "hoch", "erhaben" oder "aufragend" (Status: gesichert)1. Der Gattungsname Milicia ehrt Milici, einen Administrator im damaligen Portugiesisch-Ostafrika (heute Mosambik) während des 19. und frühen 20. Jahrhunderts, der die Arbeit des Botanikers Thomas Robertson Sim unterstützte (Status: gesichert)2.
-Die Pflanze ist in der Klasse der Magnoliopsida (zweikeimblättrige Pflanzen) verortet (Status: gesichert)5.
+Die systematische Erfassung und Benennung des Östlichen Bongos ist das Resultat jahrzehntelanger taxonomischer Studien. Es ist gesichert, dass die Nomenklatur auf europäische Naturforscher des 19. und 20. Jahrhunderts zurückgeht, während die lokalen und regionalen Bezeichnungen teilweise linguistisch unklar bleiben.
+Die Erstbeschreibung der Art Tragelaphus eurycerus erfolgte im Jahr 1837 durch den irischen Naturforscher William Ogilby1. Es ist gesichert, dass der Gattungsname Tragelaphus aus einer Fusion der griechischen Wörter trag- (Ziege) und elaphos (Hirsch) hervorging1. Der Artname eurycerus leitet sich gesichert aus den griechischen Begriffen eurus (breit oder weitverbreitet) und keras (Horn eines Tieres) ab1. Eine formale Aufspaltung in Unterarten erfolgte im Oktober des Jahres 1902, als der britische Zoologe Oldfield Thomas die kenianische Population als Tragelaphus eurycerus isaaci klassifizierte3. Das Epitheton isaaci ehrt gesichert Frederick W. Isaac, einen Sammler, der das Typusexemplar in der Region der Eldama-Schlucht (Eldama Ravine) in Kenia beschaffte3.
+Es ist historisch gesichert, dass der Trivialname "Bongo" erstmals im Jahr 1861 in der englischen Sprache dokumentiert wurde1. Es wird vermutet, dass dieser Name ursprünglich aus der Kele-Sprache in Gabun stammt1. In der Swahili-Sprache bedeutet das Wort "bongo" oder "ubongo" gesichert "Gehirn" oder "mentale Fähigkeiten", doch ist die Anwendung dieses Begriffs auf die Antilope ein linguistisches Lehnwort ohne anatomischen Bezug zur Spezies5.
 
-Taxonomische Ebene
+Sprache / Region
 	Name
-	Erstbeschreibung / Autor
-
-Ordnung
-	Rosales (Rosenartige)
-	(Status: gesichert)7
-
-Familie
-	Moraceae (Maulbeergewächse)
-	(Status: gesichert)5
-
-Tribus
-	Moreae
-	(Status: gesichert)7
-
-Gattung
-	Milicia
-	Sim (1909) (Status: gesichert)4
-
-Art (Basionym)
-	Morus excelsa
-	Welw. (1869) (Status: gesichert)1
-
-Art (Gültiger Name)
-	Milicia excelsa
-	(Welw.) C.C.Berg (1982) (Status: gesichert)5
-Zusätzlich zu den heute gültigen Namen verzeichnet die Nomenklaturgeschichte diverse homotypische und heterotypische Synonyme, darunter Maclura excelsa ((Welw.) Bureau, 1873), Chlorophora excelsa ((Welw.) Benth. & Hook.f., 1880), Chlorophora tenuifolia (Engl., 1894), Milicia africana (Sim, 1909) und Chlorophora alba (A.Chev., 1912) (Status: gesichert)1. Der Holzhandel unterscheidet oftmals nicht zwischen Milicia excelsa und der eng verwandten westafrikanischen Art Milicia regia, beide werden unter denselben Trivialnamen gehandelt (Status: gesichert)16.
-
-Sprache / Gemeinschaft
-	Trivialname
-	Wörtliche Bedeutung
-	Status der Beleglage
-
-Deutsch
-	Iroko, Afrikanisches Teakholz
-	unbekannt / deskriptiv
-	(Status: gesichert)9
-
-Englisch
-	African teak, Iroko, Rock-elm
-	deskriptiv
-	(Status: gesichert)9
-
-Swahili
-	Mvule, Mvuli, Mfunda mweupe
-	unbekannt
-	(Status: gesichert)13
-
-Giriama (Mijikenda)
-	Mvure
-	unbekannt
-	(Status: gesichert)20
-
-Digo (Mijikenda)
-	Mvure
-	unbekannt
-	(Status: gesichert)20
-
-Kamba
-	Kitangure
-	unbekannt
-	(Status: gesichert)20
-
-Kikuyu
-	Kagethi
-	unbekannt
-	(Status: vermutet)23
-
-Samburu
-	unbekannt
-	unbekannt
-	(Status: unbestätigt)
-
-Maa
-	unbekannt
-	unbekannt
-	(Status: unbestätigt)
-2. Erscheinung, mit Maßen
-Milicia excelsa ist ein laubabwerfender Baum, der der obersten Kronenschicht (Emergent) angehört und über ein weitreichendes Wurzelsystem verfügt (Status: gesichert)7. Die Art zeichnet sich durch einen Diözie (Zweihäusigkeit) aus, wodurch männliche und weibliche Exemplare phänotypische Unterschiede in ihrer Wuchsform aufweisen (Status: gesichert)9.
-
-Merkmal
-	Dimension / Spezifikation
-	Alltagsvergleich (berechnet/Quelle)
+	Etymologie / Wörtliche Bedeutung
 	Status
 
-Baumhöhe
-	Bis zu 50 m
-	Entspricht einem 16- bis 17-stöckigen Gebäude (bei 3 m pro Stockwerk).
-	(Status: gesichert)5
+Wissenschaftlich (Latein)
+	Tragelaphus eurycerus isaaci
+	Ziegenhirsch mit breiten Hörnern, entdeckt von Isaac
+	Gesichert1
 
-Stammdurchmesser
-	1,5 bis 3 m (teils bis 10 m Umfang)
-	Durchmesser entspricht der Länge eines durchschnittlichen PKWs.
-	(Status: gesichert)7
+Wissenschaftlich (Synonym)
+	Antilope eurycerus
+	Ursprüngliche Zuordnung durch Ogilby (1837)
+	Gesichert2
 
-Astfreier Stamm
-	20 bis 25 m
-	Entspricht der Höhe eines 7-stöckigen Gebäudes.
-	(Status: gesichert)9
+Deutsch
+	Östlicher Bongo, Berg-Bongo
+	Geografische und habituelle Ableitung
+	Gesichert1
 
-Rindendicke
-	"Dick", 5 bis 7,5 cm Splintholz darunter
-	unbekannt
-	(Status: gesichert)9
+Englisch
+	Eastern Bongo, Mountain Bongo
+	Geografische und habituelle Ableitung
+	Gesichert1
 
-Holzdichte
-	550 bis 750 kg/m³ (bei 12 % Feuchte)
-	unbekannt
-	(Status: gesichert)16
+Swahili
+	bongo
+	Lehnwort, in Swahili wörtlich "Gehirn"
+	Gesichert1
 
-Samengewicht
-	403.778 Samen pro Kilogramm
-	ca. 0,0025 Gramm pro Samen.
-	(Status: gesichert)17
-Wuchsform und Geschlechtsdimorphismus Der Stamm verläuft zylindrisch, wobei echte Brettwurzeln fehlen. Stattdessen bilden sich an der Basis älterer Bäume kurze Wurzelsporne, während Sämlinge eine ausgeprägte, orangefarbene Pfahlwurzel entwickeln, die bei einem dreijährigen Exemplar einen Durchmesser von 2,5 cm in 23 cm Bodentiefe aufweist (Status: gesichert)7. Männliche Bäume weisen einen schlankeren, oft längeren Stamm auf. Ihre Krone ist schmaler, das Laub heller, und die feinen Äste biegen sich nach oben (Status: gesichert)9. Weibliche Bäume hingegen neigen eher zur Stammgabelung, besitzen eine ausladendere, schirmförmige Krone und weisen nach unten hängende Zweige auf (Status: gesichert)9.
-Rinde, Holz und Läsionen Die Borke ist aschgrau bis dunkelbraun, bei jüngeren Bäumen glatt, im Alter schuppig und blättert in quadratischen Stücken ab (Status: gesichert)1. Bei Verletzungen von Rinde oder Holz sondert der Baum einen reichlichen, weißen, klebrigen Latex ab (Status: gesichert)9. Das Splintholz ist gelblich-weiß, während das Kernholz eine gelbe bis goldbraune Farbe aufweist, die unter Lichteinfluss zu schokoladenbraun oder grünlich-braun nachdunkelt (Status: gesichert)5. Das Holz von Bäumen in Savannengebieten oder nach Bränden weist häufig exzentrisches Wachstum und Ablagerungen von Calciumcarbonat auf, die als "Iroko-Steine" bezeichnet werden (Status: gesichert)16.
-Blätter Die wechselständigen Blätter zeigen eine ausgeprägte Heterophyllie zwischen Altersstufen. Juvenile Blätter (an jüngeren Bäumen) sind weich, länglich-lanzettlich, bis zu 4 cm lang, haben einen gezähnten Rand, eine gelblich-grüne Farbe und eine raue, sandpapierartige Oberfläche (Status: gesichert)13. Reife Blätter hingegen sind breit-elliptisch oder eiförmig, 5 bis 10 cm lang (teilweise 9 bis 20 cm) und 5 bis 10 cm breit. Die Oberseite ist dunkelgrün und glatt, die Unterseite leicht flaumig mit einem stark hervortretenden, rechteckigen Netz aus Blattadern (Status: gesichert)1. Vor dem Laubabwurf verfärben sich ältere Blätter gelb (Status: gesichert)9.
-Blüten und Früchte Die Blüten sind diözisch und axillär. Männliche Blütenstände bilden pendelnde (hängende), weiße Kätzchen mit einer Länge von 15 bis 20 cm. Weibliche Blütenstände sind aufrechte, grüne Ähren mit einer Länge von 5 bis 6 cm und einer Dicke von 2 cm, die auffällige Griffel aufweisen (Status: gesichert)9. Die fleischige Sammelfrucht hat die Form einer dicken, grünen Raupe oder einer großen Maulbeere. Sie misst 5 bis 7,5 cm in der Länge und 2 bis 2,5 cm im Durchmesser (Status: gesichert)13. Die Fruchtoberfläche ist faltig. Bei Reife ändert sich die grüne Farbe nicht, lediglich das Fruchtfleisch wird weicher. Im Inneren liegen durchschnittlich 73 kleine, harte Samen (Achänen) eingebettet (Status: gesichert)13.
+Maa, Kikuyu, Samburu, Giriama, Kamba
+	Unbekannt
+	In der Quellenlage nicht eindeutig spezifiziert
+	Lücke
+2. Erscheinung, mit Maßen
+Der Östliche Bongo ist die größte und schwerste waldbewohnende Antilope des afrikanischen Kontinents und wird weltweit als die drittgrößte Antilopenart geführt1. Seine Phänologie ist durch eine Anpassung an dichte Waldhabitate gekennzeichnet.
+Es ist gesichert, dass die Körperfärbung tief rötlich-braun bis kastanienbraun ist1. Ein belegter Sexualdimorphismus zeigt sich in der Pigmentierung: Während Weibchen und Jungtiere ein helleres Rotbraun aufweisen, verdunkelt sich das Fell der Männchen (Bullen) mit zunehmendem Alter kontinuierlich, bis es eine fast schwarze Färbung annimmt7. Beide Geschlechter tragen gesichert auf jeder Körperflanke zwischen 8 und 15 weiße bis weißlich-gelbe vertikale Streifen1. Es ist gesichert, dass diese Streifenmusterung asymmetrisch ist; die rechte und linke Körperhälfte desselben Individuums weisen unterschiedliche Streifenverläufe auf10. Zu den weiteren gesicherten optischen Merkmalen gehören eine markante weiße Winkelzeichnung (Chevron) auf dem Nasenrücken, unproportional große Ohren sowie weiße Markierungen an den Beinen7.
+Beide Geschlechter verfügen gesichert über massive, leicht spiralförmig gedrehte Hörner mit einer einzigen Windung1. Hierbei zeigt sich ein weiterer Geschlechtsdimorphismus: Die Hörner der Weibchen verlaufen paralleler und sind im Durchmesser dünner, während die Hörner der Bullen massiver strukturiert sind und weiter ausladend wachsen7.
+
+Parameter
+	Metrische Werte
+	Alltagsvergleich
+	Status
+
+Schulterhöhe
+	100 cm bis 170 cm11
+	170 cm entspricht der Körpergröße eines durchschnittlichen erwachsenen Menschen (kalkuliert).
+	Gesichert
+
+Körpergewicht
+	225 kg bis 410 kg13
+	410 kg entspricht der Masse von etwa fünf durchschnittlichen erwachsenen Männern (kalkuliert).
+	Gesichert
+
+Hornlänge
+	55 cm bis 99 cm7
+	99 cm entspricht annähernd der Höhe einer Standard-Küchenarbeitsplatte (kalkuliert).
+	Gesichert
+
+Tragzeit
+	285 Tage1
+	Etwa 9,5 Monate, vergleichbar mit der menschlichen Schwangerschaft.
+	Gesichert
+
+Lebenserwartung
+	12 Jahre (Wildnis) bis 22 Jahre (Gefangenschaft)9
+	-
+	Gesichert
 3. Der Mechanismus
-Die Existenz von Milicia excelsa wird in der Forschung primär durch zwei stark ausgeprägte biologische Mechanismen definiert: den biogeochemischen Kohlenstoffkreislauf (Oxalat-Carbonat-Pfad) und die phytopathologische Reaktion auf Insektenbefall (Gallbildung).
-3.1 Der Oxalat-Carbonat-Pfad (OCP) als Kohlenstoffsenke
-Dieses Prinzip befähigt das Milicia excelsa-Ökosystem, als langfristige Kohlenstoffsenke zu agieren und Calciumcarbonat (Kalkstein) in tropischen Oxisol-Böden auszufällen. Theoretisch weisen diese Böden ein saures Milieu auf, in dem Carbonate nicht akkumulieren dürften. Erforscht wurde der Mechanismus maßgeblich zwischen 2004 und 2011 von den Wissenschaftlern Guillaume Cailleau, Olivier Braissant und Eric Verrecchia, unter anderem durch Isotopenanalysen (δ13C-Signaturen) (Status: gesichert)25.
-Ökologische Kausalkette des OCP:
-Oxalogenese (Biomineralisation im Baum): Der Baum absorbiert atmosphärisches Kohlendioxid (CO₂) durch Photosynthese. Als metabolisches Nebenprodukt synthetisiert er große Mengen an organischen Calciumoxalat-Kristallen (Whewellit), die im Gewebe von Holz und Blättern gespeichert werden (Status: gesichert)25. Das benötigte Calcium wird aus carbonatfreien Quellen (Silikate im Grundgestein oder atmosphärischer Staub) über die Wurzeln aufgenommen (Status: gesichert)25.
-Litterfall und biotischer Abbau: Durch Laubabwurf und Totholz gelangen die Calciumoxalat-Kristalle in die oberen Bodenschichten. Dort zersetzen holzabbauende Organismen – vorwiegend Termiten und saprophytische Pilze – das pflanzliche Material und setzen die Kristalle frei. Einige Pilzarten fügen dem System zusätzlich selbst produziertes Oxalat hinzu (Status: gesichert)26.
-Oxalotrophie: Eine spezifische Gemeinschaft von Bodenbakterien (oxalotrophe Bakterien) nutzt die freigesetzten Oxalatkristalle als exklusive Kohlenstoff- und Energiequelle. Sie oxidieren das Oxalat (Status: gesichert)25.
-Alkalinisierung und Ausfällung: Der bakterielle Abbau des Oxalats führt zu einem lokalen Anstieg des pH-Wertes im Boden und reichert die Bodenlösung mit Carbonat-Ionen an. Die mit Carbonat und Calcium gesättigte Bodenlösung wird durch den Transpirationssog der Baumwurzeln angezogen (Status: gesichert)25.
-Pedogene und stammnahe Biomineralisation: Die veränderten chemischen Bedingungen führen zur Ausfällung von neuem Calciumcarbonat (Calcit). Dies äußert sich in der Bildung von Kalkkrusten im Boden rings um das Wurzelsystem sowie als extrem harte Konkretionen ("Iroko-Steine") an der Stammbasis und in Wundspalten des Holzes (Status: gesichert)16.
-Solange das Calcium aus silikatischen Quellen stammt, verbleibt der ehemals atmosphärische Kohlenstoff dauerhaft in anorganischer Form im Boden. Dieses System wird als "carbon trapping ecosystem" definiert (Status: gesichert)25.
-3.2 Die toxikogene Gallbildung durch Phytolyma lata
-Der zweite maßgebliche Mechanismus ist die hochspezialisierte Interaktion zwischen Milicia excelsa und dem blattsaugenden Insekt Phytolyma lata (Hemiptera: Psyllidae), dem sogenannten Iroko-Gallenfloh. Diese Interaktion limitiert die natürliche Verjüngung und macht die Anlage von Monokultur-Plantagen in Afrika nahezu unmöglich (Status: gesichert)29. Die Erforschung dieses Mechanismus erstreckt sich über Jahrzehnte, mit zentralen Studien von J.R. Cobbinah, M.R. Wagner und D.A. Ofori (ca. 1991 bis 2009) (Status: gesichert)29.
-Ökologische Kausalkette der Gallbildung:
-Eiablage und Induktion: Weibliche Phytolyma-Psylliden legen ihre Eier in großen Mengen auf jungen Blättern, Knospen und Stängeln von Sämlingen ab. Nach acht Tagen schlüpfen die Nymphen im ersten Larvenstadium. Sie durchstechen die Epidermis der Pflanze und injizieren Speichel (Status: gesichert)31.
-Toxikogener Effekt: Der Speichel der Nymphe enthält Substanzen, die keine virale oder pilzliche Infektion auslösen, sondern toxikogen wirken. Sie induzieren eine unkontrollierte Zellteilung des Pflanzengewebes, welches rasch anschwillt und die Nymphe vollständig umschließt. Einmal initiiert, wächst die Galle autonom weiter, selbst wenn die Nymphe durch systemische Insektizide abgetötet wird (Status: gesichert)31.
-Ruptur: Das Insekt durchläuft innerhalb der schützenden Galle seine Entwicklung. Nach 3 bis 4 Wochen platzt die Galle auf und entlässt das adulte Insekt (Status: gesichert)31.
-Sekundärinfektion und Mikrohabitat: Das aufgerissene, nekrotische Pflanzengewebe der verlassenen Gallen bildet ein spezifisches Mikrohabitat. Opportunistische, saprophytische Pilze, die in gesundem Blattgewebe nicht vorkommen (z.B. Fusarium solani, Fusarium oxysporum, Aspergillus niger), besiedeln diese Läsionen (Status: gesichert)30.
-Dieback (Triebsterben): Die Ausbreitung der Pilze führt zum Absterben der apikalen Meristeme (Triebsterben). Der Sämling reagiert mit der Bildung von Adventivknospen, die wiederum befallen werden, was zu einer Hexenbesen-artigen Deformation führt (Status: gesichert)31. Bei jungen Pflanzen führt dies zu Wachstumsstauchungen und Sterblichkeitsraten von über 40 %. Ältere Bäume entwickeln dickere Blätter, die dem Befall standhalten (Status: gesichert)29.
-Konkurrierende bzw. ergänzende Erklärungen zur Resistenz: Untersuchungen von Cobbinah zeigten, dass die Resistenz einiger weniger Sämlinge nicht durch einen erhöhten Gehalt an Phenolen bedingt ist. Stattdessen korreliert ein doppelt so hoher Wert an Polyphenoloxidase-Aktivität (PPO) in resistenten Linien mit einer geringeren Anfälligkeit für die Gallbildung (Status: gesichert)32. Ein alternativer Schutzmechanismus ergibt sich durch die Beschattung in Mischkultur-Plantagen (z. B. mit Terminalia superba), was den Befallsdruck signifikant senkt (Status: gesichert)29.
+Die Populationsdynamik und die physische Vulnerabilität des Östlichen Bongos werden durch ein zentrales biologisches Prinzip diktiert: den genetischen Flaschenhalseffekt (Population Bottleneck) in direkter Korrelation mit Inzuchtdepression. Dieser Mechanismus wurde durch weitreichende Studien zur mitochondrialen DNA (mtDNA) und zu Mikrosatelliten von Wissenschaftlern zwischen 2011 und 2018 erforscht14.
+Es ist gesichert, dass eine ökologische Kausalkette zu diesem Zustand führte. Schritt A (Lebensraumverlust durch menschliche Expansion, illegale Abholzung und historische Bejagung) führte zu Schritt B (Fragmentierung und Isolation der Population in vier nicht miteinander verbundene Bergwälder: Aberdares, Eburu, Mau-Komplex und Mt. Kenya)7. Dies führte zwingend zu Schritt C (Erosion der genetischen Diversität und Gendrift)14.
+Der Mechanismus funktioniert auf molekularer Ebene wie folgt: In einer gesunden, großen Population sorgt der Genfluss für eine hohe Variabilität an Allelen, was die Anpassungsfähigkeit an Umwelteinflüsse sichert14. Durch den rapiden Zusammenbruch der wilden Bongo-Population auf unter 100 Tiere7 wurde dieser Genfluss unterbrochen. Es ist gesichert, dass genetische Untersuchungen von 102 wilden Bongos in Kenia lediglich zwei verbliebene mtDNA-Haplotypen nachwiesen14. Fast 70 Prozent der beprobten wilden Tiere teilten einen einzigen Haplotyp (B02), der in den Populationen von Eburu und am Mt. Kenya die genetische Fixierung erreicht hat14. Bei der Analyse von 18 Mikrosatelliten-Loci wurde gesichert ein Inzuchtkoeffizient (r) von 0,09 ermittelt, bei einer durchschnittlichen Heterozygotie von 0,4215.
+Dieser Mechanismus der genetischen Verarmung mündet in Schritt D: einer reduzierten Fitness und einer massiv erhöhten Vulnerabilität gegenüber Pathogenen17. Tiere, die durch diesen Flaschenhals gegangen sind, können schädliche Mutationen nicht mehr durch Auskreuzung kompensieren14. Umstritten, oder vielmehr Gegenstand zweier komplementärer Erklärungsansätze für die extreme Reduktion der genetischen Vielfalt, ist die Frage des genauen Zeitpunkts: Ein Erklärungsansatz vermutet, dass die geringe Varianz auf einen ursprünglichen Gründereffekt (Founder Effect) bei der ersten Isolation in den Bergwäldern zurückgeht. Der konkurrierende und in der Forschung als wahrscheinlicher bewertete Erklärungsansatz postuliert, dass die genetische Drift primär das Resultat des dramatischen Bestandsrückgangs durch Wilderei und Lebensraumverlust im 20. Jahrhundert ist14.
+Ein weiteres, physikalisch-biologisches Prinzip, das mit dieser Art assoziiert wird, betrifft die Fellpigmentierung. Es ist überliefert, dass die rötliche Farbe des Fells nicht vollständig wasserfest ist. Bei starken Regenfällen wäscht sich das rote Pigment aus dem Haar und färbt die unmittelbare Vegetation und das Unterholz temporär rot19.
 4. Ökologie und Verhalten
-Lebensraum und abiotische Faktoren Milicia excelsa ist eine pionierartige Baumart, die bevorzugt in feuchten Savannen, Regenwäldern, Galeriewäldern (entlang von Fließgewässern) und in immergrünen Wäldern niederer Höhenlagen von Meereshöhe bis 1.200 m (teils 1.600 m) wächst (Status: gesichert)9. Als Pionierbaum verlangt die Art hohe Lichtintensität und kann in tiefem Schatten oder dichter Konkurrenz durch Kletterpflanzen nicht bestehen (Status: gesichert)14. Der Baum toleriert eine jährliche Niederschlagsspanne von 1.150 bis 1.900 mm. Er übersteht Dürreperioden von bis zu sechs Monaten und jährliche Niederschlagsmengen von lediglich 700 mm, sofern die Wurzeln Zugang zu Grundwasserleitern oder perennierenden Bächen haben. Die Art ist intolerant gegenüber Staunässe (Waterlogging) und reagiert sensibel auf geringe Kalium- und Phosphorwerte im Boden (Status: gesichert)9.
-Fortpflanzung und Nahrungsnetz Die Bestäubung der zweihäusigen Blüten erfolgt durch den Wind (Anemophilie), was häufig in der blattlosen Phase während der Trockenzeit geschieht (Status: gesichert)17. Fünf bis sechs Wochen nach der Befruchtung reifen die Früchte heran. Die Ausbreitung der Samen (Zoochorie) ist obligatorisch auf Tiere angewiesen. Zu den Hauptkonsumenten der Früchte gehören Eichhörnchen, verschiedene Vogelarten und fruchtfressende Fledermäuse (Status: gesichert)9. Der Strohfarbene Palmenflughund (Eidolon helvum) gilt als der kritischste Vektor für die Verbreitung der Art. Das Migrationsverhalten dieser Fledermäuse definiert die genetische Ausbreitung und den Erhalt von Milicia excelsa über weite Entfernungen, da die Flughunde die winzigen Samen unbeschadet ausscheiden (Status: gesichert)36.
-Saisonale Muster und Verhalten vom 24.09. bis 12.10. an der kenianischen Küste
-Im Zeitraum Ende September bis Anfang Oktober endet an der kenianischen Küste (Mombasa, Bamburi) die sechsmonatige Trockenzeit und die kleine Regenzeit setzt ein [Vorgabe User].
-Phänologischer Zustand: Die Blütezeit an der kenianischen Küste liegt zwischen Januar und März. Die Fruchtreife erfolgt folglich im März oder April (Status: gesichert)13. Ende September trägt der Baum daher keine Blüten und keine Früchte. Er befindet sich am Ende der Trockenstress-Phase. Das Laub ist zu diesem Zeitpunkt entweder vollständig abgeworfen, oder die Krone trägt altes, sich gelb verfärbendes Laub (Status: gesichert)9.
-Sozialverhalten im Habitat: Obwohl keine Früchte zur Nahrungsaufnahme zur Verfügung stehen, erfüllen die hoch aufragenden, kargen oder altbelaubten Bäume in diesem Zeitraum eine lebenswichtige architektonische Funktion. Die horizontalen Äste der emergenten Baumkronen dienen als Schlafbäume (Roosts) für riesige Kolonien des Palmenflughundes (Eidolon helvum) (Status: gesichert)41. Zehntausende Individuen hängen tagsüber dicht gedrängt an den Ästen, um sich vor Bodenfeinden zu schützen, und fliegen bei Einbruch der Dunkelheit aus. Zusätzlich bieten die Bäume Nistplätze für Krähen, Spechtvögel und Unterschlupf für Insektenfresser (Status: gesichert)42.
+Der Östliche Bongo ist obligat an Bergwälder gebunden und bewohnt gesichert Höhenlagen zwischen 2.000 und 3.000 Metern über dem Meeresspiegel7. Die Lebensräume umfassen dichte, verfilzte Unterholzstrukturen, in denen die Tiere Tarnung und Schutz vor Prädation suchen9.
+Es ist gesichert, dass der Bongo ein reiner Herbivor (Browser) ist19. Die Nahrungsaufnahme erfolgt selektiv und umfasst das Abweiden niedrig liegender Sträucher, junger Bäume, Kräuter und Lianen7. Ein spezifisches, gesichertes Verhaltensmerkmal ist die Aufnahme von Totholz und epiphytischem Moos. Um an höher liegende Moose auf abgestorbenen Ästen zu gelangen, richten sich die Tiere häufig auf ihre Hinterbeine auf20. Bei der Fortbewegung im dichten Wald praktizieren sie eine spezifische Kopfhaltung: Sie legen den Kopf in den Nacken, sodass die spiralförmigen Hörner flach über dem Rücken liegen, um ein Verheddern in Lianen zu vermeiden7. Bei Fluchtreaktionen sind kurze Sprints mit Geschwindigkeiten von bis zu 69 km/h gesichert dokumentiert9.
+Der Tagesrhythmus ist gesichert vorwiegend nachtaktiv1. Die Tiere ruhen tagsüber verborgen im tiefsten Dickicht und aktivieren ihre Bewegungs- und Fressphasen in der Dämmerung und Nacht7. Das Sozialverhalten ist differenziert: Erwachsene Bullen leben überwiegend solitär, während Weibchen mit ihrem Nachwuchs matrilineare Gruppen von sechs bis acht Individuen bilden1. Die Bildung von Herden mit mehr als 20 Tieren ist historisch belegt, kommt jedoch in der Gegenwart aufgrund des Populationseinbruchs in freier Wildbahn praktisch nicht mehr vor1. Die Geschlechtsreife wird im Alter von 24 bis 27 Monaten erreicht, woraufhin die Weibchen nach einer Tragzeit von etwa 285 Tagen jeweils ein einzelnes Kalb setzen, das mit rund sechs Monaten entwöhnt wird1.
+Saisonale Muster (Ende September bis Anfang Oktober): Der Zeitraum vom 24. September bis zum 12. Oktober markiert auf der Route (Laikipia / Mt. Kenya) klimatisch das Ende der langen Trockenzeit und den direkten Übergang in die kurze Regenzeit. Es ist gesichert, dass diese klimatische Zäsur das Verhalten der Bongos steuert. Zum Ende der Trockenzeit, wenn die Nährstoffqualität der Vegetation im Unterholz am geringsten ist, steigt die physiologische Notwendigkeit zur Geophagie (Aufnahme von Erde und Mineralien) signifikant an21. Die Tiere suchen in den späten Trockenwochen verstärkt natürliche Salz- und Minerallecken sowie letzte verbliebene Feuchtgebiete (wie den Enyapuiyapui-Sumpf im Mau-Wald) auf10. An diesen Orten neutralisieren sie durch die Mineralien pflanzliche Toxine und decken ihren Elektrolytbedarf ab9. Gleichzeitig fungieren diese Lecken in der Trockenzeit als primäre Zentren für das Sozialverhalten und die Partnerfindung21. Mit dem Einsetzen der kleinen Regenzeit im Oktober entspannt sich der Nahrungsdruck, und die Gruppen beginnen sich weiträumiger im dichten, wieder ergrünenden Waldmosaik zu verteilen. Zu den Arten, die als Prädatoren auf die vorhersehbaren Routen der Bongos zu den Wasser- und Salzlecken angewiesen sind, zählt gesichert der Leopard20.
 5. Menschen und Kultur in Kenia
-In Kenia, insbesondere an der Küste, manifestiert sich das Verhältnis der Menschen zu Milicia excelsa in einem Spektrum von tiefer spiritueller Verehrung bis hin zur kommerziellen Verwertung, die den Bestand der Art gefährdet.
-Rolle in Mythos, Ritual und Naturschutz (Der Erzählkern) Entlang eines 200 Kilometer langen Küstenstreifens in Kenia befinden sich die Kaya-Wälder, die ab dem 16. Jahrhundert von den Mijikenda-Völkern (u.a. Giriama, Kauma, Digo, Rabai) als befestigte Dörfer angelegt und bis in die 1940er Jahre bewohnt wurden. Heute sind diese Waldinseln (2008 von der UNESCO als Weltkulturerbe anerkannt) spirituelle Zufluchtsorte (Status: gesichert)43. In den kulturellen Glaubenssystemen der Mijikenda und benachbarter Küstengemeinschaften gelten große Exemplare von Milicia excelsa (Mvule) als Residenz von Ahnengeistern (Spirits) (Status: überliefert)43. Das unautorisierte Fällen dieser Bäume ist durch ein strenges Tabu belegt, dessen Einhaltung von Räten der Ältesten (Kaya Elders) überwacht wird (Status: gesichert)43. Bevor ein solcher Baum für essenzielle gemeinschaftliche Zwecke gefällt werden darf, müssen die Ältesten komplexe Rituale abhalten, Opfer darbringen und Gebete sprechen, um die Geister zu besänftigen und katastrophales Unheil oder rituelles Verfluchen abzuwenden (Status: überliefert) [Vorgabe Erzählkern, cite: 60, 70]. Diese auf Geisterfurcht basierenden Traditionen wirkten jahrhundertelang als äußerst robuster Mechanismus des indigenen Naturschutzes und bewahrten die Mvule-Bäume in und um die Kaya-Wälder vor der Abholzung (Status: gesichert)43. Die Ahnen der Kauma-Clans wurden traditionell in Form von Kigango-Pfählen (Gedenkpfosten) aus beständigem Hartholz geschnitzt und in diesen Hainen aufgestellt (Status: gesichert)43.
-Nutzung in Handwerk, Handel und Landwirtschaft
-Material: Das Holz des Mvule-Baumes ist eines der nachgefragtesten Harthölzer Ostafrikas. Es verdunkelt sich unter Lichteinfluss und ist von Natur aus resistent gegen Pilzbefall und Termiten (Status: gesichert)13. Berichte über die Beständigkeit gegen marine Bohrorganismen sind widersprüchlich (einige Quellen bejahen die Resistenz, andere verneinen sie) (Status: umstritten)16. Es wird für den Bau von Booten, Eisenbahnschwellen, Schleusentoren, Böden, Treppen und Musikinstrumenten (z. B. traditionelle Djembe-Trommeln) verwendet (Status: gesichert)3.
-Historischer Export: Der internationale Druck auf die Bestände war massiv. In den 1960er Jahren exportierte beispielsweise die Elfenbeinküste jährlich 55.000 Kubikmeter Iroko-Rundholz und 6.000 Kubikmeter Schnittholz, während Ghana 28.000 Kubikmeter Schnittholz ausführte. 1973 stieg der Export der Elfenbeinküste auf 136.500 Kubikmeter Rundholz (Status: gesichert)16.
-Agroforstwirtschaft: In Kenia wird der Baum auf Feldern zur Schattenbildung belassen oder zur Begrenzung von Parzellen angepflanzt (im Abstand von 5 x 5 Metern). Die abfallenden Blätter verbessern als Mulch den Boden (Status: gesichert)13.
-Medizinische Nutzung
-Das medizinische Wissen wird vorrangig mündlich tradiert und von Gemeinschaften in West- bis Ostafrika angewendet. Die Inhaltsstoffe finden in der traditionellen Herbalmedizin vielfältigen Einsatz:
-
-Verwendeter Teil
-	Dokumentierte Anwendung
-	Region/Gemeinschaft (soweit belegt)
-	Status der Wirksamkeit
-
-Latex
-	Als Anti-Tumor-Mittel, zur Lösung von Magen-/Halsblockaden, bei Verbrennungen, Wunden und Hautekzemen.
-	Tropisches Afrika / Digo (Kenia)
-	(Status: überliefert)9
-
-Rinde
-	Gemahlen bei Husten, Herzbeschwerden. Als Sud bei Asthma, Hexenschuss, Milzschmerzen, Rheuma und Erschöpfung. Extern bei Krätze und Haarausfall.
-	Tropisches Afrika
-	(Status: überliefert)9
-
-Wurzeln
-	Sud gegen weibliche Unfruchtbarkeit. Kombination von Wurzel- und Stammrinde als Aphrodisiakum.
-	Tropisches Afrika
-	(Status: überliefert)16
-
-Blätter
-	Behandlung von "Wahnsinn", Sud gegen Gallensteine, Mazeration zur Förderung des Milchflusses (Galaktagogum), Augentropfen bei Filariose.
-	Tropisches Afrika
-	(Status: überliefert)16
-Schutzstatus und Konflikte Die Kombination aus exzessivem Holzeinschlag und Habitatverlust durch agrarische Expansion führte zu einem drastischen Bestandsrückgang. Im Jahr 1998 stufte die International Union for Conservation of Nature (IUCN) Milicia excelsa auf der Roten Liste als "Near Threatened" (potenziell gefährdet) ein (Status: gesichert)5. Die Wiederaufforstung auf Plantagen wird durch den extremen Schädlingsdruck des Insekts Phytolyma lata nahezu vereitelt, was den Druck auf Wildbestände aufrechterhält (Status: gesichert)29. In den Kaya-Wäldern selbst entstanden seit dem späten 19. Jahrhundert sozioökonomische Konflikte, da die Gemeinschaften ihre Mittelsmann-Rolle im Handel verloren und der Druck stieg, Land für Landwirtschaft und Siedlungsbau zu roden (Status: gesichert)45.
+Das Verhältnis zwischen lokalen Gemeinschaften, internationalen Akteuren und dem Östlichen Bongo ist von historischer Ausbeutung zu modernen Erhaltungsbemühungen konvertiert.
+Historisch betrachtet war der Bongo eine begehrte Ressource. Es ist überliefert, dass die Tiere von lokalen Jägern als Fleischlieferanten zur Proteinversorgung gejagt wurden, wobei häufig Meuten von 15 bis 20 Hunden eingesetzt wurden9. Sobald ein Bongo von Hunden gestellt wurde (es stellt sich dem Kampf, anstatt endlos zu fliehen – "bays up"), wurde es mit Speeren erlegt20. Während der britischen Kolonialzeit war der Bongo zudem ein exklusives Ziel für Trophäenjäger7. In den 1970er Jahren etablierte sich ein lukrativer Handel mit westlichen Zoos. Es ist historisch gesichert, dass lokale Fallensteller wie Peter Mwangi Kariuki die Tiere fingen, indem sie getarnte Gruben auf den Waldpfaden aushoben20. Gefangene Bongos wurden in eigens errichteten Holzgattern gehalten und anschließend von Trägerkolonnen aus bis zu 30 Männern aus den Wäldern transportiert20.
+Ein kritischer historischer Einschnitt ereignete sich in den 1980er Jahren. Es ist gesichert, dass durch in die Wälder getriebene Hausrinder, die illegal in Bongo-Habitaten grasten, virale Erreger in die Wildtierpopulation eingetragen wurden20. Der Ausbruch der Rinderpest sowie die Übertragung von Boviner Tuberkulose und durch Zecken übertragene Krankheiten dezimierten die ohnehin fragmentierten Bongo-Bestände massiv9.
+In den 1970er Jahren gab es in Kenia noch schätzungsweise 500 wilde Berg-Bongos25. Im Jahr 2015 wurde der Bestand durch das Bongo Surveillance Project (BSP) auf etwa 100 Individuen korrigiert, und 2017 fiel die Schätzung auf lediglich 73 wildlebende Tiere7. Die Weltnaturschutzunion (IUCN) klassifiziert die Unterart daher gesichert als vom Aussterben bedroht (Critically Endangered)7.
+Um das Überleben der Spezies zu sichern, verabschiedete der Kenya Wildlife Service (KWS) den National Recovery and Action Plan (2019-2023)9. Das erklärte strategische Ziel ist es, bis zum Jahr 2070 eine stabile Population von 750 Tieren in Kenia aufzubauen9. Ein wesentlicher Baustein ist die Repatriierung ausländischer Zootiere. Im Jahr 2004 wurden gesichert 18 Bongos aus US-amerikanischen Zoos nach Kenia (Mount Kenya Game Ranch) zurückgeführt9. Im Jahr 2025 folgten 17 weitere Individuen (12 Weibchen, 5 Männchen) aus Florida28. Um diese Tiere auszuwildern, wurde am 14. Dezember 2020 gesichert das Mawingu Mountain Bongo Sanctuary mit einer Fläche von 776 Acres am Fuße des Mount Kenya (bei Nanyuki) initiiert27. Am 7. Mai 2024 wurden dort 10 adulte Bongos erfolgreich ausgewildert29.
+Spezifische Mythen, Rituale oder Sprichwörter, die sich exklusiv und nachweislich auf den Östlichen Bongo bei kenianischen Gemeinschaften beziehen, konnten in den untersuchten Quellen nicht sicher verifiziert werden (siehe Abschnitt 10).
 6. Wissenschaftsgeschichte
-Die wissenschaftliche Dokumentation der Art vollzog sich in mehreren Etappen durch europäische Botaniker:
-1869: Der österreichische Botaniker und Afrikaforscher Friedrich Welwitsch beschrieb die Art nach einer Expedition (die Typuslokalität liegt in Angola) erstmals und ordnete sie unter dem Namen Morus excelsa in die Gattung der Maulbeerbäume ein (Status: gesichert)1.
-1909: Der schottische Botaniker Thomas Robertson Sim, der die Flora im südlichen Afrika erforschte, veröffentlichte das Werk Forest Flora and Forest Resources of Portuguese East Africa. Darin stellte er die neue Gattung Milicia auf (benannt nach dem Unterstützer Milici) (Status: gesichert)3.
-1982: Der niederländische Botaniker Cornelis Christiaan Berg publizierte im Bulletin du Jardin Botanique National de Belgique eine Revision, welche die Art aus der Gattung Chlorophora in die Gattung Milicia überführte, wodurch der bis heute gültige Artname Milicia excelsa etabliert wurde (Status: gesichert)5.
-Kontroverse und Forschung: Die Pleistozän-Refugium-Theorie Um das Jahr 2010 rückte Milicia excelsa in das Zentrum genetischer Forschungen, welche die Theorie der pleistozänen Waldrefugien überprüften. Während der Klimaoszillationen des Pleistozäns (vor 2,5 Millionen bis 11.000 Jahren) wechselten humide und aride Phasen ab, wodurch der westafrikanische Regenwald in kleine, voneinander isolierte Refugien zersplitterte. Wissenschaftler um K. Dainou (2010) analysierten nukleare Mikrosatelliten (nSSRs) und chloroplastische DNA (cpDNA) von Milicia-Populationen aus verschiedenen Ländern Afrikas. Obwohl der Baum windbestäubt ist und seine Samen durch mobile Flughunde (Eidolon helvum) verbreitet werden, zeigte die Studie eine drastische genetische Trennung zwischen den westafrikanischen und den zentral-/ostafrikanischen Populationen. Diese genetische Divergenz, aufrechterhalten durch den "Dahomey Gap" (einen trockenen Savannenkorridor), bewies, dass die Waldfragmente über mehrere eiszeitliche Zyklen hinweg isoliert blieben und kein genetischer Austausch stattfand. Diese Studie nutzte Milicia excelsa, um zu belegen, dass die Klimaveränderungen des Pleistozäns dauerhafte genetische Barrieren in der afrikanischen Flora hinterließen (Status: gesichert)36.
+Die formelle Erfassung der Art begann 1837 mit der Beschreibung der westlichen Nominatform durch den irischen Naturforscher William Ogilby1. Die separate Identifikation der kenianischen Bergpopulation verdankt die Wissenschaft dem britischen Zoologen Oldfield Thomas, der im Jahr 1902 auf Basis anatomischer Abweichungen, vorrangig der massiveren Schädelstruktur und längeren Hörner, die Unterart isaaci beschrieb3.
+In der modernen Wissenschaftsgeschichte ist eine Person untrennbar mit dem Bongo verbunden: Mike Prettejohn. Es ist gesichert, dass Prettejohn in den Jahren 2003 und 2004 das Bongo Surveillance Project (BSP) ins Leben rief30. Diese Initiative war bahnbrechend, da sie lokale Fährtenleser mit Kamera-Fallen-Technologie und GPS-Tracking kombinierte30. Das Projekt akkumulierte fast 80.000 Bilder von wilden Bongos und lieferte den endgültigen Beweis für das Überleben der Spezies in den Aberdares und im Mau-Komplex32. Eine direkte methodische Evolution dieses Projekts war eine Studie von Tommy Sandri, der die historischen Kamera-Fallen-Daten nutzte, um ein neuartiges Identifikationsschema zu entwickeln. Er bewies, dass die asymmetrischen Flankenstreifen der Bongos wie ein Fingerabdruck zur Bestimmung der exakten Populationsgröße genutzt werden können10.
+Eine weitere maßgebliche Studie zur Wissenschaftsgeschichte wurde 2024 publiziert. Wissenschaftler erkannten, dass Kamera-Fallen allein das historische Verbreitungsmuster nicht abbilden konnten. Sie griffen auf Traditionelles Ökologisches Wissen (TEK) zurück und führten strukturierte Interviews mit acht ehemaligen Bongo-Jägern im Alter von 60 bis 90 Jahren7. Diese Jäger, die zwischen den 1950er Jahren und 1992 aktiv waren, lieferten unschätzbare und bis dato undokumentierte Daten über Herdenstrukturen, spezifische Futterpräferenzen und Bewegungsmuster in den Wäldern7.
 7. Fotografie
-Die fotografische Erschließung der Art erfordert auf der Route um Mombasa spezifische Herangehensweisen, insbesondere da im späten September / frühen Oktober keine Fruchtstände vorhanden sind und der Baum kahl sein kann (Status: gesichert).
-Route / Ort
-	Motiv und Verhalten
-	Linseneinsatz
-	Verschlusszeiten
-	Typische Fehler / Fluchtdistanz
+Die Fotografie von wilden Östlichen Bongos ist aufgrund des dichten Bergwald-Habitats und der Nachtaktivität der Spezies äußerst herausfordernd1. Entlang der Reiseroute bieten die Ausläufer der Aberdares, die Ol Pejeta Conservancy und insbesondere das 776 Acres große Mawingu Mountain Bongo Sanctuary bei Nanyuki die realistischsten Sichtungschancen27.
+Es ist gesichert, dass eine aktive Pirsch durch das laute Unterholz ineffektiv ist, da die Tiere exzessiv scheu sind9. Fotografen müssen sich statisch positionieren. Der beste Zeitpunkt ist die frühe Morgendämmerung (ab ca. 06:00 Uhr) oder die späte Abenddämmerung, da Bongos dann aus den Dickichten heraustreten1. Es lohnt sich, Kamera-Ansitzplätze an bekannten Salzlecken (Salt Licks) einzurichten, da hier das Sozialverhalten und das Fressen von Erde (Geophagie) verlässlich abgewartet werden können10. Alternativ sind feuchte Standorte mit stark verziertem, moosigem Totholz strategisch wertvoll, da die Tiere hier das Aufrichten auf die Hinterbeine praktizieren20.
+Ausrüstung und Parameter:
 
-Bamburi Beach / Haller Park, Nguuni Nature Sanctuary
-	Schlafende Flughunde (Eidolon helvum): Tagsüber (10:00–16:00) hängen die Flughunde in Trauben an den horizontalen Ästen des Kronendachs. In der Dämmerung (17:30–18:30) fliegen sie in Schwärmen aus.
-	150–600 mm: Für formatfüllende Porträts schlafender Flughunde im Schatten der Krone.
+Teleobjektiv
+	Empfehlung und Einsatzzweck
+	Status
 
-100–400 mm: Für das Verfolgen des Schwarms im abendlichen Flug.
-	Ruhend: 1/250s bis 1/500s.
+100 bis 400 mm
+	Optimales Setup. Bietet genügend Flexibilität, um schnell wechselnde Sichtfenster zwischen Baumstämmen und Farnen zu nutzen.
+	Vermutet (basierend auf Habitatstruktur)
 
-Abflug/Flug: 1/1600s bis 1/2000s, um Flügelschlag einzufrieren.
-	Fehler: Erwarten, dass Fledermäuse Früchte fressen (keine Fruchtzeit). Fluchtdistanz: Solange man auf Wegen bleibt, ignorieren die Tiere in 30 m Höhe die Fotografen. Ein Betreten des Unterholzes direkt unter dem Baum verursacht Panik.
+150 bis 600 mm
+	Stark eingeschränkt. In dichten Wäldern führt die extreme Brennweite häufig dazu, dass Lianen und Blätter im Vordergrund den Fokus blockieren. Eignet sich nur für freie Schussfelder direkt an Sumpfgebieten.
+	Vermutet (basierend auf Habitatstruktur)
 
-Nguuni Sanctuary, Mtwapa Creek
-	Gallen von Phytolyma lata: Suchen nach jungen Sämlingen (unter 3 m) am Waldrand, die knollenartige, oft aufgeplatzte Deformationen an Knospen und Blättern zeigen.
-	45 mm: Für extreme Nahaufnahmen (Makro) der Risse, aus denen Insekten geschlüpft sind, und der nekrotischen Pilzinfektionen an der Galle.
-	1/100s (statisches Motiv auf Stativ, bei wenig Wind).
-	Fehler: Insektenspray verwenden oder Äste biegen. Die Sämlinge sind zerbrechlich, die Gallen verändern sich nicht durch Abwarten.
-
-Kaya-Waldfragmente in der Region
-	Habitat und Rindenstruktur: Der aschgraue, in quadratischen Schuppen abblätternde, gigantische Stamm. Sichtbare Schnittwunden mit getrocknetem weißem Latex oder weißen Calciumcarbonat-Einschlüssen ("Iroko-Steinen").
-	26–60 mm: Um den massiven Umfang (bis zu 3 m Durchmesser) und die 20 m astfreie Säule im Kontext des umgebenden Waldes darzustellen.
-	1/60s bis 1/125s (Im dichten Schatten des Unterholzes, Stativ angeraten).
-	Fehler: Fehlendes Größenverhältnis im Bild; immer eine Person oder ein Objekt als Maßstab integrieren. Das Ignorieren lokaler Tabus (keine Äste abbrechen).
+45 mm / 26 bis 60 mm
+	Für weite Umgebungsshots, die Dokumentation von Fährten, Trittsiegeln oder abgebrochenen Ästen (Fraßspuren).
+	Gesichert35
+Verschlusszeiten und typische Fehler: Bongos sind in der Lage, bei Flucht Geschwindigkeiten von 69 km/h zu erreichen9. Für schnelle Ortswechsel und Sprints sind Verschlusszeiten von mindestens 1/1000s bis 1/2000s zwingend erforderlich (kalkuliert). An Salzlecken, wo die Tiere ruhig stehen und Mineralien aufnehmen, genügen Verschlusszeiten um 1/250s (kalkuliert). Ein typischer Fehler bei der Fotografie ist mangelnde Geräuschdisziplin sowie das Unterschätzen des exzellenten Gehörs (verstärkt durch die extrem großen Ohren), was sofortige Fluchtreaktionen auslöst7.
 8. Links zum Weiterlesen und Sehen
-Fachliche Quellen
-PROTA4U - Milicia excelsa – Detaillierte Datenbank der "Plant Resources of Tropical Africa" mit umfassenden Informationen zu Holzeigenschaften, medizinischer Nutzung und ökologischen Parametern. (Status: gesichert)16
-Plants of the World Online (Kew) - Milicia excelsa – Das offizielle taxonomische Profil der Royal Botanic Gardens Kew, inklusive der vollständigen Synonymie und Publikationsdaten. (Status: gesichert)6
-IUCN Red List - Milicia excelsa (Alternativer DOI-Link via GBIF: https://doi.org/10.2305/IUCN.UK.1998.RLTS.T33903A9817388.en) – Das Assessment der Weltnaturschutzunion aus dem Jahr 1998, das den Status "Near Threatened" begründet. (Status: gesichert)53
-Verbreitungskarte
-GBIF - Milicia excelsa (Welw.) C.C.Berg – Interaktive Karte der Global Biodiversity Information Facility mit Herbardatenbanken und weltweiten Sichtungen. (Status: gesichert)53
-(Hinweis: iNaturalist-Links zur Art führten in der systematischen Prüfung zu nicht abrufbaren Seiten55. Vögel sind nicht der Fokus, daher entfallen Audio-Links zu Vogelstimmen-Datenbanken).
+Fachliche Quelle (Kamera-Fallen und TEK): https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1383611/full Eine detaillierte wissenschaftliche Studie, die dokumentiert, wie Traditionelles Ökologisches Wissen historischer Jäger mit modernen Kamera-Fallen-Daten kombiniert wird, um das Verhalten und die Historie des Bongos in Kenia zu rekonstruieren7.
+Fachliche Quelle (Genetik und Inzucht): https://jzar.org/jzar/article/download/247/210/1615 Eine populationsgenetische Analyse zur Diversität der mitochondrialen DNA beim Östlichen Bongo, die den genetischen Flaschenhals und die Relevanz der Zoopopulation belegt14.
+Fotos (Männlicher Bongo und Streifenmusterung): https://commons.wikimedia.org/wiki/File:Tragelaphus_eurycerus_(Bongo).jpg Ein hochauflösendes, frei nutzbares Foto eines ausgewachsenen Bongo-Bullen, an dem die Asymmetrie der Streifen, der Nasen-Chevron und die massive Hornstruktur sehr gut zu erkennen sind36.
+Verbreitungskarte (IUCN Red List Daten): https://commons.wikimedia.org/wiki/File:Tragelaphus_eurycerus_range.png Eine kartografische Visualisierung der stark fragmentierten und isolierten Verbreitungsgebiete der Art in Afrika auf Basis von Daten der IUCN SSC Antelope Specialist Group37.
+Wissenschaft & Naturschutz (Individuelle Identifikation): https://www.cambridge.org/core/journals/oryx/article/population-monitoring-of-a-critically-endangered-antelope-the-mountain-bongo-using-camera-traps-and-a-novel-identification-scheme/C2C82FA1B978052663518CDF2C9D9A54 Ein Artikel des Oryx-Journals, der die Methodik des Bongo Surveillance Projects erklärt, wie wilde Tiere an Salzlecken anhand ihrer asymmetrischen Flankenstreifen individuell unterschieden und gezählt werden10.
 9. Visuelle Beschreibung für eine Illustration
-The Milicia excelsa is a towering, deciduous emergent tree reaching up to 50 meters, distinguished by a massive, perfectly straight, cylindrical bole that remains devoid of branches for the first 20 to 25 meters. Its crown is broad and distinctly umbrella-shaped, composed of thick, horizontal primary limbs that support dark green, broadly elliptical leaves with a slightly downy texture on the underside. The bark exhibits an ashen-gray to dark brown hue, covered in a highly textured pattern of thick scales that flake off in distinct squarish sections. Rather than forming classical thin buttresses, the base of the trunk swells into short, robust root spurs that plunge into the soil, occasionally exposing orange surface roots with yellow lenticels.
-Fruit detail: A fleshy, aggregate syncarp measuring 7.5 centimeters long, resembling a fat, wrinkled, bright green caterpillar embedded with tiny, hard achenes.
-Leaf and Gall detail: A young, soft, yellowish-green juvenile leaf marred by several swollen, bulbous galls induced by the Phytolyma lata psyllid, with one gall ruptured at the apex revealing necrotic, blackened tissue from a secondary fungal infection.
-Bark and Stone detail: A close-up of a deep fissure in the gray, squarish bark exuding thick, milky-white latex, with hard, chalky-white deposits of calcium carbonate ("Iroko stones") calcified within the wood grain.
-Cultural vignette: A weathered, ancestral Kigango memorial post of the Mijikenda people, intricately carved with geometric patterns from the dense, golden-brown heartwood of the tree, standing vigil on a forest floor carpeted with dry yellow leaves.
+The Eastern Bongo is a massive, stocky forest antelope characterized by a deep russet-red coat that darkens significantly, sometimes appearing almost black, in mature males. Across its flanks, the animal displays between eight and fifteen thin, asymmetrical white-to-yellow vertical stripes that serve as disruptive camouflage in the dappled forest light. The head features remarkably large, broad ears cupped forward, a distinct white chevron across the bridge of the muzzle, and thick, ivory-tipped horns that spiral upward in a single, tight twist. When navigating dense undergrowth, the bongo tilts its head sharply backward, laying its heavy horns flat along the spine to prevent entanglement in low-hanging lianas.
+Detailvorschläge für Zeichnungen:
+Hornansatz: Eine Detailstudie der massiven Basis des Horns eines Bullen, die die geriffelte Struktur und den leichten Drall der Einzelwindung zeigt.
+Spur (Trittsiegel): Ein spitzer, tief in den feuchten, schlammigen Boden einer Salzlecke eingedrückter Paarhufer-Abdruck, in dem sich Regenwasser sammelt.
+Futterpflanze: Ein abgebrochener, mit dickem Moos überzogener Ast aus dem Unterholz, der charakteristische Nagespuren der Tiere aufweist.
+Kulturelle Vignette:
+Eine von Hand gefertigte, aus Stahldraht und Lianen gedrehte Schlingenfalle (Snare), die von Wilderern kaum sichtbar zwischen großen Farnen aufgespannt wurde und symbolisch für die historische und gegenwärtige Bedrohung der Art steht.
 10. Was du nicht belegen konntest
-Trotz systematischer Analyse des zur Verfügung gestellten Rohmaterials konnten folgende angefragte Spezifikationen nicht durch belastbare Quellen belegt werden:
-Lokale Namen für Maa und Samburu: Die Recherche lieferte Belege für die Sprachen Swahili, Giriama, Digo, Kamba, Luo, Luhya, Meru, Bukusu und Teso. Für die pastoralen Gemeinschaften der Maasai (Maa) und Samburu fehlen jegliche Belege zur Nomenklatur, was ökologisch plausibel ist, da der Baum vorwiegend in küstennahen und feuchten Wäldern wächst, die nicht zum klassischen Weidegebiet dieser Gemeinschaften gehören.
-Wörtliche Bedeutungen der lokalen Namen: Zwar sind Bezeichnungen wie "Mvure", "Murumba" oder "Kitangure" gesichert, jedoch boten die ethno-linguistischen Quellen keine Herleitung der wörtlichen Bedeutung dieser Begriffe an.
-Bestätigung des Kikuyu-Namens: Der Kikuyu-Name "Kagethi" wird in der Quelle23 selbst als unbestätigt eingestuft ("We are yet to establish the local name (some say it is called Kagethi)"). Eine Übernahme als gesicherter Fakt ist nicht zulässig.
-Historische Ereignisse (Tagesgenau): Abgesehen von der systematischen Etablierung der Kaya-Wälder (16. Jh.) und deren Aufgabe (1940er) sowie den Export-Spitzenjahren in Westafrika (1960er, 1973) sind keine tages- oder jahresgenauen historischen Einzelereignisse (wie ein spezifischer Krieg, eine Naturkatastrophe oder die Gründung eines Tempels) direkt an ein einzelnes Milicia excelsa-Exemplar in Kenia gebunden dokumentiert.
-Fotografie (Audio-Links und iNaturalist): Da Milicia excelsa keine Lautäußerungen tätigt, entfällt der Link zu xeno-canto. Der abgefragte Link zum Taxon auf iNaturalist55 meldete einen Systemfehler und wurde gemäß Regel (keine konstruierten URLs) weggelassen.
+Trotz rigoroser Auswertung der bereitgestellten Rohmaterialien konnten folgende angefragten Parameter nicht mit belastbaren Fakten oder Zahlen untermauert werden:
+Lokale Namen und deren wörtliche Bedeutung: Die genauen Bezeichnungen des Bongos in den Sprachen der Maa, Kikuyu, Samburu, Giriama und Kamba sind nicht belegt. Zwar werden diese Gemeinschaften im Kontext der Aberdares erwähnt (z. B. "Ndongoro" als Kikuyu-Name für Regionen oder andere Konzepte), jedoch fehlt in den Quellen eine explizite und zweifelsfreie linguistische Zuordnung dieses Begriffs zur Antilope Tragelaphus eurycerus isaaci.
+Mythen, Rituale und Sprichwörter: Es gab keinen Nachweis für spezifische Folklore der kenianischen Gemeinschaften bezüglich der Tierart. Die in den Quellen gefundenen Hinweise auf Lepra-Tabus, Blitzsteine oder Regenrituale beziehen sich auf eine ethnische Gruppe namens "Bongo" (im heutigen Südsudan) und nicht auf das Säugetier.
+Fluchtdistanz in Metern: Die genaue physische Toleranzgrenze in Metern, ab der das Tier flüchtet, ist nicht numerisch dokumentiert, sondern nur qualitativ als "äußerst scheu" und "schreckhaft" beschrieben.
+Verschlusszeiten für die Fotografie: Die expliziten Verschlusszeiten (z. B. 1/1000s) sind in den zoologischen Quellen nicht aufgeführt. Sie wurden deduktiv aus der belegten Fluchtgeschwindigkeit von 69 km/h abgeleitet.
+Akustik (Tonaufnahmen): Da es sich bei der Art um ein Säugetier handelt und die Suche nach Rufen explizit auf "Vögel" limitiert war, liegen keine Links zu Tonaufnahmen bei xeno-canto vor.
 Works cited
-Species information: Milicia excelsa, https://www.drcongoflora.com/speciesdata/species.php?species_id=120150
-Iroko (Chorophora excelsa), https://www.pohuiwood.com/products_details/Iroko.html
-Biology:Iroko - HandWiki, https://www.handwiki.org/wiki/Biology:Iroko
-Iroko - Wikipedia, https://en.wikipedia.org/wiki/Iroko
-Iroko - Sambuc Éditeur, https://www.sambuc.fr/articles/nature-et-biologie/ob1498-iroko.html
-Milicia excelsa (African teak) - PubChem, https://pubchem.ncbi.nlm.nih.gov/taxonomy/58664
-Milicia excelsa - Wikipedia, https://de.wikipedia.org/wiki/Milicia_excelsa
-ITIS - Report: Milicia excelsa, https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=823752
-Milicia excelsa - Wikipedia, https://en.wikipedia.org/wiki/Milicia_excelsa
-Morphological Evolution in the Mulberry Family (Moraceae), https://geo.cbs.umn.edu/Clement&Weiblen2009.pdf
-Persistence of Gondwanan woods in Myanmar through the ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC13274995/
-https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:910900-1
-Milicia excelsa Moraceae (Welw.) C. Berg, https://apps.worldagroforestry.org/treedb2/AFTPDFS/Milicia_excelsa.PDF
-Milicia excelsa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Milicia+excelsa
-Milicia excelsa (Introduced) - eFlora of India, https://efloraofindia.com/efi/milicia-excelsa/
-Milicia excelsa - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Milicia+excelsa
-Milicia excelsa (African teak) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.34158
-Milicia regia - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Milicia+regia
-Iroko | Material-Archiv, https://materialarchiv.ch/de/ma:material_1267?id=14&Itemid=0&type=all&n=Grundlagen
-Mvule / Iroko - Trees - Infonet-biovision.org, https://infonet-biovision.org/trees/mvule-iroko
-Craibia brownii is one of Kenya's least known indigenous trees, but, https://www.facebook.com/africanplantresearchcentre/posts/craibia-brownii-is-one-of-kenyas-least-known-indigenous-trees-but-it-has-long-be/1343602584616807/
-Common Tree Names in Kenya | PDF - Scribd, https://www.scribd.com/document/708981466/Kenya-Local-Names
-These indigenous trees are not only threatened in the wild but also, https://www.facebook.com/africanplantresearchcentre/posts/these-indigenous-trees-are-not-only-threatened-in-the-wild-but-also-highly-valua/1148290037481397/
-Milicia excelsa - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Milicia+excelsa&redir=Chlorophora+excelsa
-the oxalate-carbonate pathway in a tropical tree ecosystem - BG, https://bg.copernicus.org/articles/8/1755/2011/bg-8-1755-2011.pdf
-Discuss the process and flow of matter or information associated, https://www.researchgate.net/publication/349929569_Discuss_the_process_and_flow_of_matter_or_information_associated_with_the_tree_in_an_ecosystem
-Detection of active oxalate–carbonate pathway ecosystems in the, http://geoprodig.cnrs.fr/items/show/46573
-Functional Diversity of the Litter-Associated Fungi from an Oxalate, https://www.mdpi.com/2076-2607/9/5/985
-Integrated approach for conservation and management of genetic, https://www.researchgate.net/publication/248428269_Integrated_approach_for_conservation_and_management_of_genetic_resources_of_Milicia_species_in_West_Africa
-Fungal assemblages associated with gall formation by Phytolyma, https://www.researchgate.net/publication/400680863_Fungal_assemblages_associated_with_gall_formation_by_Phytolyma_fusca_on_Milicia_excelsa_in_Nigeria
-Psyllidae) On Seedling Growth Of Milicia excelsa - ResearchGate, https://www.researchgate.net/publication/264890943_Influence_Of_Phytolyma_lata_Homoptera_Psyllidae_On_Seedling_Growth_Of_Milicia_excelsa
-Survival, growth and gall formation by Phytolyma lata on Milicia, https://www.researchgate.net/publication/230365857_Survival_growth_and_gall_formation_by_Phytolyma_lata_on_Milicia_excelsa_established_in_mixed-species_tropical_plantations_in_Ghana
-seedling ecology of aucoumea klaineana pierre,the most - ORBi, https://orbi.uliege.be/bitstream/2268/321293/1/Seedling%20ecology%20of%20Aucoumea%20klaineana%20Pierre.pdf
-Insect Pest in Tropical Forests | PDF - Scribd, https://www.scribd.com/document/423396708/insect-pest-in-tropical-forests
-Survival and growth of mixed plantations of Milicia excelsa and, https://www.researchgate.net/publication/223646675_Survival_and_growth_of_mixed_plantations_of_Milicia_excelsa_and_Terminalia_superba_9_years_after_planting_in_Ghana
-Milicia excelsa sampling locations (populations), estimates of genetic, https://www.researchgate.net/figure/Milicia-excelsa-sampling-locations-populations-estimates-of-genetic-diversity-at-nSSRs_tbl1_46379997
-Ngezi –Vumawimbi Forest Reserves, http://coastalforests.tfcg.org/pubs/Ngezi-Biodiversity.pdf
-Another bat from my local area (Ruiru, Kenya). I have this one down, https://www.facebook.com/groups/3909546555818971/posts/4026158190824473/
-Exotic Guavas are Foci of Forest Regeneration in Kenyan Farmland, https://www.researchgate.net/publication/229991922_Exotic_Guavas_are_Foci_of_Forest_Regeneration_in_Kenyan_Farmland
-Forest refugia revisited: nSSRs and cpDNA sequences support, https://pubmed.ncbi.nlm.nih.gov/20854478/
-African straw-colored bat facts and conservation - Facebook, https://www.facebook.com/groups/450631048384884/posts/7321664461281474/
-Urban Green Spaces: A Sustainable Approach - POLICY BRIEF, https://cdn.prod.website-files.com/6473831a6fc6bf5f6fcfe22a/69b20080e2b3ea4a8a1c3adf_Policy%20Brief%20.pdf
-Let's discover the Sacred Mijikenda Kaya Forests in Kenya , East, https://www.facebook.com/africanworldheritagefund/posts/-lets-discover-the-sacred-mijikenda-kaya-forests-in-kenya-east-africa-%EF%B8%8Flocated-o/826632252836444/
-Traditionally protected forests and sacred forests of Zigua ... - Helda, https://helda.helsinki.fi/bitstreams/cadd1175-873d-46f0-816d-bcfe36c4fe5d/download
-The Case of the Rabai Kaya Forests in Coastal Kenya - ResearchGate, https://www.researchgate.net/publication/237379464_Cultural_and_Biological_Heritage_at_RiskThe_Case_of_the_Rabai_Kaya_Forests_in_Coastal_Kenya
-Sacred Groves and the Supernatural - The Role of Indigenous, https://carijournals.org/journals/JCP/article/download/3612/4249/10002
-The Case of the Rabai Kaya Forests in Coastal Kenya, http://krepublishers.com/02-Journals/JHE/JHE-24-0-000-000-2008-Web/JHE-24-4-000-000-2008-Abst-PDF/JHE-24-4-287-08-1626-Kibet-S/JHE-24-4-287-08-1626-Kibet-S-Tt.pdf
-African traditional plant knowledge today: An ethnobotanical study of, https://www.academia.edu/94228504/African_traditional_plant_knowledge_today_An_ethnobotanical_study_of_the_Digo_at_the_Kenya_Coast
-Olea welwitschii, commonly known as Elgon teak and ... - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/olea-welwitschii-commonly-known-as-elgon-teak-and-called-mucarage-in-kikuyu-is-o/1280585280918538/
-Milicia excelsa African Teak PFAF Plant Database, https://pfaf.org/user/Plant.aspx?LatinName=Milicia%20excelsa
-WILDLIFE DOCUMENTARIES™: The Giant Forest Tree Called IROKO, http://naijasafari.blogspot.com/2015/08/the-giant-forest-tree-called-iroko.html
-(PDF) Capability map for growing high value tree species in the, https://www.researchgate.net/publication/320258377_Capability_map_for_growing_high_value_tree_species_in_the_Coast_region_of_Kenya_CAPABILITY_MAP_FOR_GROWING_HIGH_VALUE_TREE_SPECIES_IN_THE_COAST_REGION_OF_KENYA_A_Guide_for_Farmers_Forest_Managers_Exte
-The IUCN Red List of Threatened Species - GBIF, https://www.gbif.org/dataset/19491596-35ae-4a91-9a98-85cf505f1bd3/taxon/33903
-Pleistocene refugia and genetic diversity patterns in West Africa, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170511
-https://www.inaturalist.org/taxa/135246-Milicia-excelsa
+Bongo (antelope) - Wikipedia, https://en.wikipedia.org/wiki/Bongo_(antelope)
+Tragelaphus eurycerus (Ogilby, 1837) - GBIF, https://www.gbif.org/taxon/57VQQ
+zoology, botany, and geology, https://archive.org/download/biostor-87139/biostor-87139.pdf
+Bongo de montagne - Wikipédia, https://fr.wikipedia.org/wiki/Bongo_de_montagne
+bongo - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/bongo
+Tragelaphus eurycerus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Tragelaphus_eurycerus
+Benefits of traditional and local ecological knowledge for species, https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1383611/full
+Mountain Bongo Conservation Planning Workshop Report, https://www.cpsg.org/documents/mountain-bongo-conservation-planning-report-2010
+Mountain Bongo - Happy Africa Tours, https://www.happyafricatours.com/mountain-bongo/
+Population monitoring of a Critically Endangered antelope, the, https://www.cambridge.org/core/journals/oryx/article/population-monitoring-of-a-critically-endangered-antelope-the-mountain-bongo-using-camera-traps-and-a-novel-identification-scheme/C2C82FA1B978052663518CDF2C9D9A54
+(PDF) Independent Evaluation of Hirola Antelope Beatragus hunteri, https://www.researchgate.net/publication/287391841_Independent_Evaluation_of_Hirola_Antelope_Beatragus_hunteri_Conservation_Status_and_Conservation_Action_in_Kenya
+CASPPZT: Antelope and Bovids Chapter Part 1 - DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT-Antelope-and-Bovids-Chapter-Part-1-1270593071
+Bongo: Facts, Stripes, Habitat & Forest Safari Guide, https://africanmajesticadventure.com/animals/bongo.html
+Saving the mountain bongo (Tragelaphus eurycerus isaaci), https://jzar.org/jzar/article/download/247/210/1615
+Rapid isolation and characterization of microsatellites in the critically, https://www.ias.ac.in/article/fulltext/jgen/097/02/0549-0553
+Rapid isolation and characterization of microsatellites in the critically, https://www.researchgate.net/publication/330403729_Rapid_isolation_and_characterization_of_microsatellites_in_the_critically_endangered_Mountain_Bongo_Tragelaphus_eurycerus_isaaci
+Mountain Bongo's Long Road Home – Animal IQ Blog, https://animaliq.co.ke/blog/mountain-bongos-long-road-home
+Offspring survival changes over generations of captive breeding - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8144597/
+Taronga Zoo Sydney - Facebook, https://www.facebook.com/tarongazoo/posts/its-world-bongo-day-the-eastern-bongo-are-striking-animals-with-their-reddish-br/4243113179084874/
+Bongos Save Forests Mara River Basin - No Water No Life, https://nowater-nolife.org/bongos-save-forests/
+Species Threat Abatement and Restoration in the Central African, https://portals.iucn.org/library/sites/library/files/documents/2024-034-En.pdf
+Itineraries | Diwaka Safaris, https://diwakasafaris.com/itineraries
+Protected today. Wild tomorrow. - Zoo Berlin, https://www.zoo-berlin.de/en/latest/news/detail/auf-dem-weg-in-die-wildnis
+African Antelope Database 1998 - IUCN Portals, https://portals.iucn.org/library/sites/library/files/documents/SSC-OP-021.pdf
+The Mountain Bongo is one of the rarest and most striking antelope, https://www.facebook.com/WildlifePartners/posts/the-mountain-bongo-is-one-of-the-rarest-and-most-striking-antelope-species-in-th/1720457459348787/
+National Recovery and action plan for the Mountain Bongo, https://archive.org/details/nationalrecover1
+Five mountain bongos released into the wild - The Star, https://www.the-star.co.ke/counties/2022-03-09-five-mountain-bongos-released-into-the-wild
+The mountain bongo is found in the wild only in Kenya. It lives in, https://www.facebook.com/61571050765733/posts/the-mountain-bongo-is-found-in-the-wild-only-in-kenya-it-lives-in-dense-highland/122161641362701692/
+Mount Kenya Wildlife Conservancy Releases 10 Adult Mountain, https://www.mountkenyawildlifeconservancy.org/news/mount-kenya-wildlife-conservancy-releases-10-adult-mountain-bongos-into-the-mawingu-sanctuary
+Mike Prettejohn and the Bongo Surveillance Project, Kenya, https://legendsandlegaciesofafrica.org/mikeprettejohn.php
+Expanding MEP's Endangered Species Protection, https://maraelephantproject.org/expanding-meps-endangered-species-protection/
+Incubation - Mara Elephant Project, https://maraelephantproject.org/impact/incubation/
+The first mountain bongos have been released into a sanctuary, https://www.facebook.com/cgtnafrica/posts/the-first-mountain-bongos-have-been-released-into-a-sanctuary-beneath-mount-keny/330283745804683/
+Bongo Surveillance Project - Dublin Zoo, https://www.dublinzoo.ie/conservation/bongo-surveillance-project/
+Part 5: Tracking the Bongos at Mawingu Sanctuary By 6 a.m., our, https://www.facebook.com/Bongospot/posts/part-5-tracking-the-bongos-at-mawingu-sanctuaryby-6-am-our-team-is-deep-in-the-f/1010881777809468/
+File:Tragelaphus eurycerus (Bongo).jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Tragelaphus_eurycerus_(Bongo).jpg
+File:Tragelaphus eurycerus range.png - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Tragelaphus_eurycerus_range.png

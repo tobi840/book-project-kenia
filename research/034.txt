@@ -1,191 +1,225 @@
-Der Marmor-Riedfrosch (Hyperolius viridiflavus): Taxonomische, physiologische und ökologische Daten
+Rohmaterial-Dossier: Die Verhaltensökologie und Biologie der Zebramanguste (Mungos mungo) im kenianischen Rift Valley
 1. Namen und Etymologie
-Der wissenschaftliche Name der Art lautet Hyperolius viridiflavus1. Die Nomenklatur und Etymologie basieren auf historischen Dokumentationen aus dem 19. Jahrhundert (Status: gesichert).
-Die Erstbeschreibung der Art erfolgte im Jahr 1841 durch die französischen Zoologen André Marie Constant Duméril und Gabriel Bibron unter dem Namen Eucnemis viridiflavus4. Im Jahr 1842 etablierte der deutsche Anatom und Zoologe Wilhelm von Rapp die Gattung Hyperolius, in welche die Art in der Folge überführt wurde8.
-Der Artname viridiflavus entstammt dem Lateinischen. Er setzt sich aus den Wörtern viridis (frisch, grün) und flavus (gelb, golden, goldfarben) zusammen11. Die genaue etymologische Herleitung des Gattungsnamens Hyperolius durch Wilhelm von Rapp ist in der vorliegenden wissenschaftlichen Literatur nicht zweifelsfrei dokumentiert (Status: unbekannt). Die Wurzeln des Wortes liegen im Griechischen, die wörtliche Bedeutung im spezifischen Kontext der Erstbeschreibung lässt sich jedoch nicht belegen10.
-Im deutschen Sprachraum haben sich die Bezeichnungen „Marmor-Riedfrosch“ und „Gewöhnlicher Riedfrosch“ etabliert4. Der englische Trivialname lautet „Common Reed Frog“4. Spezifische lokale Namen in den Sprachen Swahili, Maa, Kikuyu, Samburu, Giriama oder Kamba sowie deren wörtliche Bedeutungen sind in den verfügbaren herpetologischen und ethnozoologischen Datenbanken nicht verzeichnet (Status: unbekannt)15.
-2. Erscheinung und Maße
-Die Art zeichnet sich durch einen halbzylindrischen Körperbau mit einem schmalen Kopf und einer stumpfen Schnauze aus16. Die Gliedmaßen sind lang und schmal. Finger und Zehen verfügen über zirkummarginale Haftscheiben, an den Zehen ist eine extensive Schwimmhautbildung dokumentiert16. Ein äußerer Metatarsaltuberkel (Fersenhöcker) ist nicht vorhanden17. Die Augen weisen horizontal elliptische Pupillen auf16.
-Es liegt ein dokumentierter Sexualdimorphismus vor. Männchen besitzen eine mediane, subgulare Schallblase (Vokalsack) mit einer ausgeprägten Kehlklappe (Gular flap). Weibchen weisen an dieser Stelle eine querverlaufende Kehlfalte auf16. Weibchen erreichen durchschnittlich eine größere Körperlänge als Männchen16.
-Morphometrische Daten
-Die folgenden Maße sind für die Art Hyperolius viridiflavus dokumentiert (Status: gesichert):
+Die systematische und vernakuläre Namensgebung der Zebramanguste ist historisch von linguistischen Missverständnissen, kolonialen Transferprozessen und fortlaufenden taxonomischen Revisionen geprägt. Die phylogenetische Einordnung und die etymologischen Wurzeln verdeutlichen die komplexe Wissenschaftsgeschichte der afrikanischen Säugetierfauna.
+Die Gattungsbezeichnung Mungos und der englische Trivialname „mongoose“ leiten sich etymologisch nicht von afrikanischen Sprachen ab, sondern haben ihren Ursprung auf dem indischen Subkontinent, genauer in dravidischen und indoarischen Sprachfamilien1. Der Begriff stammt ursprünglich von Wörtern wie muṅgūs aus dem Marathi und dem klassischen Hindi, sowie von mungisa aus dem Telugu und mungisi aus dem Kannada ab1. Diese Begriffe stellten lokale Bezeichnungen für schlangenjagende Raubtiere der asiatischen Gattungen Herpestes beziehungsweise Urva dar2. Über portugiesische Händler, die das Wort als manguço in ihre Sprache aufnahmen, gelangte der Begriff in den späten 1690er Jahren in den englischen Sprachgebrauch1. Durch volksetymologische Angleichungen wurde die Endung im 18. und 19. Jahrhundert im Englischen zu „-goose“ (Gans) verfälscht, was zu der orthografischen Variante „mungoose“ und fälschlicherweise oft zu dem unregelmäßigen Plural „mongeese“ anstelle des korrekten „mongooses“ führte1. Dass ein originär aus Indien stammender Begriff in der modernen Taxonomie als Gattungsname für eine rein afrikanische Spezies dient, verdeutlicht die geografischen Diskrepanzen in der frühen europäischen naturwissenschaftlichen Klassifikation2.
+Die wissenschaftliche Erstbeschreibung der Art erfolgte im Jahr 1788 durch den deutschen Naturforscher Johann Friedrich Gmelin im Rahmen der 13. Auflage von Linnaéus' Systema Naturae unter dem Bionom Viverra mungo3. Gmelin ordnete das Tier fälschlicherweise den Schleichkatzen (Viverridae) zu und ging von einer falschen Typuslokalität aus, da historische Aufzeichnungen teilweise Indien oder das Kap der Guten Hoffnung als Herkunftsort des Typusexemplars vermuteten2. Die heute gültige Gattung Mungos wurde schließlich im Jahr 1795 von den französischen Zoologen Étienne Geoffroy Saint-Hilaire und Frédéric Cuvier etabliert, um die gestreiften, in Gruppen lebenden afrikanischen Mangusten von anderen Gruppen abzugrenzen2. Im Jahr 1864 festigte John Edward Gray diese Trennung weiter, indem er die Unterfamilie Mungotinae erschuf, welche die strikt sozialen, bodenbewohnenden afrikanischen Mangusten taxonomisch von den solitären, asiatischen Arten der Unterfamilie Herpestinae separierte2.
+In Ostafrika und speziell in der Republik Kenia hat sich ein völlig anderes Vokabular zur Benennung der Spezies entwickelt. Der gebräuchlichste Name in der Lingua franca Swahili lautet Nguchiro (in einigen Transkriptionen auch Nkuchiro)1. Die deutsche Bezeichnung „Zebramanguste“ sowie der englische Begriff „Banded mongoose“ rekurrieren deskriptiv auf die markante dorsale Querstreifung des Fells3.
 
-Parameter
-	Männchen
-	Weibchen
-	Jungtiere (nach Metamorphose)
+Sprache / Nomenklatur
+	Bezeichnung
+	Ursprung / Anmerkung
 
-Körperlänge (SVL)
-	23 bis 29 mm16
-	24 bis 32 mm16
-	12 bis 15 mm16
+Wissenschaftlich
+	Mungos mungo (Gmelin, 1788)
+	Erstbeschreibung als Viverra mungo, später Revision durch Geoffroy & Cuvier6.
 
-Körpergewicht
-	ca. 1,5 g18
-	Keine exakten Daten
-	0,2 g (bzw. 200 bis 700 mg vor der Trockenzeit)16
-Alltagsvergleich (Status: rechnerisch ermittelt): Eine Körperlänge von 23 bis 32 mm entspricht in der Größenordnung exakt dem Durchmesser einer 1-Euro- (23,25 mm) bis 2-Euro-Münze (25,75 mm) und ist geringfügig kleiner als das Zifferblatt einer handelsüblichen Armbanduhr (35 bis 40 mm).
-Farbgebung und Polymorphismus
-Die Art weist einen ausgeprägten Polymorphismus (Vielgestaltigkeit) in der Färbung auf, der von der Literatur als einer der variabelsten innerhalb der Wirbeltiere quantifiziert wird17. Zudem ist die Fähigkeit zur Metachrose (aktiver Farbwechsel) dokumentiert16. Die Farbe ändert sich im Tagesverlauf in Abhängigkeit von Temperatur, Luftfeuchtigkeit, Lichtintensität und physiologischem Stress16.
-Nachtfärbung: Einheitlich beige16.
-Tagesfärbung (Regenzeit): Die Grundfarbe variiert zwischen Beige, Gelb und Orange. Auf den Flanken sind häufig dunkle Markierungen vorhanden16.
-Jungtiere (Phase J): Beige Grundfarbe mit einem dunklen Lateralstreifen, der von der Schnauze bis zur Kloake verläuft16.
-Trockenzeitfärbung (Aestivation): Bei Temperaturen über 35 bis 39 °C nimmt die dorsale Haut eine stark reflektierende weiße Farbe an. Die Haut an der Beckenregion und an den Innenseiten der Gliedmaßen erscheint hellrot. Diese Färbung resultiert aus einem darunterliegenden, durchscheinenden Kapillarnetzwerk16.
-3. Der Mechanismus
-Die Art Hyperolius viridiflavus wird durch zwei spezifische biologische Prinzipien definiert: eine biochemische Adaptation an extreme Aridität und einen dokumentierten Geschlechtswechsel (Status: im Labor gesichert).
-3.1. Trockenstarre (Aestivation) und Iridophoren-Verdickung
-Im Gegensatz zu anderen Amphibien suchen juvenile Riedfrösche während der Trockenzeit keinen mikroklimatisch günstigen Unterschlupf (z. B. im Erdboden). Sie verharren exponiert und der direkten Sonneneinstrahlung ausgesetzt an trockenen Pflanzen16. Dieser Mechanismus wurde in den Jahren 1986 bis 1995 insbesondere durch die Forscher K. E. Linsenmair, F. Kobelt und R. Schmuck quantifiziert19.
-Die ökologische Kausalkette der Adaptation verläuft wie folgt:
-Einsetzen der Trockenzeit (Auslöser): Die Temperaturen steigen auf über 35 bis 38 °C22.
-Mechanische Abdichtung: Der Frosch nimmt eine kauernde Haltung ein. Die Gliedmaßen werden eng an den Körper gepresst, und die Füße werden unter Hautfalten verborgen16. Getrocknete Hautdrüsensekrete (mucus seal) fixieren das Tier am Untergrund und versiegeln die Hautoberfläche16.
-Reduktion des Wasserverlusts: Der evaporative Wasserverlust (EWL) sinkt auf 1,2 % des Körpergewichts pro Tag23. Die Hautatmung wird vollständig eingestellt; der Gasaustausch erfolgt ausschließlich über die Lunge. Dieser pulmonale Gasaustausch ist für 14,9 % (± 8,9 %) des verbleibenden Wasserverlusts verantwortlich23.
-Strahlungslast und Purinsynthese: Durch das Ausbleiben der evaporativen Kühlung droht eine letale Überhitzung durch die solare Strahlungslast (Solar Radiation Load, SRL)19. Um dies zu kompensieren, synthetisiert der Organismus Purinkristalle. Diese bestehen zu 85 bis 92 % aus Guanin und zu 8 bis 15 % aus Hypoxanthin19.
-Verdickung des Stratum spongiosum: Die Purinkristalle werden in spezialisierten Zellen, den Iridophoren, eingelagert. Die Dicke dieser Iridophorenschicht wächst von 15 µm (entsprechend 1 bis 2 Zellschichten) auf bis zu 80 µm (entsprechend 4 bis 6 Zellschichten) an22. Etwa 30 Schichten von exakt angeordneten Kristallen bilden sich, die parallel zur Hautoberfläche ausgerichtet sind22.
-Reflexion und Thermoregulation: Die parallele Ausrichtung der Kristalle fungiert physikalisch als Viertelwellenlängen-Interferenzreflektor22. Die Hautfärbung wechselt zu Weiß und reflektiert bis zu 60 % der solaren Einstrahlung im Spektrum von 300 bis 2900 nm22. Dadurch wird das kritische thermische Maximum (CTM), bei dem Muskelspasmen und der Hitzetod eintreten, auf 43 bis 44 °C angehoben23.
-Stickstoffmetabolismus (Osmoregulation): Während der mehrmonatigen Aestivation setzt der Frosch weder Urin noch Kot ab23. Toxischer Ammoniak aus dem Stoffwechsel wird in Harnstoff und anschließend primär in Purine umgewandelt. Diese Einlagerung in der Haut verhindert einen Anstieg der Plasma-Osmolarität, der bei einer reinen Harnstoff-Akkumulation zu osmotischem Stress und zellulären Schäden führen würde19.
-Rehydratation: Bei Niederschlag löst sich die Schleimversiegelung. Die unpigmentierten, vaskularisierten Hautareale an Bauch und Beininnenseiten ermöglichen eine Wasseraufnahme von 69,3 % (± 19,4 %) des eigenen Körpergewichts pro Stunde23. Der Organismus toleriert einen temporären Verlust von bis zu 50 % des ursprünglichen Körpergewichts16.
-3.2. Protogyner Geschlechtswechsel (Sequential Hermaphroditism)
-Ein weiteres dokumentiertes Prinzip ist der weiblich-zu-männliche Geschlechtswechsel, erforscht durch T. U. Grafe und K. E. Linsenmair im Jahr 1989 an der Unterart Hyperolius viridiflavus ommatostictus14.
-Unter Laborbedingungen (Status: im Labor gesichert) wandelten sich 7 von 24 adulten Weibchen in Männchen um20. Dieser physiologische Prozess vollzog sich ohne die experimentelle Zugabe von Hormonen20. Die umgewandelten Männchen (sekundäre Männchen) zeigten ein voll funktionsfähiges Fortpflanzungsverhalten; sie produzierten Spermien (Spermatogenese) und befruchteten erfolgreich Gelege20. In morphometrischen Parametern unterschieden sich primäre und sekundäre Männchen nicht signifikant32.
-Erklärungsansatz: Die evolutionäre Funktion wird in der Maximierung des reproduktiven Erfolgs in stark fluktuierenden Habitaten vermutet, in denen die Geschlechterverhältnisse durch externe Umweltfaktoren verzerrt werden können20. Widerspruch/Diskurs: Während die Labordaten als quantifiziert gelten, wird in der Literatur betont, dass ein Beleg für das Eintreten dieses Mechanismus in freier Wildbahn bisher fehlt. Dort gilt der Vorgang als umstritten oder wird lediglich vermutet14.
+Swahili (Kenia/Tansania)
+	Nguchiro, Nkuchiro
+	Weit verbreiteter Vernakularname im ostafrikanischen Raum1.
+
+Englisch
+	Banded mongoose
+	Folk-etymologische Anpassung des Marathi-Wortes muṅgūs1.
+
+Deutsch
+	Zebramanguste
+	Deskriptiv bezogen auf das Fellmuster9.
+
+Afrikaans
+	Gebande muishond
+	Regionaler Name im südlichen Afrika7.
+2. Erscheinung, mit Maßen
+Die Zebramanguste ist ein stämmiges, ausschließlich terrestrisch lebendes Raubtier, dessen Morphologie exzellent an eine grabende und insektenfressende Lebensweise in der afrikanischen Savanne angepasst ist2. Im Gegensatz zu vielen anderen Säugetierarten weist Mungos mungo keinen ausgeprägten Sexualdimorphismus auf; männliche und weibliche Individuen sind anhand phänotypischer Merkmale oder der Körpermasse kaum zu unterscheiden2. Diese morphologische Uniformität korreliert stark mit dem egalitären Sozialsystem der Spezies, in dem eine hohe Anzahl von Individuen beiderlei Geschlechts an der Fortpflanzung und der kommunalen Jungenaufzucht teilnimmt.
+Die Körperstatur der Zebramanguste ist kompakt und robust. Das raue, borstige Haarkleid weist eine grizzled (meliert) graubraune Grundfärbung auf4. Das markanteste und namensgebende Identifikationsmerkmal sind 10 bis 15 (in einigen regionalen Populationen 6 bis 7) dunkle bis schwarze, quer verlaufende Bänder, die sich vom mittleren Rücken bis über das Hinterteil erstrecken und sich deutlich von der helleren Grundfarbe abheben2. Die relativ kurzen, extrem muskulösen Gliedmaßen sind dunkelbraun bis schwarz gefärbt, ebenso wie die Spitze des konisch zulaufenden, buschigen Schwanzes4.
+Der Schädel ist im Verhältnis zum Körper relativ groß, läuft zu einer spitzen Schnauze zusammen und ist mit kleinen, eng anliegenden und abgerundeten Ohren versehen2. Die Augen verfügen über schmale, horizontale bis ovale Pupillen, die ein breites Sichtfeld für die Prädationsvermeidung in offenen Habitaten bieten2. Ein weiteres entscheidendes anatomisches Merkmal sind die langen, nicht-einziehbaren Krallen an den Vorderpfoten, die als hochspezialisierte Grabwerkzeuge für das Freilegen von Insekten und das Graben von Bauen dienen4. Die Zahnformel der Zebramanguste lautet , was auf ein omnivores bis insektivores Gebiss schließen lässt4.
+Darüber hinaus verfügen adulte Tiere über eine stark ausgeprägte Anal-Duftdrüse, deren Sekrete für die territoriale Markierung und die hochkomplexe olfaktorische Kommunikation innerhalb und zwischen den Kolonien essenziell sind4. Auf biochemischer Ebene weist die Zebramanguste, ähnlich wie das Erdmännchen, eine hochspezialisierte konvergente Mutation im nikotinischen Acetylcholinrezeptor auf. Diese durch Glykosylierung bedingte strukturelle Veränderung des Rezeptors verhindert die Bindung von -Neurotoxinen, wodurch die Spezies eine angeborene partielle Immunität gegen das Gift zahlreicher afrikanischer Giftschlangen besitzt4.
+
+Morphometrischer Parameter
+	Dimensionen / Werte
+	Quelle
+
+Kopf-Rumpf-Länge
+	30 bis 45 cm
+	2
+
+Schwanzlänge
+	15 bis 30 cm
+	2
+
+Gewicht (Adult)
+	1,5 bis 2,5 kg (selten bis 2,2 kg im Durchschnitt)
+	2
+
+Zahnformel
+	
+	4
+
+Wurfgröße (pro Weibchen)
+	2 bis 4 Jungtiere
+	8
+3. Der Mechanismus: Geburts-Synchronisation und Infantizid
+Das Reproduktionssystem der Zebramanguste repräsentiert eines der außergewöhnlichsten und extremsten Beispiele für kooperative Brutpflege (Cooperative Breeding) in der Klasse der Säugetiere. Im Gegensatz zu vielen anderen sozialen Herpestidae, wie etwa den Erdmännchen (Suricata suricatta) oder den Zwergmangusten (Helogale parvula), bei denen die Fortpflanzung strikt durch ein einziges dominantes Alpha-Paar monopolisiert wird (hoher Reproductive Skew), herrscht bei Zebramangusten ein System mit geringer reproduktiver Schiefe18. Innerhalb einer einzigen sozialen Gruppe pflanzen sich simultan mehrere Weibchen fort; im Durchschnitt werfen fünf (bei einer Standardabweichung von  2,6), in Extremsituationen sogar bis zu zehn oder zwölf Weibchen gleichzeitig19. Diese kollektive Reproduktion wird durch einen präzisen, evolutiv erzwungenen Mechanismus der extremen Geburtssynchronisation orchestriert, der in 64 Prozent aller dokumentierten Zyklen dazu führt, dass sämtliche trächtigen Weibchen einer Kolonie in derselben Nacht oder am exakt selben Morgen ihre Jungtiere im selben unterirdischen Bau zur Welt bringen19.
+Die treibende selektive Kraft hinter dieser perfekten Synchronisation ist die intrasexuelle Konkurrenz und die permanente Bedrohung durch Infantizid (Tötung von Jungtieren) durch ältere, sozial dominante Weibchen19. Wenn Weibchen die Synchronität durchbrechen und asynchron gebären (also einige Tage vor den anderen Weibchen werfen), werden ihre Neugeborenen fast ausnahmslos von den dominanten Weibchen der Gruppe getötet19. Die frühe Geburt böte den Welpen theoretisch einen enormen kompetitiven Vorteil im Wachstum gegenüber später geborenen Konkurrenten; genau diesen Vorteil eliminieren die älteren Weibchen durch gezielten Infantizid, um die Überlebenschancen ihres eigenen, später zu gebärenden Nachwuchses zu maximieren19. Subalterne Weibchen haben evolutionär auf diese Bedrohung reagiert, indem sie ihre Tragzeit physiologisch so modulieren, dass die Niederkunft absolut synchron mit der der dominanten Weibchen verläuft19. Experimente mit kontrazeptiven Injektionen in freier Wildbahn haben gezeigt, dass diese Drohkulisse real ist: Sobald die Reproduktion der dominanten Weibchen unterdrückt wurde und diese selbst keine Jungen erwarteten, setzten sie den Infantizid an den Welpen der subalternen Weibchen als Mittel der reproduktiven Kontrolle konsequent um19.
+Durch die zeitgleiche Geburt aller Welpen an einem einzigen Morgen entsteht ein gemeinsamer Gemeinschaftswurf (Communal Litter) im unterirdischen Bau19. Diese Synchronität generiert ein faszinierendes Phänomen, das Verhaltensökologen als „Schleier des Nichtwissens“ (Veil of Ignorance) bezeichnen – in direkter Analogie zum moralphilosophischen Konzept von John Rawls21. Da physische, zeitliche und räumliche Indikatoren für die Mutterschaft vollständig fehlen, verliert jedes Weibchen die Fähigkeit, die eigenen genetischen Nachkommen im wimmelnden Gemeinschaftswurf olfaktorisch oder visuell zu erkennen21. Die Jungtiere wechseln während des Säugens kontinuierlich zwischen den Zitzen verschiedener Weibchen, was die Anonymität perfektioniert21. Würde ein dominantes Weibchen nun versuchen, fremde Welpen zu töten, bestünde ein inakzeptabel hohes Risiko, den eigenen Nachwuchs zu ermorden19. Der Infantizid wird somit durch das Erschaffen eines systemischen Informationsdefizits unmöglich gemacht.
+Ein aufsehenerregendes, im Jahr 2021 in Nature Communications (Cant et al.) publiziertes Freilandexperiment auf der Mweya-Halbinsel in Uganda demonstrierte die weitreichenden Konsequenzen dieses Schleiers des Nichtwissens21. Die Forscher manipulierten die vorgeburtliche Nährstoffversorgung, indem sie systematisch nur der Hälfte der trächtigen Weibchen in einer Kolonie täglich 50 Gramm gekochtes Ei zufütterten, während die andere Hälfte als Kontrollgruppe ungefüttert blieb21. Dies induzierte eine künstliche Ungleichheit: Die zugefütterten Mütter brachten signifikant größere und schwerere Welpen zur Welt als die ungefütterten Weibchen21. Nachdem der Wurf geboren war, konnten die Forscher durch Beobachtungen der allomaternalen Laktation (Fremdsäugen) dokumentieren, dass die ressourcenstarken, gefütterten Mütter ironischerweise nicht ihre eigenen, großen Welpen bevorzugten21. Stattdessen richteten sie ihre überschüssige Milch- und Fürsorgekapazität exzessiv auf die kleinsten und schwächsten Welpen des Wurfes – welche genetisch die Nachkommen der ungefütterten Mütter waren21. Da die Weibchen nicht wussten, wer ihre eigenen Jungen waren, verfolgten sie die instinktive Strategie, die schwächsten Tiere aufzupäppeln, um sicherzustellen, dass ihr eigener Nachwuchs (falls er unter den Schwachen wäre) nicht verhungert21. Diese ungerichtete, bedarfsorientierte Allokation postnataler Fürsorge bewirkte ein rasches „Leveling-up“ (Nivellierung): Die anfänglichen Gewichts- und Größenunterschiede im Wurf wurden nivelliert, und die Überlebenschancen aller Welpen bis zum Erwachsenenalter glichen sich an21. Das System zwingt die Tiere somit durch Nichtwissen zu einem Verhalten, das eine nahezu egalitäre und extrem kooperative Gesellschaftsstruktur zur Folge hat21.
+Die Brutpflege wird auch nach dem Verlassen des Baus auf komplexe Weise koordiniert. Etwa 30 Tage nach der Geburt tauchen die Welpen aus dem unterirdischen Bau auf und begleiten die Gruppe bei der täglichen Nahrungssuche21. Zu diesem Zeitpunkt etabliert sich ein „Escort-System“: Jeder Welpe bildet eine starke, exklusive Eins-zu-Eins-Bindung zu einem bestimmten erwachsenen Individuum, dem sogenannten Escort21. Diese Escorts sind häufig nicht die leiblichen Mütter, sondern sehr oft junge, subalterne Männchen (oder Weibchen), die den Welpen beschützen, tragen und ihm für die darauffolgenden 60 Tage nahezu jede gefundene Beute überlassen19. Die Welpen lernen durch Imitation die spezifischen Jagdtechniken ihres jeweiligen Escorts, was in der Forschung als Mechanismus für die kulturelle Transmission von unterschiedlichen Nahrungsbeschaffungs-Traditionen (Foraging Traditions) innerhalb derselben Kolonie verstanden wird27.
 4. Ökologie und Verhalten
-Lebensraum und Ernährung
-Die Art bewohnt tropische Savannen, Strauchsavannen, temporäre und permanente Feuchtgebiete, Sümpfe sowie die Ufervegetation von Seen und Flüssen16. Das vertikale Verbreitungsgebiet reicht von 250 Metern bis auf 2400 Meter über dem Meeresspiegel16. Eine Anpassung an anthropogen genutzte Flächen (Agrarland, Gärten) ist dokumentiert30.
-Adulte Exemplare ernähren sich insektivor. Zu den nachgewiesenen Beuteorganismen gehören Fliegen der Gattungen Drosophila, Musca, Phormia, Lucilia und Calliphora16. Die freischwimmenden Larven (Kaulquappen) ernähren sich primär herbivor von Algen30.
-Räuber-Beute-Dynamik
-Die Population der Riedfrösche dient mehreren Raubtierarten als Nahrungsquelle. Zu den dokumentierten Prädatoren adulter Tiere zählen Vögel, kleinere Säugetiere, die Wasserschlange Lycodonomorphus rufulus sowie Webspinnen der Gattung Nilus30. Die Larvenstadien unterliegen der Prädation durch Fische, Wasserschildkröten, Libellenlarven und Käferlarven30.
-Fortpflanzung und Bioakustik
-Die Fortpflanzungsperiode korreliert mit der Regenzeit16. Das Fortpflanzungssystem wird als Lek-System klassifiziert16. Männchen aggregieren in der Zeit von der Abenddämmerung bis Mitternacht in der aufstrebenden Vegetation an temporären Gewässern16. Sie besetzen Reviere, die sie durch Territorialrufe und physische Auseinandersetzungen ("male-male combat") gegen Rivalen verteidigen16.
-Energetik und Akustik (Status: gesichert): Der Energieaufwand der Rufaktivität ist quantifiziert. Ein 1,5 g schweres Männchen erreicht bei einer Rate von 5.400 Rufen pro Stunde einen Sauerstoffverbrauch von 1,40 mL O₂/g/h18. Die Netto-Kosten für das Rufen liegen bei 33 Joule pro Stunde18. Das Rufrepertoire umfasst einen kurzen Paarungsruf (advertisement call) sowie einen tieferen, 0,28 bis 0,36 Sekunden andauernden Territorialruf mit einer Frequenz zwischen 0,98 und 2,6 kHz16. Während der Rufabgabe wird die Kehlklappe (Gular patch) sichtbar. Die Drüsen auf dieser Klappe sondern artspezifische, flüchtige chemische Verbindungen (Makrolide) als Pheromone ab, was auf eine multimodale Kommunikation (akustisch, visuell, chemisch) hindeutet40.
-Eiablage und Entwicklung: Nach der Paarung in axillarer Umklammerung (Amplexus) legt das Weibchen 94 bis 800 Eier, die an Unterwasservegetation befestigt werden16. Ein durchschnittliches Gelege bindet einen Energiegehalt von 3,73 kJ18. Brutpflege findet nicht statt16. Widersprüchliche Quellenlage (Inkubation): Die Angaben zur Dauer bis zum Schlupf der Kaulquappen differieren in der wissenschaftlichen Literatur. Während einige Studien einen Zeitraum von 2 bis 5 Tagen nennen16, dokumentieren andere Beobachtungen eine Spanne von 6 bis 8 Tagen28. Die Metamorphose zum Frosch dauert übereinstimmend 6 bis 8 Wochen16.
-Saisonale Muster: Ende September und Anfang Oktober im Rift Valley
-In dem spezifizierten Zeitraum (24.09. bis 12.10.) befindet sich die Population am Übergang zwischen der langen Trockenzeit und der einsetzenden kleinen Regenzeit. (Status: gesichert abgeleitet aus Klimadaten und Aestivationszyklus).
-Ende September: Die Population besteht fast ausschließlich aus Jungtieren, da adulte Frösche den Stoffwechsel nicht effizient genug reduzieren können und die extreme Trockenzeit selten überleben26. Diese Jungfrösche sitzen bewegungslos und weiß gefärbt in starrer Position (Aestivation) an Schilfhalmen in der direkten Sonne16. Sie fressen, trinken, urinieren und defäkieren nicht23.
-Anfang Oktober (Einsetzende Niederschläge): Mit den ersten Regenfällen wird das Schleimsiegel aufgelöst. Innerhalb von Stunden rehydriert der Körper (Aufnahme von bis zu knapp 70 % des Körpergewichts an Wasser)23. Die weiße Färbung wandelt sich in die beige-gemusterte Regenzeitfärbung16. Die Tiere, die am Ende der vergangenen Regenzeit geboren wurden, haben während der Trockenstarre in Energiespeicher investiert und erlangen nun die Geschlechtsreife26. Sie beginnen umgehend mit der Migration zu den neu entstehenden Gewässern; die Männchen nehmen die Rufaktivität auf16.
+Die Verhaltensökologie der Zebramanguste zeichnet sich durch eine komplexe Gemengelage aus extrem aggressivem Territorialverhalten, hochspezialisierter Akustik, spezifischer Nahrungswahl und Mechanismen zur Inzuchtvermeidung aus. Diese Parameter definieren das Überleben der Spezies in den dynamischen Landschaften Ostafrikas.
+Habitat und Nahrungsökologie
+Zebramangusten besiedeln eine breite Palette afrikanischer Ökosysteme südlich der Sahara, mit einer klaren Präferenz für Savannen, trockenes bis dichtes Buschland, Galeriewälder und halbtrockenes Grasland15. Extreme Lebensräume wie hyperaride Wüsten oder das dichte, geschlossene Kronendach zentralafrikanischer Tieflandregenwälder werden strikt gemieden2. Besonders hohe Populationsdichten finden sich in den flussnahen Gebieten und den Akazienwäldern (Acacia xanthophloea) entlang der großen Rissbrüche, wie dem kenianischen Rift Valley10.
+Im Gegensatz zu baumbewohnenden oder semiaquatischen Verwandten (wie der Sumpfmanguste Atilax paludinosus oder der Schlankmanguste Herpestes sanguineus, die ausgezeichnet klettert) sind Zebramangusten fast ausschließlich terrestrisch geprägt14. Ihre Körperanatomie erlaubt nur ein ungeschicktes Klettern auf umgestürzte Stämme oder niedrige Felsen, primär um Beobachtungsposten zu beziehen14. Die Nahrungssuche erfolgt tagaktiv in losen Verbänden. Dabei durchkämmt die Gruppe den Boden, wendet Steine und Elefantendung um und gräbt intensiv im Erdreich31. Die Ernährung ist omnivor mit einem starken Schwerpunkt auf Invertebraten: Käfer (und deren Larven), Termiten, Tausendfüßler, Grillen, Spinnen und Skorpione bilden die Basis der Nahrungspyramide15. Ergänzt wird das Spektrum durch den opportunistischen Fang kleiner Wirbeltiere wie Frösche, Reptilien, Kleinsäuger sowie Vogeleier und vereinzelt pflanzliche Nahrung15.
+Intergruppale Konflikte (IGIs) und Territorialität
+Trotz ihres kooperativen Verhaltens im Gruppeninneren ist die Interaktion mit benachbarten Kolonien von extremer, teils letaler Brutalität geprägt. Die Reviere der Zebramangusten werden vehement verteidigt, und intergruppale Konflikte (Intergroup Interactions, IGIs) sind häufig27. Diese territoriale Kriegsführung hat erhebliche demografische Konsequenzen: Über Langzeitstudien hinweg wurde nachgewiesen, dass rund 10 Prozent aller Todesfälle erwachsener Zebramangusten auf direkte Gewalteinwirkung bei solchen Kämpfen zurückzuführen sind33. Dies entspricht einer jährlichen Mortalitätsrate von ca. 0,4 Prozent allein durch IGIs – ein Wert, der innerhalb der Säugetiere nur bei Schimpansen, Löwen, Wölfen und menschlichen Jäger-Sammler-Gesellschaften Parallelen findet und deutlich höher liegt als bei den nahe verwandten Erdmännchen35.
+Die Kämpfe beginnen in der Regel damit, dass die Gruppe beim Sichten von Rivalen spezifische Kampfschreie (War Cries) ausstößt32. Die Individuen rotten sich physisch eng zusammen (Bunching), formieren sich zu einer geschlossenen Schlachtreihe (Battle Line) und stürmen geschlossen auf die feindliche Gruppe zu, begleitet von Knurren, Fauchen und aggressiven Scheinangriffen32. Die Eskalation in einen physischen Nahkampf führt zu ineinander verbissenen Knäueln von Tieren27. Tödliche Ausgänge entstehen meist dann, wenn einzelne Individuen im Chaos von ihrer eigenen Gruppe isoliert und vom gegnerischen Kollektiv umzingelt und zu Tode gebissen werden32.
+Interessanterweise belegen Analysen von hunderten solcher Konflikte, dass die Entscheidung zur Eskalation nicht auf einem rationalen "Mutual Assessment" (gegenseitiges Abschätzen der Stärke beider Gruppen) beruht33. Vielmehr verfolgen Zebramangusten ein "Self-Assessment"-Modell: Eine Gruppe entscheidet sich primär basierend auf der eigenen Anzahl kampffähiger Männchen zur Eskalation, unabhängig davon, wie stark der Gegner formiert ist33. Der Ausgang der Kämpfe wird jedoch maßgeblich von zwei Faktoren diktiert: der relativen Anzahl adulter Männchen in der Gruppe und, erstaunlicherweise, dem Alter des ältesten anwesenden Männchens (dem "Senior Male"), dessen Kampferfahrung offenbar eine katalysierende und stabilisierende Wirkung auf die Kohäsion der gesamten Truppe ausübt35.
+Vokalisation und Akustische Steuerung
+Da Zebramangusten bei der Nahrungssuche oft mit dem Kopf im dichten Gras oder im Erdboden verborgen sind, ist der visuelle Kontakt zwischen den Gruppenmitgliedern stark eingeschränkt31. Um den Zusammenhalt zu garantieren, haben sie ein hochkomplexes akustisches System evolutionär ausgebildet, das durch kontinuierliche "Close Calls" (Kontaktrufe) geprägt ist31.
+Untersuchungen (unter anderem von Jansen 2012) haben demonstriert, dass diese kurzen, leisen Kontaktrufe sequenziell codiert sind: Eine einzige kurze Tonsilbe enthält simultan die Informationen über die individuelle Identität des rufenden Tieres (eine vokale Signatur) sowie über dessen momentane Aktivität (z. B. Graben, Suchen oder reines Fortbewegen)31. Die Art der Aktivität spiegelt sich in den spektralen Frequenzen des Rufes wider.
+Tabelle: Akustische Parameter der Close Calls nach Tätigkeit (gemittelte Werte)
+
+Aktivität
+	Grundfrequenz (F0)
+	Peak Frequency
+	Dauer
+	Max. Frequenz
+
+Graben (Digging)
+	263  100 Hz
+	370  167 Hz
+	0,05 s
+	1.587  427 Hz
+
+Suchen (Searching)
+	380  110 Hz
+	404  106 Hz
+	0,09 s
+	1.575  375 Hz
+
+Bewegen (Moving)
+	467  89 Hz
+	490  123 Hz
+	0,12 s
+	1.675  373 Hz
+
+(Datenquelle: Analyse harmonischer Segmente, Jansen 2012)37.
+	
+	
+	
+	
+Für die Prädationsvermeidung nutzen Zebramangusten, ähnlich wie Zwergmangusten, differenzierte Alarmrufe, die auf der Dringlichkeit der Bedrohung sowie dem Typ des Räubers basieren (z. B. grell und durchdringend für heranfliegende Adler, andere Frequenzen für terrestrische Feinde wie Schakale)38. Ein besonderes akustisches Phänomen ist der sogenannte Typ-3-Ruf (T3-Ruf), eine kombinierte Lautäußerung, die ein pulsierendes Segment (ähnlich dem Luft-Alarmruf) mit einem stark verrauschten Segment (ähnlich dem Boden-Alarmruf) verschmilzt, um eine allgemeine, sofortige höchste Alarmbereitschaft bei allen Empfängern auszulösen38.
+Fortpflanzungsstrategien, Inzuchtvermeidung und MHC
+Zebramangusten weisen eine starke Philopatrie auf: Etwa 85 Prozent der Tiere werden in ihrer Geburtsgruppe geboren, pflanzen sich dort fort und sterben in derselben Kolonie32. Diese ausgeprägte Ortstreue und das Fehlen regelmäßiger Migration führen unweigerlich zu einem hohen Inzuchtrisiko. Analysen zeigen, dass in Langzeitpopulationen etwa zwei Drittel der Tiere in gewissem Maße ingezüchtet sind, wobei ca. 7,1 % extrem hohe Inzuchtkoeffizienten (>0,25) aufweisen, die aus Paarungen zwischen Vollgeschwistern oder Eltern und Nachkommen resultieren40. Diese Inzuchtdepression korreliert negativ mit der Körpermasse von Jährlingen und dem späteren reproduktiven Erfolg der Männchen41.
+Bei vielen Tierarten wird Inzucht dadurch vermieden, dass sich Individuen weigern, sich mit Artgenossen zu paaren, mit denen sie in der frühen Kindheit vertraut waren (Familiaritäts-Hypothese). Dieser Mechanismus versagt bei der Zebramanguste jedoch völlig, da durch den kollektiven Wurf und das "Escort"-System die Vertrautheit als verlässlicher Indikator für genetische Verwandtschaft entfällt40. Um dennoch Inzucht zu limitieren, bedienen sich Zebramangusten des sogenannten "Phenotype Matching". Sie analysieren über Geruchsprofile die Diversität des Haupthistokompatibilitätskomplexes (MHC, eine Region im Genom, die für das Immunsystem und den Eigengeruch codiert) potenzieller Partner41. Die Weibchen sind in der Lage, anhand olfaktorischer Marker den Verwandtschaftsgrad der Männchen zu dekodieren und bevorzugen Paarungen mit Männchen, die eine höhere MHC-Diversität aufweisen und genetisch weiter entfernt sind41.
+Zusätzlich greifen subordinierte Männchen, die bei direkten physischen Konfrontationen mit dominanten "Wächtern" (Mate Guards) unterliegen würden, auf alternative Reproduktionsstrategien (Alternative Reproductive Tactics, ARTs) zurück. Als sogenannte "Pesterer" versuchen sie, sich heimlich mit älteren, fruchtbaren Weibchen abseits des Aufruhrs zu paaren, was die genetische Varianz in der Gruppe weiter erhöht und der Monopolisierung der Vaterschaft durch wenige dominante Männchen entgegenwirkt44. Verlassen Weibchen eine Gruppe, dann selten freiwillig. Meist werden sie durch dominante Weibchenverbände im Rahmen von "Mass Evictions" (Massenvertreibungen) gewaltsam aus dem Territorium verjagt, was extremen physiologischen Stress induziert und bei schwangeren Vertriebenen häufig zu spontanen Aborten führt42.
 5. Menschen und Kultur in Kenia
-In der ethnozoologischen Literatur ist eine spezifische Legende dokumentiert, die bei den Maasai in Ostafrika überliefert wird (Status: überliefert). Die leuchtende und stark kontrastierende Tagesfärbung (Aposematismus) der Frösche wird als Warnung vor Toxizität interpretiert. Der Überlieferung zufolge sterben Rinder, wenn sie diese Frösche fressen30. Wissenschaftliche Nachweise für eine toxische Gefährdung von Menschen oder Rindern durch Hyperolius viridiflavus liegen in den referenzierten Studien jedoch nicht vor (Status: gesichert)30.
-Eine spezifische Nutzung der Art in der Region für Nahrung, Medizin oder Baumaterialien ist nicht belegt (Status: unbekannt)30. Global wird die Art, wie viele Riedfrösche, gelegentlich für den kommerziellen Heimtierhandel gefangen36.
-Bestandszahlen und Schutzstatus: Die International Union for Conservation of Nature (IUCN) stuft die Art in der Roten Liste als „Least Concern“ (Nicht gefährdet) ein4. Das letzte Assessment für diese Einstufung wurde im Jahr 2018 publiziert (Status: gesichert)14. Exakte absolute Bestandszahlen (Populationsgröße in Individuen) liegen nicht vor. Die Population wird jedoch aufgrund des großen Verbreitungsgebiets, der Anpassungsfähigkeit an anthropogene Habitate und der hohen Reproduktionsraten als sehr häufig und stabil bewertet34.
+Zebramangusten sind bemerkenswert anpassungsfähige Kulturfolger (Synanthropen) und zeigen gerade in Kenia eine hohe Präsenz in Gebieten mit touristischer oder landwirtschaftlicher Infrastruktur.
+Habitat-Überlappungen und Opportunismus
+Im kenianischen Rift Valley, besonders um den Lake Naivasha oder im Queen Elizabeth Nationalpark (Uganda), haben sich Kolonien dauerhaft unterhalb von Boardwalks, Veranden von Safari-Lodges oder in den Abflussrohren von Camps angesiedelt48. Sie durchstreifen täglich Müllhalden oder Abfallplätze auf der Suche nach Nahrungsresten und konkurrieren dort erfolgreich mit Marabus oder anderen aasfressenden Vögeln17. In diesen Habitaten gehen sie mitunter opportunistische Symbiosen ein; so beobachtet man sie häufig bei der Nahrungssuche in unmittelbarer Nähe zu freilebenden Pavianen (Papio anubis oder Papio cynocephalus), da beide Arten von der gegenseitigen Frühwarnung vor Leoparden oder Adlern profitieren8.
+Pathologie an der Schnittstelle von Tier und Mensch
+Das enge Zusammenleben in großen sozialen Gruppen, kombiniert mit der intensiven Nutzung von menschlichen Strukturen, macht die Zebramanguste extrem anfällig für die rasche Verbreitung von Krankheitserregern. In den vergangenen Jahrzehnten ist im südlichen Afrika (insbesondere in Botswana und Simbabwe) ein neuer, hochaggressiver Krankheitserreger aufgetreten, der für Zebramangusten eine existenzielle Bedrohung darstellt: Mycobacterium mungi, ein neuartiges Mitglied des Mycobacterium tuberculosis-Komplexes (MTBC), das in direkter genetischer Verwandtschaft zur menschlichen Tuberkulose steht17.
+Der Mechanismus der Krankheitsübertragung bei M. mungi ist für Tuberkuloseerreger absolut einzigartig und offenbart, wie Pathogene spezifische Verhaltensökologien kapern können. Anstatt primär über Aerosole durch Husten (oral/respiratorisch) übertragen zu werden, wird das Bakterium über die Duftmarken der Mangusten weitergegeben50. Infizierte Individuen scheiden gewaltige Mengen der Bakterien (belegt durch extrem niedrige Cycle-Threshold-Werte in der qPCR) über Urin und die Sekrete ihrer Analdrüsen aus17. Wenn ein gesundes Tier nun eine solche Duftmarke intensiv beschnüffelt, dringen die Mykobakterien über Mikroläsionen oder kleine Abschürfungen, die bei der täglichen Nahrungssuche im Erdboden auf dem Nasenspiegel (Nasal Planum) oder der Gesichtshaut entstehen, direkt in das subkutane Gewebe ein17. Von dort breitet sich der Erreger über das Blut- und Lymphsystem im Körper aus und verursacht fatale, nekrotisierende Granulome in Leber, Milz, Nieren und Lymphknoten17. Dieser umweltbedingte Übertragungsweg ermöglicht es dem Bakterium, rivalisierende, streng territoriale Gruppen zu infizieren, ohne dass direkter physischer Kontakt vonnöten ist52.
+Darüber hinaus wurde im Kruger Nationalpark nachgewiesen, dass Zebramangusten auch regulär an Rindertuberkulose (Mycobacterium bovis) erkranken können54. Das Auftreten schwerer Läsionen in Lunge und Lymphknoten der Tiere deutet darauf hin, dass die bodenbewohnenden Mangusten potenziell als sogenannte Spillover-Wirte fungieren können, die den Erreger an der porösen Schnittstelle zwischen Nutzviehbeständen (Cattle), Wildtieren und der lokalen Landbevölkerung zirkulieren lassen54.
 6. Wissenschaftsgeschichte
-Die Systematik und Taxonomie der Art ist komplex, historisch durch Kontroversen geprägt und bis in das 21. Jahrhundert Gegenstand molekularbiologischer Revisionen (Status: gesichert)1.
-
-Jahr
-	Wissenschaftler
-	Ereignis / Beitrag
-
-1841
-	A. M. C. Duméril & G. Bibron
-	Formelle Erstbeschreibung der Art als Eucnemis viridiflavus4.
-
-1842
-	Wilhelm von Rapp
-	Etablierung der Gattung Hyperolius8.
-
-1873–1877
-	J. M. Hildebrandt
-	Sammelt während Ostafrika-Expeditionen Exemplare, die an das Museum für Naturkunde Berlin (ZMB) geschickt und von Wilhelm Peters bearbeitet werden1.
-
-1931
-	Ernst Ahl
-	Beschreibt am ZMB eine Vielzahl neuer Riedfrosch-Arten. Seine oberflächlichen Methoden führen zu einer systematischen Kontroverse; viele seiner (nicht korrekt inventarisierten) Typusexemplare werden später als nomina confusa (verwirrende Bezeichnungen) kritisiert1.
-
-1958–1961
-	Raymond Laurent
-	Leiht Hunderte ZMB-Exemplare nach Lubumbashi (Kongo) aus und revidiert Ahls umstrittene Klassifizierungen. Er synonymisiert zahlreiche Arten1.
-
-1971
-	Arne Schiøtz
-	Definiert den Hyperolius viridiflavus-Komplex als Superspezies und reduziert 121 bis dato beschriebene Taxa auf 16 Arten4.
-
-1986–1989
-	K. E. Linsenmair, F. Kobelt, R. Schmuck, T. U. Grafe
-	Publizieren die grundlegenden physiologischen Studien zur Aestivation (Oecologia 1986/1988) sowie die Entdeckung des protogynen Geschlechtswechsels (Copeia 1989)19.
-
-2001–2022
-	A. M. Wieczorek, A. Channing
-	Setzen phylogenetische Analysen (mitochondriale DNA) ein, um die taxonomischen Verwandtschaften innerhalb des Komplexes präziser abzugrenzen, was zu weiteren Aufteilungen in eigenständige Arten führt17.
-7. Fotografie
-Die spezifizierte Route (Rift Valley: Lake Naivasha, Lake Nakuru, Lake Baringo, Hell's Gate National Park) bietet an den von Röhricht, Schilf und Papyrus gesäumten Ufern optimale fotografische Bedingungen (Status: gesichert aus Habitatpräferenzen).
-Tageszeit und Verhalten: Um das Phänomen der weißen Trockenstarre (Aestivation) zu dokumentieren, müssen die Aufnahmen in den heißesten Stunden des Tages (Mittag bis Nachmittag) bei direkter Sonneneinstrahlung erfolgen16. Für Balzverhalten, die Ausdehnung der Gular-Klappe und Paarungsrufe ist die Zeit von der Abenddämmerung bis Mitternacht anzusetzen16.
-Fluchtdistanz und typische Fehler: Die Fluchtdistanz der Jungtiere während der Trockenstarre ist extrem gering (Status: vermutet/abgeleitet). Die Frösche rühren sich nur bei schwerer Störung ("seriously disturbed") vom Fleck24. Der Versuch, für ein Foto (z.B. mit dem 26-60-mm- oder 45-mm-Objektiv) zu nah an das Tier heranzutreten oder die Pflanze zu bewegen, birgt einen gravierenden Fehler: Das Aufbrechen der getrockneten Schleimschicht (mucus seal) führt zu einem rapiden Verlust der Wasserresistenz. Findet das Tier anschließend keine Feuchtigkeit, dehydriert es und stirbt24. Das Fotografieren sollte daher zwingend aus Distanz erfolgen.
-Objektiv-Einsatz und Verschlusszeiten (Status: technische Richtwerte):
-Teleobjektive (100–400 mm / 150–600 mm): Zwingend notwendig für die Aufnahme von rufenden Männchen im Schilf oder aestivierenden Tieren, ohne den Sicherheitsabstand zu unterschreiten.
-Weitwinkel (26–60 mm): Geeignet für Habitat-Übersichtsaufnahmen der Ufervegetation.
-Makro/Standard (45 mm): Nur einsetzbar, wenn sich die Tiere in der Regenzeit am Boden oder auf tiefen Blättern in unmittelbarer Ufernähe aufhalten.
-Verschlusszeiten für das Aufblähen der Schallblase: Um die muskuläre Bewegung der Gular-Klappe scharf abzubilden, ist eine Zeit von 1/250 s bis 1/500 s zu wählen.
-Verschlusszeiten für Sprünge: Für schnelle Ortswechsel ist 1/1000 s oder kürzer anzusetzen.
+Die Taxonomie und Verhaltensökologie von Mungos mungo hat im Laufe der Jahrhunderte eine bemerkenswerte Entwicklung durchgemacht, die parallel zur Modernisierung der zoologischen Forschung verlief.
+Von taxonomischer Konfusion zur Klärung
+In den frühen Sammlungen des 18. und 19. Jahrhunderts herrschte massive Unordnung. Bälge von Mangusten erreichten europäische Museen oft ohne exakte Fundortdaten. Als Gmelin 1788 Viverra mungo beschrieb, ordnete er das Tier aufgrund fehlerhafter Dokumentationen geografisch teilweise Indien oder dem Kap der Guten Hoffnung zu3. Das Festhalten an der Gattung Herpestes für nahezu alle Mangustenarten wurde erst durch die Differenzierung von Geoffroy Saint-Hilaire und Cuvier (1795) sowie Gray (1864) gebrochen. Gray erkannte, dass die sozialen, quergestreiften afrikanischen Arten aufgrund eklatanter Unterschiede in der Schädelmorphologie, der Ausbildung der Analdrüsen und ihres Gruppenverhaltens in eine eigene Unterfamilie, die Mungotinae, gehören und nicht zu den solitär lebenden Herpestinae Asiens2.
+Das Banded Mongoose Research Project
+Das tiefe Verständnis für das komplexe Sozialsystem der Art, den reproduktiven Infantizid und die Inzuchtvermeidungsstrategien verdankt die Wissenschaft primär dem Banded Mongoose Research Project. Dieses 1995 initiierte, langfristige Feldstudienprojekt unter der Leitung von Forschern wie Michael A. Cant, Hazel J. Nichols und Faye J. Thompson beobachtet seither ununterbrochen eine Population im Queen Elizabeth National Park in Uganda18.
+Durch innovative Techniken – wie die individuelle Identifikation der Tiere mittels komplexer Rasurmuster im Fell, den Einsatz winziger (26 bis 30 g schwerer) Radio-Halsbänder für die Telemetrie sowie die Erstellung vollumfänglicher genetischer Stammbäume mittels Mikrosatelliten- und MHC-Sequenzierung – wandelte das Projekt die Feldökologie von reiner Beobachtung zu präziser Experimentalwissenschaft18. Experimente wie die hormonelle Kontrazeption von Weibchen zur Testung von "Reproductive Skew"-Modellen oder die Manipulation der pränatalen Fütterung zur Überprüfung philosophischer Konzepte (Rawls' Schleier des Nichtwissens in einem biologischen System) haben Mungos mungo zu einem zentralen Modellorganismus für die Erforschung der Evolution von Eusozialität, Konfliktlösung und kooperativer Brutpflege bei Säugetieren gemacht19.
+7. Fotografie: Beobachtung im Kenianischen Rift Valley
+Kenia, und insbesondere der von geologischen Verwerfungen geprägte Riss des Rift Valleys, bietet erstklassige Bedingungen für die naturfotografische Dokumentation der Zebramanguste. Die Tiere sind überwiegend tagaktiv, meiden jedoch die extreme Mittagshitze und sind am besten in den frühen Morgenstunden oder am späten Nachmittag zu beobachten8.
+Habitate und fotografische Hotspots
+Lake Naivasha: In der Umgebung des Süßwassersees prägen weite Bestände der Gelbrindenakazie (Acacia xanthophloea) das Landschaftsbild. Mangusten sind hier sehr häufig anzutreffen, oft direkt in der Peripherie der Lodges und Zeltplätze, wo sie im kurzen Gras oder unter Totholz nach Insekten graben10. Das gefilterte Licht unter den Akazien bietet weiche Kontraste für die Fotografie.
+Lake Nakuru National Park: Dieser für seine Flamingos und Nashörner weltbekannte Nationalpark beheimatet große Gruppen von Zebramangusten in den dichten Akazienwäldern und Savannensäumen rund um den alkalischen See30. Sie lassen sich oft am Waldrand ablichten, wo sie den Schutz der Bäume für kurze Exkursionen in die offene Ebene verlassen30.
+Hell's Gate National Park: Die dramatischen, felsigen Schluchten und das trockene Buschland dieses Parks formen eine archaische Kulisse48. Hier nutzen die Tiere häufig Felsspalten oder erodierte Termitenhügel als Baue.
+Lake Baringo: In diesem extrem heißen, von rotem Staub und trockenem Dornbusch-Scrub geprägten Habitat des nördlicheren Rift Valleys sind die Beobachtungschancen moderat, aber lohnend10. Die intensive rötliche Färbung des Bodens erzeugt eine hohe chromatische Sättigung in Fotografien der wuselnden Kolonien.
+Verhaltensfotografie
+Für ausdrucksstarke Aufnahmen bieten sich zwei spezifische Verhaltensweisen an:
+Das "Sentinel"-Verhalten (Wächter): Ein Tier der Kolonie stellt sich regelmäßig voll aufgerichtet auf die Hinterbeine, um von einem erhöhten Punkt (Felsen, Termitenhügel, Baumstumpf) aus die Umgebung und den Himmel zu scannen62. Mit einem Teleobjektiv (ab 400mm) lassen sich hier scharfe, freigestellte Porträts des Individuums vor einem verschwommenen Hintergrund (Bokeh) realisieren.
+Gruppendynamik und "Bunching": Während der Nahrungssuche (wenn die Tiere Steine oder Elefantendung inspizieren) oder bei Intergruppalen Konflikten rückt die Kolonie dicht zusammen31. Hier empfiehlt sich eine bodennahe Kameraposition, um die Dichte und das ständige Gewimmel (das auf unruhigen Beinen und spitz zulaufenden Schnauzen basiert) als geschlossenes soziales Kollektiv visuell einzufangen. Für Filmemacher und professionelle Fotografen fallen in Kenia (wie etwa der Masai Mara oder Nakuru) spezifische Film- und Liaison-Gebühren der KWS (Kenya Wildlife Service) an, die vorab zu klären sind59.
 8. Links zum Weiterlesen und Sehen
-Die folgenden URLs verweisen auf fachlich kuratierte Datenbanken und Originalpublikationen. (Alle URLs wurden für die Erstellung aufgerufen und sind valide).
-Fachliche Quelle (IUCN Red List):https://www.iucnredlist.org/species/89250730/109297028Enthält die detaillierte Begründung für die Einstufung "Least Concern" aus dem Jahr 2018 sowie globale Populations- und Gefährdungstrends51.
-Fachliche Quelle (AmphibiaWeb):https://amphibiaweb.org/species/6142Umfassendes Profil, das sich ausführlich mit der Fortpflanzungsbiologie, der Aestivation und den morphologischen Details von Unterarten wie H. nitidulus befasst16.
-Verbreitungskarte (GBIF):https://www.gbif.org/taxon/3NR2MBietet eine detaillierte Auflistung der taxonomischen Historie, aller Synonyme (inklusive der von Ahl beschriebenen Taxa) sowie georeferenzierte Sichtungen4.
-Fachartikel (Physiologie, Oecologia 1988):https://d-nb.info/1104869330/34Das Digitalisat der Originalstudie von R. Schmuck, F. Kobelt und K. E. Linsenmair zur Dicke der Iridophorenschicht, Purinkristall-Einlagerung und zum Stickstoffmetabolismus19.
+Für detaillierte vertiefende Recherchen zur Genetik, Verhaltensökologie und Pathologie der Spezies bieten sich primär die Originalpublikationen des Banded Mongoose Research Project an:
+Publikationsarchiv des Banded Mongoose Research Project (University of Exeter): Eine vollständige Übersicht aller wissenschaftlichen Paper (inklusive PDF-Downloads) zu Themen wie Reproduktive Schiefe (Reproductive Skew), Konfliktlösung und Genetik. URL: mongoose-site.pages.dev/publications65.
+Grundlagenpublikation zum "Schleier des Nichtwissens": Marshall, H.H., Johnstone, R.A. et al. (2021). A veil of ignorance can promote fairness in a mammal society. Nature Communications, 12, 3717. (DOI: 10.1038/s41467-021-23910-6). Hierin sind die exakten Methodiken des Fütterungsexperimentes und der Umverteilung der Allomaternalen Laktation beschrieben24.
+Pathologie von M. mungi: Alexander, K.A., Laver, P.N., Williams, M.C. et al. (2017). Pathology of the emerging Mycobacterium tuberculosis complex pathogen, Mycobacterium mungi, in the banded mongoose (Mungos mungo). Veterinary Pathology. Beschreibt die einzigartige umweltbedingte Übertragung der Tuberkulose über Duftmarken53.
+Film-Logistik in Kenia: Detaillierte Kostenaufstellungen und Logistik-Tipps für Naturfilmer und Fotografen in Reservaten wie Masai Mara, Hell's Gate und Lake Nakuru. URL: filmcrewfixersuganda.com/where-to-film-mongooses-in-kenya59.
 9. Visuelle Beschreibung für eine Illustration
-During the harsh dry season, the slender, half-cylindrical frog assumes a compact, crouched posture on a vertical, brittle, golden-brown reed stem to minimize surface exposure. Its long, thin limbs are drawn tightly against its body, completely hiding the circummarginal discs of its toes underneath specialized dermal folds. The dorsal skin exhibits a striking, brilliant reflective white to repel the intense solar radiation, contrasting sharply with the light red, highly vascularized skin visible only in the crevices of the pelvic region and inner limbs. The frog's narrow head features a blunt snout and closed or half-closed eyes that conceal its horizontally elliptical pupils.
-Details to include:
-The distinct, horizontally elliptical shape of the pupil, drawn as a narrow slit if partially visible.
-The geometric, parallel vertical striations of the dry reed stem the frog clings to.
-The thin, desiccated transparent mucus seal forming a delicate crust exactly where the frog's belly meets the plant surface.
-Cultural Vignette:
-A traditional, hand-carved wooden Maasai cattle herding stick (O-rinka), resting against a cluster of reeds in the blurred background, subtly referencing the local legend of the frog's aposematic colors warning herdsmen of non-existent toxicity.
+Szenen-Setup: Morgenroutine einer Kolonie vor dem Gemeinschaftsbau
+Umgebung & Licht: Die Szene spielt im frühen, warmen Morgenlicht des Rift Valleys (angelehnt an das Habitat des Lake Naivasha). Der Boden ist sandig, trocken und von wenigen verdorrten Grasbüscheln durchzogen. Im Hintergrund ragt der massive, fahlgrün-gelbliche Stamm einer Gelbrindenakazie (Acacia xanthophloea) empor, deren lichte Krone weiche Schattenmotive auf den sandigen Boden wirft.
+Der Bau: Im Zentrum der Bildkomposition befindet sich ein von Erosion gezeichneter, roter Termitenhügel, an dessen Basis dunkle Löcher in das unterirdische Höhlensystem der Mangusten führen.
+Das Kollektiv: Um den Bau wuselt eine Gruppe von etwa 15 Zebramangusten (Mungos mungo). Die Anatomie der Tiere ist kompakt: stämmige Körper (ca. 40 cm lang), kurzer spitzer Kopf, kleine Ohren, dunkle Pfoten. Das Fell ist grizzled graubraun. Deutlich sichtbar heben sich auf den Rücken der Tiere jeweils 10 bis 12 schwarze, präzise gezeichnete Querstreifen ab, die bis zur Wurzel des schwarzen, spitz zulaufenden Schwanzes reichen.
+Primäre Handlung 1 (Im Vordergrund): Ein dominantes Weibchen passiert eilig das Bildfeld in Richtung Nahrungssuche. Direkt daneben interagiert ein subalternes, halbwüchsiges Männchen in der Funktion des "Escorts" (Babysitters) mit einem erst wenige Wochen alten, deutlich kleineren und wolligeren Welpen. Der Escort hat gerade im Sand gescharrt und überlässt dem Welpen nun einen großen, rötlichen Tausendfüßler.
+Primäre Handlung 2 (Im Hintergrund/Fokus): Auf der erodierten Spitze des Termitenhügels steht eine einzelne erwachsene Zebramanguste als Wächter ("Sentinel"). Sie ist völlig aufgerichtet auf den Hinterbeinen. Die muskulösen, mit langen Krallen bewehrten Vorderpfoten sind locker vor der Brust angewinkelt. Der spitz zulaufende Kopf ist gen Himmel gerichtet, die schmalen, dunklen Pupillen scannen konzentriert den Horizont auf der Suche nach Greifvögeln ab, bereit, bei Gefahr augenblicklich den gutturalen T3-Alarmruf auszustoßen.
 10. Was nicht belegt werden konnte
-Folgende spezifische Datenpunkte, die in der Anfrage gefordert wurden, konnten durch die vorliegenden wissenschaftlichen Quellen nicht mit belastbaren Fakten belegt werden (Status: unbekannt / fehlend):
-Lokale Bezeichnungen und deren wörtliche Bedeutung: Weder für Maa, Kikuyu, Samburu, Giriama noch für Kamba oder Swahili konnten verifizierbare lokale Namen oder deren Übersetzungen ausgemacht werden.
-Etymologie von „Hyperolius“: Die exakte wörtliche Übersetzung des wissenschaftlichen Gattungsnamens (altgriechisch) durch Wilhelm von Rapp bei der Namensvergabe 1842 ist nicht eindeutig belegt.
-Körpergewicht von Weibchen: Genaue Gewichtsangaben liegen nur für adulte rufende Männchen (ca. 1,5 g) und aestivierende Jungtiere (0,2 bis 0,7 g) vor.
-Absolute Bestandszahlen: Konkrete Individuenzahlen liegen nicht vor, lediglich der globale Bestandstrend der IUCN.
-Direkte menschliche Nutzung in Kenia: Nachweise für die Verwendung der Frösche in der Region als Nahrung, in Ritualen, für Werkzeuge oder Medizin fehlen.
-Exakte Fluchtdistanz in Metern: Diese wird als sehr gering vermutet, in den Studien zur Aestivation jedoch nicht quantitativ in Zentimetern oder Metern gemessen.
-Geprüfte fotografische Verschlusszeiten: Peer-reviewte Angaben zu Verschlusszeiten bei Sprüngen fehlen (die im Text genannten Zeiten sind berechnete technische Richtwerte für diese Bewegungsabläufe).
+Während die bereitgestellte Datenbasis umfassende ökologische, anatomische und genetische Details enthielt, ließen sich folgende kulturspezifische oder ethnologische Aspekte in den verfügbaren Quellen nicht verifizieren:
+Spezifische indigene Nomenclaturen (Maa, Kikuyu, Kamba): Abseits des ostafrikanischen Swahili-Standardbegriffs (Nguchiro) sowie südafrikanischer Vernakularnamen (wie Nkala der Tsonga oder Tshihoho der Venda) konnten keine spezifischen Bezeichnungen für die exakte Spezies Mungos mungo in den Sprachen der Maa, Kikuyu oder Kamba belegt werden. Die konsultierten Wörterbücher lieferten entweder nur generische Übersetzungen für „Mongoose“ allgemein oder bezogen sich auf andere Arten (wie das Maa-Wort Olpelis, das für die Weißschwanzmanguste oder die Zorilla genutzt wird)1.
+Folklore und Mythen:Trotz der markanten Erscheinung und des extrem sozialen Verhaltens, das in der Natur sofort ins Auge fällt, existierten in den Quellen keine belegbaren Erzählungen, mythologischen Verankerungen oder kulturellen Praktiken kenianischer Ethnien, die sich konkret auf die Zebramanguste beziehen. Die dokumentierte Interaktion beschränkte sich vornehmlich auf die moderne Koexistenz in Nationalparks und die veterinärmedizinische Bedeutung der Pathogenübertragung an anthropogenen Strukturen.
 Referenzen
-A type catalogue of the reed frogs (Amphibia, Anura, Hyperoliidae, https://www.researchgate.net/publication/356356343_A_type_catalogue_of_the_reed_frogs_Amphibia_Anura_Hyperoliidae_in_the_collection_of_the_Museum_fur_Naturkunde_Berlin_ZMB_with_comments_on_historical_collectors_and_expeditions
-Trematode diversity in southern Africa: metacercariae of the, https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3879813E19AA0F4A23146C765D243486/S0022149X2510045Xa.pdf/trematode_diversity_in_southern_africa_metacercariae_of_the_clinostomidae_and_cryptogonimidae_in_intermediate_freshwater_fish_hosts.pdf
-Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study, https://www.researchgate.net/profile/Sebastiano-Salvidio/publication/287622599_Montane_grasslands_of_the_udzungwa_plateau_Tanzania_A_study_case_about_its_herpetological_importance_within_the_eastern_afromontane_hotspot/links/5a1d8ded0f7e9b2a53176965/Montane-grasslands-of-the-udzungwa-plateau-Tanzania-A-study-case-about-its-herpetological-importance-within-the-eastern-afromontane-hotspot.pdf
-Hyperolius viridiflavus - GBIF, https://www.gbif.org/taxon/3NR2M
-ITIS - Report: Eucnemis viridiflavus, https://itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1098779&print_version=PRT&source=to_print
-A CHECK-LIST OF THE SOMALI AMPHIBIANS, https://www.tandfonline.com/doi/pdf/10.1080/03749444.1981.10736634
-Hyperolius viridiflavus (Duméril & Bibron, 1841) - GBIF, https://www.gbif.org/fr/taxon/3NR2M
-Catalogue of the amphibians of Ethiopia, including a key for their, https://www.tandfonline.com/doi/pdf/10.1080/03946975.2001.10531159
-Taxonomic status of the cryptic sand frog, Tomopterna cryptotis, https://zenodo.org/records/16896262
-Animal of the week - SANBI, https://www.sanbi.org/animal-of-the-week/
-Abronia viridiflava (BOCOURT, 1873) - The Reptile Database, https://reptile-database.reptarium.cz/Abronia/viridiflava
-Hierophis viridiflavus (LACÉPÈDE, 1789) - The Reptile Database, https://reptile-database.reptarium.cz/front.front/species?genus=hierophis&species=viridiflavus
-Hyperolius viridis — Grokipedia, https://grokipedia.com/page/hyperolius_viridis
-Common reed frog - Wikipedia, https://en.wikipedia.org/wiki/Common_reed_frog
-The KiLi Project: Kilimanjaro ecosystems under global change, https://www.researchgate.net/profile/Claudia-Hemp/publication/327403574_The_KiLi_Project_Kilimanjaro_ecosystems_under_global_change_Linking_biodiversity_biotic_interactions_and_biogeochemical_ecosystem_processes/links/5bb8b83e4585159e8d8792b5/The-KiLi-Project-Kilimanjaro-ecosystems-under-global-change-Linking-biodiversity-biotic-interactions-and-biogeochemical-ecosystem-processes.pdf
-Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/species/6142
-Hyperolius viridiflavus - AmphibiaWeb, https://amphibiaweb.org/species/600
-Reproductive Energetics of the African Reed Frogs, Hyperolius, https://www.researchgate.net/publication/27487077_Reproductive_Energetics_of_the_African_Reed_Frogs_Hyperolius_viridiflavus_and_Hyperolius_marmoratus
-Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://d-nb.info/1104869330/34
-Protogynous Sex Change in the Reed Frog Hyperolius viridiflavus, https://www.researchgate.net/publication/27487491_Protogynous_Sex_Change_in_the_Reed_Frog_Hyperolius_viridiflavus
-(PDF) Contributions to the reproductive biology and behaviour of the, https://www.researchgate.net/publication/321462907_Contributions_to_the_reproductive_biology_and_behaviour_of_the_dotted_reed_frog_Hyperolius_guttulatus_in_southern-central_Ivory_Coast_West_Africa
-Adaptations of the reed frog Hyperolius yiridiBayus (Amphibia: Anura, https://d-nb.info/1100161821/34
-Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://www.researchgate.net/publication/226889183_Adaptations_of_the_reed_frog_Hyperolius_viridiflavus_Amphibia_Anura_Hyperoliidae_to_its_arid_environment
-Applying biomimicry to design building envelopes that lower energy, https://www.researchgate.net/publication/319239529_Applying_biomimicry_to_design_building_envelopes_that_lower_energy_consumption_in_a_hot-humid_climate
-Adaptations of the reed frog Hyperolius viridiflavus (Amphibia, Anura, https://pubmed.ncbi.nlm.nih.gov/28311710/
-Hyperolius nitidulus - AmphibiaWeb, https://amphibiaweb.org/cgi/amphib_query?query_src=aw_lists_alpha_&where-genus=Hyperolius&where-species=nitidulus
-Diversification of Afrobatrachian Frogs and the ... - UC Berkeley, https://escholarship.org/content/qt6nk451m0/qt6nk451m0.pdf
-Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://pmc.ncbi.nlm.nih.gov/articles/PMC10078702/
-Environmental sex determination in fishes | Request PDF, https://www.researchgate.net/publication/10982751_Ecology_meets_endocrinology_Environmental_sex_determination_in_fishes
-Hyperolius viridiflavus | INFORMATION - Animal Diversity Web, https://animaldiversity.org/accounts/Hyperolius_viridiflavus/
-Sex Determination and Sexual Differentiation in Amphibians, https://www.researchgate.net/publication/282865433_Sex_Determination_and_Sexual_Differentiation_in_Amphibians
-Macroevolutionary Patterns of Sexual Size Dimorphism Among, https://academic.oup.com/jhered/article/111/4/379/5864412
-(PDF) Hermaphrodite Mating Systems - ResearchGate, https://www.researchgate.net/publication/326562665_Hermaphrodite_Mating_Systems
-Hyperolius pusillus - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/hyperolius-pusillus
-Green whip snake - Wikipedia, https://en.wikipedia.org/wiki/Green_whip_snake
-Threatened Amphibians of the World - NatureServe, https://www.natureserve.org/sites/default/files/1-taw-intro.pdf
-an introduction to the amphibian fauna of the Central Congolian, http://amphibian-reptile-conservation.org/pdfs/Volume/Vol_16_no_1/ARC_16_1_[General_Section]_35-70_e301.pdf
-The use of bioacoustics in anuran taxonomy: theory, terminology, https://www.researchgate.net/publication/315892422_The_use_of_bioacoustics_in_anuran_taxonomy_theory_terminology_methods_and_recommendations_for_best_practice
-(PDF) Advertisement calls of seven species of hyperoliid frogs, from, https://www.researchgate.net/publication/236632864_Advertisement_calls_of_seven_species_of_hyperoliid_frogs_from_Equatorial_Guinea
-Multimodal Signal Testing Reveals Gestural Tapping Behavior in, https://www.researchgate.net/publication/324632845_Multimodal_Signal_Testing_Reveals_Gestural_Tapping_Behavior_in_Spotted_Reed_Frogs
-Take time to smell the frogs: vocal sac glands of reed frogs (Anura, https://pmc.ncbi.nlm.nih.gov/articles/PMC3837199/
-(PDF) Take time to smell the frogs: vocal sac glands of reed frogs, https://www.researchgate.net/publication/258924450_Take_time_to_smell_the_frogs_vocal_sac_glands_of_reed_frogs_Anura_Hyperoliidae_contain_species-specific_chemical_cocktails_Reed_Frog_Gland_Secretions_are_Species_Specific
-Structure Elucidation and Total Synthesis of Granolides A–C - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC13331588/
-Developmental life stages of the Pickersgill's reed frog (Hyperolius, https://www.researchgate.net/publication/359071772_Developmental_life_stages_of_the_Pickersgill's_reed_frog_Hyperolius_pickersgilli_in_an_ex-situ_environment_at_Johannesburg_Zoo's_captive_breeding_facility_South_Africa
-Amphibians of Rwanda: Diversity, Community Features, and ... - MDPI, https://www.mdpi.com/1424-2818/15/4/512
-Common reed frog - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/common-reed-frog
-Hyperolius marginatus - Wikipedia, https://en.wikipedia.org/wiki/Hyperolius_marginatus
-How many reptile and amphibian species are in Uganda, and why it, https://pmc.ncbi.nlm.nih.gov/articles/PMC11700488/
-The taxonomic status of Hyperolius nimbae Laurent, 1958 (Amphibia, https://www.researchgate.net/profile/Mark-Oliver-Roedel/publication/362657917_The_taxonomic_status_of_Hyperolius_nimbae_Laurent_1958_Amphibia_Anura_Hyperoliidae/links/63295ed7873eca0c009eb70b/The-taxonomic-status-of-Hyperolius-nimbae-Laurent-1958-Amphibia-Anura-Hyperoliidae.pdf?origin=scientificContributions
-a perspective on the systematics of the Hyperolius viridiflavus group, https://www.gbif.org/dataset/7d37c4ef-2db4-4ecf-a9c3-242740d2e59e
-Hyperolius viridiflavus - Fakten, Ernährung, Lebensraum ... - Animalia, https://animalia.bio/de/common-reed-frog
+mongoose - Wiktionary, the free dictionary, https://en.wiktionary.org/wiki/mongoose
+Mungos - Grokipedia, https://grokipedia.com/page/Mungos
+Mungos mungo - Wikipédia, https://fr.wikipedia.org/wiki/Mungos_mungo
+Mongoose - Wikipedia, https://en.wikipedia.org/wiki/Mongoose
+Mammals, other than bats, from the Misotshi-Kabogo highlands, https://zoologicalbulletin.de/BzB_Volumes/Volume_62_2/203_219_BzB62_2_Kerbis_et_al.pdf
+Mungos - Wikipedia, https://en.wikipedia.org/wiki/Mungos
+A checklist and numbering system of the extant mammals of the, https://journals.co.za/doi/pdf/10.10520/AJA00411752_187
+Carnivores in Tanzania - Frommer's Travel Guides, https://www.frommers.com/destinations/tanzania/in-depth/carnivores/
+Zebramanguste - Safari Afrika, https://www.safari-afrika.de/tierwelt/saeugetiere/zebramanguste/
+Wildlife Guide to East Africa | PDF | Bat | Camera - Scribd, https://www.scribd.com/document/936116055/Wildlife-of-East-Africa-1
+mongoose | Übersetzung Deutsch-Englisch - dict.cc, https://m.dict.cc/englisch-deutsch/mongoose.html
+Mungos - GBIF, https://www.gbif.org/taxon/44KLP
+(PDF) A conservation assessment of Mungos mungo - ResearchGate, https://www.researchgate.net/publication/319332559_A_conservation_assessment_of_Mungos_mungo
+Mongooses: Their Natural History and Behaviour [Reprint 2020, https://dokumen.pub/mongooses-their-natural-history-and-behaviour-reprint-2020nbsped-9780520329904.html
+Mongooses and Fossa (Herpestidae) - Encyclopedia.com, https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/mongooses-and-fossa-herpestidae
+Mungos - Wikipédia, https://fr.wikipedia.org/wiki/Mungos
+Mycobacterium tuberculosis M. mungi - CDC Stacks, https://stacks.cdc.gov/view/cdc/18267/cdc_18267_DS1.pdf
+Characterization of both major histocompatibility complex classes in, https://www.biorxiv.org/content/10.1101/2024.12.14.628504.full
+Policing of reproduction by hidden threats in a cooperative mammal, https://pmc.ncbi.nlm.nih.gov/articles/PMC3890811/
+Reproductive success in a low skew, communal breeding mammal, https://www.researchgate.net/publication/225548220_Reproductive_success_in_a_low_skew_communal_breeding_mammal_The_banded_mongoose_Mungos_mungo
+A veil of ignorance can promote fairness in a mammal society - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8222408/
+Reproductive competition and the evolution of extreme birth, https://www.researchgate.net/publication/45505098_Reproductive_competition_and_the_evolution_of_extreme_birth_synchrony_in_a_cooperative_mammal
+A Field Guide to the Ways of Being Family - stuff, https://starstuff.earth/being-family-field-guide
+A veil of ignorance can promote fairness in a mammal society - Helda, https://helda.helsinki.fi/bitstreams/5fb3c06f-32a0-492f-9dac-52cf17e620b4/download
+A Fair Society Evolves From "Veil of Ignorance" – Mongooses Solve, https://scitechdaily.com/a-fair-society-evolves-from-veil-of-ignorance-mongooses-solve-inequality-problem/
+Mongooses solve inequality problem - ScienceDaily, https://www.sciencedaily.com/releases/2021/06/210623091207.htm
+Banded mongooses: Demography, life history, and social behavior, https://www.cambridge.org/core/books/cooperative-breeding-in-vertebrates/banded-mongooses-demography-life-history-and-social-behavior/2B4639B7947E25D18292FAD99C526C7C
+Herpestidae remains from the Early Pleistocene Cooper's D locality, https://www.researchgate.net/publication/331096894_Mongoose_Manor_Herpestidae_remains_from_the_Early_Pleistocene_Cooper's_D_locality_in_the_Cradle_of_Humankind_Gauteng_South_Africa
+Animals & Wildlife in Masai Mara, https://www.masaimara.travel/animals-wildlife.php
+Best Places to See Mongooses in Kenya - Trek Africa Expeditions, https://trekafricatours.com/best-places-to-see-mongooses-in-kenya/
+Schematic of vocalization types in members of the mongoose, https://www.researchgate.net/figure/Schematic-of-vocalization-types-in-members-of-the-mongoose-family-a-Meerkats-Suricata_fig1_233837444
+Exploitative leaders incite intergroup warfare in a social mammal, https://pmc.ncbi.nlm.nih.gov/articles/PMC7703641/
+Collective self-assessment in banded mongoose intergroup contests, https://academic.oup.com/beheco/article/37/1/araf133/8339510
+(PDF) Location and group size influence decisions in simulated, https://www.researchgate.net/publication/227464322_Location_and_group_size_influence_decisions_in_simulated_intergroup_encounters_in_banded_mongooses
+Fighting force and experience combine to determine contest ... - PNAS, https://www.pnas.org/doi/10.1073/pnas.2119176119
+The dynamics of social cohesion in response to simulated, https://ora.ox.ac.uk/objects/uuid:a2daa100-1fa5-46b8-99bf-e48c2cc62cdd/download_file?safe_filename=Preston_et_al_2021_The_dynamics_of.pdf&type_of_work=Journal+article
+Segmental concatenation of individual signatures and context cues, https://pmc.ncbi.nlm.nih.gov/articles/PMC3529192/
+Dwarf mongoose alarm calls: investigating a complex non-human, https://www.bio.bris.ac.uk/research/behavior/Vocal_Communication/pdfs/Mongoose_call_combination.pdf
+Exploring mechanisms underlying heterospecific alarm call, https://academic.oup.com/beheco/article/37/3/arag031/8586396
+(PDF) Cooperatively breeding banded mongooses do not avoid, https://www.researchgate.net/publication/354498284_Cooperatively_breeding_banded_mongooses_do_not_avoid_inbreeding_through_familiarity-based_kin_recognition
+Banded mongooses discriminate relatedness and MHC diversity in, https://www.biorxiv.org/content/10.1101/2024.12.22.629965.full
+Banded mongooses avoid inbreeding when mating with members of, https://pmc.ncbi.nlm.nih.gov/articles/PMC5008155/
+Characterization of both major histocompatibility complex classes in, https://www.researchgate.net/publication/387287535_Characterization_of_both_major_histocompatibility_complex_classes_in_a_wild_social_mammal_the_banded_mongoose
+Strategic use of male alternative reproductive tactics in cooperatively, https://www.biorxiv.org/content/10.1101/2024.03.11.584460v1-0.full-text
+The cost of dominance: suppressing subordinate reproduction, https://royalsocietypublishing.org/rspb/article/279/1728/619/73898/The-cost-of-dominance-suppressing-subordinate
+Eviction and dispersal in co-operatively banded mongoose (Mungos, https://www.researchgate.net/publication/227677122_Eviction_and_dispersal_in_co-operatively_banded_mongoose_Mungos_mungo
+Conflits reproductifs chez un primate social vivant en milieu ... - ISEM, https://isem-evolution.fr/wp-content/pdfs-files/These_2016_BANIEL.pdf
+East Africa - Part 3. Garbage Dumps - Vladimir Dinets, http://dinets.info/eafrica3.htm
+An annotated checklist of mammals of Kenya - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC6350106/
+Research stories: Using accelerometers to uncover wildlife behaviour, https://appliedecologistsblog.com/2023/07/12/research-stories-using-accelerometers-to-uncover-wildlife-behaviour/
+Draft Genome Sequence of the Mycobacterium tuberculosis, https://journals.asm.org/doi/10.1128/genomea.00471-16
+Emerging Tuberculosis Pathogen Hijacks Social Communication, https://pmc.ncbi.nlm.nih.gov/articles/PMC4895101/
+Infectious Bacterial Diseases Research - Publication : USDA ARS, https://www.ars.usda.gov/research/publications/publication/?seqNo115=341837
+DIAGNOSIS AND IMPLICATIONS OF MYCOBACTERIUM BOVIS, https://pubmed.ncbi.nlm.nih.gov/27788055/
+diagnosis and implications of mycobacterium bovis infection in, https://repository.up.ac.za/bitstreams/9da0514f-6eb5-4dbb-be57-1a44c31114f7/download
+Challenges to the control of, https://d-nb.info/1307560032/34
+CONSERVATION - Amazon S3, https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/120895/NWCSR-Main-Compressed.pdf
+Blog - Arcadia Safaris, https://www.arcadiasafaris.com/blog/
+Where to Film Mongooses in Kenya - Africa Fixers, https://filmcrewfixersuganda.com/where-to-film-mongooses-in-kenya/
+Full text of "IUCN directory of afrotropical protected areas", https://archive.org/stream/iucndirectoryofa87iucn/iucndirectoryofa87iucn_djvu.txt
+Kenya Highlights 2015 - Field Guides, https://fieldguides.com/triplists/khl15LIST.pdf
+639 Mongoose Kenya Royalty-Free Images, Stock Photos & Pictures, https://www.shutterstock.com/search/mongoose-kenya
+Banded mongoose (Mungos mungo),group on termite hill,Masai, https://www.mauritius-images.com/en/asset/ME-PI-15125997_mauritius_images_image_number_14744348_banded-mongoose-mungos-mungo-group-on-termite-hill-masai-mara-game-reserve-kenya
+Mongooses mammals hi-res stock photography and images - Alamy, https://www.alamy.com/stock-photo/mongooses-mammals.html?pseudoid=0313C32A-3FDC-4017-B17D-BDC4EA7CA2F1
+Publications - Banded Mongoose Research Project, https://mongoose-site.pages.dev/publications/
+Publications | The Hoffman Lab, https://thehoffmanlab.com/publications/
+English-Tshivenda Dictionary PDF | Foreign Language Studies | Art, https://www.scribd.com/document/781724274/67089703335-1
+Animals of the Masai Mara [Course Book ed.] 9781400844913, https://dokumen.pub/animals-of-the-masai-mara-course-booknbsped-9781400844913.html

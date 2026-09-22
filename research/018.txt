@@ -1,285 +1,296 @@
-Fachbericht: Strukturiertes Rohmaterial zu Balanites aegyptiaca
+Strukturiertes Rohmaterial: Vachellia xanthophloea (Fieberbaum)
 1. Namen und Etymologie
-Der wissenschaftliche und taxonomisch akzeptierte Name der Art lautet Balanites aegyptiaca (L.) Delile (gesichert)1. Die botanische Nomenklatur weist eine detaillierte Historie auf. Carl von Linné ordnete die Pflanze in seiner Erstbeschreibung im Jahr 1753 ursprünglich unter dem Basionym Ximenia aegyptiaca ein (gesichert)1. Im Jahr 1813 separierte der französische Botaniker Alire Raffeneau-Delile die Art und transferierte sie in die von ihm neu aufgestellte Gattung Balanites (gesichert)1. Ein zwischenzeitlich von Michel Adanson vorgeschlagener Gattungsname lautete Agialid, welcher sich jedoch nicht durchsetzte (gesichert)1.
-Die Etymologie des Gattungsnamens Balanites leitet sich aus dem griechischen Wort für „Eichel“ ab (gesichert)3. Dies stellt eine direkte deskriptive Referenz an die eichelförmige Morphologie der Frucht dar (gesichert)3. Das Artepitheton aegyptiaca verweist auf die geografische Herkunft der Typus-Exemplare, die aus Ägypten stammten (gesichert)3.
-Im deutschen Sprachgebrauch ist die Pflanze als Wüstendattel etabliert (gesichert)5. Im englischen Schrifttum existiert eine breite Synonymik: Desert date, Soap berry tree, Thorn tree, Egyptian myrobalan, Egyptian balsam und Zachum oil tree (gesichert)1.
-Die lokale Verankerung der Art in Kenia und den angrenzenden Sprachräumen spiegelt sich in einer Vielzahl dokumentierter Vernakularnamen wider. Wörtliche Übersetzungen oder tiefere etymologische Herleitungen dieser lokalen Bezeichnungen sind im vorliegenden Material nicht belegt (gesichert).
+Die taxonomische Nomenklatur und die volkssprachlichen Bezeichnungen der Art spiegeln sowohl die botanische Forschungsgeschichte als auch die historische Wahrnehmung durch lokale Gemeinschaften und Kolonisten wider. Die Art wurde im Laufe der Zeit in verschiedene Gattungen eingeordnet, was zu Synonymen in der wissenschaftlichen Literatur geführt hat (Status: gesichert)1.
+Der anerkannte wissenschaftliche Name lautet Vachellia xanthophloea (Benth.) Banfi & Galasso (Status: gesichert)1. Das Basionym der Art ist Acacia xanthophloea Benth. (Status: gesichert)1. Der Gattungsname Vachellia wurde zu Ehren von George H. Vachell (1789–1839) vergeben, einem britischen Geistlichen und Pflanzensammler, der in China tätig war (Status: gesichert)6. Das spezifische Epitheton xanthophloea leitet sich aus dem Griechischen ab und setzt sich aus den Wörtern xanthos (gelb oder golden) und phloios (Baumrinde) zusammen, was wörtlich "gelbe Rinde" bedeutet (Status: gesichert)1.
+Die nachfolgende Tabelle fasst die dokumentierten Trivialnamen, ihre sprachliche Herkunft und, sofern in den Quellen belegt, ihre wörtliche Bedeutung zusammen.
 
-Sprache/Gemeinschaft
-	Lokaler Name
-	Belegstatus
+Trivialname
+	Sprache / Gemeinschaft
+	Wörtliche Bedeutung / Etymologie
+	Status
 	Quellen
 
-Swahili
-	mchunju
-	gesichert
-	1
+Fieberbaum
+	Deutsch
+	Übersetzung des englischen Trivialnamens.
+	Gesichert
+	User Query
 
-Maa (Maasai)
-	Olamuriaka
-	gesichert
-	9
+Fever tree / Yellow fever tree
+	Englisch
+	Geht auf europäische Pioniere zurück. Die Bezeichnung entstand, da in den feuchten Sumpfgebieten, in denen der Baum wächst, häufig Malaria-Erkrankungen ("Fieber") auftraten.
+	Gesichert
+	4
 
-Kikuyu
-	'Mukawa
-	gesichert
-	9
-
-Kamba
-	Mukawa
-	gesichert
-	9
-
-Samburu
-	unbekannt
-	vermutet (kein Beleg)
-	-
-
-Giriama
-	unbekannt (Bezug zur Aststruktur postuliert)
-	vermutet
+Mgunga mweupe
+	Swahili
+	mgunga bedeutet Akazie, mweupe bedeutet weiß oder hell.
+	Gesichert
 	10
 
-Marakwet
-	Ng'oswet
-	gesichert
+Mkambala
+	Swahili
+	Unbekannt.
+	Überliefert
+	User Query
+
+Murera
+	Kikuyu
+	Unbekannt.
+	Gesichert
 	11
 
-Borana (Boran)
-	baddan, Dagams
-	gesichert
-	9
+Olerai
+	Maa (Maasai)
+	Unbekannt.
+	Gesichert
+	11
 
-Luo
-	Ochuoga
-	gesichert
-	9
+Kimweya / Mweya / Musewa / Mulela
+	Kamba
+	Unbekannt.
+	Gesichert
+	11
 
-Nandi / Kipsigis
-	Lelgetwa, Legetetwet
-	gesichert
-	9
+Sesiai
+	Samburu
+	Unbekannt.
+	Vermutet
+	15
 
-Hausa
-	aduwa
-	gesichert
-	1
+Kuth ataro
+	Luo
+	Unbekannt.
+	Gesichert
+	12
 
-Tamasheq (Tuareg)
-	taboraq
-	gesichert
-	1
+Ochmnyaliliet
+	Kipsigis
+	Unbekannt.
+	Gesichert
+	12
 
-Amharisch
-	bedena
-	gesichert
-	1
+Mwelela
+	Taveta
+	Unbekannt.
+	Gesichert
+	12
 
-Arabisch (Sudan/Ägypten)
-	lalob, hidjihi, inteishit, heglig (hijlij)
-	gesichert
-	1
+Hwacho dima
+	Boran
+	Unbekannt.
+	Gesichert
+	12
+
+Reno
+	Marakwet
+	Unbekannt.
+	Gesichert
+	12
+
+Unbekannt
+	Giriama
+	In den zugrunde liegenden Quellen existiert kein Beleg für einen Namen in der Sprache der Giriama.
+	Gesichert
+	-
 2. Erscheinung, mit Maßen
-Balanites aegyptiaca ist ein stark verzweigter, dorniger und xerophytischer Strauch oder Baum (gesichert)1. Die Art weist keine sekundären Geschlechtsmerkmale auf, da die Blüten zwittrig (hermaphroditisch) sind (gesichert)1. Altersstufen lassen sich phänotypisch primär an der Rindenstruktur und am Blühbeginn differenzieren; die reproduktive Phase beginnt erst ab einem Baumalter von 5 bis 7 Jahren, während das Ertragsmaximum bei 15 bis 25 Jahren erreicht wird (gesichert)4. Die maximale Lebensdauer beträgt mindestens 100 Jahre (gesichert)14.
-Die morphologischen Dimensionen und Charakteristika sind in der folgenden Übersicht zusammengefasst. Wo möglich, wurden die metrischen Angaben rechnerisch in alltägliche Größenordnungen übersetzt.
-
-Merkmal
-	Dimension / Spezifikation
-	Alltagsvergleich (rechnerisch/belegt)
-	Status & Quelle
-
-Wuchshöhe
-	Bis 10 m, in Einzelfällen 12 m bis 17 m.
-	10 m entsprechen etwa der Höhe eines dreistöckigen Wohnhauses.
-	gesichert1
-
-Stammdurchmesser
-	30 cm bis 45 cm.
-	Entspricht etwa dem Durchmesser eines großen Autoreifens.
-	gesichert14
-
-Stamm- und Rindenstruktur
-	Kurz, basal verzweigt. Borke dunkelbraun bis grau, tief längsgefurcht mit rauen korkartigen Schuppen. Junge Äste glatt und grün.
-	-
-	gesichert1
-
-Dornen
-	Länge bis zu 8 cm. Gerade, grün oder gelb, spiralförmig an den Ästen angeordnet.
-	8 cm entsprechen der Länge eines durchschnittlichen menschlichen Zeigefingers.
-	gesichert1
-
-Blätter (allgemein)
-	Spiralförmig angeordnet, bifoliolat (zwei Teilblättchen pro Stiel). Dunkelgrün, ledrig, anfangs fein behaart.
-	-
-	gesichert1
-
-Blattstiele (Petiolen)
-	0,5 mm bis 4,0 mm.
-	-
-	gesichert14
-
-Teilblättchen (Foliolen)
-	Länge 2,5 cm bis 6,0 cm. Asymmetrisch verkehrteiförmig (obovat).
-	-
-	gesichert15
-
-Blüten (Infloreszenz)
-	8 mm bis 14 mm Durchmesser. Grünlich-gelb, 5 Kronblätter, radiärsymmetrisch. Bündel von 3 bis 5 Blüten.
-	-
-	gesichert1
-
-Blütenstiele (Pedizellen)
-	Unter 10 mm, in Einzelfällen (Sambia/Simbabwe) bis 15 mm. Grau und flaumig.
-	-
-	gesichert1
-
-Frucht (Morphologie)
-	Länge 2,5 cm bis 7,0 cm. Durchmesser 1,5 cm bis 4,0 cm. Ellipsoide Steinfrucht. Grün und filzig (jung), gelb bis hellbraun und kahl (reif).
-	"Pflaumengröße" laut botanischer Quelle.
-	gesichert1
-
-Fruchtgewicht
-	6 g bis 15 g pro Frucht.
-	-
-	gesichert14
-
-Samen / Steinkern
-	Länge 1,5 cm bis 3,0 cm. Hellbraun, faserig, extrem hart. Macht 50 % bis 60 % der Fruchtmasse aus.
-	-
-	gesichert1
-
-Samenanzahl pro kg
-	500 bis 1500 trockene, gereinigte Samen pro 1 kg Masse.
-	-
-	gesichert15
-
-Wurzelsystem
-	Tiefe Pfahlwurzel (mehrere Meter) und stark strahlenförmig auslaufende Lateralwurzeln (hemisphärische Masse).
-	-
-	gesichert14
-3. Der Mechanismus: Molluskizide Saponine zur Bilharziose-Kontrolle
-Das herausragende phytochemische Prinzip von Balanites aegyptiaca, das in der tropenmedizinischen Forschung von enormer Relevanz ist, ist die Produktion potenter Molluskizide (schneckenabtötender Substanzen) auf der chemischen Basis von Steroid-Saponinen (gesichert)4. Dieser Mechanismus unterbricht den Übertragungsweg der Schistosomiasis (Bilharziose), indem er die aquatischen Zwischenwirte der Parasiten eliminiert.
-Die wasserlöslichen Extrakte, die aus der Stammrinde, den Wurzeln, dem Frucht-Mesokarp und den Samen extrahiert werden können, weisen eine extrem hohe Toxizität für Süßwasserschnecken auf, insbesondere für Arten der Gattungen Biomphalaria (wie Biomphalaria pfeifferi) und Bulinus (wie Bulinus globosus) (gesichert)1.
-Die ökologisch-epidemiologische Kausalkette
-Der Mechanismus entfaltet sich in folgender chronologischer Kette:
-Einbringung: Pflanzenteile von Balanites aegyptiaca (insbesondere Fruchthüllen, Samen oder Rindenemulsionen) fallen natürlich oder werden anthropogen gezielt in stehende Gewässer eingebracht (gesichert)4.
-Diffusion: Die in den Geweben konzentrierten wasserlöslichen Steroid-Saponine (wie Balanitin) diffundieren in das wässrige Milieu (gesichert)4.
-Zelluläre Zerstörung: Aufgrund ihrer amphiphilen (oberflächenaktiven) Struktur binden die Saponine an die Sterole in den Zellmembranen der Schnecken, verändern deren Permeabilität drastisch und führen zur zellulären Lysis im respiratorischen Epithel und in den weichen Geweben, was den Tod des Organismus zur Folge hat (abgeleitet aus der chemischen Natur von Saponinen und gesichert durch empirische Toxizitätstests)4.
-Entwicklungsstopp der Parasiten: Ohne die lebenden Schnecken als obligatorische Zwischenwirte können sich die Wimpernlarven (Mirazidien) der Schistosomen nicht zu den infektiösen Zerkarien weiterentwickeln (gesichert)4.
-Schutz des Endwirtes: Die Infektionskette zum Endwirt Mensch, der normalerweise beim Kontakt mit kontaminiertem Wasser von Zerkarien penetriert wird, reißt ab (gesichert)4.
-Belegzahlen und Wirkstoffkonzentrationen
-Experimentelle Studien belegen die Toxizität der Rohextrakte und isolierten Saponine mit konkreten Messwerten:
-Ein Rohextrakt aus der Stammrinde induzierte bei einer Konzentration von 10 mg/L eine 100-prozentige Mortalität für fast alle untersuchten Schneckenarten, mit der einzigen Ausnahme der adulten Form von Biomphalaria pfeifferi (gesichert)19.
-Für die adulte Form von Bulinus globosus wurde eine mittlere letale Dosis (LD50) von 6,4 mg/L gemessen (gesichert)19.
-In einem Bioassay mit Samenglykosiden ergaben Konzentrationen von 0,125 %, 0,250 %, 0,500 % und 1,00 % Mortalitätsraten von 30,0 %, 53,3 %, 73,0 % und 73,3 %. Die Letalkonzentration (LC50) lag hier bei 0,256 % (gesichert)23.
-Biochemische Spezifikation und konkurrierende Mechanismen
-Die chemische Analyse (GC-MS und NMR-Spektroskopie) der Saponine von Balanites aegyptiaca identifizierte spezifische Diosgenyl-Saponine (gesichert)19. Der Wirkstoffkomplex umfasst Substanzen, die in der Literatur als Balanitin-1, -2, -3 sowie Balanitin-6 und -7 klassifiziert werden (gesichert)20.
-Balanitin-1: Molekulargewicht 1030 (gesichert)21.
-Balanitin-2: Molekulargewicht 1016 (gesichert)21.
-Balanitin-3: Molekulargewicht 884 (gesichert)21. Das Aglykon (der Nicht-Zucker-Anteil des Saponins) wurde in diesen Verbindungen als Diosgenin oder Yamogenin identifiziert, an das Zuckerketten aus Rhamnose und Glucose gebunden sind (gesichert)21.
-Gibt es alternative oder konkurrierende Erklärungen für die Toxizität? Eine Struktur-Aktivitäts-Studie verglich die Steroid-Saponine aus Balanites aegyptiaca mit Triterpenoid-Saponinen (etwa aus Zygophyllum coccineum). Es zeigte sich, dass letztere inaktiv waren. Die molluskizide Wirkung ist demnach kein allgemeiner Saponin-Effekt, sondern strukturell strikt an die spezifischen Steroid-Saponine (Diosgenyl-Derivate) gebunden (gesichert)23.
-Bemerkenswert an diesem Mechanismus ist seine Selektivität: Das Gift greift Schnecken, Wasserflöhe (Wirte des Guineawurms) und Fische an, beeinflusst Säugetiere jedoch nicht systemisch. Das behandelte Wasser ist für Menschen trinkbar, und durch das Saponin betäubte Fische bleiben für den Verzehr unbedenklich (gesichert)4. Dennoch vermerken Langzeitbeobachtungen aus der Côte d'Ivoire, dass Fischer, die den Extrakt kontinuierlich über 5 bis 6 Jahre applizieren, Schädigungen des Sehvermögens erleiden (gesichert)4.
+Die Morphologie von Vachellia xanthophloea variiert in Abhängigkeit von den Altersstufen und dem spezifischen Standort, weist jedoch messbare phänotypische Konstanten auf. Der Baum wächst als mittelgroßer bis großer, laubabwerfender Baum mit einer offenen, ausladenden und teils kugelförmigen Krone (Status: gesichert)7.
+Dimensionen des Baumes
+Die Wuchshöhe ausgewachsener Individuen wird in der Literatur konsistent mit einer Spanne von 15 bis 25 m angegeben (Status: gesichert)4. Der Stamm wächst in der Regel gerade heran (Status: gesichert)6. Spezifische absolute Gewichtsmesswerte für den Baum liegen in den Quellen nicht vor (Status: Lücke). Messungen in Waldgebieten wie dem Rau Catchment Forest Reserve (Tansania) ergaben für Waldparzellen, in denen Vachellia xanthophloea vorkommt, ein durchschnittliches stehendes Holzvolumen (standing volume) von 405,75 ± 227,16 m³/ha und eine Basalfläche (basal area) von 23,05 ± 12,37 m²/ha (Status: gesichert)18. Eine spezifische Angabe zur reinen Holzdichte der Art in metrischen Einheiten fehlt in den botanischen Beschreibungen der Dokumente (Status: Lücke).
+Rinde und Stamm
+Die Rinde stellt das primäre Identifikationsmerkmal dar. Sie ist glatt, pulvrig und von einer hellen, grünlich-gelben Färbung (Status: gesichert)4. Es bestehen farbliche und texturelle Unterschiede zwischen den Altersstufen der Pflanzenteile: Junge Zweige und Triebe weisen zunächst eine violette Färbung auf; erst im weiteren Wachstumsverlauf blättert diese äußere Schicht ab und gibt die charakteristische schwefelgelbe Rinde frei (Status: gesichert)4. An älteren Stämmen reißt die Rinde gelegentlich auf oder schuppt ab, was dem Baum ein geflecktes Erscheinungsbild verleiht, und ein graulich-rosafarbener Anschnitt (Slash) wird sichtbar, der ein rötliches, minderwertiges Harz (Gummi) absondert (Status: gesichert)16.
+Blattwerk und Dornen
+Die Blätter sind doppelt gefiedert (bipinnat) strukturiert. Ein einzelnes Blatt besteht aus 3 bis 6 Paaren von Fiedern (Pinnulae), an denen jeweils 10 bis 30 Paare von Einzelblättchen sitzen (Status: gesichert)16. Diese Einzelblättchen messen in der Länge 4 bis 8 mm und in der Breite 2 mm (Status: gesichert, unter Benennung einer Spannen-Überschneidung aus zwei Quellen)4. Am unteren Ende des letzten Fiederpaares befindet sich an der Blattachse (Rachis) eine Drüse (Status: gesichert)16.
+Das Bewehrungssystem des Baumes besteht aus Nebenblattdornen (Stipulardornen). Diese Dornen sind weiß, gerade und spitz zulaufend; sie wachsen paarweise direkt an den Astknoten (Status: gesichert)4. Es gibt signifikante Unterschiede in der Bewehrung zwischen den Altersstufen: Junge Bäume und Äste weisen 3 bis 12 Dornenpaare in einer fortlaufenden Reihe auf, wobei die einzelnen Dornen eine Länge von 5 bis 7,5 cm erreichen. Im Gegensatz dazu verlieren ältere, ausgewachsene Bäume an ihren Hauptstämmen und älteren Ästen die Dornenbildung meist vollständig (Status: gesichert)16.
+Blüten, Früchte und Samen
+Die Blüten sind zwittrig (bisexuell) und in stark duftenden, kugelförmigen Blütenständen (capitate inflorescences) angeordnet. Diese Köpfchen haben einen Durchmesser von 1,2 bis 1,5 cm und sind von blasscremefarbener bis leuchtend goldgelber Farbe (Status: gesichert)4. Sie sitzen auf 2 bis 3 cm langen Stielen (Pedunkeln), die gehäuft in den Blattachseln oder an den Zweigenden austreiben (Status: gesichert)4. Die Blüten enthalten herausragende (exserted) Staubblätter und Stempel mit einem oberständigen Fruchtknoten (Status: gesichert)16.
+Nach der Bestäubung bilden sich die Früchte in Form von Hülsen (Pods). Diese sind gerade bis leicht gekrümmt, abgeflacht und weisen eine papierartige Textur auf (Status: gesichert)4. Unreife Hülsen sind grün und verfärben sich im Reifeprozess zu einem blassen Grau oder Graubraun (Status: gesichert)4. Bei den Maßangaben der Hülsenlänge existiert ein leichter Widerspruch in den Quellen: Eine Quelle nennt eine Länge von 5 bis 19 cm4, während eine andere Quelle 5 bis 15 cm Länge bei einer Breite von 0,5 bis 1,2 cm angibt (Status: gesichert, Widerspruch benannt)16. Die Hülsen sind schwer aufspringend (tardily dehiscent) und brechen oft in kleinere Segmente auf (Status: gesichert)4.
+Jede Hülse enthält 5 bis 10 abgeflachte, elliptische, grüne Samen (Status: gesichert)4. Für die Größenordnung der Samen existiert ein Alltagsvergleich in der Literatur: Die Samen haben die Größe von Annattosamen oder metallischen BB-Schrotkugeln (Kaliber 0.177, was exakt 4,5 mm entspricht) (Status: gesichert)20.
+3. Der Mechanismus
+Das primäre biologische Prinzip, das Vachellia xanthophloea physiologisch von der Mehrheit der bedecktsamigen Baumarten unterscheidet, ist die ausgeprägte kortikale Photosynthese (Rindenphotosynthese bzw. Stammphotosynthese) (Status: gesichert)4.
+Funktionsweise und physiologische Grundlage
+Bei der kortikalen Photosynthese findet die Fixierung von Kohlenstoffdioxid unter Nutzung von Lichtenergie nicht ausschließlich im Palisaden- und Schwammparenchym der Blätter statt, sondern zusätzlich in den äußeren Gewebeschichten des Stammes und der Äste. Die gelblich-grüne Färbung der Rinde ist ein direkter optischer Indikator für hohe Konzentrationen von Chlorophyll – dem zentralen grünen Pigment, das die Lichtenergie der Sonne absorbiert – direkt unterhalb der äußersten Rindenschicht (Status: gesichert)4. V. xanthophloea ist eine der wenigen Baumarten weltweit, die diesen Mechanismus derart prominent ausgebildet haben (Status: gesichert)4.
+Die ökologische Kausalkette
+Die Rindenphotosynthese ist keine zufällige Mutation, sondern das Resultat einer zwingenden evolutionären Kausalkette, die das Überleben der Art in ihrem spezifischen Habitat sichert. Die Kette verläuft wie folgt:
+Standortbedingung (A): Die Art ist in weiten Teilen ihres Verbreitungsgebiets auf Zonen angewiesen, die periodisch durch extreme Trockenheit und hohe Temperaturen gekennzeichnet sind (semi-aride Buschlandschaften), wobei sie jedoch gleichzeitig einen hohen Grundwasserspiegel benötigt (Status: gesichert)4.
+Auslöser durch abiotischen Stress (B): In ausgeprägten Trockenzeiten verdunstet das Oberflächenwasser, und die Wasserverfügbarkeit im Boden sinkt lokal. Um einen tödlichen Wasserverlust (Transpiration) durch die geöffneten Spaltöffnungen (Stomata) in den Blättern zu verhindern, wirft der Baum sein Laub ab (Status: gesichert)17.
+Physiologische Kompensation (C): Ohne Blätter käme die Energieproduktion (Zuckerassimilation) durch herkömmliche Photosynthese zum Erliegen. Hier setzt die Rindenphotosynthese ein: Das Chlorophyll in der Rinde und in den Zweigen übernimmt die Funktion der Lichtabsorption (Status: gesichert)19.
+Überlebensvorteil (D): Durch die corticulare Photosynthese kann der blattlose Baum auch während langanhaltender Trockenperioden Kohlenhydrate synthetisieren. Dies ermöglicht die Aufrechterhaltung des Erhaltungsstoffwechsels und weiteres Wachstum ohne den massiven Wasserverlust, der mit einer belaubten Krone in diesen Perioden unvermeidlich wäre (Status: gesichert)19.
+Forschung und Belegbarkeit
+Die Erforschung der Determinanten der Vegetation, in die V. xanthophloea eingebettet ist, wurde in der Vergangenheit detailliert durch Studien analysiert. So präsentierten Gregory et al. (1991) sowie Carter und Rogers (1995) hierarchische Klassifikationen der ökologischen Faktoren (Elevation, Hydrologie, Sedimentstabilität), die das Wachstum in Flussauen (Floodplains) bedingen (Status: gesichert)22. Dass die Stammphotosynthese bei V. xanthophloea existiert, wird in ökologischen Papern immer wieder konstatiert. Spezifische, auf den Quadratzentimeter bezogene Zahlenwerte der Netto-Assimilationsrate der Rinde im direkten Vergleich zur Blattoberfläche bei genau dieser Art oder der namentlich genannte Erstentdecker dieses Mechanismus bei V. xanthophloea sind in der vorliegenden Literaturbasis jedoch nicht datiert (Status: Lücke)22. Konkurrierende Erklärungen für die gelbe Rindenfarbe (etwa reine Pilzabwehr oder Temperaturregulierung ohne Photosyntheseleistung) werden in den aktuellen pflanzenphysiologischen Beschreibungen nicht als primäre Erklärungen aufgeführt (Status: gesichert).
 4. Ökologie und Verhalten
-Balanites aegyptiaca weist eine ungewöhnlich weite ökologische Amplitude auf und ist an die harschen Bedingungen der Trockengebiete Afrikas und des Nahen Ostens adaptiert (gesichert)1.
-Lebensraum
-Die Art gedeiht in ariden bis subhumiden Klimata mit einer jährlichen Niederschlagsmenge von 250 mm bis 1200 mm und mittleren Jahrestemperaturen zwischen 20 °C und 30 °C (gesichert)4. Das Höhenspektrum reicht von Meereshöhe bis zu 2000 m (gesichert)4. Im Rift Valley Kenias wächst der Baum auf einer Vielzahl von Bodentypen, die von reinem Sand bis zu schweren Tonböden (Black Cotton Soils) reichen (gesichert)1. Die maximale Vegetationsentwicklung erreicht das Individuum jedoch auf flachen, alluvialen Schwemmböden oder in Flusstälern mit tiefgründigem, sandigem Lehm und Zugang zu unterirdischem Wasser (gesichert)4. Die Art toleriert saisonale Überflutungen, Buschfeuer und Weidetätigkeit (gesichert)1.
-Saisonales Muster im September und Oktober
-Der Zeitraum vom 24. September bis 12. Oktober markiert in Kenia klimatisch das Ende der langen Trockenzeit und den beginnenden Umschwung zur kleinen Regenzeit. Das phänologische Verhalten von Balanites aegyptiaca zu diesem spezifischen Zeitpunkt ist für das Ökosystem entscheidend: Im Gegensatz zu vielen umgebenden Arten erreicht die Wüstendattel genau auf dem Höhepunkt der Trockenzeit ihren Frucht- und Laubhöhepunkt (gesichert)4. Das bedeutet, dass sie frisches, grünes Laub und reife, saftige Früchte zu einer Zeit anbietet, in der die Nahrungs- und Wasserressourcen in der Savanne extrem limitiert sind. Dieses asaisonale Verhalten fungiert als ökologischer Ankerpunkt.
-Fortpflanzung und abhängige Arten
-Da das Sämlingsstadium stark lichtbedürftig ist, benötigt der Baum für die Naturverjüngung offene Savannen oder lichte Waldränder; im Schatten geht er zugrunde (gesichert)4. Die unscheinbaren, duftenden Blüten werden durch Insekten bestäubt (gesichert)4. Abhängigkeiten und Interaktionen mit der Fauna sind divers:
-Bestäuber und Insekten: Die Blüten produzieren reichlich Nektar, der primär von der Rossameise (Camponotus sericeus) gesammelt wird (gesichert)1. Die Raupen des afrikanischen Schmetterlings Bunaea alcinoe (Cabbage tree emperor moth) fressen das Laub und verursachen teils vollständige Entlaubungen (gesichert)1.
-Vögel und frugivore Säugetiere: Sie verzehren das Fruchtfleisch und scheiden den harten Samen aus oder würgen ihn hoch (Endochorie), was zur Ausbreitung der Pflanze führt (gesichert)4.
-Nagetiere: Die Afrikanische Grasratte (Arvicanthis niloticus) klettert während der Trockenzeit explizit auf die Bäume, um die wasserhaltigen Früchte von Balanites aegyptiaca zu erreichen (gesichert)6.
-Raubtiere/Allesfresser: Der Honigdachs (Mellivora capensis) gräbt nach den Wurzeln des Baumes und frisst die herabgefallenen Beeren (gesichert)26.
-Pflanzenfresser: Antilopen wie Heuglins Gazelle (Eudorcas tilonura) scharren in der Trockenzeit den Boden unter dem schattenspendenden Baum auf, um kühle Ruheplätze im Sand zu generieren (gesichert)27.
+Lebensraum und Standortansprüche
+Vachellia xanthophloea gedeiht in Flusswäldern (riverine forests), an Seeufern, in Sumpfgebieten und auf saisonalen Überschwemmungsflächen (Floodplains) in semi-ariden bis semi-immergrünen Buschlandschaften (Status: gesichert)4. Der entscheidende edaphische (bodenkundliche) Faktor für das Vorkommen ist das Vorhandensein eines konstant hohen Grundwasserspiegels (Status: gesichert)4.
+Auf der geographischen Route durch Kenia sind die bedeutendsten, großflächigen Vorkommen im Rift Valley dokumentiert, insbesondere an den Ufern von Lake Naivasha, Lake Nakuru und Lake Baringo (Status: gesichert)7. Das Vorkommen im an den Lake Naivasha angrenzenden Hell's Gate National Park entspricht den ökologischen Habitatsanforderungen und ist plausibel (Status: überliefert) [User Query].
+Sozialverhalten der Bäume und Populationsdynamik
+Die Art zeigt ein ausgeprägtes Bestandsverhalten: Sie tendiert dazu, dichte, geschlossene und oft reinrassige Monokulturen (single species stands) zu bilden, in denen die Individuen dasselbe Alter aufweisen (even-aged stands) (Status: gesichert)4. Analysen der Größenverteilung in den Wäldern rund um den Lake Naivasha aus dem Jahr 2010 bestätigten dieses gleichaltrige Wachstumsmuster (Status: gesichert)25. Ebenso charakteristisch wie das gemeinsame Aufwachsen ist das synchrone Absterben (synchronous senescence) ganzer Bestände. Die wissenschaftlichen Erklärungen für diese flächenhaften "Diebacks" (Waldsterben) umfassen drei Ursachen, die parallel wirken können:
+Schwankungen des Grundwasserspiegels (Wassermangel oder zu langes Ertrinken der Wurzeln).
+Natürliche, genetisch programmierte Seneszenz einer gleichaltrigen Kohorte (da die Art als kurzlebig gilt).
+Massiver mechanischer Stress und Rindenfraß durch große Herbivoren wie Elefanten. (Status: gesichert)4. Eine Rekrutierung von Jungbäumen (Recruits) findet laut Untersuchungen bevorzugt in Gebieten mit geringer Kronengeschlossenheit und trotz hohem Wildtiereinfluss statt, wird jedoch durch eine hohe elektrische Leitfähigkeit des Bodens (Versalzung) verhindert (Status: gesichert)25.
+Zusätzlich trägt die Art aktiv zur Bodengesundheit bei: Als Leguminose geht V. xanthophloea eine symbiotische Beziehung mit stickstofffixierenden Bakterien (Rhizobien) in ihren Wurzelknöllchen ein, was den atmosphärischen Stickstoff in den Boden überführt und die Fruchtbarkeit des umliegenden Ökosystems anreichert (Status: gesichert)4.
+Saisonale Muster: Der Zeitraum Ende September bis Anfang Oktober
+Der anvisierte Reisezeitraum (24.09. bis 12.10.) fällt in Kenia exakt in das Ende der langen Trockenzeit und markiert den Beginn der "kleinen Regenzeit" (Short Rains). Dieses Zeitfenster diktiert ein spezifisches ökologisches Verhalten:
+Baumverhalten: Der Baum hat monatelangem Wasserstress standgehalten und sich stark auf seine Rindenphotosynthese verlassen. Mit dem Eintreffen der ersten sporadischen Regenfälle beginnen männliche Pflanzen (insofern phänologisch synchronisiert) ihre Blütenstände zu öffnen und produzieren große Mengen an Pollen, was wiederum gezielt Insekten (wie Bienen) anlockt, für die der Baum eine essenzielle Nahrungsquelle (Bienenweide) nach der Trachtlücke der Trockenzeit darstellt (Status: abgeleitet aus Phänologieangaben zu verwandten Akazien und Klimadaten)4.
+Fraßdruck: Genau am Ende der Trockenzeit erreicht der Fraßdruck durch Herbivoren seinen Höhepunkt, da flachwurzelnde Gräser und andere Sträucher vertrocknet sind.
+Abhängige Arten (Das ökologische Nahrungsnetz)
+Die Art bildet das Zentrum eines komplexen Nahrungsnetzes. Mehrere Arten sind zur Nahrungsaufnahme, Fortpflanzung oder Habitatsnutzung von ihr abhängig (Status: gesichert).
+
+Art / Tiergruppe
+	Art der Nutzung / Abhängigkeit
+	Spezifische Zahlen / Details
+	Status
+	Quellen
+
+Netzgiraffen (Giraffa spp.)
+	Fressen intensiv Blätter, kleine Zweige und reife Schoten.
+	In der Trockenzeit machen Vachellia xanthophloea 67 % der gesamten Nahrungsaufnahme von Giraffen im Lake Nakuru National Park (LNNP) aus (gemessen: n = 1743 von 2420 Fraßbeobachtungen). Übermäßiger Fraß korreliert lokal mit dem Rückgang der Baumpopulation.
+	Gesichert
+	4
+
+Afrikanische Elefanten
+	Verzehren junge Äste, Laub und Schoten. Sie schälen die Rinde und entwurzeln mitunter ganze Bäume, was zur Bestandsregulierung beiträgt.
+	Keine absoluten Konsummengen angegeben.
+	Gesichert
+	4
+
+Südliche Grünmeerkatze (Vervet monkey)
+	Frisst Blätter und die proteinhaltigen Samenhülsen.
+	Keine absoluten Konsummengen angegeben.
+	Gesichert
+	4
+
+Senegal-Galago (Bushbaby, Galago senegalensis)
+	Ernährt sich, besonders während der extremen Trockenzeit, von dem energiereichen Baumharz (Gummi), das aus dem Stamm austritt.
+	Keine absoluten Konsummengen angegeben.
+	Gesichert
+	4
+
+Insekten (Schmetterlinge)
+	Dient als spezifische Raupenfutterpflanze.
+	Dokumentierte Arten in Kenia umfassen: Anthene kikuyu (Kikuyu ciliate blue), Anthene pitmani, Anthene definita, Azanus jesous, Cigaritis victoriae und Leptotes pirithous. Zudem fressen 30 Arten größerer Motten am Laub.
+	Gesichert
+	4
+
+Bienen
+	Nutzen die intensiv duftenden, goldgelben Blütenköpfe als Nektar- und Pollenquelle.
+	Unterstützt lokale Imkerei durch hochwertigen Honig.
+	Gesichert
+	4
+
+Pflanzen: Sarcophyte sanguinea
+	Eine fleischige, parasitische Blütenpflanze der Familie Balanophoraceae.
+	Wächst spezifisch und parasitär an den Wurzeln von V. xanthophloea.
+	Gesichert
+	28
+
+Vögel & Affen
+	Nutzen die offenen Kronen und bewehrt geschützten Astgabeln als bevorzugte Brut-, Nist- und Ruheplätze.
+	Weibliche Giraffen ruhen zu 56% unter dem Blätterdach, männliche zu 44%.
+	Gesichert
+	4
 5. Menschen und Kultur in Kenia
-Die Nutzungsdimensionen der Wüstendattel durch den Menschen sind tief in den traditionellen Gesellschaften Kenias verwurzelt.
-Nahrung (Famine Food)
-Die Frucht ist essbar, jedoch stark bitter. Sie wird vor allem in ariden Regionen als sogenanntes Hungernahrungsmittel ("famine food") geschätzt, da der Baum auch in schweren Dürren fruchtet (gesichert)1. Die jungen Blätter und Triebe werden gekocht oder zerstoßen, in Fett angebraten und als Gemüse konsumiert (gesichert)4. Der ölhaltige Samen wird intensiv abgekocht, um die toxischen und bitteren Saponine auszuwaschen, und anschließend als Brei mit Sorghumhirse vermischt (gesichert)1.
-Medizin und Pharmakologie
-In Ostafrika und spezifisch in Kenia nutzen Gemeinschaften wie die Kikuyu, Kamba und Borana die Pflanze vielseitig:
-Ein Wurzeldekokt wird traditionell als Brechmittel (Emetikum) verwendet (gesichert)4.
-In Suppen aufgekochte Wurzeln werden gegen Ödeme und Magenschmerzen eingenommen (gesichert)4.
-Rindeninfusionen dienen der Behandlung von Sodbrennen und teilweise Malaria (gesichert)4.
-Das Holzharz wird, vermischt mit Maismehlbrei, zur Linderung von Schmerzen im Brustkorb appliziert (gesichert)4.
-In modernen In-vitro-Studien zeigten wässrige und ethanolische Extrakte aus der Rinde signifikante antioxidative Eigenschaften (DPPH-Radikalfängereigenschaften von 67,39 % bei 250 µg/ml) und werden auf ihr Potenzial zur Behandlung der benignen Prostatahyperplasie (BPH) untersucht, da sie eine bis zu 166,7%ige Relaxation der Prostata-Glatttmuskulatur bei Laborratten bewirkten (gesichert)28.
-Material und Handel
-Das Holz der Wüstendattel ist blassgelb, hart und langlebig (gesichert)4. Trotz des oft kurzen und gefurchten Stammes, der die industrielle Verarbeitung in Sägewerken erschwert, lässt sich das Holz lokal sehr gut hobeln und drechseln. Es wird für Werkzeuggriffe, landwirtschaftliche Joche, Mörser, Stößel, Hocker und Kämme verwendet (gesichert)4. Es produziert ein extrem hochwertiges Brennholz (Brennwert 4600 kcal/kg), das bei der Verbrennung nahezu rauchfrei bleibt, was es für Feuerstellen im Inneren von Hütten prädestiniert (gesichert)3. Die harte Samenschale wird auf ihr Potenzial zur Herstellung von industrieller Aktivkohle untersucht (vermutet)4.
-Rolle in Mythos und Kultur
-Die leeren Samenkerne werden im Sudan und in Ostafrika zu Halsketten, Gebetsketten (Rosaries) verarbeitet oder als Spielsteine für das traditionelle Brettspiel 'Warri' genutzt (gesichert)3. In einem breiteren historischen und religionsgeschichtlichen Kontext wird Balanites aegyptiaca oft als Quelle für das legendäre „Zachum-Öl“ identifiziert und mit dem in der Bibel erwähnten „Balsam von Gilead“ in Verbindung gebracht (überliefert)30. In Ägypten ist die rituelle Nutzung des Baumes durch archäologische Funde von Fruchtsteinen als Votivgaben in den Gräbern der 12. Dynastie (vor mehr als 4000 Jahren) belegt (gesichert)1.
-Schutzstatus und Bestand
-Auf der globalen Roten Liste der IUCN wird Balanites aegyptiaca in der Kategorie "Least Concern" (Nicht gefährdet) geführt (gesichert)32. Konkrete Bestandszahlen für Kenia, versehen mit einer Jahresangabe, lassen sich aus den vorliegenden Daten nicht rekonstruieren. Konflikte mit Menschen sind minimal; die Art wird im Gegenteil aktiv gemanagt, in Agroforstsysteme integriert und aufgrund ihrer massiven Dornen als lebender Schutzzaun (Kraal) für Viehhürden angepflanzt (gesichert)3.
+Die Interaktion zwischen Vachellia xanthophloea und dem Menschen ist vielschichtig und umfasst historische Missverständnisse, breite wirtschaftliche Nutzung und tiefe Verankerung in der traditionellen Medizin.
+Nutzung als Material, Medizin und Nahrung
+Holz, Konstruktion und Energie: Das Holz wird umfangreich in Ost- und Südafrika als Bauholz, für Zaunpfähle und als Feuerholz genutzt (Status: gesichert)28. Die Herstellung von Holzkohle aus dem Baum ist wirtschaftlich relevant, birgt jedoch gesundheitliche Risiken durch Emissionen. Analysen der Holzkohle aus V. xanthophloea bei unterschiedlichen Pyrolyse-Methoden ergaben hohe Konzentrationen polyzyklischer aromatischer Kohlenwasserstoffe, konkret: Naphthalin (140,42 µg/g), Fluoren (97,35 µg/g) und Pyren (71,82 µg/g) (Status: gesichert)31. Traditionell hergestellte Holzkohle überschreitet dabei oft die akzeptierten Grenzwerte von 0,1–0,2 mg/m³ (Status: gesichert)31.
+Bio-Tannine (Gerbstoffe): Die Rinde enthält hohe Konzentrationen an pflanzlichen Tanninen, die kommerziell und traditionell zur umweltfreundlichen Ledergerbung (als Alternative zu Chromgerbstoffen) verwendet werden (Status: gesichert)19.
+Körperpflege: In Kenia werden Äste, Stämme und Zweige der Art zerschnitten und von der lokalen Bevölkerung traditionell als sogenannte "chewing sticks" (Zahnbürsten) zur Zahnreinigung und Kariesprävention verwendet (Status: gesichert)28.
+Phytomedizin: Die medizinische Bedeutung ist enorm. Die Art wird in vier Ländern, was 36,4 % der Länder ihres natürlichen Verbreitungsgebiets entspricht, traditionell medizinisch genutzt (Status: gesichert)28. Phytochemische Screenings belegen das Vorhandensein komplexer sekundärer Pflanzenstoffe: Alkaloide, Flavonoide, Tannine, Saponine, Glykoside, Benzolderivate und Terpenoide (Status: gesichert)28. Die Rinde wird von traditionellen Heilern der Kikuyu und anderen Gemeinschaften, oft in Form von wässrigen Abkochungen (Decoctions), gegen Malaria, Pharyngitis, Mundgeschwüre und als Paste zur Linderung von Kopfschmerzen eingesetzt (Status: gesichert)32. Laborstudien an Extrakten ergaben eine hohe antioxidative Kapazität (ORAC-Werte zwischen 2,52 und 11,88 µM Trolox-Äquivalent/g Extrakt; Gesamtphenole 8,96 bis 32,96 mg Gallussäure-Äquivalent/g) sowie eine Hemmung der Zytokin-Freisetzung (IC50-Werte zwischen 0,19 µg/mL und 20 µg/mL) (Status: gesichert)34.
+Nahrung (Mensch und Nutztier): Das austretende Harz (Gummi) wird vom Menschen gegessen. Die Blätter und Schoten weisen hohe Rohprotein-, Faser- und Makromineralienwerte (Calcium, Phosphor) auf und dienen als exzellentes Futtermittel (Fodder) für Weidevieh und Geflügel in Dürreperioden (Status: gesichert)4.
+Rolle in Mythos und Kultur: Die Fieberbaum-Legende
+Die kulturell prägendste Anekdote betrifft den Mythos der Namensgebung (Status: überliefert)4. Frühe europäische Siedler und Pioniere, die im 19. und frühen 20. Jahrhundert durch Ost- und Südafrika reisten, stellten eine fatale Korrelation fest: Personen, die ihre Lager in der Nähe von Beständen dieser markant gelb leuchtenden Bäume aufschlugen, erkrankten kurz darauf schwer an Malaria (Fieber). Aufgrund der unheimlichen, kränklichen Rindenfarbe gaben die Kolonisten dem Baum die Schuld an der Krankheit, in der Annahme, die Ausdünstungen des Baumes seien toxisch. Die ökologische Realität wurde erst später wissenschaftlich geklärt: Der Baum verursacht kein Fieber, sondern wächst zwingend an Orten mit hohem Grundwasserspiegel, in Sumpfgebieten und Flussauen. Diese stehenden Gewässer sind gleichzeitig die idealen Brutstätten für Anopheles-Mücken, die Vektoren für den Malaria-Parasiten. Die Menschen wurden von Mücken gestochen, machten aber den Baum dafür verantwortlich (Status: gesichert)4.
+(Anmerkung zu Ritualen: Spezifische historische Beschwörungsrituale, Tänze oder isolierte Sprichwörter, die sich ausschließlich auf den Fieberbaum beziehen, sind in der recherchierten Literatur nicht belegt - Status: Lücke).
+Schutzstatus und Bestände
+Die Art ist nicht vom Aussterben bedroht. Sie wird auf der Roten Liste der IUCN (Version 3.1) in der Kategorie "Least Concern" (Nicht gefährdet) geführt (Status: gesichert)4. Die Weltnaturschutzunion (IUCN) und Plattformen wie die Global Biodiversity Information Facility (GBIF) bestätigen ein stabiles und weites Verbreitungsgebiet (Status: gesichert)36. Spezifische, auf das Jahr datierte, absolute Bestandszahlen (z. B. "es existieren 2 Millionen Bäume im Jahr 2026") gibt es für diese Baumart nicht, da sie in freier Wildbahn auf dem halben Kontinent kontinuierlich reproduziert und zudem von Naturschützern gezielt in semi-ariden Zonen (oft als Setzlinge in Baumschulen vorgezogen) gepflanzt wird, um Degradation aufzuhalten (Status: gesichert)4.
 6. Wissenschaftsgeschichte
-Die Taxonomie und Erforschung der Wüstendattel ist durch eine lange chronologische Reihe prominenter Akteure gekennzeichnet.
-1592: Der venezianische Arzt und Botaniker Prospero Alpini (Alpinus) publizierte die erste wissenschaftliche europäische Beschreibung und Illustration des Baumes unter dem Namen 'agihalid' (gesichert)1.
-1753: Der schwedische Systematiker Carl von Linné bearbeitete Material aus Ägypten und reihte die Spezies in der Erstausgabe seiner Species Plantarum als Ximenia aegyptiaca ein (gesichert)1.
-Spätes 18. Jahrhundert: Der französische Botaniker Michel Adanson transferierte die Pflanze temporär in eine eigene Gattung Agialid (gesichert)1. Ein Schüler Linnés, Pehr (Peter) Forsskål, verzeichnete in dieser Zeit ebenfalls Öle der Pflanze im Rahmen seiner historischen Forschungen (gesichert)30.
-1813: Der französische Botaniker Alire Raffeneau-Delile, der als Wissenschaftler an Napoleon Bonapartes Ägypten-Expedition teilnahm, lieferte im Werk Description de l'Égypte die endgültige Neukombination als Balanites aegyptiaca, wodurch die eigenständige Gattung Balanites begründet wurde (gesichert)1.
-1933: In der Tropenmedizin publizierte R.G. Archibald im Sudan eine bahnbrechende Studie, in der er die traditionelle Nutzung der Früchte als Fischgift untersuchte und erstmals wissenschaftlich belegte, dass der Baum zur Bekämpfung der Schistosomiasis eingesetzt werden kann (gesichert)22.
-2001: Der Botaniker Martin Sands veröffentlichte eine umfassende taxonomische Revision der Gattung Balanites, die die starken morphologischen Variationen (Polymorphismen) von Balanites aegyptiaca in Blattform und Dornenlänge klärte und die Einteilung in Unterarten standardisierte (gesichert)2.
+Die botanische Forschungsgeschichte der Art ist eng mit einer der emotionalsten taxonomischen Kontroversen der modernen Botanik verwoben.
+1842 (Die Erstbeschreibung): Der Baum wurde erstmals offiziell von dem britischen Botaniker George Bentham im Jahr 1842 in der wissenschaftlichen Fachpublikation London Journal of Botany (Vol. 1, S. 511) beschrieben. Bentham ordnete die Art der weit gefassten Gattung Acacia zu und gab ihr den Namen Acacia xanthophloea (Status: gesichert)1.
+2005 (Die große Akazien-Kontroverse / Taxonomic Imperialism): Über Jahrhunderte umfasste die Gattung Acacia weltweit über 1.300 Arten, wovon fast 1.000 in Australien heimisch waren und der Rest in Afrika und den Amerikas. Im Juli 2005 fand in Wien der XVII. Internationale Botanische Kongress (IBC) statt. Gemäß dem Internationalen Code der Botanischen Nomenklatur (ICBN) wurde dort der formale nomenklatorische Typus der Gattung Acacia von der ursprünglichen afrikanischen Art (Acacia nilotica) auf eine australische Art (Acacia penninervis) umgewandelt (retypifiziert) (Status: gesichert)2.
+Die Konsequenz (ab 2005): Durch diesen Beschluss durften die australischen Pflanzen den weltweit bekannten Gattungsnamen Acacia behalten. Die afrikanischen Akazien, darunter auch der ikonische Fieberbaum, mussten umbenannt und in neue Gattungen (Vachellia und Senegalia) ausgelagert werden. In Südafrika und Australien führte dies zu einem öffentlichen Aufschrei. Akademiker warfen dem Kongress "Taxonomic imperialism" (taxonomischen Imperialismus) vor, da Afrika sein botanisches Erbe an Australien "verloren" habe (Status: gesichert)2.
+2008 (Die Neukombination): Basierend auf dieser systematischen Neuausrichtung publizierten die Botaniker Enrico Banfi und Gabriele Galasso im Jahr 2008 in den Atti Soc. Ital. Sci. Nat. Mus. Civico Storia Nat. Milano (149: 150) formell die heute gültige Neukombination Vachellia xanthophloea (Benth.) Banfi & Galasso (Status: gesichert)1. In Südafrika publizierte der Forscher P.J.H. Hurter eine parallele Kombination, die jedoch in der Kew-Datenbank hinter Banfi & Galasso zurücksteht (Status: gesichert, Widerspruch benannt)2.
 7. Fotografie
-Für die fotografische Felddokumentation der Wüstendattel auf der geplanten Route im Rift Valley (Lake Naivasha, Lake Nakuru, Lake Baringo und Hell's Gate National Park) gelten spezifische biophysikalische und technische Parameter.
-Die Bäume wachsen meist als solitäre Landschaftselemente auf den alluvialen Ebenen in Seenähe oder stehen vereinzelt an den Rändern der Abbruchkanten (gesichert)4. Da die tief gefurchte graue Rinde in der grellen äquatorialen Mittagssonne harte, unstrukturierte Schatten wirft und die Krone lichtdurchlässig ist, sind die Tageszeiten unmittelbar in den ersten zwei Stunden nach Sonnenaufgang und vor Sonnenuntergang am vielversprechendsten (vermutet).
-Ende September und Anfang Oktober trägt der Baum reife, gelbe Früchte, weshalb Ansitzfotografie an diesem Baum eine hohe Ereignisdichte verspricht (gesichert)4. Zu erwartendes Verhalten umfasst den Anflug fruchtfressender Vögel, das Klettern von Grasratten im Geäst und das Suchen von Ruheplätzen durch Gazellen im Schatten (gesichert)6.
-Objektiveinsatz und Verschlusszeiten:
-150 bis 600 mm Teleobjektiv: Ideal, um Vögel in der eher lichten Krone oder sich am Boden nähernde Raubtiere (wie den Honigdachs) bei großer Fluchtdistanz freizustellen. Um kleine Singvögel im An- und Abflug zwischen den scharfen Dornen einzufrieren, sind kurze Verschlusszeiten im Bereich von 1/1250 s bis 1/2000 s zwingend erforderlich (vermutet).
-100 bis 400 mm Teleobjektiv: Geeignet für ruhende Gazellen unter dem Baum. Bei minimaler Bewegung genügen Verschlusszeiten um 1/250 s bis 1/500 s (vermutet).
-45 mm Objektiv: Vorgesehen für Detailaufnahmen der 8 mm bis 14 mm kleinen, sternförmigen Blüten und der korkartigen Rinde. Ein Stativ ist für die nötige Schärfentiefe ratsam; Verschlusszeiten können hier bei 1/100 s liegen, sofern kein Wind die Blätter bewegt (vermutet).
-26 bis 60 mm Standard/Weitwinkel: Für Habitataufnahmen im Rift Valley. Ein typischer Kompositionsfehler in der Savanne ist es, den nur 10 Meter hohen, aber stämmigen Baum ohne Maßstab (z. B. ein Tier, ein Termitenhügel) abzulichten, wodurch er auf dem Foto wie ein kleiner Busch wirkt (vermutet).
+Die fotografische Dokumentation von Vachellia xanthophloea in freier Wildbahn erfordert die Berücksichtigung von Lichtverhältnissen, Tierverhalten und der richtigen Ausrüstung.
+Standorte und Tageszeit
+Auf der geplanten Route (Rift Valley) bieten die Uferzonen des Lake Naivasha, Lake Nakuru und Lake Baringo die höchste Dichte an ausgewachsenen, formschönen Fieberbäumen (Status: gesichert)7. Die ideale Tageszeit für die Fotografie der Bäume ist der frühe Morgen (nach Sonnenaufgang) oder der späte Nachmittag (Golden Hour). In diesem direkten, schräg einfallenden Sonnenlicht wirkt die glatte, schwefelgelbe Rinde optisch stark gesättigt und wird als "nahezu leuchtend" (almost luminous) beschrieben (Status: gesichert)7.
+Verhalten und Fluchtdistanz
+Der Baum selbst erfordert kein Warten, wohl aber die Tierwelt, die in Symbiose mit ihm lebt.
+Giraffen: Im Oktober (Ende der Trockenzeit) verbringen Giraffen einen Großteil des Tages damit, die Blätter und Schoten der Bäume abzuweiden (Status: gesichert)9. In stark besuchten Parks wie Nakuru sind Netzgiraffen habituiert und tolerieren Fahrzeuge (Fluchtdistanz) bis auf 15 bis 20 Meter, solange der Motor abgestellt ist und keine schnellen Bewegungen erfolgen (Status: vermutet / aus fotografischen Richtwerten abgeleitet).
+Grünmeerkatzen (Vervet monkeys): Sie klettern in den Kronen und fressen Schoten. Ihre Fluchtdistanz beträgt oft 20 bis 30 Meter, wenn sie wild sind (Status: vermutet).
+Buschbabys (Galagos): Nur bei Dämmerung oder nachts aktiv; sie lecken Harz an den Stämmen. Für diese Aufnahmen ist ein starkes Teleobjektiv und eine hohe ISO-Toleranz nötig (Status: gesichert)4.
+Typische Fehler und Belastungswerte (Shutter Speeds)
+Ein typischer Fehler in der Landschaftsfotografie ist das Fotografieren der Bäume bei zenitaler Mittagssonne oder starkem Gegenlicht. Die hellgelbe, fast weiße Rinde neigt stark dazu, in den Highlights auszubrennen (Überbelichtung); das intensive Gelb wirkt auf dem Sensor dann blassgrau.
+Richtwerte für Verschlusszeiten (bezogen auf die Ausrüstung):
+Landschaftsaufnahmen (Baum, Habitus, Rindenstruktur):
+Objektive: 26 bis 60 mm und 45 mm.
+Verschlusszeit: 1/100 s bis 1/250 s aus der Hand. Eine moderate Blende (z. B. f/8) sichert die Tiefenschärfe für den Wald, während die Belichtungszeit Bewegungsunschärfe des Fotografen ausgleicht.
+Tierverhalten (Fressende Giraffe):
+Objektive: 100 bis 400 mm.
+Verschlusszeit: Mindestens 1/500 s. Obwohl die Giraffe statisch wirkt, sind die Zungen- und Kopfbewegungen beim Abzupfen der Blätter zwischen den Dornen ruckartig.
+Aktion (Kletternde und springende Affen):
+Objektive: 150 bis 600 mm (am langen Ende).
+Verschlusszeit: Für einfache Fortbewegung im Geäst mindestens 1/1000 s. Springt eine Meerkatze zwischen den Ästen (schneller Ortswechsel), sind 1/2000 s erforderlich, um die Bewegung am 600-mm-Ende verlässlich einzufrieren (Status: etablierte Richtwerte der Naturfotografie).
 8. Links zum Weiterlesen und Sehen
-Fachliche Quellen:
-https://prota.prota4u.org/protav8.asp?g=pe&p=Balanites%20aegyptiaca – Die Datenbank Plant Resources of Tropical Africa (PROTA) liefert einen exzellenten agrarwissenschaftlichen und ethno-botanischen Überblick.
-https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:813589-1 – Plants of the World Online der Royal Botanic Gardens (Kew) bietet gesicherte taxonomische Daten und globale Verbreitungsgebiete.
-https://apps.worldagroforestry.org/treedb/AFTPDFS/Balanites_aegyptiaca.PDF – Ein extrem dichtes, wissenschaftliches PDF-Profil des World Agroforestry Centre (ICRAF) mit detaillierten biophysikalischen und forstwirtschaftlichen Eckdaten.
-Fotos und Verbreitungskarte:
-https://www.inaturalist.org/taxa/342713-Balanites-aegyptiaca – Die Citizen-Science-Plattform iNaturalist enthält hunderte georeferenzierte Feldfotos von Rinde, Dornen, Frucht und Blättern in situ.
-https://www.gbif.org/species/5421115 – Die Global Biodiversity Information Facility (GBIF) zeigt die exakte geografische Streuung von Herbarium-Belegen auf einer interaktiven Weltkarte.
-(Hinweis: Für diese Art waren im Rohmaterial keine funktionierenden Links zu Vogelruf-Datenbanken (xeno-canto, Macaulay Library) enthalten, was bei einer Pflanze konsistent ist. Ein direkter URL-Link zur IUCN Red List wurde im Rohmaterial nicht aufgeführt, jedoch war die Gefährdungskategorie textlich belegt.)
+Fachliche Quelle (Kew POWO):Das taxonomische Referenzwerk "Plants of the World Online" (Kew Gardens) bietet alle gesicherten Synonyme, Publikationsdaten und die interaktive Verbreitungsliste der Art.https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77087191-1[cite: 5, 40]
+Fachliche Quelle (IUCN Red List):Die Rote Liste der Weltnaturschutzunion listet den Erhaltungsstatus (Least Concern) und liefert Kontext zur globalen Nicht-Gefährdung der Spezies.https://apiv3.iucnredlist.org/api/v3/taxonredirect/147140093[cite: 40]
+Verbreitungskarte (GBIF):Die "Global Biodiversity Information Facility" liefert Tausende verortete wissenschaftliche Beobachtungen und Herbarbelege als interaktive Weltkarte.https://www.gbif.org/species/7403310[cite: 37]
+Fotos (Wikimedia Commons):Die zentrale Datenbank für frei lizenzierte Fotografien bietet Referenzaufnahmen von Rinde, Dornen, Blättern und Habitaten in diversen Auflösungen. (Hinweis: Die angegebene Kategorie dient als Hauptverzeichnis).https://commons.wikimedia.org/wiki/Category:Vachellia_xanthophloea[cite: 41]
+(Hinweis zu Tonaufnahmen: Da der Fokus dieses Rohmaterials auf einem Baum liegt, existieren keine artspezifischen Tonaufnahmen in Bibliotheken wie xeno-canto oder Macaulay Library, die exklusiv für Tier- und Vogelstimmen ausgelegt sind).
 9. Visuelle Beschreibung für eine Illustration
-Balanites aegyptiaca forms a deeply rooted, rounded tree reaching up to 10 meters, characterized by a somewhat open, tangly crown that permits light to filter through. The short, fluted trunk branches low to the earth and is armored in deeply fissured, greyish-brown bark that scales away in rugged patches to reveal smooth, yellow-green layers underneath. The branches zig-zag erratically and are fiercely guarded by straight, rigid, green to yellow spines up to eight centimeters long, which protrude in a spiral formation. Springing directly from the bases of these formidable spines are small, dark green, leathery leaves comprised of two asymmetrical leaflets.
-Frucht: A cross-section of the date-like drupe, displaying the brittle, pale brown outer rind, the sticky, greenish-brown mesocarp, and the exceptionally hard, fibrous, light brown stone filling the center.
-Samenkapsel/Blüte: A tight, dense cluster of small, star-shaped, five-petaled greenish-yellow flowers blooming directly from a node where a massive green spine meets the branch.
-Rindenstruktur: A detailed macro rendering of the heavily ridged, corky bark, focusing on the deep vertical fissures and the contrasting smooth yellow-green patches where old scales have fallen off.
-Kulturelle Vignette: A heavily worn, traditionally carved wooden mortar and pestle, fashioned from the pale yellow, highly durable wood of the tree, resting on cracked earth beside a small pile of harvested yellow fruits.
-10. Was du nicht belegen konntest
-Die folgenden, im Briefing explizit angefragten Informationen ließen sich aus dem zur Verfügung stehenden Quellenmaterial nicht durch belastbare Fakten belegen:
-Name bei den Samburu: In den Datenquellen war der Name in der Sprache der Samburu nicht aufgeführt.
-Name bei den Giriama: Eine Quelle (Snippet 19) deutete an, dass der Name der Pflanze bei den Giriama auf deren "Verzweigungsmuster" ("branching habit") zurückgeht. Das genaue Wort in der Sprache der Giriama wurde jedoch in den zur Verfügung gestellten Zeilen abgeschnitten und fehlt.
-Populationsdaten: Konkrete absolute Bestandszahlen (Zählung der Individuen) für Kenia, versehen mit einer Jahresangabe, waren im Quellenmaterial nicht vorhanden.
-Fotografische Konstanten: Wissenschaftlich validierte Fluchtdistanzen von Tieren spezifisch im Kontext dieser Baumart sowie exakte, empirisch gemessene Verschlusszeiten waren nicht belegt. Die in Abschnitt 7 getroffenen Angaben sind aus dem ökologischen Szenario und fotografischen Grundregeln abgeleitet ("vermutet").
-Direkter Link zur Roten Liste: Obwohl der Schutzstatus (Least Concern) der IUCN in den Texten referenziert wird, wurde keine konkrete, überprüfbare URL auf die Datenbank iucnredlist.org für genau diese Art geliefert, weshalb sie in der Linkliste unter Punkt 8 ausgespart bleiben musste.
+The Vachellia xanthophloea stands as a prominent, 15 to 25-meter tall tree characterized by a moderately open, spreading, and slightly rounded canopy composed of delicate, feathery, bipinnate green foliage. The most arresting feature is the smooth, powdery texture of its trunk and main branches, which radiate a bright, almost luminous greenish-yellow hue that stands in stark contrast to the surrounding African bushland. Emerging directly from the nodes of the purplish younger twigs are formidable armaments: stark white, perfectly straight, needle-like thorns that grow in distinctive V-shaped pairs and can reach up to 7.5 centimeters in length.
+Detail Suggestions:
+A close-up study of the powdery, greenish-yellow bark surface, capturing a slight papery peel and a small fissure exuding a viscous bead of reddish gum.
+A botanical detail of the straight, flat, papery pale-brown seed pod (measuring up to 15 cm), its surface slightly undulating over the 5 to 10 elliptical seeds hidden within.
+A macro view of a young branch node, illustrating the contrast between the paired white, straight thorns, the tiny green bipinnate leaflets, and a spherical, bright golden-yellow flower head sitting on its short peduncle.
+Cultural Vignette:
+A traditional Kenyan chewing stick (toothbrush)—a small, freshly cut twig from the fever tree, neatly frayed at one end to expose the fibrous wood—resting beside a rough, hand-carved wooden bowl containing a small mound of dark, granular bio-tannin extract used for leather curing.
+10. Was nicht belegt werden konnte
+Bei der Auswertung der vorliegenden, umfangreichen Literaturquellen konnten folgende in der Anfrage geforderte Parameter nicht mit belastbaren Fakten verifiziert werden:
+Gewicht des Baumes: Für das absolute Gewicht von Einzelbäumen (in Tonnen oder Kilogramm) existieren keine artspezifischen Messdaten.
+Alltagsvergleich (Baumhöhe/Türhöhe etc.): In den wissenschaftlichen Texten fand sich kein direkter Alltagsvergleich für die 15 bis 25 Meter Wuchshöhe, der sich mathematisch unverfälscht zitieren ließe. (Lediglich die Samengröße ließ sich mit Annattosamen oder Schrotkugeln vergleichen).
+Lokalname der Giriama: Ein spezifischer Trivialname für diese Pflanzenart in der Sprache der Giriama wird in keiner der botanischen oder kulturellen Datenbanken gelistet.
+Bedeutung der Lokalnamen: Die wörtliche Etymologie der meisten ostafrikanischen Lokalnamen (wie Olerai, Murera, Kimweya) ist in den Quellen nicht aufgeschlüsselt.
+Konkreter Forscher des Mechanismus: Es konnte kein konkreter Wissenschaftler mit Publikationsjahr benannt werden, der als "Erstentdecker" der Rindenphotosynthese speziell für Vachellia xanthophloea gilt. Die Eigenschaft wird in aktuellen Papern als allgemein bekannter botanischer Fakt referenziert.
+Spezifischer Mythos / Sprichwörter: Abgesehen von der sehr dominanten Fieber-Legende der Kolonisten lieferte die Literatur keine indigenen afrikanischen Märchen, Sprichwörter oder tief religiösen Beschwörungsrituale, in denen explizit Vachellia xanthophloea (und nicht einfach "Akazien" im Allgemeinen) das isolierte Zentrum bildet.
+Tagesrhythmus (Pflanzenphysiologie): Spezifische, minutengenaue Öffnungs- und Schließzeiten von Stomata in der Rinde oder exakte zyklische Saftdruckschwankungen im Tagesverlauf (Sap flow) fehlen in den untersuchten ökologischen Berichten.
+Absolute Bestandszahlen (mit Jahr): Die IUCN und GBIF geben keine absoluten Baum-Individuenzahlen für das Jahr 2026 oder davor an, da die Art als "Least Concern" gilt und in ganz Ost- und Südafrika millionenfach flächendeckend (und als Pflanzgut) vorkommt.
 Works cited
-Overview of Balanites aegyptiaca | PDF | Plants - Scribd, https://www.scribd.com/document/390829270/Balanites-aegyptiaca-Wikipedia-pdf
-The Desert Date and Its Relatives: A Revision of the Genus Balanites, https://www.researchgate.net/publication/271960459_The_Desert_Date_and_Its_Relatives_A_Revision_of_the_Genus_Balanites
-Balanites aegyptiaca - Alchetron, The Free Social Encyclopedia, https://alchetron.com/Balanites-aegyptiaca
-Balanites aegyptiaca Balanitaceae (L.) Del., https://apps.worldagroforestry.org/treedb/AFTPDFS/Balanites_aegyptiaca.PDF
-Felix-Marie Abel and his Vision of Nature in Palestine, https://vilnay.kinneret.ac.il/wp-content/uploads/2022/01/felixmarie-abel-and-his-vision-of-nature-in-palestine-.pdf
-Nilratte - Fakten, Ernährung, Lebensraum & Bilder auf Animalia.bio, https://animalia.bio/de/african-grass-rat
-Balanites aegyptiaca - NMPPDB, https://nmppdb.com.ng/species-details?specy=%20balanites-aegyptiaca
-Balanites aegyptiaca (L.) Del. - UAE Flora, https://www.uaeflora.ae/plant/363
-Some Medicinal Trees and Shrubs of Eastern Africa E | PDF - Scribd, https://www.scribd.com/document/985209599/Some-Medicinal-Trees-and-Shrubs-of-Eastern-Africa-E
-Home"" """"> ar.cn.de.en.es.fr.id.it.ph.po.ru.sw - Your.Org, http://ftpmirror.your.org/pub/misc/cd3wd/1005/_ag_tradit_food_plants_kenya_2_en_lp_117270_.pdf
-Medicinal Plants Used in the Management of Sexual Dysfunction, https://pmc.ncbi.nlm.nih.gov/articles/PMC10439835/
-view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_5.HTM
-view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_7.HTM
-Balanites aegyptiaca (simple-thorned torchwood) | CABI Compendium, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.8311
-A review on Balanites aegyptiaca Del (desert date) - ResearchGate, https://www.researchgate.net/publication/51808397_A_review_on_Balanites_aegyptiaca_Del_desert_date_Phytochemical_constituents_traditional_uses_and_pharmacological_activity
-A review on Balanites aegyptiaca Del (desert date) - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC3210005/
-Flora of tropical East Africa - Balanitaceae (2003) [1, https://dokumen.pub/flora-of-tropical-east-africa-balanitaceae-2003-1nbsped-9058094138-9789058094131.html
-Wonder Plant Balanites aegyptica (L.) - RJPN, https://rjpn.org/jetnr/papers/JETNR2603139.pdf
-(PDF) Gas Chromotography Mass Spectrometric Analysis and, https://www.academia.edu/35936962/Gas_Chromotography_Mass_Spectrometric_Analysis_and_Molluscicidal_Effect_of_Crude_Saponin_from_Balanites_aegyptiaca_L_Del
-Balanitin-6 and -7: Diosgenyl saponins isolated from Balanites, https://www.spandidos-publications.com/10.3892/ijo.32.1.5/download
-H - Columbia University, http://www.columbia.edu/cu/chemistry/groups/nakanishi/publication/310-The%20Structures%20of%20Balanitins,%20Potent%20Molluscicides%20Isolated%20from%20Balanites%20aegyptiaca.pdf
-Botanical Products in the Treatment and Control of Schistosomiasis, https://pmc.ncbi.nlm.nih.gov/articles/PMC7464741/
-Molluscicidal activity of Balanites aegyptiaca against Monacha, https://www.researchgate.net/publication/230664630_Molluscicidal_activity_of_Balanites_aegyptiaca_against_Monacha_cartusiana
-Balanites aegyptiaca (L.) Delile - Ethnobotanika |, https://ethnobotanika.org/wp-content/uploads/2021/05/Monographie-Balanites-aegyptiaca-Lise-Bessot-2008.pdf
-Fwd: Zygophyllaceae: Balanites aegyptiacus Delile - Google Groups, https://groups.google.com/g/indiantreepix/c/SxBlGULoMtY
-Feeding Specialization of Honey Badgers in the Sahara Desert - MDPI, https://www.mdpi.com/1424-2818/12/2/59
-Heuglin's gazelle - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/heuglins-gazelle?taxonomy=58
-Phytochemical Analysis and Evaluation of in vitro Antioxidant ... - RJPT, https://rjptonline.org/AbstractView.aspx?PID=2023-16-9-48
-Reclination Effects of Serial Extracts from Balanites Aegyptiaca on, https://www.researchgate.net/publication/411167018_Reclination_Effects_of_Serial_Extracts_from_Balanites_Aegyptiaca_on_Isolated_Rat's_Prostate_a_Potential_Anti-Benign_Prostatic_Hyperplasia
-The Queen of Sheba's Gift: A History of the True Balsam of Matarea, https://dokumen.pub/the-queen-of-shebas-gift-a-history-of-the-true-balsam-of-matarea-9780748668502.html
-Justice they act like the modern moisture holding pellets in the soil, https://www.facebook.com/groups/401487400057845/posts/1447489808790927/
-Balanites aegyptiaca (L.) Delile, Desert Date (East Tropical Africa, https://identify.plantnet.org/k-east-tropical-africa/species/Balanites%20aegyptiaca%20(L.)%20Delile/data
-Balanites aegyptiaca (L.) Delile (Macaronesia) - Pl@ntNet identify, https://identify.plantnet.org/oc/k-macaronesia/species/Balanites%20aegyptiaca%20(L.)%20Delile/data
-Saponins 0521329701, 9780521329705 - DOKUMEN.PUB, https://dokumen.pub/saponins-0521329701-9780521329705.html
+Full text of "CRC World Dictionary Of Medicinal And Poisonous Plants", https://archive.org/stream/crc-world-dictionary-of-medicinal-and-poisonous-plants/CRC%20World%20Dictionary%20of%20Medicinal%20and%20Poisonous%20Plants_djvu.txt
+(PDF) Taxonomic imperialism in the battles forAcacia: Identity and, https://www.researchgate.net/publication/250889375_Taxonomic_imperialism_in_the_battles_forAcacia_Identity_and_science_in_South_Africa_and_Australia
+Vachellia - eFlora of India, https://efloraofindia.com/article-categories/vachellia/
+Vachellia xanthophloea - Wikipedia, https://en.wikipedia.org/wiki/Vachellia_xanthophloea
+https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77087191-1
+Senegalia cinerea - Tree SA, https://treesa.org/senegalia-cinerea/
+Yellow Fever Tree (Vachellia xanthophloea) - Beyondforest, https://www.beyondforest.org/post/yellow-fever-tree-vachellia-xanthophloea
+The controversy over the retypification of Acacia Mill. with an, https://www.researchgate.net/publication/233705708_The_controversy_over_the_retypification_of_Acacia_Mill_with_an_Australian_type_A_pragmatic_view
+Acacia Trees in Africa: Facts, Species and Adaptations - Tourwithpipi, https://tourwithpipi.com/acacia-trees/
+African Plants: Biodiversity Taxonomy And Uses [PDF] - Vdoc.pub, https://vdoc.pub/documents/african-plants-biodiversity-taxonomy-and-uses-3dmc903nono0
+Kenya | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/kenya
+List of Acacia Species In Kenya - Beyondforest, https://www.beyondforest.org/post/list-of-accacia-species-in-kenya
+African Acacias - Tree Safari, https://www.treesafari.com/what-kind-of-trees-grow-near-you/dry-bushland/african-acacias
+Muhugu(Brachylaena huillensis), and their main focus is to restore, https://www.facebook.com/groups/indigenoustreesofkenya/posts/2842748876029196/
+Kenya | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/kenya?title=&field_ecological_services_k_value=All&field_niche_k_value=All&field_origin_k_value=Native&term_node_tid_depth=All&term_node_tid_depth_1=All&term_node_tid_depth_3=All&term_node_tid_depth_4=All&field_products_k_value=Charcoal&term_node_tid_depth_2=All
+Assessing the Genetic Diversity of Acacia Tree Species in Kenya, https://plant.researchfloor.org/molecular-marker-research-for-conservation-genomics-assessing-the-genetic-diversity-of-acacia-tree-species-in-kenya/
+Vachellia xanthophloea — Grokipedia, https://grokipedia.com/page/Vachellia_xanthophloea
+Diversity, structure, and carbon storage of Rau catchment forest, https://smujo.id/ajf/article/download/19425/8228
+Assessing the Genetic Diversity of Acacia Tree Species in Kenya, https://www.researchgate.net/publication/390226993_Molecular_Marker_Research_for_Conservation_Genomics_Assessing_the_Genetic_Diversity_of_Acacia_Tree_Species_in_Kenya
+Vachellia karroo tree information from Kew Gardens - Facebook, https://www.facebook.com/groups/450311645133146/posts/855460231284950/
+Some Acacia - - Whole Earth Education, https://wholeeartheducation.com/acacia-vachellia-senegalia/
+DYNAMICS OF TWO SOUTH AFRICAN FLOODPLAIN FORESTS, https://www.wrc.org.za/wp-content/uploads/mdocs/KV-131-01.pdf
+The fever tree is a type of acacia popular for it's beautiful bark. Watch, https://www.facebook.com/greenspacezambia/posts/the-fever-tree-is-a-type-of-acacia-popular-for-its-beautiful-bark-watch-the-vide/864691395665637/
+Yellow-green tree with giant sugar-snap pea seed pods in Ferntree, https://www.facebook.com/groups/PlantIdentificationAustralia/permalink/1836567636584830/
+A health assessment of the acacia xanthophloea woodlands around, https://scispace.com/pdf/a-health-assessment-of-the-acacia-xanthophloea-woodlands-26bs1uf1mw.pdf
+Review of Options for Managing the Impacts of Locally, https://portals.iucn.org/library/sites/library/files/documents/2007-041.pdf
+Activity budget and foraging patterns of Nubian giraffe (Giraffa ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11139672/
+Vachellia xanthophloea (Benth.) P.J.H.Hurter (fever tree), https://ethnobotanyjournal.org/index.php/era/article/download/1-17/2011
+Looking at trees is surely the perfect lockdown antidote! In this case, https://www.facebook.com/AfricanPlantHunter/posts/looking-at-trees-is-surely-the-perfect-lockdown-antidote-in-this-case-its-a-much/2863031440647134/
+Fever tree woodlands at risk from intensification of land, https://www.researchgate.net/publication/330442082_Fever_tree_woodlands_at_risk_from_intensification_of_land_management_activities_associated_with_human_and_wildlife_utilization
+(PDF) Analysis of emission profiles from charcoal produced from, https://www.researchgate.net/publication/330591660_Analysis_of_emission_profiles_from_charcoal_produced_from_selected_tree_species_by_different_pyrolysis_methods
+Pharmacological activity of medicinal plants REVIEW ARTICLE, https://ojs.jkuat.ac.ke/index.php/JAGST/article/view/921/463
+Review of ethnopharmacology, phytochemistry, pharmacology, and, https://www.researchgate.net/publication/394854258_Review_of_ethnopharmacology_phytochemistry_pharmacology_and_toxicity_of_Vachellia_Acacia_species_in_eastern_and_southern_Africa
+s-0039-3399628.pdf, https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0039-3399628.pdf
+Diversité et état de conservation de la flore ligneuse des îlots, https://journals.openedition.org/vertigo/42699?lang=fr
+An annotated checklist of the vascular plants of Aberdare Ranges, https://pmc.ncbi.nlm.nih.gov/articles/PMC7286935/
+Vachellia xanthophloea (Benth.) Banfi & Galasso (LEWA in KENYA, https://identify.plantnet.org/ar/lewa/species/Vachellia%20xanthophloea%20(Benth.)%20Banfi%20&%20Galasso/data
+Acacia tree in Maasai Mara, Kenya - Facebook, https://www.facebook.com/groups/natureandlandscape/posts/4163412523873031/
+CRC world dictionary of medicinal and poisonous plants, https://dokumen.pub/crc-world-dictionary-of-medicinal-and-poisonous-plants-9781482250640-1482250640.html
+Vachellia xanthophloea (Benth.) Banfi & Galasso (LEWA in KENYA), https://identify.plantnet.org/cs/lewa/species/Vachellia%20xanthophloea%20(Benth.)%20Banfi%20&%20Galasso/data
+Category:Vachellia xanthophloea - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Vachellia%20xanthophloea

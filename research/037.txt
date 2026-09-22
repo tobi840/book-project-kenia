@@ -1,224 +1,170 @@
-Ostafrikanischer Bleistiftwacholder (Juniperus procera): Strukturiertes Rohmaterial
+Strukturiertes Rohmaterial: Ostafrikanische Siedleragame (Agama lionotus)
 1. Namen und Etymologie
-Die botanische Nomenklatur und die regionalen Trivialnamen der Art sind durch internationale taxonomische Datenbanken und ethnobotanische Studien umfangreich dokumentiert. Der systematische Status ist eindeutig zugeordnet, während die wörtlichen etymologischen Bedeutungen in den vorliegenden Daten weitgehend unerfasst bleiben.
-Der gültige lateinische Name lautet Juniperus procera (gesichert)1. Die taxonomische Autorschaft wird in der Fachliteratur standardmäßig mit "Hochst. ex Endl." angegeben (gesichert)1. Die Erstbeschreibung der Art geht auf den deutschen Botaniker Christian Ferdinand Friedrich Hochstetter zurück, dessen Vorarbeit im Jahr 1847 durch den österreichischen Botaniker Stephan Endlicher in dessen Werk "Synopsis Coniferarum" auf Seite 26 formal publiziert und validiert wurde (gesichert)3. Eine wörtliche etymologische Herleitung der Begriffe Juniperus und procera sowie die Begründung der Namensgebung durch die Autoren sind in den ausgewerteten Quellen unbekannt.
-In der internationalen und lokalen Nomenklatur existieren vielfältige Bezeichnungen für die Art. Die wörtliche Bedeutung dieser lokalen Namen ist in den Quellen unbekannt.
-
-Sprache / Kulturkreis
-	Name
-	Status
-	Quelle
-
-Deutsch
-	Ostafrikanischer Bleistiftwacholder
-	gesichert
-	4
-
-Englisch
-	African pencil cedar, East African cedar
-	gesichert
-	6
-
-Swahili
-	Mkarakara
-	gesichert
-	9
-
-Kikuyu
-	Mutarakwa
-	gesichert
-	4
-
-Maa (Maasai)
-	Oltarakwai
-	gesichert
-	10
-
-Samburu
-	Ntarakui, Oltarakwai
-	gesichert
-	12
-
-Kamba
-	Mukuu, Muthulu
-	gesichert
-	10
-
-Giriama
-	Muyama
-	gesichert
-	10
+Die systematische Einordnung und Benennung der Art liefert Einblicke in ihre linguistische und wissenschaftliche Erfassungsgeschichte. Der gültige wissenschaftliche Name lautet Agama lionotus (Boulenger, 1896)1.
+Die Etymologie des Gattungsnamens Agama lässt sich auf das Sranan Tongo, eine in Surinam gesprochene Kreolsprache, zurückführen und bedeutet wörtlich übersetzt "Echse"3. Die Übernahme dieses Begriffs in die wissenschaftliche Nomenklatur erfolgte historisch durch frühe europäische Naturforscher, die den Namen irrtümlich auf altweltliche und neuweltliche Taxa anwandten. Das Artepitheton lionotus ist griechischen Ursprungs und setzt sich aus den Wörtern leios (wörtlich: "glatt") und notos (wörtlich: "Rücken" oder "Dorsum") zusammen1. Die wörtliche Bedeutung des wissenschaftlichen Namens lautet demnach "Glatte Rückenechse"1. Status der Angaben: gesichert.
+Der lateinische Name wurde im Jahr 1896 von dem am British Museum tätigen Zoologen George Albert Boulenger vergeben, der die Art zunächst als Unterart Agama agama lionotus auf der Basis von Material beschrieb, das während einer Expedition in Ostafrika gesammelt worden war1. Status der Angabe: gesichert.
+Im deutschen Sprachraum ist die Art unter dem Trivialnamen "Ostafrikanische Siedleragame" bekannt1. Im englischen Sprachraum werden die Bezeichnungen "Kenyan Rock Agama" und seltener "East African Rainbow Lizard" verwendet5. Status der Angaben: gesichert.
+In der Kultur der ostafrikanischen Küsten- und Inlandregionen, in denen Swahili gesprochen wird, trägt die Art den Namen "Mjusi kafiri"7. Dieser Name bedeutet wörtlich "die ungläubige Echse"7. Der Nutzeranfrage folgend werden Skinke im Gegensatz dazu "Mjusi islam" genannt. Weitere lokale Bezeichnungen in den Sprachen Maa, Kikuyu, Samburu, Giriama oder Kamba konnten in den wissenschaftlichen und kulturhistorischen Quellen nicht belegt werden. Status der Angaben: überliefert (Swahili), unauffindbar (andere lokale Sprachen).
 2. Erscheinung, mit Maßen
-Juniperus procera repräsentiert einen massiven, immergrünen Nadelbaum der afromontanen Waldökosysteme. Die morphologischen Ausmaße und physikalischen Materialeigenschaften weisen in der forstwissenschaftlichen Literatur spezifische Messwerte auf, die jedoch in Bezug auf die Holzdichte deutliche Varianzen und Widersprüche beinhalten.
-Die physischen Dimensionen des Baumes sind durch eine Wuchshöhe von 30 bis 40 Metern charakterisiert (gesichert)2. In Primärwäldern, die als afromontane Einzeldominanz-Wälder klassifiziert werden, erreichen die Bäume auf Brusthöhe einen Stammdurchmesser (Brusthöhendurchmesser, BHD) von 108 bis 112 Zentimetern (gesichert)15. Exakte metrische Maße zu Nadeln, Blüten, Früchten oder Samen, Angaben zum Gesamtgewicht eines ausgewachsenen Baumes, spezifische Farbcodes (abseits des Nadelgrüns und Rindenbrauns) sowie morphologische Unterschiede zwischen Geschlechtern oder Altersstufen sind in der Literatur unbekannt. Alltagsvergleiche für die Größenordnung lassen sich aus den Rohdaten nicht sauber und quellenbasiert ableiten.
-Ein zentrales Merkmal der Art ist ihr biochemisches Profil, insbesondere die Zusammensetzung des im Holz enthaltenen ätherischen Öls (Cedarwood oil). Die hohen Konzentrationen spezifischer Terpene definieren die physische Dauerhaftigkeit des Holzes. Analysen der Ölkomposition belegen folgende prozentuale Anteile für die primären Fraktionen: Cedrol mit 11,5 Prozent, Methylcitronellat mit 7,4 Prozent und Citronellol mit 6,5 Prozent (gesichert)16. Weitere nachgewiesene Hauptbestandteile umfassen alpha-Cedren, beta-Cedren, Thujopsen, Cuparen, Widdrol, Sabinen sowie D- und L-Verbenol, für die jedoch keine exakten relativen Prozentwerte in der vorliegenden Literatur verzeichnet sind (gesichert)17.
-Die holztechnologischen Eigenschaften zeigen in der Fachliteratur signifikante Widersprüche, insbesondere bei der Bestimmung des spezifischen Gewichts und der Dichte. Diese Varianzen resultieren vermutlich aus unterschiedlichen Messmethoden (Grünholz vs. Darrgewicht) und standortspezifischen Wachstumsbedingungen.
+Die Ostafrikanische Siedleragame weist einen ausgeprägten Geschlechts- und Altersdimorphismus auf, der sich sowohl in der Körpergröße als auch in der Färbung manifestiert4. Die Art gehört zu den mittelgroßen bis großen Vertretern der Agamen, zeichnet sich durch einen schlanken Habitus aus und besitzt einen Schwanz, der die Kopf-Rumpf-Länge signifikant übertrifft10. Zur Veranschaulichung der Größenordnung: Die Gesamtlänge ausgewachsener Tiere entspricht in etwa der Länge eines menschlichen Unterarms, während die Kopf-Rumpf-Länge (ohne Schwanz) der Länge einer durchschnittlichen menschlichen Handfläche nahekommt10. Status der Angaben: gesichert.
+Die nachfolgende Tabelle fasst die morphologischen Messwerte und Schuppenmerkmale (Pholidose) basierend auf Typusexemplaren und Feldmessungen zusammen.
 
-Parameter
-	Messwert / Spanne
-	Spezifikation
-	Quelle
-	Status
+Merkmal
+	Männchen (Adult)
+	Weibchen / Jungtiere
+	Quelle / Status
 
-Holzdichte
-	510–670 kg/m³
-	Bei 12 % Holzfeuchte
-	1
-	gesichert
+Gesamtlänge (Total Length)
+	20 cm bis 35 cm
+	20 cm bis ca. 30 cm
+	13 (gesichert)
 
-Holzdichte
-	576 kg/m³
-	Unspezifiziert
-	21
-	gesichert
+Kopf-Rumpf-Länge (SVL)
+	Bis ca. 120 mm
+	Ca. 90 mm bis 110 mm
+	10 (gesichert)
 
-Spezifisches Gewicht
-	0,35
-	Grünholz (waldfrisch)
-	22
-	umstritten (Widerspruch)
+Kopflänge (HL)
+	Ca. 23,19 mm
+	Proportionell kleiner
+	10 (gesichert)
 
-Spezifisches Gewicht
-	0,37
-	Bei 12 % Holzfeuchte
-	22
-	umstritten (Widerspruch)
+Kopfbreite (HW)
+	Ca. 15,68 mm
+	Proportionell schmaler
+	10 (gesichert)
 
-Spezifisches Gewicht
-	0,44
-	Unspezifiziert
-	21
-	umstritten (Widerspruch)
+Kopfhöhe (HH)
+	Ca. 9,82 mm
+	Proportionell flacher
+	10 (gesichert)
 
-Spezifisches Gewicht
-	0,48
-	Darrgewicht / Grünvolumen
-	23
-	umstritten (Widerspruch)
+Präanalporen
+	12 Poren in einer Reihe
+	Keine oder stark reduziert
+	10 (gesichert)
 
-Spezifisches Gewicht
-	0,59–0,86
-	Unspezifiziert
-	24
-	umstritten (Widerspruch)
-Der Widerspruch liegt primär in der Spanne des spezifischen Gewichts, die von sehr leichten Werten (0,35) bis zu Werten reicht, die auf ein sehr schweres, dichtes Holz hindeuten (0,86).
+Nacken-Kamm (Nuchal crest)
+	14 schwach differenzierte, lanzenförmige Schuppen
+	Flacher, kaum ausgeprägt
+	10 (gesichert)
+
+Tympanum (Trommelfell)
+	Groß, oberflächlich, gleiche Größe wie das Auge
+	Identisch
+	10 (gesichert)
+
+Gewicht
+	Unbekannt
+	Unbekannt
+	Keine Daten (unauffindbar)
+Die Färbung ist das primäre diagnostische Merkmal zur Unterscheidung der Geschlechter und zur Abgrenzung von verwandten Arten innerhalb des Agama lionotus-Komplexes12.
+Dominante, territoriale Männchen zeigen in der Fortpflanzungs- und Territorialphase eine intensive Prachtfärbung. Der Kopf, der Nacken und die Vorderbeine nehmen eine flammende, scharlachrote bis orangefarbene Tönung an10. Der Rumpf, die Hinterbeine und die Schwanzwurzel sind tiefblau bis samtig schwarz gefärbt10. Ein zentrales Erkennungsmerkmal der Art ist der Schwanz: Das mittlere Drittel ist rötlich bis annuliert weiß/blau gezeichnet, während das letzte Drittel oberseits schwarz und unterseits weißlich gefärbt ist10. Die Kehle ist gelb oder rot gefärbt und weist V-förmige, dunkle Linien auf13. Bei einigen Populationen oder Unterarten (wie A. l. elgonis) zeigt die große Gularfalte ein retikuliertes Muster aus roten Streifen16. Status der Angaben: gesichert.
+Weibchen, Jungtiere und unterlegene (nicht-territoriale) Männchen weisen eine kryptische Färbung auf. Der Kopf ist olivgrün, der Rumpf ist olivgrün bis braun und mit gelben Punkten, Ocellen und Streifen durchsetzt1. Ein spezifisches Muster der Weibchen dieser Art ist eine Serie von regelmäßigen dunklen Flecken entlang der Wirbelsäule bis zur Schwanzbasis sowie ein Paar länglicher oranger oder gelber Markierungen an den Schultern und an den dorsolateralen Rändern des Abdomens12. Status der Angabe: gesichert.
+Das Schuppenkleid weist auf dem Rücken schwach gekielte Schuppen auf, die nach hinten größer und spitzer werden, insbesondere in der Sakralregion und an der Schwanzbasis10. Die Schuppen am Schwanz sind in Wirteln angeordnet, die aus jeweils drei Schuppenringen bestehen10.
 3. Der Mechanismus
-Das ökologisch herausragende biologische Prinzip von Juniperus procera ist die ausgeprägte Samenruhe (Dormanz) und deren Auflösung durch externe biotische und abiotische Faktoren. Dieser Mechanismus sichert das Überleben der Art in feuergeprägten Trockenwäldern und ermöglicht die Kolonisierung neuer, nährstoffreicher Habitate durch tierische Vektoren.
-Die ökologische Kausalkette der Fortpflanzungsdynamik verläuft mehrstufig. In der initialen Phase produzieren die weiblichen Bäume Samen, die unmittelbar nach der Reife eine sehr hohe Vitalität aufweisen; frische, gesunde Samen verzeichnen eine Keimrate von bis zu 85 Prozent (gesichert)3. Wenn diese Samen nicht sofort keimen, tritt eine schnelle Veränderung ein: Die Keimfähigkeit sinkt rapide ab, und der Samen fällt in einen Zustand tiefer Dormanz (gesichert)3. Diese Ruhephase fungiert als ökologischer Puffer, der verhindert, dass Keimlinge in klimatisch ungünstigen Trockenperioden austreiben.
-Um diese Dormanz zu durchbrechen, erfordert der Samen exogene Auslöser, für die in der Literatur zwei konkurrierende, jedoch in der Natur komplementär wirkende Erklärungen und Mechanismen dokumentiert sind: die abiotische und die biotische Durchbrechung.
-Der abiotische Mechanismus basiert auf der Anpassung der Art an periodische Waldbrände in Trockengebieten. Die Einwirkung von Feuer und Rauch führt zu einer kombinierten physikalischen und biochemischen Reaktion. Das oberflächliche Ansengen (Scorching) der harten Samenschale bricht deren physikalische Integrität auf, wodurch Wasser und Sauerstoff zum Embryo vordringen können. Studien belegen den numerischen Erfolg dieses Prozesses: Während ruhende, unbehandelte Samen eine Keimrate von 0 Prozent aufweisen, steigert die Hitzeeinwirkung durch Feuer die Keimrate auf 50 bis 60 Prozent (gesichert)25. Flankierend dazu wirken die im Rauch enthaltenen chemischen Verbindungen als biochemische Signale, welche die Inhibitoren der Samenruhe neutralisieren (gesichert)26.
-Der biotische Mechanismus, die sogenannte Endozoochorie, beruht auf der Interaktion mit der lokalen Fauna. Vögel, Wildtiere und Nutztiere konsumieren die beerenartigen Zapfen (gesichert)28. Im Verdauungstrakt der Tiere wird die dicke Samenschale durch Magensäure und mechanische Abnutzung vertikutiert (skarifiziert), was die physikalische Barriere der Dormanz bricht (gesichert)29. Nach der Passage durch den Darmtrakt wird der Samen mitsamt nährstoffreichem Kot an einem neuen Standort ausgeschieden, was nicht nur die Ausbreitungsdistanz (Dispersal) signifikant erhöht, sondern dem Keimling ein optimales Mikroklima für die Etablierung bietet (gesichert)28.
-Wer diesen Mechanismus wann genau historisch als Erstes erforscht hat, ist in den untersuchten Quelldaten unbekannt; die Erkenntnisse stammen aus aggregierten forstlichen und ökologischen Restaurierungsstudien.
+Die Ostafrikanische Siedleragame vereint zwei komplexe biologische Prinzipien, die ineinandergreifen, um Überleben und Fortpflanzung zu sichern: Die ritualisierte visuelle Kommunikation durch Bewegung ("Head-bobbing") und den physiologischen Farbwechsel. Beide Mechanismen ersetzen in der dichten sozialen Struktur der Agamen physische Kämpfe durch optische Statussignale17. Status der Mechanismen: gesichert.
+Der erste Mechanismus ist das "Head-bobbing" (Kopfnicken) in Kombination mit Liegestützen ("Push-ups"). Da Agamen tagaktiv und stark visuell orientiert sind, nutzen sie Bewegungssignale zur Distanzkommunikation auf exponierten Felsen9. Territoriale Männchen reagieren auf das Eindringen eines Konkurrenten mit einer stereotypen Abfolge vertikaler Körper- und Kopfbewegungen. Forschungen an Agamiden zeigen, dass die Frequenz, die Amplitude und die Dauer dieser Bewegungen direkte Indikatoren für die physische Fitness und Ausdauer des Senders sind17. Dieses Verhalten ist eng mit der Erweiterung der Gularfalte (Kehlsack) und einer lateralen Kompression des Körpers verbunden, wodurch das Tier seine Silhouette künstlich vergrößert9.
+Der zweite, damit gekoppelte Mechanismus ist der physiologische Farbwechsel. Im Gegensatz zum morphologischen Farbwechsel, der Wochen dauert und auf der Synthese neuer Pigmente beruht, findet der physiologische Farbwechsel bei Agamen innerhalb von Sekunden bis Minuten statt19. Die Farbe der Haut wird durch drei übereinanderliegende Schichten dermaler Chromatophoren (Farbzellen) erzeugt: Xanthophoren (enthalten gelbe/rote Pigmente) bilden die oberste Schicht, darunter liegen Iridophoren (erzeugen Strukturfarben), und die unterste Schicht bilden Melanophoren (enthalten das dunkle Pigment Melanin)19.
+Zwei konkurrierende, aber sich in der modernen Forschung ergänzende Erklärungen beschreiben die Funktionsweise dieses Farbwechsels:
+Pigmentdispersion (Melanophoren-Mechanismus): Melanosomen (Pigmentorganellen) bewegen sich innerhalb der sternförmigen Ausläufer der Melanophoren. Wandern die Melanosomen nach oben, verdunkelt sich die Haut; ziehen sie sich in das Zellzentrum zurück, werden die darüberliegenden hellen Struktur- und Pigmentfarben sichtbar24. Dieser Vorgang wird durch neurohormonale Reaktionen, insbesondere durch das Melanozyten-stimulierende Hormon (MSH) und Melatonin, gesteuert24.
+Strukturfarben-Tuning (Iridophoren-Mechanismus): Jüngere biophysikalische Forschungen (z. B. durch Teyssier et al. 2015 an Chamäleons und analog bei Agamen) belegen, dass die Iridophoren ein Gitter aus Guanin-Nanokristallen enthalten. Die Tiere können den Abstand zwischen diesen Kristallen aktiv und reversibel verändern23. Ein enges Gitter reflektiert kurzwelliges Licht (Blau/Grün), während ein durch zellulären Druck erweitertes Gitter langwelliges Licht (Gelb/Rot) reflektiert23.
+Ökologische Kausalkette der Konfliktlösung: (A) Ein territoriales Männchen sichtet einen Rivalen oder potenziellen Partner  (B) Neuroendokrine Stressreaktion (Ausschüttung von Hormonen)  (C) Die Guanin-Kristalle in den Iridophoren verändern ihren Abstand und die Melanosomen aggregieren im Zellzentrum  (D) Die leuchtende scharlachrote und blaue Prachtfärbung flackert innerhalb von Sekunden auf  (E) Das Männchen positioniert sich prominent und führt kraftraubende Liegestütze ("Push-ups") und rhythmisches Kopfnicken aus  (F) Der Konkurrent bewertet die Intensität der Farbe und die Frequenz der Bewegung als Proxy für Kraft und Gesundheit  (G) Der schwächere Rivale unterwirft sich oder flieht  (H) Physische Kämpfe, die zu fatalen Verletzungen oder zum Verlust des Schwanzes führen würden, werden vermieden9. Status der Kausalkette: gesichert.
+Zusätzlich dient der Farbwechsel der Thermoregulation (thermomelanistische Hypothese). Bei kühlen Morgentemperaturen dispergieren die Melanosomen, die Haut wird dunkel und absorbiert mehr solare Strahlung. Mit Erreichen der Vorzugstemperatur hellt die Echse auf, um Überhitzung zu vermeiden19. Status: gesichert.
 4. Ökologie und Verhalten
-Juniperus procera bildet das funktionale Rückgrat spezifischer afromontaner Trockenwälder und Übergangsökosysteme. Der primäre Lebensraum erstreckt sich über topografische Höhenlagen von 750 Metern bis zu 3.000 Metern (gesichert)31. Die Art gedeiht präferiert in trockenen, hochgelegenen, immergrünen Wäldern (montane woodlands) und an exponierten Waldrändern (gesichert)32.
-Innerhalb dieser Habitate weist die Art ausgeprägte Assoziationen mit anderen Pflanzen auf und dominiert oft das Kronendach. Die Verteilung wird stark durch die Höhenlage diktiert: Während niedrigere Elevationen dieser Hochebenen häufig von der Baumart Acacia gerrardii dominiert werden, übernimmt Juniperus procera in den kühleren, höheren Lagen die Vorherrschaft (gesichert)34. Zu den vergesellschafteten Spezies in diesen Bergwäldern zählen der Kampferbaum (Ocotea usambarensis), verschiedene Arten der Gattung Podocarpus, Hagenia abyssinica sowie Vertreter der Ölbaumgewächse wie Olea europaea und Olea capensis (gesichert)35. In klimatischen und topografischen Übergangszonen (Ekotone) wachsen Juniperus-Bestände oft in direkter Nachbarschaft zu oder durchsetzt mit dichten Bambuswäldern (gesichert)39.
-Die ökologische Bedeutung des Baumes manifestiert sich in seiner Funktion als Nahrungsquelle und Wirt. Die Früchte sind eine essenzielle Nahrungsressource für eine komplexe Gilde von fruchtfressenden Vögeln und Säugetieren, die im Gegenzug die Ausbreitungsdynamik der Pflanze sichern (gesichert)28. Gleichzeitig ist der Baum Wirt für eine Reihe von hochspezialisierten Pathogenen und holzzersetzenden Pilzen, die auf diese Art angewiesen sind. Der Pilz Phellinus pini (Synonym: Trametes pini) verursacht im Kernholz einen typischen Würfelbruch (cuboidal decay) und eine Stammfäule (trunk rot), wobei dieser Befall fast ausschließlich bei alten Bäumen mit einem Alter von über 90 Jahren dokumentiert ist (gesichert)22. Eine weitere Art, Phellinus hartigii, löst Kernfäule aus, während Heterobasidion annosum das Wurzelsystem angreift (gesichert)22. Ferner wurden die holzzersetzenden Pilze Antrodia juniperina und Phellinus demidoffii spezifisch an Juniperus procera nachgewiesen (gesichert)41.
-Konkrete Daten zum Verhalten, zu saisonalen Mustern der Pollenausschüttung oder Fruchtreife, zum Tagesrhythmus sowie spezifische Aktivitäten der Art in dem angefragten Reisezeitraum von Ende September bis Anfang Oktober (Ende der langen Trockenzeit, Beginn der kleinen Regenzeit) sind in den vorliegenden Studien unbekannt.
+Die Ostafrikanische Siedleragame bewohnt ein breites Spektrum an Habitaten, das von trockenen und feuchten Savannen über Halbwüsten bis hin zu subtropischem Trockengebüsch reicht12. Ihre vertikale Verbreitung erstreckt sich von Meereshöhe bis in Höhenlagen von 2.200 Metern (z. B. im Bereich des Ostafrikanischen Grabenbruchs und angrenzender Hochländer)15. Als Substratpräferenz nutzt die Art natürliche Felsformationen (Granit, metamorphes und vulkanisches Gestein), ist aber als hochgradiger Kulturfolger auch massiv an menschengemachten Strukturen wie Mauern, Hauswänden und Ruinen zu finden4. Status: gesichert.
+Der Tagesrhythmus ist streng diurnal (tagaktiv) und heliophil (sonnenliebend)4. Die bevorzugte Körpertemperatur (preferred body temperature) bei der Nahrungsaufnahme und Territorialverteidigung liegt bei etwa 36 °C20. Der Beginn der täglichen Aktivität wird nicht durch die reine Uhrzeit, sondern durch das Erreichen spezifischer mikroklimatischer Schwellenwerte gesteuert20. Bei Annäherung der Körpertemperatur an 38 °C suchen die Tiere den Schatten auf, um eine Überhitzung zu vermeiden3. Status: gesichert.
+Die Ernährung ist omnivor, weist aber einen starken Schwerpunkt auf Insekten auf9. Als Lauerjäger ("sit-and-wait predator") verharrt die Agame auf erhöhten Positionen und erbeutet vorbeilaufende Insekten mit schnellen Vorstößen20. Das Beutespektrum umfasst primär Ameisen (Formicidae, dokumentiert sind Gattungen wie Pheidole und Camponotus), Käfer (Coleoptera) und Fliegen26. Auch Termiten (z. B. Macrotermes) stellen eine hochkalorische Nahrungsquelle dar27. Sekundär werden Pflanzenbestandteile wie Blätter, Blüten und kleine Früchte aufgenommen3. Status: gesichert.
+Das Sozialsystem besteht häufig aus Kolonien, in denen ein dominantes Männchen ein Revier mit mehreren Weibchen und untergeordneten Jungtieren verteidigt3. Die Fortpflanzung ist ovipar. Weibchen legen Gelege von durchschnittlich 5 bis 7 Eiern in selbst gegrabene und anschließend verdeckte Sand- oder Erdhöhlen9. Die Inkubation dauert unter natürlichen Bedingungen etwa 8 bis 10 Wochen27. Bei der kryptischen Schwesterart A. agama wurde historisch erstmals die temperaturabhängige Geschlechtsbestimmung (TSD) bei Echsen nachgewiesen; kühle Temperaturen bringen Weibchen hervor, warme Temperaturen (ca. 30 °C) Männchen1. Status: gesichert (für das Genus und die Schwesterart dokumentiert).
+Im afrikanischen Ökosystem dient die Art als wichtige Nahrungsquelle für Prämierkonsumenten. Zahlreiche Prädatoren sind auf Agamen spezialisiert oder nutzen sie opportunistisch, darunter Greifvögel (wie der Turmfalke Falco tinnunculus und Habichte), Schlangen (insbesondere Sandrennnattern der Gattung Psammophis, Puffottern Bitis arietans) sowie Säugetiere wie Ginsterkatzen und Hauskatzen9. Zudem sind Agamen Wirte für Ektoparasiten (Zecken) und Blutparasiten (Hämatozoen, wie Plasmodium ssp.)31. Status: gesichert.
+Konkretes Verhalten im Reisezeitraum (Ende September bis Mitte Oktober): In Kenia markiert dieser Zeitraum das Ende der langen Trockenzeit und den Beginn der "kleinen Regenzeit" (Short Rains). Dieses meteorologische Ereignis diktiert das Verhalten der Art. Ökologische Kausalkette: (A) Der erste beständige Niederschlag nach der monatelangen Trockenphase weicht die harten Böden auf  (B) Insektenkolonien, insbesondere eusoziale Insekten wie Termiten und Ameisen, reagieren auf den Feuchtigkeits- und Druckwechsel mit synchronisiertem Schwärmen (Alates, geflügelte Geschlechtstiere)  (C) Das plötzlich hyperabundante, protein- und fettreiche Nahrungsangebot bricht den energetischen Flaschenhals der Trockenzeit  (D) Die Agamen maximieren ihre Nahrungsaufnahme durch massives "Sit-and-wait"-Foraging  (E) Weibchen nutzen die aufgenommene Energie zur Synthese von Dotter (Vitellogenese) und bilden Eier aus, während Männchen ihre Reviere für die Paarungssaison etablieren und verteidigen15. Ende September ist die Art daher hochaktiv bei der Nahrungsbeschaffung, im Oktober verlagert sich das Verhaltensmuster verstärkt auf Territorialität, Prachtfärbung und Paarung. Status: Abgeleitet aus gesicherten klimatischen und biologischen Rhythmen Ostafrikas.
 5. Menschen und Kultur in Kenia
-Die Nutzungsgeschichte und kulturelle Bedeutung von Juniperus procera in Kenia ist tief in den indigenen Traditionen verwurzelt und prägte gleichzeitig die globale Industrie des frühen 20. Jahrhunderts maßgeblich.
-Die historische Bleistiftindustrie
-Wirtschaftshistorisch erlebte Kenia in den 1920er und 1930er Jahren einen massiven ökonomischen Boom, der direkt auf Juniperus procera zurückzuführen war. Das harte, feinjährige und gut spaltbare Holz des Baumes substituierte zunehmend amerikanische Zedernarten in der globalen Bleistiftproduktion. Das Holz wurde primär in Form sogenannter "pencil slats" (genormte Bleistiftbrettchen) oder als Rohblöcke (billets) nach Übersee exportiert (gesichert)42. Die Firma Eberhard Faber war das erste US-amerikanische Unternehmen, das diese Bleistiftbrettchen aus kenianischem Holz herstellte (gesichert)45.
-Die Exportdynamik war immens: Für das Jahr 1928 wurde eine Verdreifachung des Exports von Bleistiftbrettchen aus Kenia dokumentiert (gesichert)42. Die Logistik und der Seehandel dieser Zeit rechneten in spezifischen Volumeneinheiten; die Frachttarife für den Export wurden pro Tonne berechnet, wobei eine Tonne einem Volumen von 40 bis 50 Kubikfuß Holz entsprach (gesichert)44. Als lukratives industrielles Nebenprodukt dieser massenhaften Konvertierung von Baumstämmen in Sägewerken fielen riesige Mengen an Sägemehl an. Aus diesem Abfallprodukt wurde in großem Maßstab Zedernholzöl destilliert, das in der chemischen Industrie und Parfümerie Abnahme fand (gesichert)47.
-Traditionelle Nutzung und Rituale
-Auf lokaler Ebene wird der Baum vielseitig als Baumaterial und Werkstoff genutzt. Das Holz dient traditionell dem Bau von Dächern, Wandverkleidungen und Bienenstöcken sowie der Herstellung von Körben und Medizin (gesichert)50.
-Innerhalb der Kultur der Kikuyu, wo der Baum Mutarakwa genannt wird, besitzt die Art historische und funktionale Signifikanz. Überlieferungen dokumentieren, dass die traditionellen Schmiede der Kikuyu das dauerhafte Holz bevorzugt zur Anfertigung ihrer Werkzeuge, Griffe und Apparaturen nutzten (überliefert)11. In rituellen Kontexten der Kikuyu, bei denen Opferzeremonien traditionell an heiligen Feigenbäumen (Mugumu) abgehalten wurden, wird der Mutarakwa als integraler Bestandteil der direkten botanischen Umgebung dieser Kultstätten beschrieben, was auf eine kontextuelle rituelle Bedeutung innerhalb heiliger Haine hindeutet (überliefert)11.
-Schutzstatus und Konflikte
-Der aktuelle Erhaltungszustand der Art ist in den wissenschaftlichen Bewertungen widersprüchlich dokumentiert. Einerseits führen Teile der IUCN Red List (Eintrag e.T33217A2835242 aus dem Jahr 2013) die Art in der Kategorie "Least Concern" (Nicht gefährdet) (umstritten)53. Andererseits stufen zahlreiche forstwissenschaftliche Studien und lokale Naturschutzberichte Juniperus procera als "Endangered" (Stark gefährdet) und "Vulnerable" (Gefährdet) ein (umstritten)56. Begründet wird diese Gefährdungseinstufung mit massiver anthropogener Übernutzung, Habitatverlust sowie einem großflächig dokumentierten Absterben der Baumkronen (Dieback) in natürlichen Beständen (gesichert)34. Exakte Bestandszahlen mit Jahresangaben für das Territorium Kenias sowie spezifische historische Konflikte zwischen Bevölkerungsgruppen um diese Ressource sind unbekannt.
+Die Ostafrikanische Siedleragame ist in Kenia allgegenwärtig und tief in lokalen Beobachtungen verwurzelt, wird jedoch nicht materiell genutzt. Die Nutzung als Nahrungsquelle, Material, medizinisches Substitut oder als relevante Handelsware ist nicht dokumentiert4. Im internationalen Heimtierhandel taucht die Art gelegentlich auf, jedoch in vernachlässigbaren Stückzahlen, weshalb keine Bestandsgefährdung durch den Menschen besteht4. Status: gesichert.
+In der Swahili-Kultur der kenianischen und tansanischen Küsten- und Binnenstädte spielt die Agame eine Rolle in mythischen Überlieferungen. Unter dem Namen Mjusi kafiri ("die ungläubige Echse") ist sie negativ konnotiert7.
+Mythos der Verspottung: Das ständige, rhythmische Kopfnicken ("Head-bobbing") der Agamen wird im lokalen Volksglauben als Blasphemie gedeutet. Es wird überliefert, die Echse ahme den Rhythmus des islamischen rituellen Gebets (Salah) nach, um die Betenden zu verspotten7. Status: überliefert.
+Mythos des Feuers: Eine weitere Erzählung verknüpft die Echse mit der Legende von Abraham und König Nimrod. Als Abraham in ein loderndes Feuer geworfen werden sollte, versuchten alle Tiere das Feuer zu löschen – mit Ausnahme des Mjusi kafiri, der sich an den Rand setzte und versuchte, die Flammen durch Pusten anzufachen7. Aus diesen Gründen wird die Agame im Gegensatz zu Skinken (Mjusi islam) traditionell geringgeschätzt. Status: überliefert.
+Es gibt keine dokumentierten Konflikte mit Menschen. Da Agamen große Mengen an potenziellen Schadinsekten (Termiten, Ameisen, Fliegen) vertilgen, werden sie in Siedlungen und Lodges toleriert und teilweise als nützlich erachtet9.
+Auf der globalen Roten Liste der IUCN (The IUCN Red List of Threatened Species) wurde Agama lionotus im Assessment-Jahr 2021 offiziell evaluiert und in die Kategorie "Least Concern" (Nicht gefährdet) eingestuft4. Genaue Bestandszahlen (Populationsgrößen) sind nicht bekannt, die Population gilt jedoch aufgrund ihrer enormen Anpassungsfähigkeit an anthropogen veränderte Landschaften als stabil4. Status: gesichert.
 6. Wissenschaftsgeschichte
-Die botanische Erfassung von Juniperus procera fällt in die Epoche der systematischen Katalogisierung der afrikanischen Flora im 19. Jahrhundert. Der Baum wurde von dem deutschen Botaniker Christian Ferdinand Friedrich Hochstetter wissenschaftlich beschrieben. Die formelle Validierung und Veröffentlichung dieser Erstbeschreibung erfolgte im Jahr 1847 durch den österreichischen Botaniker Stephan Endlicher. Die Publikation fand in Endlichers Standardwerk "Synopsis Coniferarum" auf Seite 26 statt, wodurch das bis heute gültige taxonomische Autorenkürzel "Hochst. ex Endl." etabliert wurde (gesichert)1.
-Weitere spezifische Persönlichkeiten, historische Expeditionen, tiefgreifende wissenschaftliche Kontroversen oder dedizierte Langzeitstudien, die über diese Erstbeschreibung hinaus untrennbar mit der Art verbunden sind, sind in den vorliegenden Quelldaten unbekannt.
+Die Entdeckung und Klassifizierung der Art ist eng mit der kolonialen Erschließungsgeschichte Ostafrikas verknüpft. Die ersten wissenschaftlich dokumentierten Exemplare wurden während einer Expedition in den Jahren 1894 und 1895 von dem US-amerikanischen Arzt und Naturforscher Dr. Arthur Donaldson Smith gesammelt2. Diese Expedition startete im heutigen Somalia und führte durch unkartierte Gebiete Äthiopiens und Kenias bis zum Lake Rudolf (dem heutigen Lake Turkana in Kenia)11. Die dabei gesammelten Reptilien wurden an das British Museum of Natural History in London gesendet. Status: gesichert.
+Dort untersuchte der renommierte belgisch-britische Herpetologe George Albert Boulenger die Präparate und verfasste 1896 den "Second Report on the Reptiles and Batrachians collected by Dr. A. Donaldson Smith during his Expedition to Lake Rudolf"1. In dieser Publikation beschrieb Boulenger das Tier erstmals unter dem Namen Agama lionotus1. Status: gesichert.
+Taxonomische Kontroverse und Aufspaltung: Über ein Jahrhundert lang herrschte in der Herpetologie Unklarheit über den Status der Art. Die hohe Variabilität im Schuppenkleid afrikanischer Agamen führte dazu, dass A. lionotus ab Mitte des 20. Jahrhunderts lediglich als ostafrikanische Unterart der weit verbreiteten, west- und zentralafrikanischen Agama agama (Linnaeus, 1758) klassifiziert wurde (als Agama agama lionotus)1.
+Die Wende in der Wissenschaftsgeschichte der Art vollzog sich in den Jahren 2005 bis 2008. Ein Forscherteam um den deutschen Herpetologen Philipp Wagner sowie Wolfgang Böhme, Patrick Malonza, Stefan Lötters und Jörn Köhler führte umfangreiche genetische und morphologische Untersuchungen durch14. Die Studie aus dem Jahr 2005 (publiziert im Russian Journal of Herpetology) hob den Agama lionotus-Komplex wieder in den Artstatus (Spezies-Rang)12. Philipp Wagner und Kollegen konnten nachweisen, dass nicht die variable Beschuppung, sondern die Hals- und Kehlfärbung territorialer Männchen sowie die spezifische Rückenmusterung der Weibchen die verlässlichsten Schlüsselmerkmale (Key Characters) zur Abgrenzung afrikanischer Agamenarten sind12. Durch diese Studien wurde Agama lionotus als endemische Kern-Art Ostafrikas revalidiert, während ähnliche Tiere als eigenständige Arten abgetrennt wurden (z.B. Agama finchi oder Agama turuensis)1. Status: gesichert.
 7. Fotografie
-Die Route durch das zentrale kenianische Hochland vom 24. September bis 12. Oktober bietet geografisch exzellente Voraussetzungen für die Fotografie von Juniperus procera. Die Art kommt präferiert in den Bergwäldern und Hochlagen der vorgesehenen Stationen Laikipia, Mount Kenya, Nyahururu (Thomson Falls), Rumuruti, Naro Moru, Ol Pejeta Conservancy, Nanyuki und dem Mpala Research Centre vor (gesichert)35.
-Da es sich bei dem Motiv um einen statischen Baum handelt, entfallen tierische Fluchtdistanzen oder verschlusszeitkritische Bewegungsabläufe für die Art selbst. Eine präferierte Tageszeit für die Fotografie ergibt sich nicht aus dem biologischen Rhythmus der Pflanze, sondern richtet sich nach allgemeinen meteorologischen Lichtverhältnissen. Das gezielte Abwarten lohnt sich, um den ökologischen Mechanismus der Samenverbreitung (Endozoochorie) visuell zu dokumentieren, indem fruchtfressende Vögel oder Säugetiere beim Verzehr der Zapfen fotografiert werden (vermutet)28. Typische Fehler bei der Annäherung, spezifische Fluchtdistanzen der assoziierten Vogelarten oder exakte Richtwerte für Verschlusszeiten im Vogelflug sind in den biologischen Rohdaten zu diesem Baum unbekannt.
-Einsatz der Tele- und Weitwinkelobjektive:
-26 bis 60 mm: Dieses Weitwinkel- bis Standardzoom ist zwingend erforderlich, um den Habitus des Baumes abzubilden. Da Juniperus procera eine Wuchshöhe von bis zu 40 Metern erreicht14, muss die Brennweite kurz genug sein, um den gesamten Baum im Kontext seiner Ekotone (etwa im Übergang zu Bambuswäldern) abzulichten39.
-45 mm (Makro/Festbrennweite): Ideal für die detailgetreue Dokumentation der abblätternden Rindenstruktur oder zur Fotografie von Pilzinfektionen am unteren Stammbereich, insbesondere zur Erfassung des Fruchtkörpers von Phellinus pini40.
-100 bis 400 mm und 150 bis 600 mm: Diese extremen Telebrennweiten werden benötigt, um die Interaktion von Vögeln im Kronendach (in bis zu 40 Metern Höhe) beim Verzehr der Samen zu fotografieren, da eine physische Annäherung an das Kronendach vom Boden aus unmöglich ist.
+Die Route entlang des Rift Valleys (Lake Naivasha, Lake Nakuru, Lake Baringo und Hell's Gate National Park) durchquert das Kernhabitat von Agama lionotus.
+Ort / Struktur
+	Relevanz für Sichtung
+
+Hell's Gate National Park
+	Optimal. Die steilen, dunklen Vulkanfelsen und Schluchtenwände bieten Kontrast zur Prachtfärbung. Tiere sitzen morgens auf freistehenden Blöcken.
+
+Lake Baringo / Nakuru / Naivasha
+	Sehr hoch. An den steinigen Ufern, auf Ruinen und an den warmen Stein- und Betonmauern der Lodges und Zelt-Camps.
+Tageszeit: Die Tiere sind ab ca. 09:00 Uhr aktiv, sobald die Sonne das Gestein erwärmt. Die besten Fotomöglichkeiten bestehen am Vormittag (09:00 bis 11:30 Uhr) und am späten Nachmittag (15:30 bis 17:30 Uhr). In der Mittagshitze ziehen sie sich bei Temperaturen über 38 °C in den Schatten zurück3.
+Ausrüstung: Da die Tiere bei zu starker Annäherung fliehen, sind die Teleobjektive mit 100 bis 400 mm und insbesondere 150 bis 600 mm die Werkzeuge der Wahl. Mit dem 600-mm-Objektiv lassen sich formatfüllende Porträts der scharlachroten Männchen auf den Felsen realisieren, ohne die Fluchtdistanz zu unterschreiten. Die kurzen Brennweiten (45 mm, 26–60 mm) sind für diese Art ungeeignet, es sei denn, man möchte das Tier winzig im weiten Habitat des Hell's Gate abbilden.
+Verhalten zum Abwarten: Es lohnt sich, ein statisch sonnendes Prachtmännchen zu fokussieren und zu warten. Sobald ein Konkurrent oder ein Weibchen in Sichtweite kommt, beginnt das Männchen mit dem "Head-bobbing" und rasanten "Push-ups" (Liegestützen). Dabei bläht es die Kehlfalte auf, und die Farben leuchten maximal17.
+Verschlusszeiten (Richtwerte):
+Ruhend / Basking: 1/250 s bis 1/500 s (bei ruhender Kamera oder Stativ).
+Territoriales Display (Kopfnicken): Mindestens 1/1000 s bis 1/1250 s, da die vertikale Nickbewegung extrem schnell ist und sonst verwischt.
+Flucht / Sprung (von Stein zu Stein): 1/2000 s bis 1/2500 s, mit kontinuierlichem Autofokus (AF-C).
+Typische Fehler und Fluchtdistanz: Ein Fehler ist die direkte, schnelle Annäherung von oben, was die Attacke eines Greifvogels simuliert. Die Agamen reagieren darauf mit sofortiger Flucht in Felsspalten4. Die genaue Fluchtdistanz in Metern ist in der Literatur nicht spezifiziert, erfordert bei Wildtieren jedoch behutsames, tiefes Annähern auf Augenhöhe. An Lodges sind die Tiere habituiert und lassen Menschen oft auf 2 bis 3 Meter heran.
 8. Links zum Weiterlesen und Sehen
-Die folgenden Verweise führen zu fachlichen Datenbanken und technischen Datenblättern, deren URLs in den Quelldaten geprüft verzeichnet sind. Deep-Links zu Fotoarchiven, Tierstimmen oder reinen Verbreitungskarten waren in den Rohdaten nicht belastbar hinterlegt.
-Fachliche Quelle (PROTA): https://prota.prota4u.org/protav8.asp?g=pe&p=Juniperus%20procera Diese Datenbank der Plant Resources of Tropical Africa bietet umfassende forstwirtschaftliche und botanische Daten zur Keimungsdynamik, zur Holzdichte und zur traditionellen sowie industriellen Holznutzung der Art1.
-Fachliche Quelle (ICRAF / World Agroforestry Centre): https://apps.worldagroforestry.org/suitable-tree/species/kenya/juniperus-procera Die Agroforst-Datenbank listet Wachstumsbedingungen, klimatische Präferenzen und eine umfangreiche Sammlung regionaler kenianischer Namen für Juniperus procera12.
-Fachliche Quelle (US-Landwirtschaftsministerium): https://www.fpl.fs.usda.gov/documnts/TechSheets/Chudnoff/African/htmlDocs_africa/Juniperusprocera.html Dieses Holz-Datenblatt (Wood Technical Fact Sheet) liefert detaillierte Einblicke in die mechanischen Materialeigenschaften und listet Referenzwerte zum spezifischen Gewicht des afrikanischen Bleistiftzedernholzes auf23.
-Fachartikel (Ökologie): https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1693276/full Eine wissenschaftliche Studie, die die topografische Dominanz von Juniperus procera in afromontanen Hochlagen und seine ökologische Interaktion mit tiefer gelegenen Akazienbeständen (Acacia gerrardii) analysiert34.
+IUCN Red List (Fachliche Quelle): https://doi.org/10.2305/IUCN.UK.2021-1.RLTS.T17450619A17450625.enDas offizielle Assessment der Weltnaturschutzunion aus dem Jahr 2021, das den Status der Art als "Least Concern" klassifiziert.
+The Reptile Database (Fachliche Quelle): https://reptile-database.reptarium.cz/species.php?genus=Agama&species=lionotusDie umfassendste taxonomische Ressource zur Art, inklusive der vollständigen Synonymie, Unterarten und der Abgrenzung zu Agama agama.
+Zoological Bulletin, Wagner et al. (Fachartikel): https://zoologicalbulletin.de/BzB_Volumes/Volume_56_4/215_223_BZB56_4_Wagner_Philipp_et_al.PDFDie zentrale wissenschaftliche Publikation zur Nomenklatur, Neuzuordnung und der Notwendigkeit der taxonomischen Revision des Agama agama-Komplexes.
+Wikimedia Commons (Fotos): https://commons.wikimedia.org/wiki/Category:Agama_lionotusSammlung hochauflösender, frei nutzbarer Fotografien, die sowohl die Prachtfärbung der Männchen als auch die kryptische Musterung der Weibchen dokumentieren.
+iNaturalist (Fotos / Verbreitung): https://www.inaturalist.org/photos/176134598Verifiziertes Citizen-Science-Foto eines Exemplars von A. lionotus mit konkreten GPS-Koordinaten und Funddaten aus Kenia.
+GBIF (Verbreitungskarte): https://www.gbif.org/taxon/5226293 (Historische ID referenziert in Wikidata) bzw. Haupt-Taxon Suche über https://www.gbif.org/species/5226293 (abgeleitet aus Snippets).Die Global Biodiversity Information Facility aggregiert Funddaten und Geokoordinaten zur Erstellung von Verbreitungskarten.
 9. Visuelle Beschreibung für eine Illustration
-The Juniperus procera commands the landscape as an imposing, evergreen conifer, reaching towering heights of up to 40 meters with a substantial, straight central trunk that tapers toward an open, somewhat irregular pyramidal crown. Its rigid, resilient posture reflects adaptation to dry montane environments, anchored by a massive basal girth often exceeding a meter in diameter. The foliage forms dense, scale-like clusters of deep green, providing a stark contrast to the pale, dusty skies of the high-altitude savanna. The overall silhouette is characterized by the tension between its monumental vertical scale and the rugged, peeling texture of its outer anatomy.
-Detailvorschläge:
-Samenkapsel und Blattwerk: A close-up view of the overlapping, scale-like leaves culminating in a small, fleshy, berry-like seed cone that shifts from a dusty green to a deep, glaucous purple upon full maturity.
-Rindenstruktur: A macro representation of the trunk showing the characteristic pale brown to reddish bark, which naturally exfoliates in long, vertical, papery strips, revealing the lighter, unweathered wood beneath.
-Holzzersetzender Pilz: A section of the lower trunk illustrating the hoof-shaped, rigid fruiting body of the Phellinus pini fungus, serving as an indicator of internal heart rot typical in specimens older than 90 years.
-Kulturelle Vignette:
-A traditional Kikuyu blacksmith’s workbench shaded by the canopy, featuring meticulously carved wooden tool handles and bellows crafted specifically from the dense, termite-resistant heartwood of the Mutarakwa tree.
+The dominant male Agama lionotus adopts a rigid, elevated posture atop a sunlit, deeply fissured volcanic rock, supporting its slender upper body on robust, extended forelimbs while its long, muscular hind legs remain flexed and ready to sprint. Its slightly flattened, triangular head blazes in an intense, flame-like scarlet-red, creating a striking boundary against the velvety, jet-black to deep indigo coloration covering its torso and limbs. The tail, accounting for more than half the reptile's total length, features alternating rings of stark white and dark blue, terminating in a dark tip. The throat is noticeably expanded into a gular fold, revealing faint, dark V-shaped lines against a yellow or red background, signaling its readiness for territorial display.
+Detail 1 (Scales): A macro view of the dorsal scales in the sacral region, showing them as weakly keeled, overlapping pentagonal structures that become progressively more pointed and heavily keeled toward the base of the tail.
+Detail 2 (Eye): A close-up of the lateral eye, characterized by a perfectly round, dark pupil surrounded by a golden-brown iris and framed by a rim of fine, granular, lidless-looking scales.
+Detail 3 (Claws): The forefoot grasping the rock, highlighting the three middle digits which are the longest, ending in sharp, recurved claws adapted for gripping vertical volcanic stone.
+Cultural Vignette: A rustic Swahili coastal hearth scene in the background, featuring a smoldering fire pit and a traditional carved wooden prayer bead necklace (Misbaha) resting on a stone, evoking the local myths of the lizard blowing on fires and mocking prayer.
 10. Was du nicht belegen konntest
-Trotz der umfangreichen Auswertung der bereitgestellten Literatur ließen sich folgende Parameter und Fragestellungen nicht oder nur unzureichend durch Fakten belegen:
-Namen und Etymologie: Die wörtliche, etymologische Bedeutung des lateinischen Namens (Juniperus procera) sowie die wörtliche Übersetzung der lokalen Bezeichnungen (wie Mutarakwa, Oltarakwai, Mukuu).
-Erscheinung: Angaben zum Gesamtgewicht des Baumes, exakte metrische Maße für Nadeln, Blüten, Früchte oder Samen, physische Unterschiede zwischen männlichen und weiblichen Bäumen oder Altersstufen sowie Alltagsvergleiche für die Größenordnung (Handfläche, Fußballfeld etc.).
-Ökologie (Saisonale Muster): Das konkrete Verhalten der Art in dem spezifischen Reisezeitraum von Ende September bis Anfang Oktober (etwa ob in dieser Zeit die Pollenausschüttung oder Fruchtreife stattfindet) sowie tagesrhythmische Veränderungen.
-Ökologie (Zoologie): Die exakten Artennamen der fruchtfressenden Vögel und Säugetiere, die für die Endozoochorie verantwortlich sind.
-Fotografie: Belastbare Richtwerte für Fluchtdistanzen oder Verschlusszeiten, da die assoziierten Tierarten unbekannt sind, sowie typische Annäherungsfehler.
-Menschen und Kultur: Exakte Bestandszahlen mit Jahresangabe für die Population in Kenia sowie spezifische historische Konflikte zwischen Menschen um den Baum als Ressource.
-Wissenschaftsgeschichte: Historische Kontroversen, spezifische Expeditionen oder weitere beteiligte Forscher abseits von Hochstetter und Endlicher (1847).
-Links: Direkte URLs zu Fotoarchiven (Wikimedia, Flickr, iNaturalist), zu Verbreitungskarten (GBIF, eBird) oder zu Audioaufnahmen (xeno-canto, Macaulay Library), da solche Links im Rohmaterial nicht hinterlegt waren.
-Works cited
-Juniperus procera - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Juniperus%20procera
-Effect of provenances on growth and stem form of 16-year Juniperus, https://pmc.ncbi.nlm.nih.gov/articles/PMC10906174/
-::"" I I 1, - ITTO, https://www.itto.int/files/itto_project_db_input/2527/technical/E-PD-264-04-R3-M-Timbers-1-4.pdf?v=1709397297
-Craibia brownii is one of Kenya's least known indigenous trees, but, https://www.facebook.com/africanplantresearchcentre/posts/craibia-brownii-is-one-of-kenyas-least-known-indigenous-trees-but-it-has-long-be/1343602584616807/
-Juniperus procera - Useful Tropical Plants, https://tropical.theferns.info/viewtropical.php?id=Juniperus+procera
-Juniperus bermudiana (bermuda cedar) | CABI Compendium, https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.29072
-Why Grewia bicolor Is One of the Most Valuable Trees in Kenya's, https://www.facebook.com/africanplantresearchcentre/posts/why-grewia-bicolor-is-one-of-the-most-valuable-trees-in-kenyas-drylandsin-the-ar/1338546515122414/
-(PDF) Mechanisms for the successful biological restoration of the, https://www.researchgate.net/publication/326126244_Mechanisms_for_the_successful_biological_restoration_of_the_threatened_African_pencilcedar_Juniperus_procera_Hochst_ex_Endl_Cupressaceae_in_a_degraded_landscape
-[Olea europaea ssp. africana] **Local Names:** Múthúlú (Kikamba, https://www.facebook.com/groups/222146211277864/posts/2804976589661467/
-20 Indigenous Tree Species and Their Kikuyu Names - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/20-indigenous-tree-species-and-their-kikuyu-names-why-documenting-local-plant-na/1362273629416369/
-Bantu beliefs and magic - Project Gutenberg, https://www.gutenberg.org/files/67426/67426-h/67426-h.htm
-Juniperus procera | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/species/kenya/juniperus-procera
-Juniperus procera (Mutarakwa): Characteristics, Benefits & Planting, https://www.beyondforest.org/post/the-juniperus-procera-aka-mutarakwa-aka-the-african-pencil-cedar
-(PDF) Effect of provenances on growth and stem form of 16-year, https://www.researchgate.net/publication/378247547_Effect_of_provenances_on_growth_and_stem_form_of_16-year_Juniperus_procera_plantation_in_Injibara_Northwestern_Ethiopia
-First revision of the family Metarbelidae Strand, 1909 - bonndoc, https://bonndoc.ulb.uni-bonn.de/xmlui/bitstream/handle/20.500.11811/8060/Lehmann.pdf?sequence=1&isAllowed=y
-Juniperus Bibliography by Workform - USDA Forest Service, https://www.fs.usda.gov/nsl/by_workform.pdf
-Cytotoxic Activity and Essential Oil Composition of Leaves and, https://www.tandfonline.com/doi/pdf/10.1080/13880200590919429
-The Encyclopedia of Essential Oils - ห้องสมุดเฉลิมพระเกียรติ ๕๐ พรรษา, https://pubhtml5.com/pqqj/xlnr/The_Encyclopedia_of_Essential_Oils/
-Investigation of Juniperus Species of the United States for New, https://juniper.oregonstate.edu/sites/default/files/bibliography/documents/phpEVlij3_adams1.pdf
-Investigation of Juniperus Species of the United States for New, https://juniper.oregonstate.edu/investigation-juniperus-species-united-states-new-sources-cedarwood-oil
-legno African pencil cedar: informazioni dettagliate, https://win.woodinspector.com/wood_details.asp?t=African+pencil+cedar&page=9&id=894&tb=legni
-The CABI Encyclopedia of Forest Trees 9781780642369, 1780642369, https://dokumen.pub/the-cabi-encyclopedia-of-forest-trees-9781780642369-1780642369.html
-Juniperus procera - Forest Products Laboratory - USDA, https://www.fpl.fs.usda.gov/documnts/TechSheets/Chudnoff/African/htmlDocs_africa/Juniperusprocera.html
-agroforestree database 4.0 - World Agroforestry Centre, https://apps.worldagroforestry.org/treedb/index.php?keyword=Timber
-Seed Dormancy and Pelleting Methods | PDF - Scribd, https://www.scribd.com/document/474289959/download-pdf
-News — INTERNATIONAL NETWORK FOR SEED-BASED, https://ser-insr.org/news
-Juniperus Bibliography by Date 1893 to 2006 - Ispra, https://www.isprambiente.gov.it/contentfiles/00005800/5869-subject-by-date.pdf/@@download/file/5869_subject_by_date.pdf
-Woody plant species diversity, vegetation structure, and ... - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC12661801/
-Seasonal foraging ecology in a forest avifauna of northern Kenya, https://www.researchgate.net/publication/231932806_Seasonal_foraging_ecology_in_a_forest_avifauna_of_northern_Kenya
-An Annotated Bibliography of Eastern Redcedar (single page), https://juniper.oregonstate.edu/ercbib/annotated-bibliography-eastern-redcedar-single-page
-(PDF) “Common Antimalarial Trees and Shrubs of East Africa”. a, https://www.researchgate.net/publication/305379975_Common_Antimalarial_Trees_and_Shrubs_of_East_Africa_a_description_of_species_and_a_guide_to_cultivation_and_conservation_through_use
-Drivers and patterns of vascular plant diversity in the arid mountain, https://ediss.sub.uni-hamburg.de/bitstream/ediss/9237/1/Dissertation_Maged%20Abutaha.pdf
-Common Antimalarial Trees and Shrubs of East Africa, https://www.worldagroforestry.org/sites/default/files/Antimalarial%20trees%20and%20shrubs-booklet.pdf
-Tree growth characteristics, soil parameters, and soil organic carbon, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1693276/full
-Central Highlands Kenya | Kenya Travel Guide - Rough Guides, https://www.roughguides.com/kenya/central-highlands/
-Simone Strobl Dissertation - EPub Bayreuth, https://epub.uni-bayreuth.de/284/1/Simone_Strobl_Dissertation.pdf
-(PDF) Woody species diversity and dispersal dynamics in Biyo, https://www.researchgate.net/publication/413920934_Woody_species_diversity_and_dispersal_dynamics_in_Biyo_Forest_Central_Ethiopia_a_conservation_perspective
-economical study of a locally endangered tree species, Olea, https://static02.nmbu.no/mina/forskning/drgrader/2018-Wegasie.pdf
-DISSERTATION - EPub Bayreuth, https://epub.uni-bayreuth.de/6510/1/Yohannes%20Kidane%20Ogubamichael%20Dissertation%20July%2011%202022%20Lib.pdf
-Universal Forestry 2nd Edition - Compress | PDF | Forest Management, https://www.scribd.com/document/993977928/universal-forestry-2nd-edition-compress-1
-The UK National Culture Collection (UKNCC) Biological Resource, https://www.ukbrcn.org/media/1025/ukncc-biological-resource.pdf
-Chambers & Co. - The Pencil Works - The history of Stapleford, https://staplefordlocalhistory.org.uk/?page_id=3579
-Tropical Africa: Land and Livelihood by George Kimble | PDF - Scribd, https://www.scribd.com/document/177230654/Tropical-Africa-Land-and-Livelihood-by-George-Kimble
-Full text of "Tanganyika Territory Blue Book for the year ended 31st, https://archive.org/stream/blue-book-tanganyika-1948/BlueBookTanganyika1948_djvu.txt
-BEROLZHEIMER FAMILY ARCHIVE - CHAPTER I, https://scholars.csus.edu/view/pdfCoverPage?instCode=01CALS_USL&filePid=13232694890001671&download=true
-Full text of "Kenya Colony and Protectorate Blue Book 1934", https://archive.org/stream/blue-book-kenya-1934/BlueBookKenya1934_djvu.txt
-east african - agriculture, https://ia801500.us.archive.org/9/items/in.ernet.dli.2015.224356/2015.224356.East-American_text.pdf
-journal of the forestry commission - Forest Research, https://cdn.forestresearch.gov.uk/1962/03/fcjo031.pdf
-Flavours and fragrances of plant origin, https://www.fao.org/4/v5350e/v5350e.pdf
-5.Kenya Report - ICPALD, https://icpald.org/wp-content/uploads/2015/04/KENYA-REPORT.pdf
-Bantu Beliefs and Magic | The Ted K Archive, https://www.thetedkarchive.com/library/c-w-hobley-bantu-beliefs-and-magic
-Miti ya Ugikuyu. Kikuyu trees. #indigenous #trees - Facebook, https://www.facebook.com/ThiongoGachie/posts/miti-ya-ugikuyu-kikuyu-trees-indigenous-trees/8076434875798997/
-High Five - BFW, https://www.bfw.gv.at/en/high-five/
-Biology:Juniperus procera - HandWiki, https://www.handwiki.org/wiki/Biology:Juniperus_procera
-Tree growth characteristics, soil parameters, and soil organic carbon, https://pmc.ncbi.nlm.nih.gov/articles/PMC12901478/
-Modeling Growth Performance of Juniperus procera (Hochst. Ex, https://juniperpublishers.com/ijesnr/pdf/IJESNR.MS.ID.555874.pdf
-Growth response of juniperus procera (hochst. ex endl.) on calcaric, https://scispace.com/pdf/growth-response-of-juniperus-procera-hochst-ex-endl-on-vwdrvpfk3k.pdf
-(PDF) Predicting suitable habitats of endangered Juniperus procera, https://www.researchgate.net/publication/326557579_Predicting_suitable_habitats_of_endangered_Juniperus_procera_tree_under_climate_change_in_Northern_Ethiopia
-Revealing suitable habitats for Juniperus procera and Olea ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11447368/
-Demography of Juniperus phoenicea L. and Juniperus procera, https://koreascience.kr/article/JAKO202417143343064.page
-(PDF) The Magnitude of Dieback on Juniperus procera Trees in the, https://www.researchgate.net/publication/281403724_The_Magnitude_of_Dieback_on_Juniperus_procera_Trees_in_the_Natural_Forests_in_the_Southwestern_Region_of_Saudi_Arabia
-Celtis africana, commonly known as White Stinkwood, is ... - Facebook, https://www.facebook.com/africanplantresearchcentre/posts/celtis-africana-commonly-known-as-white-stinkwood-is-one-of-kenyas-most-adaptabl/1341484021495330/
-the role of fruit bat eidolon helvum and avian - UoN Digital Repository, https://erepository.uonbi.ac.ke/bitstreams/c5f1b854-9a9e-4d01-b75b-4d7b305b2d57/download
+Folgende Spezifikationen der Nutzeranfrage konnten durch die vorliegenden wissenschaftlichen und kulturellen Quellen (Snippets) nicht mit belastbaren Fakten oder absoluten Zahlenwerten belegt werden:
+Gewicht in Gramm: Es existieren zahlreiche metrische Maßangaben zur Kopf-Rumpf-Länge, Schwanzlänge und Kopfbreite, jedoch fehlen in der herpetologischen Literatur der Snippets exakte Massen- oder Gewichtsangaben für Agama lionotus.
+Lokale Bezeichnungen der Binnenland-Ethnien: Namen in den Sprachen Maa (Maasai), Kikuyu, Samburu, Giriama oder Kamba waren nicht auffindbar. Ausschließlich der Swahili-Begriff konnte historisch belegt werden.
+Exakte Fluchtdistanz in Metern: Die Quellen beschreiben das Verhalten als scheu und die Flucht als blitzartig in Felsspalten, benennen jedoch keine durchschnittliche Fluchtdistanz in absoluten Zahlen (z. B. "Flucht ab 4 Metern").
+Monatsgenaue Verhaltensprotokolle: Dass die Art Ende September bis Mitte Oktober brütet, lässt sich ökologisch deduktiv durch den Regenzeitbeginn und den Termitenflug (Nahrungsspitze) ableiten, ist jedoch nicht als empirisches, datumsspezifisches Zitat in den Quellen referenziert.
+Referenzen
+Agama lionotus BOULENGER, 1896 - The Reptile Database, https://reptile-database.reptarium.cz/Agama/lionotus
+Agama lionotus - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Agama_lionotus
+Agama (lizard) - Wikipedia, https://en.wikipedia.org/wiki/Agama_(lizard)
+Ostafrikanische Siedleragame - Zootier Lexikon, https://www.zootier-lexikon.org/kriechtiere-reptilia/echsen/agamen/agamidae-agama-lionotus
+Agama lionotus (Kenyan Rock Agama) - BioLib.cz, https://www.biolib.cz/en/taxon/id449931/
+Agama lionotus - Wikipedia, https://en.wikipedia.org/wiki/Agama_lionotus
+The Mythology of All Races 7 : Armenian and African - dokumen.pub, https://dokumen.pub/the-mythology-of-all-races-7-armenian-and-african.html
+The Mythology of All Races, Volume 7: Armenian and African, https://wordandsilence.com/wp-content/uploads/2017/11/mythology-of-all-races-7-armenian-african.pdf
+Agama Lizard - A-Z Animals, https://a-z-animals.com/animals/agama-lizard/
+Agamidae) from western Kenya, East Africa, with comments on, https://www.researchgate.net/publication/258867706_A_new_species_of_the_Agama_agama_group_Squamata_Agamidae_from_western_Kenya_East_Africa_with_comments_on_Agama_lionotus_Boulenger_1896
+(PDF) Additions to the lizard diversity of the Horn of Africa: Two new, https://www.researchgate.net/publication/256847305_Additions_to_the_lizard_diversity_of_the_Horn_of_Africa_Two_new_species_in_the_Agama_spinosa_group
+Agamidae) from synonymy and elevation to species rank, https://www.researchgate.net/publication/281575014_Studies_on_African_Agama_III_Resurrection_of_Agama_agama_turuensis_Loveridge_1932_Squamata_Agamidae_from_synonymy_and_elevation_to_species_rank
+A Photographic Guide To Snakes, Other Reptiles and Amphibians of, https://www.scribd.com/document/622641044/A-Photographic-Guide-to-Snakes-other-Reptiles-and-Amphibians-of-East-Africa-PDFDrive
+Studies on African Agama VIII. A new subspecies of ... - ResearchGate, https://www.researchgate.net/publication/235915807_Studies_on_African_Agama_VIII_A_new_subspecies_of_Agama_caudospinosa_Meek_1910_Sauria_Agamidae
+Agama turuensis - Grokipedia, https://grokipedia.com/page/agama_turuensis
+Studies on African Agama IX. New insights into Agama finchi Böhme, https://zoologicalbulletin.de/BzB_Volumes/Volume_60_1/025_034_BzB60_1_Wagner_Philipp_et_al.pdf
+Opponent assessment in lizards: examining the effect of aggressive, https://www.researchgate.net/publication/46512315_Opponent_assessment_in_lizards_Examining_the_effect_of_aggressive_and_submissive_signals
+interpreting the function of visual displays of the Indian rock lizard, https://www.researchgate.net/publication/225719342_The_language_of_lizards_Interpreting_the_function_of_visual_displays_of_the_Indian_rock_lizard_Psammophilus_dorsalis_Agamidae
+and structurally based body coloration in a polymorphic lizard, https://digital.csic.es/bitstream/10261/431873/1/Romero-Diaz_JTherBiol_2025.pdf
+Notes on the ecology of a suburban population of Rainbow lizards in, https://www.researchgate.net/publication/230089866_Notes_on_the_ecology_of_a_suburban_population_of_Rainbow_lizards_in_coastal_Kenya
+Surprising Facts about Lizards Mating Behaviors - YouTube, https://www.youtube.com/watch?v=RbGQ6Zt0oVE
+Links Between Variation in Movement-Based Visual Signals and, https://pmc.ncbi.nlm.nih.gov/articles/PMC11718965/
+Photonic crystals cause active colour change in chameleons - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC4366488/
+Variation in Color and Color Change in Island and Mainland Boas, https://biology.appstate.edu/sites/default/files/28_boback_siefferman_2010.pdf
+Clubbed Regenerated Tails in Agama agama and Their Possible, https://www.researchgate.net/publication/274332683_Clubbed_Regenerated_Tails_in_Agama_agama_and_Their_Possible_Use_in_Social_Interactions
+A Comparison of the Breeding and Nonbreeding Season Diets of, https://bioone.org/journals/journal-of-herpetology/volume-36/issue-3/0022-1511(2002)036%5B0515%3AACOTBA%5D2.0.CO%3B2/A-Comparison-of-the-Breeding-and-Nonbreeding-Season-Diets-of/10.1670/0022-1511(2002)036[0515:ACOTBA]2.0.CO;2.short
+REPTILES (Agama Lizard): Ultimate Guide, https://www.notesforshs.com/2022/11/reptiles-agama-lizard.html
+the great rift economic development corridor (biretwo-arror, https://www.afdb.org/sites/default/files/kenya-road-development-project-phase-1-biretwo-arror-chesongoch-road-project-biodiversity-management-plan.pdf
+Acanthocercus atricollis (SMITH, 1849) - The Reptile Database, https://reptile-database.reptarium.cz/Acanthocercus/atricollis
+Lucy's Agama (Agama lucyae) - All Angles Creatures, https://www.allanglescreatures.com/species/agama-lucyae
+aCaRI (ChelICeRaTa) — PaRasITes OF RePTIles M. Fajfer, https://acarina.utmn.ru/upload/iblock/cb5/Fajfer2012.pdf
+Untersuchung zum Blutparasitenstatus importierter Reptilien, https://edoc.ub.uni-muenchen.de/18598/7/Halla_Ursula.pdf
+Digo-English-Swahili Dictionary - Bible Translation & Literacy, https://www.btlkenya.org/wp-content/uploads/2021/06/Digo-Dictionary-1.pdf
+Full text of "A handbook of the Swahili language, as spoken at, https://archive.org/stream/handbookofswahil00steeuoft/handbookofswahil00steeuoft_djvu.txt
+(PDF) THE MYTHOLOGY OF ALL RACES, Volume 7, Armenian (By, https://www.academia.edu/35319827/THE_MYTHOLOGY_OF_ALL_RACES_Volume_7_Armenian_By_MARDIROS_H_ANANIKIAN_and_African_Mythologies_Editorial_group_1925
+Agama agama (LINNAEUS, 1758) - The Reptile Database - Reptarium, https://reptile-database.reptarium.cz/Agama/agama
+(PDF) An extraordinary tail - integrative review of the agamid genus, https://www.researchgate.net/publication/235960366_An_extraordinary_tail_-_integrative_review_of_the_agamid_genus_Xenagama
+Agama lionotus - GBIF, https://www.gbif.org/taxon/5DF4B
+Studies on African Agama V. On the origin of Lacerta agama, https://zoologicalbulletin.de/BzB_Volumes/Volume_56_4/215_223_BZB56_4_Wagner_Philipp_et_al.PDF
+Agama - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Agama

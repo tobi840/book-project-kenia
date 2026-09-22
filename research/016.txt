@@ -1,296 +1,164 @@
-Strukturiertes Rohmaterial: Vachellia xanthophloea (Fieberbaum)
+﻿086 Marabu (Leptoptilos crumenifer) – Strukturiertes Rohmaterial
 1. Namen und Etymologie
-Die taxonomische Nomenklatur und die volkssprachlichen Bezeichnungen der Art spiegeln sowohl die botanische Forschungsgeschichte als auch die historische Wahrnehmung durch lokale Gemeinschaften und Kolonisten wider. Die Art wurde im Laufe der Zeit in verschiedene Gattungen eingeordnet, was zu Synonymen in der wissenschaftlichen Literatur geführt hat (Status: gesichert)1.
-Der anerkannte wissenschaftliche Name lautet Vachellia xanthophloea (Benth.) Banfi & Galasso (Status: gesichert)1. Das Basionym der Art ist Acacia xanthophloea Benth. (Status: gesichert)1. Der Gattungsname Vachellia wurde zu Ehren von George H. Vachell (1789–1839) vergeben, einem britischen Geistlichen und Pflanzensammler, der in China tätig war (Status: gesichert)6. Das spezifische Epitheton xanthophloea leitet sich aus dem Griechischen ab und setzt sich aus den Wörtern xanthos (gelb oder golden) und phloios (Baumrinde) zusammen, was wörtlich "gelbe Rinde" bedeutet (Status: gesichert)1.
-Die nachfolgende Tabelle fasst die dokumentierten Trivialnamen, ihre sprachliche Herkunft und, sofern in den Quellen belegt, ihre wörtliche Bedeutung zusammen.
-
-Trivialname
-	Sprache / Gemeinschaft
-	Wörtliche Bedeutung / Etymologie
-	Status
-	Quellen
-
-Fieberbaum
-	Deutsch
-	Übersetzung des englischen Trivialnamens.
-	Gesichert
-	User Query
-
-Fever tree / Yellow fever tree
-	Englisch
-	Geht auf europäische Pioniere zurück. Die Bezeichnung entstand, da in den feuchten Sumpfgebieten, in denen der Baum wächst, häufig Malaria-Erkrankungen ("Fieber") auftraten.
-	Gesichert
-	4
-
-Mgunga mweupe
-	Swahili
-	mgunga bedeutet Akazie, mweupe bedeutet weiß oder hell.
-	Gesichert
-	10
-
-Mkambala
-	Swahili
-	Unbekannt.
-	Überliefert
-	User Query
-
-Murera
-	Kikuyu
-	Unbekannt.
-	Gesichert
-	11
-
-Olerai
-	Maa (Maasai)
-	Unbekannt.
-	Gesichert
-	11
-
-Kimweya / Mweya / Musewa / Mulela
-	Kamba
-	Unbekannt.
-	Gesichert
-	11
-
-Sesiai
-	Samburu
-	Unbekannt.
-	Vermutet
-	15
-
-Kuth ataro
-	Luo
-	Unbekannt.
-	Gesichert
-	12
-
-Ochmnyaliliet
-	Kipsigis
-	Unbekannt.
-	Gesichert
-	12
-
-Mwelela
-	Taveta
-	Unbekannt.
-	Gesichert
-	12
-
-Hwacho dima
-	Boran
-	Unbekannt.
-	Gesichert
-	12
-
-Reno
-	Marakwet
-	Unbekannt.
-	Gesichert
-	12
-
-Unbekannt
-	Giriama
-	In den zugrunde liegenden Quellen existiert kein Beleg für einen Namen in der Sprache der Giriama.
-	Gesichert
-	-
+Die systematische Erfassung und Benennung der Art stützt sich auf eine komplexe Nomenklatur, die historische, linguistische und morphologische Aspekte vereint.
+Es ist taxonomisch dokumentiert (gesichert), dass der lateinische Artname Leptoptilos crumenifer im Jahr 1831 von dem französischen Naturforscher René Primevère Lesson vergeben wurde1. Die Etymologie des Gattungsnamens Leptoptilos leitet sich aus dem Altgriechischen ab: Das Wort leptos (λεπτός) bedeutet wörtlich „zart“, „dünn“ oder „schlank“ (gesichert), während ptilon oder ptilos (πτίλον) mit „Feder“ übersetzt wird (gesichert)1. Das Artepitheton crumenifer (in der historischen Literatur und in Synonymen gelegentlich als crumeniferus dekliniert) stammt aus dem Lateinischen. Es setzt sich aus crumena für „Geldbeutel“ oder „Tasche“ und dem Suffix -fer für „tragend“ zusammen. Die wörtliche Bedeutung lautet demnach „Träger eines Geldbeutels“ (gesichert), was eine direkte morphologische Referenz auf den markanten, herabhängenden Kehlsack des Vogels darstellt3.
+Der etablierte deutsche Trivialname lautet Marabu (gesichert)6. Im englischen Sprachraum wird die Art als Marabou stork bezeichnet (gesichert)1. Es ist etymologisch belegt (gesichert), dass sich der Begriff „Marabu“ beziehungsweise „Marabou“ aus dem arabischen Wort murābit ableitet. Dieser Begriff bezeichnet einen muslimischen Gelehrten oder Einsiedler (gesichert). Diese Namensgebung entstand in der Kolonialzeit, da die stoische, unbewegliche Haltung, der kahle Kopf und die dunklen, umhangartigen Flügel des Vogels europäische und arabische Beobachter an das Erscheinungsbild eines in einen Mantel gehüllten Klerikers erinnerten (gesichert)6.
+In Ostafrika existieren diverse lokale Bezeichnungen, deren linguistischer Status variiert. In der Verkehrssprache Swahili lautet der Name Korongo (gesichert). In der Sprache der Kikuyu wird der Vogel in Mythen als Kanyoni wa Ng'ethe bezeichnet (überliefert)9. Eine weitere regionale Kikuyu-Bezeichnung lautet gaikia ngūū (überliefert), was etymologisch mit dem charakteristischen Ruf des Vogels in den Abendstunden der Regenzeit in Verbindung gebracht wird9. In den Sprachen der Giriama, Ilwana und Pokomo sind die Bezeichnungen babalona und babiloona dokumentiert (gesichert), wobei linguistische Analysen darauf hindeuten, dass es sich hierbei um ein Lehnwort aus dem Somali handeln könnte (vermutet)10. Für die Sprachen der Kamba, Maa und Samburu konnten in der ornithologischen und linguistischen Literatur keine spezifischen, exklusiv für diese Art verwendeten und wörtlich übersetzbaren Eigennamen identifiziert werden; ihr Status verbleibt in diesem Kontext als unbekannt (gesichert)10.
 2. Erscheinung, mit Maßen
-Die Morphologie von Vachellia xanthophloea variiert in Abhängigkeit von den Altersstufen und dem spezifischen Standort, weist jedoch messbare phänotypische Konstanten auf. Der Baum wächst als mittelgroßer bis großer, laubabwerfender Baum mit einer offenen, ausladenden und teils kugelförmigen Krone (Status: gesichert)7.
-Dimensionen des Baumes
-Die Wuchshöhe ausgewachsener Individuen wird in der Literatur konsistent mit einer Spanne von 15 bis 25 m angegeben (Status: gesichert)4. Der Stamm wächst in der Regel gerade heran (Status: gesichert)6. Spezifische absolute Gewichtsmesswerte für den Baum liegen in den Quellen nicht vor (Status: Lücke). Messungen in Waldgebieten wie dem Rau Catchment Forest Reserve (Tansania) ergaben für Waldparzellen, in denen Vachellia xanthophloea vorkommt, ein durchschnittliches stehendes Holzvolumen (standing volume) von 405,75 ± 227,16 m³/ha und eine Basalfläche (basal area) von 23,05 ± 12,37 m²/ha (Status: gesichert)18. Eine spezifische Angabe zur reinen Holzdichte der Art in metrischen Einheiten fehlt in den botanischen Beschreibungen der Dokumente (Status: Lücke).
-Rinde und Stamm
-Die Rinde stellt das primäre Identifikationsmerkmal dar. Sie ist glatt, pulvrig und von einer hellen, grünlich-gelben Färbung (Status: gesichert)4. Es bestehen farbliche und texturelle Unterschiede zwischen den Altersstufen der Pflanzenteile: Junge Zweige und Triebe weisen zunächst eine violette Färbung auf; erst im weiteren Wachstumsverlauf blättert diese äußere Schicht ab und gibt die charakteristische schwefelgelbe Rinde frei (Status: gesichert)4. An älteren Stämmen reißt die Rinde gelegentlich auf oder schuppt ab, was dem Baum ein geflecktes Erscheinungsbild verleiht, und ein graulich-rosafarbener Anschnitt (Slash) wird sichtbar, der ein rötliches, minderwertiges Harz (Gummi) absondert (Status: gesichert)16.
-Blattwerk und Dornen
-Die Blätter sind doppelt gefiedert (bipinnat) strukturiert. Ein einzelnes Blatt besteht aus 3 bis 6 Paaren von Fiedern (Pinnulae), an denen jeweils 10 bis 30 Paare von Einzelblättchen sitzen (Status: gesichert)16. Diese Einzelblättchen messen in der Länge 4 bis 8 mm und in der Breite 2 mm (Status: gesichert, unter Benennung einer Spannen-Überschneidung aus zwei Quellen)4. Am unteren Ende des letzten Fiederpaares befindet sich an der Blattachse (Rachis) eine Drüse (Status: gesichert)16.
-Das Bewehrungssystem des Baumes besteht aus Nebenblattdornen (Stipulardornen). Diese Dornen sind weiß, gerade und spitz zulaufend; sie wachsen paarweise direkt an den Astknoten (Status: gesichert)4. Es gibt signifikante Unterschiede in der Bewehrung zwischen den Altersstufen: Junge Bäume und Äste weisen 3 bis 12 Dornenpaare in einer fortlaufenden Reihe auf, wobei die einzelnen Dornen eine Länge von 5 bis 7,5 cm erreichen. Im Gegensatz dazu verlieren ältere, ausgewachsene Bäume an ihren Hauptstämmen und älteren Ästen die Dornenbildung meist vollständig (Status: gesichert)16.
-Blüten, Früchte und Samen
-Die Blüten sind zwittrig (bisexuell) und in stark duftenden, kugelförmigen Blütenständen (capitate inflorescences) angeordnet. Diese Köpfchen haben einen Durchmesser von 1,2 bis 1,5 cm und sind von blasscremefarbener bis leuchtend goldgelber Farbe (Status: gesichert)4. Sie sitzen auf 2 bis 3 cm langen Stielen (Pedunkeln), die gehäuft in den Blattachseln oder an den Zweigenden austreiben (Status: gesichert)4. Die Blüten enthalten herausragende (exserted) Staubblätter und Stempel mit einem oberständigen Fruchtknoten (Status: gesichert)16.
-Nach der Bestäubung bilden sich die Früchte in Form von Hülsen (Pods). Diese sind gerade bis leicht gekrümmt, abgeflacht und weisen eine papierartige Textur auf (Status: gesichert)4. Unreife Hülsen sind grün und verfärben sich im Reifeprozess zu einem blassen Grau oder Graubraun (Status: gesichert)4. Bei den Maßangaben der Hülsenlänge existiert ein leichter Widerspruch in den Quellen: Eine Quelle nennt eine Länge von 5 bis 19 cm4, während eine andere Quelle 5 bis 15 cm Länge bei einer Breite von 0,5 bis 1,2 cm angibt (Status: gesichert, Widerspruch benannt)16. Die Hülsen sind schwer aufspringend (tardily dehiscent) und brechen oft in kleinere Segmente auf (Status: gesichert)4.
-Jede Hülse enthält 5 bis 10 abgeflachte, elliptische, grüne Samen (Status: gesichert)4. Für die Größenordnung der Samen existiert ein Alltagsvergleich in der Literatur: Die Samen haben die Größe von Annattosamen oder metallischen BB-Schrotkugeln (Kaliber 0.177, was exakt 4,5 mm entspricht) (Status: gesichert)20.
+Der Marabu ist ein massiver, aufrecht stehender Schreitvogel, dessen Körperbau durch extrem lange Beine, einen breiten Rumpf und eine beachtliche Flügelspannweite charakterisiert ist (gesichert). Die morphologischen Daten variieren zwischen den Individuen, zeigen jedoch deutliche Durchschnittswerte.
+Biometrische Daten
+
+
+Merkmal
+	Messwert / Spanne
+	Anmerkung / Alltagsvergleich
+	Quelle
+	Körperhöhe (stehend)
+	110,0 bis 152,0 cm
+	Entspricht etwa 81 % der Durchschnittshöhe eines erwachsenen Menschen (172,0 cm) (gesichert).
+	5
+	Körperlänge (Schnabel bis Schwanz)
+	115,0 bis 152,0 cm
+	Der typische Durchschnitt liegt in einer Spanne von 120,0 bis 130,0 cm (gesichert).
+	5
+	Flügelspannweite
+	210,0 bis 287,0 cm
+	Übertrifft in der maximalen Ausdehnung die Höhe einer Standard-Zimmertür (200,0 cm) (gesichert).
+	1
+	Gewicht
+	4,0 bis 9,0 kg
+	Die typische Spanne erwachsener Vögel liegt zwischen 4,5 und 8,0 kg (gesichert).
+	5
+	Schnabellänge
+	26,4 bis 35,0 cm
+	Ein massives, spitz zulaufendes Horngebilde (gesichert).
+	5
+	Flügellänge (karpales Gelenk bis Spitze)
+	66,8 bis 81,3 cm
+	Messung nach der Kleinschmidt-Methode bei maximaler Streckung der Handschwingen (gesichert).
+	14
+	Handflügelindex (HWI)
+	40,0 % bis 44,0 %
+	Flugbiologisches Maß zur Bestimmung der Flügelspitzigkeit (gesichert).
+	14
+	Die farbliche Beschaffenheit des Gefieders ist kontrastreich. Der Rücken, die Flügeldecken und der Schwanz sind dunkel schiefergrau bis schwärzlich gefärbt (gesichert). Unter direkter Sonneneinstrahlung weist dieses dunkle Gefieder einen feinen grünlichen, bräunlichen oder purpurnen Schimmer auf (gesichert)1. Im starken Kontrast dazu stehen der Bauch, die Brust und die Unterflügeldecken, welche reinweiß gefärbt sind (gesichert)1. Eine auffällige weiße Halskrause trennt das Körpergefieder vom nackten Hals (gesichert)5.
+Der Kopf und der größte Teil des Halses sind unbefiedert. Die Haut in diesen Bereichen ist stark pigmentiert, rosa bis rötlich gefärbt und lediglich von spärlichen, wolligen Daunen und haarähnlichen Strukturen durchsetzt (gesichert)8. Eine dicke, verkrustete Hautschicht am vorderen Kopf dient als evolutionärer Schutz gegen Blasenbildung durch ultraviolette Strahlung, da diese Blasen aufbrechen und sich infizieren könnten (gesichert)13. Der massive, keilförmige Schnabel weist eine gräuliche bis elfenbeinfarbene Hornfärbung auf (gesichert)6. Die Beine und Füße sind von Natur aus dunkelgrau bis schwarz (gesichert)5. Aufgrund der Thermoregulation durch Exkremente (Urohidrosis) erscheinen sie im Feld jedoch fast ausschließlich kreideweiß (gesichert)4. Die Augen sind nach vorne gerichtet und ermöglichen ein starkes binokulares Sehen; die Iris adulter Tiere ist dunkelbraun (gesichert)13.
+Es liegt ein moderater Geschlechtsdimorphismus vor. Die Geschlechter sind in ihrer Färbung identisch, jedoch sind männliche Exemplare im Durchschnitt schwerer, besitzen einen dickeren und tieferen Schnabel und weisen tendenziell einen massigeren Kehlsack auf als weibliche Vögel (gesichert)5. Signifikante Unterschiede bestehen zwischen den Altersstufen: Jungvögel besitzen ein matteres, deutlich brauneres Rückengefieder, ihr Schnabel ist kürzer und schmaler, und ihr Kopf ist dichter mit Daunen bedeckt (gesichert)1. Die vollständige Ausfärbung und physische Reife (Adultstadium) erreichen die Vögel erst nach einer Entwicklungszeit von bis zu vier Jahren (gesichert)5.
 3. Der Mechanismus
-Das primäre biologische Prinzip, das Vachellia xanthophloea physiologisch von der Mehrheit der bedecktsamigen Baumarten unterscheidet, ist die ausgeprägte kortikale Photosynthese (Rindenphotosynthese bzw. Stammphotosynthese) (Status: gesichert)4.
-Funktionsweise und physiologische Grundlage
-Bei der kortikalen Photosynthese findet die Fixierung von Kohlenstoffdioxid unter Nutzung von Lichtenergie nicht ausschließlich im Palisaden- und Schwammparenchym der Blätter statt, sondern zusätzlich in den äußeren Gewebeschichten des Stammes und der Äste. Die gelblich-grüne Färbung der Rinde ist ein direkter optischer Indikator für hohe Konzentrationen von Chlorophyll – dem zentralen grünen Pigment, das die Lichtenergie der Sonne absorbiert – direkt unterhalb der äußersten Rindenschicht (Status: gesichert)4. V. xanthophloea ist eine der wenigen Baumarten weltweit, die diesen Mechanismus derart prominent ausgebildet haben (Status: gesichert)4.
-Die ökologische Kausalkette
-Die Rindenphotosynthese ist keine zufällige Mutation, sondern das Resultat einer zwingenden evolutionären Kausalkette, die das Überleben der Art in ihrem spezifischen Habitat sichert. Die Kette verläuft wie folgt:
-Standortbedingung (A): Die Art ist in weiten Teilen ihres Verbreitungsgebiets auf Zonen angewiesen, die periodisch durch extreme Trockenheit und hohe Temperaturen gekennzeichnet sind (semi-aride Buschlandschaften), wobei sie jedoch gleichzeitig einen hohen Grundwasserspiegel benötigt (Status: gesichert)4.
-Auslöser durch abiotischen Stress (B): In ausgeprägten Trockenzeiten verdunstet das Oberflächenwasser, und die Wasserverfügbarkeit im Boden sinkt lokal. Um einen tödlichen Wasserverlust (Transpiration) durch die geöffneten Spaltöffnungen (Stomata) in den Blättern zu verhindern, wirft der Baum sein Laub ab (Status: gesichert)17.
-Physiologische Kompensation (C): Ohne Blätter käme die Energieproduktion (Zuckerassimilation) durch herkömmliche Photosynthese zum Erliegen. Hier setzt die Rindenphotosynthese ein: Das Chlorophyll in der Rinde und in den Zweigen übernimmt die Funktion der Lichtabsorption (Status: gesichert)19.
-Überlebensvorteil (D): Durch die corticulare Photosynthese kann der blattlose Baum auch während langanhaltender Trockenperioden Kohlenhydrate synthetisieren. Dies ermöglicht die Aufrechterhaltung des Erhaltungsstoffwechsels und weiteres Wachstum ohne den massiven Wasserverlust, der mit einer belaubten Krone in diesen Perioden unvermeidlich wäre (Status: gesichert)19.
-Forschung und Belegbarkeit
-Die Erforschung der Determinanten der Vegetation, in die V. xanthophloea eingebettet ist, wurde in der Vergangenheit detailliert durch Studien analysiert. So präsentierten Gregory et al. (1991) sowie Carter und Rogers (1995) hierarchische Klassifikationen der ökologischen Faktoren (Elevation, Hydrologie, Sedimentstabilität), die das Wachstum in Flussauen (Floodplains) bedingen (Status: gesichert)22. Dass die Stammphotosynthese bei V. xanthophloea existiert, wird in ökologischen Papern immer wieder konstatiert. Spezifische, auf den Quadratzentimeter bezogene Zahlenwerte der Netto-Assimilationsrate der Rinde im direkten Vergleich zur Blattoberfläche bei genau dieser Art oder der namentlich genannte Erstentdecker dieses Mechanismus bei V. xanthophloea sind in der vorliegenden Literaturbasis jedoch nicht datiert (Status: Lücke)22. Konkurrierende Erklärungen für die gelbe Rindenfarbe (etwa reine Pilzabwehr oder Temperaturregulierung ohne Photosyntheseleistung) werden in den aktuellen pflanzenphysiologischen Beschreibungen nicht als primäre Erklärungen aufgeführt (Status: gesichert).
+Die ökologische Dominanz des Marabus in den ariden und semi-ariden Habitaten Ostafrikas beruht auf einem synchronisierten biologischen Komplex aus Thermoregulation, morphologischer Anpassung an Nekrophagie und einem hochspezialisierten respiratorischen Kommunikationssystem.
+Die Urohidrosis stellt den zentralen thermoregulatorischen Mechanismus dar, durch den der Vogel extreme Hitzeperioden in offenen Savannen überlebt (gesichert). Dieser physiologische Verhaltensmechanismus wurde erstmals 1966 von dem amerikanischen Ornithologen M. P. Kahl in seiner Publikation Comparative Ethology of the Ciconiidae quantifiziert und detailliert beschrieben (gesichert)18. Die ökologische Kausalkette der Urohidrosis läuft wie folgt ab: Eine anhaltend hohe Umgebungstemperatur und direkte Sonneneinstrahlung führen zu einem kritischen Anstieg der Körperkerntemperatur des Vogels (Hyperthermie)    Um dieser Überhitzung entgegenzuwirken, löst das zentrale Nervensystem das Verhalten der Urohidrosis aus    Der Storch scheidet gezielt flüssige Exkremente (eine Mischung aus Urin und Kot) auf die unbefiederten Teile seiner Beine (Tarsi) aus    Das in den Exkrementen enthaltene Wasser verdunstet in der trockenen, heißen Umgebungsluft    Der physikalische Prozess der Verdunstung entzieht der Beinoberfläche und dem dicht darunter fließenden venösen Blut erhebliche Verdunstungskälte (Evaporationskühlung)    Das physikalisch abgekühlte Blut zirkuliert über das Gefäßsystem zurück in den Körperkern    Die Gesamt-Körpertemperatur des Vogels sinkt signifikant und bewahrt das Tier vor dem Hitzetod (gesichert)19. Dieser Prozess ist die ursächliche Erklärung dafür, dass die Beine des Marabus kalkweiß erscheinen (gesichert)4. Ergänzt wird dies durch die "Delta-Wing-Posture", bei der die Vögel ihre Flügel abspreizen (Spannweite bis 287,0 cm), um durch Konvektion und Wärmeabstrahlung an den unbefiederten Achselbereichen (Axillarregion) zusätzliche Körperwärme an den Wind abzugeben (gesichert)19.
+Ein zweites zentrales biologisches Prinzip manifestiert sich in der Anatomie des Gularsacks (Kehlsack). Dieser hängt fleischig und rosa an der vorderen Halsregion herab, während ein zweiter, kleinerer und unauffälligerer Luftsack im Nacken unter der weißen Halskrause verborgen liegt (gesichert)13. Entgegen historischer Vermutungen dient dieser Sack nicht der Speicherung von Nahrungsgütern (gesichert)22. Die anatomische Forschung von A. R. Akester, D. E. Pomeroy und M. D. Purton aus dem Jahr 1973 belegt, dass es sich um ein komplexes subkutanes Luftsacksystem handelt, das direkt mit dem Atemtrakt verbunden ist (gesichert)23. Da Störche keinen voll ausgebildeten Stimmkopf (Syrinx) besitzen und daher weitgehend stumm sind, fungiert der Gularsack als mechanischer Resonanzkörper (gesichert). Wenn der Marabu bei der Balz oder zur Revierverteidigung seine Kiefer heftig aufeinanderschlägt (Schnabelklappern / Bill-clattering), wird Luft in den Sack gepumpt. Der Sack verstärkt tiefe Frequenzen und ermöglicht die Produktion von gutturalen Lauten, Grunzen, Zischen und pfeifenden Geräuschen (gesichert)5.
+Zuletzt bildet der kahle Kopf eine Kausalkette der Anpassung an die Aasfresserei. Der Mechanismus funktioniert wie folgt: Der Marabu stößt seinen Kopf tief in die aufgerissene Bauchhöhle von Großtierkadavern    Ein regulär befiederter Kopf würde durch gerinnendes Blut, Gewebeflüssigkeiten und nekrotische Substanzen stark verkleben    Dies würde zu Infektionen, parasitärem Befall (Myiasis) und dem Verlust der thermoregulatorischen Gefiederfunktion führen    Die nackte, melaninreiche Kopfhaut verhindert das Anhaften von Biomasse und kann durch die intensive ultraviolette Sonnenstrahlung Ostafrikas schnell getrocknet und passiv sterilisiert werden (gesichert)1. Diese konvergente Evolution teilt die Art mit Geiern, mit denen sie in direkter interspezifischer Konkurrenz am Kadaver steht (gesichert).
 4. Ökologie und Verhalten
-Lebensraum und Standortansprüche
-Vachellia xanthophloea gedeiht in Flusswäldern (riverine forests), an Seeufern, in Sumpfgebieten und auf saisonalen Überschwemmungsflächen (Floodplains) in semi-ariden bis semi-immergrünen Buschlandschaften (Status: gesichert)4. Der entscheidende edaphische (bodenkundliche) Faktor für das Vorkommen ist das Vorhandensein eines konstant hohen Grundwasserspiegels (Status: gesichert)4.
-Auf der geographischen Route durch Kenia sind die bedeutendsten, großflächigen Vorkommen im Rift Valley dokumentiert, insbesondere an den Ufern von Lake Naivasha, Lake Nakuru und Lake Baringo (Status: gesichert)7. Das Vorkommen im an den Lake Naivasha angrenzenden Hell's Gate National Park entspricht den ökologischen Habitatsanforderungen und ist plausibel (Status: überliefert) [User Query].
-Sozialverhalten der Bäume und Populationsdynamik
-Die Art zeigt ein ausgeprägtes Bestandsverhalten: Sie tendiert dazu, dichte, geschlossene und oft reinrassige Monokulturen (single species stands) zu bilden, in denen die Individuen dasselbe Alter aufweisen (even-aged stands) (Status: gesichert)4. Analysen der Größenverteilung in den Wäldern rund um den Lake Naivasha aus dem Jahr 2010 bestätigten dieses gleichaltrige Wachstumsmuster (Status: gesichert)25. Ebenso charakteristisch wie das gemeinsame Aufwachsen ist das synchrone Absterben (synchronous senescence) ganzer Bestände. Die wissenschaftlichen Erklärungen für diese flächenhaften "Diebacks" (Waldsterben) umfassen drei Ursachen, die parallel wirken können:
-Schwankungen des Grundwasserspiegels (Wassermangel oder zu langes Ertrinken der Wurzeln).
-Natürliche, genetisch programmierte Seneszenz einer gleichaltrigen Kohorte (da die Art als kurzlebig gilt).
-Massiver mechanischer Stress und Rindenfraß durch große Herbivoren wie Elefanten. (Status: gesichert)4. Eine Rekrutierung von Jungbäumen (Recruits) findet laut Untersuchungen bevorzugt in Gebieten mit geringer Kronengeschlossenheit und trotz hohem Wildtiereinfluss statt, wird jedoch durch eine hohe elektrische Leitfähigkeit des Bodens (Versalzung) verhindert (Status: gesichert)25.
-Zusätzlich trägt die Art aktiv zur Bodengesundheit bei: Als Leguminose geht V. xanthophloea eine symbiotische Beziehung mit stickstofffixierenden Bakterien (Rhizobien) in ihren Wurzelknöllchen ein, was den atmosphärischen Stickstoff in den Boden überführt und die Fruchtbarkeit des umliegenden Ökosystems anreichert (Status: gesichert)4.
-Saisonale Muster: Der Zeitraum Ende September bis Anfang Oktober
-Der anvisierte Reisezeitraum (24.09. bis 12.10.) fällt in Kenia exakt in das Ende der langen Trockenzeit und markiert den Beginn der "kleinen Regenzeit" (Short Rains). Dieses Zeitfenster diktiert ein spezifisches ökologisches Verhalten:
-Baumverhalten: Der Baum hat monatelangem Wasserstress standgehalten und sich stark auf seine Rindenphotosynthese verlassen. Mit dem Eintreffen der ersten sporadischen Regenfälle beginnen männliche Pflanzen (insofern phänologisch synchronisiert) ihre Blütenstände zu öffnen und produzieren große Mengen an Pollen, was wiederum gezielt Insekten (wie Bienen) anlockt, für die der Baum eine essenzielle Nahrungsquelle (Bienenweide) nach der Trachtlücke der Trockenzeit darstellt (Status: abgeleitet aus Phänologieangaben zu verwandten Akazien und Klimadaten)4.
-Fraßdruck: Genau am Ende der Trockenzeit erreicht der Fraßdruck durch Herbivoren seinen Höhepunkt, da flachwurzelnde Gräser und andere Sträucher vertrocknet sind.
-Abhängige Arten (Das ökologische Nahrungsnetz)
-Die Art bildet das Zentrum eines komplexen Nahrungsnetzes. Mehrere Arten sind zur Nahrungsaufnahme, Fortpflanzung oder Habitatsnutzung von ihr abhängig (Status: gesichert).
-
-Art / Tiergruppe
-	Art der Nutzung / Abhängigkeit
-	Spezifische Zahlen / Details
-	Status
-	Quellen
-
-Netzgiraffen (Giraffa spp.)
-	Fressen intensiv Blätter, kleine Zweige und reife Schoten.
-	In der Trockenzeit machen Vachellia xanthophloea 67 % der gesamten Nahrungsaufnahme von Giraffen im Lake Nakuru National Park (LNNP) aus (gemessen: n = 1743 von 2420 Fraßbeobachtungen). Übermäßiger Fraß korreliert lokal mit dem Rückgang der Baumpopulation.
-	Gesichert
-	4
-
-Afrikanische Elefanten
-	Verzehren junge Äste, Laub und Schoten. Sie schälen die Rinde und entwurzeln mitunter ganze Bäume, was zur Bestandsregulierung beiträgt.
-	Keine absoluten Konsummengen angegeben.
-	Gesichert
-	4
-
-Südliche Grünmeerkatze (Vervet monkey)
-	Frisst Blätter und die proteinhaltigen Samenhülsen.
-	Keine absoluten Konsummengen angegeben.
-	Gesichert
-	4
-
-Senegal-Galago (Bushbaby, Galago senegalensis)
-	Ernährt sich, besonders während der extremen Trockenzeit, von dem energiereichen Baumharz (Gummi), das aus dem Stamm austritt.
-	Keine absoluten Konsummengen angegeben.
-	Gesichert
-	4
-
-Insekten (Schmetterlinge)
-	Dient als spezifische Raupenfutterpflanze.
-	Dokumentierte Arten in Kenia umfassen: Anthene kikuyu (Kikuyu ciliate blue), Anthene pitmani, Anthene definita, Azanus jesous, Cigaritis victoriae und Leptotes pirithous. Zudem fressen 30 Arten größerer Motten am Laub.
-	Gesichert
-	4
-
-Bienen
-	Nutzen die intensiv duftenden, goldgelben Blütenköpfe als Nektar- und Pollenquelle.
-	Unterstützt lokale Imkerei durch hochwertigen Honig.
-	Gesichert
-	4
-
-Pflanzen: Sarcophyte sanguinea
-	Eine fleischige, parasitische Blütenpflanze der Familie Balanophoraceae.
-	Wächst spezifisch und parasitär an den Wurzeln von V. xanthophloea.
-	Gesichert
-	28
-
-Vögel & Affen
-	Nutzen die offenen Kronen und bewehrt geschützten Astgabeln als bevorzugte Brut-, Nist- und Ruheplätze.
-	Weibliche Giraffen ruhen zu 56% unter dem Blätterdach, männliche zu 44%.
-	Gesichert
-	4
+Die Ökologie des Marabus zeichnet sich durch extrem opportunistische Ernährungsmuster, weitreichende Flugbewegungen und eine starke Habituation an anthropogen überformte Landschaften aus.
+Der natürliche Lebensraum umfasst offene, trockene Savannen, Grasländer, Flussufer, Seeufer und Sumpfgebiete (gesichert)4. Der Marabu weist tagesaktive und dämmerungsaktive Verhaltensmuster auf (gesichert)8. Seine Bewegung im Raum wird stark von thermischen Aufwinden diktiert. Mit einer Flügelspannweite von bis zu 287,0 cm nutzt er die am späten Vormittag entstehende Thermik, um mit eingezogenem Hals (ähnlich einem Reiher) ohne großen energetischen Aufwand stundenlang über weite Distanzen zu segeln (gesichert)1. Auf dem Boden bewegt er sich in einem gemessenen, militärisch wirkenden Gang fort (gesichert)18.
+Die Nahrungsökologie ist zweigeteilt. Als dominanter Nekrophage ernährt er sich von den Überresten großer Wirbeltiere, Weidetieren sowie zunehmend von menschlichen Abfällen und Fäkalien (gesichert)5. Sein massiver, spitz zulaufender Schnabel (bis zu 35,0 cm Länge) ist ein ideales Werkzeug zum Herausreißen von weichem Fleisch, jedoch nicht stark genug, um die intakte, dicke Haut von frischen Großtierkadavern (wie Elefanten oder Büffeln) zu durchdringen (gesichert). Daher ist der Marabu auf Raubtiere (Löwen, Hyänen) oder den Ohrengeier (Torgos tracheliotos) angewiesen, die den Kadaver öffnen (gesichert)22. Der Marabu wartet am Rand, stiehlt Fleischstücke direkt von den Geiern oder frisst die Reste (Kleptoparasitismus) (gesichert)4. Als aktiver Prädator tötet und verschluckt er lebende Beutetiere im Ganzen. Die Diät umfasst Fische, Frösche, Reptilien (Schlangen, Eidechsen, Krokodil-Hatchlings), Insekten (Heuschrecken), kleine Säugetiere (Ratten, Mäuse) und andere Vögel (gesichert)1. Er hat einen signifikanten regulierenden Einfluss auf andere Spezies, da er systematisch Nestlinge von Zwergflamingos (Phoeniconaias minor), Pelikanen, Kormoranen, Tauben und Blutschnabelwebern (Quelea) jagt (gesichert)4. Ein weiteres dokumentiertes Jagdverhalten ist die Assoziation mit Savannenfeuern: Marabus wandern direkt vor der Feuerfront her, um Insekten und kleine Wirbeltiere zu fangen, die vor den Flammen fliehen (gesichert)4.
+Fortpflanzung und saisonale Muster (Fokus Ende September / Anfang Oktober): Die Fortpflanzungssaison des Marabus in Ostafrika ist strikt saisonal synchronisiert. Sie beginnt in der trockenen Jahreszeit, da schrumpfende Wasserstellen Fische und Amphibien auf kleinem Raum konzentrieren und die natürliche Mortalität wilder Pflanzenfresser (Kadaververfügbarkeit) ihren Höhepunkt erreicht (gesichert)4. Marabus sind monogam, bilden oft lebenslange Paarbindungen und brüten in großen, lauten Kolonien von über 40 Individuen in den Kronen hoher Bäume oder auf Felsklippen (gesichert)4. Ein Gelege besteht in der Regel aus 2 bis 3 Eiern, die etwa 30 Tage lang inkubiert werden (gesichert)4.
+Ende September und Anfang Oktober fällt der ökologische Kalender in Kenia in die Übergangsphase zwischen dem Ende der langen Trockenzeit und dem Beginn der kurzen Regenzeit. In dieser spezifischen Zeitspanne sind die Küken bereits geschlüpft und befinden sich in der intensivsten Wachstumsphase (gesichert)4. Um den massiven Proteinbedarf der Nestlinge zu decken, ändern die Altvögel in diesen Wochen ihr Nahrungsspektrum radikal: Sie reduzieren die Aufnahme von Aas und verlagern ihre Energie fast ausschließlich auf die Jagd nach kleinen, lebenden Beutetieren (Fische, Frösche, Reptilien, Insekten), da die Küken für ihr Überleben auf frisches Protein und den hohen Wassergehalt dieser Beute angewiesen sind (gesichert)4. Die Altvögel fliegen in dieser Zeit unermüdlich zwischen den Jagdgründen und den Nistbäumen hin und her und nutzen die frühen Morgenstunden für die Nahrungssuche.
 5. Menschen und Kultur in Kenia
-Die Interaktion zwischen Vachellia xanthophloea und dem Menschen ist vielschichtig und umfasst historische Missverständnisse, breite wirtschaftliche Nutzung und tiefe Verankerung in der traditionellen Medizin.
-Nutzung als Material, Medizin und Nahrung
-Holz, Konstruktion und Energie: Das Holz wird umfangreich in Ost- und Südafrika als Bauholz, für Zaunpfähle und als Feuerholz genutzt (Status: gesichert)28. Die Herstellung von Holzkohle aus dem Baum ist wirtschaftlich relevant, birgt jedoch gesundheitliche Risiken durch Emissionen. Analysen der Holzkohle aus V. xanthophloea bei unterschiedlichen Pyrolyse-Methoden ergaben hohe Konzentrationen polyzyklischer aromatischer Kohlenwasserstoffe, konkret: Naphthalin (140,42 µg/g), Fluoren (97,35 µg/g) und Pyren (71,82 µg/g) (Status: gesichert)31. Traditionell hergestellte Holzkohle überschreitet dabei oft die akzeptierten Grenzwerte von 0,1–0,2 mg/m³ (Status: gesichert)31.
-Bio-Tannine (Gerbstoffe): Die Rinde enthält hohe Konzentrationen an pflanzlichen Tanninen, die kommerziell und traditionell zur umweltfreundlichen Ledergerbung (als Alternative zu Chromgerbstoffen) verwendet werden (Status: gesichert)19.
-Körperpflege: In Kenia werden Äste, Stämme und Zweige der Art zerschnitten und von der lokalen Bevölkerung traditionell als sogenannte "chewing sticks" (Zahnbürsten) zur Zahnreinigung und Kariesprävention verwendet (Status: gesichert)28.
-Phytomedizin: Die medizinische Bedeutung ist enorm. Die Art wird in vier Ländern, was 36,4 % der Länder ihres natürlichen Verbreitungsgebiets entspricht, traditionell medizinisch genutzt (Status: gesichert)28. Phytochemische Screenings belegen das Vorhandensein komplexer sekundärer Pflanzenstoffe: Alkaloide, Flavonoide, Tannine, Saponine, Glykoside, Benzolderivate und Terpenoide (Status: gesichert)28. Die Rinde wird von traditionellen Heilern der Kikuyu und anderen Gemeinschaften, oft in Form von wässrigen Abkochungen (Decoctions), gegen Malaria, Pharyngitis, Mundgeschwüre und als Paste zur Linderung von Kopfschmerzen eingesetzt (Status: gesichert)32. Laborstudien an Extrakten ergaben eine hohe antioxidative Kapazität (ORAC-Werte zwischen 2,52 und 11,88 µM Trolox-Äquivalent/g Extrakt; Gesamtphenole 8,96 bis 32,96 mg Gallussäure-Äquivalent/g) sowie eine Hemmung der Zytokin-Freisetzung (IC50-Werte zwischen 0,19 µg/mL und 20 µg/mL) (Status: gesichert)34.
-Nahrung (Mensch und Nutztier): Das austretende Harz (Gummi) wird vom Menschen gegessen. Die Blätter und Schoten weisen hohe Rohprotein-, Faser- und Makromineralienwerte (Calcium, Phosphor) auf und dienen als exzellentes Futtermittel (Fodder) für Weidevieh und Geflügel in Dürreperioden (Status: gesichert)4.
-Rolle in Mythos und Kultur: Die Fieberbaum-Legende
-Die kulturell prägendste Anekdote betrifft den Mythos der Namensgebung (Status: überliefert)4. Frühe europäische Siedler und Pioniere, die im 19. und frühen 20. Jahrhundert durch Ost- und Südafrika reisten, stellten eine fatale Korrelation fest: Personen, die ihre Lager in der Nähe von Beständen dieser markant gelb leuchtenden Bäume aufschlugen, erkrankten kurz darauf schwer an Malaria (Fieber). Aufgrund der unheimlichen, kränklichen Rindenfarbe gaben die Kolonisten dem Baum die Schuld an der Krankheit, in der Annahme, die Ausdünstungen des Baumes seien toxisch. Die ökologische Realität wurde erst später wissenschaftlich geklärt: Der Baum verursacht kein Fieber, sondern wächst zwingend an Orten mit hohem Grundwasserspiegel, in Sumpfgebieten und Flussauen. Diese stehenden Gewässer sind gleichzeitig die idealen Brutstätten für Anopheles-Mücken, die Vektoren für den Malaria-Parasiten. Die Menschen wurden von Mücken gestochen, machten aber den Baum dafür verantwortlich (Status: gesichert)4.
-(Anmerkung zu Ritualen: Spezifische historische Beschwörungsrituale, Tänze oder isolierte Sprichwörter, die sich ausschließlich auf den Fieberbaum beziehen, sind in der recherchierten Literatur nicht belegt - Status: Lücke).
-Schutzstatus und Bestände
-Die Art ist nicht vom Aussterben bedroht. Sie wird auf der Roten Liste der IUCN (Version 3.1) in der Kategorie "Least Concern" (Nicht gefährdet) geführt (Status: gesichert)4. Die Weltnaturschutzunion (IUCN) und Plattformen wie die Global Biodiversity Information Facility (GBIF) bestätigen ein stabiles und weites Verbreitungsgebiet (Status: gesichert)36. Spezifische, auf das Jahr datierte, absolute Bestandszahlen (z. B. "es existieren 2 Millionen Bäume im Jahr 2026") gibt es für diese Baumart nicht, da sie in freier Wildbahn auf dem halben Kontinent kontinuierlich reproduziert und zudem von Naturschützern gezielt in semi-ariden Zonen (oft als Setzlinge in Baumschulen vorgezogen) gepflanzt wird, um Degradation aufzuhalten (Status: gesichert)4.
+Die Beziehung zwischen dem Marabu und der menschlichen Bevölkerung in Kenia ist von einer tiefen ökologischen Verflechtung geprägt, die sowohl symbiotische Aspekte als auch harsche urbane Konflikte beinhaltet.
+In der modernen städtischen Ökologie Kenias agiert der Marabu als der wichtigste Beseitiger von Biomasse. Auf der massiven Mülldeponie von Dandora in Nairobi (einem der größten Dumpsites Afrikas) bilden Marabus zusammen mit Kuhreihern spektakuläre Großschwärme. Dort bewegen sie sich zwischen den "Waste Pickern" (menschlichen Müllsammlern) und tilgen täglich hunderte Kilogramm an Schlachtabfällen, Fäkalien und Hausmüll (gesichert)25. Toxikologische Forschungen der Universität Hokkaido und der Universität Nairobi belegen jedoch, dass diese urbane Nahrungsquelle eine Kehrseite hat: Die Vögel auf der Dandora-Deponie akkumulieren hohe Konzentrationen von Schwermetallen wie Blei (Pb) und Cadmium (Cd) sowie polyzyklische aromatische Kohlenwasserstoffe (PAHs) in ihrem Blut und Gewebe (gesichert)29. Dennoch wird ihre sanitäre Dienstleistung geschätzt, da sie die Ausbreitung von Zoonosen und bakteriellen Infektionen in dicht besiedelten Gebieten drastisch reduzieren (gesichert)5.
+Historische Konflikte (Nairobi Expressway 2022): Ein prägnantes historisches Ereignis in der Beziehung zwischen Tier und Stadt ereignete sich im Jahr 2022 in Nairobi. Für die Konstruktion des "Nairobi Expressway", einer 27 Kilometer langen vierspurigen Hochstraße zur Verkehrsentlastung, wurden entlang des Waiyaki Way und im Umfeld des Nyayo Stadiums hunderte alter Bäume gefällt. Diese Bäume dienten traditionell als Nistplätze für hunderte Marabus (gesichert)31. Das Kenyatta National Hospital (KNH) fällte ebenfalls über 30 Jahre alte afrikanische Akazien auf seinem Gelände und begründete dies mit Gesundheitsrisiken, dem Lärm und den Exkrementen der Vögel, die Patienten und Personal gefährden würden (gesichert)32. Diese massive Zerstörung des urbanen Lebensraums rief heftigen Widerstand hervor. Naturschützer und Anwälte, darunter Felix Matagei, drohten der Stadtverwaltung (City Hall) und dem damaligen Gouverneur Johnson Sakaja mit rechtlichen Schritten vor Gericht, da das Stören der indigenen Vögel und das Zerstören aktiver Nester einen direkten Verstoß gegen kenianisches Tierschutz- und Umweltrecht darstelle (gesichert)31. Dieser Konflikt zwang die Regierung unter Präsident Uhuru Kenyatta dazu, per Dekret bestimmte alte Feigenbäume vor der Abholzung zu schützen (gesichert)32.
+Mythologie, Kultur und Schutzstatus: In der Mythologie der Kikuyu existiert die Legende vom Kanyoni wa Ng'ethe. In diesen Erzählungen wird der Marabu aufgrund seiner physischen Erscheinung moralisierend als der „hässlichste Vogel des Universums“ dargestellt, der zur Strafe ein solitäres und düsteres Leben führen muss (überliefert)9. In der Filmgeschichte hinterließ die Art ebenfalls Spuren: Für den kontroversen, in Kenia gedrehten Naturfilm "Roar" (1981) unter Mitwirkung lokaler Kamba-Gemeinschaften, weigerten sich die Produzenten strikt, mit Marabus zu arbeiten. Neben Flusspferden waren sie die einzige Tierart, die für die Produktion aus Sicherheits- und ästhetischen Gründen abgelehnt wurde (gesichert)37. Eine kommerzielle Bejagung zur Gewinnung von Körperteilen für die traditionelle Medizin ist in der Literatur zwar für Länder wie Nigeria belegt, für Kenia jedoch nicht dokumentiert (gesichert)6.
+Die globale Population des Marabus wird von der IUCN (Red List) als „Least Concern“ (Nicht gefährdet) eingestuft (gesichert)5. Die Bestandszahlen variieren je nach Erhebung: Eine Schätzung von Oiseaux-birds aus dem Jahr 2006 bezifferte die globale Population auf 200.000 bis 500.000 Individuen, während das Environmental Information Service Namibia (EIS) von einer Gesamtpopulation von 100.000 bis 300.000 Individuen ausgeht (gesichert)6. Der Populationstrend wird offiziell als "zunehmend" (increasing) gewertet, da die Spezies immens von der Expansion menschlicher Mülldeponien und der damit verbundenen Nahrungsfülle profitiert (gesichert)6.
 6. Wissenschaftsgeschichte
-Die botanische Forschungsgeschichte der Art ist eng mit einer der emotionalsten taxonomischen Kontroversen der modernen Botanik verwoben.
-1842 (Die Erstbeschreibung): Der Baum wurde erstmals offiziell von dem britischen Botaniker George Bentham im Jahr 1842 in der wissenschaftlichen Fachpublikation London Journal of Botany (Vol. 1, S. 511) beschrieben. Bentham ordnete die Art der weit gefassten Gattung Acacia zu und gab ihr den Namen Acacia xanthophloea (Status: gesichert)1.
-2005 (Die große Akazien-Kontroverse / Taxonomic Imperialism): Über Jahrhunderte umfasste die Gattung Acacia weltweit über 1.300 Arten, wovon fast 1.000 in Australien heimisch waren und der Rest in Afrika und den Amerikas. Im Juli 2005 fand in Wien der XVII. Internationale Botanische Kongress (IBC) statt. Gemäß dem Internationalen Code der Botanischen Nomenklatur (ICBN) wurde dort der formale nomenklatorische Typus der Gattung Acacia von der ursprünglichen afrikanischen Art (Acacia nilotica) auf eine australische Art (Acacia penninervis) umgewandelt (retypifiziert) (Status: gesichert)2.
-Die Konsequenz (ab 2005): Durch diesen Beschluss durften die australischen Pflanzen den weltweit bekannten Gattungsnamen Acacia behalten. Die afrikanischen Akazien, darunter auch der ikonische Fieberbaum, mussten umbenannt und in neue Gattungen (Vachellia und Senegalia) ausgelagert werden. In Südafrika und Australien führte dies zu einem öffentlichen Aufschrei. Akademiker warfen dem Kongress "Taxonomic imperialism" (taxonomischen Imperialismus) vor, da Afrika sein botanisches Erbe an Australien "verloren" habe (Status: gesichert)2.
-2008 (Die Neukombination): Basierend auf dieser systematischen Neuausrichtung publizierten die Botaniker Enrico Banfi und Gabriele Galasso im Jahr 2008 in den Atti Soc. Ital. Sci. Nat. Mus. Civico Storia Nat. Milano (149: 150) formell die heute gültige Neukombination Vachellia xanthophloea (Benth.) Banfi & Galasso (Status: gesichert)1. In Südafrika publizierte der Forscher P.J.H. Hurter eine parallele Kombination, die jedoch in der Kew-Datenbank hinter Banfi & Galasso zurücksteht (Status: gesichert, Widerspruch benannt)2.
+Die systematische Einordnung der Art erfolgte in der frühen Phase der europäischen Ornithologie. Im Jahr 1789 hatte der deutsche Naturforscher Johann Friedrich Gmelin in seiner Überarbeitung von Linnaeus' Systema Naturae bereits verwandte asiatische Großstörche beschrieben (gesichert)1. Die Erstbeschreibung des afrikanischen Marabus erfolgte jedoch erst im Jahr 1831 durch den französischen Arzt und Ornithologen René Primevère Lesson. Lesson klassifizierte den Vogel zunächst in die etablierte Gattung Ciconia unter dem Binomialnamen Ciconia crumenifera, wobei er den Senegal als Typuslokalität angab (gesichert)2. Noch im selben Jahr (1831) erkannte Lesson die markanten morphologischen Unterschiede der massiven, aasfressenden Störche und führte für sie die neue, separate Gattung Leptoptilos ein (gesichert)1.
+Wissenschaftliche Kontroverse (Die Flügelspannweite): Der Marabu ist historisch mit einer der bekanntesten metrischen Kontroversen der Ornithologie verbunden. Über Jahrzehnte hinweg wurde behauptet, der Marabu besitze die größte Flügelspannweite aller lebenden Landvögel. Diese Annahme stützte sich auf die Aufzeichnungen der renommierten Naturforscher James Fisher und Roger Tory Peterson, die eine Flügelspannweite von 3,7 Metern (12 ft) akzeptierten und publizierten (umstritten/widerlegt)5. Sogar Extremwerte von bis zu 4,06 Metern (13,3 ft) fanden zeitweise Eingang in populärwissenschaftliche Berichte (umstritten)5. In der modernen Forschung, insbesondere nach den Erhebungen für das Standardwerk Handbook of the Birds of the World, konnten diese gigantischen Maße jedoch niemals an lebenden Tieren oder Museumspräparaten verifiziert werden. Die Wissenschaft geht heute davon aus, dass niemals ein Wert über 3,2 Meter (10,5 ft) belastbar bewiesen wurde und der typische Durchschnitt bei maximal 2,87 Metern liegt (gesichert)5. Damit bleibt er etwas kleiner als der Andenkondor (Vultur gryphus).
+Paläontologie und Phylogenetik: Die evolutionäre Geschichte der Gattung Leptoptilos wurde durch zahlreiche Fossilienfunde rekonstruiert. Der früheste bekannte Vertreter war Leptoptilos falconeri, der im frühen bis späten Pliozän in Südasien und Ostafrika lebte. Dieser Vogel wog rund 20,0 kg und erreichte eine Höhe von bis zu 200,0 cm (gesichert)1. Im späten Pleistozän existierten auf asiatischen Inseln (wie Flores) gigantische Formen wie Leptoptilos robustus, die eine Körperhöhe von 180,0 cm bei 16,0 kg Körpergewicht aufwiesen und aufgrund fehlender natürlicher Feinde vermutlich flugunfähig waren (gesichert)1.
+Grundlagenforschung (Ethologie): Das moderne biologische Verständnis der Art verdankt die Wissenschaft primär der Arbeit des amerikanischen Forschers M. P. Kahl. Im Jahr 1966 veröffentlichte Kahl im Journal Behaviour seine bahnbrechende Studie „Comparative Ethology of the Ciconiidae. Part 1. The Marabou Stork“ (gesichert)18. Kahl dokumentierte darin die zuvor missverstandene Funktion der Urohidrosis, kategorisierte exakt die sozialen Displays der Art (wie das Up-Down-Greeting, das Forward Threat-Verhalten und die Delta-Wing-Posture) und korrigierte das Bild des reinen Aasfressers (gesichert)19. Im Jahr 1973 wurde die exakte anatomische Beschaffenheit des Gularsacks – als subkutanes Luftsacksystem anstatt als Kropf – in einer Studie von A. R. Akester, D. E. Pomeroy und M. D. Purton im Journal of Zoology wissenschaftlich bewiesen (gesichert)23. Anatomische Studien zum Grad der Skelettpneumatisierung und der Mechanik des Quadratbeins (Quadrate bone) des Marabus trugen zudem erheblich zum phylogenetischen Verständnis der Schädelkinese von Neornithes bei (gesichert)43.
 7. Fotografie
-Die fotografische Dokumentation von Vachellia xanthophloea in freier Wildbahn erfordert die Berücksichtigung von Lichtverhältnissen, Tierverhalten und der richtigen Ausrüstung.
-Standorte und Tageszeit
-Auf der geplanten Route (Rift Valley) bieten die Uferzonen des Lake Naivasha, Lake Nakuru und Lake Baringo die höchste Dichte an ausgewachsenen, formschönen Fieberbäumen (Status: gesichert)7. Die ideale Tageszeit für die Fotografie der Bäume ist der frühe Morgen (nach Sonnenaufgang) oder der späte Nachmittag (Golden Hour). In diesem direkten, schräg einfallenden Sonnenlicht wirkt die glatte, schwefelgelbe Rinde optisch stark gesättigt und wird als "nahezu leuchtend" (almost luminous) beschrieben (Status: gesichert)7.
-Verhalten und Fluchtdistanz
-Der Baum selbst erfordert kein Warten, wohl aber die Tierwelt, die in Symbiose mit ihm lebt.
-Giraffen: Im Oktober (Ende der Trockenzeit) verbringen Giraffen einen Großteil des Tages damit, die Blätter und Schoten der Bäume abzuweiden (Status: gesichert)9. In stark besuchten Parks wie Nakuru sind Netzgiraffen habituiert und tolerieren Fahrzeuge (Fluchtdistanz) bis auf 15 bis 20 Meter, solange der Motor abgestellt ist und keine schnellen Bewegungen erfolgen (Status: vermutet / aus fotografischen Richtwerten abgeleitet).
-Grünmeerkatzen (Vervet monkeys): Sie klettern in den Kronen und fressen Schoten. Ihre Fluchtdistanz beträgt oft 20 bis 30 Meter, wenn sie wild sind (Status: vermutet).
-Buschbabys (Galagos): Nur bei Dämmerung oder nachts aktiv; sie lecken Harz an den Stämmen. Für diese Aufnahmen ist ein starkes Teleobjektiv und eine hohe ISO-Toleranz nötig (Status: gesichert)4.
-Typische Fehler und Belastungswerte (Shutter Speeds)
-Ein typischer Fehler in der Landschaftsfotografie ist das Fotografieren der Bäume bei zenitaler Mittagssonne oder starkem Gegenlicht. Die hellgelbe, fast weiße Rinde neigt stark dazu, in den Highlights auszubrennen (Überbelichtung); das intensive Gelb wirkt auf dem Sensor dann blassgrau.
-Richtwerte für Verschlusszeiten (bezogen auf die Ausrüstung):
-Landschaftsaufnahmen (Baum, Habitus, Rindenstruktur):
-Objektive: 26 bis 60 mm und 45 mm.
-Verschlusszeit: 1/100 s bis 1/250 s aus der Hand. Eine moderate Blende (z. B. f/8) sichert die Tiefenschärfe für den Wald, während die Belichtungszeit Bewegungsunschärfe des Fotografen ausgleicht.
-Tierverhalten (Fressende Giraffe):
-Objektive: 100 bis 400 mm.
-Verschlusszeit: Mindestens 1/500 s. Obwohl die Giraffe statisch wirkt, sind die Zungen- und Kopfbewegungen beim Abzupfen der Blätter zwischen den Dornen ruckartig.
-Aktion (Kletternde und springende Affen):
-Objektive: 150 bis 600 mm (am langen Ende).
-Verschlusszeit: Für einfache Fortbewegung im Geäst mindestens 1/1000 s. Springt eine Meerkatze zwischen den Ästen (schneller Ortswechsel), sind 1/2000 s erforderlich, um die Bewegung am 600-mm-Ende verlässlich einzufrieren (Status: etablierte Richtwerte der Naturfotografie).
+Für den Zeitraum vom 24.09. bis 12.10.2026 bieten sich in Kenia hervorragende fotografische Bedingungen, da das Verhalten durch die aktive Aufzucht der Küken determiniert wird.
+Tageszeit und Verhalten: Die beste Tageszeit liegt zwischen 06:30 Uhr und 09:00 Uhr in den urbanen Nistkolonien (z.B. nahe dem Karura Forest, am Stadtrand von Nairobi oder am Nyayo Stadium). In diesem Zeitraum füttern die Altvögel die Küken. Ein lohnendes Verhalten für Geduldige ist das „Unison Call“-Klappern (Up-Down-Display) am Nest, wenn die Partner ihre Schicht wechseln. Zwischen 10:00 Uhr und 15:00 Uhr verlagert sich die Aktivität in die Luft (Ngong Hills, Nairobi National Park), wenn die massiven Vögel die thermischen Aufwinde für den schwerelosen Segelflug nutzen. Bei direkter Mittagshitze lässt sich auf dem Boden die Thermoregulation (Urohidrosis und Delta-Wing-Posture) am besten ablichten.
+Brennweiten und Technik:
+Brennweite (Objektiv)
+	Einsatzbereich & Motiv
+	Fluchtdistanz & Fehlervermeidung
+	26 bis 60 mm
+	Urbane Landschaftsfotografie. Weitwinklige Porträts vor der Skyline Nairobis, auf Gebäuden oder auf der Dandora-Mülldeponie.
+	In urbanen Gebieten ist die Fluchtdistanz aufgrund massiver Habituation extrem gering (oft unter 5 Meter). Fehler: Zu viel störender Hausmüll im Vordergrund kann den Autofokus irritieren.
+	45 mm
+	Freigestellte Halbporträts am Boden in städtischen Parks oder am Rande des Sheldrick Wildlife Trust.
+	Bei dieser Nähe ist Vorsicht geboten: Ein blitzschneller Vorstoß des bis zu 35,0 cm langen Schnabels beim Zuschnappen nach Beute kann die Frontlinse treffen.
+	100 bis 400 mm
+	Flugaufnahmen im Nationalpark; Dokumentation des Verhaltens am Rande der Flamingo-Schwärme in den Seen des Rift Valley.
+	Typischer Fehler: Falsche Belichtungsmessung. Das tiefschwarze Rückengefieder in Kombination mit der reinweißen Brust überfordert bei greller Sonne den Dynamikumfang. Man riskiert ausgebrannte Lichter auf der Brust oder unterbelichtete Schatten auf dem Rücken. Belichtung stets auf die weißen Partien kalibrieren.
+	150 bis 600 mm
+	Detaillierte Makroaufnahmen des Kehlsacks, der gefurchten Kopfhaut und der Iris; Fotografie von hoch gelegenen Nestern in Akazien.
+	Typischer Fehler: Bei bodennahen Aufnahmen am Mittag zerstört die Hitzestrahlung (Mirage/Flimmern) ab 30 Metern Distanz die Bildschärfe komplett.
+	Verschlusszeiten (Richtwerte):
+* Segelflug und Anflug: Obwohl der Flug träge wirkt, erreicht der Vogel eine Geschwindigkeit von fast 48 km/h. Für Flugaufnahmen werden belastbare Verschlusszeiten von 1/1000 s bis 1/1250 s bei moderater Blende (z.B. f/8 oder f/11) benötigt, um die gesamte Tiefe der riesigen Flügelspannweite scharf abzubilden (gesichert)44.
+* Schnabelvorstoß (Jagd): Die reflexive Bewegung beim Erbeuten eines Fisches oder Frosches erfordert zwingend 1/1250 s bis 1/1600 s, um Bewegungsunschärfe (Motion Blur) am Kopf zu vermeiden.
+* Statische Posen: Für die Delta-Wing-Posture oder die Ruhestellung genügen 1/250 s bis 1/500 s.
 8. Links zum Weiterlesen und Sehen
-Fachliche Quelle (Kew POWO):Das taxonomische Referenzwerk "Plants of the World Online" (Kew Gardens) bietet alle gesicherten Synonyme, Publikationsdaten und die interaktive Verbreitungsliste der Art.https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77087191-1[cite: 5, 40]
-Fachliche Quelle (IUCN Red List):Die Rote Liste der Weltnaturschutzunion listet den Erhaltungsstatus (Least Concern) und liefert Kontext zur globalen Nicht-Gefährdung der Spezies.https://apiv3.iucnredlist.org/api/v3/taxonredirect/147140093[cite: 40]
-Verbreitungskarte (GBIF):Die "Global Biodiversity Information Facility" liefert Tausende verortete wissenschaftliche Beobachtungen und Herbarbelege als interaktive Weltkarte.https://www.gbif.org/species/7403310[cite: 37]
-Fotos (Wikimedia Commons):Die zentrale Datenbank für frei lizenzierte Fotografien bietet Referenzaufnahmen von Rinde, Dornen, Blättern und Habitaten in diversen Auflösungen. (Hinweis: Die angegebene Kategorie dient als Hauptverzeichnis).https://commons.wikimedia.org/wiki/Category:Vachellia_xanthophloea[cite: 41]
-(Hinweis zu Tonaufnahmen: Da der Fokus dieses Rohmaterials auf einem Baum liegt, existieren keine artspezifischen Tonaufnahmen in Bibliotheken wie xeno-canto oder Macaulay Library, die exklusiv für Tier- und Vogelstimmen ausgelegt sind).
+Fachliche Quelle:
+* https://www.iucnredlist.org/species/22697716/9363303445 – Die offizielle Datenbank der IUCN Red List liefert die maßgeblichen Zahlen zu den globalen Bestandsentwicklungen, Gefährdungseinschätzungen und ökologischen Habitaten der Art.
+Verbreitungskarte:
+* https://ebird.org/species/marsto146 – Die detaillierte Plattform eBird, betrieben vom Cornell Lab of Ornithology, bietet durch Citizen-Science generierte, tagesaktuelle Verbreitungskarten und Checklisten für lokale Vogelbeobachtungen in Kenia.
+* https://www.gbif.org/species/24819467 – Die Global Biodiversity Information Facility aggregiert weltweit wissenschaftlich validierte phänotypische Nachweise und stellt georeferenzierte Karten zur Verbreitungshistorie zur Verfügung.
+Fotos:
+* https://commons.wikimedia.org/wiki/Category:Leptoptilos_crumenifer48 – Eine strukturierte, quelloffene Sammlung wissenschaftlicher und freier Fotografien, die detaillierte Makroaufnahmen, Exif-gestützte Flugbilder und anatomische Skelettpräparate umfasst.
+Tonaufnahme des Rufs:
+* https://xeno-canto.org/3004236 – Eine spezialisierte ornithologische Audio-Datenbank, auf der das charakteristische Schnabelklappern und das gutturale Grunzen, das durch den subkutanen Gularsack verstärkt wird, angehört werden können.
 9. Visuelle Beschreibung für eine Illustration
-The Vachellia xanthophloea stands as a prominent, 15 to 25-meter tall tree characterized by a moderately open, spreading, and slightly rounded canopy composed of delicate, feathery, bipinnate green foliage. The most arresting feature is the smooth, powdery texture of its trunk and main branches, which radiate a bright, almost luminous greenish-yellow hue that stands in stark contrast to the surrounding African bushland. Emerging directly from the nodes of the purplish younger twigs are formidable armaments: stark white, perfectly straight, needle-like thorns that grow in distinctive V-shaped pairs and can reach up to 7.5 centimeters in length.
-Detail Suggestions:
-A close-up study of the powdery, greenish-yellow bark surface, capturing a slight papery peel and a small fissure exuding a viscous bead of reddish gum.
-A botanical detail of the straight, flat, papery pale-brown seed pod (measuring up to 15 cm), its surface slightly undulating over the 5 to 10 elliptical seeds hidden within.
-A macro view of a young branch node, illustrating the contrast between the paired white, straight thorns, the tiny green bipinnate leaflets, and a spherical, bright golden-yellow flower head sitting on its short peduncle.
-Cultural Vignette:
-A traditional Kenyan chewing stick (toothbrush)—a small, freshly cut twig from the fever tree, neatly frayed at one end to expose the fibrous wood—resting beside a rough, hand-carved wooden bowl containing a small mound of dark, granular bio-tannin extract used for leather curing.
+The Marabou stork possesses a massive, hunched silhouette, standing up to 150 centimeters tall on long, bare legs that appear chalk-white due to dried excreta resulting from urohidrosis. Its broad, heavily built body is defined by a stark, contrasting plumage: the mantle, wings, and tail are a dark, slate-gray with a subtle greenish sheen, draped over a pure white breast, belly, and a distinct white, fluffy neck ruff. The elongated neck and bald head display heavily wrinkled, heavily pigmented pinkish-to-red skin sparsely covered in woolly down, leading to a gigantic, wedge-shaped, ivory-colored bill. Most striking is the pendulous, fleshy pink gular sac hanging down from the lower neck, which the bird inflates during behavioral displays.
+Detailvorschläge:
+1. A macro study of the deeply fissured, reddish skin texture of the inflatable gular sac, highlighting its subcutaneous vascular network.
+2. The massive, dagger-like tip of the upper mandible, showing natural wear, striations, and its dull ivory-to-horn tone.
+3. A cross-sectional view of the chalk-white buildup (urohidrosis) cracking over the dark gray scales of the bird's thick lower tarsus.
+Kulturelle Vignette: A silhouette of an intricately woven traditional Kikuyu sisal basket (kiondo) positioned near a small, smoldering mound of urban refuse or scrap metal, symbolizing the Marabou's modern ecological niche and the stark intersection between Kenya's cultural heritage and its rapidly expanding, anthropogenically altered environments like the Dandora dumpsite.
 10. Was nicht belegt werden konnte
-Bei der Auswertung der vorliegenden, umfangreichen Literaturquellen konnten folgende in der Anfrage geforderte Parameter nicht mit belastbaren Fakten verifiziert werden:
-Gewicht des Baumes: Für das absolute Gewicht von Einzelbäumen (in Tonnen oder Kilogramm) existieren keine artspezifischen Messdaten.
-Alltagsvergleich (Baumhöhe/Türhöhe etc.): In den wissenschaftlichen Texten fand sich kein direkter Alltagsvergleich für die 15 bis 25 Meter Wuchshöhe, der sich mathematisch unverfälscht zitieren ließe. (Lediglich die Samengröße ließ sich mit Annattosamen oder Schrotkugeln vergleichen).
-Lokalname der Giriama: Ein spezifischer Trivialname für diese Pflanzenart in der Sprache der Giriama wird in keiner der botanischen oder kulturellen Datenbanken gelistet.
-Bedeutung der Lokalnamen: Die wörtliche Etymologie der meisten ostafrikanischen Lokalnamen (wie Olerai, Murera, Kimweya) ist in den Quellen nicht aufgeschlüsselt.
-Konkreter Forscher des Mechanismus: Es konnte kein konkreter Wissenschaftler mit Publikationsjahr benannt werden, der als "Erstentdecker" der Rindenphotosynthese speziell für Vachellia xanthophloea gilt. Die Eigenschaft wird in aktuellen Papern als allgemein bekannter botanischer Fakt referenziert.
-Spezifischer Mythos / Sprichwörter: Abgesehen von der sehr dominanten Fieber-Legende der Kolonisten lieferte die Literatur keine indigenen afrikanischen Märchen, Sprichwörter oder tief religiösen Beschwörungsrituale, in denen explizit Vachellia xanthophloea (und nicht einfach "Akazien" im Allgemeinen) das isolierte Zentrum bildet.
-Tagesrhythmus (Pflanzenphysiologie): Spezifische, minutengenaue Öffnungs- und Schließzeiten von Stomata in der Rinde oder exakte zyklische Saftdruckschwankungen im Tagesverlauf (Sap flow) fehlen in den untersuchten ökologischen Berichten.
-Absolute Bestandszahlen (mit Jahr): Die IUCN und GBIF geben keine absoluten Baum-Individuenzahlen für das Jahr 2026 oder davor an, da die Art als "Least Concern" gilt und in ganz Ost- und Südafrika millionenfach flächendeckend (und als Pflanzgut) vorkommt.
+Folgende im Vermerk geforderte Punkte konnten anhand des strukturierten Rohmaterials und der ausgewerteten ornithologischen Fachliteratur nicht mit belastbaren Fakten oder verifizierbaren Zahlen belegt werden:
+* Lokale Namen (Maa, Samburu, Kamba): Es konnten in den wissenschaftlichen Repositorien keine indigenen Bezeichnungen für den Marabu in der Sprache der Massai (Maa) oder der Samburu gefunden werden. In Dokumenten, die den Begriff "Kamba" erwähnen, tauchen Wörter wie mombocima auf, die sprachgeographisch jedoch der Lozi-Sprache aus Sambia zuzuordnen sind und für die Kamba in Kenia keine Validität besitzen.
+* Alltagsvergleich für das Körpergewicht: Das empirisch erhobene Gewicht von 4,0 bis 9,0 kg konnte in den Quellen nicht mit einem sauberen, wissenschaftlich fundierten Alltagsvergleich verknüpft werden. Zwar lassen sich mathematische Equivalente berechnen (z. B. das Gewicht eines Kasten Wassers), jedoch standen solche Analogien in keiner der herangezogenen biologischen Quellen.
+* Präzise metrische Fluchtdistanzen: Konkrete metrische Angaben zur Fluchtdistanz in Metern fehlen in der Fachliteratur völlig. Das Verhalten des Marabus in Nairobi (z.B. am Dandora-Dumpsite oder am Nyayo Stadium) wird in den Quellen lediglich qualitativ als „stark habituiert“ und furchtlos gegenüber Menschen beschrieben.
+* Uhrzeiten und biologischer Tagesrhythmus: Es existieren keine auf die Minute oder Stunde genauen chronobiologischen Datensätze zum Tagesrhythmus (z. B. „jagt exakt um 06:15 Uhr“). Die Aktivitätsmuster werden in der Literatur lediglich auf Tagesphasen (Morgen, Mittagshitze) bezogen.
+* Spezifische medizinische Nutzung in Kenia: Die Nutzung der Körperteile des Marabus für traditionelle Medizin, Magie oder den Handel ist in den Quellen ausschließlich für westafrikanische Staaten wie Nigeria dokumentiert. Für die Bevölkerung in Kenia liegen hierzu keinerlei belastbare Belege vor.
 Works cited
-Full text of "CRC World Dictionary Of Medicinal And Poisonous Plants", https://archive.org/stream/crc-world-dictionary-of-medicinal-and-poisonous-plants/CRC%20World%20Dictionary%20of%20Medicinal%20and%20Poisonous%20Plants_djvu.txt
-(PDF) Taxonomic imperialism in the battles forAcacia: Identity and, https://www.researchgate.net/publication/250889375_Taxonomic_imperialism_in_the_battles_forAcacia_Identity_and_science_in_South_Africa_and_Australia
-Vachellia - eFlora of India, https://efloraofindia.com/article-categories/vachellia/
-Vachellia xanthophloea - Wikipedia, https://en.wikipedia.org/wiki/Vachellia_xanthophloea
-https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77087191-1
-Senegalia cinerea - Tree SA, https://treesa.org/senegalia-cinerea/
-Yellow Fever Tree (Vachellia xanthophloea) - Beyondforest, https://www.beyondforest.org/post/yellow-fever-tree-vachellia-xanthophloea
-The controversy over the retypification of Acacia Mill. with an, https://www.researchgate.net/publication/233705708_The_controversy_over_the_retypification_of_Acacia_Mill_with_an_Australian_type_A_pragmatic_view
-Acacia Trees in Africa: Facts, Species and Adaptations - Tourwithpipi, https://tourwithpipi.com/acacia-trees/
-African Plants: Biodiversity Taxonomy And Uses [PDF] - Vdoc.pub, https://vdoc.pub/documents/african-plants-biodiversity-taxonomy-and-uses-3dmc903nono0
-Kenya | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/kenya
-List of Acacia Species In Kenya - Beyondforest, https://www.beyondforest.org/post/list-of-accacia-species-in-kenya
-African Acacias - Tree Safari, https://www.treesafari.com/what-kind-of-trees-grow-near-you/dry-bushland/african-acacias
-Muhugu(Brachylaena huillensis), and their main focus is to restore, https://www.facebook.com/groups/indigenoustreesofkenya/posts/2842748876029196/
-Kenya | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/kenya?title=&field_ecological_services_k_value=All&field_niche_k_value=All&field_origin_k_value=Native&term_node_tid_depth=All&term_node_tid_depth_1=All&term_node_tid_depth_3=All&term_node_tid_depth_4=All&field_products_k_value=Charcoal&term_node_tid_depth_2=All
-Assessing the Genetic Diversity of Acacia Tree Species in Kenya, https://plant.researchfloor.org/molecular-marker-research-for-conservation-genomics-assessing-the-genetic-diversity-of-acacia-tree-species-in-kenya/
-Vachellia xanthophloea — Grokipedia, https://grokipedia.com/page/Vachellia_xanthophloea
-Diversity, structure, and carbon storage of Rau catchment forest, https://smujo.id/ajf/article/download/19425/8228
-Assessing the Genetic Diversity of Acacia Tree Species in Kenya, https://www.researchgate.net/publication/390226993_Molecular_Marker_Research_for_Conservation_Genomics_Assessing_the_Genetic_Diversity_of_Acacia_Tree_Species_in_Kenya
-Vachellia karroo tree information from Kew Gardens - Facebook, https://www.facebook.com/groups/450311645133146/posts/855460231284950/
-Some Acacia - - Whole Earth Education, https://wholeeartheducation.com/acacia-vachellia-senegalia/
-DYNAMICS OF TWO SOUTH AFRICAN FLOODPLAIN FORESTS, https://www.wrc.org.za/wp-content/uploads/mdocs/KV-131-01.pdf
-The fever tree is a type of acacia popular for it's beautiful bark. Watch, https://www.facebook.com/greenspacezambia/posts/the-fever-tree-is-a-type-of-acacia-popular-for-its-beautiful-bark-watch-the-vide/864691395665637/
-Yellow-green tree with giant sugar-snap pea seed pods in Ferntree, https://www.facebook.com/groups/PlantIdentificationAustralia/permalink/1836567636584830/
-A health assessment of the acacia xanthophloea woodlands around, https://scispace.com/pdf/a-health-assessment-of-the-acacia-xanthophloea-woodlands-26bs1uf1mw.pdf
-Review of Options for Managing the Impacts of Locally, https://portals.iucn.org/library/sites/library/files/documents/2007-041.pdf
-Activity budget and foraging patterns of Nubian giraffe (Giraffa ... - PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC11139672/
-Vachellia xanthophloea (Benth.) P.J.H.Hurter (fever tree), https://ethnobotanyjournal.org/index.php/era/article/download/1-17/2011
-Looking at trees is surely the perfect lockdown antidote! In this case, https://www.facebook.com/AfricanPlantHunter/posts/looking-at-trees-is-surely-the-perfect-lockdown-antidote-in-this-case-its-a-much/2863031440647134/
-Fever tree woodlands at risk from intensification of land, https://www.researchgate.net/publication/330442082_Fever_tree_woodlands_at_risk_from_intensification_of_land_management_activities_associated_with_human_and_wildlife_utilization
-(PDF) Analysis of emission profiles from charcoal produced from, https://www.researchgate.net/publication/330591660_Analysis_of_emission_profiles_from_charcoal_produced_from_selected_tree_species_by_different_pyrolysis_methods
-Pharmacological activity of medicinal plants REVIEW ARTICLE, https://ojs.jkuat.ac.ke/index.php/JAGST/article/view/921/463
-Review of ethnopharmacology, phytochemistry, pharmacology, and, https://www.researchgate.net/publication/394854258_Review_of_ethnopharmacology_phytochemistry_pharmacology_and_toxicity_of_Vachellia_Acacia_species_in_eastern_and_southern_Africa
-s-0039-3399628.pdf, https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0039-3399628.pdf
-Diversité et état de conservation de la flore ligneuse des îlots, https://journals.openedition.org/vertigo/42699?lang=fr
-An annotated checklist of the vascular plants of Aberdare Ranges, https://pmc.ncbi.nlm.nih.gov/articles/PMC7286935/
-Vachellia xanthophloea (Benth.) Banfi & Galasso (LEWA in KENYA, https://identify.plantnet.org/ar/lewa/species/Vachellia%20xanthophloea%20(Benth.)%20Banfi%20&%20Galasso/data
-Acacia tree in Maasai Mara, Kenya - Facebook, https://www.facebook.com/groups/natureandlandscape/posts/4163412523873031/
-CRC world dictionary of medicinal and poisonous plants, https://dokumen.pub/crc-world-dictionary-of-medicinal-and-poisonous-plants-9781482250640-1482250640.html
-Vachellia xanthophloea (Benth.) Banfi & Galasso (LEWA in KENYA), https://identify.plantnet.org/cs/lewa/species/Vachellia%20xanthophloea%20(Benth.)%20Banfi%20&%20Galasso/data
-Category:Vachellia xanthophloea - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Vachellia%20xanthophloea
+1. Leptoptilos - Wikipedia, https://en.wikipedia.org/wiki/Leptoptilos
+2. Marabou stork - Animalpedia - Miraheze, https://animals.miraheze.org/wiki/Marabou
+3. Marabou Stork size and wingspan - Facebook, https://www.facebook.com/groups/indibw/posts/5727731707291733/
+4. Marabou Stork - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/marabou-stork
+5. Marabou stork - Wikipedia, https://en.wikipedia.org/wiki/Marabou_stork
+6. Marabu - Fakten, Ernährung, Lebensraum & Bilder auf Animalia.bio, https://animalia.bio/de/marabou-stork
+7. Marabou Stork - Wikidata, https://www.wikidata.org/wiki/Q512737
+8. Marabou Stork Animal Facts - Leptoptilos crumenifer - A-Z Animals, https://a-z-animals.com/animals/marabou-stork/
+9. What's the name of this lonely bird in mara? - Facebook, https://www.facebook.com/groups/78196016024/posts/10160230089506025/
+10. Giryama Bird Names: An Etymological Dictionary (draft) - Scribd, https://www.scribd.com/document/14849374/Giryama-Bird-Names-An-Etymological-Dictionary-draft
+11. M, m, has the same phoenetic sound as in English - Barotseland.net, https://www.barotseland.net/sil-eng2a.htm
+12. Appendix:Proto-Sara-Bongo-Bagirmi reconstructions, https://en.wiktionary.org/wiki/Appendix:Proto-Sara-Bongo-Bagirmi_reconstructions
+13. Marabou Stork - Oiseaux-Birds, https://www.oiseaux-birds.com/card-marabou-stork.html
+14. https://www.featherbase.info/de/species/leptoptilos/crumenifer
+15. Animals & Wildlife in Samburu Reserve, https://www.samburureserve.com/animals-wildlife-samburu.php
+16. Shoebill Stork - Balaeniceps rex - A-Z Animals, https://a-z-animals.com/animals/shoebill-stork/
+17. Marabou Stork size and wingspan - Facebook, https://www.facebook.com/groups/sanctuaryasia/posts/10160468918686103/
+18. Foraging analysis of Endangered Greater Adsjutant Stork Leptotilus, https://www.biorxiv.org/content/10.1101/2020.05.31.125328.full
+19. Spread-wing Postures and Their Possible Functions in the Ciconiidae, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=19245&context=auk
+20. Urohidrosis as an overlooked cooling mechanism in long-legged birds, https://www.researchgate.net/publication/355169446_Urohidrosis_as_an_overlooked_cooling_mechanism_in_long-legged_birds
+21. Urohidrosis as an overlooked cooling mechanism in long-legged birds, https://pmc.ncbi.nlm.nih.gov/articles/PMC8501033/
+22. The Marabou Stork is a true giant of the African skies ... - Facebook, https://www.facebook.com/dapperskit/posts/the-marabou-stork-is-a-true-giant-of-the-african-skies-with-a-wingspan-approachi/1352456221273619/
+23. Does anyone remember websites? | Hacker News, https://news.ycombinator.com/item?id=15631565
+24. A Dictionary of Birds 9781472597458, 9781408138403, https://dokumen.pub/a-dictionary-of-birds-9781472597458-9781408138403-9781408138380.html
+25. Marabou stork and cattle egret symbolism for resilience and, https://www.facebook.com/televangelim/posts/marabou-stork-locally-known-as-the-undertaker-bird-and-the-pristine-white-cattle/2422017748328117/
+26. SUSTAINABLE CITIES, SOCIAL CONFLICT AND SOLID WASTE, https://ujcontent.uj.ac.za/view/pdfCoverPage?instCode=27UOJ_INST&filePid=135825460007691&download=true
+27. Waste pickers and Marabou storks scavenge at the Dandora landfill, https://www.gettyimages.be/detail/video/waste-pickers-and-marabou-storks-scavenge-at-the-dandora-nieuwsfootage/2289352145
+28. Kenya's Plastic Bag Ban Criticized by Manufacturers - VOA, https://www.voanews.com/a/kenya-plastic-bag-ban-criticized-manufacturers/3769188.html
+29. 水川 葉月 - 教育研究者要覧 - 愛媛大学, https://researchers.office.ehime-u.ac.jp/html/100000553_ja.html
+30. Yared YOHANNES | Hokkaido University, Sapporo | Research profile, https://www.researchgate.net/profile/Yared-Yohannes
+31. The move by Nairobi County Government to cut down trees in the, https://www.facebook.com/KTNNewsKenya/posts/the-move-by-nairobi-county-government-to-cut-down-trees-in-the-city-centre-in-an/3233682206894343/
+32. Kenyatta National Hospital (KNH) has defended its decision to, https://www.facebook.com/TheStarKenya/posts/kenyatta-national-hospital-knh-has-defended-its-decision-to-remove-several-aged-/1521503660018838/
+33. Nairobi Marabou Storks lose their home to Expressway - Facebook, https://www.facebook.com/standardkenya/posts/nairobi-marabou-storks-lose-their-home-to-expressway/10159735029674430/
+34. Esia1 en | PDF | Road | Environmental Impact Assessment - Scribd, https://www.scribd.com/document/1048196852/20110361-esia1-en
+35. The Marabou Stork: Homeless And Unwanted Nairobi residents, https://www.facebook.com/NTVKenya/posts/the-marabou-stork-homeless-and-unwantednairobi-residents-complain-of-annoyance-c/10158367050729058/
+36. Governor Sakaja defends trimming of CBD tree, says it's to prevent, https://www.facebook.com/TV47KE/posts/governor-sakaja-defends-trimming-of-cbd-tree-says-its-to-prevent-marabou-stork-i/2345162862310443/
+37. Roar (film) - Wikipedia, https://en.wikipedia.org/wiki/Roar_(film)
+38. CASPPZT: Long-legged Bird Chapter by TyThom1999 on DeviantArt, https://www.deviantart.com/tythom1999/art/CASPPZT%3A-Long-legged-Bird-Chapter-1296383562
+39. Discover the birds with the biggest, most enormous wingspans, https://www.discoverwildlife.com/animal-facts/birds/biggest-flying-birds
+40. (PDF) Into Thin Air: The Loss of the Pliocene Giant Volant Birds, https://www.researchgate.net/publication/387380082_Into_Thin_Air_The_Loss_of_the_Pliocene_Giant_Volant_Birds
+41. Comparative Ethology of the Ciconiidae. Part 6. the Blacknecked, https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=10586&context=condor
+42. An Ethogram of the Black-Headed Ibis Threskiornis melanocephalus, https://www.researchgate.net/publication/383849077_An_Ethogram_of_the_Black-Headed_Ibis_Threskiornis_melanocephalus_during_Breeding_Season
+43. Revised nomenclature of avian quadrate morphology and a detailed, https://www.biorxiv.org/content/10.64898/2026.02.07.704559v1.full-text
+44. File:Marabou stork (Leptoptilos crumenifer).jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Marabou_stork_(Leptoptilos_crumenifer).jpg
+45. https://www.iucnredlist.org/species/22697716/93633034
+46. This bird isn't handsome, but he is fascinating! Learn more about the, https://www.facebook.com/wildbirdscoop/posts/this-bird-isnt-handsome-but-he-is-fascinating-learn-more-about-the-maribou-stork/624311953238377/
+47. Looking for sightings of Marabou Stork : r/midwest - Reddit, https://www.reddit.com/r/midwest/comments/1t7hg7u/looking_for_sightings_of_marabou_stork/
+48. Category:Leptoptilos crumenifer - Wikimedia Commons, https://commons.wikimedia.org/wiki/Category:Leptoptilos_crumenifer

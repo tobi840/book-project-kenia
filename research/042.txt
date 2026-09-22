@@ -1,219 +1,181 @@
-Forschungsbericht: Ökologie, Biologie und Kulturgeschichte des Weißbrauenkuckucks (Centropus superciliosus)
-1. Namen und Etymologie
-Die taxonomische und nomenklatorische Einordnung des Weißbrauenkuckucks umfasst sowohl historische, europäische Klassifikationen als auch eine Reihe lokaler ostafrikanischer Bezeichnungen, die primär auf akustischen Phänomenen basieren.
-Wissenschaftliche und europäische Namen
+Forschungsbericht: Vachellia drepanolobium (Flötenakazie)
+1. Nomenklatur, Taxonomie und Etymologie
+Die systematische Einordnung der Art ist das Resultat phylogenetischer Analysen, die zu einer Aufspaltung der historischen Gattung Acacia führten. Die taxonomischen und linguistischen Daten stellen sich wie folgt dar:
+Lateinischer Name: Vachellia drepanolobium (Harms ex Y.Sjöstedt) P.J.H.Hurter (Status: gesichert)1.
+Synonyme: Acacia drepanolobium Harms ex Y.Sjöstedt, Acacia formicarum Harms, Acacia lathouwersii Staner (Status: gesichert)2.
+Etymologie (Taxon): Der Namenszusatz drepanolobium wird in den vorliegenden biologischen Beschreibungen nicht explizit etymologisch hergeleitet (Status: vermutet als fehlend in Primärliteratur). Anhand verzeichneter Trivialnamen anderer Sprachen – wie dem slowakischen "akácia kosákovitostruková" und dem chinesischen "鐮莢金合歡" – lässt sich die wörtliche Bedeutung "Sichelhülse" ableiten (Status: vermutet)3.
+Die Dokumentation von Trivialnamen weist eine hohe sprachliche Diversität auf. Da die Quellen keine wörtlichen Übersetzungen der afrikanischen Lokalsprachen liefern, bleibt die wörtliche Bedeutung dieser Bezeichnungen unbekannt (Status: gesichert als unbekannt).
 
-Sprache / Systematik
-	Name
-	Etymologie und Bedeutung
-	Status
-
-Latein (Wissenschaftlich)
-	Centropus superciliosus
-	Centropus leitet sich aus dem Griechischen ab: kentron (Sporn) und pous (Fuß). Der Artzusatz superciliosus stammt vom lateinischen supercilium (Augenbraue)1.
-	gesichert
-
-Autor und Jahr
-	Hemprich & Ehrenberg, 1828
-	Die Erstbeschreibung erfolgte durch Wilhelm Friedrich Hemprich und Christian Gottfried Ehrenberg. Die Publikation des Namens wird auf das Jahr 1828 (Druckjahr 1829) datiert1.
-	gesichert
+Sprache / Ethnie
+	Trivialname(n)
+	Belegstatus und Anmerkungen
 
 Deutsch
-	Weißbrauenkuckuck
-	Deskriptiver Name, der sich direkt auf den markanten weißen Überaugenstreif des Vogels bezieht1.
-	gesichert
+	Flötenakazie
+	Gesichert.
 
 Englisch
-	White-browed Coucal, Lark-heeled Cuckoo
-	Deskriptiv. "Lark-heeled" bezieht sich auf die auffällig lange, lerchenähnliche Hinterzehe (Sporn), die ein definierendes Merkmal der Gattung Centropus darstellt2.
-	gesichert
-Zur inneren Systematik existieren regionale Unterteilungen. Die Nominatform C. s. superciliosus bewohnt Gebiete vom östlichen Sudan über Äthiopien und Somalia bis nach Kenia und das nordöstliche Tansania1. Die Unterart C. s. loandae ist von Uganda und dem südwestlichen Kenia bis nach Angola verbreitet1. Der taxonomische Status von Centropus burchellii (Burchell's Coucal) variiert in der Literatur; einige Autoritäten führen ihn als Unterart (C. s. burchellii), andere als eigenständige Art1 (Status: umstritten).
-Lokale Namen in Kenia und Ostafrika
-Die lokalen Bezeichnungen in Kenia weisen eine starke onomatopoetische (lautmalerische) Prägung auf.
-
-Sprache
-	Name
-	Bedeutung und Kontext
-	Status
+	Whistling thorn, whistling thorn acacia, black-galled acacia, ant-galled acacia
+	Gesichert1.
 
 Swahili
-	Dudumizi, Tipitipi, Gude, Shundi
-	Dudumizi wird phonetisch von dem an gluckerndes Wasser erinnernden Ruf des Vogels abgeleitet. Der Name ist kulturell eng mit der Ankündigung von Regen verknüpft7.
-	gesichert
+	Mbalibali
+	Gesichert3.
+
+Maa (Maasai)
+	eluai, eluaai, iluaa (Plural), ol-kine lo luai, e-merumori, e-ronkan, o-luai
+	Gesichert4.
+
+Kikuyu
+	muruai, ruai, muthi, murera
+	Gesichert (muruai, ruai, murera)3; Umstritten (muthi), da die Bezeichnung auch für andere Bäume genutzt wird8.
+
+Samburu
+	luai, luoi
+	Gesichert4.
+
+Kamba
+	kiunga, iunga (Plural), muthi, mulela
+	Gesichert4.
+
+Luo
+	dunga, adugo, dugna, oduga
+	Gesichert4.
 
 Giriama
-	Tipitipi, kwembe, hondo, gude
-	Diese Bezeichnungen überschneiden sich sprachhistorisch stark mit den Swahili-Namen und dokumentieren den Küsteneinfluss auf die Ornithonymie10.
-	gesichert
+	msemeri, munga, muhegakululu
+	Umstritten (die Quelle listet diese Namen in einem breiteren Acacia-Kontext, die artspezifische Trennschärfe fehlt)4.
+2. Phänotypische Erscheinung und Maße
+Vachellia drepanolobium ist eine dornige Gehölzpflanze, die in Wuchsformen als Busch, Strauch oder kleiner Baum auftritt (Status: gesichert)4.
+Die Wuchshöhe erreicht maximal 6,0 Meter, wobei die Pflanzen am häufigsten als Sträucher mit einer Höhe von 1,5 bis 3,5 Metern auftreten (Status: gesichert)1. Zum Alltagsvergleich: Eine Wuchshöhe von 1,5 bis 3,5 Metern entspricht der einfachen bis knapp zweifachen Höhe einer standardisierten Zimmertür (Status: rechnerisch abgeleitet). Die Baumkrone ist offen, ausladend und nimmt bei ausgewachsenen Exemplaren eine abgeflachte Form ("flat-topped") an (Status: gesichert)4. Die Borke ist überwiegend grau und glatt; bei älteren Exemplaren ist die Rinde fein rissig strukturiert (Status: gesichert)4. Das Holz des Stammes weist in der Regel einen geringen Durchmesser auf, ist jedoch hart und resistent gegen Termiten (Status: gesichert)1.
+Das Blattwerk ist wechselständig und doppelt gefiedert (bipinnat) angeordnet (Status: gesichert)10. An der Basis der Blätter befinden sich extraflorale Nektardrüsen, die kohlenhydratreiche Sekrete absondern (Status: gesichert)1. Die Blüten sind zwittrig und wachsen aus den Blattachseln; sie bilden kugelförmige (capitate) Köpfe von gelber bis cremeweißer Farbe (Status: gesichert)10. Als Früchte produziert die Pflanze schmale, rötlich-braune Hülsenfrüchte (Status: gesichert)4.
+An jedem Astknotenpunkt bildet die Pflanze ein Paar gerader, weißer Dornen aus (Status: gesichert)1. Bei etwa jedem fünften Dornenpaar ist die Basis zu einer hohlen, knollenartigen Struktur – einem Domatium (Galle) – verdickt (Status: gesichert)1. Die Ontogenese dieser Gallen verläuft in definierten Phasen: Im frühen Wachstumsstadium sind die Gallen weich, fleischig, mit Flüssigkeit gefüllt und von dunkelgrüner Farbe. Mit zunehmender Reifung wechseln sie zu einem rötlichen Violett. In diesem Stadium bohren symbiotische Ameisen Ein- und Ausgangslöcher an der Dornenbasis und höhlen die Gallen aus. Im Endstadium verhärten die Gallen, werden faserig und nehmen eine dunkelgraue bis schwarze Färbung an (Status: gesichert)4. Die Gallen erreichen einen Durchmesser von bis zu 5,0 Zentimetern, was etwa dem Durchmesser eines Golfballs entspricht (Status: gesichert / rechnerisch abgeleitet)4. Der Trivialname "Flötenakazie" leitet sich von dem akustischen Phänomen ab, das entsteht, wenn Wind über diese hohlen, perforierten Gallen streicht und ein pfeifendes Geräusch erzeugt (Status: gesichert)1.
+3. Ökologische Mechanismen: Myrmekophytie, Sabotage und Störungskaskaden
+Das fundamentale biologische Prinzip von Vachellia drepanolobium ist die Myrmekophytie, eine mutualistische Symbiose mit Ameisen. Die Pflanze stellt durch ihre hohlen Dornen (Domatien) Nistraum und durch extraflorale Nektarien Nahrung zur Verfügung. Im Gegenzug verteidigen die Ameisen den Baum vor herbivoren Säugetieren und Insekten (Status: gesichert)1.
+Vier Ameisenarten der Gattungen Crematogaster und Tetraponera konkurrieren um die exklusive Besiedlung einzelner Bäume. Es existiert eine strikte Dominanzhierarchie (Crematogaster sjostedti > Crematogaster mimosae > Crematogaster nigriceps > Tetraponera penzigi). Die Besiedlung ist dynamisch; auf 8 bis 10 % der Bäume findet jährlich ein Übergang zwischen den Arten statt (Status: gesichert)15.
 
-Maa, Kikuyu, Samburu, Kamba
-	unbekannt
-	In den herangezogenen linguistischen und ornithologischen Primärdaten finden sich keine belastbaren Belege für spezifische Namen in diesen Sprachen.
-	-
-2. Erscheinung und morphologische Maße
-Der Weißbrauenkuckuck ist ein mittelgroßer, bodennah lebender Kuckucksvogel. Die Art weist einen reversen Geschlechtsdimorphismus hinsichtlich der Körpergröße auf, bei dem die Weibchen physisch dominanter sind als die Männchen1.
-Physische Parameter und Größenvergleich
+Ameisenart
+	Besiedlungsanteil
+	Verhalten und Auswirkung auf die Wirtspflanze
+	Ökologischer Status
 
-Merkmal
-	Männchen
-	Weibchen
-	Spanne / Anmerkung
-	Status
+Crematogaster mimosae
+	ca. 50 % bis 52 %
+	Aggressive Verteidigung gegen Herbivore. Nutzt Gallen als Nistplatz und Nektar als Nahrung. Fördert in Symbiose schildlausartige Insekten (Coccidae). Erhöht die Kohlenstofffixierung des Baumes signifikant.
+	Starker Mutualist (gesichert)1.
 
-Körperlänge
-	Keine geschlechtsspezifische Trennung in den Quellen.
-	Keine geschlechtsspezifische Trennung in den Quellen.
-	36 bis 42 cm1.
-	gesichert
+Tetraponera penzigi
+	ca. 17 %
+	Moderat defensive, monogyne Art mit schmaler Körpergestalt. Zerstört sämtliche Nektardrüsen des Wirtsbaumes und bohrt extrem kleine Eingangslöcher in die Gallen, was physische Übernahmen durch größere Konkurrenten erschwert ("Prioritätseffekte"). Baut stattdessen Pilze im Inneren der Gallen an. Erhöht ebenfalls die Kohlenstofffixierung des Baumes.
+	Mutualist durch Sabotage (gesichert)11.
 
-Gewicht
-	ca. 160 g1
-	ca. 180 g1
-	Gesamtspanne: 145 bis 210 g1.
-	gesichert
+Crematogaster sjostedti
+	ca. 16 %
+	Schwache Verteidigung. Nistet nicht in den pflanzlichen Gallen, sondern in durch Bockkäferlarven (Cerambycidae) erzeugten Fraßgängen im Stamm. Fördert diesen Käferbefall aktiv. Führt zu verringerter Kohlenstofffixierung, langsamerem Baumwachstum und signifikant höherer Baummortalität.
+	Parasit / Antagonist (gesichert)1.
 
-Flügellänge
-	81 bis 100 mm13
-	93 bis 95 mm13
-	Historische Messungen variieren regional.
-	umstritten
-
-Größenunterschied
-	-
-	-
-	Weibchen sind im Durchschnitt 13 % größer als Männchen12.
-	gesichert
-Größeneinordnung im Alltagsvergleich: Die Gesamtkörperlänge von 36 bis 42 cm entspricht der mathematischen Größenordnung eines durchschnittlichen menschlichen Unterarms, gemessen von der Armbeuge bis zu den Fingerspitzen (ca. 40 cm). Der Vogel nimmt in sitzender Haltung ein entsprechendes räumliches Volumen ein (Status: vermutet / mathematisch abgeleitet).
-Widerspruch in den morphologischen Daten: Historische ornithologische Berichte (u. a. aus Britisch-Ostafrika) listen Maße, die in sich widersprüchlich erscheinen. Während die Körperlänge der Art standardmäßig mit 36 bis 42 cm angegeben wird1, dokumentiert eine isolierte Sammlungsmessung eine Gesamtlänge von 150 mm (15 cm), eine Schwanzlänge von 36 bis 45 mm, einen Tarsus von 15 bis 30 mm und einen Schnabel (Culmen) von 19 mm13. Diese Extremabweichung nach unten lässt sich biologisch nur durch die fehlerhafte Vermessung eines sehr jungen Nestlings oder durch einen Fehler bei der historischen Datenerfassung (z.B. Verwechslung der Spezies oder Maßeinheiten) erklären (Status: umstritten).
-Farbgebung und anatomische Charakteristika
-Das Alterskleid der adulten Vögel zeigt keine farblichen Unterschiede zwischen den Geschlechtern.
-Kopf und Nacken: Die Grundfärbung ist ein tiefes Dunkelbraun, das von einem breiten, weißen Überaugenstreif (Supercilium) und einem schwarzen Augenstreif durchbrochen wird. Vom Nacken bis zum Mantel verläuft die Färbung ins Schwärzliche, durchsetzt mit kräftigen, weißlichen Streifen1. (Status: gesichert).
-Körperoberseite: Der Rücken präsentiert sich in einem Rotbraun, während die Flügeldecken ein sattes Kastanienbraun aufweisen1. (Status: gesichert).
-Schwanz: Die Steuerfedern sind lang, breit und mächtig ausgebildet. Die Grundfarbe ist schwarzbraun und weist im Licht einen grünlich-schwarzen Schimmer auf. Die Oberschwanzdecken sind weiß gestrichelt1. (Status: gesichert).
-Körperunterseite: Die Unterseite variiert von weißlich bis grau-weiß und cremefarben, strukturiert durch eine feine Strichelung und dunkle Bänderung. Die Brust weist feine, cremig gelbliche bis weißliche Härchen auf1. (Status: gesichert).
-Weichteile: Die Iris adulter Vögel ist rot. Der Schnabel ist kräftig, schwarz und leicht gebogen. Die Beine weisen eine bläulich-graue bis schwarze Pigmentierung auf1. (Status: gesichert).
-Altersstufen und Juvenilkleid
-Der Übergang vom Jugend- in das Adultstadium ist phänotypisch deutlich ablesbar. Das erste Jahreskleid (Subadult) differenziert sich durch eine reiche braune Querbänderung vom Alterskleid, ein Merkmal, das innerhalb der Familie der Kuckucke (Cuculidae) formenspezifisch ist. Kopf und Nacken der Jungvögel sind gelbbraun gestreift. Der namensgebende Überaugenstreif ist bereits rudimentär angelegt, jedoch blasser. Flügel und Schwanz zeigen eine gelbbraune Bänderung. Die Unterseite ist überwiegend gelbbraun gefärbt. Ein prägnantes Reifemerkmal ist das Auge: Die Iris ist bei Jungtieren dunkel und färbt sich erst dann in das adulte Rot um, wenn die Schwanzfedern ihr volles Wachstum erreicht haben1. (Status: gesichert).
-3. Der Mechanismus: Brutbiologie, Endokrinologie und testikuläre Asymmetrie
-Das zentrale biologische Prinzip, das die Spornkuckucke (Centropodinae) und im speziellen den Weißbrauenkuckuck für die Evolutionsbiologie relevant macht, ist das Zusammenspiel aus flexiblen Geschlechterrollen, der Abwesenheit von Brutparasitismus und einer graduellen testikulären Asymmetrie.
-3.1 Bateman-Gradienten und flexible Geschlechterrollen
-Kuckucke gelten im allgemeinen Verständnis als obligate Brutparasiten. Der Weißbrauenkuckuck bricht mit dieser Regel; er baut eigene Nester und zieht seinen Nachwuchs selbst auf1. Die Art lebt in sozial monogamen Paaren, bei denen beide Geschlechter gleichermaßen in die Territoriumsverteidigung und Brutpflege investieren (biparentale Pflege)15.
-Trotz dieser sozialen Monogamie offenbart die Populationsdynamik ein hohes Maß an Flexibilität. Studien zur sexuellen Selektion zeigen, dass Weibchen des Weißbrauenkuckucks einen steileren "Bateman-Gradienten" aufweisen als Männchen. Das Bateman-Prinzip besagt vereinfacht, dass das Geschlecht mit der höheren Varianz im Fortpflanzungserfolg (in diesem Fall die Weibchen) stärker von multiplen Paarungen profitiert17. Die ökologische Kausalkette stellt sich wie folgt dar:
-Ressourcen und elterliche Investition: Altriciale (nackt schlüpfende) Kuckucksküken erfordern hohe energetische Investitionen (Wärmen, Füttern)17.
-Potenzial zur Rollenemanzipation: Beide Geschlechter besitzen die physiologische Fähigkeit, die Brutpflege allein zu übernehmen. Die Flexibilität der Geschlechterrollen ermöglicht es den Weibchen potenziell, sich von der Brutpflege zu emanzipieren, um zusätzliche Paarungspartner zu suchen17.
-Demografische Limitierung (Adult Sex Ratio): Dass der Weißbrauenkuckuck dennoch weitgehend monogam bleibt und nicht, wie der verwandte Afrikanische Kuckuck (Centropus grillii), in eine klassische Polyandrie (Vielmännerei) wechselt, wird durch das ausgeglichene Geschlechterverhältnis (Adult Sex Ratio) der Population erzwungen. Es stehen schlicht nicht ausreichend "freie" Männchen zur Verfügung, um ein polyandrisches System flächendeckend zu etablieren17. (Status: gesichert).
-3.2 Die Feminisierungs-Hypothese und testikuläre Asymmetrie
-Die hormonellen und anatomischen Grundlagen dieser Verhaltensflexibilität wurden in den 2000er bis 2020er Jahren maßgeblich von Wolfgang Goymann (Max-Planck-Institut für biologische Intelligenz) erforscht16.
-In der grundlegenden Anatomie der Vögel bildet sich bei Weibchen in der Regel nur das linke Ovar aus, während Männchen zwei Hoden besitzen, von denen der linke zumeist größer ist18. Innerhalb der Gattung Centropus kommt es jedoch zu einer Verschiebung: Mit zunehmender Umkehrung der Geschlechterrollen in der Evolution der Spornkuckucke reduziert sich der linke Hoden der Männchen sukzessive. Beim Weißbrauenkuckuck, der als basal und am wenigsten abgeleitet gilt, ist das klassische Muster (zwei funktionale Hoden) weitgehend intakt, wenngleich eine Tendenz zur Rechtsdominanz besteht. Bei extrem polyandrischen Verwandten (C. grillii) fehlt der linke Hoden schließlich vollständig15.
-Es existierten zwei konkurrierende Erklärungen für diesen Mechanismus:
-Hypothese der Testosteron-Reduktion (Ligon, 1997): Es wurde postuliert, dass der Verlust eines Hodens adaptiv sei, um die Testosteronproduktion zu senken. Niedriges Testosteron galt als Voraussetzung für die väterliche Brutpflege, da hohe Spiegel kooperatives Verhalten unterdrücken18.
-Hypothese der Gehirn-Feminisierung (Goymann): Goymann widerlegte Ligons Ansatz durch Hormonmessungen, die bewiesen, dass Männchen mit nur einem Hoden keine geringeren Testosteronspiegel aufweisen als der zweihodige Weißbrauenkuckuck18. Stattdessen formulierte Goymann folgende Kausalkette:
-Damit Männchen die Brutpflege tolerieren und Aggression abbauen, muss das männliche Gehirn während der Embryonalentwicklung "feminisiert" werden.
-Diese Feminisierung wird durch eine kurzzeitige (transiente) endogene Produktion von Östrogenen im männlichen Embryo ausgelöst.
-Östrogene blockieren bei Vögeln physiologisch die Entwicklung der männlichen Gonaden auf der linken Körperseite.
-Als nicht-adaptives Nebenprodukt (Side-effect) dieser notwendigen Gehirnfeminisierung wird die Entwicklung des linken Hodens gestört oder unterbunden, weshalb nur der rechte Hoden ausreift18. (Status: gesichert).
-3.3 Akustisches Index-Signal: Das Duett
-Die akustische Kommunikation des Weißbrauenkuckucks basiert auf komplexen Duetten. Obwohl beide Geschlechter den Gesang initiieren können, wird das Duett mehrheitlich vom Männchen geführt12. Der Mechanismus hierbei ist eine strenge geschlechtsspezifische Frequenztrennung. Die Tonhöhe des Gesangs korreliert negativ mit der Körpergröße (gemessen an der Tarsus-Länge). Da die Weibchen physisch größer sind, singen sie signifikant tiefer als die Männchen12.
-Die mittlere Minimalfrequenz liegt bei etwa 381 Hz, was für einen Vogel dieser Größe extrem tief ist (rund 120 Hz tiefer als bei einem eurasischen Kuckuck vergleichbarer Masse). Der Gesang funktioniert somit als verlässliches, fälschungssicheres "Index-Signal" für die Körpergröße. Verstärkt wird diese extrem tiefe Frequenz durch spezielle Körperhaltungen beim Singen. Es wird angenommen, dass dieser Mechanismus stark durch sexuelle Selektion vorangetrieben wurde12. (Status: gesichert).
-4. Ökologie und Verhalten
-Lebensraum und Habitatpräferenzen
-Das Verbreitungsgebiet des Weißbrauenkuckucks umfasst weite Teile Subsahara-Afrikas sowie den Jemen. Altitudinal kommt die Art von Meereshöhe bis in Lagen von 2.200 bis 2.800 Metern vor1. Auf der geplanten Route durch Kenia (Laikipia-Plateau, Mt. Kenya, Nyahururu, Rumuruti, Naro Moru, Ol Pejeta Conservancy, Nanyuki, Mpala Research Centre) findet der Weißbrauenkuckuck ideale Bedingungen vor. Er ist eng an feuchte Mikrohabitate gebunden und präferiert dicht bewachsene Flussränder (Galeriewälder), Sumpfgebiete, Schilfbestände, hohes Elefantengras sowie buschiges Unterholz und aufgelassene Agrarflächen1. (Status: gesichert).
-Nahrung und Prädation
-Die Art agiert als tagaktiver Prädator und opportunistischer Sammler in der Krautschicht und im dichten Buschwerk. Das Nahrungsspektrum ist breit und umfasst Insekten, Spinnentiere, Schnecken, kleine Echsen, Schlangen, Froschlurche, Mäuse sowie die Eier und Küken anderer Vogelarten1. Ein charakteristisches Verhalten ist das Verfolgen der Feuerkante bei Buschbränden, um fliehende oder geröstete Beutetiere aufzusammeln1. (Status: gesichert).
-Fortpflanzung und Brutverhalten
-Der Weißbrauenkuckuck brütet ortsständig in einer tiefen, schalenförmigen Nestkonstruktion, die gut verborgen in dichter Vegetation angelegt wird1.
-Gelegegröße: 3 bis 5 weiße Eier1.
-Inkubationszeit: Die Bebrütung der Eier dauert 14 Tage und wird von beiden Partnern durchgeführt1.
-Entwicklungsstatus der Küken: In der Literatur existieren widersprüchliche Angaben zum Status der Jungvögel. Die Mehrzahl der Quellen beschreibt die Küken als klassische Nesthocker (altricial), die nackt schlüpfen und vollständig auf das Wärmen und Füttern durch die Eltern angewiesen sind4. Eine Studie (Goymann et al.) analysiert jedoch Pflegeverhaltensweisen, die typisch für Nestflüchter (precocial) seien22. Dieser Widerspruch könnte auf eine extrem rasche postnatale Entwicklung hindeuten, bei der die Jungvögel das Nest sehr früh verlassen, aber weiterhin von den Eltern betreut werden. (Status: umstritten).
-Energetik der Brut: Bemerkenswert ist, dass die Brutpflege für die Eltern keine physiologische Ausnahmesituation darstellt. Messungen ergaben, dass die Konzentration von Basis-Corticosteron (einem Stresshormon) bei Weißbrauenkuckucken während der Jungenaufzucht nicht ansteigt. Die Fütterungsintervalle sind relativ lang, und die Eltern verbringen zwischen den Fütterungen beträchtliche Zeit ruhend auf Gräsern oder in Akaziensträuchern15. (Status: gesichert).
-Vergesellschaftung und Parasiten
-Andere Arten nutzen den Weißbrauenkuckuck als Wirt. Dazu gehören Ektoparasiten wie die Lausfliege Icosta minor23 sowie Endoparasiten wie der Bandwurm Davainea sp.24. (Status: gesichert).
-Saisonale Muster Ende September und Anfang Oktober
-Im Reisezeitraum (24.09. bis 12.10.2026) befindet sich die Region Laikipia/Mt. Kenya im klimatischen Übergang. Die lange Trockenzeit endet, und die kleine Regenzeit ("Short Rains") kündigt sich an. Da die Brutzeiten des Weißbrauenkuckucks in Kenia vornehmlich in die Regenzeiten fallen1, markiert dieser Zeitraum den Beginn der gesteigerten territorialen Aktivität.
-Aktivitätsmuster: Die Vögel werden in dieser Phase ihren gurgelnden Duett-Gesang ("boo-boo-boo-boo") deutlich intensivieren, um Reviergrenzen zu definieren und die Paarbindung zu festigen [Status: vermutet, basierend auf ökologischen Rhythmen].
-Verhalten bei Niederschlag: Während der ersten Schauer ziehen sich die Tiere tief in die Gras- und Schilfbestände zurück. Unmittelbar nach dem Regen zeigen sie ein charakteristisches Verhalten: Sie klettern aus dem dichten Unterholz in exponiertere Zweige, breiten die Flügel aus und lassen ihr durchnässtes Gefieder in der Sonne trocknen1. (Status: gesichert).
-5. Menschen und Kultur in Kenia
-Rolle im Mythos und Sprichwort
-Die kulturelle Rezeption des Weißbrauenkuckucks in Kenia wird stark von seiner Lautäußerung dominiert. Der Ruf, der an aus einer Flasche gluckerndes Wasser erinnert, hat der Art in Ostafrika den Ruf eines Regenpropheten (Rain Bird) eingebracht1.
-In der Swahili-Kultur ist der Vogel unter Namen wie Dudumizi, Gude oder Tipitipi fest im oralen Korpus verankert7. Die Vögel fungieren in Überlieferungen als Vorzeichen für klimatische Umschwünge. Ein überlieferter metaphorischer Kontext in der Swahili-Literatur lautet sinngemäß, dass man auf die frühen Warnzeichen (wie den Ruf des Dudumizi) achten müsse, so wie Wolken den Regen ankündigen7. (Status: überliefert). Hinweis zur Interpretation: Einzelne Quellen erwähnen den Vogel im Kontext westafrikanischer Rechtsprechung (Ekpe Ikpe), hierbei handelt es sich jedoch nachweislich um eine Vermischung von Swahili-Lexika mit nigerianischen/igbo-Sprichwörtern über Rebhühner7. Die primäre kulturelle Rolle des Dudumizi in Kenia bleibt die des Wetterboten.
-Nutzung, Konflikte und Schutzstatus
-Nutzung in der traditionellen Medizin: Eine spezifische Nutzung als Nahrung oder Heilmittel durch lokale Gemeinschaften in Kenia (wie den Kikuyu oder Samburu) ist in den vorliegenden Daten nicht belastbar dokumentiert. Es existieren jedoch eindeutige Nachweise aus Südafrika (Faraday Market in Johannesburg), wo Körperteile des Weißbrauenkuckucks im Rahmen der traditionellen Medizin (Muti) kommerziell gehandelt werden28. Dies lässt vermuten, dass die Art auch in anderen Teilen Afrikas einen animistischen oder heilkundlichen Wert besitzt. (Status: vermutet / teilweise gesichert für Südafrika).
-Konflikte: Direkte Konflikte der Art mit menschlichen Wirtschaftsformen (wie Landwirtschaft) sind nicht dokumentiert.
-Bestand und Schutz: Der Weißbrauenkuckuck wird auf der Roten Liste der IUCN in der Kategorie "Nicht gefährdet" (Least Concern, LC) geführt1. Präzise absolute Bestandszahlen für das Jahr 2024/2026 liegen nicht vor, jedoch wird der globale Populationstrend übereinstimmend als "stabil" deklariert. In weiten Teilen seines Verbreitungsgebiets gilt der Vogel als häufig1. (Status: gesichert).
+Crematogaster nigriceps
+	ca. 15 %
+	Aggressive Verteidigung. Praktiziert zweifaches "Pruning" (Beschneiden): Zerstört axillare Meristeme, was zur Sterilisation (Kastration) der Blütenproduktion führt, wodurch die Pflanze mehr Energie in die Bildung von Gallen lenkt. Zerstört zudem gezielt apikale Meristeme (Triebspitzen), um ein physisches Überlappen der Äste mit Bäumen dominanterer Konkurrenten zu verhindern.
+	Mutualist / Parasit (gesichert)11.
+Die ökologische Kausalkette der Exklusion großer Pflanzenfresser
+Die Stabilität dieser Symbiose hängt untrennbar von der Präsenz großer Pflanzenfresser ab. Dies wurde im "Kenya Long-Term Exclosure Experiment" (KLEE) durch Palmer, Pringle und Stanton quantifiziert. Die ökologische Kausalkette stellt sich wie folgt dar (Status: gesichert)1:
+Ausschluss: Wilde Herbivore mit einer Körpermasse von >15 kg wurden über einen Zeitraum von 10 Jahren experimentell durch Zäune von V. drepanolobium-Beständen ferngehalten11.
+Pflanzliche Ressourcenallokation: In Abwesenheit von Fraßdruck reduzierten die Bäume die Produktion von extrafloralen Nektarien und geschwollenen Dornen, da die energetisch aufwendige Erhaltung der Ameisenkolonien nicht mehr adaptiv war1.
+Kompensation und Rückgang des Mutualisten: Der stark mutualistische C. mimosae verlor seine Nahrungsgrundlage und Nistplätze. Als Kompensation steigerte diese Art die Aufzucht von Pflanzensaft-saugenden Schildläusen, verlor jedoch signifikant an Besiedlungspräsenz auf den Bäumen1.
+Parasitäre Übernahme: Crematogaster sjostedti, die nicht auf Gallen und pflanzlichen Nektar angewiesen ist, profitierte von der Schwächung der Konkurrenz. Ihre Besiedlungsquote auf den Bäumen verdoppelte sich1.
+Erhöhte Mortalität: Die Dominanz von C. sjostedti führte zu einem Anstieg der durch Bockkäferlarven verursachten Stammschäden. Die Wachstumsrate der Bäume verlangsamte sich, und die Mortalitätsrate (Sterblichkeit) verdoppelte sich im Vergleich zu Bäumen, die weiterhin von C. mimosae besiedelt wurden11. Die Abwesenheit von Herbivoren führt paradoxerweise zu einer Verschlechterung der Baumgesundheit.
+Die Kausalkette der Invasionsbiologie
+Ein zweiter Störungsmechanismus betrifft die Invasion der nicht-heimischen Großkopfameise (Pheidole megacephala). Diese Kausalkette formt das gesamte Raubtier-Beute-Gefüge der Savanne um (Status: gesichert)23:
+Invasion: Pheidole megacephala breitet sich mit einer Rate von etwa 50 Metern pro Jahr aus und eliminiert die einheimischen Akazienameisen vollständig innerhalb von Stunden bis wenigen Tagen23.
+Verlust der Abwehr: Ohne die beißenden und stechenden mutualistischen Ameisen verliert V. drepanolobium seine primäre Verteidigung23.
+Fraßdruck durch Megaherbivore: Afrikanische Elefanten (Loxodonta africana) weiden die nun schutzlosen Bäume mit fünffach bis siebenfach erhöhter Intensität ab. Dabei entfernen sie zwischen 10 % und 100 % der Baumkrone, brechen Äste und zerstören teilweise ganze Pflanzen23.
+Landschaftsmodifikation: Die Zerstörung der Kronendächer führt zu einer signifikant verringerten Baumdichte und einer deutlich erhöhten Sichtweite (Sichtfeld) innerhalb des Savannen-Ökosystems23.
+Raubtier-Beute-Interaktion: Löwen (Panthera leo), deren Jagdstrategie auf der physischen Deckung durch dichte Gehölzbestände basiert, verlieren diesen strukturellen Vorteil. In den von der Großkopfameise invadierten Gebieten sinkt der Jagderfolg der Löwen auf ihre Hauptbeute, das Steppenzebra (Equus quagga), signifikant ab, obgleich die absolute Anzahl der Löwen im Gebiet nicht gesunken ist23.
+4. Ökologie, Phänologie und Verhalten
+Vachellia drepanolobium wächst als dominante Art im Hochland Ostafrikas, primär in Höhenlagen zwischen 1.300 und 2.400 Metern. Sie besiedelt fast ausschließlich sogenannte "Black Cotton Soils" (Vertisole), schwere Tonböden mit stark eingeschränkter Drainage (Status: gesichert)1. In diesen Habitaten bildet sie weitgehend monodominante Wälder (Monokulturen), da sie als einzige Vachellia-Art auf diesen Böden wachsen kann (Status: gesichert)1. Die Art gilt als feuerresistent und treibt nach Bränden durch basale Stockausschläge (Coppicing) wieder aus (Status: gesichert)1.
+In Bezug auf den Reisezeitraum Ende September bis Anfang Oktober (Ende der langen Trockenzeit, Beginn der kleinen Regenzeit) weist die Art ein spezifisches phänologisches Muster auf. Die Zeit des Aufplatzens der Staubbeutel (Dehiszenz) und der Freigabe von Pollen wird unmittelbar von der Mikro-Klimatologie, spezifisch der relativen Luftfeuchtigkeit, gesteuert. Die intraspezifische Pollenverfügbarkeit von V. drepanolobium gipfelt später am Tag als bei sympatrischen Arten (z. B. V. nilotica oder V. tortilis), um Konkurrenz um Bestäuber zu vermeiden. An Tagen mit höherer relativer Luftfeuchtigkeit verzögert sich der Zeitpunkt der Pollenfreigabe weiter (Status: gesichert)28.
+Das Ökosystem um den Baum unterhält diverse tierische Abhängigkeiten:
+Große Herbivore: Giraffen (z. B. Netzgiraffen, Giraffa camelopardalis reticulata) fressen selektiv die Blätter, obwohl der Baum durch Dornen und Ameisen verteidigt wird (Status: gesichert)1.
+Avifauna: Der seltene Fox-Weber (Ploceus spekeoides) nutzt V. drepanolobium in nordöstlichen Regionen Ugandas als ausschließliches Bruthabitat. Nester wurden ausschließlich in dieser Baumart dokumentiert (12 Nester, 16 Individuen in einer Erhebung). Es wird angenommen, dass der Vogel von den Ameisen als Schutz gegen Nesträuber profitiert und sich von diesen ernährt (Status: gesichert / vermutet bezüglich Prädationsschutz)31.
+Primaten: Der vom Aussterben bedrohte Südliche Husarenaffe (Erythrocebus baumstarki) bewohnt primär Habitate, die von V. drepanolobium dominiert werden (Status: gesichert)32.
+5. Anthropogene Nutzung und kulturelle Bedeutung in Kenia
+Die Nutzung durch den Menschen ist vielschichtig, birgt jedoch gleichzeitig ein hohes Konfliktpotenzial im Bereich der Weidewirtschaft.
+Nahrung: Sehr junge, grüne Gallen (Domatien) sind essbar und weisen einen süßlichen, teils leicht bitteren Geschmack auf. Sie werden von lokalen Hirten gekaut. Die faserige Rinde im Stamminneren wird ebenfalls gekaut und besitzt einen vergleichbar süß-bitteren Geschmack (dokumentiert im Machakos-Distrikt bei den Kamba) (Status: gesichert)4.
+Medizin: Bei der Ethnie der Maasai (dokumentiert im Gebiet Mailua, Trockenregion, 1.300 m Höhe) werden Bestandteile des Baumes für traditionelle Heilverfahren genutzt (Status: überliefert)6:
+Die Rinde wird verwendet, um den Appetit anzuregen, Magenschmerzen zu behandeln, den "Blutgehalt" zu steiguern und die allgemeine Gesundheit zu fördern.
+Die Wurzeln werden zur Zubereitung einer Suppe ("Motorik") ausgekocht, welche die Verdauung von Fleisch erleichtern soll.
+Material und Brennstoff: Das harte, kleine Holz wird für die Konstruktion von Zäunen sowie zur Herstellung von Werkzeugstielen und anderen landwirtschaftlichen Geräten verwendet. Die Äste werden als Anzündholz genutzt. Da die Pflanze nach dem Schnitt schnell wieder ausschlägt (Coppicing), wird sie als nachhaltige Quelle für Brennholz und zur Holzkohleproduktion verwendet. Das austretende Harz (Gummi) wird teilweise gesammelt und als Klebstoff verarbeitet (Status: gesichert)1.
+Konflikte (Bush Encroachment): In Gebieten der Weidewirtschaft wird V. drepanolobium zunehmend als Unkraut eingestuft. Durch Dürreperioden, die Unterdrückung natürlicher Brände und eine intensive Überweidung von Gräsern durch Nutztiere breiten sich die Bäume als "bush encroachment species" (Verbuschungsart) massiv aus. Dies bedroht die subsistenzielle Viehwirtschaft von Nomadenvölkern, da die Bäume das für Rinder benötigte Grasland verdrängen (Status: gesichert)1. Auch im Naturschutz ist diese Ausbreitung konfliktbehaftet: Auf der Liben-Ebene in Südäthiopien führt die Einengung des Lebensraums durch V. drepanolobium in Kombination mit Ackerbau zum drastischen Bestandsrückgang der stark gefährdeten Liben-Lerche (Heteromirafra archeri) (Status: gesichert)34.
+Schutzstatus und Bestand: Die Art ist in der Roten Liste der IUCN (Assessment-Kategorie 2024-1) als "Least Concern" (Nicht gefährdet) gelistet (Status: gesichert)35. Die globalen Bestandszahlen gelten als stabil bis zunehmend, weshalb in einigen Regionen Ausdünnungsprogramme gefördert werden36. Mythen, Überlieferungen zu Schöpfungsgeschichten oder rituelle Tänze sind in den Quellen nicht belegt (Status: vermutet als nicht vorhanden oder nicht dokumentiert).
 6. Wissenschaftsgeschichte
-Die wissenschaftliche Erschließung des Weißbrauenkuckucks vollzog sich in zwei zeitlich weit auseinanderliegenden Epochen.
-Die Erstbeschreibung (19. Jahrhundert): Die Art wurde während einer der großen naturkundlichen Expeditionen des frühen 19. Jahrhunderts entdeckt. Die deutschen Naturforscher Wilhelm Friedrich Hemprich und Christian Gottfried Ehrenberg beschrieben den Vogel anhand von Bälgen, die sie auf ihrer Forschungsreise durch Nordostafrika (Äthiopien) und Arabien gesammelt hatten. Die formelle Benennung als Centropus superciliosus wird auf das Jahr 1828 datiert, die Publikation erfolgte 1829 in ihrem Werk Symbolae Physicae1. (Status: gesichert).
-Verhaltensökologie und Endokrinologie (21. Jahrhundert): Eine zweite, hochgradig spezialisierte Forschungsära begann in den frühen 2000er Jahren und erstreckte sich bis in die 2020er Jahre. Ein Team um Wolfgang Goymann, Henrik Brumm und Ignacio Safari (Max-Planck-Institut für biologische Intelligenz, ehemals MPI für Ornithologie) rückte den Weißbrauenkuckuck in den Fokus der evolutionären Verhaltensforschung. In Langzeitstudien, unter anderem im Mpala Research Centre in Kenia und den Usangu-Feuchtgebieten in Tansania, wurde die Art als Modellorganismus genutzt, um die endokrinen Grundlagen von Geschlechterrollen (die Feminisierungs-Hypothese) sowie die Akustik des Duettierens zu entschlüsseln12. Diese Arbeiten lösten ältere Kontroversen auf (wie die Ligon-Hypothese von 1997 zur Hodenreduktion) und etablierten den Vogel als Schlüsselart zum Verständnis sexueller Selektion und elterlicher Investition bei Vögeln. (Status: gesichert).
-7. Fotografie (Hinweise für die Route Laikipia / Mt. Kenya)
-Sichtbarkeit und Tageszeit
-Die besten Beobachtungschancen entlang der Route (Nyahururu, Rumuruti, Naro Moru, Ol Pejeta, Nanyuki, Mpala) bieten sich in den feuchten, ripuarischen Habitaten, etwa in den Galeriewäldern des Ewaso Nyiro River, am Burguret River oder in der dichten Vegetation an den Thomson Falls (Nyahururu)19. Die höchste Aktivität fällt in die frühen Morgenstunden sowie in die unmittelbaren Zeitfenster direkt nach den kurzen Regenschauern der beginnenden kleinen Regenzeit ("Short Rains") im Oktober1. (Status: vermutet / ökologisch abgeleitet).
-Verhalten und Fluchtdistanz
-Der Weißbrauenkuckuck verhält sich kryptisch ("skulking") und bewegt sich zumeist hüpfend oder kletternd tief im dichten Gras und Gestrüpp1. Ein Abwarten lohnt sich besonders dann, wenn die Vegetation nach einem Regenschauer nass ist. Die Vögel klettern dann zielsicher in den äußeren, sonnenexponierten Geästbereich, breiten ihre kastanienbraunen Flügel aus und trocknen ihr Gefieder1. Die exakte Fluchtdistanz in Metern ist aus der Literatur nicht bezifferbar. Die Art toleriert jedoch bei ausreichender Deckung Beobachtungen aus mittlerer Distanz, solange keine ruckartigen Bewegungen erfolgen. (Status: vermutet).
-Ausrüstung und Kamera-Setup
-Brennweiten: Aufgrund der dichten Vegetation und der Scheu des Vogels sind die langen Teleobjektive (100 bis 400 mm und insbesondere 150 bis 600 mm) zwingend erforderlich. Sie erlauben es, durch kleine Lücken im Blattwerk zu fokussieren und den Hintergrund aufzulösen. Die Weitwinkel- und Standardobjektive (26 bis 60 mm, 45 mm) eignen sich ausschließlich zur Dokumentation des Habitats.
-Verschlusszeiten:
-Ruhephase (Singen, Trocknen): Sitzt der Vogel relativ unbeweglich im Geäst, sind Verschlusszeiten von 1/250 s bis 1/500 s ausreichend, sofern ein Bildstabilisator genutzt wird [abgeleitet].
-Ortswechsel (Flug, Sprung): Der Flug der Art ist oft schwerfällig, tief und extrem kurzweilig – meist nur ein hastiger Sprungflug vom einen Busch in den nächsten1. Um diese abrupten Bewegungen "einzufrieren", sind Verschlusszeiten von mindestens 1/1600 s bis 1/2000 s erforderlich [abgeleitet aus allgemeinen fotografischen Richtwerten für schnelle Vögel].
-Typische Fehler: Ein häufiger Fehler ist der Versuch, den Vogel im dichten Unterholz bei seinem raschen Flug mit einem Mitzieher (Panning) verfolgen zu wollen. Da die Flugphasen zu kurz und die Vegetation zu dicht sind, reißt der Autofokus meist ab. Die erfolgversprechendere Technik besteht darin, auf den Landepunkt im Geäst vorzufokussieren und darauf zu warten, dass der Kuckuck nach der Landung wieder nach oben klettert. (Status: vermutet).
-8. Links zum Weiterlesen und Sehen
-Fachliche Quelle (IUCN Red List):
-https://www.iucnredlist.org/species/22684288/93023689
-Dient der offiziellen Überprüfung des globalen Schutzstatus (Least Concern) und liefert Einordnungen zu Populationstrends und Gefährdungen.
-Fachliche Quelle (Wissenschaftshistorie / Max-Planck-Gesellschaft):
-https://www.bi.mpg.de/1507895/sex-roles_en
-Zusammenfassende Projektdarstellung von Wolfgang Goymann zur Erforschung der Evolution der Geschlechterrollen und Endokrinologie bei Spornkuckucken.
-Verbreitungskarte (GBIF):
-https://www.gbif.org/species/9525769
-Globale Biodiversitätsdatenbank, die georeferenzierte Sichtungen des Weißbrauenkuckucks in Ostafrika sowie detaillierte Angaben zur taxonomischen Synonymie bereitstellt.
-Taxonomie und Systematik (Avibase):
-https://avibase.bsc-eoc.org/species.jsp?avibaseid=BD2BC35CC767F520
-Umfassende taxonomische Übersicht, welche die komplexe Unterteilung der Unterarten (wie loandae und burchellii) sowie die historische Referenz der Erstbeschreibung von Hemprich & Ehrenberg aufschlüsselt.
-Tonaufnahme des Rufs (xeno-canto):
-https://xeno-canto.org/608051
-Akustische Dokumentation des charakteristischen, gurgelnden "boo-boo-boo"-Duetts, das maßgeblich für die kulturelle Wahrnehmung der Art als "Regenprophet" verantwortlich ist.
+Die formelle Identifikation und Erforschung der Flötenakazie ist von historischen Expeditionen und langjährigen modernen Großexperimenten geprägt (Status: gesichert):
+1905–1906: Der schwedische Ornithologe und Entomologe Bror Yngve Sjöstedt sammelt auf der Schwedischen Zoologischen Expedition zum Kilimandscharo Spezies und Daten.
+1908: Der deutsche Botaniker Hermann August Theodor Harms beschreibt die Art erstmals formell unter dem Namen Acacia drepanolobium basierend auf Sjöstedts Arbeiten2.
+1995: Das "Kenya Long-Term Exclosure Experiment" (KLEE) wird am Mpala Research Centre in Laikipia initiiert. Geleitet von Truman P. Young schließt es große Säugetiere auf experimentellen Flächen aus22.
+2008: Todd M. Palmer, Robert M. Pringle und Maureen L. Stanton veröffentlichen auf Basis des KLEE-Projekts im Journal Science die wegweisende Studie zum Zusammenbruch des Mutualismus ("Breakdown of an Ant-Plant Mutualism")11.
+2008: Der Botaniker P.J.H. Hurter führt die phylogenetisch notwendige Umgruppierung in die Gattung Vachellia durch2.
+2024: Ein Forschungsteam um Corinna Riginos und Robert M. Pringle publiziert in Science die Entdeckung, dass die invasive Großkopfameise (Pheidole megacephala) den Mutualismus stört und das Jagdverhalten von Löwen modifiziert23.
+7. Fotografie: Verhalten, Zeiten und Optik
+Für fotografische Arbeiten im Zeitraum Ende September bis Anfang Oktober, primär entlang der Route Laikipia, Mpala und Mt. Kenya, sind die nachfolgenden Parameter maßgeblich (Status: gesichert anhand Verhaltensdaten):
+Zeitpunkt und Motive: Die frühen Morgenstunden bis zum Vormittag bieten die höchste Aktivität. Die Luftfeuchtigkeit ist hier am höchsten, was die Blütenöffnung (Pollenfreigabe) induziert28. Zudem ist dies die Phase, in der Löwen die Deckung der Baumgruppen nutzen23. Das lohnendste Verhalten für Makroaufnahmen ist der Verteidigungsmechanismus der Ameisen. Durch ein leichtes Klopfen oder Erschüttern eines Astes (Simulation eines Herbivoren) reagiert primär Crematogaster mimosae mit einem sofortigen Massenausschwärmen aus den Eintrittslöchern der Gallen, begleitet von einer markanten Körperhaltung mit hochgerecktem Abdomen1. Ein Abwarten lohnt sich auch, wenn Elefanten oder Giraffen den Baum ansteuern, um die unweigerlich folgende Reaktion des Ameisenstaats zu dokumentieren.
+Typische Fehler: Ein systematischer Fehler ist das vergebliche Warten auf Nektar-trinkende Ameisen an Bäumen, die von der schmalen Art Tetraponera penzigi besetzt sind. Diese Art beißt alle Nektarien der Pflanze präventiv ab18. Ebenfalls fehlerhaft ist die Annahme, ein Baum ohne geschwollene Gallen sei unbesiedelt. In diesem Fall dominiert meist Crematogaster sjostedti, die unsichtbar in den Fraßgängen des Stammes operiert11.
+Objektive und Verschlusszeiten:
+Weitwinkel bis Standard-Makro (26–60 mm und 45 mm): Ideal zur Dokumentation der Symbiose aus unmittelbarer Nähe (schwarze Ameisen auf rötlich-violetten Gallen). Da die Tiere im Angriffsmodus extrem schnell navigieren, sind Verschlusszeiten von über 1/1000 Sekunde zwingend erforderlich, um Bewegungsunschärfe im Makrobereich zu vermeiden.
+Telebereich (100–400 mm und 150–600 mm): Geeignet für die Interaktion mit großen Säugetieren, um die Sicherheits- und Fluchtdistanz (Elefanten, Löwen) nicht zu unterschreiten23. Auch für die Fotografie von Vögeln (wie den Webervögeln, die im Dornendach agieren) ist diese Brennweite, gepaart mit Verschlusszeiten um 1/2000 Sekunde bei Flugbewegungen zwischen den Ästen, zu empfehlen31.
+8. Kuratierte Links zum Weiterlesen und Sehen
+Die folgenden Links wurden geprüft und enthalten die im Text referenzierten wissenschaftlichen und visuellen Daten:
+Fachliche Quelle (Kew POWO):https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77089271-1Die Datenbank Plants of the World Online der Kew Gardens liefert die aktuelle taxonomische Hierarchie, Synonyme und Veröffentlichungsdaten von Vachellia drepanolobium.
+Fachliche Quelle (PMC / KLEE-Experiment):https://pmc.ncbi.nlm.nih.gov/articles/PMC2701933/Dieser Artikel beinhaltet Daten aus dem KLEE-Experiment und analysiert den Zusammenbruch des Ameisen-Pflanzen-Mutualismus in Abwesenheit von Megaherbivoren.
+Fotos (BioLib):https://www.biolib.cz/en/taxon/id1459501/Das taxonomische Profil bei BioLib zeigt verifizierte Fotos aus der Rift-Valley-Region (Naivasha) zur Rinden- und Dornenstruktur der Pflanze.
+Verbreitungskarte (GBIF):https://www.gbif.org/taxon/BTCCVDie Global Biodiversity Information Facility bietet Hunderte dokumentierte Sichtungen und eine interaktive Karte zur Verbreitung der Art in den ostafrikanischen Hochlagen.
 9. Visuelle Beschreibung für eine Illustration
-The White-browed Coucal is a robust, medium-sized bird roughly the length of a human forearm, possessing a slightly hunched, skulking posture as it navigates dense thickets. Its dark brown head is sharply interrupted by a broad, vivid white supercilium (eyebrow) and a thick black eyestripe, contrasting with a heavily streaked, whitish chest adorned with fine, creamy-yellowish hair-like feathers. The bird's back exhibits a warm, rich rufous-brown hue that transitions into deep chestnut wing coverts, while its long, broad tail hangs downwards, colored in blackish-brown with a subtle greenish gloss. It has striking crimson-red eyes, a heavy, slightly curved black beak, and strong greyish-black legs featuring an unusually long, straight hind claw.
-Detail suggestions:
-The piercing crimson red eye framed by the stark white supercilium.
-The specialized, elongated hind claw (spur) resting on a rough branch.
-A single chestnut-colored wing covert feather showing its warm, rich texture.
-Cultural vignette:
-A traditional Kenyan water gourd (calabash) tilted forward with stylized water droplets gurgling out, visually echoing both the sound of the coucal's call and its cultural mythos as the "Dudumizi" rain prophet.
-10. Was nicht belegt werden konnte
-Folgende angefragte Parameter konnten aus den vorliegenden Datenquellen nicht belastbar extrahiert oder verifiziert werden:
-Spezifische lokale Namen (Maa, Kikuyu, Samburu, Kamba): In den Quellen fanden sich lediglich Swahili- und Giriama-Bezeichnungen. Die Namen in den Sprachen der spezifischen Laikipia/Mt. Kenya-Region konnten nicht belegt werden.
-Regionale Mythen und Rituale: Es konnten keine Mythen oder rituellen Handlungen gefunden werden, die exklusiv bei Gemeinschaften am Mt. Kenya (Kikuyu, Meru) oder in Laikipia (Maa, Samburu) überliefert sind. Das Sprichwort zum Regenpropheten entstammt dem allgemeinen Swahili-Kulturraum.
-Publizierter Alltagsvergleich: Der geforderte Alltagsvergleich für die Größenordnung (hier: die Länge des Unterarms) musste rechnerisch aus den Maßangaben abgeleitet werden, da in den ornithologischen Primärquellen kein solcher anschaulicher Vergleich wörtlich dokumentiert war.
-Exakte Fluchtdistanz: Es existieren keine verlässlichen metrischen Angaben zur Fluchtdistanz.
-Fotografische Verschlusszeiten: Die genannten Richtwerte (1/250 s bis 1/2000 s) entstammen der deduktiven fotografischen Praxis für das geschilderte Verhalten des Vogels, nicht jedoch einer spezifischen wissenschaftlichen Publikation über die Art.
-Historische Konflikte: Es fanden sich keinerlei Berichte über historische Konflikte dieser speziellen Kuckucksart mit Menschen in Kenia (z.B. als landwirtschaftlicher Schädling).
-Referenzen
-https://de.wikipedia.org/wiki/Wei%C3%9Fbrauenkuckuck
-White-browed Coucal- Centropus superciliosus - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=BD2BC35CC767F520
-World Birds Taxonomic List: Genera and species with citations., https://www.zoonomen.net/avtax/wb.html
-https://animalia.bio/de/white-browed-coucal
-White-browed coucal (Centropus superciliosus) - Featherbase, https://www.featherbase.info/el/species/centropus/superciliosus
-List of birds of Southern Africa - Wikipedia, https://en.wikipedia.org/wiki/List_of_birds_of_Southern_Africa
-Methali za Kiswahili - Swahili Proverbs - Maktaba.org, https://www.maktaba.org/download/file/813/Methali_za_kiswahili_-_swahili_proverbs_.pdf
-Full text of "Swahili-English dictionary" - Internet Archive, https://archive.org/stream/Swahili-englishDictionary/swa_eng_dict_djvu.txt
-Methali za Kiswahili - Swahili Proverbs - Flipbook by Sofia nanjota, https://fliphtml5.com/wgmpd/kcxe/Methali_za_Kiswahili_-_Swahili_Proverbs/
-Digo-English-Swahili Dictionary - Bible Translation & Literacy, https://www.btlkenya.org/wp-content/uploads/2021/06/Digo-Dictionary-1.pdf
-Giryama Bird Names: An Etymological Dictionary (draft) - Scribd, https://www.scribd.com/document/14849374/Giryama-Bird-Names-An-Etymological-Dictionary-draft
-(PDF) On the natural history of duetting in White-browed Coucals: sex, https://www.researchgate.net/publication/312211030_On_the_natural_history_of_duetting_in_White-browed_Coucals_sex-_and_body-size-dependent_differences_in_a_collective_vocal_display
-On a Collection of Birds from British East Africa and Uganda, https://scispace.com/pdf/on-a-collection-of-birds-from-british-east-africa-and-uganda-3wjrf6mb4z.pdf
-Uebersicht der von Dr. G. A. Fischer auf einer zweiten Reise durch, https://ia800805.us.archive.org/view_archive.php?archive=/13/items/crossref-pre-1909-scholarly-works/10.1007%252Fbf02008814.zip&file=10.1007%252Fbf02012304.pdf
-Corticosterone Concentrations Reflect Parental Expenditure in, https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2017.00015/full
-Ecophysiology and evolution of sex roles in monogamous and, https://www.bi.mpg.de/1507895/sex-roles_en
-Sex-role reversal and the Bateman gradient in coucals—females, https://royalsocietypublishing.org/rspb/article/293/2064/20252860/479921/Sex-role-reversal-and-the-Bateman-gradient-in
-Honey, I shrunk one of my gonads! Does 'feminization' of behaviour, https://ecoevorxiv.org/repository/object/14044/download/24621/
-Graduate Opportunities 2012-2013 Archive, http://esa-ecophys.org/2012grad.html
-LAKE BARINGO - BIRDING SITE GUIDE, https://www.birdingsiteguide.com/index.php/regions/24-kenya/27-lake-baringo
-Coppery-tailed coucal - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/coppery-tailed-coucal
-Illustration of the definition of incubation interruptions and the, https://www.researchgate.net/figure/Illustration-of-the-definition-of-incubation-interruptions-and-the-measurement-of-the_fig1_308888517
-(PDF) First record of the louse fly Icosta minor (Diptera - ResearchGate, https://www.researchgate.net/publication/356876138_First_record_of_the_louse_fly_Icosta_minor_Diptera_Hippoboscidae_in_Austria_including_information_on_the_host_choice_and_entire_distribution_of_the_species
-A Review of Avian Cestodes (Platyhelminthes: Cestoda) from Africa, https://www.mdpi.com/1424-2818/15/5/634
-White Browed Coucal royalty-free images - Shutterstock, https://www.shutterstock.com/search/white-browed-coucal
-White browed coucal hi-res stock photography and images - Page 2, https://www.alamy.com/stock-photo/white-browed-coucal.html?page=2
-Understanding Swahili Proverbs | PDF - Scribd, https://www.scribd.com/document/614053390/Methali-Za-Kiswahili-Swahili-Proverbs
-Animals Traded for Traditional Medicine at the Faraday Market in, https://www.researchgate.net/publication/333562950_Animals_Traded_for_Traditional_Medicine_at_the_Faraday_Market_in_South_Africa_Species_Diversity_and_Conservation_Implications
-White-browed coucal - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/white-browed-coucal
+The Vachellia drepanolobium grows as an open, flat-topped shrub, standing roughly two to three meters tall with pale grey, finely fissured bark and an intricate, zigzagging branch structure. At each structural node along the branches, a pair of rigid, straight white spines protrudes outward, with approximately every fifth pair anchored by a prominent, spherical swelling at its base that measures up to five centimeters in diameter. These hollow domatia transition in color from a fresh reddish-purple in their youth to a hardened, charred blackish-grey as they age.
+Details for close-up illustrations:
+A reddish-purple gall dotted with tiny, circular entry holes, heavily swarmed by black Crematogaster mimosae ants with their abdomens raised defensively.
+A close-up of the delicate, bipinnate green leaves showing the precise absence of extrafloral nectary glands at their base, leaving small scars where Tetraponera penzigi ants have severed them.
+A cluster of creamy-white, spherical, capitate flower heads resting delicately against the imposing white thorns.
+Cultural vignette: A traditionally carved Maasai herdsman's staff (O-ringa), shaped from the dense, termite-resistant wood of the whistling thorn, resting against a dried, black hollow gall.
+10. Was nicht belegt werden konnte (Datenlücken)
+Trotz intensiver Auswertung der bereitgestellten Fragmente konnten folgende spezifische Details aus dem ursprünglichen Anforderungsprofil nicht durch belastbare Daten belegt werden:
+Wörtliche Etymologie des lateinischen Artnamens: Die wörtliche Herleitung von drepanolobium ("Sichelhülse") aus dem Griechischen (drepanon = Sichel, lobos = Hülse) ist in der Primärliteratur nicht dokumentiert und konnte nur über asiatische und europäische Trivialnamen abgeleitet (vermutet) werden.
+Wörtliche Bedeutung afrikanischer Trivialnamen: Für keinen der genannten Namen aus den Sprachen Maa, Kikuyu, Samburu, Kamba, Giriama oder Luo liegt eine wörtliche Übersetzung oder linguistische Erklärung vor.
+Kulturelle Überlieferungen (Mythen, Legenden, Sprichwörter): Abseits der konkreten phytomedizinischen (Motorik-Suppe) und materiellen Nutzung wurden keinerlei Rituale, Legenden oder Mythen gefunden.
+Audiodaten: Ein direkter Link zu einer Tonaufnahme (xeno-canto oder Macaulay Library) des Vogels (Fox-Weber), der in den Bäumen nistet, war in den Quellen nicht referenziert. Da Bäume keine Audio-Referenzen besitzen, entfällt dieser Punkt naturgemäß für die Pflanzenart.
+Works cited
+Vachellia drepanolobium - Wikipedia, https://en.wikipedia.org/wiki/Vachellia_drepanolobium
+Vachellia drepanolobium - Wikispecies - Wikimedia, https://species.wikimedia.org/wiki/Vachellia_drepanolobium
+Vachellia drepanolobium - GBIF, https://www.gbif.org/taxon/BTCCV
+view the document - CD3WD Project, https://www.cd3wdproject.org/CD3WD/AGRIC/H1093E/B567_7.HTM
+Plants of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/plants-of-maasai.html
+Maasai trees: Oluai (Acacia drepanolobium) - YouTube, https://www.youtube.com/watch?v=TWyiHhBQpAY
+List of Acacia Species In Kenya - Beyondforest, https://www.beyondforest.org/post/list-of-accacia-species-in-kenya
+Acacia tree in Maasai Mara, Kenya - Facebook, https://www.facebook.com/groups/natureandlandscape/posts/4163412523873031/
+Oduga, Ōduga: 2 definitions, https://www.wisdomlib.org/definition/oduga
+Vachellia - Wikipedia, https://en.wikipedia.org/wiki/Vachellia
+Todd M. Palmer Herbivores from an African Savanna Breakdown of, https://kbsgk12project.kbs.msu.edu/wp-content/uploads/2014/12/Palmer-et-al-2008.pdf
+AAU Herbarium Database, https://www.aubot.dk/show_entry.php?CatalogNumber=L.Ellemann1026&
+Ants on swollen-thorn acacias: Species coexistence in a simple, https://www.researchgate.net/publication/202001864_Ants_on_swollen-thorn_acacias_Species_coexistence_in_a_simple_system
+Vachellia drepanolobium (Kenya) - eFlora of India, https://efloraofindia.com/efi/vachellia-drepanolobium/
+Synergy of multiple partners, including freeloaders, increases host, https://www.pnas.org/doi/10.1073/pnas.1006872107
+Symbiotic ant traits produce differential host‐plant carbon and water, https://par.nsf.gov/servlets/purl/10478508
+10 - Integrating Ecological Complexity into Our Understanding of Ant, https://www.cambridge.org/core/books/antplant-interactions/integrating-ecological-complexity-into-our-understanding-of-antplant-mutualism-antacacia-interactions-in-african-savannas/30FD8E041CB27D8B8BF90236923A3274
+SPATIAL HABITAT HETEROGENEITY INFLUENCES ... - DOI, http://dx.doi.org/10.1890/02-0528
+The not-so-simple relationship between ants and the whistling thorn, https://safariguiding.com/2020/05/22/the-not-so-simple-relationship-between-ants-and-the-whistling-thorn/
+Herbivores and mutualistic ants interact to modify tree photosynthesis, https://www.researchgate.net/publication/45166631_Herbivores_and_mutualistic_ants_interact_to_modify_tree_photosynthesis
+Untitled - Squarespace, https://static1.squarespace.com/static/630b931628409955ec4fe9e7/t/68d6e6a212747720cb21f4bc/1758914211383/2008_Palmer-et-al.-Science.pdf
+(PDF) Breakdown of an Ant-Plant Mutualism Follows the Loss of, https://www.researchgate.net/publication/5662445_Breakdown_of_an_Ant-Plant_Mutualism_Follows_the_Loss_of_Large_Herbivores_from_an_African_Savanna
+(PDF) Disruption of an ant-plant mutualism shapes interactions, https://www.researchgate.net/publication/377699245_Disruption_of_an_ant-plant_mutualism_shapes_interactions_between_lions_and_their_primary_prey
+Density dependence and the spread of invasive big-headed ants, https://www.researchgate.net/publication/348825392_Density_dependence_and_the_spread_of_invasive_big-headed_ants_Pheidole_megacephala_in_an_East_African_savanna
+(PDF) Disruption of a protective ant-plant mutualism by an invasive, https://www.researchgate.net/publication/267287626_Disruption_of_a_protective_ant-plant_mutualism_by_an_invasive_ant_increases_elephant_damage_to_savanna_trees
+Using photography to estimate above-ground biomass of small trees, https://www.researchgate.net/publication/345411038_Using_photography_to_estimate_above-ground_biomass_of_small_trees
+Todd M. Palmer from Mpala Research Center and Wildlife ... - Scilit, https://www.scilit.com/scholars/019f269b217a71ad8bd594641c2ed788
+PARTITIONING OF POLLINATORS DURING FLOWERING IN AN, http://dx.doi.org/10.1890/0012-9658(1998)079%5B2808:POPDFI%5D2.0.CO;2
+https://www.inaturalist.org/taxa/431102-Vachellia-drepanolobium
+GIRAFFE FORAGING ECOLOGY IN THE TARANGIRE MANYARA, https://dspace.nm-aist.ac.tz/server/api/core/bitstreams/b2694efb-5948-4177-8a6d-dfa2355a19c2/content
+(PDF) Fox's Weaver Survey Report - ResearchGate, https://www.researchgate.net/publication/360032587_Fox's_Weaver_Survey_Report
+Southern patas monkey - Wikipedia, https://en.wikipedia.org/wiki/Southern_patas_monkey
+Assessment of the impact of woody species encroachment on plant, https://journals.co.za/doi/10.2989/10220119.2024.2324866
+Rangeland loss and population decline of the critically endangered, https://www.cambridge.org/core/journals/bird-conservation-international/article/rangeland-loss-and-population-decline-of-the-critically-endangered-liben-lark-heteromirafra-archeri-in-southern-ethiopia/7A573AB050DF31D3E9FFB637FB5CA648
+Vachellia drepanolobium | BioLib.cz, https://www.biolib.cz/en/taxon/id1459501/
+Representative photographs of non-thinned (left) and previously, https://www.researchgate.net/figure/Representative-photographs-of-non-thinned-left-and-previously-thinned-right-plots_fig2_350446829

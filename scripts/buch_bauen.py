@@ -3,8 +3,9 @@
 
 Reihenfolge: die fuenf Lebensraeume in der Reihenfolge der Reise, innerhalb
 eines Abschnitts nach Kapitelnummer. Die Nummer ist eine Kennung, keine
-Seitenzahl: 081 bis 100 sind nachtraeglich dazugekommen und verteilen sich
-auf alle fuenf Abschnitte.
+Seitenzahl. Seit dem 22.09.2026 folgt sie der Lesereihenfolge: Abschnitt 1
+traegt 001 bis 017, Abschnitt 2 geht bei 018 weiter. Vorher war sie die
+Entstehungsreihenfolge, und 081 bis 100 verteilten sich ueber alle Abschnitte.
 
 Aufruf: python3 scripts/buch_bauen.py
 """
@@ -28,6 +29,9 @@ ABSCHNITTE = [
 
 TITEL = "Kenia, vorgelesen"
 UNTERTITEL = "Hundert Arten zwischen Riff und Gipfel"
+# Steht seit dem 22.09.2026 auch im Coverbild und wird spaeter als
+# dc:creator in die EPUB-Metadaten uebernommen.
+AUTOR = "Tobi Brockmann"
 
 
 def pfad(*teile):
@@ -199,12 +203,14 @@ def bau():
         # gesetzt von cover_titel.py. Hier stuenden sie sonst doppelt. Die
         # Ueberschrift bleibt fuer Vorleseprogramme und EPUB erhalten, aber
         # unsichtbar.
-        teile.append('<img src="cover.png" alt="%s. %s">'
-                     % (html.escape(TITEL), html.escape(UNTERTITEL)))
+        teile.append('<img src="cover.png" alt="%s. %s. %s">'
+                     % (html.escape(TITEL), html.escape(UNTERTITEL),
+                        html.escape(AUTOR)))
         teile.append('<h1 class="nur-vorlesen">%s</h1>' % html.escape(TITEL))
     else:
         teile.append("<h1>%s</h1>" % html.escape(TITEL))
         teile.append('<p class="untertitel">%s</p>' % html.escape(UNTERTITEL))
+        teile.append('<p class="untertitel">%s</p>' % html.escape(AUTOR))
     teile.append('<p class="reise">Kenia, 24. September bis 12. Oktober 2026</p>')
     teile.append("</div>")
 

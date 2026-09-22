@@ -1,157 +1,189 @@
-Recherchedossier: Cercopithecus mitis albogularis an der Küste Kenias
+﻿Research Report: Coracias caudatus (Gabelracke)
 1. Namen und Etymologie
-Die taxonomische Zuordnung und die volkssprachliche Benennung der Diademmeerkatze reflektieren eine komplexe Historie, in der sich morphologische Beobachtungen, genetische Analysen und lokale Traditionen verschränken. Der Status der Artklassifikation ist in der wissenschaftlichen Literatur Gegenstand anhaltender Debatten, was sich in einer Vielzahl von Synonymen niederschlägt.
-Die wissenschaftliche Nomenklatur führt die Art unter dem Namen Cercopithecus mitis Wolf, Jahr 18221. Die Gattungsbezeichnung Cercopithecus leitet sich aus dem Griechischen ab, wobei sich der Begriff aus den Wörtern "kerkos" (Schwanz) und "pithekos" (Affe) zusammensetzt2. Das lateinische Art-Epitheton mitis lässt sich mit "sanft" oder "friedfertig" übersetzen, worauf die englische Bezeichnung "Gentle Monkey" basiert1.
-Für den geografischen Raum der kenianischen Küste (inklusive Mombasa und Mtwapa Creek) ist spezifisch die Unterart Cercopithecus mitis albogularis relevant, die im Jahr 1831 von William Henry Sykes beschrieben wurde1. Das Epitheton albogularis ist lateinischen Ursprungs und verbindet die Begriffe "albus" (weiß) und "gula" (Kehle), was das auffällige helle Halsfell dieser Population beschreibt3. In der Primatologie existiert ein systematischer Widerspruch hinsichtlich des taxonomischen Status dieser Küstenform. Während Datenbanken wie GBIF und IUCN die Form als Unterart von C. mitis führen, postulieren Autoren wie Colin Groves und Jonathan Kingdon die Erhebung in den Artstatus als Cercopithecus albogularis3. Begründet wird dieser alternative Status mit der sogenannten "Kingdon-Linie", einer biogeografischen Trennungslinie, die auf klimatische Schwankungen im Pleistozän zurückgeht und die ostafrikanischen Formen genetisch von den zentralafrikanischen Linien separiert5.
-Die nachfolgende Tabelle fasst die in der Recherche verifizierten Bezeichnungen und deren etymologischen Hintergrund zusammen. Der Status der linguistischen Zuordnungen gilt anhand der Quellenlage als gesichert, sofern nicht anders vermerkt.
+Die taxonomische und linguistische Nomenklatur der Art Coracias caudatus ist vielschichtig dokumentiert. Es ist gesichert, dass die wissenschaftliche Erstbeschreibung durch den schwedischen Naturforscher Carl von Linné im Jahr 1766 in der zwölften Auflage seines Werkes Systema Naturae (Band 1, Teil 1, S. 160) erfolgte1. Linné vergab das Protonym Coracias caudata und stützte seine Klassifikation auf Vorarbeiten des französischen Zoologen Mathurin Jacques Brisson, der das Tier bereits im Jahr 1760 unter der Bezeichnung "Le Rollier d'Angola" beschrieben und illustriert hatte (Status: gesichert)1. Als Typuslokalität ist die Region Angola dokumentiert (Status: gesichert)2.
+Die etymologische Herleitung des wissenschaftlichen Namens basiert auf historischen und morphologischen Beobachtungen (Status: gesichert): Der Gattungsname Coracias leitet sich vom altgriechischen Begriff korakías (κορακίας) ab, welcher seinen Ursprung im Wort korax (κόραξ) für "Rabe" oder "Krähe" hat4. Diese Namensgebung geht auf Aufzeichnungen des Aristoteles zurück, der damit einen krähengroßen Vogel mit rötlichem Schnabel beschrieb4. Das Art-Epitheton caudatus entstammt dem Lateinischen. Es setzt sich aus dem Nomen cauda (Schwanz) und dem Suffix -atus (versehen mit) zusammen, was wörtlich "geschwänzt" oder "mit einem Schwanz versehen" bedeutet und die verlängerten Steuerfedern referenziert1.
+Die systematische Einordnung der lokalen und internationalen Trivialnamen zeigt eine primäre Fokussierung auf optische Merkmale und Verhaltensweisen.
 
-Sprache / Kulturkreis
-	Bezeichnung
-	Etymologie und Beleg
 
-Wissenschaftlich (Synonyme)
-	Semnopithecus albogularis, Lasiopyga albogularis kima
-	Historische Synonyme, geprägt durch Sykes (Jahr 1831) und Heller (Jahr 1913)3.
+Trivialname
+	Sprache
+	Status der Belegbarkeit
+	Wörtliche Bedeutung / Herkunft
+	Gabelracke
+	Deutsch
+	gesichert
+	Referenziert die gegabelten äußeren Schwanzfedern5.
+	Grünscheitelracke
+	Deutsch
+	gesichert
+	Bezieht sich auf die Färbung der Kopfpartie6.
+	Gabelschwanzracke
+	Deutsch
+	gesichert
+	Synonym zu Gabelracke6.
+	Lilac-breasted Roller
+	Englisch
+	gesichert
+	Bezieht sich auf die fliederfarbene Brust und das Flugverhalten1.
+	Fork-tailed roller
+	Englisch
+	gesichert
+	Bezieht sich auf die Schwanzform1.
+	Mosilikatze's roller
+	Englisch
+	gesichert
+	Historisches Synonym, benannt nach einem historischen Herrscher1.
+	Kambu
+	Swahili
+	gesichert
+	Eigenname ohne belegte wörtliche Übersetzung in den verwendeten Quellen8.
+	ol-anga
+	Maa (Maasai)
+	gesichert
+	Sammelbegriff für Rackenvögel (Coraciidae)11.
+	Für die Sprachgruppen Kikuyu, Samburu, Giriama und Kamba schreiben die vorliegenden Quellen der Art keinen spezifischen Namen zu; die Bezeichnungen verbleiben für diese Sprachen als unbekannt (Status: gesichert).
+2. Erscheinung, mit Maßen
+Die Spezies ist durch einen stämmigen Körperbau, einen proportional großen Kopf und einen kräftigen, schwarzen Schnabel gekennzeichnet (Status: gesichert)1. Ein Sexualdimorphismus bezüglich der Gefiederfärbung existiert nicht (monomorph); die Geschlechter sind im Feld optisch nicht zu unterscheiden, wobei männliche Individuen statistisch minimale Größenüberschüsse aufweisen (Status: vermutet)1.
+Die biometrischen Daten der Art bewegen sich innerhalb eng definierter Parameter. Zur Veranschaulichung der Größenordnung ist ein Vergleich mit dem europäischen Eichelhäher (Garrulus glandarius) heranzuziehen, dessen Dimensionen der Gabelracke nahezu exakt entsprechen (Status: gesichert)5.
 
-Deutsch
-	Diademmeerkatze, Weißkehlmeerkatze
-	"Diademmeerkatze" bezieht sich auf die Art, "Weißkehlmeerkatze" spezifisch auf die Unterart albogularis3.
 
-Englisch
-	Sykes's Monkey, Blue Monkey, Gentle Monkey
-	"Sykes's Monkey" ehrt den Beschreiber W. H. Sykes. "Blue Monkey" leitet sich von dem bläulich-grauen Schimmer des Fells ab1.
-
-Swahili
-	Kima
-	An der Küste spezifisch für C. m. albogularis verwendet. Im Binnenland wird der Begriff teilweise widersprüchlich auch für die Rotschwanzmeerkatze (Cercopithecus ascanius) angewandt1.
-
-Sabaki / Mijikenda
-	Kima mweusi
-	Übersetzt als "schwarzer Affe". Dient der Abgrenzung zu anderen, helleren Primatenarten in den Küstenwäldern10.
-
-Giriama
-	Kima
-	Lokale Nutzung des Begriffs schließt in der Kosmologie der Giriama die Bedeutungsebene "Waldgeister" ein (Status: Übernahme aus der Nutzeranfrage).
-2. Erscheinung mit Maßen in Metrik und Alltagsvergleichen
-Der Körperbau von Cercopithecus mitis weist die klassischen Anpassungen der altweltlichen Affen (Cercopithecidae) an eine vorwiegend baumbewohnende (arboreale) Lebensweise auf2. Die Art zeigt einen ausgeprägten Sexualdimorphismus, bei dem die männlichen Individuen im Durchschnitt deutlich größere Maße und eine höhere Körpermasse erreichen als die Weibchen11. Der Status dieser morphologischen Daten gilt als biologisch gesichert.
-Das Fell der Unterart albogularis ist an der Oberseite durch eine melierte (grizzled), olivgraue bis grauschwarze Färbung gekennzeichnet. Ein Kontrast entsteht durch die namengebende Halskrause, die aus dichten, weißen Haaren besteht und sich vom Kinn über die Kehle erstreckt12. Die distalen Abschnitte der Gliedmaßen und das letzte Drittel des Schwanzes weisen oft eine dunklere bis schwarze Pigmentierung auf. Das unbehaarte Gesicht ist dunkelhäutig, und die nach vorne gerichteten Augen besitzen auffällige orangefarbene bis bernsteinfarbene Iriden11. Ein feuchter Nasenspiegel (Rhinarium) fehlt, und die Nasenlöcher sind schmal und nach unten gerichtet11. Am Gesäß befinden sich lederartige Sitzschwielen (Ischialkallositäten), die direkt mit den Beckenknochen verbunden sind und das Ruhen auf rauen Baumrinden erleichtern11.
-Die nachfolgende Tabelle liefert die metrischen Daten mit entsprechenden Alltagsvergleichen zur räumlichen Einordnung der Dimensionen.
-
-Messgröße
-	Wertebereich / Durchschnitt
-	Alltagsvergleich
-
-Kopf-Rumpf-Länge
-	33 cm bis 75 cm
-	Die Rumpflänge entspricht in etwa der Länge einer handelsüblichen PC-Tastatur bis hin zur Rückenlänge eines mittelgroßen Haushundes (zum Beispiel eines Spaniels)4.
-
-Schwanzlänge
-	35 cm bis 86 cm
-	Der Schwanz ist länger als der Körper. Ein ausgestreckter Schwanz mit einer Länge von 86 cm entspricht der durchschnittlichen Höhe eines Esstisches4.
-
-Körpergewicht
-	4.2 kg bis 10.0 kg
-	Ein ausgewachsenes Weibchen (circa 4.5 kg) wiegt in etwa so viel wie eine Hauskatze. Ein schweres Männchen (10.0 kg) entspricht dem Gewicht eines vollen Wasserkastens (zehn Flaschen à 1.0 Liter)11.
-3. Der Mechanismus: Samenverbreitung und Backentaschen-Ökologie
-Ein zentrales biologisches Prinzip der Diademmeerkatze, das die Architektur der kenianischen Küstenwälder maßgeblich formt, ist die spezialisierte Verarbeitung von Früchten und die daraus resultierende Samenverbreitung (Zoochorie). Dieser Mechanismus beruht auf einer Kombination aus funktioneller Anatomie und einem synergistischen Zusammenspiel mit Bodeninsekten.
-Die Tiere besitzen hochgradig dehnbare Backentaschen (Cheek Pouches). Das Volumen dieser Taschen entspricht im gefüllten Zustand annähernd der Kapazität des Magens16. Dieser evolutionäre Mechanismus ermöglicht es den Primaten, in Habitaten mit hohem Konkurrenzdruck oder in Randgebieten schnell große Mengen an Nahrung zu ernten. Anstatt die Früchte an der Quelle zu kauen und zu schlucken, lagern sie diese im Gesichtsbereich ein und ziehen sich in geschützte Areale der Baumkrone zurück, um den Inhalt zu verarbeiten15.
-Der Prozess der Samenverbreitung teilt sich anschließend in zwei Pfade auf, die den Wald ökologisch bereichern: Das sogenannte "Spitting" (Ausspucken) tritt auf, wenn die Tiere die Früchte aus den Backentaschen in die Mundhöhle verlagern, das Fruchtfleisch extrahieren und die unversehrten Samen fallen lassen. Dies geschieht regelmäßig in einer Distanz von mehr als 5 Metern zum Mutterbaum. Dieser räumliche Abstand durchbricht die dichteabhängige Mortalität der Samen, da Samen, die direkt unter dem Mutterbaum keimen, durch artspezifische Pilze und spezialisierte Fraßfeinde eine erhöhte Sterberate aufweisen17. Der zweite Pfad ist die Endozoochorie (Verschlucken und Ausscheiden). Kleinere Samen passieren den Verdauungstrakt. Die Passagezeit bei verwandten Arten wird auf circa 22 Stunden beziffert19. Während dieser Zeit transportieren die Affen das biologische Material über weite Strecken im Waldfragment. Studien, die spezifisch an der kenianischen Küste (im Gede Ruins Forest) durchgeführt wurden, belegen, dass die mechanische und chemische Einwirkung im Magen-Darm-Trakt die Keimruhe (Latenzperiode) der Samen verkürzt und die prozentuale Keimungsrate messbar erhöht18. In einer Studie wurde dokumentiert, dass Sykes-Meerkatzen eine durchschnittliche Dichte von 17.1 Samen pro Quadratmeter verbreiten18.
-Dieser Mechanismus wird durch eine ökologische Synergie mit Dungkäfern verstärkt. Wenn die Diademmeerkatzen die Samen mit ihren Fäkalien ausscheiden, besiedeln Dungkäfer das Material. Sie reinigen die Samen vom Kot, formen Dung-Samen-Kugeln und rollen diese zu neuen Mikrohabitaten, wo sie in der Laubstreu vergraben werden18. Dieser sekundäre Verbreitungsschritt schützt das Saatgut vor Prädatoren wie Nagetieren und positioniert den Samen in einer feuchtigkeitsregulierten Nährstoffschicht. Der Status der Erkenntnis, dass die Diademmeerkatze durch diesen doppelten Mechanismus für einen signifikanten Anteil der natürlichen Waldregeneration in degradierten Küstenfragmenten verantwortlich ist, gilt als empirisch gesichert17.
-4. Ökologie und Verhalten (Fokus: 24. September bis 12. Oktober)
-Der Zeitraum vom 24. September bis zum 12. Oktober fällt an der Küste Kenias in das Ende der langen Trockenzeit und markiert den Beginn der kurzen Regenzeit (Short Rains). Diese klimatische Phase diktiert das Verhalten, die Nahrungssuche und den physiologischen Zustand der Diademmeerkatze auf direkte Weise.
-Die Art agiert als flexibler Generalist mit Schwerpunkt auf Frugivorie (Fruchtkonsum) und Folivorie (Blattkonsum)20. Ein Verdauungssystem mit Enddarmfermentation erlaubt es den Tieren, auch faserreiche Nahrung aufzuspalten20. Gegen Ende September erreicht die Verfügbarkeit von Vorzugsnahrung (reife Früchte, wasserreiche junge Blätter und Insekten) ihren jährlichen Tiefpunkt18. Um den Energiebedarf zu decken, schaltet die Population auf sogenannte "Fallback Foods" (Ausweichnahrung) um. Diese Ersatznahrung besteht aus zähen, reifen Blättern, Rinde, Blüten und holzigen Pflanzenteilen20.
-Dieser erzwungene Wechsel in der Nahrungszusammensetzung setzt einen biologischen Stressmechanismus in Gang. Langzeituntersuchungen an Waldmeerkatzen belegen, dass in Phasen erhöhter Aufnahme von reifen Blättern und einer verlängerten Gesamtdauer der Nahrungssuche die Konzentration von fGCs (Fecal Glucocorticoids, glukokortikoide Stresshormone im Kot) signifikant ansteigt20. Die Fallback Foods besitzen einen geringeren nutzbaren Energiegehalt und weisen einen höheren Anteil an sekundären Pflanzenstoffen auf, was den Metabolismus belastet20.
-Zusätzlich kulminiert in diesem Reisezeitraum der reproduktive Stress. Die Reproduktion bei Cercopithecus mitis ist saisonal an den Beginn der Regenzeiten gebunden, um laktierenden Weibchen das Maximum an Insekten und jungen Blättern zu garantieren21. Im späten September und frühen Oktober befinden sich adulte Weibchen folglich in der Endphase der Trächtigkeit oder in der frühen Phase der Laktation. Die Kombination aus reproduktivem Energiebedarf und nahrungsarmer Trockenzeit führt dazu, dass weibliche Tiere in diesem Zeitfenster die stärksten hormonellen Stressreaktionen des gesamten Jahreszyklus aufweisen20.
-Verhaltensökologisch führt der Ressourcenmangel im Oktober dazu, dass die normalerweise baumbewohnenden Tiere weitere Strecken zurücklegen und häufiger auf den Boden ausweichen müssen21. In den Habitaten Bamburi, Nguuni und Mtwapa Creek erhöht dies die Wahrscheinlichkeit von Konflikten mit menschlichen Siedlungen, da die Tiere verstärkt landwirtschaftliche Flächen oder Gärten zur Nahrungssuche frequentieren.
+Biometrischer Parameter
+	Messwert / Spanne
+	Einheit
+	Status
+	Gesamtkörperlänge (inkl. Steuerfedern)
+	35,0 bis 45,0
+	Zentimeter (cm)
+	gesichert5
+	Flügelspannweite
+	50,0 bis 58,0
+	Zentimeter (cm)
+	gesichert5
+	Körpergewicht
+	87,0 bis 135,0
+	Gramm (g)
+	gesichert5
+	Durchschnittliches Körpergewicht
+	104,0
+	Gramm (g)
+	gesichert9
+	Länge der verlängerten Steuerfedern (Streamer)
+	> 8,0
+	Zentimeter (cm)
+	gesichert5
+	Das Gefieder der Gabelracke setzt sich aus acht distinkten Farbtönen zusammen: Grün, Weiß, Schwarz, Gelb, Türkis, Dunkelblau, Rotbraun und Flieder (Status: gesichert)8. Die Farbverteilung an der Anatomie der Nominatform C. c. caudatus ist wie folgt strukturiert (Status: gesichert): Der Bereich von der Krone bis zum Mantel ist olivgrün gefärbt, während Wangen und Ohrdecken eine rostbraune bis fliederfarbene Tönung aufweisen1. Ein weißes bis cremefarbenes Band verläuft über den Augen und umschließt den Schnabelansatz5. Die Kehle ist hell fliederfarben mit einer feinen weißen Längsstrichelung und verdunkelt sich im Bereich der Brust zu einem intensiven Fliederton1. Der Bauch und die Unterseiten der Flügel sind in Türkis bis Smaragdgrün gehalten5. Die distale Hälfte der Schwungfedern auf den Innenfahnen ist schwarz, während die Außenfahnen dunkel violett-blau gefärbt sind; die proximale Hälfte und die Daumenfittiche (Alula) leuchten azurblau1. Die Steuerfedern sind türkisblau, enden jedoch in langen, schwarzen Spitzen1.
+Es existieren morphologische Unterschiede zwischen adulten und juvenilen Vögeln sowie zwischen den Unterarten. Juvenilen Exemplaren fehlen die verlängerten schwarzen Schwanzfedern vollständig (Status: gesichert)1. Ihr Brust- und Kehlgefieder ist rostbraun (rufous-tawny) mit breiten, diffusen weiß-beigen Streifen, die von malvenfarbenen Rändern begrenzt werden (Status: gesichert)1. Die Unterart C. c. lorti, die im Nordosten Kenias auftritt, unterscheidet sich von der Nominatform durch eine grünblaue anstelle einer olivgrünen Partie von der Krone bis zum Mantel und eine azurblaue anstelle einer fliederfarbenen Brust (Status: gesichert)1.
+3. Der Mechanismus
+Die Besonderheit dieser Art basiert auf einem biologischen Mechanismus, der das Zusammenspiel von biomechanischer Flugkinematik (dem sogenannten "Roll") und nanostruktureller Lichtabsorption in den Federn ("Super-Black"-Effekt) umfasst.
+Aerodynamik und Biomechanik des Balzfluges
+Der Mechanismus, der der gesamten Familie der Racken (Coraciidae) ihren englischen Namen ("Roller") verleiht, ist das hochgradig spezialisierte Flugverhalten während der Paarungszeit und Territorialverteidigung (Status: gesichert)1. Der physische Ablauf folgt einem fest definierten Muster:
+1. Das Individuum (aufgrund des fehlenden Sexualdimorphismus ist nicht abschließend geklärt, ob ausschließlich Männchen dieses Verhalten zeigen) steigt in einem steilen Winkel auf eine Flughöhe zwischen 69 und 144 Metern auf (Status: gesichert)1.
+2. Am Scheitelpunkt der Flugbahn kippt der Vogel nach vorn und legt die Flügel eng an den Körper an, um den Luftwiderstand zu verringern und im anschließenden Sturzflug maximale Beschleunigung in Richtung Boden zu erreichen (Status: gesichert)1.
+3. Beim Abfangen des Sturzfluges bei hoher Horizontalgeschwindigkeit leitet der Vogel durch asymmetrische Flügelstellung eine Rotation um die eigene Längsachse ein. Er rollt in schneller Abfolge nach links und rechts (Status: gesichert)1.
+4. Diese kinetische Bewegung ist strikt an eine vokale Äußerung gekoppelt; simultan zum Rollen stößt die Gabelracke laute, raue, sägende Rufe aus, die als "kaaa, kaarsh" transkribiert werden (Status: gesichert)1. Nach dem Abschluss der Rollbewegung nutzt der Vogel seine kinetische Energie für einen erneuten Aufstieg.
+Nanostrukturelle Lichtabsorption und Strukturfarbe
+Der visuelle Eindruck der Gabelracke beim Flugmanöver beruht auf physikalischer Optik. Im Gegensatz zu den durch Melanin erzeugten Brauntönen oder den durch Carotinoide erzeugten Gelbtönen enthalten die blauen Federn kein Pigment, sondern erzeugen ihre Farbgebung durch Strukturfarben (Status: gesichert)19.
+Die visuelle Dominanz dieser Strukturfarben wird durch einen optischen Effekt verstärkt, der durch Studien von McCoy et al. im Jahr 2018 spezifisch bei der Gabelracke (Coracias caudatus) und anderen Vogelarten quantifiziert wurde (Status: gesichert)22. Bestimmte dunkle Federpartien der Gabelracke (beispielsweise die schwarzen Enden der Schwung- und Steuerfedern) weisen extrem geringe Reflexionswerte von unter 2 Prozent auf (Status: gesichert)22.
+Diesem Phänomen liegt eine kausale optische Wirkungskette zugrunde:
+1. Entstehung: Die Bogenstrahlen (Barbules) dieser Federn sind dicht gepackt und weisen bandförmige mikroskopische Strukturen auf. Diese morphologische Architektur formt dreidimensionale, mikrometergroße Hohlräume, deren Breite und Tiefe größer sind als die Wellenlängen des sichtbaren Lichts (Status: gesichert)22.
+2. Lichtstreuung: Wenn Licht in diese Hohlräume eintritt, erfährt es zwischen den vertikal ausgerichteten Oberflächen der Keratinstrukturen eine mehrfache Streuung (multiple light scattering) (Status: gesichert)22.
+3. Absorption: Durch die wiederholte Streuung wird die Wahrscheinlichkeit maximiert, dass Photonen auf die in der Feder eingelagerten Melaningranula treffen. Das Licht wird infolgedessen nahezu vollständig absorbiert, und das Reflexionsspektrum flacht ab (Status: gesichert)22.
+4. Sensorische Täuschung: Da diesen "super-schwarzen" Flächen jegliche spiegelnde weiße Reflexion (specular reflection) fehlt, entfällt für das Auge des Betrachters der Referenzpunkt, der normalerweise zur Kalibrierung des Umgebungslichts (Weißabgleich) genutzt wird. Infolgedessen erscheinen die direkt benachbarten, leuchtend blauen und fliederfarbenen Strukturfarben der Gabelracke optisch signifikant heller, als sie objektiv sind (Status: vermutet)22.
+Dieser komplexe Mechanismus aus Nanostruktur und optischer Illusion steigert den Signaleffekt während des schnellen Balzfluges im Sonnenlicht erheblich.
+4. Ökologie und Verhalten
+Die Habitate der Gabelracke sind afrikanische Baumsavannen, Miombo-Wälder, Buschland und Akazienbestände, in denen offene Grasflächen mit einzeln stehenden, hohen Bäumen alternieren (Status: gesichert)1. Die Spezies meidet baumlose Steppen ebenso wie geschlossene Waldgebiete und dichte menschliche Siedlungsräume1.
+Die Art ist zur Jagd und zur Revierabgrenzung obligatorisch auf Ansitzwarten angewiesen. Neben Bäumen, abgestorbenen Ästen und Strommasten werden auch Termitenhügel oder die Rücken großer pflanzenfressender Säugetiere genutzt (Status: gesichert)1. Populationsdichten in Savannenhabitaten (ermittelt am Beispiel Namibias) schwanken zwischen 0,5 und 1,4 Brutpaaren pro 100 Hektar (Status: gesichert)23.
+Fortpflanzungsökologie und Ökosystem-Abhängigkeit
+Gabelracken sind zur Fortpflanzung auf eine ungestörte Habitatstruktur angewiesen. Da ihr Schnabel nicht zum Graben in gesundem Holz geeignet ist, existiert eine direkte ökologische Abhängigkeit zu Spechten (Picidae) und Bartvögeln (Lybiidae). Die Racken übernehmen deren verlassene Nisthöhlen (Status: gesichert)1. Alternativ werden natürliche Aushöhlungen in Baobabs, Kokospalmen oder gelegentlich Höhlungen in Termitenhügeln genutzt1. Für die Anlage von Nestern präferieren höhlenbrütende Arten in diesen Ökosystemen alte Bäume mit einem Stammdurchmesser (DBH) von über 36,0 Zentimetern und einer Höhe von mehr als 5,0 Metern (Status: gesichert)24. Die Bruthöhlen weisen zumeist einen vertikal verlängerten Eingang auf (Status: gesichert)25.
+Die Paarbildung gilt als monogam, und es wird von einer lebenslangen Bindung ausgegangen (Status: vermutet)8. Gelege umfassen durchschnittlich 2 bis 4 Eier, deren Bebrütung durch beide Partner für eine Dauer von 22 bis 24 Tagen erfolgt1. Beide Elternteile verteidigen das Nest äußerst aggressiv gegen Eindringlinge, einschließlich wesentlich größerer Greifvögel (Status: gesichert)1.
+Nahrungserwerb
+Das Nahrungsspektrum umfasst primär terrestrisch lebende Gliederfüßer (Arthropoda) und kleine Wirbeltiere (Vertebrata). Belegt sind Käfer, Heuschrecken, Spinnen, Skorpione, Hundert- und Tausendfüßler sowie Schnecken3. Zu den erbeuteten Wirbeltieren zählen kleine Echsen, Schlangen (darunter speziell Blindschlangen der Gattungen Afrotyphlops und Leptotyphlops), Amphibien, Nager und kleine Vögel1. Die Beute wird vom Ansitz aus fixiert, im Sturzflug gegriffen und, sofern sie für ein sofortiges Verschlucken zu groß ist, zur Warte zurückgetragen und dort durch Schläge gegen den Ast zerkleinert (Status: gesichert)1.
+Saisonales Verhalten Ende September und Anfang Oktober
+Für die Nominatform C. c. caudatus, die in den Gebieten Tsavo, Amboseli und Laikipia anzutreffen ist, sind im Zeitraum Ende September bis Mitte Oktober (Ende der Trockenzeit, unmittelbar vor dem Einsetzen der Regenfälle) spezifische Verhaltensmuster zu dokumentieren. Die Vögel beenden in dieser Phase ihre post-reproduktive Dispersion, die sie teils in sandigere Areale geführt hat, und besetzen ihre Stamm-Brutreviere (Status: gesichert)1.
+Zu dieser Jahreszeit kommt es in Kenia gehäuft zu natürlichen und durch Landwirtschaft initiierten Savannen- und Buschfeuern. Gabelracken versammeln sich gezielt an den Flanken dieser Brände. In interspezifischer Assoziation mit Störchen, Schwalben, Bienenfressern oder Milanen nutzen sie die Feuerfront, um von den Flammen aufgescheuchte und flüchtende Insekten und Kleintiere zu erbeuten (Status: gesichert)1.
 5. Menschen und Kultur in Kenia
-Die Interaktion zwischen der menschlichen Bevölkerung und Cercopithecus mitis an der kenianischen Küste umfasst spirituelle Verehrung, wirtschaftliche Konflikte und moderne touristische Nutzung.
-Ein stabilisierender Faktor für die Populationen der Diademmeerkatze ist die Existenz der Kaya-Wälder. Diese isolierten Waldfragmente gelten bei der Volksgruppe der Mijikenda (zu der auch die Giriama gehören) als heilige Stätten, da sie historisch befestigte Dörfer und Begräbnisstätten der Ahnen beherbergten24. Ein System aus strengen traditionellen Tabus reguliert den Zugang und die Ressourcennutzung in diesen Wäldern. Da Diademmeerkatzen in der Kosmologie der Giriama teilweise mit Waldgeistern assoziiert werden, profitieren die Primaten von einem indigenen Schutzstatus. Die Einhaltung dieser Tabus hat zur Folge, dass die Kaya-Wälder Refugien der Biodiversität bleiben, in denen Wilderei und Holzeinschlag im Vergleich zu ungeschützten Zonen reduziert sind24.
-Gegenläufig zu diesem Schutzstatus existieren handfeste Mensch-Wildtier-Konflikte in den Agrarlandschaften, beispielsweise im Umland von Mtwapa Creek. Durch den Verlust natürlicher Habitate infolge von Landwirtschaft und Holzgewinnung weichen die Affen auf Plantagen aus. Dort plündern sie Nutzpflanzen und schälen auf der Suche nach Feuchtigkeit und Nährstoffen die Rinde von kommerziellen Forstbäumen (wie exotischen Kiefern) ab21. Dieser wirtschaftliche Schaden führt dazu, dass Landwirte die Tiere als Schädlinge betrachten und Vergeltungsmaßnahmen durchführen26. Ferner existiert ein lokaler Markt für traditionelle Medizin, auf dem Felle, Hände und das subkutane Fett der Tiere verarbeitet und gehandelt werden26.
-An den Orten Bamburi Beach, Haller Park und Nguuni dominiert eine touristische Interaktion. Die habituierten Meerkatzen werden von Besuchern und Hotelpersonal aktiv gefüttert (Provisioning). Studien warnen, dass diese Praxis das Verhalten der Tiere korrumpiert18. Die künstliche Fütterung senkt den Anteil an natürlichen Früchten in der Nahrung und reduziert die Streifgebiete der Tiere, wodurch ihre ökologische Rolle als Samenverbreiter in den Waldfragmenten gemindert wird18.
-Eine direkte Konsequenz der Lebensraumkompression durch menschliche Infrastruktur an der Küste ist die Hybridisierung. Normalerweise leben die Weißkehlmeerkatze (C. m. albogularis) und die Ostafrikanische Grünmeerkatze (Chlorocebus pygerythrus hilgerti) sympatrisch, ohne sich zu vermischen. An der Südküste (Diani) und Nordküste (Bamburi) hat die Konkurrenz um Mülltonnen und Futterstellen in Hotelanlagen diese Verhaltensbarrieren durchbrochen13. Biologen haben intergenerische Hybride dokumentiert, die morphologische Merkmale beider Arten vereinen13.
-Auf globaler Ebene wird Cercopithecus mitis in der Roten Liste der IUCN als "Least Concern" (Nicht gefährdet) eingestuft, da die Art eine beachtliche Anpassungsfähigkeit an Sekundärwälder zeigt28. Der Status der Unterart albogularis ist in Kenia nicht akut gefährdet, obgleich die Fragmentierung der Küstenhabitate lokal zu einem Rückgang der Populationen führt26.
+Die Gabelracke nimmt in der öffentlichen Wahrnehmung der Republik Kenia eine prominente Rolle ein. Sie wird in Touristik, Bildungsmedien und Kultur als inoffizieller Nationalvogel des Landes geführt (Status: gesichert)1. Es existiert jedoch kein formaler legislativer Erlass der kenianischen Regierung, der diesen Status juristisch fixiert (Status: gesichert)10.
+Eine wiederkehrende Legende in der nationalen Folklore besagt, dass die acht identifizierbaren Farben des Gefieders die zahlreichen indigenen Gemeinschaften (Tribes) Kenias repräsentieren und als Symbol für Vielfalt und friedliche Koexistenz stehen (Status: überliefert)15. Ein weiteres Narrativ der afrikanischen Überlieferung ordnet dem Vogel aufgrund seiner starken, monogamen Paarbindung eine Vorbildfunktion für ewige Treue in zwischenmenschlichen Beziehungen zu (Status: überliefert)26.
+Fehlinterpretationen existieren hinsichtlich staatlicher Embleme. Die Gabelracke ist weder auf der kenianischen Nationalflagge noch im offiziellen Parteiwappen der historischen Kenya African National Union (KANU) abgebildet. Die Flagge ziert ein Schild der Maasai, während das Parteisymbol der KANU ein Hahn (Swahili: Jogoo) ist (Status: gesichert)15. Direkte anthropogene Konflikte – wie etwa Erntefraß – liegen nicht vor, da der Vogel Agrarprodukte ignoriert. Eine mittelbare Bedrohung resultiert aus dem landwirtschaftlichen Einsatz von Insektiziden sowie der Abholzung älterer Baumbestände, welche die Nistplatzverfügbarkeit reduziert (Status: gesichert)10. Der internationale Schutzstatus wird von der IUCN Red List in der Evaluierung aus dem Jahr 2016 als "Least Concern" (Nicht gefährdet) ausgewiesen, und der Bestand gilt als stabil (Status: gesichert)1.
 6. Wissenschaftsgeschichte
-Die Taxonomie von Cercopithecus mitis veranschaulicht den Wandel der biologischen Systematik über zwei Jahrhunderte. Die Geschichte ist geprägt von einer Phase der Erstbeschreibungen, einer extensiven Fragmentierung in zahlreiche Arten und einer modernen Synthese durch molekularbiologische Methoden.
-Die taxonomische Basis wurde im Jahr 1822 durch den deutschen Naturforscher Johann Wolf gelegt, der das Taxon Cercopithecus mitis beschrieb1. Die spezifische Erforschung der ostafrikanischen Küstenpopulation begann im Jahr 1831, als der britische Offizier William Henry Sykes ein Exemplar aus Mosambik beschrieb und den Namen Semnopithecus albogularis vergab3. Spätere Untersuchungen korrigierten die Gattungszuordnung, wodurch das Tier in die Gattung Cercopithecus transferiert wurde.
-Zwischen dem späten 19. Jahrhundert und dem Jahr 1920 führte die Expansion europäischer Sammler in Afrika zu einer Fragmentierung der Art. Jede marginal abweichende Fellfärbung wurde als neue Art oder Unterart klassifiziert. Forscher wie Paul Matschie (Jahr 1893), Oscar Neumann (Jahr 1902) und Einar Lönnberg (Jahr 1908) beschrieben dutzende Formen, darunter Synonyme wie Cercopithecus albogularis kibonotensis und Lasiopyga albogularis kima, basierend auf Einzelbelegen1.
-In der jüngeren Wissenschaftsgeschichte (ab dem späten 20. Jahrhundert) konsolidierte sich die Taxonomie, es entstanden jedoch neue Debatten über die Phylogeografie. Die sogenannte "Kingdon-Linie" (geprägt durch den Forscher Jonathan Kingdon) argumentiert, dass klimatische Fluktuationen im Pleistozän den afrikanischen Regenwald zerschnitten und Populationen in Waldrefugien isolierten5. Gemäß dieser These trennte sich die ost- und südafrikanische Form (die albogularis-Gruppe) genetisch von den zentralafrikanischen Vertretern der mitis-Gruppe ab5. Colin Groves und Jonathan Kingdon plädieren aufgrund dieser Divergenz für eine Aufspaltung in getrennte Arten, was bis heute nicht von allen Taxonomen und Datenbanken (wie der IUCN) übernommen wurde, was einen in der Primatologie ungelösten Widerspruch darstellt5.
-Ein Meilenstein in der Verhaltensökologie des 21. Jahrhunderts war die Dokumentation von Hybriden an der Küste. Im Jahr 2010 publizierten Yvonne de Jong und Thomas Butynski Belege für wilde Hybride zwischen Sykes-Meerkatzen und Grünmeerkatzen in Diani und Bamburi, was wertvolle Einblicke in die Überwindung von Fortpflanzungsbarrieren in anthropogen gestörten Habitaten lieferte13.
-7. Fotografie (Tageszeit, Verhalten, Fluchtdistanz)
-Für die naturfotografische Dokumentation an den Lokationen Bamburi Beach, Nguuni Nature Sanctuary, Mombasa Marine National Park und Mtwapa Creek gelten spezifische Parameter bezüglich der Lichtverhältnisse und des Tierverhaltens.
-Licht und Tageszeit sind am Äquator restriktive Faktoren. Die fotografisch verwertbaren Phasen begrenzen sich auf die frühen Morgenstunden (06:30 Uhr bis 08:30 Uhr) und den späten Nachmittag (ab 15:30 Uhr). Während der Mittagsstunden ziehen sich die Meerkatzen in das dichte, stark beschattete Kronendach zurück, was zusammen mit dem steil einfallenden Sonnenlicht zu harten Kontrasten führt.
-Die Fluchtdistanz (Flight Initiation Distance) variiert erheblich zwischen den genannten Lokationen: In den Arealen von Bamburi Beach (speziell im angrenzenden Haller Park) und den Hotelgärten am Marine National Park sind die Tiere durch jahrelange menschliche Präsenz und Fütterung habituiert18. Die Fluchtdistanz konvergiert hier oft auf Werte unterhalb von 5 Metern. Der Einsatz von Teleobjektiven mit einer Brennweite von 200 mm bis 400 mm ermöglicht vollformatige Porträtaufnahmen, ohne das natürliche Verhalten zu stören. In Gebieten mit geringerem Publikumsverkehr, wie in abgelegenen Abschnitten am Mtwapa Creek, weisen die Tiere eine größere Fluchtdistanz auf und fliehen bei Annäherung vertikal in die höheren Stockwerke des Waldes, was Aufnahmen aus steilen Winkeln gegen den Himmel erfordert.
-Folgende Verhaltensmuster bieten sich im Oktober für fotografische Studien an:
-Nahrungsaufnahme und Backentaschen: Das systematische Sammeln von trockenen Blättern oder Früchten. Hierbei lässt sich das asymmetrische Anschwellen der Gesichtspartien festhalten, wenn die Tiere ihre Backentaschen füllen17.
-Gegenseitige Körperpflege (Grooming): Ein zentrales soziales Verhalten, das vorwiegend auf stabilen Horizontalästen im Schatten durchgeführt wird und bei dem das weiße Kehlfell der Art gut zur Geltung kommt12.
-Hybriden-Dokumentation: In Bamburi besteht die Möglichkeit, intergenerische Hybride abzulichten. Ein dokumentierter Hybrid aus Diani zeigte intermediäre Merkmale, wie einen schwachen Nasenfleck und eine graue Halskrause. Ein fotografisch dokumentierbares Sonderverhalten dieses Hybriden war das aktive Markieren von Ästen durch das Reiben von Kinn und Brust für 30 bis 60 Sekunden13.
-8. Links zum Weiterlesen
-Die nachfolgende Tabelle fasst relevante digitale Ressourcen zusammen, die als Referenz für Bestand, Taxonomie und Verbreitung der Art dienen.
-
-Institution / Plattform
-	URL und Inhaltsschwerpunkt
-	Beleg
-
-IUCN Red List of Threatened Species
-	https://www.iucnredlist.org/
-
-Bietet aktuelle Gefährdungsanalysen, Statusberichte (Least Concern) und Populationsschätzungen für Cercopithecus mitis und dessen Unterarten.
-	26
-
-GBIF (Global Biodiversity Information Facility)
-	https://www.gbif.org/taxon/5GC3N
-
-Beinhaltet taxonomische Hierarchien, Synonym-Listen und geografische Koordinaten von Typusexemplaren (z.B. der Sammlungen von Heller und Sjöstedt).
-	3
-
-iNaturalist
-	https://www.inaturalist.org/taxa/Cercopithecus_mitis
-
-Eine bürgerwissenschaftliche Datenbank mit aktuellen Fotobelegen und Sichtungsdaten entlang der kenianischen Küste.
-	33
-
-NCBI PubMed
-	https://pubmed.ncbi.nlm.nih.gov/
-
-Datenbank für wissenschaftliche Primärliteratur. Referenzquelle für Studien zur Stressphysiologie (fGCs) und Samenverbreitung durch Primaten.
-	20
-9. Visuelle Beschreibung für eine Illustration
-A medium-sized primate is perched gracefully on a thick, horizontal branch of a coastal fig tree, framed by the lush, dark-green foliage of the Kenyan forest canopy. Its dense, grizzled olive-gray fur provides a subtle visual contrast against the vivid white collar of hair that thickly encircles its neck and upper chest. The monkey's hairless face is pigmented dark and highly expressive, punctuated by striking, amber-orange eyes that gaze attentively downward into the understory. Its exceptionally long, dark tail hangs loosely below the branch, acting as a pendulum for balance, while its distinctly distended cheeks hint at a freshly gathered meal of seeds and dry leaves.
-10. Was nicht belegt werden konnte
-Einige der im Vorfeld formulierten Anforderungen der Nutzeranfrage ließen sich anhand der verfügbaren wissenschaftlichen Snippets nicht oder nicht vollumfänglich belegen. Hierzu zählen folgende Sachverhalte:
-Exakte metrische Fluchtdistanzen: Während die Studien eine Habituation an den Menschen in Orten wie Bamburi und Nguuni belegen, liefern die vorliegenden ethologischen Publikationen keine exakten Fluchtdistanzen (Flight Initiation Distance) in quantifizierbaren metrischen Einheiten.
-Vollständige Trivialnamen der Ethnien des Binnenlandes: Die Rohdaten bestätigen, dass es linguistische Bezeichnungen für die Art in den Sprachen der Kikuyu, Kamba, Maasai und Samburu gibt. Die exakten Vokabeln (wie etwa "Kima" bei den Giriama) wurden in den gesichteten digitalen Lexika und Reiseführern jedoch entweder abgeschnitten oder nicht spezifiziert, weshalb sie in Tabelle 1 fehlen.
-Genauer physiologischer Stresswert (fGCs) für Oktober: Es ist wissenschaftlich gesichert, dass das Stresslevel am Ende der Trockenzeit ansteigt. Ein exakter laborchemischer Referenzwert in Nanogramm pro Gramm (ng/g) für die Populationen in den genannten Küstenorten im Oktober des Jahres 2026 lässt sich aus der Literatur naturgemäß nicht als prädiktiver Wert ableiten.
-Referenzen
-An annotated checklist of mammals of Kenya - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC6350106/
-Halibee fossil assemblages reveal later Pleistocene cercopithecins, https://osf.io/download/q76f4/
-Cercopithecus mitis albogularis (Sykes, 1831) - GBIF, https://www.gbif.org/taxon/5GC3N
-List of primates - Wikipedia, https://en.wikipedia.org/wiki/List_of_primates
-Adding another piece to the southern African Cercopithecus monkey, https://www.researchgate.net/publication/347049907_Adding_another_piece_to_the_southern_African_Cercopithecus_monkey_phylogeography_puzzle
-Mammals of Africa Volume II: Primates 9781408122525, https://dokumen.pub/mammals-of-africa-volume-ii-primates-9781408122525-9781472926920-9781408189917.html
-Sykes' monkey - Wikipedia, https://en.wikipedia.org/wiki/Sykes%27_monkey
-Ethnomammalogy in Mtanga Village | PDF | Felidae | Leopard - Scribd, https://www.scribd.com/document/13998473/Mammals-in-Mtanga-Notes-on-Ha-and-Bembe-Ethnomammalogy-in-a-Village-Bordering-Gombe-Stream-National-Park-Western-Tanzania
-Swahili Names for Snakes in Unguja | PDF - Scribd, https://pt.scribd.com/document/14023752/Swahili-Ethnoherpetology-Notes-from-Central-Unguja
-Subsistence Hunting in Indian Ocean Isles | PDF | Wild Boar - Scribd, https://www.scribd.com/doc/14444883/Island-Subsistence-Hunting-Trapping-and-the-Translocation-of-Wildlife-in-the-Western-Indian-Ocean
-Old World Monkeys II (Cercopithecinae) - Encyclopedia.com, https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/old-world-monkeys-ii-cercopithecinae
-Sykes Monkeys Stock Photos - Dreamstime.com, https://www.dreamstime.com/photos-images/sykes-monkeys.html
-Vervet Monkey Chlorocebus pygerythrus Hybrids in Kenya, https://bioone.org/journals/primate-conservation/volume-2010/issue-25/052.025.0109/Three-Sykess-Monkey-Cercopithecus-mitis--Vervet-Monkey-Chlorocebus-pygerythrus/10.1896/052.025.0109.pdf
-Primates - Monaco Nature Encyclopedia, https://www.monaconatureencyclopedia.com/primates/?lang=en
-Cercopithecus nictitans (white-nosed guenon) - Animal Diversity Web, https://www.animaldiversity.org/accounts/Cercopithecus_nictitans/
-(Cercopithecus albogularis schwarzi) - LJMU Research Online, https://researchonline.ljmu.ac.uk/id/eprint/12768/1/2020stringerphd.pdf
-(PDF) Primate seed dispersal: Linking behavioral ecology with forest, https://www.researchgate.net/publication/257132252_Primate_seed_dispersal_Linking_behavioral_ecology_with_forest_community_structure
-The Role of Sykes Monkeys (Cercopithecus Mitis Albogularis) in, https://erepository.uonbi.ac.ke/bitstreams/8d5b944a-7fb2-4b05-95d8-e98fd0c6f2ac/download
-Seed dispersal by a diurnal primate community in the Dja Reserve, https://www.researchgate.net/publication/231928167_Seed_dispersal_by_a_diurnal_primate_community_in_the_Dja_Reserve_Cameroon
-Seasonal Energetic Stress in a Tropical Forest Primate, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0050108
-Blue monkey - Wikipedia, https://en.wikipedia.org/wiki/Blue_monkey
-Seasonal Energetic Stress in a Tropical Forest Primate - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC3509155/
-940 Vol. 56, No.4 1970. et al. (1973)., https://academic.oup.com/jmammal/article-pdf/56/4/940/2502804/56-4-940.pdf
-Literature & case study review on protected areas and conservation, https://zenodo.org/record/6516027/files/7_IPBES_VA_4.6_2020_%28G%29.pdf
-Literature & case study review on outcomes in protected areas and, https://www.researchgate.net/publication/366445027_IPBES_VA_Chapter_4_-_Literature_case_study_review_on_outcomes_in_protected_areas_and_indigenous_and_community_conserved_areas_ICCAs_Version_02
-Cercopithecus mitis labiatus A SEDGWICK, R MURCHISON, 1842, https://speciesstatus.sanbi.org/assessment/last-assessment/1898/
-(PDF) Manyara monkey (Cercopithecus mitis manyaraensis), https://www.researchgate.net/publication/343046079_Manyara_monkey_Cercopithecus_mitis_manyaraensis
-(PDF) Cercopithecus mitis. The IUCN Red List of Threatened Species, https://www.researchgate.net/publication/336099516_Cercopithecus_mitis_The_IUCN_Red_List_of_Threatened_Species_-_2008
-Three Sykes's Monkey Cercopithecus mitis ... - BioOne Complete, https://bioone.org/journals/primate-conservation/volume-2010/issue-25/052.025.0109/Three-Sykess-Monkey-Cercopithecus-mitis--Vervet-Monkey-Chlorocebus-pygerythrus/10.1896/052.025.0109.full
-(PDF) Three Sykes's MonkeyCercopithecus mitis× Vervet, https://www.researchgate.net/publication/232693496_Three_Sykes's_MonkeyCercopithecus_mitis_Vervet_MonkeyChlorocebus_pygerythrusHybrids_in_Kenya
-Cercopithecus mitis Wolf, 1822 - GBIF, https://www.gbif.org/taxon/STFF
-(PDF) Pluto monkey (Cercopithecus mitis ssp. mitis) - ResearchGate, https://www.researchgate.net/publication/342919820_Pluto_monkey_Cercopithecus_mitis_ssp_mitis
-Taxonomy and Biogeography of the Gentle Monkey Cercopithecus, https://www.researchgate.net/profile/Thomas-Butynski/publication/340924146_Taxonomy_and_Biogeography_of_the_Gentle_Monkey_Cercopithecus_mitis_Wolf_1822_Primates_Cercopithecidae_in_Kenya_and_Tanzania_and_Designation_of_a_New_Subspecies_Endemic_to_Tanzania/links/5fba5c66299bf104cf6afe4b/Taxonomy-and-Biogeography-of-the-Gentle-Monkey-Cercopithecus-mitis-Wolf-1822-Primates-Cercopithecidae-in-Kenya-and-Tanzania-and-Designation-of-a-New-Subspecies-Endemic-to-Tanzania.pdf
+Die Taxonomie der Art ist eng mit historischen naturwissenschaftlichen Expeditionen und Publikationen verknüpft. Im Jahr 1760 dokumentierte und illustrierte der französische Zoologe Mathurin Jacques Brisson in seinem Werk Ornithologie das erste Typusexemplar, welches er als "Le Rollier d'Angola" bezeichnete (Status: gesichert)1. Der schwedische Naturforscher Carl von Linné griff auf diese Vorarbeit zurück und validierte die Art 1766 in seiner 12. Ausgabe der Systema Naturae wissenschaftlich unter dem Namen Coracias caudata (Status: gesichert)1.
+Eine Erweiterung der Systematik erfolgte 1885 durch den britischen Ornithologen George Ernest Shelley, der Populationen aus Somalia und dem nordöstlichen Kenia als eigenständige Art beschrieb. Diese wurde später in den Status einer Unterart (Coracias caudatus lorti) überführt (Status: gesichert)1.
+Eine maßgebliche Studie zur Beilegung phylogenetischer Kontroversen innerhalb der Familie der Racken wurde im Jahr 2018 von Johansson et al. publiziert. Da von vielen Racken-Arten kein frisches Gewebe verfügbar war, wandte das Forscherteam die Methode des "Shotgun-Sequencing" an, um stark degradierte DNA aus historischen Museumspräparaten zu extrahieren. Sie sequenzierten 15 nukleare Gene sowie vollständige mitochondriale Genome (Status: gesichert)1. Die Studie belegte zweifelsfrei, dass die Gabelracke eng mit der europäischen Blauracke (C. garrulus) und der Senegalracke (C. abyssinicus) verwandt ist und diese eine gemeinsame Klade bilden (Status: gesichert)29.
+7. Fotografie
+Die gewählte Route (24.09. bis 12.10.2026) deckt Habitate ab, in denen die Fotografie der Gabelracke mit hoher Wahrscheinlichkeit erfolgreich sein wird. Die höchsten Sichtungsraten sind in den offenen Savannen von Tsavo Ost und West, im Amboseli National Park sowie im Ol Pejeta Conservancy zu erwarten (Status: gesichert)1. In Höhenlagen wie Naro Moru oder Nyahururu sinkt die Wahrscheinlichkeit aufgrund fehlender Habitatstrukturen.
+Das fotografische Vorgehen erfordert Geduld und spezifische Kameraeinstellungen:
+* Tageszeit: Die frühen Morgenstunden und der späte Nachmittag sind zwingend erforderlich, da das flache, weiche Licht (Golden Hour) die irisierenden blauen Strukturfarben der Federn aufleuchten lässt. Mittagssonne führt durch harte Schatten und Reflexionen zum Auswaschen der Farbkontraste.
+* Verhalten und Abwarten: Es lohnt sich, ein sitzendes Individuum im Fokus zu behalten. Gabelracken sind Ansitzjäger und kehren nach einem Abwurf auf den Boden häufig exakt auf denselben Ast zurück. Der Moment, in dem der Vogel den Kopf senkt, indiziert eine Beutesichtung.
+* Fluchtdistanz und Fehler: Die Spezies zeichnet sich durch eine bemerkenswert hohe Toleranz gegenüber Safarifahrzeugen aus ("tolerant of vehicles") (Status: gesichert)10. Die Fluchtdistanz ist gering, solange keine menschliche Silhouette das Fahrzeug verlässt. Der häufigste Fehler ist das Öffnen von Türen oder hastige Bewegungen im Wagen.
+* Ausrüstung und Belastbare Richtwerte:
+   * Für sitzende Vögel ist das 100 bis 400 mm Objektiv vollkommen ausreichend, kombiniert mit Verschlusszeiten von 1/500 s bis 1/800 s bei einer Blende von f/8 bis f/10 (Status: gesichert)6.
+   * Soll der Balzflug ("The Roll"), der Abflug oder der Moment des Beutegreifens scharf abgebildet werden, ist das 150 bis 600 mm Objektiv geboten. Hierbei sind Verschlusszeiten von 1/1600 s bis 1/6400 s zwingend erforderlich, um die extrem schnelle Längsrotation und die Flügelschläge einzufrieren. Blendenwerte zwischen f/5.0 und f/6.0 bei einem ISO-Wert bis 1600 sind belastbare Richtwerte für diese Dynamik (Status: gesichert)31.
+8. Links zum Weiterlesen und Sehen
+Art der Quelle
+	Inhaltlicher Kontext
+	URL
+	Fachliche Quelle (IUCN)
+	Die offizielle und aktuellste Bestandserfassung und Klassifizierung des internationalen Schutzstatus der Art (Bewertung von 2016).
+	https://www.iucnredlist.org/species/22682874/92966607
+	Fachartikel (Studie)
+	Publikation der molekulargenetischen Studie von Johansson et al. (2018), welche die Evolution der Coraciidae anhand historischer Museumspräparate aufklärt.
+	https://doi.org/10.1016/j.ympev.2018.03.030
+	Fotos (Wikimedia)
+	Eine kuratierte Übersicht taxonomisch korrekter und verifizierter Fotografien der Spezies, einschließlich präziser EXIF-Daten zu Flugaufnahmen.
+	https://commons.wikimedia.org/wiki/Coracias_caudatus
+	Verbreitungskarte (GBIF)
+	Globale Datenbank mit über 210.000 verifizierten biologischen Vorkommensdaten und präzisen interaktiven Karten für das südliche und östliche Afrika.
+	https://www.gbif.org/es/taxon/5ZZQQ
+	Tonaufnahme (xeno-canto)
+	Referenzaufnahme des rauen, sägenden "rak-rak-rak"-Rufe, welche essenziell für die akustische Identifikation der Art während des Balzfluges ist.
+	https://xeno-canto.org/611563
+	9. Visuelle Beschreibung für eine Illustration
+The Lilac-breasted Roller is a robust, jay-sized bird measuring approximately 36 to 38 centimeters in length, characterized by a disproportionately large, olive-green head and a heavy, sharp black beak. Its posture on a perch is upright and vigilant, displaying a vibrant lilac throat that deepens into a rich, darker lilac breast, which sharply contrasts with its bright turquoise-blue belly. The back and short, rounded wings are an earthy olive-brown, but the folded primary flight feathers reveal a striking, iridescent azure blue. From the turquoise tail, two elongated, starkly black outer streamer feathers trail downwards, adding delicate vertical extension to its otherwise stocky silhouette.Details: 1. The strong, slightly hooked black beak with a stark white band traversing horizontally directly above the dark brown eye. 2. A close-up of a primary flight feather, showing the transition from iridescent azure at the base to deep violet-black at the tip. 3. The structural texture of the feather barbs that reflect light without blue pigment.Cultural Vignette: An oval, traditional Maasai shield made of stretched ox hide, painted with distinct geometric red, white, and black patterns, crossed by two spears.
+10. Was du nicht belegen konntest
+Trotz einer intensiven Analyse der ornithologischen und ethno-ornithologischen Quellen ließen sich folgende Parameter der Anfrage nicht mit belastbaren Fakten belegen (Status: unbekannt):
+Datenpunkt
+	Grund für das Fehlen belastbarer Quellen
+	Lokale Namen (Kikuyu, Samburu, Giriama, Kamba)
+	In den ausgewerteten Bestandslisten und Wörterbüchern (inklusive regionaler Avifauna-Checklisten für Zentralkenia) ist kein spezifischer Trivialname für die Gabelracke in diesen vier Sprachen verzeichnet.
+	Etymologie des Swahili-Namens
+	Der Begriff "Kambu" ist als Swahili-Name für die Art gesichert, jedoch findet sich in den Quellen keine linguistische Herleitung oder wörtliche Übersetzung für diesen Namen.
+	Absolute Bestandszahlen (Kenia)
+	Die IUCN und BirdLife International veröffentlichen lediglich den Trend ("stabil") und den Schutzstatus. Absolute Populationszahlen für das Staatsterritorium Kenias werden nicht erhoben oder publiziert.
+	Lebenserwartung (Freiland)
+	Dokumentiert ist ausschließlich eine Lebenserwartung von etwa 10 Jahren; in detaillierteren Aufzeichnungen wird jedoch darauf hingewiesen, dass dieser Wert aus der Gefangenschaftshaltung stammt und für die freie Wildbahn keine Daten vorliegen.
+	Spezifische Rituale und Mythen
+	Zwar wird global von "Bedeutung in afrikanischer Folklore" (als Symbol für Zusammenhalt oder lebenslange Treue) gesprochen, jedoch nennt keine Quelle ein exakt datiertes historisches Ereignis, ein benanntes Ritual oder ein konkretes, lokal verortetes Sprichwort.
+	Works cited
+1. Lilac-breasted roller - Wikipedia, https://en.wikipedia.org/wiki/Lilac-breasted_roller
+2. Coracias caudatus - Lilac-breasted Roller - asturnatura, https://www.asturnatura.com/en/nature/species/coracias-caudatus
+3. Coracias caudatus (Lilac-breasted Roller) - Avibase, https://avibase.bsc-eoc.org/species.jsp?avibaseid=9E9B6EF9A888678F
+4. Coracias - Wikipedia, https://en.wikipedia.org/wiki/Coracias
+5. Lilac-breasted Roller (Coracias caudatus) - Featherbase, https://www.featherbase.info/hu/species/coracias/caudatus
+6. File:Coracias caudatus Lilac breasted Roller.JPG, https://commons.wikimedia.org/wiki/File:Coracias_caudatus_Lilac_breasted_Roller.JPG
+7. Gabelracke - Fakten, Ernährung, Lebensraum & Bilder auf Animalia, https://animalia.bio/de/lilac-breasted-roller
+8. Lilac breasted roller | MpalaLive, https://www.mpalalive.org/field_guide/view/lilac-breasted-roller
+9. Lilac-Breasted Roller - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/lilac-breasted-roller
+10. Lilac-Breasted Roller — Kenya's National Bird - Kambu Campers, https://kambucampers.com/lilac-breasted-roller-kenyas-national-bird/
+11. Animals of the Maasai - Dave Hubble's ecology spot, http://davehubbleecology.blogspot.com/p/animals-of-maasai.html
+12. The lilac-breasted roller is Kenya's National bird, and is known to be, https://www.reddit.com/r/Awwducational/comments/n7od5g/the_lilacbreasted_roller_is_kenyas_national_bird/
+13. Bird watching in Africa - Lilac-breasted roller/ African Roller - aladdin.st, https://aladdin.st/bird-watching/africa/lilac-breasted_roller.html
+14. Racket-tailed roller - Facts, Diet, Habitat & Pictures on Animalia.bio, https://animalia.bio/racket-tailed-roller
+15. What is the national bird and animal of Kenya? - Quora, https://www.quora.com/What-is-the-national-bird-and-animal-of-Kenya
+16. The Lilac-Breasted Roller: National Bird of Kenya - A-Z Animals, https://a-z-animals.com/blog/lilac-breasted-roller-national-bird-of-kenya/
+17. File:Lilac-Breasted Roller, Maasai Mara (29003721367).jpg, https://commons.wikimedia.org/wiki/File:Lilac-Breasted_Roller,_Maasai_Mara_(29003721367).jpg
+18. Lilac-breasted Roller ... Lower Sabi, https://www.facebook.com/groups/kruger.national.park.the.best.place.on.earth/posts/24752480854358307/
+19. Birds with broader color spectrum on feathers? - Facebook, https://www.facebook.com/groups/484500676224691/posts/1442920630382686/
+20. art | All About Birds, https://www.allaboutbirds.org/news/category/art/feed/
+21. Wall of Birds Artist Jane Kim Creates an “Avian Pantone” [Book, https://www.allaboutbirds.org/news/jane-kims-avian-pantone/
+22. Convergent evolution of super black plumage near bright color in 15, https://www.codymccoy.com/files/Super_Black_Birds_Convergent_Evolution_JEB_2019.pdf
+23. Year-to-year changes in population density and site fidelity of, https://scielo.org.za/scielo.php?script=sci_arttext&pid=S0006-82412025000100009
+24. Nest sites selection by sympatric cavity-nesting birds in miombo, https://www.researchgate.net/publication/305662379_Nest_sites_selection_by_sympatric_cavity-nesting_birds_in_miombo_woodlands
+25. iOrnithology: a review of the use of web‐sourced photographs and, https://www.researchgate.net/publication/408628375_iOrnithology_a_review_of_the_use_of_web-sourced_photographs_and_videos_in_ornithological_research
+26. Lilac-breasted roller bird in eastern Africa - Facebook, https://www.facebook.com/groups/UPBirds/posts/24647170798277117/
+27. Lilac-breasted Roller - Legend Expeditions, https://www.legendexpeditions.com/tanzania-wildlife/lilac-breasted-roller
+28. What is the national bird of Kenya? - Quora, https://www.quora.com/What-is-the-national-bird-of-Kenya
+29. Phylogenetic relationships of rollers (Coraciidae) based on, https://www.researchgate.net/publication/324268304_Phylogenetic_relationships_of_rollers_Coraciidae_based_on_complete_mitochondrial_genomes_and_15_nuclear_genes
+30. The National Bird of Kenya the Lilac Breasted Roller (Coracias, https://www.alamy.com/stock-image-the-national-bird-of-kenya-the-lilac-breasted-roller-coracias-caudatus-165004431.html
+31. File:Lilac-breasted roller (Coracias caudatus) Kruger.jpg, https://commons.wikimedia.org/wiki/File:Lilac-breasted_roller_(Coracias_caudatus)_Kruger.jpg
+32. File:Lilac-breasted Roller (Coracias caudatus) - Flickr - Lip Kee (1).jpg, https://commons.wikimedia.org/wiki/File:Lilac-breasted_Roller_(Coracias_caudatus)_-_Flickr_-_Lip_Kee_(1).jpg
+33. Liliac Breasted Roller in flight and landing and showing off those, https://www.facebook.com/anthony.goldman2/posts/liliac-breasted-roller-in-flight-and-landing-and-showing-off-those-colored-wings/25114833118124750/

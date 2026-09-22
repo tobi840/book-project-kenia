@@ -1,198 +1,285 @@
-Dossier: Cyperus papyrus (Papyrus-Staude) am Naivashasee
+Dossier: Euphorbia candelabrum (Kandelaber-Wolfsmilch)
 1. Namen und Etymologie
-Der international anerkannte wissenschaftliche Name der Art lautet Cyperus papyrus L. (gesichert)1. In historischen systematischen Einordnungen findet sich gelegentlich das Synonym Chlorocyperus papyrus (L.) Rikli, welches jedoch in der modernen Taxonomie als obsolet betrachtet wird (gesichert)3.
-Die botanische Nomenklatur wurde im Jahr 1753 von dem schwedischen Naturforscher Carl von Linné in seinem Grundlagenwerk Species Plantarum (Seite 47) formalisiert (gesichert)1. Die Gattungsbezeichnung Cyperus leitet sich vom altgriechischen Begriff κύπερος (kúperos) ab. Dieser Terminus fungierte in der Antike als generischer Name für eine oder mehrere Arten der Sauergrasgewächse (Cyperaceae) (gesichert)5. Das Artepitheton papyrus basiert auf dem altgriechischen Wort πάπυρος, was in der direkten Übersetzung „Papier“ bedeutet (gesichert)6. In linguistischen und historischen Fachkreisen wird häufig angenommen, dass dieser Begriff ägyptische Wurzeln aufweist; dies wird jedoch von einigen Etymologen als Volksetymologie klassifiziert, deren exakter linguistischer Nachweis aussteht (umstritten)7.
-Im allgemeinen Sprachgebrauch existieren diverse Bezeichnungen:
-Deutsch: Echter Papyrus, Papyrus-Staude (gesichert)3.
-Englisch: Papyrus, papyrus sedge, paper reed, Egyptian paper plant, Indian matting plant, Nile grass (gesichert)9.
-Swahili: Ndago (gesichert, gemäß Vorgabeparameter). In regionalen Florenwerken des südlichen Afrikas (z.B. Angola) taucht zudem der Name papiro auf, welcher als Lehnwort aus dem Portugiesischen gilt (gesichert)13.
-Lokale Namen in Kenia (Maa, Kikuyu, Samburu, Giriama, Kamba): Unbekannt. Während ethnobotanische Aufzeichnungen für andere Flora-Elemente in Kenia (wie Caesalpinia volkensii oder Kigelia africana) detaillierte lokale Bezeichnungen bei diesen Gruppen dokumentieren, liegen für Cyperus papyrus in den konsultierten Quellen keine spezifischen Benennungen in diesen Sprachen vor (gesichert)14.
+Die taxonomische Nomenklatur sowie die volkssprachlichen Bezeichnungen von Euphorbia candelabrum spiegeln ein weites geographisches Verbreitungsgebiet auf dem afrikanischen Kontinent wider. Der wissenschaftliche Name Euphorbia candelabrum Trémaux ex Kotschy wurde im Jahr 1857 publiziert (gesichert)1. Während die Etymologie des Gattungsnamens Euphorbia in den zugrundeliegenden botanischen und historischen Quellen nicht explizit hergeleitet wird, ist das Artepitheton candelabrum das lateinische Wort für "Armleuchter" oder "Kerzenständer" (gesichert)2. Diese Bezeichnung verweist auf die charakteristische, stark verzweigte Wuchsform der Pflanze, bei der die sukkulenten Äste aus einem zentralen Stamm aufwärts streben und optisch an einen mehrarmigen Leuchter erinnern (gesichert)2.
+Die lokale Verankerung der Art in Kenia zeigt sich in einer Vielzahl von Bezeichnungen unterschiedlicher Sprachgruppen. Die wörtlichen Bedeutungen der indigenen Namen sind, sofern nicht durch linguistische Publikationen in den Quellen belegt, als unbekannt einzustufen, um spekulative Ableitungen zu vermeiden.
+
+Sprache / Systematik
+	Name
+	Wörtliche Bedeutung
+	Status
+
+Wissenschaftlich
+	Euphorbia candelabrum
+	Kerzenständer-Wolfsmilch
+	gesichert1
+
+Deutsch
+	Kandelaber-Wolfsmilch
+	Kerzenständer-Wolfsmilch
+	gesichert2
+
+Englisch
+	Candelabra tree, Tree euphorbia, Candelabra cactus, Sudanese tree-euphorbia
+	Kerzenständer-Baum, Baum-Wolfsmilch, Kerzenständer-Kaktus, Sudanesische Baum-Wolfsmilch
+	gesichert3
+
+Swahili
+	Mtungutungii, mtongotongo, mtupa, mtomwu
+	unbekannt
+	gesichert4
+
+Maa
+	Olpopong'i
+	unbekannt
+	gesichert3
+
+Kikuyu
+	Kithuri, gĩthũũri, mũthũũri, mũbũbũng'i
+	unbekannt (mũbũbũng'i verweist etymologisch auf das Maa-Wort Olpopong'i)
+	gesichert/vermutet3
+
+Samburu
+	Sirai
+	unbekannt
+	gesichert9
+
+Giriama
+	Kithongothongo
+	unbekannt
+	gesichert6
+
+Kamba
+	Kyaa, Kithu, Kithupa
+	unbekannt
+	gesichert (Kyaa, Kithu), überliefert (Kithupa)6
+
+Luo
+	Bondo
+	unbekannt
+	gesichert3
+
+Digo
+	Ganga
+	unbekannt
+	gesichert3
+
+Gabra
+	Adama
+	unbekannt
+	gesichert6
+Der Name Kithupa aus der Sprache der Kamba geht auf lokale Überlieferungen der Nutzeranfrage zurück; in botanischen und ethnologischen Datenbanken sind für diese Gemeinschaft primär die Bezeichnungen Kyaa und Kithu dokumentiert (gesichert)6.
 2. Erscheinung, mit Maßen
-Cyperus papyrus ist eine ausdauernde (perennierende), aquatisch wachsende krautige Pflanze, die strukturell darauf ausgelegt ist, dichte und großflächige Bestände in Flachwasserzonen und an Seeufern zu bilden (gesichert)9. Ein Geschlechtsdimorphismus liegt nicht vor, da die Blüten der Pflanze zwittrig (hermaphrodit) sind (gesichert)20. Altersstufen lassen sich visuell differenzieren: Junge Pflanzen weisen leuchtend grüne, fadenförmige Doldenstrahlen auf, die in ihrer Form an einen Federwisch erinnern. Bei älteren Exemplaren nehmen diese Blüten- und Fruchtstände eine braune Färbung an und die Dolden spreizen sich zu einer sub-globosen (kugeligen) Form auf (gesichert)9.
-Die physikalischen und morphologischen Parameter der Art weisen eine hohe phänotypische Plastizität auf, die stark von den lokalen Umweltbedingungen abhängt.
+Euphorbia candelabrum formt sukkulente Bäume, deren gesamter Habitus stark an baumförmige Kakteen erinnert, wenngleich keine botanische Verwandtschaft zu den Cactaceae besteht (gesichert)2. Die Art ist einhäusig getrenntgeschlechtig (monözisch), was bedeutet, dass sich sowohl männliche als auch weibliche Blüten auf demselben Individuum befinden, wodurch ein Geschlechtsdimorphismus im Gesamthabitus ausgeschlossen ist (gesichert)4.
+Das Erscheinungsbild wird durch einen dicken, im unteren Bereich oft astlosen Stamm (Bole) dominiert, der eine graue, rissige Borke aufweist (gesichert)4. Ab einer Höhe von etwa 3 Metern verzweigt sich die Pflanze stark und bildet eine große, breit abgerundete Krone (gesichert)4. Ein markantes Charakteristikum der Ontogenese ist der Blattverlust: Während Sämlinge und Jungpflanzen noch funktionale Laubblätter ausbilden (bis zu 7 Zentimeter lang und 1,5 Zentimeter breit, verkehrt lanzettlich geformt), weisen adulte Exemplare keine echten Blätter mehr auf (gesichert)2. Die Blätter an älteren Trieben sind auf rudimentäre, deltoide Schuppen von 5 Millimeter mal 5 Millimeter reduziert, die umgehend abfallen (gesichert)2. Die Funktion der Photosynthese wird bei dieser Art vollständig von den sukkulenten, grüngrauen Sprossachsen (Zweigen) übernommen, die Wasser speichern und von engen Einschnürungen durchbrochen sind (gesichert)6.
+Die Datenlage zur Größe des Stammdurchmessers weist signifikante Widersprüche auf. Während Datenbanken wie PROTA den maximalen Stammdurchmesser (Bole) auf 90 Zentimeter beziffern, wird in agrarforstwirtschaftlichen Erhebungen eine Stammdicke von bis zu 3 Metern angegeben, was physikalisch eher auf den Stammumfang als auf den Durchmesser hindeutet (umstritten/vermutet)4.
 
-Merkmal
-	Messwert / Spanne
-	Spezifikation
+Morphologisches Merkmal
+	Maß / Ausprägung
+	Status
 
-Wuchshöhe regulär
-	4,0 bis 5,0 m
-	Unter durchschnittlichen Wachstumsbedingungen (gesichert)9.
+Gesamthöhe
+	Bis 12 Meter; maximale Spannen von 15 bis 20 Metern dokumentiert
+	gesichert2
 
-Wuchshöhe maximal
-	bis zu 9,0 m
-	An hochgelegenen Seen wie dem Naivashasee (1.800 m ü. NN) (gesichert)9.
+Kronenbreite
+	1,52 Meter bis 4,57 Meter (umgerechnet aus 5 ft bis 15 ft)
+	gesichert12
 
-Halmdurchmesser (Basis)
-	5 bis 18 cm
-	Der Maximalwert von 18 cm wurde am Naivashasee dokumentiert (gesichert)1.
+Stammdurchmesser
+	Bis 90 Zentimeter (widersprüchliche Quellen nennen Dicken bis 3 Meter)
+	umstritten4
 
-Biomasse (Trockengewicht)
-	bis zu 7,8 kg/m²
-	Anteilig: 57 % Rhizom, 29 % Halm, 13 % Dolde, 1 % Wurzeln (gesichert)22.
+Zweige (Dicke)
+	5 bis 10 Zentimeter
+	gesichert2
 
-Durchmesser Rhizom
-	2 bis 6 cm
-	Holzig, kriechend, mit schwarzen Schuppen bedeckt (gesichert)10.
+Zweige (Struktur)
+	Meist 4-kantig (selten 3- bis 5-kantig), Flügel bis 2,5 Zentimeter breit, Segmentierung alle 15 bis 25 Zentimeter
+	gesichert2
 
-Durchmesser Blütenstand
-	30 bis 80 cm
-	Endständige Dolde (Umbelle) (gesichert)10.
+Kantenstruktur
+	Flache Zähne im Abstand von 1 bis 1,5 Zentimetern
+	gesichert2
 
-Tausendkorngewicht (Samen)
-	0,1252 g
-	Nährstoffreserve für Keimung (gesichert)19.
-Morphologische Details und Alltagsvergleiche: Der Halm (Culm) der Papyrus-Staude besteht aus einem einzigen, ununterbrochenen Internodium, welches strukturell das längste bekannte Internodium im gesamten Pflanzenreich darstellt (gesichert)9. Die maximale Halmlänge von 9 Metern am Naivashasee entspricht mathematisch exakt dem 4,5-fachen einer standardisierten Türhöhe (2,0 m). Der Halmdurchmesser an der Basis (bis zu 18 cm) entspricht in der Größenordnung der Distanz einer aufgespannten menschlichen Hand (gesichert)9.
-Der Halmquerschnitt ist dreieckig (trigonal) mit stark abgerundeten Kanten, besonders im basalen Bereich (gesichert)9. Die Oberfläche ist glatt und von grüner Farbe, was dem Halm die Funktion als primäres Photosyntheseorgan zuweist. Im Inneren befindet sich ein massives, schwammiges Mark (Parenchym) von cremeweißer bis hellbrauner Farbe, das einen hohen Anteil an Zellulose und interzellulären Lufthohlräumen aufweist (gesichert)1. Da der Halm keine Knoten (Nodien) besitzt, ist das Mark frei von harten Partikeln, was historisch die Verarbeitung zu Papier begünstigte (gesichert)10.
-Die Pflanze ist an fruchtbaren Trieben nahezu blattlos. Die Blätter sind stark reduziert und manifestieren sich als papierartige, rotbraune bis schwarze, dreieckige Scheiden (Größe: 5 bis 10 cm mal 5 bis 10 cm), die die jüngeren Teile des Rhizoms und die basalen 50 cm des Halms umschließen (gesichert)9.
-Der endständige Blütenstand wird von bis zu 12 lanzettlichen, blassbraunen Hüllblättern gestützt, die 10 bis 15 cm lang und 12 bis 25 mm breit sind (gesichert)10. Aus diesem Zentrum entspringen 50 bis 360 ungleiche, grüne, flexible Strahlen mit einer Länge von 10 bis 40 cm und einer Breite von 1 bis 5 mm (gesichert)9. An den Enden dieser Strahlen sitzen kleine, doldenartige Cluster von 1 bis 3 cm langen, länglich-zylindrischen Ährchen, die im Reifezustand braune, nussartige Früchte (Achenen) produzieren (gesichert)9.
+Dornschildchen
+	8 Millimeter Länge mal 7 Millimeter Breite, stark verkorkend
+	gesichert2
+
+Dornen (pro Schildchen)
+	1 starkes Paar (5 Millimeter lang); 1 flexibles Nebenblattdornen-Paar (1,5 Millimeter lang, schnell abfallend)
+	gesichert2
+
+Infloreszenz (Cyathien)
+	4 Millimeter mal 9 Millimeter, becherförmig, gruppiert (1 bis 6 pro Astende)
+	gesichert2
+
+Nektardrüsen
+	5 Stück pro Cyathium, goldgelb, elliptisch, 2 Millimeter mal 4 Millimeter
+	gesichert2
+
+Frucht (Kapsel)
+	8 Millimeter mal 12 Millimeter, fast kugelförmig, grün zu rot verfärbend, fleischig, vor dem Aufspringen verhärtend
+	gesichert2
+
+Samen
+	3 Millimeter Durchmesser, kugelförmig, graubraun mit hellbraunen Flecken
+	gesichert2
+Daten zum Gesamtgewicht der Pflanze oder spezifische Alltagsvergleiche für die Ausmaße, die sich aus den Quellen berechnen ließen, liegen nicht vor (gesichert).
 3. Der Mechanismus
-Das primäre biologische Prinzip, das Cyperus papyrus auszeichnet und zu einer ökologischen Schlüsselart macht, ist seine Kapazität als hocheffizienter biogeochemischer Filter und Nährstoffpuffer. Dieser Mechanismus resultiert aus einer Kombination von physischer Wuchsform und dem C4-Photosyntheseweg (gesichert)2.
-Die ökologische Kausalkette: Der Filtermechanismus verläuft über eine deterministische Serie von Interaktionen zwischen Hydrologie, Morphologie und Pflanzenphysiologie (gesichert)23:
-Hydrologische Verlangsamung (Sedimentation): Zufließende Flüsse, wie der Malewa am Naivashasee, divergieren vor dem Eintritt in den offenen See in ein dendritisches (verzweigtes) Muster. Das Wasser zirkuliert unter den dichten, schwimmenden Matten der Papyrusbestände hindurch (gesichert)23. Die hohe Dichte der Rhizome und Halme erzeugt physische Reibung, die die Fließgeschwindigkeit des Wassers drastisch reduziert. In der Folge fallen suspendierte Feststoffe und Sedimente aus der Wassersäule aus und lagern sich im Sumpf ab (gesichert)23.
-C4-Metabolismus und Biomasseproduktion: Cyperus papyrus besitzt die sogenannte Kranz-Anatomie, eine spezifische zelluläre Anordnung, die an den C4-Stoffwechsel gekoppelt ist (gesichert)2. In Kombination mit großen interzellulären Lufthohlräumen im Halm ermöglicht dies ein effizientes CO2-Recycling und verhindert die ineffiziente Photorespiration. Dies führt zu einer extremen Nettoprimärproduktion. Die absoluten Wachstumsraten (Trockengewicht) erreichen unter natürlichen Bedingungen 40 g/m² pro Tag, in Hydrokultur-Experimenten bis zu 125 g/m² pro Tag (gesichert)22. Die jährliche Nettoprimärproduktion in Naivasha wird auf 6,28 kg Trockenmasse pro m² beziffert (gesichert)23.
-Assimilation und Denitrifikation: Um diese Biomasse aufzubauen, entzieht die Pflanze dem durchfließenden Wasser in großem Maßstab gelöste Nährstoffe. In den tieferen, anoxischen Schichten der Sumpfmatten findet parallel mikrobielle Denitrifikation statt, bei der Stickstoff aus dem System entfernt wird (gesichert)23.
-Verzögerte Nährstoffabgabe: Die filtrierten Nährstoffe sind in der pflanzlichen Biomasse gebunden. Erst nach dem Absterben der Pflanzenteile (Seneszenz) werden diese über einen wesentlich längeren Zeitraum und in stark gepufferter, oft organisch gebundener Form in das Freiwasser abgegeben (gesichert)23.
-Quantifizierende Daten des Mechanismus:
-Die Filterwirkung ist durch diverse Studien mit konkreten Zahlen belegt:
-Die Aufnahmekapazität erreicht in Spitzenzeiten bis zu 1.100 kg Stickstoff pro Hektar und Jahr sowie 50 kg Phosphor pro Hektar und Jahr (gesichert)23.
-Die reine Stickstofffixierung in den oberen, aeroben Schichten der Matten beträgt mindestens 567 kg N pro Hektar und Jahr (gesichert)23.
-Tägliche Nährstoffaufnahmeraten summieren sich auf 7,1 kg N pro Hektar und Tag sowie 0,24 kg P pro Hektar und Tag (gesichert)26.
-Die Evapotranspirationsrate (Wasserverdunstung durch die Pflanze) der Papyrusbestände entspricht 200 bis 250 % der potenziellen Verdunstung einer vergleichbaren, freien Wasseroberfläche (gesichert)24.
-Zerstörung der Kausalkette: Der Mechanismus ist anfällig für hydrologische Veränderungen. Sinkt der Seespiegel (etwa durch Wasserentnahme für Landwirtschaft), stranden die ehemals schwimmenden Sumpfmatten auf dem Trockenen. Dadurch erhalten große Herbivoren (Kaffernbüffel, Rinder) und Menschen (Ernte) Zugang zu der zuvor unzugänglichen Uferzone. Fraßdruck und Trittschäden zerstören die Pflanzenstruktur. In der Folge entfällt die Filterwirkung; Sedimente und Nährstoffe strömen ungehindert in den See, was zur Eutrophierung führt (gesichert)23.
-Erforschungsgeschichte des Mechanismus: Die physikalischen und chemischen Eigenschaften dieses Systems wurden maßgeblich durch den Ökologen John J. Gaudet in den Jahren 1976 bis 1979 in einer Serie von Studien am North Swamp des Naivashasees quantifiziert (gesichert)23. Die maximalen Stickstoffaufnahmekapazitäten von 1.100 kg/ha/Jahr wurden in einer separaten Studie von Brix (1994) ermittelt (gesichert)23. Die Berechnungen der Nettoprimärproduktion stammen von Jones und Muthuri (1997) (gesichert)23.
-Zusätzlich reagiert der Klonalisierungsmechanismus der Pflanze auf Sedimentation. Eine Studie (2018) zeigte, dass C. papyrus bei hoher Sedimentation in einen "Phalanx-Wuchsmodus" wechselt (dichte Klumpenbildung, kürzere Halme, geringerer Durchmesser), während bei geringer Sedimentation ein ausbreitender "Guerilla-Modus" (spärlichere, weitreichendere Triebe) eingenommen wird (gesichert)29.
+Die botanische und ökologische Relevanz der Euphorbia candelabrum manifestiert sich in ihrem Abwehrsystem: Einem hochkomplexen, biochemischen Verteidigungsmechanismus, der auf der Produktion und Exsudation von toxischem Milchsaft (Latex) basiert (gesichert)4.
+Der primäre Wirkmechanismus wird durch sogenannte Ingenol-Diterpenester und deren Derivate angetrieben (gesichert)4. Kommt es zu einer physischen Beschädigung der sukkulenten Rinde – sei es durch Herbivorie, Insektenfraß oder durch Werkzeuge von Menschen – wird der innere Gewebedruck freigesetzt und der Latex tritt in großen Mengen aus (gesichert)6. Der Latex besteht zu etwa 12,5 Prozent aus Kautschuk (Rubber) und weist eine stark klebrige Konsistenz auf, die Wunden der Pflanze versiegelt und gleichzeitig Fraßfeinde abwehrt (gesichert)4.
+Die ökologische Kausalkette der Toxizität verläuft wie folgt:
+Das Aufbrechen der Epidermis führt zum mechanischen Austritt des Ingenol-Diterpenester-haltigen Latex.
+Gelangt dieser Latex in Kontakt mit den Schleimhäuten von Säugetieren, insbesondere den Augen, induzieren die Diterpenester eine hochakute, zelluläre Entzündungsreaktion.
+Diese Entzündungsreaktion manifestiert sich als schwere Keratokonjunktivitis (Horn- und Bindehautentzündung), welche zu temporärer oder permanenter, sofortiger Erblindung führt (gesichert)4.
+Bei direktem Hautkontakt resultieren ausgeprägte Blasenbildungen und Irritationen der Epidermis (gesichert)4.
+Die wissenschaftliche Erforschung der toxikologischen Parameter erfolgte unter anderem an Labormäusen. In einem Mäuseohr-Test wurde für den Latex kultivierter Pflanzen aus Großbritannien eine mittlere irritative Dosis () von 1,6 Mikrogramm pro 5 Milliliter nach einer Expositionszeit von 4 Stunden ermittelt. Diese Werte attestieren dem Latex eine moderate bis starke Reizwirkung, die jener von Euphorbia tirucalli gleicht, jedoch schwächer ausfällt als die von Euphorbia ingens (gesichert)4.
+Paradoxerweise weisen genau diese phytochemischen Verbindungen ein hohes pharmakologisches Potenzial auf. In molekularbiologischen Studien wurde nachgewiesen, dass Ingenol-Diterpenester stark tumorfördernde (kokarzinogene) Eigenschaften besitzen, gleichzeitig aber auch signifikante Anti-HIV- und Anti-Leukämie-Aktivitäten entfalten (gesichert)4. Die chemische Synthese und biologische Evaluierung von Ingenol-Analoga ist infolgedessen ein andauernder Fokus der phytomedizinischen Forschung (gesichert)4.
 4. Ökologie und Verhalten
-Lebensraum und klimatische Toleranzen: Cyperus papyrus besiedelt flache Süßwasserseen, Flussmündungen, permanent oder saisonal überflutete Sumpfgebiete sowie Feuchtwiesen. Die Art ist von der Küste bis in Höhenlagen von 2.335 m anzutreffen, geographisch zentriert auf die Äquatorialzone zwischen 17° nördlicher und 29° südlicher Breite (gesichert)9. Der bevorzugte pH-Wert des Wassers liegt zwischen 6,0 und 8,5 (gesichert)19. Klimatisch toleriert die Pflanze tropische Regenwaldklimate (Af), Monsunklimate (Am) sowie Feuchtsavannenklimate (Aw), reagiert jedoch empfindlich auf lange Dürreperioden ohne Grundwasseranschluss (gesichert)19.
-Fortpflanzung und Wuchsverhalten: Die Fortpflanzung erfolgt dual: Vegetativ durch das schnelle Wachstum des kriechenden Rhizoms (klonale Regeneration) sowie generativ durch die Verbreitung von Samen (gesichert)30. In intakten Feuchtgebieten ist die Konkurrenzkraft von Papyrus so hoch, dass er das Habitat vollständig dominiert. Forscher beschreiben das Innere von reifen Papyrussümpfen aufgrund der absoluten Dominanz der Art als "virtuelle Monokultur" (gesichert)23.
-Saisonale Muster (Fokus: 24. September bis 12. Oktober): Diese Zeitspanne markiert in Kenia das Ende der langen Trockenzeit und den direkten Übergang in die kleine Regenzeit (Oktober-November) (gesichert)32.
-Ende September verzeichnet der Naivashasee hydrologisch meist den Jahrestiefststand. Für die Papyrusbestände bedeutet dies Trockenstress. Die Wachstumsrate der Halme (im Jahresmittel ca. 1,4 bis 2,5 cm pro Tag) erreicht ein Minimum, und die Mortalität durch natürliche Seneszenz (Absterben der Halme) dominiert mit bis zu 64 % der Gesamtmortalität das Bestandsbild (gesichert)33.
-In dieser Niedrigwasserphase ist der Fraßdruck durch einwandernde Wildtiere (z.B. Kaffernbüffel) sowie die menschliche Ernte von Biomasse am höchsten, da die Uferzonen trockengefallen und leicht passierbar sind (gesichert)23. Insekten- und Nagetierbefall machen weitere 19 % der Halmmortalität aus (gesichert)33.
-Anfang Oktober, mit den ersten Niederschlägen, beginnt ein rapider Anstieg des Wasserspiegels. Sedimente und Nährstoffe aus dem Einzugsgebiet werden in den Sumpf gespült, was das Wachstum neuer vegetativer Triebe aus den Rhizomen initiiert (gesichert)33.
-Abhängige Arten (Ökologische Nische): Das dichte, fünf Meter hohe Halmgeflecht bildet ein spezialisiertes Mikroklima und bietet Schutz vor Raubtieren, weshalb eine spezifische Fauna obligat an Papyrussümpfe gebunden ist (gesichert)34.
-
-Art (Deutsch / Englisch)
-	Wissenschaftlicher Name
-	Beziehung / Status
-
-Papyrus-Grasmücke (Papyrus Yellow Warbler)
-	Chloropeta gracilirostris (Syn. Calamonastides gracilirostris)
-	Endemisch im Papyrus. Status: Vulnerable (IUCN) (gesichert)36.
-
-Papyruswürger (Papyrus Gonolek)
-	Laniarius mufumbiri
-	Endemisch in Papyrus-habitaten (gesichert)34.
-
-Papyruszistensänger (Carruthers's Cisticola)
-	Cisticola carruthersi
-	Endemisch in Papyrus-habitaten (gesichert)34.
-
-Weißflügel-Buschsänger (White-winged Swamp Warbler)
-	Bradypterus carpalis
-	An Papyrus gebunden (gesichert)34.
-
-Papyrusgirlitz (Papyrus Canary)
-	Crithagra koliensis
-	An Papyrus gebunden (gesichert)34.
-
-Großer Rohrsänger (Greater Swamp Warbler)
-	Acrocephalus rufescens
-	In Schilf- und Papyruszonen heimisch (gesichert)34.
-
-Sitatunga-Antilope
-	Tragelaphus spekeii
-	Nutzt Papyruszonen als Rückzugsraum (gesichert)35.
+Die Kandelaber-Wolfsmilch ist ein charakteristisches Florenelement der Trockengebiete Afrikas und weist eine Verbreitung auf, die sich vom Sudan, Äthiopien und Somalia im Norden bis in die Demokratische Republik Kongo, Sambia und Simbabwe im Süden erstreckt (gesichert)4.
+Innerhalb Kenias besiedelt die Art sowohl laubabwerfende Trockenwälder als auch immergrüne Waldgesellschaften in Höhenlagen von 0 bis 2.200 Metern (gesichert)3. Sie präferiert gut drainierte Böden und toleriert Sandböden, Tonböden sowie Korallensubstrate (gesichert)6. Häufig ist sie auf exponierten Felsvorsprüngen, an Schluchtkanten, in Dickichten oder in Assoziation mit Termitenhügeln zu finden (gesichert)6.
+Ende September bis Anfang Oktober markiert in Kenia den Übergang von der langen Trockenzeit zur kurzen Regenzeit. In diesem meteorologischen Fenster befindet sich Euphorbia candelabrum in einer vegetativen Prä-Blüte-Phase. Da der Baum keine echten Laubblätter ausbildet, vollzieht sich der Stoffwechsel und die Photosynthese kontinuierlich über die stark chlorophyllhaltigen, dicken Stämme und Zweige, um Wasserverluste durch Transpiration zu minimieren (gesichert)6. Die eigentliche Blütezeit beginnt in Regionen wie dem westlichen Kenia und der Nyanza-Provinz im November, wobei kleine, grüngelbe, fleischige Blüten in Gruppen von vier bis sechs gebildet werden (gesichert)6.
+Trotz der starken chemischen Abwehrmechanismen existieren interspezifische Abhängigkeiten. Elefanten interagieren gezielt mit dieser Art: Sie fällen den gesamten Baum, verzehren ihn jedoch nicht sofort. Der Stamm wird für einen bis zwei Monate liegen gelassen, bevor das Pflanzenmaterial gefressen wird (gesichert)6. Dieser Vorgang wird ökologisch als eine Strategie interpretiert, um das Ausdampfen oder die biochemische Zersetzung des toxischen Latex abzuwarten, bevor das Gewebe konsumiert wird (vermutet). In felsigen Biotopen wie dem Nakuru- oder Samburu-Ökosystem nutzen Paviane die flachen Baumkronen als Ruhepunkte (gesichert)14. Sobald die Blühphase im Spätjahr einsetzt, produzieren die Cyathien große Mengen an Nektar, der primär von Bienen gesammelt wird. Der aus diesem Nektar resultierende Honig enthält jedoch toxische Alkaloide und führt beim Menschen zu einem starken Brennen im Mundraum, das durch die Aufnahme von Wasser intensiviert wird (gesichert)4. Die Fortpflanzung geschieht primär durch Samen, die aus reifen Samenkapseln mit einem hörbaren Knall herausgeschleudert werden und unter den Mutterbäumen oder im Dickicht leicht keimen; ebenso ist eine vegetative Vermehrung durch abgebrochene Äste möglich (gesichert)6. Tagesrhythmische Verhaltensweisen (z. B. Spaltöffnungsdynamiken) sind nicht gesichert dokumentiert.
 5. Menschen und Kultur in Kenia
-Nutzung (Material, Handwerk, Industrie): Historisch ist die Nutzung von Papyrus tief verwurzelt, vornehmlich bei der Papierherstellung in der Antike, bei der das Zellulose-reiche Mark in Streifen geschnitten und gepresst wurde (gesichert)1. Im heutigen Kenia erfolgt die Ernte hauptsächlich in Subsistenzwirtschaft und auf lokaler kommerzieller Ebene. Die faserigen Außenschichten der Halme werden im Viktoriaseebecken (z.B. Yala Swamp, Siaya- und Busia-Distrikt) zu Matten, Körben, Seilen, Dächern und Fischreusen verarbeitet (gesichert)10. Die geflochtenen Produkte werden auf lokalen Märkten zu Preisen zwischen 100 und 350 Kenia-Schilling (Ksh) gehandelt (Dokumentation: 1998) (gesichert)40. Aufgrund der hohen Schwimmfähigkeit der Stängel werden sie in den Sumpfregionen zur Konstruktion von Booten und Flößen gebündelt (gesichert)9. Getrocknete Halme und Rhizome dienen als Brennmaterial, generieren jedoch extrem viel Rauch und Asche, weshalb sie fast ausschließlich in der lokalen Getränkeherstellung (Cottage Industries) und nicht zum Kochen im Haushalt verwendet werden (gesichert)10. Industrielle Anwendungen umfassen die Verarbeitung zu Isolationsmaterial für Metalldächer. Eine innovative Nutzung in ostafrikanischen Flüchtlingscamps beinhaltet die Vermischung von Papyrusmark mit Altpapier und Wasser zur Herstellung von Damenbinden (gesichert)10.
-Nutzung (Nahrung und Medizin): Als Nahrungsquelle in Krisenzeiten oder als Snack wird das kohlenhydratreiche Mark roh oder gekocht gegessen oder ähnlich wie Zuckerrohr gekaut. In einigen Regionen wurde historisch aus der Asche verbrannter Pflanzen ein pflanzliches Salz gewonnen (gesichert)10. In der ostafrikanischen Medizin ist die Nutzung von Papyrus für spezifische Leiden dokumentiert:
-Blätter werden traditionell zur Behandlung von Ödemen eingesetzt (überliefert)10.
-In Tansania wird ein Dekokt aus der Wurzel, kombiniert mit dem Blattsaft von Maytenus senegalensis, zur Behandlung von weiblicher Sterilität verabreicht (überliefert)10.
-In Uganda verwendet man die Asche des verbrannten Blütenstandes zur Therapie von Vaginal- und Rektalprolaps (überliefert)10.
-Rolle in Mythos, Sprichwort oder Ritual:
-Unbekannt. In den ausgewerteten anthropologischen und ethnobotanischen Quellen liegen keine Belege für Legenden, Sprichwörter oder religiöse Rituale im Zusammenhang mit Cyperus papyrus bei kenianischen Gemeinschaften vor.
-Konflikte mit Menschen und ökologischer Status: Cyperus papyrus unterliegt einem immensen anthropogenen Druck, der vorrangig aus Landnutzungskonflikten resultiert. Eine systematische Untersuchung am Naivashasee belegt, dass eine Ernte der Papyrushalme im 6-Monats-Rhythmus zu einem massiven Rückgang von oberirdischer Biomasse, Halmdichte und Halmdurchmesser führt. Eine nachhaltige Nutzung erfordert Erntezyklen von mindestens 12 Monaten, um dem Bestand eine vollständige Regeneration (bis zur natürlichen Seneszenz der Halme) zu ermöglichen (gesichert)25. Der gravierendste Konflikt ist jedoch die direkte Zerstörung des Habitats. Die Wasserentnahme für die stark wachsende Hortikultur (Schnittblumen, Gemüse) im Becken des Naivashasees führt zum Absinken der Pegel (gesichert)28. Der North Swamp, einst eine 11,7 km² große, geschlossene Papyrusfläche, wurde stark fragmentiert (gesichert)23. In einer Vergleichsstudie am Naivashasee (1973/74 vs. 2009/10) wurde in der Drawdown-Zone ein Verlust von 48 % der Pflanzenarten dokumentiert. Cyperus papyrus verlor an diesen Standorten seine Fähigkeit, permanente Randbestände zu bilden. Die entstehenden Lücken im Ökosystem wurden von invasiven Unkräutern wie dem Knöllchen-Zypergras (Cyperus rotundus) und der Gewöhnlichen Kratzdistel (Cirsium vulgare) besiedelt, welche das Keimen einheimischer Pflanzen durch Allelopathie (Ausscheidung hemmender Substanzen) aktiv unterdrücken (gesichert)27.
-Historische Ereignisse: Eine massive ökologische Dynamik zeigte sich im Jahr 1988: Nach einer dreijährigen Dürreperiode stieg der Wasserspiegel des Naivashasees rasch um einen Meter an. Dies führte zu einer explosionsartigen Massenkeimung von Papyrus auf dem gefluteten Boden (gesichert)23. Dennoch konnte sich der Bestand nicht dauerhaft stabilisieren, da der gleichzeitige Fraßdruck durch Megaherbivoren die jungen Triebe dezimierte (gesichert)23.
+Die Interaktion zwischen Mensch und Euphorbia candelabrum in Ostafrika ist vielschichtig und reicht von handwerklicher Nutzung über traditionelle Medizin bis hin zu toxikologischen Anwendungen.
+
+Anwendungsbereich
+	Details und Praxis
+	Gemeinschaft / Region
+	Status
+
+Material (Holz)
+	Das sehr leichte, dauerhafte Holz wird für den Bau von Dächern, Türen, Streichhölzern, Kisten, Mörsern, Sätteln und Musikinstrumenten verwendet.
+	Kenia allgemein
+	gesichert3
+
+Material (Imkerei)
+	Längs halbierte Stämme werden ausgehöhlt und anschließend wieder zusammengefügt, um traditionelle Bienenstöcke zu fertigen.
+	Kenia allgemein
+	gesichert3
+
+Nutzung (Treibstoff)
+	Abgestorbene Äste dienen als Feuerholz und brennen über lange Zeiträume als Lichtquelle, auch wenn der entstehende Rauch stark reizend wirkt.
+	Kenia allgemein
+	gesichert3
+
+Material (Lebendzäune)
+	Geschnittene Äste werden als natürliche, lebende Einfriedungen (Hedges) um Gehöfte gepflanzt, erfordern jedoch kontinuierliches Nachpflanzen.
+	Kenia allgemein
+	gesichert3
+
+Toxikologie (Gift)
+	Der Latex wird als essentieller Bestandteil von Pfeilgiften sowie als klebriger Vogelleim genutzt. Zerstoßene, frische Zweige werden als Fisch- und Wildtiergift in Wasserstellen geworfen.
+	Kenia, Ostafrika
+	gesichert3
+
+Humanmedizin (Malaria)
+	Der Latex wird mit tierischem Fett vermischt und als Einreibung gegen Malaria-Symptome auf den Körper aufgetragen.
+	Loita Maasai
+	gesichert4
+
+Humanmedizin (Gastrointestinal)
+	Gekochte Wurzeln, verabreicht mit Hühnerfleisch oder Pansenflüssigkeit von geschlachteten Ziegen/Rindern, dienen als starkes Emetikum (Brechmittel) gegen Bauchschmerzen, schwere Verstopfung und Unfruchtbarkeit.
+	Kenia, Tansania
+	gesichert4
+
+Humanmedizin (Geburt)
+	Ein Dekokt (Abkochung) aus dem Mark der Äste wird Frauen postpartal verabreicht, um das Ausstoßen der Plazenta zu fördern.
+	Ostafrika (allgemein)
+	gesichert4
+
+Veterinärmedizin
+	Latex wird auf Schnittwunden und Geschwüre von Rindern appliziert. Teilweise wird es mit Panseninhalt gemischt gegen Atemwegsinfektionen, Magen-Darm-Probleme und Drehkrankheit (Coenurose) angewandt.
+	Kenia, Samburu
+	gesichert4
+Trotz dieser intensiven Nutzung und potenzieller Konflikte durch die augenschädigende Toxizität bei der Abholzung ist die Spezies weit verbreitet. Die Art wurde im Jahr 2018 durch die "IUCN SSC Global Tree Specialist Group" evaluiert und auf der Roten Liste gefährdeter Arten in die Kategorie "Least Concern" (nicht gefährdet) eingestuft; die Publikation dieser Daten erfolgte in den Jahren 2019/2021 (gesichert)2. Absolute Populations- und Bestandszahlen für Kenia mit konkreten Jahresangaben liegen nicht vor (gesichert). Mythen, Überlieferungen, Sprichwörter oder religiöse Rituale, die explizit an diese Art geknüpft sind, sind in der zugrundeliegenden ethnobotanischen Literatur nicht verzeichnet (gesichert).
 6. Wissenschaftsgeschichte
-Die systematische Erfassung und Erforschung von Cyperus papyrus durchlief mehrere taxonomische und ökologische Paradigmenwechsel.
-Taxonomie und Erstbeschreibung:
-1753: Die gültige wissenschaftliche Erstbeschreibung lieferte Carl von Linné in seinem Werk Species Plantarum auf Seite 47, womit er die Gattung Cyperus begründete (gesichert)1.
-1883 bis 1908: Der britische Botaniker C.B. Clarke, der als Begründer der modernen Cyperologie gilt, publizierte umfassende Studien zur Familie der Sauergrasgewächse. Während er Cyperus anfangs weit fasste, schlug er in späteren Werken vor, das Taxon in sieben eigenständige Gattungen (wie Kyllinga, Pycreus oder Mariscus) zu zersplittern (gesichert)2.
-1935 bis 1936: Der deutsche Botaniker Georg Kükenthal veröffentlichte die bis heute einflussreichste und letzte vollständige Monographie der Gattung. Er verwarf Clarkes Zersplitterung weitgehend und unterteilte Cyperus im weiten Sinne (sensu lato) stattdessen in sechs Untergattungen und 61 Sektionen (gesichert)2.
-Die taxonomische Kontroverse (2010er Jahre): Die Klassifikation von Cyperus blieb über ein Jahrhundert umstritten, insbesondere bezüglich der Frage, ob Merkmale wie der C3- oder C4-Photosyntheseweg oder die Anordnung der Spelzen eine Trennung in eigene Gattungen rechtfertigen. Ein Forscherteam um Isabel Larridon und A. Muthama Muasya legte anhand von DNA-Sequenzanalysen dar, dass die abgetrennten Taxa polyphyletisch innerhalb der Hauptklade von Cyperus verschachtelt sind. Morphologische Eigenheiten haben sich unabhängig mehrfach entwickelt. Diese genetischen Daten stützen eine Rückkehr zu Linnés weit gefasstem Gattungskonzept, in das Cyperus papyrus als evolutionäre Kern-Art eingebettet bleibt (gesichert)2.
-Ökologische Erforschung:
-1976 bis 1979: Der Ökologe John J. Gaudet führte grundlegende Feldstudien am North Swamp des Naivashasees durch. Gaudet war der erste Wissenschaftler, der das Papyrus-Ökosystem nicht nur botanisch, sondern als funktionale hydrologische Einheit verstand. Er quantifizierte die Nährstoffkreisläufe, bewies die Stickstofffixierung in den Matten (567 kg/ha/Jahr) und bilanzierte den massiven Wasserverlust durch Evapotranspiration (gesichert)23.
-1994: Der Forscher Brix publizierte eine Studie, welche die Kapazität des Systems präzisierte und Spitzenwerte in der Stickstoffaufnahme von 1.100 kg/ha/Jahr ermittelte. Diese Publikation etablierte Papyrus als Modellorganismus für künstlich angelegte Feuchtgebiete (Constructed Wetlands) zur Abwasserreinigung (gesichert)23.
+Die Nomenklaturgeschichte von Euphorbia candelabrum ist geprägt von einer komplexen taxonomischen Kontroverse, die im 19. Jahrhundert begann und die Zuordnung der Art bis ins 21. Jahrhundert dominierte.
+Der Ursprung des Konflikts liegt im Jahr 1855. Der österreichische Arzt und Botaniker Friedrich Welwitsch publizierte in den "Proceedings of the Linnean Society of London" die Erstbeschreibung einer Pflanze aus Angola (Westafrika) unter dem Namen Euphorbia candelabrum (gesichert)1.
+Unabhängig davon veröffentlichte der Botaniker Theodor Kotschy im Jahr 1857 in den "Mittheilungen der Kaiserlich-Königlichen Geographischen Gesellschaft in Wien" eine Übersicht über Pflanzen des Nils und des Sudan. Darin benannte er eine Spezies als Euphorbia candelabrum Tremeau [sic], lieferte jedoch weder botanische Referenzmaterialien (Typusbelege) noch zitierte er Publikationen (gesichert)1. Kotschy bezog sich implizit auf den französischen Architekten und Fotografen Pierre Trémaux, der zwischen 1852 und 1859 botanische Kupferstiche aus dem Sudan veröffentlicht hatte (gesichert)1. Fünf Jahre später, 1862, griff der Schweizer Botaniker Edmond Boissier Kotschys Publikation auf. Er korrigierte die Schreibweise "Tremeau" zu "Trémaux", verband Kotschys Namen mit den Tafeln 13 und 14 aus Trémaux' Atlas und schuf so das bis heute geläufige Autorzitat Euphorbia candelabrum Trémaux ex Kotschy (gesichert)1. Die Illustration auf der äußersten rechten Seite der Tafel 14 von Trémaux (datiert auf 1853) dient heute als Lektotypus für diesen Namen (gesichert)1.
+Da Welwitsch den Namen Euphorbia candelabrum jedoch bereits 1855 für die angolanische Art vergeben hatte, gilt Kotschys Benennung nach den Regeln des Internationalen Codes der Botanischen Nomenklatur als illegitimes jüngeres Homonym (gesichert)1.
+Dieser Nomenklaturkonflikt führte zu einer systematischen Re-Evaluierung. Der Ostafrika-Experte P. R. O. Bally (1895–1980) vertrat in privaten Korrespondenzen an Hans-Dieter Neuwinger die These, dass die ostafrikanischen Exemplare morphologisch nicht abgrenzbar seien (überliefert)3. Im Jahr 2019 publizierten die Taxonomen P. V. Bruyns und P. E. Berry im Journal Taxon eine phylogenetische Studie, die diese Vermutung untermauerte. Sie folgerten, dass die Spezies, die über vier Jahrzehnte im Osten und Nordosten Afrikas als E. candelabrum Kotschy geführt wurde, in Wahrheit konspezifisch mit der südafrikanischen Euphorbia ingens E.Mey. ex Boiss. ist (gesichert)2.
 7. Fotografie
-Orte auf der Route: Die besten Voraussetzungen für Naturfotografie am Naivashasee bieten die Uferbereiche in der Nähe des Fisherman’s Camp, die ruhigen Lagunen an der Innenseite von Crescent Island sowie das verbleibende Mündungsdelta des Malewa-Flusses (dem historischen North Swamp) (gesichert)23.
-Tageszeit und klimatische Parameter: Die optimale Tageszeit beschränkt sich strikt auf die frühen Morgenstunden (ca. 06:15 bis 08:30 Uhr). Der Grund ist primär physikalischer Natur: Papyrus weist eine Evapotranspirationsrate von 200 bis 250 % einer offenen Wasseroberfläche auf (gesichert)24. Sobald die Sonne den Bestand erwärmt, steigen massive Mengen an Wasserdampf aus den dichten Sumpfmatten auf. Dieses Mikroklima erzeugt Hitzeflimmern (Mirages), welches die optische Leistung von langen Teleobjektiven (über 300 mm) vollständig bricht und Schärfe unmöglich macht.
-Verhalten und Fluchtdistanz:
-Der botanische Protagonist (Cyperus papyrus) ist unbeweglich, das fotografische Abwarten richtet sich daher auf die obligat assoziierte Avifauna, insbesondere die endemische Papyrus-Grasmücke und den Papyruswürger. Diese Vögel verhalten sich extrem versteckt (skulking behavior) im tiefen Inneren der Halmstruktur. Die Fluchtdistanz der Vögel ist hoch; sie meiden offene Wasserflächen und flüchten bei Annäherung vertikal in das dichte Halmgewirr. Das Zielverhalten, welches das Warten in Booten an der Sumpfkante lohnt, ist der Moment, in dem die Vögel in den Randbereich der Dolden klettern, um Insekten in den fadenförmigen Strahlen zu jagen.
-Objektiveinsatz und Verschlusszeiten:
-Pflanzenarchitektur: Für Aufnahmen des dreieckigen Querschnitts, der schuppigen Rhizome oder der Doldenstruktur genügen die 45 mm Festbrennweite oder das 26 bis 60 mm Objektiv.
-Avifauna und Teleobjektive: Das 150 bis 600 mm Objektiv ist für die Vogelfotografie im Papyrus zwingend erforderlich, da die Annäherung auf wenige Meter aufgrund des Sumpfbodens unmöglich ist. Das 100 bis 400 mm Objektiv eignet sich vorrangig für größere Motive im Uferbereich oder Aufnahmen aus unmittelbarer Bootsnähe.
-Verschlusszeiten: Das Fotografieren im Papyrus erfordert extrem kurze Belichtungszeiten. Der 5 Meter lange Halm wirkt im Wind wie ein Hebel; die Dolden schwanken permanent und schnell. Kombiniert mit den ruckartigen Sprüngen der Kleinvögel zwischen den Halmen sind Verschlusszeiten von mindestens 1/1000 s bis 1/2000 s erforderlich (insbesondere am langen Ende des 600 mm Objektivs), um Bewegungsunschärfe (Motion Blur) zu verhindern.
-Typische Fehlerquellen:
-Autofokus-Irritation: Der Autofokus von Teleobjektiven verirrt sich nahezu unvermeidlich in dem dichten, kontrastreichen Netzwerk von bis zu 360 fadenförmigen Doldenstrahlen pro Pflanze. Wenn ein Vogel hinter dieser Struktur sitzt, fokussiert die Kamera auf den Papyrus. Ein manuelles Eingreifen (Full-Time Manual Focus Override) am Objektivring ist unerlässlich.
-Kontrast-Management: Das Innere des Papyrussumpfes wirft tiefschwarze Schatten, während die glatten, äußeren Halme das Äquatoriallicht grell reflektieren. Dies führt bei Matrixmessung zu massiven Fehlbelichtungen (Vogel unterbelichtet). Spotmessung auf das Zielobjekt ist zwingend anzuraten.
+Die Kandelaber-Wolfsmilch prägt als markantes Florenelement das visuelle Profil der vorgeschlagenen Route durch das Rift Valley, bietet jedoch aufgrund ihrer Wuchsform spezifische fotografische Herausforderungen.
+An konkreten Orten sticht der Lake Nakuru Nationalpark heraus: Entlang der östlichen Uferzonen und auf den feuchteren Berghängen ("Baboon Cliff", "Lion Hill", "Out of Africa Viewpoint") formt die Art den größten zusammenhängenden Wald von Baum-Euphorbien auf dem afrikanischen Kontinent (gesichert)11. Ein weiterer prägnanter Standort ist der Hell's Gate Nationalpark. Dort konzentrieren sich die Bestände nicht als Wald, sondern wachsen vereinzelt und dramatisch aus den Felsspalten und Klippen (gesichert)27. Fotografien aus diesen beiden Arealen bieten starke landschaftliche Kontraste. (Lake Naivasha und Lake Baringo sind Teil des Rift Valleys, spezifische Euphorbien-Standorte dort lassen sich aus den Belegen jedoch nicht explizit ableiten).
+Die ideale Tageszeit beschränkt sich auf den frühen Morgen (nach Sonnenaufgang) und den späten Nachmittag. Da die vier- bis fünfkantigen Äste in der Mittagssonne extrem tiefe und harte Schatten auf sich selbst werfen, ist tief stehendes Streiflicht notwendig, um die rippenartige Textur und die rötlich verhärtenden Samenkapseln (Ende September) sauber zu durchzeichnen. Auf den Klippen von Hell's Gate bietet sich das Gegenlicht an, um die Silhouette der baumartigen Kaktusform als schwarzen Schattenriss zu isolieren.
+Da die Pflanze als Ansitzwarte dient, lohnt das Abwarten von Vögeln (beispielsweise Fischadler oder Nashornvögel) und Primaten (Paviane, Colobus-Affen) in den Kronen (gesichert)14. Da die Pflanze keine Fluchtdistanz hat, definieren die Tiere den fotografischen Abstand. Paviane und Raubvögel erfordern an stark frequentierten Orten wie Nakuru Distanzen von 10 bis 30 Metern. Für die Dokumentation fliegender Vögel, die auf den Astenden landen, sind Belichtungszeiten von 1/1000 s bis 1/2500 s notwendig, um die Bewegung der Schwingen einzufrieren (gesichert aus allgemeiner Fotografiepraxis).
+Der Einsatz der Ausrüstung erfordert klare Trennungen:
+Das 26 bis 60 mm und das 45 mm Objektiv sind prädestiniert, um den dichten Euphorbienwald am Lake Nakuru landschaftlich als Habitataufnahme zu erfassen. Typischer Fehler hier: Ein unruhiger Hintergrund, in dem die vertikalen Strukturen der Bäume im Gestrüpp untergehen.
+Die Teleobjektive (100 bis 400 mm und 150 bis 600 mm) eignen sich, um Details der Cyathien (Blüten), der verkorkten Dornschildchen oder heranfliegender Vögel aus der Distanz zu verdichten und freizustellen.
 8. Links zum Weiterlesen und Sehen
-PROTA (Plant Resources of Tropical Africa): Eine umfassende botanische und agronomische Monographie, die historische Nutzungen, physikalische Holzanatomie sowie ökologische Funktionen von Cyperus papyrus tiefgehend analysiert. URL: https://prota.prota4u.org/protav8.asp?p=Cyperus+papyrus (gesichert)10
-GBIF (Global Biodiversity Information Facility): Das internationale Biodiversitäts-Portal bietet verifizierte taxonomische Daten, Nomenklatur-Synonyme und interaktive Verbreitungskarten für Cyperus papyrus subsp. papyrus. URL: https://www.gbif.org/species/7070193 (gesichert)41
-Wissenschaftlicher Artikel (Gaudet 1979): Die digitalisierte Originalpublikation „A note on the water budget of Lake Naivasha, Kenya“, in welcher der Ökologe John J. Gaudet die Evapotranspiration und die Nährstoffkreisläufe des Papyrus-Ökosystems quantifiziert. URL: https://scispace.com/papers/a-note-on-the-water-budget-of-lake-naivasha-kenya-especially-4v299irnbd (gesichert)24
-Wikimedia Commons (Botanische Details): Ein hochauflösendes Foto, das den endständigen Blütenstand mit seinen hunderten fadenförmigen, grünen Strahlen exemplarisch und detailreich dokumentiert. URL: https://commons.wikimedia.org/wiki/File:Cyperus_papyrus_(6164529248).jpg (gesichert)42
-iNaturalist (Wuchsdichte in situ): Die fotografische Dokumentation eines stark verdichteten, drei Meter hohen Bestandes, welche die strukturelle Dominanz der Pflanze im Flachwasser illustriert. URL: https://www.inaturalist.org/observations/175733005 (gesichert)43
+Typ
+	URL
+	Kontext
+
+Fachliche Quelle
+	https://plantuse.plantnet.org/en/Euphorbia_candelabrum_(PROTA)
+	Ausführliche Datenbank der PROTA (Plant Resources of Tropical Africa) zur Morphologie, medizinischen Nutzung und den toxikologischen Eigenschaften der Pflanze.
+
+Fachliche Quelle
+	https://de.wikipedia.org/wiki/Euphorbia_candelabrum
+	Überblick über die Taxonomie, Verbreitungsgebiete, Unterarten sowie die nomenklatorische Konfliktgeschichte um Friedrich Welwitsch und Theodor Kotschy.
+
+Fachliche Quelle
+	https://apps.worldagroforestry.org/usefultrees/pdflib/Euphorbia_candelabrum_KEN.pdf
+	Detailliertes forstwirtschaftliches Datenblatt aus Kenia, das die Wachstumsbedingungen, lokalen Namen und agrarforstlichen Einsatzgebiete skizziert.
+
+Verbreitungskarte / Fachliche Quelle
+	https://www.gbif.org/taxon/3CN7W
+	Global Biodiversity Information Facility: Taxonomische Synonyme und Datensätze zur globalen Dokumentation des Typusmaterials.
+
+Fotos
+	https://www.istockphoto.com/photo/euphorbia-candelabrum-forest-in-lake-nakuru-national-park-kenya-gm182863592-13942035
+	Fotografisches Referenzmaterial, das den ungewöhnlich dichten Waldverband am Lake Nakuru illustriert.
+
+Fotos
+	https://mountainmikephotography.com/gallery/euphorbia-candelabrum-candelabra-tree/
+	Visuelle Referenz eines isolierten Baumes in offener Landschaft.
 9. Visuelle Beschreibung für eine Illustration
-The plant rises abruptly from a thick, woody, creeping rhizome that is densely armored with overlapping, papery, red-brown to black triangular scales. The towering culm forms a single, unjointed column, up to five meters tall, possessing a distinctively triangular cross-section with softly rounded edges and a smooth, vibrant green surface completely devoid of leaves. At its apex, the stem bursts into a massive, hemispherical to sub-globose umbel composed of up to 360 thin, flexible, thread-like green rays that cascade outward like a delicate feather duster.
-Detail 1 (Cross-section): A clean cut through the massive basal stem, revealing the solid, spongy, cream-white pith bordered by a dense ring of microscopic vascular bundles directly beneath the smooth green epidermis.
-Detail 2 (Inflorescence): A close-up of a single terminal ray bearing a small, elongated-cylindrical cluster of brown, nut-like spikelets subtended by thin, wiry, green bracteoles.
-Detail 3 (Rhizome and roots): The creeping rootstock exposing the thick, black, scale-like sheaths and the robust, wiry rootlets anchoring the plant deep into anoxic, muddy substrate.
-Cultural Vignette: A traditional shallow-water raft from the Lake Victoria basin, constructed by binding hundreds of buoyant, dried papyrus stems tightly together with natural fiber into a tapered, canoe-like shape.
-10. Was nicht belegt werden konnte
-Folgende spezifische Parameter aus der Fragestellung konnten auf Basis des vorliegenden Materials nicht mit belastbaren Fakten oder Quellen unterlegt werden:
-Lokale Namensgebung: Spezifische lokale oder rituelle Bezeichnungen für Cyperus papyrus in den Sprachen der Maa (Maasai), Kikuyu, Samburu, Giriama und Kamba fehlen im Datenbestand vollständig. (Hinweis: Die zitierten Namen in den Quellen bezogen sich auf andere Arten wie Kigelia africana oder Caesalpinia volkensii).
-Mythos und Sprichwort: Es existieren in den anthropologischen Aufzeichnungen keine Belege für Mythen, Legenden oder spezifische Sprichwörter kenianischer Ethnien in Bezug auf diese Pflanze.
-Audio / Tonaufnahmen: Es sind keine URLs oder Datensätze zu ornithologischen Tonaufnahmen (weder von xeno-canto noch aus der Macaulay Library) für die genannten Papyrus-Endemiten im Quellenmaterial enthalten.
-Fluchtdistanz der Pflanze: Die Angabe einer Fluchtdistanz ist in der Botanik obsolet; für die flüchtenden Vogelarten fehlen im Material exakte, metrisch quantifizierte Distanzangaben (z.B. in Metern).
+The Euphorbia candelabrum stands as a monumental, succulent tree, anchored by a robust, grey, roughly fissured bole that can reach nearly a meter in diameter before rapidly diverging. From about three meters upward, this central trunk splinters into a dense, broadly rounded crown resembling an immense, geometric candelabra. The fleshy, vertical branches are strictly upright, lacking any foliage, and are strongly four-angled with deep constrictions occurring every 15 to 25 centimeters, creating an articulated, sausage-like appearance. The surfaces are a pale green-grey, lined precisely along the outer ridges with shallow teeth and rigid thorns, affording the plant a rigid, architectural severity rather than fluid botanical curves.
+Details for illustration:
+Spine Shield & Thorns: A small, aggressively corky protrusion (8 by 7 mm) on the branch ridge, bearing two stout, dark, rigid spines pointing directly outward, each 5 mm long.
+Fruit / Seed Capsule: A small (8 by 12 mm), fleshy, shallowly three-lobed capsule transitioning from pale green to a bruised, dull red hue, hanging from a short pedicel.
+Cyathium (Inflorescence): A microscopic, cup-shaped cluster nestling tightly in the axils of the thorns, bordered by five striking, golden-yellow, transversely elliptical nectar glands.
+Cultural Vignette:
+A traditional, cylindrical Kenyan beehive, fashioned from a longitudinally halved and hollowed-out segment of the Euphorbia trunk, tightly bound back together with natural fiber rope and suspended high in the branches of a neighboring acacia tree.
+10. Was du nicht belegen konntest
+Trotz intensiver Datenextraktion konnten bestimmte Parameter, die in der Anfrage gefordert wurden, nicht durch die zugrunde liegenden Quellen verifiziert werden. Diese Leerstellen sind wie folgt dokumentiert:
+Lake Naivasha und Lake Baringo: Beide Orte wurden in der Nutzeranfrage als Teil der Route genannt. Die vorhandenen Publikationen und Reiseberichte referenzieren jedoch ausschließlich die Bestände am Lake Nakuru (Wald) und Hell's Gate Nationalpark (Klippen). Eine spezifische Dokumentation der Art für Naivasha und Baringo liegt nicht vor.
+Wörtliche Bedeutung der lokalen Namen: Die sprachliche Herkunft oder direkte Übersetzung der Namen aus den Sprachen Maa (Olpopong'i), Kikuyu (Kithuri), Samburu (Sirai), Giriama (Kithongothongo), Luo (Bondo) und Kamba (Kyaa, Kithu) ist in den Datensätzen nicht aufgeführt.
+Bedeutung und Etymologie des Namens Euphorbia: Während die Ableitung von candelabrum geklärt ist, wurde die Herkunft des Gattungsnamens (historisch benannt nach dem griechischen Arzt Euphorbus) in den Texten nicht explizit beleuchtet.
+Alltagsvergleich für Maße und Gesamtgewicht: Ein expliziter, quantifizierbarer Alltagsvergleich (wie die Höhe einer Tür oder Fläche eines Fußballfeldes) sowie biometrische Daten zum absoluten Gewicht eines ausgewachsenen Baumes fehlen vollständig.
+Tagesrhythmus (Diurnale Muster): Spezifische ökophysiologische Daten über den 24-Stunden-Zyklus der Pflanze (wie das tageszeitliche Öffnen der Spaltöffnungen, was bei Sukkulenten typischerweise nachts erfolgt) sind nicht belegt.
+Bestandszahlen mit Jahresangabe: Zwar wird der Schutzstatus der IUCN für 2018 dokumentiert, doch fehlen jegliche Zählungen, Dichtemessungen oder absolute Populationsgrößen für das Land Kenia.
+Mythen, Legenden und Sprichwörter: Abseits der strikt medizinischen und materiellen Nutzung wurden keine kulturellen Narrative, Volksmärchen oder Sprichwörter aufgezeichnet, die sich direkt um den Baum ranken.
 Works cited
-Papyrus in Ancient Egypt: Making It and the World's Oldest Papyri, https://africame.factsanddetails.com/article/entry-158.html
-2. Names of subdivisions of Cyperus - ResearchGate, https://www.researchgate.net/profile/Isabel-Larridon/publication/233597555_Nomenclature_and_typification_of_names_of_genera_and_subdivisions_of_genera_in_Cypereae_Cyperaceae_2_Names_of_subdivisions_of_Cyperus/links/004635204baa4a7fa4000000/Nomenclature-and-typification-of-names-of-genera-and-subdivisions-of-genera-in-Cypereae-Cyperaceae-2-Names-of-subdivisions-of-Cyperus.pdf
-Cyperus papyrus - GBIF, https://www.gbif.org/taxon/33D3R
-Cyperus papyrus L. - GBIF, https://www.gbif.org/pt/species/2716311
-Cyperus - Wikipedia, https://en.wikipedia.org/wiki/Cyperus
-The Gardener's Botanical: An Encyclopedia of Latin Plant Names, https://dokumen.pub/the-gardeners-botanical-an-encyclopedia-of-latin-plant-names-with-more-than-5000-entries-9780691209135.html
-Ciperacee - Summa Gallicana, https://www.summagallicana.it/lessico/c/Ciperacee.htm
-File:01756 - Cyperus papyrus (Papyrus-Staude).JPG, https://commons.wikimedia.org/wiki/File:01756_-_Cyperus_papyrus_(Papyrus-Staude).JPG
-سعد البردي - المعرفة, https://www.marefa.org/%D8%B3%D8%B9%D8%AF_%D8%A7%D9%84%D8%A8%D8%B1%D8%AF%D9%8A
-Cyperus papyrus - PROTA4U, https://prota.prota4u.org/protav8.asp?p=Cyperus+papyrus
-Fimbristylis - PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/search.aspx?taxon=&vernname=&show=10&page=1&allfields=Fimbristylis
-Cyperus papyrus - Wikimedia Commons, https://commons.wikimedia.org/wiki/Cyperus_papyrus
-COMMON NAMES OF ANGOLAN PLANTS, https://www.isptundavala.ao/_files/ugd/a09383_1ff61a46a9c84f3483a4e5df6f0855ef.pdf?index=true
-Kikuyu, chepkurbet-Kipsigis, nandebe-Luhya and ol ... - Facebook, https://www.facebook.com/martinez.odhiambo.16/photos/2150327518793127/
-Caesalpinia volkensii: A Plant of Culture, Tradition and Indigenous, https://www.facebook.com/africanplantresearchcentre/posts/caesalpinia-volkensii-a-plant-of-culture-tradition-and-indigenous-knowledgeknown/1360027109641021/
-just a recap on Carissa spinarum whose common names are, https://www.facebook.com/mudhumenimumukuru/posts/just-a-recap-on-carissa-spinarum-whose-common-names-are-mudyabveni-or-mudzambara/959526369707955/
-A dictionary of English names of plants applied in England and, https://archive.org/download/dictionaryofengl00mill/dictionaryofengl00mill.pdf
-East African Medicinal Plant Dictionary | PDF - Scribd, https://www.scribd.com/document/893136916/Botanical-Medicinal-Herbs-for-East-Africa
-Cyperus papyrus (papyrus) | CABI Compendium - CABI Digital Library, https://www.cabidigitallibrary.org/doi/full/10.1079/cabicompendium.17503
-What is a Genus in Cypereae: Phylogeny, Character Homology, https://lirias.kuleuven.be/retrieve/c7138863-a6be-4507-98d4-7f89ee274fb6
-Cyperus latifolius - PROTA4U, https://prota.prota4u.org/protav8.asp?p=Cyperus+latifolius
-PROSEA - Plant Resources of South East Asia, https://prosea.prota4u.org/view.aspx?id=6534
-Ecohydrological principles to underpin the restoration of Cyperus, https://ftp.itc.nl/pub/naivasha/Morrison2009.pdf
-A Note on the Water Budget of Lake Naivasha, Kenya: —especially, https://scispace.com/papers/a-note-on-the-water-budget-of-lake-naivasha-kenya-especially-4v299irnbd
-Effects of harvesting Cyperus papyrus in undisturbed wetland, Lake, https://www.researchgate.net/publication/257569233_Effects_of_harvesting_Cyperus_papyrus_in_undisturbed_wetland_Lake_Naivasha_Kenya
-A PILOT STUDY ON MUNICIPAL WASTEWATER TREATMENT, https://edepot.wur.nl/192904
-Chapter 5 The Unique Natural Resources of Lake Naivasha - Brill, https://brill.com/display/book/9789004695429/BP000015.xml
-An Earth Observation and Integrated Assessment (EOIA) approach, http://ir-library.mmarau.ac.ke:8080/bitstream/handle/123456789/9830/An%20Earth%20Observation%20and%20Integrated%20Assessment%20%28EOIA%29%20approach%20for%20the%20sustainable%20governance%20of%20a%20socio-ecological%20system%20the%20case%20of%20the%20Lake%20Naivasha%20basin%2C%20Kenya.pdf?sequence=1&isAllowed=y
-Clonal growth strategy, diversity and structure: A spatiotemporal, https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190810
-nutrient cycling and retention in - cyperus papyrus wetlands, https://api.pageplace.de/preview/DT0400.9781000530858_A42679417/preview-9781000530858_A42679417.pdf
-Papyrus Wetlands | Request PDF - ResearchGate, https://www.researchgate.net/publication/309149710_Papyrus_Wetlands
-The Lake Naivasha Hydro The Lake Naivasha Hydro-Economic, https://www.ilr1.uni-bonn.de/en/research/research-groups/economic-modeling-of-agricultural-systems/media/lana-hebamo-documentation.pdf/@@download/file/LANA-HEBAMO-documentation.pdf
-(PDF) Cyperus papyrus L. Growth Rate and Mortality in Relation to, https://www.researchgate.net/publication/309961361_Cyperus_papyrus_L_Growth_Rate_and_Mortality_in_Relation_to_Water_Quantity_Quality_and_Soil_Characteristics_in_Nyando_Floodplain_Wetland_Kenya
-Spatial vegetation heterogeneity and distribution of papyrus, https://cloud.gbif.org/africa/resource?r=papyrus_endemic_birds
-Wings of Africa - Birding by Locals, https://www.birdingbylocals.com/tour/wings-of-africa-soul-of-tanzania/
-(PDF) Effects of habitat degradation on avian guilds in East African, https://www.researchgate.net/publication/248692949_Effects_of_habitat_degradation_on_avian_guilds_in_East_African_papyrus_Cyperus_papyrus_swamps
-Wetlands, Biodiversity and the Ramsar Convention, https://www.ramsar.org/sites/default/files/documents/library/wetlands_biodiversity_and_the_ramsar_convention.pdf
-(PDF) Effect of habitat disturbance on distribution and abundance of, https://www.researchgate.net/publication/340944747_Effect_of_habitat_disturbance_on_distribution_and_abundance_of_Papyrus_endemic_birds_in_Sio_Port_Swamp_Western_Kenya
-Kenya Wetlands Atlas - Environmental Pulse Institute, http://www.enviropulse.org/documents/Kenya_Wetlands.pdf
-Determinants of Papyrus Harvesting in the Yala Swamp, Kenya, https://dlc.dlib.indiana.edu/dlc/bitstreams/700067d7-283c-4e0b-9fbd-b8f5994c46d7/download
-https://www.gbif.org/species/7070193
-File:Cyperus papyrus (6164529248).jpg - Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Cyperus_papyrus_(6164529248).jpg
-An example of why documenting invasive plants is useful - General, https://forum.inaturalist.org/t/an-example-of-why-documenting-invasive-plants-is-useful/43881
+Euphorbia candelabrum Trémaux ex Kotschy, 1857, https://tb.plazi.org/GgServer/html/DE4CD01CFFABFFC02ECFFC5BAF0EF54E
+Euphorbia candelabrum - Wikipedia, https://de.wikipedia.org/wiki/Euphorbia_candelabrum
+チュウテンカク - Wikipedia, https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF
+Euphorbia candelabrum (PROTA) - Pl@ntUse - Plantnet, https://plantuse.plantnet.org/en/Euphorbia_candelabrum_(PROTA)
+Euphorbia candelabrum or Candelabra tree | Care and Growing, http://www.consultaplantas.com/index.php/en/plants-from-d-to-l/2115-euphorbia-candelabrum-or-candelabra-tree-care-and-growing
+Euphorbia candelabrum, https://apps.worldagroforestry.org/usefultrees/pdflib/Euphorbia_candelabrum_KEN.pdf
+Euphorbia candelabrum | Interactive Suitable Tree Species, https://apps.worldagroforestry.org/suitable-tree/species/kenya/euphorbia-candelabrum
+Kenya | Interactive Suitable Tree Species Selection and, https://apps.worldagroforestry.org/suitable-tree/kenya
+Euphorbia candelabrum succulent tree characteristics - Facebook, https://www.facebook.com/groups/samburuaboriginalculturalmuseum/posts/1812195228975654/
+Euphorbia candelabrum - PROTA4U, https://prota.prota4u.org/protav8.asp?g=pe&p=Euphorbia%20candelabrum
+Euphorbia Candelabrum Forest In Lake Nakuru National Park, https://www.istockphoto.com/photo/euphorbia-candelabrum-forest-in-lake-nakuru-national-park-kenya-gm182863592-13942035
+Candelabra tree - Waterwise Garden Planner, https://waterwisegardenplanner.org/plants/euphorbia-ingens/
+Pharmacological Significance, Medicinal Use And Toxicity Of, https://www.preprints.org/manuscript/202411.1783
+Vegetation Cover of Samburu National Reserve, https://samburureserve.org/vegetation-cover-of-samburu-national-reserve/
+Ethnopharmacological survey of Samburu district, Kenya - PMC - NIH, https://pmc.ncbi.nlm.nih.gov/articles/PMC2412850/
+The nomenclature and application of the names Euphorbia, https://www.iaptglobal.org/single-post/2019/05/14/the-nomenclature-and-application-of-the-names-euphorbia-candelabrum-welw-and-euphorbia-in
+Euphorbia candelabrum | International Plant Names Index, https://www.ipni.org/n/77216595-1
+Euphorbia candelabrum Welw. - GBIF, https://www.gbif.org/taxon/8WLS3
+Lake Nakuru National Park | www.centurionsafaris.com, http://centurionsafaris.com/destinations-kenya-lake-nakuru.html
+Habitat and Ecosystems - Lake Nakuru National Park, https://lakenakurupark.org/habitat-and-ecosystems/
+KENYA LAKE SYSTEM IN THE GREAT RIFT VALLEY, http://world-heritage-datasheets.unep-wcmc.org/datasheet/output/site/kenya-lake-system-in-the-great-rift-valley/
+Lake Nakuru National Park - Flexivel Kenya Safaris, https://www.flexivelkenyasafaris.com/lake_nakuru_national_park.html
+Why Visit Lake Nakuru | Blue Mountain Safaris, https://bluemountaintrekking.com/community/blog/why-visit-lake-nakuru/
+Lake Nakuru national park, Kenya Resting squarely on the floor of, https://www.facebook.com/groups/2576804445740930/posts/9510346179053354/
+THE VEGETATION OF LAKE NAKURU NATIONAL PARK, KENYA, https://bioone.org/journals/journal-of-east-african-natural-history/volume-83/issue-1/0012-8317_1994_83_71_TVOLNN_2.0.CO_2/THE-VEGETATION-OF-LAKE-NAKURU-NATIONAL-PARK-KENYA--A/10.2982/0012-8317(1994)83[71:TVOLNN]2.0.CO;2.pdf
+Structure and diversity comparison of three dry forests at Nakuru, https://www.researchgate.net/publication/230486290_Structure_and_diversity_comparison_of_three_dry_forests_at_Nakuru_National_Park_Kenya
+Hell's Gate, Kenya: Ratings & Visitor Guide, https://www.internationalparks.org/kenya/Hell's%20Gate
+Top Kenya Tourist Attractions: Best Things to see in Kenya Africa, https://kenyasafaristours.com/kenya-attractions/
+Hell's Gate National Park - Your Trip Centre, https://www.yourtripcentre.com/hell-s-gate-national-park
+Explore Lake Nakuru National Park that boasts an abundance of, https://www.facebook.com/groups/1728276073902405/posts/25241179792185369/
