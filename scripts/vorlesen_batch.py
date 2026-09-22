@@ -25,7 +25,8 @@ Antworte am Ende nur mit einer Zeile je Kapitel: Nummer und Wortzahl der Geschic
 
 def findings(c):
     out = b.script("research_check.py", "--json", "--research", f"research/{c['nr']}.txt", f"chapters/{c['stem']}.html")
-    return {json.dumps(f, sort_keys=True) for f in json.loads(out)["befunde"]}
+    # The quote changes with every edit nearby; only kind and text tell an old finding from a new one.
+    return {f["art"] + ": " + f["text"] for f in json.loads(out)["befunde"]}
 
 
 def doubled_sentence(c):
