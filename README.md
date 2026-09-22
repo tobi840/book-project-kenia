@@ -174,13 +174,41 @@ CLAUDE.md     Arbeitsregeln fuer Agenten: Workflow-Groessen, Dateilisten,
 chapters.tsv  Nummer, Trivialname, Lebensraum fuer alle 100 Kapitel
 styleguide/   Text-Styleguide V2 und Kapitel-Template (HTML)
 prompts/      Arbeitsfassungen von P3 (Schreiben) und P4 (QS)
-research/     {nr}.txt, 76 Spiegel der Deep-Research-Docs. Es fehlen 24:
-              076 bis 078 und 080 bis 100. Das ist der Engpass des Projekts
+research/     {nr}.txt, 100 Spiegel der Deep-Research-Docs, vollstaendig
 chapters/     {nr}-{slug}.html, das Ergebnis
-qs/           {nr}-{slug}.md, Ampel plus Patch-Block
-berichte/     Pilotbericht, Re-QS und der Prozessdurchgang
-scripts/      regel_check.py, research_check.py, patch_anwenden.py
+qs/           {nr}-{slug}.md, Ampel plus Patch-Block, dazu Nachpatch,
+              Glaettung und Runde 2, wo sie gelaufen sind
+berichte/     Pilotbericht, Re-QS, Prozessdurchgang, Uebergaben
+scripts/      regel_check.py, research_check.py, patch_anwenden.py,
+              codex_batch.py, vorlesen_batch.py, buch_bauen.py
 ```
+
+## Die Bildstrecke
+
+Am 22.09.2026 mit dem Textzweig zusammengefuehrt. Beide Haelften waren bis
+dahin getrennte Historien ohne gemeinsamen Vorfahren.
+
+```
+illustrationen/  {nr}_{Trivialname}_haupt.png, ein Hauptbild je Kapitel
+illustrationen/_uebersicht/  sechs Uebersichtsboegen, je 18 Kapitel
+prompts/bilder/  der Bildprompt, mit dem das jeweilige Bild erzeugt wurde
+styleguide/03-bild-styleguide.txt
+generate_images.py
+```
+
+Bilder erzeugen (ueberspringt Kapitel, die schon ein Bild haben):
+
+    python3 generate_images.py            # alle Kapitel mit Research
+    python3 generate_images.py 036 079    # einzelne Kapitel
+
+Ein Bild neu erzeugen: PNG loeschen, Skript erneut starten.
+
+## Das Buch bauen
+
+    python3 scripts/buch_bauen.py
+
+Baut `buch/buch.html` aus Cover, Inhaltsverzeichnis und den 100 Kapiteln,
+gruppiert nach den fuenf Lebensraeumen. Jedes Kapitel traegt sein Hauptbild.
 
 ## Bekannte Einschränkung
 
